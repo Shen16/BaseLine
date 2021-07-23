@@ -1,20 +1,21 @@
-import json
-import math
-import re
-import random
-from random import randint
-from statistics import mean
-from operator import itemgetter
-from scipy.stats import linregress
-from sklearn import preprocessing
-import pandas as pd
-import numpy as np
+import json #Serialization: process of encoding data into JSON format (like converting a Python list to JSON). Deserialization: process of decoding JSON data back into native objects you can work with (like reading JSON data into a Python list)
+
+import math #To use mathematical functions
+import re #Regular Expression, The functions in this module let you check if a particular string matches a given regular expression
+import random #random number generation. random() function, generates random numbers between 0 and 1.
+from random import randint #randint() is an inbuilt function of the random module in Python3
+from statistics import mean #mean() function can be used to calculate mean/average of a given list of numbers.
+from operator import itemgetter #operator is a built-in module providing a set of convenient operators #operator. itemgetter(n) assumes an iterable object (e.g. list, tuple, set) as input, and fetches the n-th element out of it. If multiple items are specified, returns a tuple of lookup values.
+from scipy.stats import linregress #Calculate a linear least-squares regression for two sets of measurements. Parameters x, yarray_like.
+from sklearn import preprocessing #The sklearn. preprocessing package provides several functions that transform your data before feeding it to the algorithm. 
+import pandas as pd #presents a diverse range of utilities, ranging from parsing multiple file formats to converting an entire data table into a NumPy matrix array.
+import numpy as np #NumPy is a general-purpose array-processing package. It provides a high-performance multidimensional array object, and tools for working with these arrays. 
 
 dataPath = 'Data/test/testData.txt'
 titlePath = 'Data/test/testTitle.txt'
 
 # websitePath = 'results/generated_baseline'
-websitePath = 'static/generated'
+websitePath = 'static/generated' # Folder where the json file is created as the final output
 
 summaryList = []
 
@@ -68,6 +69,28 @@ def getMagnitude(normalizedSlope):
         mangitude = "slightly"
     return magnitude
 
+## shehnaz-- The functions created by me
+
+def rateOfChnage(new, old):
+                percentageChange= ((new-old)/old)*100
+                absChnage= abs(percentageChange)
+                if (absChnage>60):
+                    return "rapidly"
+                elif (absChnage>30):
+                    return "gradually"
+                elif (absChnage>0):
+                    return "slightly"
+                else:
+                    return "roughly"
+                
+def increaseDecrease(x):
+                if (x=="increasing"):
+                    return "increase"
+                elif (x=="decreasing"):
+                    return "decrease"
+                else:
+                    return "stays the same"
+
 
 # scaler = preprocessing.MinMaxScaler()
 count = 0
@@ -82,32 +105,32 @@ count = 0
 def summarize(data, name, title):
     scaler = preprocessing.MinMaxScaler()
     # count += 1
-    datum = data.split()
+    datum = data.split()  #Splits data where space is found. So datum[0] is groups of data with no space. e.g. Country|Singapore|x|bar_chart                 `
     # check if data is multi column
-    columnType = datum[0].split('|')[2].isnumeric()
+    columnType = datum[0].split('|')[2].isnumeric() #e.g. Country|Singapore|x|bar_chart, ...  x means single, numeric means multiline
 
     # print("Column Type -> " + str(columnType) + " this is -> " + str(datum[0].split('|')[2]))
 
-    if columnType:  # MULTI
+    if columnType:  # If MULTI
         labelArr = []
         chartType = datum[0].split('|')[3].split('_')[0]
 
-        values = [value.split('|')[1] for value in datum]
+        values = [value.split('|')[1] for value in datum] #for every datum take the 2nd element
 
         # print("VALUES")
         # for a in values:
         #     print(a)
 
         # find number of columns:
-        columnCount = max([int(data.split('|')[2]) for data in datum]) + 1
+        columnCount = max([int(data.split('|')[2]) for data in datum]) + 1 # The number of categories #for every datum take the 3rd element
         # Get labels
         for i in range(columnCount):
             label = datum[i].split('|')[0].split('_')
-            labelArr.append(label)
+            labelArr.append(label)   # e.g. "Year|2018|0|line_chart Export|55968.7|1|line_chart Import|108775.3|2|line_chart Year|2017|0|line_chart ==> [['Year'], ['Export'], ['Import']]
 
         # print(labelArr)
 
-        stringLabels = [' '.join(label) for label in labelArr]
+        stringLabels = [' '.join(label) for label in labelArr]  # e.g. stringLabels = ['Year', 'Export', 'Import']
 
         # print("stringLabels -> ")
         # for a in stringLabels:
@@ -116,6 +139,7 @@ def summarize(data, name, title):
         # Get values
         valueArr = [[] for i in range(columnCount)]
         cleanValArr = [[] for i in range(columnCount)]
+        
 
         print("columnCount -> " + str(columnCount))
 
@@ -128,20 +152,21 @@ def summarize(data, name, title):
             groupedLabels.append(str(stringLabels[i]).replace('_',' '))
 
 
-        print("groupedLabels")
-        for a in groupedLabels:
-            print(a)
+        # print("groupedLabels")
+        # for a in groupedLabels:
+        #     print(a)
 
 
         a = 0
         b = 0
 
-        groupedCol = int(len(values) / len(stringLabels))
-
+        groupedCol = int(len(values) / len(stringLabels)) 
+        
         row = groupedCol
         col = columnCount
-        arr = np.empty((row, col), dtype=object)
+        arr = np.empty((row, col), dtype=object) # creates a martic with rows representing each distinct x value and cols representing y values for different categories/lines (2 in this case)
         # arr[0, 0] = stringLabels[0]
+       
 
         m = 0
         n = 0
@@ -159,6 +184,8 @@ def summarize(data, name, title):
 
             n += 1
             a += 1
+            
+            #print(arr)
 
         max_row = []
         max_row_val = []
@@ -174,17 +201,22 @@ def summarize(data, name, title):
             arr2 = arr[arr[:, (i+1)].argsort()[::-1]]
             max_row.append(arr2[0][0])
             max_row_val.append(arr2[0][i+1])
+            
+        # print(max_row) # x values at which max occured for each category (e.g. ['2013', '2018'] ==> Export max occured at 2013 and Import at 2018)
+        # print(max_row_val) # y values at which max occured for each category (e.g. [91886.1, 108775.3] ==> Export max occured at 91886.1 and Import at 108775.3)
+        # print(min_row)
+        # print(min_row_val)
 
-        print("MAX")
-        for a in max_row:
-            print(a)
-        for a in max_row_val:
-            print(a)
-        print("MIN")
-        for a in min_row:
-            print(a)
-        for a in min_row_val:
-            print(a)
+        # print("MAX")
+        # for a in max_row:
+        #     print(a)
+        # for a in max_row_val:
+        #     print(a)
+        # print("MIN")
+        # for a in min_row:
+        #     print(a)
+        # for a in min_row_val:
+        #     print(a)
 
         group_max_min_without_value = (" In case of " + str(max_row[0]) + ", " + str(groupedLabels[1]) + " shows more dominance than any other " + str(groupedLabels[0]) + " and it has the lowest value in " + str(min_row[0]) + ". ")
 
@@ -227,7 +259,7 @@ def summarize(data, name, title):
         else:
             chosen_summary = group_max_min_with_value
 
-        rowCount = round(len(datum) / columnCount)
+        rowCount = round(len(datum) / columnCount) # same as groupedCols or row, with rows representing each distinct x value
         categoricalValueArr = [[] for i in range(rowCount)]
 
         i = 0
@@ -344,45 +376,58 @@ def summarize(data, name, title):
             with open(f'{websitePath}/{name}.json', 'w', encoding='utf-8') as websiteFile:
                 json.dump(websiteInput, websiteFile, indent=3)
             # oneFile.writelines(''.join(summaryArray)+'\n')
+            
+        ## for multi line charts
         elif (chartType == "line"):
             # clean data
             intData = []
+            # print(valueArr)
             # print(valueArr[1:])
-            for line in valueArr[1:]:
+            for line in valueArr[1:]: # take 2nd to end elements in valueArr array
                 cleanLine = []
                 for data in line:
                     if data.isnumeric():
                         cleanLine.append(float(data))
                     else:
-                        cleanData = re.sub("[^\d\.]", "", data)
+                        cleanData = re.sub("[^\d\.]", "", data) # Delete pattern [^\d\.] from data  where [^\d\.] probably denotes digits 
                         if len(cleanData) > 0:
-                            cleanLine.append(float(cleanData[:4]))
+                            cleanLine.append(float(cleanData[:4])) # character from the beginning to position 4 (excluded)
                         else:
                             cleanLine.append(float(cleanData))
                 intData.append(cleanLine)
                 # print(len(intData))
             # calculate mean for each line
             meanLineVals = []
-            assert len(stringLabels[1:]) == len(intData)
-            for label, data in zip(stringLabels[1:], intData):
-                x = (label, round(mean(data), 1))
+            
+            # print("stringLabels")
+            # print(stringLabels[1:])
+            # print("intData")
+            # print(intData)
+            
+            assert len(stringLabels[1:]) == len(intData) # tests if a condition is true. If a condition is false, the program will stop with an optional message
+            for label, data in zip(stringLabels[1:], intData): #zip output: \(('Export', [5596.0, 4562.0, 4875.0, 7140.0, 4325.0, 9188.0, 5565.0, 6574.0, 4827.0, 2945.0, 4252.0, 3876.0, 2867.0, 2404.0]), ('Import', [1087.0, 9410.0, 7853.0, 8865.0, 6917.0, 1034.0, 7262.0, 7509.0, 5715.0, 4458.0, 6268.0, 5996.0, 4299.0, 3742.0]))
+                x = (label, round(mean(data), 1))#round to 1 d.p
                 # print(x)
                 meanLineVals.append(x)
             sortedLines = sorted(meanLineVals,key=itemgetter(1))
             # if more than 2 lines
-            lineCount = len(labelArr) - 1
-            maxLine = sortedLines[-1]
-            index1 = stringLabels.index(maxLine[0]) - 1
-            maxLineData = round(max(intData[index1]), 2)
-            maxXValue = valueArr[0][intData[index1].index(maxLineData)]
+            lineCount = len(labelArr) - 1 # no of categories
+            
+            #The line with higest overall mean
+            maxLine = sortedLines[-1] # the category with highest overall mean
+            index1 = stringLabels.index(maxLine[0]) - 1 #index for line with max mean
+            maxLineData = round(max(intData[index1]), 2) # the max data point (y axis value) of the line with max mean
+            maxXValue = valueArr[0][intData[index1].index(maxLineData)] # the corrsponding x value for the above y value
+            
+            #The line with second higest overall mean
+            secondLine = sortedLines[-2] #line with second highest overall mean value
+            rowIndex1 = intData[index1].index(maxLineData) #the index for the max y value data point of the line with max mean
+            index2 = stringLabels.index(secondLine[0]) - 1 #index for line with second max mean
+            secondLineData = round(max(intData[index2]), 2) # the max data point (y axis value) of the line with max mean
+            secondXValue = valueArr[0][intData[index2].index(secondLineData)] ## the corrsponding x value for the above y value
+            rowIndex2 = intData[index2].index(secondLineData) #the index for the max y value data point of the line with second max mean
 
-            secondLine = sortedLines[-2]
-            rowIndex1 = intData[index1].index(maxLineData)
-            index2 = stringLabels.index(secondLine[0]) - 1
-            secondLineData = round(max(intData[index2]), 2)
-            secondXValue = valueArr[0][intData[index2].index(secondLineData)]
-            rowIndex2 = intData[index2].index(secondLineData)
-
+            #The line with the smallest overall mean
             minLine = sortedLines[0]
             index_min = stringLabels.index(minLine[0]) - 1
             minLineData = round(max(intData[index_min]), 2)
@@ -593,12 +638,12 @@ def summarize(data, name, title):
             # oneFile.writelines(''.join(summaryArray)+'\n')
 
 
-
-        # run line
+        ## for single line charts
+        # run line  
         elif (chartType == "line"):
             trendArray = []
             numericXValueArr = []
-            for xVal, index in zip(xValueArr, range(len(xValueArr))):
+            for xVal, index in zip(xValueArr, range(len(xValueArr))): # Every x value is assigned an index from 0 to 11 (e.g. xval1: 0, xval2: 1)
                 if xVal.isnumeric():
                     numericXValueArr.append(float(xVal))
                 else:
@@ -612,25 +657,145 @@ def summarize(data, name, title):
             graphTrendArray = []
             i = 1
             # calculate variance between each adjacent y values
+            # print(xValueArr)
+            # print(yValueArr)
             while i < (len(yValueArr)):
-                variance1 = float(yValueArr[i]) - float(yValueArr[i - 1])
+                variance1 = float(yValueArr[i]) - float(yValueArr[i - 1]) # 2nd yVal- Prev yVal # Note that xValueArr and yValueArr are ordered such that the start values are written at the end of the array
                 if (variance1 > 0):
-                    type1 = "negative"
+                    type1 = "decreasing" #Drop/ falls/ goes down
                 elif (variance1 < 0):
-                    type1 = "positive"
+                    type1 = "increasing" #Rise/ goes up
                 else:
-                    type1 = "neutral"
+                    type1 = "constant"  #Stays the same 
                 trendArray.append(type1)
                 i = i + 1
+                
+                
+                
+            ############# GlobalTrend ##############
+            globalDifference= float(yValueArr[0]) - float(yValueArr[len(yValueArr) - 1])
+            globalPercentChange= (globalDifference/float(yValueArr[len(yValueArr) - 1]))*100
+            # print(yValueArr)
+            # print(globalDifference)
+            # print(globalPercentChange)
+            
+            localTrendSentence1 = "This line chart has an x axis representing " + xLabel + " and a y axis representing " + yLabel + ", with a total of " + str(
+                        len(yValueArr)) \
+                                          + " data points."
+            summaryArray.append(localTrendSentence1)
+            
+            summary2= " Overall " +yLabel+ " has "
+            if globalPercentChange>0:
+                summary2 += "increased"
+            elif globalPercentChange<0:
+                summary2 += "decreased"
+            else:
+                summary2 += "constant"
+
+            summary2 += " over the " + xLabel
+            summaryArray.append(summary2)
+            
+            
+            
+            ############# LocalTrend ##############
+            varianceArray = []
+            percentArray = []
+            i = 1
+            while i < (len(yValueArr)):
+                variance1 = float(yValueArr[i - 1])- float(yValueArr[i]) # 2nd yVal- Prev yVal # Note that xValueArr and yValueArr are ordered such that the start values are written at the end of the array
+                localPercentChange= (variance1/float(yValueArr[i]))*100
+                varianceArray.append(variance1)
+                percentArray.append(localPercentChange)
+                i = i + 1
+                
+            # print(varianceArray)
+            # print(percentArray)
+        
+            
+            varianceArrayCorrectOrder = varianceArray[len(varianceArray)::-1]  ## Ordered correctly this time
+            percentArrayCorrectOrder = percentArray[len(percentArray)::-1]   ## Ordered correctly this time
+            
+            
+            print(varianceArrayCorrectOrder)
+            print(percentArrayCorrectOrder)
+  
+            trendChangeIdx = []
+            for idx in range(0, len(varianceArrayCorrectOrder) - 1):
+              
+                # checking for successive opposite index
+                if varianceArrayCorrectOrder[idx] > 0 and varianceArrayCorrectOrder[idx + 1] < 0 or varianceArrayCorrectOrder[idx] < 0 and varianceArrayCorrectOrder[idx + 1] > 0:
+                    trendChangeIdx.append(idx)
+              
+            # print("Sign shift indices : " + str(trendChangeIdx))
+            
+            yValueArrCorrectOrder = yValueArr[len(yValueArr)::-1]  ## Ordered correctly this time
+            # print(yValueArrCorrectOrder)
+            
+            xValueArrCorrectOrder = xValueArr[len(xValueArr)::-1]  ## Ordered correctly this time
+            # print(xValueArrCorrectOrder)
+            
+            trendArrayCorrectOrder = trendArray[len(trendArray)::-1]
+            # print(trendArrayCorrectOrder)
+            
+            summary3 = yLabel
+            x=0
+            for i in trendChangeIdx:
+                if (x==0):
+                    summary3 += " is " + rateOfChnage(yValueArrCorrectOrder[i+1], yValueArrCorrectOrder[0])+ " " +  trendArrayCorrectOrder[i] + " from " + xValueArrCorrectOrder[0] + " to " + xValueArrCorrectOrder[i+1] + ", "
+                elif (x== len(trendChangeIdx)-1):
+                    summary3 += rateOfChnage(yValueArrCorrectOrder[i+1], yValueArrCorrectOrder[trendChangeIdx[x-1]+1])+ " " + trendArrayCorrectOrder[i] + " from "+ xValueArrCorrectOrder[trendChangeIdx[x-1]+1] + " to " + xValueArrCorrectOrder[i+1] + ", "
+                else:
+                    summary3 += rateOfChnage(yValueArrCorrectOrder[i+1], yValueArrCorrectOrder[trendChangeIdx[x-1]+1])+ " " + trendArrayCorrectOrder[i] + " from "+ xValueArrCorrectOrder[trendChangeIdx[x-1]+1] + " to " + xValueArrCorrectOrder[i+1] + ", "
+                x= x+1
+            
+            summary3 += "and lastly " +  rateOfChnage(yValueArrCorrectOrder[-1], yValueArrCorrectOrder[trendChangeIdx[-1]+1])+ " " + trendArrayCorrectOrder[-1]+ " from " + xValueArrCorrectOrder[trendChangeIdx[-1]+1] + " to " + xValueArrCorrectOrder[-1] + "."
+            
+            summaryArray.append(summary3)
+            
+            
+            ############# Steepest Slope ##############
+              
+            # Absolute value of varianceArrayCorrectOrder elements
+            absoluteVariance =  [abs(ele) for ele in varianceArrayCorrectOrder]
+            
+            max_value = max(absoluteVariance)
+            max_index = absoluteVariance.index(max_value)
+              
+            print(absoluteVariance)
+            print(max_value)
+            print(max_index)
+            print(trendArrayCorrectOrder)
+
+            
+            summary4 = "The steepest " + increaseDecrease(trendArrayCorrectOrder[max_index]) + " occurs in between the " + xLabel + " " + xValueArrCorrectOrder[max_index] + " and "+ xValueArrCorrectOrder[max_index+1] + "."
+            summaryArray.append(summary4)
+            
+            
+            newLine= "#########################################################################"
+            summaryArray.append(newLine)
+            
+            
+            
+                
+
+            
+            
+                
+                    
+                    
+            
+            
+                
+            ##########################################################
             # iterate through the variances and check for trends
             startIndex = 0
             trendLen = len(trendArray)
             # creates dictionary containing the trend length, direction, start and end indices, and the linear regression of the trend
-            significanceRange = round(len(yValueArr) / 8)
+            significanceRange = round(len(yValueArr) / 8) ## Why divide by 8??
             significantTrendCount = 0
             significantTrendArray = []
-            for n in range(trendLen):
-                currentVal = trendArray[n - 1]
+            for n in range(trendLen): # 0 to 10 (exclusive)
+                currentVal = trendArray[n - 1] ## Traversing through the array backwards (from end to start == start to end for the chart)
                 nextVal = trendArray[n]
                 if (currentVal != nextVal or (currentVal == nextVal and n == (trendLen - 1))):
                     if (n == (trendLen - 1)):
@@ -688,12 +853,12 @@ def summarize(data, name, title):
                     graphTrendArray.append({"1":str(xValueArr.index(startVal)), "12":str(xValueArr.index(endVal))})
                     while (m < significantTrendCount):
                         # append conjunction between significant trends
-                        if (direction == "positive"):
+                        if (direction == "increasing"):
                             length = len(similarSynonyms)
                             random_lbl = randint(0, length - 1)
                             synonym = similarSynonyms[random_lbl]
                             conjunction = synonym + ","
-                        elif (direction == "negative"):
+                        elif (direction == "decreasing"):
                             length = len(contrarySynonyms)
                             random_lbl = randint(0, length - 1)
                             synonym = contrarySynonyms[random_lbl]
@@ -734,5 +899,8 @@ multi_line_data = "Year|2018|0|line_chart Export|55968.7|1|line_chart Import|108
 
 # summarize(data = bar_data, name = "bar_data", title="Test")
 # summarize(data = group_bar_data, name = "group_bar_data", title="Test")
-# summarize(data = single_line_data, name = "single_line_data", title="Test")
-summarize(data = multi_line_data, name = "multi_line_data", title="Test")
+summarize(data = single_line_data, name = "single_line_data", title="Test")
+# summarize(data = multi_line_data, name = "multi_line_data", title="Test")
+
+
+
