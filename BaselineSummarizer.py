@@ -69,7 +69,29 @@ def getMagnitude(normalizedSlope):
         mangitude = "slightly"
     return magnitude
 
+
+
+
+
+
 ## shehnaz-- The functions created by me
+
+# Initilizing constant values for the fucntions below
+
+constant_rate= 20  # avg(% chnage)*0.1 # Meaning any chnage less than 5% is considered roughly constant slope  # Determines if a trend is increasing, decreasing or constant
+significant_rate= 30 # avg(% chnage)*0.1 # Meaning any chnage >constant rate and less than this rate is considered not significant and so it's trend direction is chnaged to the trend of the succesive interval # Determines the start and end of the trend
+           
+
+def directionTrend(new, old):
+                difference= new-old
+                percentageChange= ((new-old)/old)*100
+                absChnage= abs(percentageChange)
+                if (difference>0 and absChnage> constant_rate):  #if change is significant >5%
+                    return "increasing"
+                elif (difference<0 and absChnage> constant_rate):
+                    return "decreasing"
+                else:
+                    return "constant"
 
 def rateOfChnage(new, old):
                 percentageChange= ((new-old)/old)*100
@@ -78,7 +100,7 @@ def rateOfChnage(new, old):
                     return "rapidly"
                 elif (absChnage>30):
                     return "gradually"
-                elif (absChnage>0):
+                elif (absChnage> constant_rate):
                     return "slightly"
                 else:
                     return "roughly"
@@ -90,7 +112,16 @@ def increaseDecrease(x):
                     return "decrease"
                 else:
                     return "stays the same"
+                
+def get_indexes_max_value(l):
+                max_value = max(l)
+                return [i for i, x in enumerate(l) if x == max(l)]
+            
+def get_indexes_min_value(l):
+                min_value = min(l)
+                return [i for i, x in enumerate(l) if x == min(l)]
 
+               
 
 # scaler = preprocessing.MinMaxScaler()
 count = 0
@@ -640,7 +671,7 @@ def summarize(data, name, title):
 
         ## for single line charts
         # run line  
-        elif (chartType == "line"):
+        elif (chartType == "line"):        
             trendArray = []
             numericXValueArr = []
             for xVal, index in zip(xValueArr, range(len(xValueArr))): # Every x value is assigned an index from 0 to 11 (e.g. xval1: 0, xval2: 1)
@@ -659,6 +690,8 @@ def summarize(data, name, title):
             # calculate variance between each adjacent y values
             # print(xValueArr)
             # print(yValueArr)
+            
+            ##For json's smoothing
             while i < (len(yValueArr)):
                 variance1 = float(yValueArr[i]) - float(yValueArr[i - 1]) # 2nd yVal- Prev yVal # Note that xValueArr and yValueArr are ordered such that the start values are written at the end of the array
                 if (variance1 > 0):
@@ -669,6 +702,22 @@ def summarize(data, name, title):
                     type1 = "constant"  #Stays the same 
                 trendArray.append(type1)
                 i = i + 1
+            #####
+            
+            ##Finding the direction of trend -shehnaz
+            yValueArrCorrectOrder = yValueArr[len(yValueArr)::-1]  ## Ordered correctly this time
+            # print(yValueArrCorrectOrder)
+            directionArray = []
+            i=1
+            while i <(len(yValueArrCorrectOrder)):
+                d= directionTrend(yValueArrCorrectOrder[i], yValueArrCorrectOrder[i-1]) #direction e.g. increase, decrease or constant
+                directionArray.append(d)
+                i = i + 1
+            print("Orginal Direction Trend")
+            print(directionArray)
+            
+            
+            
                 
                 
                 
@@ -716,17 +765,51 @@ def summarize(data, name, title):
             percentArrayCorrectOrder = percentArray[len(percentArray)::-1]   ## Ordered correctly this time
             
             
-            print(varianceArrayCorrectOrder)
+            # print(varianceArrayCorrectOrder)
             print(percentArrayCorrectOrder)
-  
-            trendChangeIdx = []
-            for idx in range(0, len(varianceArrayCorrectOrder) - 1):
+            
+            
+            
+            
+            ### Previously indexs reported for only increasing and decresing trends
+            # trendChangeIdx = []
+            # for idx in range(0, len(varianceArrayCorrectOrder) - 1):
               
-                # checking for successive opposite index
-                if varianceArrayCorrectOrder[idx] > 0 and varianceArrayCorrectOrder[idx + 1] < 0 or varianceArrayCorrectOrder[idx] < 0 and varianceArrayCorrectOrder[idx + 1] > 0:
-                    trendChangeIdx.append(idx)
+            #     # checking for successive opposite index
+            #     if varianceArrayCorrectOrder[idx] > 0 and varianceArrayCorrectOrder[idx + 1] < 0 or varianceArrayCorrectOrder[idx] < 0 and varianceArrayCorrectOrder[idx + 1] > 0:
+            #         trendChangeIdx.append(idx)
               
             # print("Sign shift indices : " + str(trendChangeIdx))
+            
+            ## Smoothing directionArray. If percentChange >10% then direction of trend is that of the next interval (regardless if it was increasing or decreasing)
+            directionArraySmoothed = []
+            for idx in range(0, len(percentArrayCorrectOrder)):
+                # checking for percent chnage >5% (not constant) and <10% (not significant) and chnaging their direction to be the direction of the succesive interval
+                if (percentArrayCorrectOrder[idx] >constant_rate and percentArrayCorrectOrder[idx] < significant_rate):
+                    d= directionArray[idx+1]
+                    directionArraySmoothed.append(d)
+                else:
+                    directionArraySmoothed.append(directionArray[idx])
+            print( "Smoothed Direction Trend")
+            print(directionArraySmoothed)
+                    
+
+            
+            
+            
+            
+            trendChangeIdx = []
+            for idx in range(0, len(directionArraySmoothed) - 1):
+              
+                # checking for successive opposite index
+                if directionArraySmoothed[idx] != directionArraySmoothed[idx+1]:
+                    trendChangeIdx.append(idx)
+              
+            print("Sign shift indices : " + str(trendChangeIdx))
+            
+            
+            
+            
             
             yValueArrCorrectOrder = yValueArr[len(yValueArr)::-1]  ## Ordered correctly this time
             # print(yValueArrCorrectOrder)
@@ -734,21 +817,21 @@ def summarize(data, name, title):
             xValueArrCorrectOrder = xValueArr[len(xValueArr)::-1]  ## Ordered correctly this time
             # print(xValueArrCorrectOrder)
             
-            trendArrayCorrectOrder = trendArray[len(trendArray)::-1]
+            # trendArrayCorrectOrder = trendArray[len(trendArray)::-1] # no need since have my own directionArray now ordered correctly
             # print(trendArrayCorrectOrder)
             
             summary3 = yLabel
             x=0
             for i in trendChangeIdx:
                 if (x==0):
-                    summary3 += " is " + rateOfChnage(yValueArrCorrectOrder[i+1], yValueArrCorrectOrder[0])+ " " +  trendArrayCorrectOrder[i] + " from " + xValueArrCorrectOrder[0] + " to " + xValueArrCorrectOrder[i+1] + ", "
+                    summary3 += " is " + rateOfChnage(yValueArrCorrectOrder[i+1], yValueArrCorrectOrder[0])+ " " +  directionArraySmoothed[i] + " from " + xValueArrCorrectOrder[0] + " to " + xValueArrCorrectOrder[i+1] + ", "
                 elif (x== len(trendChangeIdx)-1):
-                    summary3 += rateOfChnage(yValueArrCorrectOrder[i+1], yValueArrCorrectOrder[trendChangeIdx[x-1]+1])+ " " + trendArrayCorrectOrder[i] + " from "+ xValueArrCorrectOrder[trendChangeIdx[x-1]+1] + " to " + xValueArrCorrectOrder[i+1] + ", "
+                    summary3 += rateOfChnage(yValueArrCorrectOrder[i+1], yValueArrCorrectOrder[trendChangeIdx[x-1]+1])+ " " + directionArraySmoothed[i] + " from "+ xValueArrCorrectOrder[trendChangeIdx[x-1]+1] + " to " + xValueArrCorrectOrder[i+1] + ", "
                 else:
-                    summary3 += rateOfChnage(yValueArrCorrectOrder[i+1], yValueArrCorrectOrder[trendChangeIdx[x-1]+1])+ " " + trendArrayCorrectOrder[i] + " from "+ xValueArrCorrectOrder[trendChangeIdx[x-1]+1] + " to " + xValueArrCorrectOrder[i+1] + ", "
+                    summary3 += rateOfChnage(yValueArrCorrectOrder[i+1], yValueArrCorrectOrder[trendChangeIdx[x-1]+1])+ " " + directionArraySmoothed[i] + " from "+ xValueArrCorrectOrder[trendChangeIdx[x-1]+1] + " to " + xValueArrCorrectOrder[i+1] + ", "
                 x= x+1
             
-            summary3 += "and lastly " +  rateOfChnage(yValueArrCorrectOrder[-1], yValueArrCorrectOrder[trendChangeIdx[-1]+1])+ " " + trendArrayCorrectOrder[-1]+ " from " + xValueArrCorrectOrder[trendChangeIdx[-1]+1] + " to " + xValueArrCorrectOrder[-1] + "."
+            summary3 += "and lastly " +  rateOfChnage(yValueArrCorrectOrder[-1], yValueArrCorrectOrder[trendChangeIdx[-1]+1])+ " " + directionArraySmoothed[-1]+ " from " + xValueArrCorrectOrder[trendChangeIdx[-1]+1] + " to " + xValueArrCorrectOrder[-1] + "."
             
             summaryArray.append(summary3)
             
@@ -761,14 +844,60 @@ def summarize(data, name, title):
             max_value = max(absoluteVariance)
             max_index = absoluteVariance.index(max_value)
               
-            print(absoluteVariance)
-            print(max_value)
-            print(max_index)
-            print(trendArrayCorrectOrder)
+            # print(absoluteVariance)
+            # print(max_value)
+            # print(max_index)
+            # print(directionArraySmoothed)
 
             
-            summary4 = "The steepest " + increaseDecrease(trendArrayCorrectOrder[max_index]) + " occurs in between the " + xLabel + " " + xValueArrCorrectOrder[max_index] + " and "+ xValueArrCorrectOrder[max_index+1] + "."
+            summary4 = "The steepest " + increaseDecrease(directionArraySmoothed[max_index]) + " occurs in between the " + xLabel + " " + xValueArrCorrectOrder[max_index] + " and "+ xValueArrCorrectOrder[max_index+1] + "."
             summaryArray.append(summary4)
+            
+            
+            
+            ############# Extrema Max ##############
+            # print(yValueArrCorrectOrder)
+           
+            max_index= get_indexes_max_value(yValueArrCorrectOrder)
+            # print(max_index)
+            # print(len(max_index))
+
+            summary5 = "Max " + yLabel + " about " + str(yValueArrCorrectOrder[max_index[0]]) + " was recorded at " + xLabel 
+            
+            
+            if len(max_index) > 1:
+                i=0
+                while i < (len(max_index)-1):
+                    summary5 += " " + xValueArrCorrectOrder[max_index[i]] + ", "
+                    i= i+1
+                summary5 += "and " + xValueArrCorrectOrder[max_index[-1]]     
+            else:
+                summary5 += " " + xValueArrCorrectOrder[max_index[0]]
+
+            summaryArray.append(summary5)
+            
+            
+            ############# Extrema Min ##############
+            # print(yValueArrCorrectOrder)
+           
+            min_index= get_indexes_min_value(yValueArrCorrectOrder)
+            # print(min_index)
+            # print(len(min_index))
+
+            summary5 = "Min " + yLabel + " about " + str(yValueArrCorrectOrder[min_index[0]]) + " was recorded at " + xLabel 
+            
+            
+            if len(min_index) > 1:
+                i=0
+                while i < (len(min_index)-1):
+                    summary5 += " " + xValueArrCorrectOrder[min_index[i]] + ", "
+                    i= i+1
+                summary5 += "and " + xValueArrCorrectOrder[min_index[-1]]     
+            else:
+                summary5 += " " + xValueArrCorrectOrder[min_index[0]]
+
+            summaryArray.append(summary5)
+            
             
             
             newLine= "#########################################################################"
