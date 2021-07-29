@@ -15,7 +15,8 @@ dataPath = 'Data/test/testData.txt'
 titlePath = 'Data/test/testTitle.txt'
 
 # websitePath = 'results/generated_baseline'
-websitePath = 'static/generated' # Folder where the json file is created as the final output
+# websitePath = 'static/generated' # Folder where the json file is created as the final output
+websitePath = '../TourDeChart/generated'
 
 summaryList = []
 
@@ -84,7 +85,12 @@ significant_rate= 30 # avg(% chnage)*0.1 # Meaning any chnage >constant rate and
 
 def directionTrend(new, old):
                 difference= new-old
-                percentageChange= ((new-old)/old)*100
+                if (old != 0):
+                    percentageChange= ((new-old)/old)*100
+                else:
+                    old= 0.00000000001
+                    percentageChange= ((new-old)/old)*100
+                    
                 absChnage= abs(percentageChange)
                 if (difference>0 and absChnage> constant_rate):  #if change is significant >5%
                     return "increasing"
@@ -94,7 +100,12 @@ def directionTrend(new, old):
                     return "constant"
 
 def rateOfChnage(new, old):
-                percentageChange= ((new-old)/old)*100
+                if (old != 0):
+                    percentageChange= ((new-old)/old)*100
+                else:
+                    old= 0.00000000001
+                    percentageChange= ((new-old)/old)*100
+                    
                 absChnage= abs(percentageChange)
                 if (absChnage>60):
                     return "rapidly"
@@ -211,7 +222,11 @@ def summarize(data, name, title):
             if (b % columnCount) == 0:
                 arr[m][b % columnCount] = str(values[b]).replace('_',' ')
             else:
-                arr[m][b % columnCount] = float(values[b])
+                num = ""
+                for c in values[b]:  # Done for error: could not convert string to float: '290$'
+                    if c.isdigit():
+                        num = num + c
+                arr[m][b % columnCount] = float(num) 
 
             n += 1
             a += 1
@@ -581,19 +596,26 @@ def summarize(data, name, title):
         position_in_X_axis_for_min_value = position_in_X_axis_for_min_value.replace("_", " ")
         y_axis_for_min_value = str(yValueArr[minValueIndex])
 
-        if type(yValueArr[maxValueIndex]) == int or type(yValueArr[maxValueIndex]) == float:
-            # proportion = int(math.ceil(yValueArr[maxValueIndex] / yValueArr[minValueIndex]))
-            proportion = round((yValueArr[maxValueIndex] / yValueArr[minValueIndex]), 2)
-            max_avg_diff_rel = round((yValueArr[maxValueIndex] / avgValueOfAllBars), 2)
-            max_min_diff = (yValueArr[maxValueIndex] - yValueArr[minValueIndex])
-            max_avg_diff_abs = (yValueArr[maxValueIndex] - avgValueOfAllBars)
-
-            # print("proportion -> " + str(proportion))
-            # print("max_min_diff -> " + str(max_min_diff))
-            # print("max_avg_diff_rel -> " + str(max_avg_diff_rel))
-            # print("max_avg_diff -> " + str(max_avg_diff_abs))
-        else:
-            print('The variable is not a number')
+        if (chartType == "pie" or chartType == "bar"):
+            if type(yValueArr[maxValueIndex]) == int or type(yValueArr[maxValueIndex]) == float:
+        
+                # proportion = int(math.ceil(yValueArr[maxValueIndex] / yValueArr[minValueIndex]))
+                # proportion = round((yValueArr[maxValueIndex] / yValueArr[minValueIndex]), 2)
+                try:
+                    proportion = round((yValueArr[maxValueIndex] / yValueArr[minValueIndex]), 2)
+                except ZeroDivisionError:
+                    proportion = round((yValueArr[maxValueIndex] / 0.00000000001), 2)  # To avoid x/0 math error
+                
+                max_avg_diff_rel = round((yValueArr[maxValueIndex] / avgValueOfAllBars), 2)
+                max_min_diff = (yValueArr[maxValueIndex] - yValueArr[minValueIndex])
+                max_avg_diff_abs = (yValueArr[maxValueIndex] - avgValueOfAllBars)
+    
+                # print("proportion -> " + str(proportion))
+                # print("max_min_diff -> " + str(max_min_diff))
+                # print("max_avg_diff_rel -> " + str(max_avg_diff_rel))
+                # print("max_avg_diff -> " + str(max_avg_diff_abs))
+            else:
+                print('The variable is not a number')
 
 
         # run pie
@@ -633,6 +655,7 @@ def summarize(data, name, title):
 
             summary4_extrema_min = " The lowest category is found at " + position_in_X_axis_for_min_value + " where " + yLabel + " is " + str(yValueArr[minValueIndex]) + "."
 
+            summary6= "" #To avoid the following error: local variable 'summary6' referenced before assignment
             if len(xValueArr) > 3:
                 summary6 = position_in_X_axis_for_max_value + " is higher than any other categories with value " + str(yValueArr[maxValueIndex]) + ", " \
                           "followed by " + position_in_X_axis_for_second_max_value + ", and " + position_in_X_axis_for_third_max_value + ". " \
@@ -741,7 +764,7 @@ def summarize(data, name, title):
             else:
                 summary2 += "constant"
 
-            summary2 += " over the " + xLabel
+            summary2 += " over the " + xLabel + "."
             summaryArray.append(summary2)
             
             
@@ -751,15 +774,18 @@ def summarize(data, name, title):
             percentArray = []
             i = 1
             while i < (len(yValueArr)):
-                variance1 = float(yValueArr[i - 1])- float(yValueArr[i]) # 2nd yVal- Prev yVal # Note that xValueArr and yValueArr are ordered such that the start values are written at the end of the array
-                localPercentChange= (variance1/float(yValueArr[i]))*100
+                old= yValueArr[i]
+                if (old == 0 or old == 0.0):
+                    old= 0.00000000001
+                variance1 = float(yValueArr[i - 1])- float(old) # 2nd yVal- Prev yVal # Note that xValueArr and yValueArr are ordered such that the start values are written at the end of the array
+                localPercentChange= (variance1/float(old))*100
                 varianceArray.append(variance1)
                 percentArray.append(localPercentChange)
                 i = i + 1
                 
             # print(varianceArray)
             # print(percentArray)
-        
+            
             
             varianceArrayCorrectOrder = varianceArray[len(varianceArray)::-1]  ## Ordered correctly this time
             percentArrayCorrectOrder = percentArray[len(percentArray)::-1]   ## Ordered correctly this time
@@ -783,13 +809,14 @@ def summarize(data, name, title):
             
             ## Smoothing directionArray. If percentChange >10% then direction of trend is that of the next interval (regardless if it was increasing or decreasing)
             directionArraySmoothed = []
-            for idx in range(0, len(percentArrayCorrectOrder)):
+            for idx in range(0, len(percentArrayCorrectOrder)-1):
                 # checking for percent chnage >5% (not constant) and <10% (not significant) and chnaging their direction to be the direction of the succesive interval
                 if (percentArrayCorrectOrder[idx] >constant_rate and percentArrayCorrectOrder[idx] < significant_rate):
                     d= directionArray[idx+1]
                     directionArraySmoothed.append(d)
                 else:
                     directionArraySmoothed.append(directionArray[idx])
+            directionArraySmoothed.append(directionArray[len(percentArrayCorrectOrder)-1]) # The last value doesn't have a succesive interval so it will be appended as is
             print( "Smoothed Direction Trend")
             print(directionArraySmoothed)
                     
@@ -821,19 +848,23 @@ def summarize(data, name, title):
             # print(trendArrayCorrectOrder)
             
             summary3 = yLabel
+            print(trendChangeIdx)
             x=0
-            for i in trendChangeIdx:
-                if (x==0):
-                    summary3 += " is " + rateOfChnage(yValueArrCorrectOrder[i+1], yValueArrCorrectOrder[0])+ " " +  directionArraySmoothed[i] + " from " + xValueArrCorrectOrder[0] + " to " + xValueArrCorrectOrder[i+1] + ", "
-                elif (x== len(trendChangeIdx)-1):
-                    summary3 += rateOfChnage(yValueArrCorrectOrder[i+1], yValueArrCorrectOrder[trendChangeIdx[x-1]+1])+ " " + directionArraySmoothed[i] + " from "+ xValueArrCorrectOrder[trendChangeIdx[x-1]+1] + " to " + xValueArrCorrectOrder[i+1] + ", "
-                else:
-                    summary3 += rateOfChnage(yValueArrCorrectOrder[i+1], yValueArrCorrectOrder[trendChangeIdx[x-1]+1])+ " " + directionArraySmoothed[i] + " from "+ xValueArrCorrectOrder[trendChangeIdx[x-1]+1] + " to " + xValueArrCorrectOrder[i+1] + ", "
-                x= x+1
-            
-            summary3 += "and lastly " +  rateOfChnage(yValueArrCorrectOrder[-1], yValueArrCorrectOrder[trendChangeIdx[-1]+1])+ " " + directionArraySmoothed[-1]+ " from " + xValueArrCorrectOrder[trendChangeIdx[-1]+1] + " to " + xValueArrCorrectOrder[-1] + "."
-            
+            if trendChangeIdx:  # if trendChangeIdx is not empty
+                
+                for i in trendChangeIdx:
+                    if (x==0):
+                        summary3 += " is " + rateOfChnage(yValueArrCorrectOrder[i+1], yValueArrCorrectOrder[0])+ " " +  directionArraySmoothed[i] + " from " + xValueArrCorrectOrder[0] + " to " + xValueArrCorrectOrder[i+1] + ", "
+                    else:
+                        summary3 += rateOfChnage(yValueArrCorrectOrder[i+1], yValueArrCorrectOrder[trendChangeIdx[x-1]+1])+ " " + directionArraySmoothed[i] + " from "+ xValueArrCorrectOrder[trendChangeIdx[x-1]+1] + " to " + xValueArrCorrectOrder[i+1] + ", "
+                    x= x+1
+                
+                summary3 += "and lastly " +  rateOfChnage(yValueArrCorrectOrder[-1], yValueArrCorrectOrder[trendChangeIdx[-1]+1])+ " " + directionArraySmoothed[-1]+ " from " + xValueArrCorrectOrder[trendChangeIdx[-1]+1] + " to " + xValueArrCorrectOrder[-1] + "."
+            else:
+                summary3 += " is " + rateOfChnage(yValueArrCorrectOrder[-1], yValueArrCorrectOrder[0])+ " " +  directionArraySmoothed[-1] + " from " + xValueArrCorrectOrder[0] + " to " + xValueArrCorrectOrder[-1] + "."
+                
             summaryArray.append(summary3)
+                
             
             
             ############# Steepest Slope ##############
@@ -980,6 +1011,8 @@ def summarize(data, name, title):
                     localTrendSummary = " The longest trend is " + magnitude + " " + direction + " which exists from " + endVal + " to " + startVal + "."
                     summaryArray.append(localTrendSummary)
                     graphTrendArray.append({"1":str(xValueArr.index(startVal)), "12":str(xValueArr.index(endVal))})
+                    
+
                     while (m < significantTrendCount):
                         # append conjunction between significant trends
                         if (direction == "increasing"):
@@ -987,7 +1020,7 @@ def summarize(data, name, title):
                             random_lbl = randint(0, length - 1)
                             synonym = similarSynonyms[random_lbl]
                             conjunction = synonym + ","
-                        elif (direction == "decreasing"):
+                        elif (direction == "decreasing" or direction == "constant"):  #new #chnaged due to error of 'conjunction' referenced before assignmnet
                             length = len(contrarySynonyms)
                             random_lbl = randint(0, length - 1)
                             synonym = contrarySynonyms[random_lbl]
@@ -1023,13 +1056,26 @@ def summarize(data, name, title):
 
 bar_data = "Hashtag|#forthepeople|x|bar_chart Total_number_of_mentions|6961|y|bar_chart Hashtag|#trumpshutdown|x|bar_chart Total_number_of_mentions|3992|y|bar_chart Hashtag|#protectourcare|x|bar_chart Total_number_of_mentions|2810|y|bar_chart Hashtag|#endgunviolence|x|bar_chart Total_number_of_mentions|2342|y|bar_chart Hashtag|#hr8|x|bar_chart Total_number_of_mentions|2206|y|bar_chart Hashtag|#actonclimate|x|bar_chart Total_number_of_mentions|2206|y|bar_chart Hashtag|#endtheshutdown|x|bar_chart Total_number_of_mentions|1769|y|bar_chart Hashtag|#sotu|x|bar_chart Total_number_of_mentions|1767|y|bar_chart Hashtag|#equalityact|x|bar_chart Total_number_of_mentions|1720|y|bar_chart Hashtag|#hr1|x|bar_chart Total_number_of_mentions|1683|y|bar_chart "
 group_bar_data = "Movie|Furious_7|0|bar_chart North_America|353.01|1|bar_chart Worldwide|1516.0|2|bar_chart Movie|The_Fate_of_the_Furious|0|bar_chart North_America|226.01|1|bar_chart Worldwide|1236.0|2|bar_chart Movie|Fast_&_Furious_6|0|bar_chart North_America|238.68|1|bar_chart Worldwide|788.7|2|bar_chart Movie|Fast_&_Furious_Presents:_Hobbs_&_Shaw|0|bar_chart North_America|164.34|1|bar_chart Worldwide|721.04|2|bar_chart Movie|Fast_Five|0|bar_chart North_America|209.84|1|bar_chart Worldwide|626.1|2|bar_chart Movie|Fast_and_Furious|0|bar_chart North_America|155.06|1|bar_chart Worldwide|363.2|2|bar_chart Movie|2_Fast_2_Furious|0|bar_chart North_America|127.15|1|bar_chart Worldwide|236.4|2|bar_chart Movie|The_Fast_and_the_Furious|0|bar_chart North_America|144.53|1|bar_chart Worldwide|207.3|2|bar_chart Movie|The_Fast_and_the_Furious:_Tokyo_Drift|0|bar_chart North_America|62.51|1|bar_chart Worldwide|158.5|2|bar_chart "
-single_line_data = "Year|2024|x|line_chart GDP_per_capita_in_U.S._dollars|265.58|y|line_chart Year|2023|x|line_chart GDP_per_capita_in_U.S._dollars|270.37|y|line_chart Year|2022|x|line_chart GDP_per_capita_in_U.S._dollars|278.36|y|line_chart Year|2021|x|line_chart GDP_per_capita_in_U.S._dollars|244.0|y|line_chart Year|2020|x|line_chart GDP_per_capita_in_U.S._dollars|243.27|y|line_chart Year|2019|x|line_chart GDP_per_capita_in_U.S._dollars|275.18|y|line_chart Year|2018|x|line_chart GDP_per_capita_in_U.S._dollars|353.17|y|line_chart Year|2017|x|line_chart GDP_per_capita_in_U.S._dollars|273.14|y|line_chart Year|2016|x|line_chart GDP_per_capita_in_U.S._dollars|281.51|y|line_chart Year|2015|x|line_chart GDP_per_capita_in_U.S._dollars|1225.19|y|line_chart Year|2014|x|line_chart GDP_per_capita_in_U.S._dollars|1309.95|y|line_chart "
+# single_line_data = "Year|2024|x|line_chart GDP_per_capita_in_U.S._dollars|265.58|y|line_chart Year|2023|x|line_chart GDP_per_capita_in_U.S._dollars|270.37|y|line_chart Year|2022|x|line_chart GDP_per_capita_in_U.S._dollars|278.36|y|line_chart Year|2021|x|line_chart GDP_per_capita_in_U.S._dollars|244.0|y|line_chart Year|2020|x|line_chart GDP_per_capita_in_U.S._dollars|243.27|y|line_chart Year|2019|x|line_chart GDP_per_capita_in_U.S._dollars|275.18|y|line_chart Year|2018|x|line_chart GDP_per_capita_in_U.S._dollars|353.17|y|line_chart Year|2017|x|line_chart GDP_per_capita_in_U.S._dollars|273.14|y|line_chart Year|2016|x|line_chart GDP_per_capita_in_U.S._dollars|281.51|y|line_chart Year|2015|x|line_chart GDP_per_capita_in_U.S._dollars|1225.19|y|line_chart Year|2014|x|line_chart GDP_per_capita_in_U.S._dollars|1309.95|y|line_chart "
 multi_line_data = "Year|2018|0|line_chart Export|55968.7|1|line_chart Import|108775.3|2|line_chart Year|2017|0|line_chart Export|45622.2|1|line_chart Import|94101.9|2|line_chart Year|2016|0|line_chart Export|48752.7|1|line_chart Import|78531.7|2|line_chart Year|2015|0|line_chart Export|71404.6|1|line_chart Import|88653.6|2|line_chart Year|2014|0|line_chart Export|43256.4|1|line_chart Import|69174.6|2|line_chart Year|2013|0|line_chart Export|91886.1|1|line_chart Import|103475.2|2|line_chart Year|2012|0|line_chart Export|55652.9|1|line_chart Import|72623.0|2|line_chart Year|2011|0|line_chart Export|65749.5|1|line_chart Import|75092.9|2|line_chart Year|2010|0|line_chart Export|48278.3|1|line_chart Import|57152.3|2|line_chart Year|2009|0|line_chart Export|29452.8|1|line_chart Import|44580.8|2|line_chart Year|2008|0|line_chart Export|42525.4|1|line_chart Import|62685.1|2|line_chart Year|2007|0|line_chart Export|38762.0|1|line_chart Import|59961.2|2|line_chart Year|2006|0|line_chart Export|28678.0|1|line_chart Import|42992.7|2|line_chart Year|2005|0|line_chart Export|24045.7|1|line_chart Import|37427.3|2|line_chart "
+
+single_line_data= "Year|2013|x|line_chart Amount_spent_in_U.S._dollars|46.58|y|line_chart Year|2014|x|line_chart Amount_spent_in_U.S._dollars|47.39|y|line_chart Year|2015|x|line_chart Amount_spent_in_U.S._dollars|51.52|y|line_chart Year|2016|x|line_chart Amount_spent_in_U.S._dollars|56.15|y|line_chart "
 
 # summarize(data = bar_data, name = "bar_data", title="Test")
 # summarize(data = group_bar_data, name = "group_bar_data", title="Test")
-summarize(data = single_line_data, name = "single_line_data", title="Test")
+# summarize(data = single_line_data, name = "single_line_data", title="Test")
 # summarize(data = multi_line_data, name = "multi_line_data", title="Test")
+
+
+file = open(dataPath, 'r')
+lines = file.readlines()
+
+count = 0
+
+for line in lines:
+    count += 1
+    print(line)
+    summarize(data = line, name = count, title="Test")
 
 
 

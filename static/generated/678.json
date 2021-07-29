@@ -1,0 +1,49 @@
+{
+   "title": "Test",
+   "xAxis": "Service In Uk",
+   "yAxis": "Median annual salary in GBP",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 5 categories on the x axis representing Service In Uk, and Median annual salary in GBP in each Service In Uk on the y axis.",
+      "Financial services activities is higher than any other categories with value 42066.0, followed by Financial & insurance average all categories, and Activities auxiliary to financial. Down to category Real estate with the lowest value of 25924.0. ",
+      " The highest value at Financial services activities is almost 1.62 times larger than the minimum value of Real estate. ",
+      " The highest value at Financial services activities is almost 1.62 times larger than the minimum value of Real estate. ",
+      " The difference between the max Service In Uk Financial services activities and min Service In Uk Real estate is 16142.0. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 4,
+         "12": 4
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Service In Uk": "Financial services activities",
+         "Median annual salary in GBP": 42066.0
+      },
+      {
+         "Service In Uk": "Financial & insurance average all categories",
+         "Median annual salary in GBP": 38921.0
+      },
+      {
+         "Service In Uk": "Insurance reinsurance pension funding",
+         "Median annual salary in GBP": 33822.0
+      },
+      {
+         "Service In Uk": "Activities auxiliary to financial",
+         "Median annual salary in GBP": 36973.0
+      },
+      {
+         "Service In Uk": "Real estate",
+         "Median annual salary in GBP": 25924.0
+      }
+   ]
+}

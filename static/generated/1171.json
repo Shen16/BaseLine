@@ -1,0 +1,77 @@
+{
+   "title": "Test",
+   "xAxis": "Cause",
+   "yAxis": "Number of deaths",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 12 categories on the x axis representing Cause, and Number of deaths in each Cause on the y axis.",
+      "Congenital malformations deformations and chromosomal abnormalities is higher than any other categories with value 412.0, followed by Disorders related to short gestation and low birth weight not elsewhere classified, and Newborn affected by maternal complications of pregnancy. Down to category Sudden infant death syndrome with the lowest value of 10.0. ",
+      " The highest value at Congenital malformations deformations and chromosomal abnormalities is almost 41.2 times larger than the minimum value of Sudden infant death syndrome. ",
+      " The highest value at Congenital malformations deformations and chromosomal abnormalities is almost 41.2 times larger than the minimum value of Sudden infant death syndrome. ",
+      " The difference between the max Cause Congenital malformations deformations and chromosomal abnormalities and min Cause Sudden infant death syndrome is 402.0. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 11,
+         "12": 11
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Cause": "Congenital malformations deformations and chromosomal abnormalities",
+         "Number of deaths": 412.0
+      },
+      {
+         "Cause": "Disorders related to short gestation and low birth weight not elsewhere classified",
+         "Number of deaths": 171.0
+      },
+      {
+         "Cause": "Newborn affected by maternal complications of pregnancy",
+         "Number of deaths": 167.0
+      },
+      {
+         "Cause": "Newborn affected by complications of placenta cord and membranes",
+         "Number of deaths": 93.0
+      },
+      {
+         "Cause": "Complications of labor and delivery",
+         "Number of deaths": 65.0
+      },
+      {
+         "Cause": "Intrauterine hypoxia and birth asphyxia",
+         "Number of deaths": 51.0
+      },
+      {
+         "Cause": "Neonatal haemorrhages",
+         "Number of deaths": 49.0
+      },
+      {
+         "Cause": "Bacterial sepsis of newborn",
+         "Number of deaths": 47.0
+      },
+      {
+         "Cause": "Respiratory distress of newborn",
+         "Number of deaths": 19.0
+      },
+      {
+         "Cause": "Accidents (unintentional injuries)",
+         "Number of deaths": 17.0
+      },
+      {
+         "Cause": "Diseases of the circulatory system",
+         "Number of deaths": 17.0
+      },
+      {
+         "Cause": "Sudden infant death syndrome",
+         "Number of deaths": 10.0
+      }
+   ]
+}

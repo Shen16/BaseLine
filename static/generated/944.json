@@ -1,0 +1,89 @@
+{
+   "title": "Test",
+   "xAxis": "Kickstarter Project",
+   "yAxis": "Funds raised in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 15 categories on the x axis representing Kickstarter Project, and Funds raised in million U.S. dollars in each Kickstarter Project on the y axis.",
+      "Pebble Time (2015) is higher than any other categories with value 20.34, followed by Coolest Cooler (2014), and Pebble 2 Time 2 + All-New Pebble Core (2016). Down to category Shenmue 3 (2015) with the lowest value of 6.33. ",
+      " The highest value at Pebble Time (2015) is almost 3.21 times larger than the minimum value of Shenmue 3 (2015). ",
+      " The highest value at Pebble Time (2015) is almost 3.21 times larger than the minimum value of Shenmue 3 (2015). ",
+      " The difference between the max Kickstarter Project Pebble Time (2015) and min Kickstarter Project Shenmue 3 (2015) is 14.01. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 14,
+         "12": 14
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Kickstarter Project": "Pebble Time (2015)",
+         "Funds raised in million U.S. dollars": 20.34
+      },
+      {
+         "Kickstarter Project": "Coolest Cooler (2014)",
+         "Funds raised in million U.S. dollars": 13.29
+      },
+      {
+         "Kickstarter Project": "Pebble 2 Time 2 + All-New Pebble Core (2016)",
+         "Funds raised in million U.S. dollars": 12.78
+      },
+      {
+         "Kickstarter Project": "Kingdom Death: Monster 1.5 (2017)",
+         "Funds raised in million U.S. dollars": 12.39
+      },
+      {
+         "Kickstarter Project": "Travel Tripod by Peak Design (2019)",
+         "Funds raised in million U.S. dollars": 12.14
+      },
+      {
+         "Kickstarter Project": "Critical Role: The Legend of Vox Machina Animated Special (2019)",
+         "Funds raised in million U.S. dollars": 11.39
+      },
+      {
+         "Kickstarter Project": "Pebble: e-paper Watch for iPhone and Android (2012)",
+         "Funds raised in million U.S. dollars": 10.27
+      },
+      {
+         "Kickstarter Project": "The World's Best Travel Jacket (2015)",
+         "Funds raised in million U.S. dollars": 9.19
+      },
+      {
+         "Kickstarter Project": "Exploding Kittens (2015)",
+         "Funds raised in million U.S. dollars": 8.78
+      },
+      {
+         "Kickstarter Project": "OUYA: A New Kind of Video Game Console (2012)",
+         "Funds raised in million U.S. dollars": 8.6
+      },
+      {
+         "Kickstarter Project": "Snapmaker 2.0: Modular 3-in-1 3D Printers (2019)",
+         "Funds raised in million U.S. dollars": 7.85
+      },
+      {
+         "Kickstarter Project": "THE 7th CONTINENT \u2013 What Goes Up Must Come Down (2017)",
+         "Funds raised in million U.S. dollars": 7.07
+      },
+      {
+         "Kickstarter Project": "The Everyday Backpack Tote and Sling (2016)",
+         "Funds raised in million U.S. dollars": 6.57
+      },
+      {
+         "Kickstarter Project": "Fidget Cube: A Vinyl Desk Toy (2016)",
+         "Funds raised in million U.S. dollars": 6.47
+      },
+      {
+         "Kickstarter Project": "Shenmue 3 (2015)",
+         "Funds raised in million U.S. dollars": 6.33
+      }
+   ]
+}

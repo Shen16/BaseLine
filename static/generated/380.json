@@ -1,0 +1,116 @@
+{
+   "title": "Test",
+   "xAxis": "Year",
+   "yAxis": "Euro cents per kilowatt-hour",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Euro cents per kilowatt-hour, with a total of 17 data points.",
+      " Overall Euro cents per kilowatt-hour has increased over the Year",
+      "Euro cents per kilowatt-hour is roughly constant from 2010_S1 to 2018_S1.",
+      "The steepest stays the same occurs in between the Year 2011_S1 and 2011_S2.",
+      "Max Euro cents per kilowatt-hour about 6.89 was recorded at Year 2013_S2",
+      "Min Euro cents per kilowatt-hour about 5.65 was recorded at Year 2010_S1",
+      "#########################################################################",
+      "This line chart has an x axis representing Year and a y axis representing Euro cents per kilowatt-hour, with a total of 17 data points. The chart has 5 significant trends.",
+      " The longest trend is slightly decreasing which exists from 2015_S2 to 2018_S1.",
+      " Conversely, the next significant trend is extremely increasing which exists from 2010_S1 to 2012_S1.",
+      " Also, the next significant trend is extremely increasing which exists from 2012_S1 to 2013_S2.",
+      " In a similar manner, the next significant trend is moderately decreasing which exists from 2014_S2 to 2015_S2.",
+      " On the other hand, the next significant trend is moderately decreasing which exists from 2013_S2 to 2014_S2."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "0",
+         "12": "5"
+      },
+      {
+         "3": "12",
+         "14": "16"
+      },
+      {
+         "3": "9",
+         "14": "12"
+      },
+      {
+         "3": "5",
+         "14": "7"
+      },
+      {
+         "3": "7",
+         "14": "9"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018 S1",
+         "Euro cents per kilowatt-hour": 6.08
+      },
+      {
+         "Year": "2017 S2",
+         "Euro cents per kilowatt-hour": 6.09
+      },
+      {
+         "Year": "2017 S1",
+         "Euro cents per kilowatt-hour": 6.11
+      },
+      {
+         "Year": "2016 S2",
+         "Euro cents per kilowatt-hour": 6.42
+      },
+      {
+         "Year": "2016 S1",
+         "Euro cents per kilowatt-hour": 6.61
+      },
+      {
+         "Year": "2015 S2",
+         "Euro cents per kilowatt-hour": 6.81
+      },
+      {
+         "Year": "2015 S1",
+         "Euro cents per kilowatt-hour": 6.76
+      },
+      {
+         "Year": "2014 S2",
+         "Euro cents per kilowatt-hour": 6.81
+      },
+      {
+         "Year": "2014 S1",
+         "Euro cents per kilowatt-hour": 6.78
+      },
+      {
+         "Year": "2013 S2",
+         "Euro cents per kilowatt-hour": 6.89
+      },
+      {
+         "Year": "2013 S1",
+         "Euro cents per kilowatt-hour": 6.61
+      },
+      {
+         "Year": "2012 S2",
+         "Euro cents per kilowatt-hour": 6.48
+      },
+      {
+         "Year": "2012 S1",
+         "Euro cents per kilowatt-hour": 6.37
+      },
+      {
+         "Year": "2011 S2",
+         "Euro cents per kilowatt-hour": 6.4
+      },
+      {
+         "Year": "2011 S1",
+         "Euro cents per kilowatt-hour": 5.88
+      },
+      {
+         "Year": "2010 S2",
+         "Euro cents per kilowatt-hour": 5.71
+      },
+      {
+         "Year": "2010 S1",
+         "Euro cents per kilowatt-hour": 5.65
+      }
+   ]
+}

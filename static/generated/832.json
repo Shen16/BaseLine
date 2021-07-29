@@ -1,0 +1,60 @@
+{
+   "title": "Test",
+   "xAxis": "Year",
+   "yAxis": "Number of cases",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Number of cases, with a total of 8 data points.",
+      " Overall Number of cases has increased over the Year",
+      "Number of cases is rapidly constant from 2012 to H1_2019.",
+      "The steepest stays the same occurs in between the Year 2015 and 2016.",
+      "Max Number of cases about 236656.0 was recorded at Year H1_2019",
+      "Min Number of cases about 120791.0 was recorded at Year 2012",
+      "#########################################################################",
+      "This line chart has an x axis representing Year and a y axis representing Number of cases with a total of 8 data points. The chart has one significant trend.",
+      " This trend is increasing which exists from H1_2019 to 2012."
+   ],
+   "trends": [
+      {},
+      {
+         "3": "0",
+         "14": "7"
+      }
+   ],
+   "data": [
+      {
+         "Year": "H1 2019",
+         "Number of cases": 236656.0
+      },
+      {
+         "Year": "2018",
+         "Number of cases": 229687.0
+      },
+      {
+         "Year": "2017",
+         "Number of cases": 211219.0
+      },
+      {
+         "Year": "2016",
+         "Number of cases": 189110.0
+      },
+      {
+         "Year": "2015",
+         "Number of cases": 166280.0
+      },
+      {
+         "Year": "2014",
+         "Number of cases": 149036.0
+      },
+      {
+         "Year": "2013",
+         "Number of cases": 133989.0
+      },
+      {
+         "Year": "2012",
+         "Number of cases": 120791.0
+      }
+   ]
+}

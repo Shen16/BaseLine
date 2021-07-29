@@ -1,0 +1,61 @@
+{
+   "title": "Test",
+   "xAxis": "Distribution channel",
+   "yAxis": "Net sales share",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 8 categories on the x axis representing Distribution channel, and Net sales share in each Distribution channel on the y axis.",
+      "Department stores is higher than any other categories with value 42.0, followed by Travel retail, and Specialty-multi. Down to category Salon and spa with the lowest value of 3.0. ",
+      " The highest value at Department stores is almost 14.0 times larger than the minimum value of Salon and spa. ",
+      " The highest value at Department stores is almost 14.0 times larger than the minimum value of Salon and spa. ",
+      " The difference between the max Distribution channel Department stores and min Distribution channel Salon and spa is 39.0. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 5,
+         "12": 5
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Distribution channel": "Department stores",
+         "Net sales share": 42.0
+      },
+      {
+         "Distribution channel": "Travel retail",
+         "Net sales share": 14.0
+      },
+      {
+         "Distribution channel": "Freestanding retail stores",
+         "Net sales share": 11.0
+      },
+      {
+         "Distribution channel": "Specialty-multi",
+         "Net sales share": 11.0
+      },
+      {
+         "Distribution channel": "Perfumeries",
+         "Net sales share": 5.0
+      },
+      {
+         "Distribution channel": "Salon and spa",
+         "Net sales share": 3.0
+      },
+      {
+         "Distribution channel": "Online",
+         "Net sales share": 7.0
+      },
+      {
+         "Distribution channel": "Other",
+         "Net sales share": 7.0
+      }
+   ]
+}

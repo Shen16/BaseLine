@@ -1,0 +1,52 @@
+{
+   "title": "Test",
+   "xAxis": "Year",
+   "yAxis": "Consumption in thousand metric tons",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Consumption in thousand metric tons, with a total of 6 data points.",
+      " Overall Consumption in thousand metric tons has increased over the Year",
+      "Consumption in thousand metric tons is slightly constant from 2015 to 2020.",
+      "The steepest stays the same occurs in between the Year 2018 and 2019.",
+      "Max Consumption in thousand metric tons about 2376.0 was recorded at Year 2020",
+      "Min Consumption in thousand metric tons about 1963.0 was recorded at Year 2015",
+      "#########################################################################",
+      "This line chart has an x axis representing Year and a y axis representing Consumption in thousand metric tons with a total of 6 data points. The chart has one significant trend.",
+      " This trend is increasing which exists from 2020 to 2015."
+   ],
+   "trends": [
+      {},
+      {
+         "3": "0",
+         "14": "5"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2020",
+         "Consumption in thousand metric tons": 2376.0
+      },
+      {
+         "Year": "2019",
+         "Consumption in thousand metric tons": 2288.0
+      },
+      {
+         "Year": "2018",
+         "Consumption in thousand metric tons": 2199.0
+      },
+      {
+         "Year": "2017",
+         "Consumption in thousand metric tons": 2117.0
+      },
+      {
+         "Year": "2016",
+         "Consumption in thousand metric tons": 2050.0
+      },
+      {
+         "Year": "2015",
+         "Consumption in thousand metric tons": 1963.0
+      }
+   ]
+}

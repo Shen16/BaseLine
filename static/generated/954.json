@@ -1,0 +1,45 @@
+{
+   "title": "Test",
+   "xAxis": "Europe European Union",
+   "yAxis": "Arrivals in millions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 4 categories on the x axis representing Europe European Union, and Arrivals in millions in each Europe European Union on the y axis.",
+      "Central/Eastern Europe is higher than any other categories with value 5.93, followed by Western Europe, and Northern Europe. Down to category Southern/Mediterranean Europe with the lowest value of 1.12. ",
+      " The highest value at Central/Eastern Europe is almost 5.29 times larger than the minimum value of Southern/Mediterranean Europe. ",
+      " The highest value at Central/Eastern Europe is almost 5.29 times larger than the minimum value of Southern/Mediterranean Europe. ",
+      " The difference between the max Europe European Union Central/Eastern Europe and min Europe European Union Southern/Mediterranean Europe is 4.81. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 3,
+         "12": 3
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Europe European Union": "Central/Eastern Europe",
+         "Arrivals in millions": 5.93
+      },
+      {
+         "Europe European Union": "Western Europe",
+         "Arrivals in millions": 5.9
+      },
+      {
+         "Europe European Union": "Northern Europe",
+         "Arrivals in millions": 1.15
+      },
+      {
+         "Europe European Union": "Southern/Mediterranean Europe",
+         "Arrivals in millions": 1.12
+      }
+   ]
+}

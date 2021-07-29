@@ -1,0 +1,51 @@
+{
+   "title": "Test",
+   "xAxis": "Streaming Device",
+   "yAxis": "Market share",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 5 categories on the x axis representing Streaming Device, and Market share in each Streaming Device on the y axis.",
+      " The highest category is found at Apple TV where Market share is 43.0.",
+      " Followed by 24.0 in Roku.",
+      " The lowest category is found at Tivo where Market share is 6.0.",
+      " The highest value at Apple TV is almost 7.17 times larger than the minimum value of Tivo. ",
+      " The highest value at Apple TV is almost 7.17 times larger than the minimum value of Tivo. ",
+      " The difference between the max Streaming Device Apple TV and min Streaming Device Tivo is 37.0. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 3,
+         "12": 3
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Streaming Device": "Apple TV",
+         "Market share": 43.0
+      },
+      {
+         "Streaming Device": "Roku",
+         "Market share": 24.0
+      },
+      {
+         "Streaming Device": "Chromecast",
+         "Market share": 14.0
+      },
+      {
+         "Streaming Device": "Tivo",
+         "Market share": 6.0
+      },
+      {
+         "Streaming Device": "Other",
+         "Market share": 13.0
+      }
+   ]
+}

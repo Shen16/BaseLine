@@ -1,0 +1,70 @@
+{
+   "title": "Test",
+   "labels": [
+      "Movie",
+      "North America",
+      "Worldwide"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This grouped bar chart has 5 categories of Movie on the x axis representing 2 groups: North America, and Worldwide.",
+      " Averaging these 2 groups, the highest category is found for Movie Jurassic World with a mean value of 1161.99.",
+      " Followed by Jurassic World: Fallen Kingdom with a mean value of 860.78.",
+      " The lowest category is observed at Jurassic Park III that has a mean value of 274.99",
+      " showing a difference of 123.5% with the maximum value.",
+      " In case of Jurassic World, North America shows more dominance than any other Movie and it has the lowest value in Jurassic Park III. "
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "13": [
+            "2",
+            "0"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "4"
+         ],
+         "14": [
+            "2",
+            "4"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Movie": "Jurassic World",
+         "North America": "652.27",
+         "Worldwide": "1671.7"
+      },
+      {
+         "Movie": "Jurassic Park",
+         "North America": "357.07",
+         "Worldwide": "983.8"
+      },
+      {
+         "Movie": "The Lost World: Jurassic Park",
+         "North America": "229.09",
+         "Worldwide": "618.6"
+      },
+      {
+         "Movie": "Jurassic Park III",
+         "North America": "181.17",
+         "Worldwide": "368.8"
+      },
+      {
+         "Movie": "Jurassic World: Fallen Kingdom",
+         "North America": "416.77",
+         "Worldwide": "1304.8"
+      }
+   ]
+}

@@ -1,0 +1,53 @@
+{
+   "title": "Test",
+   "xAxis": "Month",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 6 categories on the x axis representing Month, and Share of respondents in each Month on the y axis.",
+      "November is higher than any other categories with value 31.0, followed by Alredy bought presents, and December. Down to category The week before Christmas with the lowest value of 2.0. ",
+      " The highest value at November is almost 15.5 times larger than the minimum value of The week before Christmas. ",
+      " The highest value at November is almost 15.5 times larger than the minimum value of The week before Christmas. ",
+      " The difference between the max Month November and min Month The week before Christmas is 29.0. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 5,
+         "12": 5
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Month": "November",
+         "Share of respondents": 31.0
+      },
+      {
+         "Month": "Alredy bought presents",
+         "Share of respondents": 25.0
+      },
+      {
+         "Month": "October",
+         "Share of respondents": 17.0
+      },
+      {
+         "Month": "December",
+         "Share of respondents": 17.0
+      },
+      {
+         "Month": "September",
+         "Share of respondents": 8.0
+      },
+      {
+         "Month": "The week before Christmas",
+         "Share of respondents": 2.0
+      }
+   ]
+}

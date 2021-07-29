@@ -1,0 +1,52 @@
+{
+   "title": "Test",
+   "xAxis": "Year",
+   "yAxis": "Total number of card holders",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Total number of card holders, with a total of 6 data points.",
+      " Overall Total number of card holders has decreased over the Year",
+      "Total number of card holders is slightly constant from 2019 to 2014.",
+      "The steepest stays the same occurs in between the Year 2016 and 2015.",
+      "Max Total number of card holders about 98.5 was recorded at Year 2019",
+      "Min Total number of card holders about 76.4 was recorded at Year 2014",
+      "#########################################################################",
+      "This line chart has an x axis representing Year and a y axis representing Total number of card holders with a total of 6 data points. The chart has one significant trend.",
+      " This trend is decreasing which exists from 2014 to 2019."
+   ],
+   "trends": [
+      {},
+      {
+         "3": "0",
+         "14": "5"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2014",
+         "Total number of card holders": 76.4
+      },
+      {
+         "Year": "2015",
+         "Total number of card holders": 81.3
+      },
+      {
+         "Year": "2016",
+         "Total number of card holders": 86.7
+      },
+      {
+         "Year": "2017",
+         "Total number of card holders": 90.3
+      },
+      {
+         "Year": "2018",
+         "Total number of card holders": 94.3
+      },
+      {
+         "Year": "2019",
+         "Total number of card holders": 98.5
+      }
+   ]
+}

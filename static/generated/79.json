@@ -1,0 +1,53 @@
+{
+   "title": "Test",
+   "xAxis": "Cause of ransomware infection",
+   "yAxis": "Percentage of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 6 categories on the x axis representing Cause of ransomware infection, and Percentage of respondents in each Cause of ransomware infection on the y axis.",
+      "Spam/phishing emails is higher than any other categories with value 67.0, followed by Lack of cyber security training, and Weak passwords/access management. Down to category Malicious websites/web ads with the lowest value of 16.0. ",
+      " The highest value at Spam/phishing emails is almost 4.19 times larger than the minimum value of Malicious websites/web ads. ",
+      " The highest value at Spam/phishing emails is almost 4.19 times larger than the minimum value of Malicious websites/web ads. ",
+      " The difference between the max Cause of ransomware infection Spam/phishing emails and min Cause of ransomware infection Malicious websites/web ads is 51.0. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 4,
+         "12": 4
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Cause of ransomware infection": "Spam/phishing emails",
+         "Percentage of respondents": 67.0
+      },
+      {
+         "Cause of ransomware infection": "Lack of cyber security training",
+         "Percentage of respondents": 36.0
+      },
+      {
+         "Cause of ransomware infection": "Weak passwords/access management",
+         "Percentage of respondents": 30.0
+      },
+      {
+         "Cause of ransomware infection": "Poor user practices/gullibility",
+         "Percentage of respondents": 25.0
+      },
+      {
+         "Cause of ransomware infection": "Malicious websites/web ads",
+         "Percentage of respondents": 16.0
+      },
+      {
+         "Cause of ransomware infection": "Report clickbait",
+         "Percentage of respondents": 16.0
+      }
+   ]
+}

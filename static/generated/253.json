@@ -1,0 +1,41 @@
+{
+   "title": "Test",
+   "xAxis": "Ownership Type",
+   "yAxis": "Number of TEUs",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 3 categories on the x axis representing Ownership Type, and Number of TEUs in each Ownership Type on the y axis.",
+      "",
+      " The highest value at Chartered is almost 12.74 times larger than the minimum value of Orderbook. ",
+      " The highest value at Chartered is almost 12.74 times larger than the minimum value of Orderbook. ",
+      " The difference between the max Ownership Type Chartered and min Ownership Type Orderbook is 2554295.0. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 2,
+         "12": 2
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Ownership Type": "Chartered",
+         "Number of TEUs": 2771795.0
+      },
+      {
+         "Ownership Type": "Owned",
+         "Number of TEUs": 1044800.0
+      },
+      {
+         "Ownership Type": "Orderbook",
+         "Number of TEUs": 217500.0
+      }
+   ]
+}

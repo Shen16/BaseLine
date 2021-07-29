@@ -1,0 +1,97 @@
+{
+   "title": "Test",
+   "xAxis": "Month",
+   "yAxis": "Market share",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 17 categories on the x axis representing Month, and Market share in each Month on the y axis.",
+      "Aug 18 is higher than any other categories with value 12.7, followed by Nov 19, and Oct 19. Down to category Sep 18 with the lowest value of 6.6. ",
+      " The highest value at Aug 18 is almost 1.92 times larger than the minimum value of Sep 18. ",
+      " The highest value at Aug 18 is almost 1.92 times larger than the minimum value of Sep 18. ",
+      " The difference between the max Month Aug 18 and min Month Sep 18 is 6.1. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 16,
+         "12": 16
+      },
+      {
+         "7": 15,
+         "12": 15
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Month": "Dec 19",
+         "Market share": 10.7
+      },
+      {
+         "Month": "Nov 19",
+         "Market share": 12.3
+      },
+      {
+         "Month": "Oct 19",
+         "Market share": 12.1
+      },
+      {
+         "Month": "Sep 19",
+         "Market share": 9.2
+      },
+      {
+         "Month": "Aug 19",
+         "Market share": 11.9
+      },
+      {
+         "Month": "Jul 19",
+         "Market share": 11.8
+      },
+      {
+         "Month": "Jun 19",
+         "Market share": 11.3
+      },
+      {
+         "Month": "May 19",
+         "Market share": 11.0
+      },
+      {
+         "Month": "Apr 19",
+         "Market share": 11.3
+      },
+      {
+         "Month": "Mar 19",
+         "Market share": 10.5
+      },
+      {
+         "Month": "Feb 19",
+         "Market share": 11.4
+      },
+      {
+         "Month": "Jan 19",
+         "Market share": 11.5
+      },
+      {
+         "Month": "Dec 18",
+         "Market share": 11.5
+      },
+      {
+         "Month": "Nov 18",
+         "Market share": 11.8
+      },
+      {
+         "Month": "Oct 18",
+         "Market share": 10.2
+      },
+      {
+         "Month": "Sep 18",
+         "Market share": 6.6
+      },
+      {
+         "Month": "Aug 18",
+         "Market share": 12.7
+      }
+   ]
+}

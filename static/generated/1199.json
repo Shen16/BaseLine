@@ -1,0 +1,69 @@
+{
+   "title": "Test",
+   "xAxis": "Game Name",
+   "yAxis": "Total prize pool in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 10 categories on the x axis representing Game Name, and Total prize pool in million U.S. dollars in each Game Name on the y axis.",
+      "Fortnite is higher than any other categories with value 64.37, followed by DOTA 2, and Counter-Strike: Global Offensive. Down to category Rainbow Six Siege with the lowest value of 3.88. ",
+      " The highest value at Fortnite is almost 16.59 times larger than the minimum value of Rainbow Six Siege. ",
+      " The highest value at Fortnite is almost 16.59 times larger than the minimum value of Rainbow Six Siege. ",
+      " The difference between the max Game Name Fortnite and min Game Name Rainbow Six Siege is 60.49. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 9,
+         "12": 9
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Game Name": "Fortnite",
+         "Total prize pool in million U.S. dollars": 64.37
+      },
+      {
+         "Game Name": "DOTA 2",
+         "Total prize pool in million U.S. dollars": 46.15
+      },
+      {
+         "Game Name": "Counter-Strike: Global Offensive",
+         "Total prize pool in million U.S. dollars": 18.22
+      },
+      {
+         "Game Name": "PlayerUnknown\u2019s Battlegrounds",
+         "Total prize pool in million U.S. dollars": 12.41
+      },
+      {
+         "Game Name": "Overwatch",
+         "Total prize pool in million U.S. dollars": 9.09
+      },
+      {
+         "Game Name": "League of Legends",
+         "Total prize pool in million U.S. dollars": 8.95
+      },
+      {
+         "Game Name": "Call of Duty: Black Ops 4",
+         "Total prize pool in million U.S. dollars": 6.52
+      },
+      {
+         "Game Name": "Arena of Valor",
+         "Total prize pool in million U.S. dollars": 5.8
+      },
+      {
+         "Game Name": "Hearthstone",
+         "Total prize pool in million U.S. dollars": 4.07
+      },
+      {
+         "Game Name": "Rainbow Six Siege",
+         "Total prize pool in million U.S. dollars": 3.88
+      }
+   ]
+}

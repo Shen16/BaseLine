@@ -1,0 +1,71 @@
+{
+   "title": "Test",
+   "xAxis": "Month",
+   "yAxis": "Sales value in million GBP",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 10 categories on the x axis representing Month, and Sales value in million GBP in each Month on the y axis.",
+      " The highest category is found at Sterling where Sales value in million GBP is 1511.3.",
+      " Followed by 1046.1 in Mayfair.",
+      " The lowest category is found at Windsor where Sales value in million GBP is 461.9.",
+      " The highest value at Sterling is almost 3.27 times larger than the minimum value of Windsor. ",
+      " The highest value at Sterling is almost 3.27 times larger than the minimum value of Windsor. ",
+      " The difference between the max Month Sterling and min Month Windsor is 1049.4. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 9,
+         "12": 9
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Month": "Sterling",
+         "Sales value in million GBP": 1511.3
+      },
+      {
+         "Month": "Mayfair",
+         "Sales value in million GBP": 1046.1
+      },
+      {
+         "Month": "Lambert and Butler",
+         "Sales value in million GBP": 787.7
+      },
+      {
+         "Month": "Marlboro",
+         "Sales value in million GBP": 782.2
+      },
+      {
+         "Month": "Richmond",
+         "Sales value in million GBP": 724.3
+      },
+      {
+         "Month": "Players",
+         "Sales value in million GBP": 718.9
+      },
+      {
+         "Month": "John Player Special",
+         "Sales value in million GBP": 677.2
+      },
+      {
+         "Month": "Carlton",
+         "Sales value in million GBP": 540.6
+      },
+      {
+         "Month": "Silk Cut",
+         "Sales value in million GBP": 503.5
+      },
+      {
+         "Month": "Windsor",
+         "Sales value in million GBP": 461.9
+      }
+   ]
+}

@@ -1,0 +1,65 @@
+{
+   "title": "Test",
+   "labels": [
+      "Race",
+      "Obama",
+      "Romney"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This grouped bar chart has 4 categories of Race on the x axis representing 2 groups: Obama, and Romney.",
+      " Averaging these 2 groups, the highest category is found for Race White (non-Hispanic) with a mean value of 48.0.",
+      " Followed by Black with a mean value of 47.5.",
+      " The lowest category is observed at Nonwhite that has a mean value of 47.0",
+      " showing a difference of 2.1% with the maximum value.",
+      " In case of Black, Obama shows more dominance than any other Race with a value 90.0 and it has the lowest value 37.0 in White (non-Hispanic). "
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "13": [
+            "2",
+            "0"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "2"
+         ],
+         "14": [
+            "2",
+            "2"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Race": "White (non-Hispanic)",
+         "Obama": "37",
+         "Romney": "59"
+      },
+      {
+         "Race": "Nonwhite",
+         "Obama": "79",
+         "Romney": "15"
+      },
+      {
+         "Race": "Black",
+         "Obama": "90",
+         "Romney": "5"
+      },
+      {
+         "Race": "Hispanic",
+         "Obama": "69",
+         "Romney": "25"
+      }
+   ]
+}

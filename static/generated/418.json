@@ -1,0 +1,43 @@
+{
+   "title": "Test",
+   "xAxis": "Brand",
+   "yAxis": "Sales in million GBP",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 3 categories on the x axis representing Brand, and Sales in million GBP in each Brand on the y axis.",
+      " The highest category is found at Male Lynx where Sales in million GBP is 98.0.",
+      " Followed by 73.6 in Female Sure.",
+      " The lowest category is found at Female Dove where Sales in million GBP is 57.6.",
+      " The highest value at Male Lynx is almost 1.7 times larger than the minimum value of Female Dove. ",
+      " The highest value at Male Lynx is almost 1.7 times larger than the minimum value of Female Dove. ",
+      " The difference between the max Brand Male Lynx and min Brand Female Dove is 40.4. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 2,
+         "12": 2
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Brand": "Male Lynx",
+         "Sales in million GBP": 98.0
+      },
+      {
+         "Brand": "Female Sure",
+         "Sales in million GBP": 73.6
+      },
+      {
+         "Brand": "Female Dove",
+         "Sales in million GBP": 57.6
+      }
+   ]
+}

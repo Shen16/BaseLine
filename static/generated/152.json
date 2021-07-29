@@ -1,0 +1,79 @@
+{
+   "title": "Test",
+   "xAxis": "Country",
+   "yAxis": "Share of social media users",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 12 categories on the x axis representing Country, and Share of social media users in each Country on the y axis.",
+      " The highest category is found at East Asia where Share of social media users is 33.0.",
+      " Followed by 11.0 in Southeast Asia.",
+      " The lowest category is found at Central Asia where Share of social media users is 1.0.",
+      " The highest value at East Asia is almost 33.0 times larger than the minimum value of Central Asia. ",
+      " The highest value at East Asia is almost 33.0 times larger than the minimum value of Central Asia. ",
+      " The difference between the max Country East Asia and min Country Central Asia is 32.0. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 10,
+         "12": 10
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Country": "East Asia",
+         "Share of social media users": 33.0
+      },
+      {
+         "Country": "Southeast Asia",
+         "Share of social media users": 11.0
+      },
+      {
+         "Country": "South America",
+         "Share of social media users": 9.0
+      },
+      {
+         "Country": "South Asia",
+         "Share of social media users": 9.0
+      },
+      {
+         "Country": "North America",
+         "Share of social media users": 8.0
+      },
+      {
+         "Country": "Western Europe",
+         "Share of social media users": 8.0
+      },
+      {
+         "Country": "Eastern Europe",
+         "Share of social media users": 7.0
+      },
+      {
+         "Country": "Africa",
+         "Share of social media users": 6.0
+      },
+      {
+         "Country": "Central America",
+         "Share of social media users": 4.0
+      },
+      {
+         "Country": "Middle East",
+         "Share of social media users": 3.0
+      },
+      {
+         "Country": "Central Asia",
+         "Share of social media users": 1.0
+      },
+      {
+         "Country": "Oceania",
+         "Share of social media users": 1.0
+      }
+   ]
+}

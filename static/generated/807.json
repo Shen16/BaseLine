@@ -1,0 +1,69 @@
+{
+   "title": "Test",
+   "xAxis": "Year",
+   "yAxis": "ASMs in billions",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing ASMs in billions, with a total of 9 data points.",
+      " Overall ASMs in billions has increased over the Year",
+      "ASMs in billions is gradually constant from 2011 to 2019.",
+      "The steepest stays the same occurs in between the Year 2014 and 2015.",
+      "Max ASMs in billions about 159.8 was recorded at Year 2018",
+      "Min ASMs in billions about 120.58 was recorded at Year 2011",
+      "#########################################################################",
+      "This line chart has an x axis representing Year and a y axis representing ASMs in billions, with a total of 9 data points. The chart has 2 significant trends.",
+      " The longest trend is extremely increasing which exists from 2011 to 2018.",
+      " Also, the next significant trend is slightly decreasing which exists from 2018 to 2019."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "1",
+         "12": "8"
+      },
+      {
+         "3": "0",
+         "14": "1"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "ASMs in billions": 157.25
+      },
+      {
+         "Year": "2018",
+         "ASMs in billions": 159.8
+      },
+      {
+         "Year": "2017",
+         "ASMs in billions": 153.81
+      },
+      {
+         "Year": "2016",
+         "ASMs in billions": 148.52
+      },
+      {
+         "Year": "2015",
+         "ASMs in billions": 140.5
+      },
+      {
+         "Year": "2014",
+         "ASMs in billions": 131.0
+      },
+      {
+         "Year": "2013",
+         "ASMs in billions": 130.34
+      },
+      {
+         "Year": "2012",
+         "ASMs in billions": 128.14
+      },
+      {
+         "Year": "2011",
+         "ASMs in billions": 120.58
+      }
+   ]
+}

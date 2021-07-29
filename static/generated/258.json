@@ -1,0 +1,95 @@
+{
+   "title": "Test",
+   "xAxis": "Year",
+   "yAxis": "Average ticket price in U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Average ticket price in U.S. dollars, with a total of 13 data points.",
+      " Overall Average ticket price in U.S. dollars has increased over the Year",
+      "Average ticket price in U.S. dollars is roughly constant from 2006 to 2019.",
+      "The steepest stays the same occurs in between the Year 2007 and 2008.",
+      "Max Average ticket price in U.S. dollars about 29.2 was recorded at Year 2008",
+      "Min Average ticket price in U.S. dollars about 21.52 was recorded at Year 2011",
+      "#########################################################################",
+      "This line chart has an x axis representing Year and a y axis representing Average ticket price in U.S. dollars, with a total of 13 data points. The chart has 4 significant trends.",
+      " The longest trend is moderately increasing which exists from 2011 to 2016.",
+      " Correspondingly, the next significant trend is slightly decreasing which exists from 2008 to 2011.",
+      " Contrarily, the next significant trend is moderately decreasing which exists from 2016 to 2019.",
+      " Differently, the next significant trend is extremely increasing which exists from 2006 to 2008."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "2",
+         "12": "7"
+      },
+      {
+         "3": "7",
+         "14": "10"
+      },
+      {
+         "3": "0",
+         "14": "2"
+      },
+      {
+         "3": "10",
+         "14": "12"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Average ticket price in U.S. dollars": 24.3
+      },
+      {
+         "Year": "2018",
+         "Average ticket price in U.S. dollars": 24.13
+      },
+      {
+         "Year": "2016",
+         "Average ticket price in U.S. dollars": 24.46
+      },
+      {
+         "Year": "2015",
+         "Average ticket price in U.S. dollars": 24.0
+      },
+      {
+         "Year": "2014",
+         "Average ticket price in U.S. dollars": 22.84
+      },
+      {
+         "Year": "2013",
+         "Average ticket price in U.S. dollars": 22.12
+      },
+      {
+         "Year": "2012",
+         "Average ticket price in U.S. dollars": 21.64
+      },
+      {
+         "Year": "2011",
+         "Average ticket price in U.S. dollars": 21.52
+      },
+      {
+         "Year": "2010",
+         "Average ticket price in U.S. dollars": 22.04
+      },
+      {
+         "Year": "2009",
+         "Average ticket price in U.S. dollars": 24.31
+      },
+      {
+         "Year": "2008",
+         "Average ticket price in U.S. dollars": 29.2
+      },
+      {
+         "Year": "2007",
+         "Average ticket price in U.S. dollars": 23.88
+      },
+      {
+         "Year": "2006",
+         "Average ticket price in U.S. dollars": 22.1
+      }
+   ]
+}

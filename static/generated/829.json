@@ -1,0 +1,86 @@
+{
+   "title": "Test",
+   "xAxis": "Year",
+   "yAxis": "Revenue in million GBP",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Revenue in million GBP, with a total of 12 data points.",
+      " Overall Revenue in million GBP has increased over the Year",
+      "Revenue in million GBP is roughly constant from 2008 to 2019.",
+      "The steepest stays the same occurs in between the Year 2016 and 2017.",
+      "Max Revenue in million GBP about 24082.0 was recorded at Year 2017, and 2019",
+      "Min Revenue in million GBP about 17840.0 was recorded at Year 2015",
+      "#########################################################################",
+      "This line chart has an x axis representing Year and a y axis representing Revenue in million GBP, with a total of 12 data points. The chart has 3 significant trends.",
+      " The longest trend is slightly decreasing which exists from 2008 to 2015.",
+      " But, the next significant trend is slightly decreasing which exists from 2017 to 2019.",
+      " On the other hand, the next significant trend is extremely increasing which exists from 2015 to 2017."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "4",
+         "12": "11"
+      },
+      {
+         "3": "0",
+         "14": "2"
+      },
+      {
+         "3": "2",
+         "14": "4"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Revenue in million GBP": 24082.0
+      },
+      {
+         "Year": "2018",
+         "Revenue in million GBP": 23746.0
+      },
+      {
+         "Year": "2017",
+         "Revenue in million GBP": 24082.0
+      },
+      {
+         "Year": "2016",
+         "Revenue in million GBP": 18879.0
+      },
+      {
+         "Year": "2015",
+         "Revenue in million GBP": 17840.0
+      },
+      {
+         "Year": "2014",
+         "Revenue in million GBP": 18287.0
+      },
+      {
+         "Year": "2013",
+         "Revenue in million GBP": 18339.0
+      },
+      {
+         "Year": "2012",
+         "Revenue in million GBP": 19397.0
+      },
+      {
+         "Year": "2011",
+         "Revenue in million GBP": 20076.0
+      },
+      {
+         "Year": "2010",
+         "Revenue in million GBP": 20911.0
+      },
+      {
+         "Year": "2009",
+         "Revenue in million GBP": 21431.0
+      },
+      {
+         "Year": "2008",
+         "Revenue in million GBP": 20704.0
+      }
+   ]
+}

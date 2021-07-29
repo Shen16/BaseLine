@@ -1,0 +1,121 @@
+{
+   "title": "Test",
+   "xAxis": "Country",
+   "yAxis": "Price in U.S. dollars per ton",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 23 categories on the x axis representing Country, and Price in U.S. dollars per ton in each Country on the y axis.",
+      "China is higher than any other categories with value 17400.0, followed by United States, and Russia. Down to category Brazil with the lowest value of 500.0. ",
+      " The highest value at China is almost 34.8 times larger than the minimum value of Brazil. ",
+      " The highest value at China is almost 34.8 times larger than the minimum value of Brazil. ",
+      " The difference between the max Country China and min Country Brazil is 16900.0. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 22,
+         "12": 22
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Country": "China",
+         "Price in U.S. dollars per ton": 17400.0
+      },
+      {
+         "Country": "United States",
+         "Price in U.S. dollars per ton": 8800.0
+      },
+      {
+         "Country": "Russia",
+         "Price in U.S. dollars per ton": 7100.0
+      },
+      {
+         "Country": "Saudi Arabia",
+         "Price in U.S. dollars per ton": 6600.0
+      },
+      {
+         "Country": "Canada",
+         "Price in U.S. dollars per ton": 5300.0
+      },
+      {
+         "Country": "Other",
+         "Price in U.S. dollars per ton": 3900.0
+      },
+      {
+         "Country": "Kazakhstan",
+         "Price in U.S. dollars per ton": 3600.0
+      },
+      {
+         "Country": "United Arab Emirates",
+         "Price in U.S. dollars per ton": 3400.0
+      },
+      {
+         "Country": "India",
+         "Price in U.S. dollars per ton": 3400.0
+      },
+      {
+         "Country": "Japan",
+         "Price in U.S. dollars per ton": 3400.0
+      },
+      {
+         "Country": "South Korea",
+         "Price in U.S. dollars per ton": 3100.0
+      },
+      {
+         "Country": "Iran",
+         "Price in U.S. dollars per ton": 2200.0
+      },
+      {
+         "Country": "Qatar",
+         "Price in U.S. dollars per ton": 2100.0
+      },
+      {
+         "Country": "Chile",
+         "Price in U.S. dollars per ton": 1500.0
+      },
+      {
+         "Country": "Poland",
+         "Price in U.S. dollars per ton": 1230.0
+      },
+      {
+         "Country": "Finland",
+         "Price in U.S. dollars per ton": 940.0
+      },
+      {
+         "Country": "Kuwait",
+         "Price in U.S. dollars per ton": 900.0
+      },
+      {
+         "Country": "Australia",
+         "Price in U.S. dollars per ton": 900.0
+      },
+      {
+         "Country": "Germany",
+         "Price in U.S. dollars per ton": 870.0
+      },
+      {
+         "Country": "Venezuela",
+         "Price in U.S. dollars per ton": 700.0
+      },
+      {
+         "Country": "Italy",
+         "Price in U.S. dollars per ton": 550.0
+      },
+      {
+         "Country": "Netherlands",
+         "Price in U.S. dollars per ton": 520.0
+      },
+      {
+         "Country": "Brazil",
+         "Price in U.S. dollars per ton": 500.0
+      }
+   ]
+}

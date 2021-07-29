@@ -1,0 +1,116 @@
+{
+   "title": "Test",
+   "xAxis": "Year",
+   "yAxis": "Number of homicides offences",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Number of homicides offences, with a total of 17 data points.",
+      " Overall Number of homicides offences has decreased over the Year",
+      "Number of homicides offences is gradually constant from 2002/03 to 2018/19.",
+      "The steepest stays the same occurs in between the Year 2015/16 and 2016/17.",
+      "Max Number of homicides offences about 1047.0 was recorded at Year 2002/03",
+      "Min Number of homicides offences about 533.0 was recorded at Year 2013/14",
+      "#########################################################################",
+      "This line chart has an x axis representing Year and a y axis representing Number of homicides offences, with a total of 17 data points. The chart has 5 significant trends.",
+      " The longest trend is extremely increasing which exists from 2013/14 to 2018/19.",
+      " Also, the next significant trend is slightly decreasing which exists from 2002/03 to 2007/08.",
+      " On the contrary, the next significant trend is moderately increasing which exists from 2011/12 to 2013/14.",
+      " In a similar manner, the next significant trend is moderately increasing which exists from 2009/10 to 2011/12.",
+      " Correspondingly, the next significant trend is slightly decreasing which exists from 2007/08 to 2009/10."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "0",
+         "12": "5"
+      },
+      {
+         "3": "11",
+         "14": "16"
+      },
+      {
+         "3": "5",
+         "14": "7"
+      },
+      {
+         "3": "7",
+         "14": "9"
+      },
+      {
+         "3": "9",
+         "14": "11"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018/19",
+         "Number of homicides offences": 701.0
+      },
+      {
+         "Year": "2017/18",
+         "Number of homicides offences": 728.0
+      },
+      {
+         "Year": "2016/17",
+         "Number of homicides offences": 721.0
+      },
+      {
+         "Year": "2015/16",
+         "Number of homicides offences": 577.0
+      },
+      {
+         "Year": "2014/15",
+         "Number of homicides offences": 539.0
+      },
+      {
+         "Year": "2013/14",
+         "Number of homicides offences": 533.0
+      },
+      {
+         "Year": "2012/13",
+         "Number of homicides offences": 558.0
+      },
+      {
+         "Year": "2011/12",
+         "Number of homicides offences": 553.0
+      },
+      {
+         "Year": "2010/11",
+         "Number of homicides offences": 639.0
+      },
+      {
+         "Year": "2009/10",
+         "Number of homicides offences": 620.0
+      },
+      {
+         "Year": "2008/09",
+         "Number of homicides offences": 664.0
+      },
+      {
+         "Year": "2007/08",
+         "Number of homicides offences": 775.0
+      },
+      {
+         "Year": "2006/07",
+         "Number of homicides offences": 758.0
+      },
+      {
+         "Year": "2005/06",
+         "Number of homicides offences": 764.0
+      },
+      {
+         "Year": "2004/05",
+         "Number of homicides offences": 868.0
+      },
+      {
+         "Year": "2004/04",
+         "Number of homicides offences": 904.0
+      },
+      {
+         "Year": "2002/03",
+         "Number of homicides offences": 1047.0
+      }
+   ]
+}

@@ -1,0 +1,45 @@
+{
+   "title": "Test",
+   "xAxis": "Year",
+   "yAxis": "Amount in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Amount in million U.S. dollars, with a total of 3 data points.",
+      " Overall Amount in million U.S. dollars has increased over the Year",
+      "Amount in million U.S. dollars is slightly constant from 2014 to 2016.",
+      "The steepest stays the same occurs in between the Year 2014 and 2015.",
+      "Max Amount in million U.S. dollars about 762.52 was recorded at Year 2015",
+      "Min Amount in million U.S. dollars about 597.14 was recorded at Year 2014",
+      "#########################################################################",
+      "This line chart has an x axis representing Year and a y axis representing Amount in million U.S. dollars, with a total of 3 data points. The chart has 2 significant trends.",
+      " The longest trend is slightly decreasing which exists from 2014 to 2016.",
+      " On the contrary, the next significant trend is slightly increasing which exists from 2016 to 2016."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "0",
+         "12": "2"
+      },
+      {
+         "3": "0",
+         "14": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2016",
+         "Amount in million U.S. dollars": 738.9
+      },
+      {
+         "Year": "2015",
+         "Amount in million U.S. dollars": 762.52
+      },
+      {
+         "Year": "2014",
+         "Amount in million U.S. dollars": 597.14
+      }
+   ]
+}

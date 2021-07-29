@@ -1,0 +1,71 @@
+{
+   "title": "Test",
+   "xAxis": "Name",
+   "yAxis": "Number of subscribers in millions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 10 categories on the x axis representing Name, and Number of subscribers in millions in each Name on the y axis.",
+      " The highest category is found at Cyprien where Number of subscribers in millions is 11.39.",
+      " Followed by 9.88 in Norman fait des vid\u00e9os.",
+      " The lowest category is found at Tibo InShape where Number of subscribers in millions is 3.87.",
+      " The highest value at Cyprien is almost 2.94 times larger than the minimum value of Tibo InShape. ",
+      " The highest value at Cyprien is almost 2.94 times larger than the minimum value of Tibo InShape. ",
+      " The difference between the max Name Cyprien and min Name Tibo InShape is 7.5200000000000005. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 9,
+         "12": 9
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Name": "Cyprien",
+         "Number of subscribers in millions": 11.39
+      },
+      {
+         "Name": "Norman fait des vid\u00e9os",
+         "Number of subscribers in millions": 9.88
+      },
+      {
+         "Name": "Squeezie",
+         "Number of subscribers in millions": 8.98
+      },
+      {
+         "Name": "Remi Gaillard",
+         "Number of subscribers in millions": 6.42
+      },
+      {
+         "Name": "Warner Bros. Pictures",
+         "Number of subscribers in millions": 4.58
+      },
+      {
+         "Name": "CyprienGaming",
+         "Number of subscribers in millions": 4.51
+      },
+      {
+         "Name": "TheSoundYouNeed",
+         "Number of subscribers in millions": 4.25
+      },
+      {
+         "Name": "Mister V",
+         "Number of subscribers in millions": 4.04
+      },
+      {
+         "Name": "The Yellow Laugh",
+         "Number of subscribers in millions": 3.97
+      },
+      {
+         "Name": "Tibo InShape",
+         "Number of subscribers in millions": 3.87
+      }
+   ]
+}

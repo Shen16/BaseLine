@@ -1,0 +1,63 @@
+{
+   "title": "Test",
+   "xAxis": "Industry",
+   "yAxis": "Percentage of attack traffic",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 8 categories on the x axis representing Industry, and Percentage of attack traffic in each Industry on the y axis.",
+      " The highest category is found at Gaming where Percentage of attack traffic is 79.0.",
+      " Followed by 6.0 in Internet and telecom.",
+      " The lowest category is found at Media and entertainment where Percentage of attack traffic is 1.0.",
+      " The highest value at Gaming is almost 79.0 times larger than the minimum value of Media and entertainment. ",
+      " The highest value at Gaming is almost 79.0 times larger than the minimum value of Media and entertainment. ",
+      " The difference between the max Industry Gaming and min Industry Media and entertainment is 78.0. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 6,
+         "12": 6
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Industry": "Gaming",
+         "Percentage of attack traffic": 79.0
+      },
+      {
+         "Industry": "Internet and telecom",
+         "Percentage of attack traffic": 6.0
+      },
+      {
+         "Industry": "Financial services",
+         "Percentage of attack traffic": 4.0
+      },
+      {
+         "Industry": "Software and technology",
+         "Percentage of attack traffic": 4.0
+      },
+      {
+         "Industry": "Education",
+         "Percentage of attack traffic": 3.0
+      },
+      {
+         "Industry": "Retail and consumer goods",
+         "Percentage of attack traffic": 3.0
+      },
+      {
+         "Industry": "Media and entertainment",
+         "Percentage of attack traffic": 1.0
+      },
+      {
+         "Industry": "Other",
+         "Percentage of attack traffic": 1.0
+      }
+   ]
+}

@@ -1,0 +1,69 @@
+{
+   "title": "Test",
+   "labels": [
+      "Quarter",
+      "2012",
+      "2013"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This grouped bar chart has 5 categories of Quarter on the x axis representing 2 groups: 2012, and 2013.",
+      " Averaging these 2 groups, the highest category is found for Quarter Michael Jordan with a mean value of 2250.0.",
+      " The lowest category is observed at Derrick Rose that has a mean value of 40.0",
+      " showing a difference of 193.0% with the maximum value.",
+      " In case of Michael Jordan, 2012 shows more dominance than any other Quarter with a value 2000.0 and it has the lowest value 35.0 in Kevin Durant. "
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "13": [
+            "2",
+            "0"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "14": [
+            "2",
+            "1"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Quarter": "Michael Jordan",
+         "2012": "2000",
+         "2013": "2500"
+      },
+      {
+         "Quarter": "Lebron James",
+         "2012": "300",
+         "2013": "300"
+      },
+      {
+         "Quarter": "Kevin Durant",
+         "2012": "35",
+         "2013": "175"
+      },
+      {
+         "Quarter": "Kobe Bryant",
+         "2012": "50",
+         "2013": "50"
+      },
+      {
+         "Quarter": "Derrick Rose",
+         "2012": "40",
+         "2013": "40"
+      }
+   ]
+}

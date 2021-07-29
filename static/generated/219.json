@@ -1,0 +1,75 @@
+{
+   "title": "Test",
+   "xAxis": "Year",
+   "yAxis": "Revenue (in million U.S. dollars)",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Revenue (in million U.S. dollars), with a total of 8 data points.",
+      " Overall Revenue (in million U.S. dollars) has increased over the Year",
+      "Revenue (in million U.S. dollars) is slightly constant from 2006 to 2013.",
+      "The steepest stays the same occurs in between the Year 2006 and 2007.",
+      "Max Revenue (in million U.S. dollars) about 834.9 was recorded at Year 2011",
+      "Min Revenue (in million U.S. dollars) about 639.0 was recorded at Year 2006",
+      "#########################################################################",
+      "This line chart has an x axis representing Year and a y axis representing Revenue (in million U.S. dollars), with a total of 8 data points. The chart has 4 significant trends.",
+      " The longest trend is moderately decreasing which exists from 2011 to 2013.",
+      " Conversely, the next significant trend is extremely increasing which exists from 2009 to 2011.",
+      " Likewise, the next significant trend is extremely increasing which exists from 2006 to 2008.",
+      " Similarly, the next significant trend is slightly decreasing which exists from 2008 to 2009."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "0",
+         "12": "2"
+      },
+      {
+         "3": "2",
+         "14": "4"
+      },
+      {
+         "3": "5",
+         "14": "7"
+      },
+      {
+         "3": "4",
+         "14": "5"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2013",
+         "Revenue (in million U.S. dollars)": 780.4
+      },
+      {
+         "Year": "2012",
+         "Revenue (in million U.S. dollars)": 827.2
+      },
+      {
+         "Year": "2011",
+         "Revenue (in million U.S. dollars)": 834.9
+      },
+      {
+         "Year": "2010",
+         "Revenue (in million U.S. dollars)": 772.8
+      },
+      {
+         "Year": "2009",
+         "Revenue (in million U.S. dollars)": 716.3
+      },
+      {
+         "Year": "2008",
+         "Revenue (in million U.S. dollars)": 775.5
+      },
+      {
+         "Year": "2007",
+         "Revenue (in million U.S. dollars)": 724.7
+      },
+      {
+         "Year": "2006",
+         "Revenue (in million U.S. dollars)": 639.0
+      }
+   ]
+}

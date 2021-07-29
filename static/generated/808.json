@@ -1,0 +1,69 @@
+{
+   "title": "Test",
+   "xAxis": "Country",
+   "yAxis": "Capture in million metric tons",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 10 categories on the x axis representing Country, and Capture in million metric tons in each Country on the y axis.",
+      "China is higher than any other categories with value 15.37, followed by Indonesia, and India. Down to category Myanmar with the lowest value of 2.15. ",
+      " The highest value at China is almost 7.15 times larger than the minimum value of Myanmar. ",
+      " The highest value at China is almost 7.15 times larger than the minimum value of Myanmar. ",
+      " The difference between the max Country China and min Country Myanmar is 13.219999999999999. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 9,
+         "12": 9
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Country": "China",
+         "Capture in million metric tons": 15.37
+      },
+      {
+         "Country": "Indonesia",
+         "Capture in million metric tons": 6.69
+      },
+      {
+         "Country": "India",
+         "Capture in million metric tons": 5.43
+      },
+      {
+         "Country": "United States",
+         "Capture in million metric tons": 5.04
+      },
+      {
+         "Country": "Russia",
+         "Capture in million metric tons": 4.87
+      },
+      {
+         "Country": "Peru",
+         "Capture in million metric tons": 4.16
+      },
+      {
+         "Country": "Vietnam",
+         "Capture in million metric tons": 3.28
+      },
+      {
+         "Country": "Japan",
+         "Capture in million metric tons": 3.2
+      },
+      {
+         "Country": "Norway",
+         "Capture in million metric tons": 2.37
+      },
+      {
+         "Country": "Myanmar",
+         "Capture in million metric tons": 2.15
+      }
+   ]
+}

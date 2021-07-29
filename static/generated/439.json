@@ -1,0 +1,69 @@
+{
+   "title": "Test",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 10 categories on the x axis representing Response, and Share of respondents in each Response on the y axis.",
+      "Made a mobile payment is higher than any other categories with value 64.0, followed by Paid a bill, and Purchase in-app or online. Down to category Sent money internationally with the lowest value of 2.0. ",
+      " The highest value at Made a mobile payment is almost 32.0 times larger than the minimum value of Sent money internationally. ",
+      " The highest value at Made a mobile payment is almost 32.0 times larger than the minimum value of Sent money internationally. ",
+      " The difference between the max Response Made a mobile payment and min Response Sent money internationally is 62.0. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 9,
+         "12": 9
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Response": "Made a mobile payment",
+         "Share of respondents": 64.0
+      },
+      {
+         "Response": "Paid a bill",
+         "Share of respondents": 49.0
+      },
+      {
+         "Response": "Purchase in-app or online",
+         "Share of respondents": 44.0
+      },
+      {
+         "Response": "Received loyalty points",
+         "Share of respondents": 26.0
+      },
+      {
+         "Response": "Sent/received money (P2P)",
+         "Share of respondents": 23.0
+      },
+      {
+         "Response": "Paid in-store",
+         "Share of respondents": 19.0
+      },
+      {
+         "Response": "Paid for parking/taxi/transit",
+         "Share of respondents": 12.0
+      },
+      {
+         "Response": "Withdrew money from ATM",
+         "Share of respondents": 6.0
+      },
+      {
+         "Response": "Paid by text message",
+         "Share of respondents": 3.0
+      },
+      {
+         "Response": "Sent money internationally",
+         "Share of respondents": 2.0
+      }
+   ]
+}

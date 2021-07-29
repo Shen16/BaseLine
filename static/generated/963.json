@@ -1,0 +1,67 @@
+{
+   "title": "Test",
+   "xAxis": "Years",
+   "yAxis": "Import value in billion Indian rupees",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 9 categories on the x axis representing Years, and Import value in billion Indian rupees in each Years on the y axis.",
+      " The highest category is found at FY 2014 where Import value in billion Indian rupees is 9978.85.",
+      " Followed by 9860.2 in FY 2019.",
+      " The lowest category is found at FY 2011 where Import value in billion Indian rupees is 4822.82.",
+      " The highest value at FY 2014 is almost 2.07 times larger than the minimum value of FY 2011. ",
+      " The highest value at FY 2014 is almost 2.07 times larger than the minimum value of FY 2011. ",
+      " The difference between the max Years FY 2014 and min Years FY 2011 is 5156.030000000001. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 5,
+         "12": 5
+      },
+      {
+         "7": 8,
+         "12": 8
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Years": "FY 2019",
+         "Import value in billion Indian rupees": 9860.2
+      },
+      {
+         "Years": "FY 2018",
+         "Import value in billion Indian rupees": 7003.2
+      },
+      {
+         "Years": "FY 2017",
+         "Import value in billion Indian rupees": 5832.2
+      },
+      {
+         "Years": "FY 2016",
+         "Import value in billion Indian rupees": 5405.0
+      },
+      {
+         "Years": "FY 2015",
+         "Import value in billion Indian rupees": 8428.74
+      },
+      {
+         "Years": "FY 2014",
+         "Import value in billion Indian rupees": 9978.85
+      },
+      {
+         "Years": "FY 2013",
+         "Import value in billion Indian rupees": 8918.71
+      },
+      {
+         "Years": "FY 2012",
+         "Import value in billion Indian rupees": 7430.75
+      },
+      {
+         "Years": "FY 2011",
+         "Import value in billion Indian rupees": 4822.82
+      }
+   ]
+}

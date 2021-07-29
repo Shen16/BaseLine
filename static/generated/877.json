@@ -1,0 +1,69 @@
+{
+   "title": "Test",
+   "xAxis": "Hollywood Films",
+   "yAxis": "Box office revenue in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 10 categories on the x axis representing Hollywood Films, and Box office revenue in million U.S. dollars in each Hollywood Films on the y axis.",
+      "Frozen 2 is higher than any other categories with value 37.3, followed by Two Tigers, and Knives Out. Down to category Wings Over Everest with the lowest value of 1.5. ",
+      " The highest value at Frozen 2 is almost 24.87 times larger than the minimum value of Wings Over Everest. ",
+      " The highest value at Frozen 2 is almost 24.87 times larger than the minimum value of Wings Over Everest. ",
+      " The difference between the max Hollywood Films Frozen 2 and min Hollywood Films Wings Over Everest is 35.8. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 9,
+         "12": 9
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Hollywood Films": "Frozen 2",
+         "Box office revenue in million U.S. dollars": 37.3
+      },
+      {
+         "Hollywood Films": "Two Tigers",
+         "Box office revenue in million U.S. dollars": 19.6
+      },
+      {
+         "Hollywood Films": "Knives Out",
+         "Box office revenue in million U.S. dollars": 13.5
+      },
+      {
+         "Hollywood Films": "Miss Forever",
+         "Box office revenue in million U.S. dollars": 5.1
+      },
+      {
+         "Hollywood Films": "Somewhere Winter",
+         "Box office revenue in million U.S. dollars": 4.6
+      },
+      {
+         "Hollywood Films": "My People My Country",
+         "Box office revenue in million U.S. dollars": 3.3
+      },
+      {
+         "Hollywood Films": "Midway",
+         "Box office revenue in million U.S. dollars": 3.2
+      },
+      {
+         "Hollywood Films": "Leggenda del pianista sull'oceano La",
+         "Box office revenue in million U.S. dollars": 2.7
+      },
+      {
+         "Hollywood Films": "Better Days",
+         "Box office revenue in million U.S. dollars": 1.7
+      },
+      {
+         "Hollywood Films": "Wings Over Everest",
+         "Box office revenue in million U.S. dollars": 1.5
+      }
+   ]
+}

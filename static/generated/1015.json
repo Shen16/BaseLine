@@ -1,0 +1,65 @@
+{
+   "title": "Test",
+   "xAxis": "Country",
+   "yAxis": "Share in total exports",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 9 categories on the x axis representing Country, and Share in total exports in each Country on the y axis.",
+      "United States is higher than any other categories with value 8.8, followed by France, and China. Down to category Switzerland with the lowest value of 4.2. ",
+      " The highest value at United States is almost 2.1 times larger than the minimum value of Switzerland. ",
+      " The highest value at United States is almost 2.1 times larger than the minimum value of Switzerland. ",
+      " The difference between the max Country United States and min Country Switzerland is 4.6000000000000005. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 8,
+         "12": 8
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Country": "United States",
+         "Share in total exports": 8.8
+      },
+      {
+         "Country": "France",
+         "Share in total exports": 8.2
+      },
+      {
+         "Country": "China",
+         "Share in total exports": 6.8
+      },
+      {
+         "Country": "Netherlands",
+         "Share in total exports": 6.7
+      },
+      {
+         "Country": "United Kingdom",
+         "Share in total exports": 6.6
+      },
+      {
+         "Country": "Italy",
+         "Share in total exports": 5.1
+      },
+      {
+         "Country": "Austria",
+         "Share in total exports": 4.9
+      },
+      {
+         "Country": "Poland",
+         "Share in total exports": 4.7
+      },
+      {
+         "Country": "Switzerland",
+         "Share in total exports": 4.2
+      }
+   ]
+}

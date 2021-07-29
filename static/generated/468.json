@@ -1,0 +1,59 @@
+{
+   "title": "Test",
+   "labels": [
+      "Country",
+      "Males",
+      "Females"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This grouped bar chart has 3 categories of Country on the x axis representing 2 groups: Males, and Females.",
+      " Averaging these 2 groups, the highest category is found for Country Canada with a mean value of 82.0.",
+      " The lowest category is observed at North America that has a mean value of 78.5",
+      " showing a difference of 4.4% with the maximum value.",
+      " In case of Canada, Males shows more dominance than any other Country with a value 80.0 and it has the lowest value 76.0 in North America. "
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "13": [
+            "2",
+            "1"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "2"
+         ],
+         "14": [
+            "2",
+            "2"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Country": "North America",
+         "Males": "76",
+         "Females": "81"
+      },
+      {
+         "Country": "Canada",
+         "Males": "80",
+         "Females": "84"
+      },
+      {
+         "Country": "USA",
+         "Males": "76",
+         "Females": "81"
+      }
+   ]
+}
