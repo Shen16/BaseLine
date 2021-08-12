@@ -1,0 +1,86 @@
+{
+   "title": "Test",
+   "xAxis": "Year",
+   "yAxis": "Average attendance",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Average attendance, with a total of 12 data points.",
+      " Overall Average attendance has decreased over the Year.",
+      "Average attendance is roughly constant from 2008 to 2014, gradually decreasing from 2014 to 2015, slightly increasing from 2015 to 2016, roughly decreasing from 2016 to 2017, and lastly roughly constant from 2017 to 2019.",
+      "The steepest decrease occurs in between the Year 2014 and 2015.",
+      "Max Average attendance about 69143.0 was recorded at Year 2008,  2009,  2010,  2011,  2012,  2013, and 2014",
+      "Min Average attendance about 62304.0 was recorded at Year 2015",
+      "#########################################################################",
+      "This line chart has an x axis representing Year and a y axis representing Average attendance, with a total of 12 data points. The chart has 3 significant trends.",
+      " The longest trend is slightly constant which exists from 2008 to 2015.",
+      " On the contrary, the next significant trend is slightly decreasing which exists from 2017 to 2019.",
+      " Differently, the next significant trend is extremely increasing which exists from 2015 to 2017."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "4",
+         "12": "11"
+      },
+      {
+         "3": "0",
+         "14": "2"
+      },
+      {
+         "3": "2",
+         "14": "4"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Average attendance": 64509.0
+      },
+      {
+         "Year": "2018",
+         "Average attendance": 64520.0
+      },
+      {
+         "Year": "2017",
+         "Average attendance": 65651.0
+      },
+      {
+         "Year": "2016",
+         "Average attendance": 64659.0
+      },
+      {
+         "Year": "2015",
+         "Average attendance": 62304.0
+      },
+      {
+         "Year": "2014",
+         "Average attendance": 69143.0
+      },
+      {
+         "Year": "2013",
+         "Average attendance": 69143.0
+      },
+      {
+         "Year": "2012",
+         "Average attendance": 69143.0
+      },
+      {
+         "Year": "2011",
+         "Average attendance": 69143.0
+      },
+      {
+         "Year": "2010",
+         "Average attendance": 69143.0
+      },
+      {
+         "Year": "2009",
+         "Average attendance": 69143.0
+      },
+      {
+         "Year": "2008",
+         "Average attendance": 69143.0
+      }
+   ]
+}

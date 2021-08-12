@@ -1,0 +1,172 @@
+{
+   "title": "Test",
+   "xAxis": "Year",
+   "yAxis": "Revenues in billion U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Revenues in billion U.S. dollars, with a total of 31 data points.",
+      " Overall Revenues in billion U.S. dollars has increased over the Year.",
+      "Revenues in billion U.S. dollars is slightly decreasing from '00 to '01, roughly constant from '01 to '02, rapidly increasing from '02 to '06, roughly constant from '06 to '07, slightly decreasing from '07 to '09, slightly increasing from '09 to '10, roughly constant from '10 to '11, slightly increasing from '11 to '13, roughly constant from '13 to '17, slightly decreasing from '17 to '18, roughly constant from '18 to '20, slightly increasing from '20 to '22, and lastly roughly constant from '22 to '30.",
+      "The steepest decrease occurs in between the Year '08 and '09.",
+      "Max Revenues in billion U.S. dollars about 406.0 was recorded at Year '30",
+      "Min Revenues in billion U.S. dollars about 131.8 was recorded at Year '03",
+      "#########################################################################",
+      "This line chart has an x axis representing Year and a y axis representing Revenues in billion U.S. dollars, with a total of 31 data points. The chart has 5 significant trends.",
+      " The longest trend is moderately increasing which exists from '18 to '25.",
+      " Likewise, the next significant trend is moderately increasing which exists from '11 to '18.",
+      " Likewise, the next significant trend is moderately decreasing which exists from '25 to '30.",
+      " Contrarily, the next significant trend is slightly decreasing which exists from '07 to '11.",
+      " But, the next significant trend is extremely increasing which exists from '03 to '07."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "5",
+         "12": "12"
+      },
+      {
+         "3": "12",
+         "14": "19"
+      },
+      {
+         "3": "0",
+         "14": "5"
+      },
+      {
+         "3": "19",
+         "14": "23"
+      },
+      {
+         "3": "23",
+         "14": "27"
+      }
+   ],
+   "data": [
+      {
+         "Year": "'30",
+         "Revenues in billion U.S. dollars": 406.0
+      },
+      {
+         "Year": "'29",
+         "Revenues in billion U.S. dollars": 398.0
+      },
+      {
+         "Year": "'28",
+         "Revenues in billion U.S. dollars": 390.0
+      },
+      {
+         "Year": "'27",
+         "Revenues in billion U.S. dollars": 382.0
+      },
+      {
+         "Year": "'26",
+         "Revenues in billion U.S. dollars": 385.0
+      },
+      {
+         "Year": "'25",
+         "Revenues in billion U.S. dollars": 386.0
+      },
+      {
+         "Year": "'24",
+         "Revenues in billion U.S. dollars": 362.0
+      },
+      {
+         "Year": "'23",
+         "Revenues in billion U.S. dollars": 334.0
+      },
+      {
+         "Year": "'22",
+         "Revenues in billion U.S. dollars": 292.0
+      },
+      {
+         "Year": "'21",
+         "Revenues in billion U.S. dollars": 257.0
+      },
+      {
+         "Year": "'20",
+         "Revenues in billion U.S. dollars": 234.0
+      },
+      {
+         "Year": "'19",
+         "Revenues in billion U.S. dollars": 230.0
+      },
+      {
+         "Year": "'18",
+         "Revenues in billion U.S. dollars": 204.7
+      },
+      {
+         "Year": "'17",
+         "Revenues in billion U.S. dollars": 297.0
+      },
+      {
+         "Year": "'16",
+         "Revenues in billion U.S. dollars": 299.6
+      },
+      {
+         "Year": "'15",
+         "Revenues in billion U.S. dollars": 343.8
+      },
+      {
+         "Year": "'14",
+         "Revenues in billion U.S. dollars": 320.7
+      },
+      {
+         "Year": "'13",
+         "Revenues in billion U.S. dollars": 273.5
+      },
+      {
+         "Year": "'12",
+         "Revenues in billion U.S. dollars": 242.3
+      },
+      {
+         "Year": "'11",
+         "Revenues in billion U.S. dollars": 181.1
+      },
+      {
+         "Year": "'10",
+         "Revenues in billion U.S. dollars": 191.4
+      },
+      {
+         "Year": "'09",
+         "Revenues in billion U.S. dollars": 138.2
+      },
+      {
+         "Year": "'08",
+         "Revenues in billion U.S. dollars": 304.3
+      },
+      {
+         "Year": "'07",
+         "Revenues in billion U.S. dollars": 370.2
+      },
+      {
+         "Year": "'06",
+         "Revenues in billion U.S. dollars": 353.9
+      },
+      {
+         "Year": "'05",
+         "Revenues in billion U.S. dollars": 278.3
+      },
+      {
+         "Year": "'04",
+         "Revenues in billion U.S. dollars": 189.4
+      },
+      {
+         "Year": "'03",
+         "Revenues in billion U.S. dollars": 131.8
+      },
+      {
+         "Year": "'02",
+         "Revenues in billion U.S. dollars": 148.0
+      },
+      {
+         "Year": "'01",
+         "Revenues in billion U.S. dollars": 151.1
+      },
+      {
+         "Year": "'00",
+         "Revenues in billion U.S. dollars": 207.3
+      }
+   ]
+}

@@ -1,0 +1,107 @@
+{
+   "title": "Test",
+   "labels": [
+      "Year",
+      "Pharmacy services",
+      "Retail pharmacy"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a multi-line chart with 2 lines representing Pharmacy services, and Retail pharmacy. ",
+      "The line for Pharmacy services has the highest values across Year with a mean value of 86.63, ",
+      "and it peaked at 2017 with a value of 130.6.",
+      "Retail pharmacy mostly had the least y-axis name with a mean value of 68.32, ",
+      "which peaked at 2016 with a value of 81.1. ",
+      "Pharmacy services reported the lowest y-axis name  about 47.15 in Year 2010",
+      "Overall Pharmacy services, and Retail pharmacy are gradually increasing,  throughout the Year",
+      "The difference of y_axis name between Pharmacy services and Retail pharmacy is greater at Year 2017 compared to the Year 2010.",
+      "The greatest difference of y_axis name between Pharmacy services and Retail pharmacy occurs at Year 2017 and the smallest difference occurs at 2011."
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "16": [
+            "7",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "0"
+         ],
+         "9": [
+            "0",
+            "0"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "15": [
+            "7",
+            "1"
+         ]
+      },
+      {
+         "1": [
+            "1",
+            "1"
+         ],
+         "10": [
+            "1",
+            "1"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2017",
+         "Pharmacy services": "130.6",
+         "Retail pharmacy": "79.4"
+      },
+      {
+         "Year": "2016",
+         "Pharmacy services": "119.96",
+         "Retail pharmacy": "81.1"
+      },
+      {
+         "Year": "2015",
+         "Pharmacy services": "100.36",
+         "Retail pharmacy": "72.01"
+      },
+      {
+         "Year": "2014",
+         "Pharmacy services": "88.44",
+         "Retail pharmacy": "67.8"
+      },
+      {
+         "Year": "2013",
+         "Pharmacy services": "76.21",
+         "Retail pharmacy": "65.62"
+      },
+      {
+         "Year": "2012",
+         "Pharmacy services": "73.44",
+         "Retail pharmacy": "63.65"
+      },
+      {
+         "Year": "2011",
+         "Pharmacy services": "56.87",
+         "Retail pharmacy": "59.6"
+      },
+      {
+         "Year": "2010",
+         "Pharmacy services": "47.15",
+         "Retail pharmacy": "57.35"
+      }
+   ]
+}

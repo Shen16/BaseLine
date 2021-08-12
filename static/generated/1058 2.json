@@ -1,0 +1,89 @@
+{
+   "title": "Test",
+   "xAxis": "Country and Platform",
+   "yAxis": "Number of registered users (in millions)",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 15 categories on the x axis representing Country and Platform, and Number of registered users (in millions) in each Country and Platform on the y axis.",
+      "China (QZone) is higher than any other categories with value 598.0, followed by India (Facebook), and Indonesia (Facebook). Down to category Sri Lanka (Facebook) with the lowest value of 1.6. ",
+      " The highest value at China (QZone) is almost 373.75 times larger than the minimum value of Sri Lanka (Facebook). ",
+      " The highest value at China (QZone) is almost 373.75 times larger than the minimum value of Sri Lanka (Facebook). ",
+      " The difference between the max Country and Platform China (QZone) and min Country and Platform Sri Lanka (Facebook) is 596.4. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 14,
+         "12": 14
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Country and Platform": "China (QZone)",
+         "Number of registered users (in millions)": 598.0
+      },
+      {
+         "Country and Platform": "India (Facebook)",
+         "Number of registered users (in millions)": 63.0
+      },
+      {
+         "Country and Platform": "Indonesia (Facebook)",
+         "Number of registered users (in millions)": 48.0
+      },
+      {
+         "Country and Platform": "Japan (LINE)",
+         "Number of registered users (in millions)": 36.0
+      },
+      {
+         "Country and Platform": "Philippines (Facebook)",
+         "Number of registered users (in millions)": 30.0
+      },
+      {
+         "Country and Platform": "South Korea (Kakaotalk)",
+         "Number of registered users (in millions)": 19.0
+      },
+      {
+         "Country and Platform": "Thailand (Facebook)",
+         "Number of registered users (in millions)": 18.0
+      },
+      {
+         "Country and Platform": "Taiwan (Facebook)",
+         "Number of registered users (in millions)": 13.0
+      },
+      {
+         "Country and Platform": "Malaysia (Facebook)",
+         "Number of registered users (in millions)": 13.0
+      },
+      {
+         "Country and Platform": "Vietnam (Facebook)",
+         "Number of registered users (in millions)": 12.0
+      },
+      {
+         "Country and Platform": "Pakistan (Facebook)",
+         "Number of registered users (in millions)": 8.0
+      },
+      {
+         "Country and Platform": "Hong Kong (Facebook)",
+         "Number of registered users (in millions)": 3.7
+      },
+      {
+         "Country and Platform": "Bangladesh (Facebook)",
+         "Number of registered users (in millions)": 3.4
+      },
+      {
+         "Country and Platform": "Singapore (Facebook)",
+         "Number of registered users (in millions)": 2.7
+      },
+      {
+         "Country and Platform": "Sri Lanka (Facebook)",
+         "Number of registered users (in millions)": 1.6
+      }
+   ]
+}

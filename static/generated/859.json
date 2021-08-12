@@ -1,0 +1,83 @@
+{
+   "title": "Test",
+   "xAxis": "Industry",
+   "yAxis": "Employment in thousands",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 13 categories on the x axis representing Industry, and Employment in thousands in each Industry on the y axis.",
+      " The highest category is found at Education and health services where Employment in thousands is 35894.0.",
+      " Followed by 35894.0 in .",
+      " The lowest category is found at Mining quarrying and oil and gas extraction where Employment in thousands is 750.0.",
+      " The highest value at Education and health services is almost 47.86 times larger than the minimum value of Mining quarrying and oil and gas extraction. ",
+      " The highest value at Education and health services is almost 47.86 times larger than the minimum value of Mining quarrying and oil and gas extraction. ",
+      " The difference between the max Industry Education and health services and min Industry Mining quarrying and oil and gas extraction is 35144.0. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 12,
+         "12": 12
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Industry": "Education and health services",
+         "Employment in thousands": 35894.0
+      },
+      {
+         "Industry": "Wholesale and retail trade",
+         "Employment in thousands": 19742.0
+      },
+      {
+         "Industry": "Professional and business services",
+         "Employment in thousands": 19606.0
+      },
+      {
+         "Industry": "Manufacturing",
+         "Employment in thousands": 15741.0
+      },
+      {
+         "Industry": "Leisure and hospitality",
+         "Employment in thousands": 14643.0
+      },
+      {
+         "Industry": "Construction",
+         "Employment in thousands": 11373.0
+      },
+      {
+         "Industry": "Financial activities",
+         "Employment in thousands": 10765.0
+      },
+      {
+         "Industry": "Transportation and utilities",
+         "Employment in thousands": 8991.0
+      },
+      {
+         "Industry": "Other services",
+         "Employment in thousands": 7617.0
+      },
+      {
+         "Industry": "Public administration",
+         "Employment in thousands": 7225.0
+      },
+      {
+         "Industry": "Information",
+         "Employment in thousands": 2766.0
+      },
+      {
+         "Industry": "Agriculture and related",
+         "Employment in thousands": 2425.0
+      },
+      {
+         "Industry": "Mining quarrying and oil and gas extraction",
+         "Employment in thousands": 750.0
+      }
+   ]
+}

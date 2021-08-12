@@ -1,0 +1,115 @@
+{
+   "title": "Test",
+   "labels": [
+      "Region",
+      "Oct' 18",
+      "Oct '19"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This grouped bar chart has 14 categories of Region on the x axis representing 2 groups: Oct' 18, and Oct '19.",
+      " Averaging these 2 groups, the highest category is found for Region London with a mean value of 36.1.",
+      " Followed by South West with a mean value of 32.15.",
+      " The lowest category is observed at North East that has a mean value of 24.05",
+      " showing a difference of 40.1% with the maximum value.",
+      " In case of London, Oct' 18 shows more dominance than any other Region with a value 366.0 and it has the lowest value 26.0 in Yorkshire & Humber. "
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "13": [
+            "2",
+            "0"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "14": [
+            "2",
+            "1"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Region": "London",
+         "Oct' 18": "36.6",
+         "Oct '19": "35.6"
+      },
+      {
+         "Region": "South West",
+         "Oct' 18": "32.8",
+         "Oct '19": "31.5"
+      },
+      {
+         "Region": "South East",
+         "Oct' 18": "31.6",
+         "Oct '19": "31.6"
+      },
+      {
+         "Region": "UK Average",
+         "Oct' 18": "31",
+         "Oct '19": "30.6"
+      },
+      {
+         "Region": "East England",
+         "Oct' 18": "30.3",
+         "Oct '19": "30.3"
+      },
+      {
+         "Region": "UK Average (Excluding London)",
+         "Oct' 18": "29.4",
+         "Oct '19": "29.2"
+      },
+      {
+         "Region": "Wales",
+         "Oct' 18": "29",
+         "Oct '19": "29.3"
+      },
+      {
+         "Region": "East Midlands",
+         "Oct' 18": "28.7",
+         "Oct '19": "28.8"
+      },
+      {
+         "Region": "North West",
+         "Oct' 18": "28.6",
+         "Oct '19": "27.1"
+      },
+      {
+         "Region": "West Midlands",
+         "Oct' 18": "28.5",
+         "Oct '19": "29.2"
+      },
+      {
+         "Region": "Scotland",
+         "Oct' 18": "27.5",
+         "Oct '19": "27"
+      },
+      {
+         "Region": "Northern Ireland",
+         "Oct' 18": "26.6",
+         "Oct '19": "25.9"
+      },
+      {
+         "Region": "Yorkshire & Humber",
+         "Oct' 18": "26",
+         "Oct '19": "26.3"
+      },
+      {
+         "Region": "North East",
+         "Oct' 18": "24.4",
+         "Oct '19": "23.7"
+      }
+   ]
+}

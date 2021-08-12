@@ -1,0 +1,132 @@
+{
+   "title": "Test",
+   "xAxis": "Year",
+   "yAxis": "Unemployment rate",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Unemployment rate, with a total of 21 data points.",
+      " Overall Unemployment rate has increased over the Year.",
+      "Unemployment rate is roughly constant from 1999 to 2004, slightly decreasing from 2004 to 2005, roughly constant from 2005 to 2006, slightly decreasing from 2006 to 2008, rapidly increasing from 2008 to 2010, roughly constant from 2010 to 2011, roughly decreasing from 2011 to 2013, slightly increasing from 2013 to 2014, roughly constant from 2014 to 2015, gradually decreasing from 2015 to 2017, and lastly roughly constant from 2017 to 2019.",
+      "The steepest increase occurs in between the Year 2008 and 2009.",
+      "Max Unemployment rate about 4.55 was recorded at Year 2015",
+      "Min Unemployment rate about 3.62 was recorded at Year 2008",
+      "#########################################################################",
+      "This line chart has an x axis representing Year and a y axis representing Unemployment rate, with a total of 21 data points. The chart has 5 significant trends.",
+      " The longest trend is slightly decreasing which exists from 2002 to 2008.",
+      " On the contrary, the next significant trend is slightly decreasing which exists from 2015 to 2019.",
+      " Differently, the next significant trend is extremely increasing which exists from 2008 to 2012.",
+      " Likewise, the next significant trend is moderately decreasing which exists from 2012 to 2015.",
+      " On the other hand, the next significant trend is moderately constant which exists from 1999 to 2002."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "11",
+         "12": "17"
+      },
+      {
+         "3": "0",
+         "14": "4"
+      },
+      {
+         "3": "7",
+         "14": "11"
+      },
+      {
+         "3": "4",
+         "14": "7"
+      },
+      {
+         "3": "17",
+         "14": "20"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Unemployment rate": 4.15
+      },
+      {
+         "Year": "2018",
+         "Unemployment rate": 4.15
+      },
+      {
+         "Year": "2017",
+         "Unemployment rate": 4.14
+      },
+      {
+         "Year": "2016",
+         "Unemployment rate": 4.32
+      },
+      {
+         "Year": "2015",
+         "Unemployment rate": 4.55
+      },
+      {
+         "Year": "2014",
+         "Unemployment rate": 4.53
+      },
+      {
+         "Year": "2013",
+         "Unemployment rate": 4.36
+      },
+      {
+         "Year": "2012",
+         "Unemployment rate": 4.52
+      },
+      {
+         "Year": "2011",
+         "Unemployment rate": 4.41
+      },
+      {
+         "Year": "2010",
+         "Unemployment rate": 4.35
+      },
+      {
+         "Year": "2009",
+         "Unemployment rate": 4.16
+      },
+      {
+         "Year": "2008",
+         "Unemployment rate": 3.62
+      },
+      {
+         "Year": "2007",
+         "Unemployment rate": 3.76
+      },
+      {
+         "Year": "2006",
+         "Unemployment rate": 3.83
+      },
+      {
+         "Year": "2005",
+         "Unemployment rate": 3.89
+      },
+      {
+         "Year": "2004",
+         "Unemployment rate": 4.06
+      },
+      {
+         "Year": "2003",
+         "Unemployment rate": 4.07
+      },
+      {
+         "Year": "2002",
+         "Unemployment rate": 4.16
+      },
+      {
+         "Year": "2001",
+         "Unemployment rate": 4.15
+      },
+      {
+         "Year": "2000",
+         "Unemployment rate": 4.15
+      },
+      {
+         "Year": "1999",
+         "Unemployment rate": 4.12
+      }
+   ]
+}

@@ -1,0 +1,103 @@
+{
+   "title": "Test",
+   "xAxis": "Retail Categories",
+   "yAxis": "Number of retail chains",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 18 categories on the x axis representing Retail Categories, and Number of retail chains in each Retail Categories on the y axis.",
+      " The highest category is found at Fashion & Clothing where Number of retail chains is 57.0.",
+      " Followed by 57.0 in .",
+      " The lowest category is found at Pet Care where Number of retail chains is 5.0.",
+      " The highest value at Fashion & Clothing is almost 11.4 times larger than the minimum value of Pet Care. ",
+      " The highest value at Fashion & Clothing is almost 11.4 times larger than the minimum value of Pet Care. ",
+      " The difference between the max Retail Categories Fashion & Clothing and min Retail Categories Pet Care is 52.0. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 17,
+         "12": 17
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Retail Categories": "Fashion & Clothing",
+         "Number of retail chains": 57.0
+      },
+      {
+         "Retail Categories": "Furniture & Decoration",
+         "Number of retail chains": 28.0
+      },
+      {
+         "Retail Categories": "Footwear & Leather",
+         "Number of retail chains": 28.0
+      },
+      {
+         "Retail Categories": "Food",
+         "Number of retail chains": 25.0
+      },
+      {
+         "Retail Categories": "Personal Care",
+         "Number of retail chains": 23.0
+      },
+      {
+         "Retail Categories": "Consumer Electronics",
+         "Number of retail chains": 23.0
+      },
+      {
+         "Retail Categories": "Home Ware",
+         "Number of retail chains": 20.0
+      },
+      {
+         "Retail Categories": "Car Parts & Accessories",
+         "Number of retail chains": 14.0
+      },
+      {
+         "Retail Categories": "DIY & Gardening",
+         "Number of retail chains": 13.0
+      },
+      {
+         "Retail Categories": "Sport & Leisure",
+         "Number of retail chains": 13.0
+      },
+      {
+         "Retail Categories": "Toys & Games",
+         "Number of retail chains": 12.0
+      },
+      {
+         "Retail Categories": "Petrol",
+         "Number of retail chains": 12.0
+      },
+      {
+         "Retail Categories": "Jewelry & Watches",
+         "Number of retail chains": 12.0
+      },
+      {
+         "Retail Categories": "Telecom",
+         "Number of retail chains": 11.0
+      },
+      {
+         "Retail Categories": "Books & Magazines",
+         "Number of retail chains": 10.0
+      },
+      {
+         "Retail Categories": "Baby Ware",
+         "Number of retail chains": 9.0
+      },
+      {
+         "Retail Categories": "Optical",
+         "Number of retail chains": 8.0
+      },
+      {
+         "Retail Categories": "Pet Care",
+         "Number of retail chains": 5.0
+      }
+   ]
+}

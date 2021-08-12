@@ -1,0 +1,102 @@
+{
+   "title": "Test",
+   "xAxis": "Quarter",
+   "yAxis": "Inflation rate forecast",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 19 categories on the x axis representing Quarter, and Inflation rate forecast in each Quarter on the y axis.",
+      "Q3 2019 is higher than any other categories with value 2.1, followed by Q4 2019, and Q2 2022. Down to category Q2 2020 with the lowest value of 1.82. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 18,
+         "12": 18
+      },
+      {
+         "7": 15,
+         "12": 15
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Quarter": "Q1 2024",
+         "Inflation rate forecast": 2.0
+      },
+      {
+         "Quarter": "Q4 2023",
+         "Inflation rate forecast": 2.0
+      },
+      {
+         "Quarter": "Q3 2023",
+         "Inflation rate forecast": 2.0
+      },
+      {
+         "Quarter": "Q2 2023",
+         "Inflation rate forecast": 2.0
+      },
+      {
+         "Quarter": "Q1 2023",
+         "Inflation rate forecast": 2.0
+      },
+      {
+         "Quarter": "Q4 2022",
+         "Inflation rate forecast": 2.0
+      },
+      {
+         "Quarter": "Q3 2022",
+         "Inflation rate forecast": 2.0
+      },
+      {
+         "Quarter": "Q2 2022",
+         "Inflation rate forecast": 2.0
+      },
+      {
+         "Quarter": "Q1 2022",
+         "Inflation rate forecast": 1.99
+      },
+      {
+         "Quarter": "Q4 2021",
+         "Inflation rate forecast": 1.99
+      },
+      {
+         "Quarter": "Q3 2021",
+         "Inflation rate forecast": 1.99
+      },
+      {
+         "Quarter": "Q2 2021",
+         "Inflation rate forecast": 1.99
+      },
+      {
+         "Quarter": "Q1 2021",
+         "Inflation rate forecast": 1.95
+      },
+      {
+         "Quarter": "Q4 2020",
+         "Inflation rate forecast": 1.9
+      },
+      {
+         "Quarter": "Q3 2020",
+         "Inflation rate forecast": 1.88
+      },
+      {
+         "Quarter": "Q2 2020",
+         "Inflation rate forecast": 1.82
+      },
+      {
+         "Quarter": "Q1 2020",
+         "Inflation rate forecast": 1.82
+      },
+      {
+         "Quarter": "Q4 2019",
+         "Inflation rate forecast": 2.01
+      },
+      {
+         "Quarter": "Q3 2019",
+         "Inflation rate forecast": 2.1
+      }
+   ]
+}

@@ -1,0 +1,36 @@
+{
+   "title": "Test",
+   "xAxis": "Year",
+   "yAxis": "Market size in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Market size in million U.S. dollars, with a total of 2 data points.",
+      " Overall Market size in million U.S. dollars has increased over the Year.",
+      "Market size in million U.S. dollars is slightly increasing from 2012 to 2018.",
+      "The steepest increase occurs in between the Year 2012 and 2018.",
+      "Max Market size in million U.S. dollars about 886.0 was recorded at Year 2018",
+      "Min Market size in million U.S. dollars about 734.0 was recorded at Year 2012",
+      "#########################################################################",
+      "This line chart has an x axis representing Year and a y axis representing Market size in million U.S. dollars with a total of 2 data points. The chart has one significant trend.",
+      " This trend is increasing which exists from 2018 to 2012."
+   ],
+   "trends": [
+      {},
+      {
+         "3": "0",
+         "14": "1"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Market size in million U.S. dollars": 886.0
+      },
+      {
+         "Year": "2012",
+         "Market size in million U.S. dollars": 734.0
+      }
+   ]
+}

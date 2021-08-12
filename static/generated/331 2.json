@@ -1,0 +1,74 @@
+{
+   "title": "Test",
+   "labels": [
+      "Country",
+      "Mobile market",
+      "Fixed market"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This grouped bar chart has 6 categories of Country on the x axis representing 2 groups: Mobile market, and Fixed market.",
+      " Averaging these 2 groups, the highest category is found for Country Germany with a mean value of 27.5.",
+      " The lowest category is observed at United Kingdom that has a mean value of 14.05",
+      " showing a difference of 64.7% with the maximum value.",
+      " In case of South Africa/Africa (Vodacom Group), Mobile market shows more dominance than any other Country with a value 463.0 and it has the lowest value 174.0 in Spain. "
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "13": [
+            "2",
+            "1"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "14": [
+            "2",
+            "0"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Country": "South Africa/Africa (Vodacom Group)",
+         "Mobile market": "46.3",
+         "Fixed market": "0"
+      },
+      {
+         "Country": "Germany",
+         "Mobile market": "33.6",
+         "Fixed market": "21.4"
+      },
+      {
+         "Country": "India",
+         "Mobile market": "31.5",
+         "Fixed market": "0"
+      },
+      {
+         "Country": "Italy",
+         "Mobile market": "31.1",
+         "Fixed market": "9.3"
+      },
+      {
+         "Country": "United Kingdom",
+         "Mobile market": "21.3",
+         "Fixed market": "6.8"
+      },
+      {
+         "Country": "Spain",
+         "Mobile market": "17.4",
+         "Fixed market": "17.4"
+      }
+   ]
+}

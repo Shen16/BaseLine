@@ -1,0 +1,108 @@
+{
+   "title": "Test",
+   "xAxis": "Year",
+   "yAxis": "Net income in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Net income in million U.S. dollars, with a total of 15 data points.",
+      " Overall Net income in million U.S. dollars has increased over the Year",
+      "Net income in million U.S. dollars is rapidly increasing from 2005 to 2007, rapidly decreasing from 2007 to 2009, roughly constant from 2009 to 2012, rapidly increasing from 2012 to 2013, gradually decreasing from 2013 to 2014, rapidly increasing from 2014 to 2016, roughly constant from 2016 to 2018, and lastly gradually increasing from 2018 to 2019.",
+      "The steepest decrease occurs in between the Year 2007 and 2008.",
+      "Max Net income in million U.S. dollars about 461.29 was recorded at Year 2007",
+      "Min Net income in million U.S. dollars about 104.31 was recorded at Year 2014",
+      "#########################################################################",
+      "This line chart has an x axis representing Year and a y axis representing Net income in million U.S. dollars, with a total of 15 data points. The chart has 5 significant trends.",
+      " The longest trend is slightly decreasing which exists from 2007 to 2011.",
+      " Differently, the next significant trend is moderately increasing which exists from 2014 to 2017.",
+      " Also, the next significant trend is moderately increasing which exists from 2011 to 2014.",
+      " Similarly, the next significant trend is moderately increasing which exists from 2017 to 2019.",
+      " Also, the next significant trend is extremely increasing which exists from 2005 to 2007."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "8",
+         "12": "12"
+      },
+      {
+         "3": "2",
+         "14": "5"
+      },
+      {
+         "3": "5",
+         "14": "8"
+      },
+      {
+         "3": "0",
+         "14": "2"
+      },
+      {
+         "3": "12",
+         "14": "14"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Net income in million U.S. dollars": 394.98
+      },
+      {
+         "Year": "2018",
+         "Net income in million U.S. dollars": 285.24
+      },
+      {
+         "Year": "2017",
+         "Net income in million U.S. dollars": 284.56
+      },
+      {
+         "Year": "2016",
+         "Net income in million U.S. dollars": 291.21
+      },
+      {
+         "Year": "2015",
+         "Net income in million U.S. dollars": 209.89
+      },
+      {
+         "Year": "2014",
+         "Net income in million U.S. dollars": 104.31
+      },
+      {
+         "Year": "2013",
+         "Net income in million U.S. dollars": 228.14
+      },
+      {
+         "Year": "2012",
+         "Net income in million U.S. dollars": 140.96
+      },
+      {
+         "Year": "2011",
+         "Net income in million U.S. dollars": 135.11
+      },
+      {
+         "Year": "2010",
+         "Net income in million U.S. dollars": 149.45
+      },
+      {
+         "Year": "2009",
+         "Net income in million U.S. dollars": 150.71
+      },
+      {
+         "Year": "2008",
+         "Net income in million U.S. dollars": 230.38
+      },
+      {
+         "Year": "2007",
+         "Net income in million U.S. dollars": 461.29
+      },
+      {
+         "Year": "2006",
+         "Net income in million U.S. dollars": 240.72
+      },
+      {
+         "Year": "2005",
+         "Net income in million U.S. dollars": 151.88
+      }
+   ]
+}

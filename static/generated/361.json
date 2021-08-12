@@ -1,0 +1,53 @@
+{
+   "title": "Test",
+   "labels": [
+      "Sex",
+      "Hillary Clinton",
+      "Donald Trump"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This grouped bar chart has 2 categories of Sex on the x axis representing 2 groups: Hillary Clinton, and Donald Trump.",
+      " Averaging the 2 groups, the highest category is found for Sex Female with a mean value of 48.0.",
+      " The minimum category is found at Male with a mean value of 47.0.",
+      " In case of Female, Hillary Clinton shows more dominance than any other Sex and it has the lowest value in Male. "
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "13": [
+            "2",
+            "1"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "14": [
+            "2",
+            "0"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Sex": "Male",
+         "Hillary Clinton": "41",
+         "Donald Trump": "53"
+      },
+      {
+         "Sex": "Female",
+         "Hillary Clinton": "54",
+         "Donald Trump": "42"
+      }
+   ]
+}

@@ -1,0 +1,67 @@
+{
+   "title": "Test",
+   "labels": [
+      "Response",
+      "Under $50",
+      "$50 - $100",
+      "$100 - $200",
+      "$200 and up"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This grouped bar chart has 3 categories of Response on the x axis representing 4 groups: Under $50, $50 - $100, $100 - $200, and $200 and up.",
+      " Averaging these 4 groups, the highest category is found for Response BlackBerry owners with a mean value of 23.5.",
+      " Followed by iPhone owners with a mean value of 23.5.",
+      " The lowest category is observed at Android owners that has a mean value of 23.25",
+      " In case of Android owners, Under $50 shows more dominance than any other Response and it has the lowest value in iPhone owners. On the other hand, group $200 and up is highest in case of iPhone owners and has minimum impact for Response BlackBerry owners. "
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "2"
+         ],
+         "13": [
+            "4",
+            "2"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "14": [
+            "4",
+            "1"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Response": "Android owners",
+         "Under $50": "60",
+         "$50 - $100": "19",
+         "$100 - $200": "8",
+         "$200 and up": "6"
+      },
+      {
+         "Response": "iPhone owners",
+         "Under $50": "33",
+         "$50 - $100": "33",
+         "$100 - $200": "19",
+         "$200 and up": "9"
+      },
+      {
+         "Response": "BlackBerry owners",
+         "Under $50": "47",
+         "$50 - $100": "31",
+         "$100 - $200": "15",
+         "$200 and up": "1"
+      }
+   ]
+}

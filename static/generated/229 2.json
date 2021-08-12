@@ -1,0 +1,84 @@
+{
+   "title": "Test",
+   "labels": [
+      "TV Channel",
+      "Total audience (3 years and older)",
+      "14-49 years"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This grouped bar chart has 8 categories of TV Channel on the x axis representing 2 groups: Total audience (3 years and older), and 14-49 years.",
+      " Averaging these 2 groups, the highest category is found for TV Channel RTL with a mean value of 10.2.",
+      " The lowest category is observed at RTL II that has a mean value of 4.05",
+      " showing a difference of 86.3% with the maximum value.",
+      " In case of ZDF, Total audience (3 years and older) shows more dominance than any other TV Channel with a value 127.0 and it has the lowest value 29.0 in RTL II. "
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "2"
+         ],
+         "13": [
+            "2",
+            "2"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "14": [
+            "2",
+            "0"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "TV Channel": "ZDF",
+         "Total audience (3 years and older)": "12.7",
+         "14-49 years": "5.6"
+      },
+      {
+         "TV Channel": "ARD",
+         "Total audience (3 years and older)": "11.2",
+         "14-49 years": "6.5"
+      },
+      {
+         "TV Channel": "RTL",
+         "Total audience (3 years and older)": "8.5",
+         "14-49 years": "11.9"
+      },
+      {
+         "TV Channel": "Sat.1",
+         "Total audience (3 years and older)": "6.1",
+         "14-49 years": "8"
+      },
+      {
+         "TV Channel": "Vox",
+         "Total audience (3 years and older)": "4.9",
+         "14-49 years": "6.9"
+      },
+      {
+         "TV Channel": "ProSieben",
+         "Total audience (3 years and older)": "4.2",
+         "14-49 years": "9.2"
+      },
+      {
+         "TV Channel": "kabel eins",
+         "Total audience (3 years and older)": "3.6",
+         "14-49 years": "5"
+      },
+      {
+         "TV Channel": "RTL II",
+         "Total audience (3 years and older)": "2.9",
+         "14-49 years": "5.2"
+      }
+   ]
+}

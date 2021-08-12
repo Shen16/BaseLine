@@ -1,0 +1,69 @@
+{
+   "title": "Test",
+   "xAxis": "Brand",
+   "yAxis": "Sales in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 10 categories on the x axis representing Brand, and Sales in million U.S. dollars in each Brand on the y axis.",
+      "Organix is higher than any other categories with value 133.7, followed by Shea Moisture, and Garnier Whole Blends. Down to category L'Or\u00e9al EverPure with the lowest value of 29.0. ",
+      " The highest value at Organix is almost 4.61 times larger than the minimum value of L'Or\u00e9al EverPure. ",
+      " The highest value at Organix is almost 4.61 times larger than the minimum value of L'Or\u00e9al EverPure. ",
+      " The difference between the max Brand Organix and min Brand L'Or\u00e9al EverPure is 104.69999999999999. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 9,
+         "12": 9
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Brand": "Organix",
+         "Sales in million U.S. dollars": 133.7
+      },
+      {
+         "Brand": "Shea Moisture",
+         "Sales in million U.S. dollars": 77.1
+      },
+      {
+         "Brand": "Garnier Whole Blends",
+         "Sales in million U.S. dollars": 63.0
+      },
+      {
+         "Brand": "It's A 10 Miracle",
+         "Sales in million U.S. dollars": 59.8
+      },
+      {
+         "Brand": "Garnier Fructis Sleek And Shine",
+         "Sales in million U.S. dollars": 52.0
+      },
+      {
+         "Brand": "TRESemm\u00e9 Moisture Rich",
+         "Sales in million U.S. dollars": 37.0
+      },
+      {
+         "Brand": "Dove Nutritive Solutions",
+         "Sales in million U.S. dollars": 36.9
+      },
+      {
+         "Brand": "Suave Professionals",
+         "Sales in million U.S. dollars": 35.6
+      },
+      {
+         "Brand": "Herbal Essences Bio Renew",
+         "Sales in million U.S. dollars": 34.6
+      },
+      {
+         "Brand": "L'Or\u00e9al EverPure",
+         "Sales in million U.S. dollars": 29.0
+      }
+   ]
+}

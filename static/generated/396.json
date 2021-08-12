@@ -1,0 +1,53 @@
+{
+   "title": "Test",
+   "xAxis": "Year",
+   "yAxis": "Income/ loss in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Income/ loss in million U.S. dollars, with a total of 5 data points.",
+      " Overall Income/ loss in million U.S. dollars has increased over the Year.",
+      "Income/ loss in million U.S. dollars is roughly constant from 2015 to 2016, gradually increasing from 2016 to 2017, and lastly roughly constant from 2017 to 2019.",
+      "The steepest increase occurs in between the Year 2016 and 2017.",
+      "Max Income/ loss in million U.S. dollars about 3445.07 was recorded at Year 2017",
+      "Min Income/ loss in million U.S. dollars about 372.89 was recorded at Year 2015",
+      "#########################################################################",
+      "This line chart has an x axis representing Year and a y axis representing Income/ loss in million U.S. dollars, with a total of 5 data points. The chart has 2 significant trends.",
+      " The longest trend is slightly decreasing which exists from 2017 to 2019.",
+      " On the other hand, the next significant trend is extremely increasing which exists from 2015 to 2017."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "0",
+         "12": "2"
+      },
+      {
+         "3": "2",
+         "14": "4"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Income/ loss in million U.S. dollars": 1033.66
+      },
+      {
+         "Year": "2018",
+         "Income/ loss in million U.S. dollars": 1255.91
+      },
+      {
+         "Year": "2017",
+         "Income/ loss in million U.S. dollars": 3445.07
+      },
+      {
+         "Year": "2016",
+         "Income/ loss in million U.S. dollars": 514.64
+      },
+      {
+         "Year": "2015",
+         "Income/ loss in million U.S. dollars": 372.89
+      }
+   ]
+}

@@ -1,0 +1,49 @@
+{
+   "title": "Test",
+   "xAxis": "Sex",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 5 categories on the x axis representing Sex, and Share of respondents in each Sex on the y axis.",
+      "Under 35 is higher than any other categories with value 7.0, followed by Female, and 35 to 49. Down to category Male with the lowest value of 2.0. ",
+      " The highest value at Under 35 is almost 3.5 times larger than the minimum value of Male. ",
+      " The highest value at Under 35 is almost 3.5 times larger than the minimum value of Male. ",
+      " The difference between the max Sex Under 35 and min Sex Male is 5.0. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 2,
+         "12": 2
+      },
+      {
+         "7": 0,
+         "12": 0
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Sex": "Male",
+         "Share of respondents": 2.0
+      },
+      {
+         "Sex": "Female",
+         "Share of respondents": 6.0
+      },
+      {
+         "Sex": "Under 35",
+         "Share of respondents": 7.0
+      },
+      {
+         "Sex": "35 to 49",
+         "Share of respondents": 3.0
+      },
+      {
+         "Sex": "50 to 64",
+         "Share of respondents": 2.0
+      }
+   ]
+}

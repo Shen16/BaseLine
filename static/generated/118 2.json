@@ -1,0 +1,49 @@
+{
+   "title": "Test",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 5 categories on the x axis representing Response, and Share of respondents in each Response on the y axis.",
+      "Food is higher than any other categories with value 87.0, followed by Beer, and Clothing. Down to category Wine with the lowest value of 34.0. ",
+      " The highest value at Food is almost 2.56 times larger than the minimum value of Wine. ",
+      " The highest value at Food is almost 2.56 times larger than the minimum value of Wine. ",
+      " The difference between the max Response Food and min Response Wine is 53.0. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 4,
+         "12": 4
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Response": "Food",
+         "Share of respondents": 87.0
+      },
+      {
+         "Response": "Beer",
+         "Share of respondents": 46.0
+      },
+      {
+         "Response": "Clothing",
+         "Share of respondents": 45.0
+      },
+      {
+         "Response": "Furniture",
+         "Share of respondents": 38.0
+      },
+      {
+         "Response": "Wine",
+         "Share of respondents": 34.0
+      }
+   ]
+}

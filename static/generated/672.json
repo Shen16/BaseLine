@@ -1,0 +1,111 @@
+{
+   "title": "Test",
+   "xAxis": "Month",
+   "yAxis": "Birth rate per thousand inhabitants",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 20 categories on the x axis representing Month, and Birth rate per thousand inhabitants in each Month on the y axis.",
+      " The highest category is found at Trentino-South Tyrol where Birth rate per thousand inhabitants is 9.0.",
+      " Followed by 9.0 in .",
+      " The lowest category is found at Sardinia where Birth rate per thousand inhabitants is 5.7.",
+      " The highest value at Trentino-South Tyrol is almost 1.58 times larger than the minimum value of Sardinia. ",
+      " The highest value at Trentino-South Tyrol is almost 1.58 times larger than the minimum value of Sardinia. ",
+      " The difference between the max Month Trentino-South Tyrol and min Month Sardinia is 3.3. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 19,
+         "12": 19
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Month": "Trentino-South Tyrol",
+         "Birth rate per thousand inhabitants": 9.0
+      },
+      {
+         "Month": "Campania",
+         "Birth rate per thousand inhabitants": 8.3
+      },
+      {
+         "Month": "Sicily",
+         "Birth rate per thousand inhabitants": 8.1
+      },
+      {
+         "Month": "Calabria",
+         "Birth rate per thousand inhabitants": 7.8
+      },
+      {
+         "Month": "Lombardy",
+         "Birth rate per thousand inhabitants": 7.5
+      },
+      {
+         "Month": "Emilia-Romagna",
+         "Birth rate per thousand inhabitants": 7.3
+      },
+      {
+         "Month": "Lazio",
+         "Birth rate per thousand inhabitants": 7.2
+      },
+      {
+         "Month": "Apulia",
+         "Birth rate per thousand inhabitants": 7.2
+      },
+      {
+         "Month": "Aosta Valley",
+         "Birth rate per thousand inhabitants": 7.2
+      },
+      {
+         "Month": "Veneto",
+         "Birth rate per thousand inhabitants": 7.2
+      },
+      {
+         "Month": "Abruzzo",
+         "Birth rate per thousand inhabitants": 6.8
+      },
+      {
+         "Month": "Piedmont",
+         "Birth rate per thousand inhabitants": 6.7
+      },
+      {
+         "Month": "Tuscany",
+         "Birth rate per thousand inhabitants": 6.7
+      },
+      {
+         "Month": "Marche",
+         "Birth rate per thousand inhabitants": 6.7
+      },
+      {
+         "Month": "Umbria",
+         "Birth rate per thousand inhabitants": 6.6
+      },
+      {
+         "Month": "Basilicata",
+         "Birth rate per thousand inhabitants": 6.6
+      },
+      {
+         "Month": "Friuli-Venezia Giulia",
+         "Birth rate per thousand inhabitants": 6.4
+      },
+      {
+         "Month": "Molise",
+         "Birth rate per thousand inhabitants": 6.2
+      },
+      {
+         "Month": "Liguria",
+         "Birth rate per thousand inhabitants": 5.8
+      },
+      {
+         "Month": "Sardinia",
+         "Birth rate per thousand inhabitants": 5.7
+      }
+   ]
+}

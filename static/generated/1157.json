@@ -1,0 +1,63 @@
+{
+   "title": "Test",
+   "labels": [
+      "Worker Type",
+      "2013",
+      "2014",
+      "2015",
+      "2016",
+      "2017"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This grouped bar chart has 2 categories of Worker Type on the x axis representing 5 groups: 2013, 2014, 2015, 2016, and 2017.",
+      " Averaging the 5 groups, the highest category is found for Worker Type Regular workers with a mean value of 21620.0.",
+      " The minimum category is found at Temporary workers with a mean value of 3600.0.",
+      " This represents a difference of 142.9%.",
+      " In case of Regular workers, 2013 shows more dominance than any other Worker Type with a value 21900.0 and it has the lowest value 4300.0 in Temporary workers.  However, 2014 is the second impactful group, and it has the highest value 22500.0 for Worker Type Regular workers and the lowest 3000.0 in case of Temporary workers. "
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "13": [
+            "5",
+            "0"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "14": [
+            "5",
+            "1"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Worker Type": "Regular workers",
+         "2013": "21900",
+         "2014": "22400",
+         "2015": "22500",
+         "2016": "20800",
+         "2017": "20500"
+      },
+      {
+         "Worker Type": "Temporary workers",
+         "2013": "4300",
+         "2014": "4600",
+         "2015": "3000",
+         "2016": "3300",
+         "2017": "2800"
+      }
+   ]
+}

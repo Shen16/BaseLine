@@ -1,0 +1,156 @@
+{
+   "title": "Test",
+   "labels": [
+      "Year",
+      "England and Wales",
+      "Scotland"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a multi-line chart with 2 lines representing England and Wales, and Scotland. ",
+      "The line for England and Wales has the highest values across Year with a mean value of 10.85, ",
+      "and it peaked at 2003, and 2004 with a value of 13.3.",
+      "Scotland mostly had the least y-axis name with a mean value of 5.37, ",
+      "which peaked at 2006 with a value of 12.4. ",
+      "Overall Scotland is rapidly decreasing, England and Wales is gradually decreasing,  throughout the Year",
+      "The difference of y_axis name between England and Wales and Scotland is greater at Year 2017 compared to the Year 2000.",
+      "The greatest difference of y_axis name between England and Wales and Scotland occurs at Year 2010 and the smallest difference occurs at 2008."
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "16": [
+            "17",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "13",
+            "0"
+         ],
+         "9": [
+            "13",
+            "0"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "15": [
+            "17",
+            "1"
+         ]
+      },
+      {
+         "1": [
+            "11",
+            "1"
+         ],
+         "10": [
+            "11",
+            "1"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2017",
+         "England and Wales": "8.4",
+         "Scotland": "0"
+      },
+      {
+         "Year": "2016",
+         "England and Wales": "8.9",
+         "Scotland": "0"
+      },
+      {
+         "Year": "2015",
+         "England and Wales": "8.5",
+         "Scotland": "0"
+      },
+      {
+         "Year": "2014",
+         "England and Wales": "9.3",
+         "Scotland": "0"
+      },
+      {
+         "Year": "2013",
+         "England and Wales": "9.8",
+         "Scotland": "0"
+      },
+      {
+         "Year": "2012",
+         "England and Wales": "10.0",
+         "Scotland": "0"
+      },
+      {
+         "Year": "2011",
+         "England and Wales": "10.1",
+         "Scotland": "0"
+      },
+      {
+         "Year": "2010",
+         "England and Wales": "10.2",
+         "Scotland": "0"
+      },
+      {
+         "Year": "2009",
+         "England and Wales": "9.8",
+         "Scotland": "0"
+      },
+      {
+         "Year": "2008",
+         "England and Wales": "10.5",
+         "Scotland": "11.1"
+      },
+      {
+         "Year": "2007",
+         "England and Wales": "11.1",
+         "Scotland": "12.2"
+      },
+      {
+         "Year": "2006",
+         "England and Wales": "11.5",
+         "Scotland": "12.4"
+      },
+      {
+         "Year": "2005",
+         "England and Wales": "12.2",
+         "Scotland": "10.3"
+      },
+      {
+         "Year": "2004",
+         "England and Wales": "13.3",
+         "Scotland": "10.5"
+      },
+      {
+         "Year": "2003",
+         "England and Wales": "13.3",
+         "Scotland": "10.1"
+      },
+      {
+         "Year": "2002",
+         "England and Wales": "12.8",
+         "Scotland": "10"
+      },
+      {
+         "Year": "2001",
+         "England and Wales": "12.9",
+         "Scotland": "9.7"
+      },
+      {
+         "Year": "2000",
+         "England and Wales": "12.7",
+         "Scotland": "10.3"
+      }
+   ]
+}

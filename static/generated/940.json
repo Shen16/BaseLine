@@ -1,0 +1,77 @@
+{
+   "title": "Test",
+   "xAxis": "Fiscal year",
+   "yAxis": "Net sales in million Japanese yen",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 12 categories on the x axis representing Fiscal year, and Net sales in million Japanese yen in each Fiscal year on the y axis.",
+      "2019 is higher than any other categories with value 5362772.0, followed by , and 2017. Down to category 2010 with the lowest value of 2976709.0. ",
+      " The highest value at 2019 is almost 1.8 times larger than the minimum value of 2010. ",
+      " The highest value at 2019 is almost 1.8 times larger than the minimum value of 2010. ",
+      " The difference between the max Fiscal year 2019 and min Fiscal year 2010 is 2386063.0. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 9,
+         "12": 9
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Fiscal year": "2019",
+         "Net sales in million Japanese yen": 5362772.0
+      },
+      {
+         "Fiscal year": "2018",
+         "Net sales in million Japanese yen": 5108291.0
+      },
+      {
+         "Fiscal year": "2017",
+         "Net sales in million Japanese yen": 4527148.0
+      },
+      {
+         "Fiscal year": "2016",
+         "Net sales in million Japanese yen": 4524522.0
+      },
+      {
+         "Fiscal year": "2015",
+         "Net sales in million Japanese yen": 4309787.0
+      },
+      {
+         "Fiscal year": "2014",
+         "Net sales in million Japanese yen": 4094960.0
+      },
+      {
+         "Fiscal year": "2013",
+         "Net sales in million Japanese yen": 3580923.0
+      },
+      {
+         "Fiscal year": "2012",
+         "Net sales in million Japanese yen": 3154630.0
+      },
+      {
+         "Fiscal year": "2011",
+         "Net sales in million Japanese yen": 3131460.0
+      },
+      {
+         "Fiscal year": "2010",
+         "Net sales in million Japanese yen": 2976709.0
+      },
+      {
+         "Fiscal year": "2009",
+         "Net sales in million Japanese yen": 3142665.0
+      },
+      {
+         "Fiscal year": "2008",
+         "Net sales in million Japanese yen": 4025076.0
+      }
+   ]
+}

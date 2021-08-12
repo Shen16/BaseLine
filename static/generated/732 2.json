@@ -1,0 +1,53 @@
+{
+   "title": "Test",
+   "xAxis": "Year",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Share of respondents, with a total of 5 data points.",
+      " Overall Share of respondents has decreased over the Year",
+      "Share of respondents is rapidly decreasing from A_lifetime to 11_to_20_years, rapidly increasing from 11_to_20_years to 2_to_5_years, and lastly rapidly decreasing from 2_to_5_years to Less_than_two_years.",
+      "The steepest decrease occurs in between the Year A_lifetime and 11_to_20_years.",
+      "Max Share of respondents about 77.0 was recorded at Year A_lifetime",
+      "Min Share of respondents about 2.0 was recorded at Year 11_to_20_years, and Less_than_two_years",
+      "#########################################################################",
+      "This line chart has an x axis representing Year and a y axis representing Share of respondents, with a total of 5 data points. The chart has 2 significant trends.",
+      " The longest trend is slightly increasing which exists from A_lifetime to 2_to_5_years.",
+      " Additionally, the next significant trend is extremely decreasing which exists from 2_to_5_years to Less_than_two_years."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "1",
+         "12": "4"
+      },
+      {
+         "3": "0",
+         "14": "1"
+      }
+   ],
+   "data": [
+      {
+         "Year": "Less than two years",
+         "Share of respondents": 2.0
+      },
+      {
+         "Year": "2 to 5 years",
+         "Share of respondents": 6.0
+      },
+      {
+         "Year": "6 to 10 years",
+         "Share of respondents": 3.0
+      },
+      {
+         "Year": "11 to 20 years",
+         "Share of respondents": 2.0
+      },
+      {
+         "Year": "A lifetime",
+         "Share of respondents": 77.0
+      }
+   ]
+}

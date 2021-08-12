@@ -1,0 +1,49 @@
+{
+   "title": "Test",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 5 categories on the x axis representing Response, and Share of respondents in each Response on the y axis.",
+      "Smartphone is higher than any other categories with value 10.0, followed by , and Debit card. Down to category Passport with the lowest value of 4.0. ",
+      " The highest value at Smartphone is almost 2.5 times larger than the minimum value of Passport. ",
+      " The highest value at Smartphone is almost 2.5 times larger than the minimum value of Passport. ",
+      " The difference between the max Response Smartphone and min Response Passport is 6.0. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 4,
+         "12": 4
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Response": "Smartphone",
+         "Share of respondents": 10.0
+      },
+      {
+         "Response": "Credit card",
+         "Share of respondents": 9.0
+      },
+      {
+         "Response": "Debit card",
+         "Share of respondents": 8.0
+      },
+      {
+         "Response": "License",
+         "Share of respondents": 6.0
+      },
+      {
+         "Response": "Passport",
+         "Share of respondents": 4.0
+      }
+   ]
+}

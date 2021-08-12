@@ -1,0 +1,53 @@
+{
+   "title": "Test",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 6 categories on the x axis representing Response, and Share of respondents in each Response on the y axis.",
+      "Guitar is higher than any other categories with value 26.0, followed by , and Piano. Down to category Flute with the lowest value of 5.0. ",
+      " The highest value at Guitar is almost 5.2 times larger than the minimum value of Flute. ",
+      " The highest value at Guitar is almost 5.2 times larger than the minimum value of Flute. ",
+      " The difference between the max Response Guitar and min Response Flute is 21.0. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 5,
+         "12": 5
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Response": "Guitar",
+         "Share of respondents": 26.0
+      },
+      {
+         "Response": "Saxophone",
+         "Share of respondents": 25.0
+      },
+      {
+         "Response": "Piano",
+         "Share of respondents": 21.0
+      },
+      {
+         "Response": "Violin",
+         "Share of respondents": 14.0
+      },
+      {
+         "Response": "Drums",
+         "Share of respondents": 7.0
+      },
+      {
+         "Response": "Flute",
+         "Share of respondents": 5.0
+      }
+   ]
+}

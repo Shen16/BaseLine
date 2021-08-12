@@ -1,0 +1,77 @@
+{
+   "title": "Test",
+   "xAxis": "Team",
+   "yAxis": "Number of players",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 12 categories on the x axis representing Team, and Number of players in each Team on the y axis.",
+      "Manchester City is higher than any other categories with value 16.0, followed by , and FC Barcelona. Down to category Atl\u00e9tico Madrid with the lowest value of 9.0. ",
+      " The highest value at Manchester City is almost 1.78 times larger than the minimum value of Atl\u00e9tico Madrid. ",
+      " The highest value at Manchester City is almost 1.78 times larger than the minimum value of Atl\u00e9tico Madrid. ",
+      " The difference between the max Team Manchester City and min Team Atl\u00e9tico Madrid is 7.0. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 9,
+         "12": 9
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Team": "Manchester City",
+         "Number of players": 16.0
+      },
+      {
+         "Team": "Real Madrid",
+         "Number of players": 15.0
+      },
+      {
+         "Team": "FC Barcelona",
+         "Number of players": 14.0
+      },
+      {
+         "Team": "Tottenham Hotspur",
+         "Number of players": 12.0
+      },
+      {
+         "Team": "FC Paris Saint-Germain",
+         "Number of players": 12.0
+      },
+      {
+         "Team": "Chelsea FC",
+         "Number of players": 12.0
+      },
+      {
+         "Team": "FC Bayern M\u00fcnchen",
+         "Number of players": 11.0
+      },
+      {
+         "Team": "Manchester United",
+         "Number of players": 11.0
+      },
+      {
+         "Team": "Juventus",
+         "Number of players": 11.0
+      },
+      {
+         "Team": "Atl\u00e9tico Madrid",
+         "Number of players": 9.0
+      },
+      {
+         "Team": "Al-Hilal Riad",
+         "Number of players": 9.0
+      },
+      {
+         "Team": "Al-Ahli Dschidda",
+         "Number of players": 9.0
+      }
+   ]
+}

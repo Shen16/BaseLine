@@ -1,0 +1,73 @@
+{
+   "title": "Test",
+   "xAxis": "Country",
+   "yAxis": "Monthly minimum wage in U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 11 categories on the x axis representing Country, and Monthly minimum wage in U.S. dollars in each Country on the y axis.",
+      "Uruguay is higher than any other categories with value 462.3, followed by , and Ecuador. Down to category Venezuela with the lowest value of 7.0. ",
+      " The highest value at Uruguay is almost 66.04 times larger than the minimum value of Venezuela. ",
+      " The highest value at Uruguay is almost 66.04 times larger than the minimum value of Venezuela. ",
+      " The difference between the max Country Uruguay and min Country Venezuela is 455.3. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 10,
+         "12": 10
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Country": "Uruguay",
+         "Monthly minimum wage in U.S. dollars": 462.3
+      },
+      {
+         "Country": "Chile",
+         "Monthly minimum wage in U.S. dollars": 431.7
+      },
+      {
+         "Country": "Ecuador",
+         "Monthly minimum wage in U.S. dollars": 394.0
+      },
+      {
+         "Country": "Paraguay",
+         "Monthly minimum wage in U.S. dollars": 355.6
+      },
+      {
+         "Country": "Bolivia",
+         "Monthly minimum wage in U.S. dollars": 298.0
+      },
+      {
+         "Country": "Argentina",
+         "Monthly minimum wage in U.S. dollars": 297.9
+      },
+      {
+         "Country": "Peru",
+         "Monthly minimum wage in U.S. dollars": 275.7
+      },
+      {
+         "Country": "Brazil",
+         "Monthly minimum wage in U.S. dollars": 257.3
+      },
+      {
+         "Country": "Colombia",
+         "Monthly minimum wage in U.S. dollars": 254.7
+      },
+      {
+         "Country": "Mexico",
+         "Monthly minimum wage in U.S. dollars": 156.9
+      },
+      {
+         "Country": "Venezuela",
+         "Monthly minimum wage in U.S. dollars": 7.0
+      }
+   ]
+}

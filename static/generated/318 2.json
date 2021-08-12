@@ -1,0 +1,79 @@
+{
+   "title": "Test",
+   "labels": [
+      "Response",
+      "Male",
+      "Female"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This grouped bar chart has 7 categories of Response on the x axis representing 2 groups: Male, and Female.",
+      " Averaging these 2 groups, the highest category is found for Response Several times a day with a mean value of 47.5.",
+      " The lowest category is observed at Never that has a mean value of 1.0",
+      " showing a difference of 191.8% with the maximum value.",
+      " In case of Several times a day, Male shows more dominance than any other Response with a value 49.0 and it has the lowest value 1.0 in Never. "
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "13": [
+            "2",
+            "0"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "14": [
+            "2",
+            "1"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Response": "Several times a day",
+         "Male": "49",
+         "Female": "46"
+      },
+      {
+         "Response": "Every day",
+         "Male": "21",
+         "Female": "24"
+      },
+      {
+         "Response": "Several times a week",
+         "Male": "16",
+         "Female": "17"
+      },
+      {
+         "Response": "At least once a week",
+         "Male": "6",
+         "Female": "6"
+      },
+      {
+         "Response": "At least once a month",
+         "Male": "4",
+         "Female": "3"
+      },
+      {
+         "Response": "Less than once a month",
+         "Male": "2",
+         "Female": "2"
+      },
+      {
+         "Response": "Never",
+         "Male": "1",
+         "Female": "1"
+      }
+   ]
+}

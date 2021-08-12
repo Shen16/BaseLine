@@ -1,0 +1,69 @@
+{
+   "title": "Test",
+   "xAxis": "Tourist Places",
+   "yAxis": "Overtourism score (1-10)",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 10 categories on the x axis representing Tourist Places, and Overtourism score (1-10) in each Tourist Places on the y axis.",
+      "Nantes France is higher than any other categories with value 3.61, followed by , and Moscow Russia. Down to category Barcelona Spain with the lowest value of 2.05. ",
+      " The highest value at Nantes France is almost 1.76 times larger than the minimum value of Barcelona Spain. ",
+      " The highest value at Nantes France is almost 1.76 times larger than the minimum value of Barcelona Spain. ",
+      " The difference between the max Tourist Places Nantes France and min Tourist Places Barcelona Spain is 1.56. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 9,
+         "12": 9
+      },
+      {
+         "7": 0,
+         "12": 0
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Tourist Places": "Barcelona Spain",
+         "Overtourism score (1-10)": 2.05
+      },
+      {
+         "Tourist Places": "Amsterdam Netherlands",
+         "Overtourism score (1-10)": 2.18
+      },
+      {
+         "Tourist Places": "Venice Italy",
+         "Overtourism score (1-10)": 2.19
+      },
+      {
+         "Tourist Places": "Milan Italy",
+         "Overtourism score (1-10)": 2.66
+      },
+      {
+         "Tourist Places": "Budapest Hungary",
+         "Overtourism score (1-10)": 2.89
+      },
+      {
+         "Tourist Places": "Bucharest Romania",
+         "Overtourism score (1-10)": 3.22
+      },
+      {
+         "Tourist Places": "Reykjavik Iceland",
+         "Overtourism score (1-10)": 3.26
+      },
+      {
+         "Tourist Places": "Moscow Russia",
+         "Overtourism score (1-10)": 3.27
+      },
+      {
+         "Tourist Places": "Athens Greece",
+         "Overtourism score (1-10)": 3.45
+      },
+      {
+         "Tourist Places": "Nantes France",
+         "Overtourism score (1-10)": 3.61
+      }
+   ]
+}

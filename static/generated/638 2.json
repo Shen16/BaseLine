@@ -1,0 +1,59 @@
+{
+   "title": "Test",
+   "xAxis": "Country",
+   "yAxis": "Export volume in thousand metric tons",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 7 categories on the x axis representing Country, and Export volume in thousand metric tons in each Country on the y axis.",
+      " The highest category is found at EU where Export volume in thousand metric tons is 3900.0.",
+      " Followed by 3221.0 in United States.",
+      " The lowest category is found at China where Export volume in thousand metric tons is 100.0.",
+      " The highest value at EU is almost 39.0 times larger than the minimum value of China. ",
+      " The highest value at EU is almost 39.0 times larger than the minimum value of China. ",
+      " The difference between the max Country EU and min Country China is 3800.0. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 5,
+         "12": 5
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Country": "EU",
+         "Export volume in thousand metric tons": 3900.0
+      },
+      {
+         "Country": "United States",
+         "Export volume in thousand metric tons": 3221.0
+      },
+      {
+         "Country": "Canada",
+         "Export volume in thousand metric tons": 1400.0
+      },
+      {
+         "Country": "Brazil",
+         "Export volume in thousand metric tons": 1000.0
+      },
+      {
+         "Country": "Mexico",
+         "Export volume in thousand metric tons": 250.0
+      },
+      {
+         "Country": "China",
+         "Export volume in thousand metric tons": 100.0
+      },
+      {
+         "Country": "Others",
+         "Export volume in thousand metric tons": 476.0
+      }
+   ]
+}

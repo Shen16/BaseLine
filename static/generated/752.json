@@ -1,0 +1,98 @@
+{
+   "title": "Test",
+   "labels": [
+      "Year",
+      "Common stock",
+      "Preferred stock"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a multi-line chart with 2 lines representing Common stock, and Preferred stock. ",
+      "The line for Common stock has the highest values across Year with a mean value of 160.64, ",
+      "and it peaked at 2013 with a value of 196.9.",
+      "Preferred stock mostly had the least y-axis name with a mean value of 160.21, ",
+      "which peaked at 2013 with a value of 204.15. ",
+      "Preferred stock reported the highest y-axis name  about 204.15 in Year 2013",
+      "Preferred stock reported the lowest y-axis name  about 133.35 in Year 2016",
+      "Overall Common stock, and Preferred stock are gradually decreasing,  throughout the Year",
+      "The difference of y_axis name between Common stock and Preferred stock is smaller at Year 2018 compared to the Year 2013.",
+      "The greatest difference of y_axis name between Common stock and Preferred stock occurs at Year 2015 and the smallest difference occurs at 2018."
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "16": [
+            "5",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "5",
+            "0"
+         ],
+         "9": [
+            "5",
+            "0"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "15": [
+            "5",
+            "1"
+         ]
+      },
+      {
+         "1": [
+            "5",
+            "1"
+         ],
+         "10": [
+            "5",
+            "1"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Common stock": "139.1",
+         "Preferred stock": "138.92"
+      },
+      {
+         "Year": "2017",
+         "Common stock": "168.7",
+         "Preferred stock": "166.45"
+      },
+      {
+         "Year": "2016",
+         "Common stock": "136.75",
+         "Preferred stock": "133.35"
+      },
+      {
+         "Year": "2015",
+         "Common stock": "142.3",
+         "Preferred stock": "133.75"
+      },
+      {
+         "Year": "2014",
+         "Common stock": "180.1",
+         "Preferred stock": "184.65"
+      },
+      {
+         "Year": "2013",
+         "Common stock": "196.9",
+         "Preferred stock": "204.15"
+      }
+   ]
+}

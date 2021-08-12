@@ -1,0 +1,89 @@
+{
+   "title": "Test",
+   "xAxis": "Movies",
+   "yAxis": "Number of units sold in thousands",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 15 categories on the x axis representing Movies, and Number of units sold in thousands in each Movies on the y axis.",
+      "The Goonies is higher than any other categories with value 903.47, followed by Aquaman, and Bohemian Rhapsody. Down to category Aladdin with the lowest value of 506.52. ",
+      " The highest value at The Goonies is almost 1.78 times larger than the minimum value of Aladdin. ",
+      " The highest value at The Goonies is almost 1.78 times larger than the minimum value of Aladdin. ",
+      " The difference between the max Movies The Goonies and min Movies Aladdin is 396.95000000000005. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 14,
+         "12": 14
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Movies": "The Goonies",
+         "Number of units sold in thousands": 903.47
+      },
+      {
+         "Movies": "Aquaman",
+         "Number of units sold in thousands": 868.93
+      },
+      {
+         "Movies": "Bohemian Rhapsody",
+         "Number of units sold in thousands": 855.06
+      },
+      {
+         "Movies": "Avengers: Endgame",
+         "Number of units sold in thousands": 848.49
+      },
+      {
+         "Movies": "Captain Marvel",
+         "Number of units sold in thousands": 840.92
+      },
+      {
+         "Movies": "A Star is Born",
+         "Number of units sold in thousands": 832.1
+      },
+      {
+         "Movies": "How to Train Your Dragon: The Hidden World",
+         "Number of units sold in thousands": 686.49
+      },
+      {
+         "Movies": "Hocus Pocus",
+         "Number of units sold in thousands": 656.63
+      },
+      {
+         "Movies": "Matilda",
+         "Number of units sold in thousands": 569.92
+      },
+      {
+         "Movies": "John Wick: Chapter 3 - Parabellum",
+         "Number of units sold in thousands": 567.68
+      },
+      {
+         "Movies": "Fantastic Beasts: The Crimes of Grindelwald",
+         "Number of units sold in thousands": 542.02
+      },
+      {
+         "Movies": "Bumblebee",
+         "Number of units sold in thousands": 531.96
+      },
+      {
+         "Movies": "Dr. Seuss' The Grinch",
+         "Number of units sold in thousands": 529.48
+      },
+      {
+         "Movies": "Pokemon: Detective Pikachu",
+         "Number of units sold in thousands": 509.33
+      },
+      {
+         "Movies": "Aladdin",
+         "Number of units sold in thousands": 506.52
+      }
+   ]
+}

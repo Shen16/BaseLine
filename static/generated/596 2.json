@@ -1,0 +1,54 @@
+{
+   "title": "Test",
+   "labels": [
+      "Country",
+      "Men",
+      "Women"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This grouped bar chart has 2 categories of Country on the x axis representing 2 groups: Men, and Women.",
+      " Averaging the 2 groups, the highest category is found for Country 65 years with a mean value of 20.3.",
+      " The minimum category is found at 45 years with a mean value of 10.95.",
+      " This represents a difference of 59.8%.",
+      " In case of 65 years, Men shows more dominance than any other Country and it has the lowest value in 45 years. "
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "13": [
+            "2",
+            "1"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "14": [
+            "2",
+            "0"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Country": "45 years",
+         "Men": "10.3",
+         "Women": "11.6"
+      },
+      {
+         "Country": "65 years",
+         "Men": "19.5",
+         "Women": "21.1"
+      }
+   ]
+}

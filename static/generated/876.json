@@ -1,0 +1,141 @@
+{
+   "title": "Test",
+   "xAxis": "Quarter",
+   "yAxis": "Revenue in million GBP",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 28 categories on the x axis representing Quarter, and Revenue in million GBP in each Quarter on the y axis.",
+      "Q4 2015 is higher than any other categories with value 844.0, followed by , and Q4 2016. Down to category Q3 2013 with the lowest value of 444.0. ",
+      " The highest value at Q4 2015 is almost 1.9 times larger than the minimum value of Q3 2013. ",
+      " The highest value at Q4 2015 is almost 1.9 times larger than the minimum value of Q3 2013. ",
+      " The difference between the max Quarter Q4 2015 and min Quarter Q3 2013 is 400.0. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 15,
+         "12": 15
+      },
+      {
+         "7": 23,
+         "12": 23
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Quarter": "Q3 2019",
+         "Revenue in million GBP": 531.0
+      },
+      {
+         "Quarter": "Q2 2019",
+         "Revenue in million GBP": 508.0
+      },
+      {
+         "Quarter": "Q1 2019",
+         "Revenue in million GBP": 565.0
+      },
+      {
+         "Quarter": "Q4 2018",
+         "Revenue in million GBP": 821.0
+      },
+      {
+         "Quarter": "Q3 2018",
+         "Revenue in million GBP": 537.0
+      },
+      {
+         "Quarter": "Q2 2018",
+         "Revenue in million GBP": 507.0
+      },
+      {
+         "Quarter": "Q1 2018",
+         "Revenue in million GBP": 566.0
+      },
+      {
+         "Quarter": "Q4 2017",
+         "Revenue in million GBP": 833.0
+      },
+      {
+         "Quarter": "Q3 2017",
+         "Revenue in million GBP": 547.0
+      },
+      {
+         "Quarter": "Q2 2017",
+         "Revenue in million GBP": 498.0
+      },
+      {
+         "Quarter": "Q1 2017",
+         "Revenue in million GBP": 537.0
+      },
+      {
+         "Quarter": "Q4 2016",
+         "Revenue in million GBP": 821.0
+      },
+      {
+         "Quarter": "Q3 2016",
+         "Revenue in million GBP": 528.0
+      },
+      {
+         "Quarter": "Q2 2016",
+         "Revenue in million GBP": 494.0
+      },
+      {
+         "Quarter": "Q1 2016",
+         "Revenue in million GBP": 561.0
+      },
+      {
+         "Quarter": "Q4 2015",
+         "Revenue in million GBP": 844.0
+      },
+      {
+         "Quarter": "Q3 2015",
+         "Revenue in million GBP": 521.0
+      },
+      {
+         "Quarter": "Q2 2015",
+         "Revenue in million GBP": 508.0
+      },
+      {
+         "Quarter": "Q1 2015",
+         "Revenue in million GBP": 581.0
+      },
+      {
+         "Quarter": "Q4 2014",
+         "Revenue in million GBP": 740.0
+      },
+      {
+         "Quarter": "Q2 2014",
+         "Revenue in million GBP": 473.0
+      },
+      {
+         "Quarter": "Q1 2014",
+         "Revenue in million GBP": 528.0
+      },
+      {
+         "Quarter": "Q4 2013",
+         "Revenue in million GBP": 707.0
+      },
+      {
+         "Quarter": "Q3 2013",
+         "Revenue in million GBP": 444.0
+      },
+      {
+         "Quarter": "Q2 2013",
+         "Revenue in million GBP": 457.0
+      },
+      {
+         "Quarter": "Q1 2013",
+         "Revenue in million GBP": 478.0
+      },
+      {
+         "Quarter": "Q4 2012",
+         "Revenue in million GBP": 660.0
+      },
+      {
+         "Quarter": "Q3 2012",
+         "Revenue in million GBP": 450.0
+      }
+   ]
+}

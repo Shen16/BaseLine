@@ -1,0 +1,53 @@
+{
+   "title": "Test",
+   "xAxis": "Year",
+   "yAxis": "Viewers in millions",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Viewers in millions, with a total of 5 data points.",
+      " Overall Viewers in millions has decreased over the Year",
+      "Viewers in millions is roughly constant from 2015 to 2019.",
+      "The steepest stays the same occurs in between the Year 2015 and 2016.",
+      "Max Viewers in millions about 12.9 was recorded at Year 2015",
+      "Min Viewers in millions about 10.76 was recorded at Year 2017",
+      "#########################################################################",
+      "This line chart has an x axis representing Year and a y axis representing Viewers in millions, with a total of 5 data points. The chart has 2 significant trends.",
+      " The longest trend is extremely increasing which exists from 2017 to 2019.",
+      " Likewise, the next significant trend is slightly decreasing which exists from 2015 to 2017."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "0",
+         "12": "2"
+      },
+      {
+         "3": "2",
+         "14": "4"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Viewers in millions": 12.6
+      },
+      {
+         "Year": "2018",
+         "Viewers in millions": 11.6
+      },
+      {
+         "Year": "2017",
+         "Viewers in millions": 10.76
+      },
+      {
+         "Year": "2016",
+         "Viewers in millions": 11.36
+      },
+      {
+         "Year": "2015",
+         "Viewers in millions": 12.9
+      }
+   ]
+}

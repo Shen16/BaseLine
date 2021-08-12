@@ -1,0 +1,57 @@
+{
+   "title": "Test",
+   "xAxis": "Name",
+   "yAxis": "Market share",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 7 categories on the x axis representing Name, and Market share in each Name on the y axis.",
+      "Other is higher than any other categories with value 30.5, followed by , and Activity toys. Down to category Plush toys with the lowest value of 5.1. ",
+      " The highest value at Other is almost 5.98 times larger than the minimum value of Plush toys. ",
+      " The highest value at Other is almost 5.98 times larger than the minimum value of Plush toys. ",
+      " The difference between the max Name Other and min Name Plush toys is 25.4. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 6,
+         "12": 6
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Name": "Other",
+         "Market share": 30.5
+      },
+      {
+         "Name": "Infant/Pre-school toys",
+         "Market share": 16.2
+      },
+      {
+         "Name": "Activity toys",
+         "Market share": 15.1
+      },
+      {
+         "Name": "Dolls",
+         "Market share": 12.2
+      },
+      {
+         "Name": "Ride-ons",
+         "Market share": 11.4
+      },
+      {
+         "Name": "Games and puzzles",
+         "Market share": 9.5
+      },
+      {
+         "Name": "Plush toys",
+         "Market share": 5.1
+      }
+   ]
+}

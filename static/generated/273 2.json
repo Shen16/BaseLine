@@ -1,0 +1,53 @@
+{
+   "title": "Test",
+   "xAxis": "Category Of Gdp",
+   "yAxis": "Decrease in billion euros",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 6 categories on the x axis representing Category Of Gdp, and Decrease in billion euros in each Category Of Gdp on the y axis.",
+      "Total is higher than any other categories with value 70.0, followed by Production, and Private consumption. Down to category Exports with the lowest value of 1.4. ",
+      " The highest value at Total is almost 50.0 times larger than the minimum value of Exports. ",
+      " The highest value at Total is almost 50.0 times larger than the minimum value of Exports. ",
+      " The difference between the max Category Of Gdp Total and min Category Of Gdp Exports is 68.6. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 5,
+         "12": 5
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Category Of Gdp": "Total",
+         "Decrease in billion euros": 70.0
+      },
+      {
+         "Category Of Gdp": "Production",
+         "Decrease in billion euros": 45.4
+      },
+      {
+         "Category Of Gdp": "Private consumption",
+         "Decrease in billion euros": 18.2
+      },
+      {
+         "Category Of Gdp": "Power generation",
+         "Decrease in billion euros": 2.7
+      },
+      {
+         "Category Of Gdp": "Imports",
+         "Decrease in billion euros": 2.0
+      },
+      {
+         "Category Of Gdp": "Exports",
+         "Decrease in billion euros": 1.4
+      }
+   ]
+}

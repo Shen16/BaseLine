@@ -1,0 +1,139 @@
+{
+   "title": "Test",
+   "xAxis": "Year",
+   "yAxis": "Number of skier visits in millions",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Number of skier visits in millions, with a total of 19 data points.",
+      " Overall Number of skier visits in millions has increased over the Year.",
+      "Number of skier visits in millions is slightly increasing from 00/01 to 01/02, roughly constant from 01/02 to 04/05, roughly decreasing from 04/05 to 06/07, roughly increasing from 06/07 to 08/09, roughly constant from 08/09 to 10/11, gradually decreasing from 10/11 to 11/12, slightly increasing from 11/12 to 12/13, roughly constant from 12/13 to 17/18, and lastly slightly increasing from 17/18 to 18/19.",
+      "The steepest decrease occurs in between the Year 10/11 and 11/12.",
+      "Max Number of skier visits in millions about 60.54 was recorded at Year 10/11",
+      "Min Number of skier visits in millions about 50.97 was recorded at Year 11/12",
+      "#########################################################################",
+      "This line chart has an x axis representing Year and a y axis representing Number of skier visits in millions, with a total of 19 data points. The chart has 8 significant trends.",
+      " The longest trend is slightly decreasing which exists from 12/13 to 16/17.",
+      " Contrarily, the next significant trend is extremely decreasing which exists from 16/17 to 18/19.",
+      " But, the next significant trend is slightly decreasing which exists from 10/11 to 12/13.",
+      " On the contrary, the next significant trend is extremely increasing which exists from 08/09 to 10/11.",
+      " Additionally, the next significant trend is moderately increasing which exists from 06/07 to 08/09.",
+      " Correspondingly, the next significant trend is slightly increasing which exists from 04/05 to 06/07.",
+      " Correspondingly, the next significant trend is moderately decreasing which exists from 02/03 to 04/05.",
+      " On the contrary, the next significant trend is moderately increasing which exists from 00/01 to 02/03."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "2",
+         "12": "6"
+      },
+      {
+         "3": "0",
+         "14": "2"
+      },
+      {
+         "3": "6",
+         "14": "8"
+      },
+      {
+         "3": "8",
+         "14": "10"
+      },
+      {
+         "3": "10",
+         "14": "12"
+      },
+      {
+         "3": "12",
+         "14": "14"
+      },
+      {
+         "3": "14",
+         "14": "16"
+      },
+      {
+         "3": "16",
+         "14": "18"
+      }
+   ],
+   "data": [
+      {
+         "Year": "18/19",
+         "Number of skier visits in millions": 59.0
+      },
+      {
+         "Year": "17/18",
+         "Number of skier visits in millions": 53.3
+      },
+      {
+         "Year": "16/17",
+         "Number of skier visits in millions": 54.7
+      },
+      {
+         "Year": "15/16",
+         "Number of skier visits in millions": 52.8
+      },
+      {
+         "Year": "14/15",
+         "Number of skier visits in millions": 53.6
+      },
+      {
+         "Year": "13/14",
+         "Number of skier visits in millions": 56.49
+      },
+      {
+         "Year": "12/13",
+         "Number of skier visits in millions": 56.9
+      },
+      {
+         "Year": "11/12",
+         "Number of skier visits in millions": 50.97
+      },
+      {
+         "Year": "10/11",
+         "Number of skier visits in millions": 60.54
+      },
+      {
+         "Year": "09/10",
+         "Number of skier visits in millions": 59.79
+      },
+      {
+         "Year": "08/09",
+         "Number of skier visits in millions": 57.35
+      },
+      {
+         "Year": "07/08",
+         "Number of skier visits in millions": 60.5
+      },
+      {
+         "Year": "06/07",
+         "Number of skier visits in millions": 55.07
+      },
+      {
+         "Year": "05/06",
+         "Number of skier visits in millions": 58.9
+      },
+      {
+         "Year": "04/05",
+         "Number of skier visits in millions": 56.88
+      },
+      {
+         "Year": "03/04",
+         "Number of skier visits in millions": 57.07
+      },
+      {
+         "Year": "02/03",
+         "Number of skier visits in millions": 57.59
+      },
+      {
+         "Year": "01/02",
+         "Number of skier visits in millions": 54.41
+      },
+      {
+         "Year": "00/01",
+         "Number of skier visits in millions": 57.34
+      }
+   ]
+}

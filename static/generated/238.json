@@ -1,0 +1,70 @@
+{
+   "title": "Test",
+   "xAxis": "Year",
+   "yAxis": "Spending in billion euros",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Spending in billion euros, with a total of 8 data points.",
+      " Overall Spending in billion euros has increased over the Year.",
+      "Spending in billion euros is roughly constant from 2012 to 2017, and lastly slightly increasing from 2017 to 2028.",
+      "The steepest increase occurs in between the Year 2018 and 2028.",
+      "Max Spending in billion euros about 131.4 was recorded at Year 2028",
+      "Min Spending in billion euros about 107.2 was recorded at Year 2012",
+      "#########################################################################",
+      "This line chart has an x axis representing Year and a y axis representing Spending in billion euros, with a total of 8 data points. The chart has 3 significant trends.",
+      " The longest trend is extremely increasing which exists from 2015 to 2028.",
+      " Likewise, the next significant trend is moderately increasing which exists from 2012 to 2014.",
+      " In a similar manner, the next significant trend is slightly decreasing which exists from 2014 to 2015."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "0",
+         "12": "4"
+      },
+      {
+         "3": "5",
+         "14": "7"
+      },
+      {
+         "3": "4",
+         "14": "5"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2028",
+         "Spending in billion euros": 131.4
+      },
+      {
+         "Year": "2018",
+         "Spending in billion euros": 114.9
+      },
+      {
+         "Year": "2017",
+         "Spending in billion euros": 112.3
+      },
+      {
+         "Year": "2016",
+         "Spending in billion euros": 110.9
+      },
+      {
+         "Year": "2015",
+         "Spending in billion euros": 108.1
+      },
+      {
+         "Year": "2014",
+         "Spending in billion euros": 108.3
+      },
+      {
+         "Year": "2013",
+         "Spending in billion euros": 107.5
+      },
+      {
+         "Year": "2012",
+         "Spending in billion euros": 107.2
+      }
+   ]
+}

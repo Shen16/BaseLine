@@ -1,0 +1,82 @@
+{
+   "title": "Test",
+   "xAxis": "Year",
+   "yAxis": "Labor force in millions",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Labor force in millions, with a total of 11 data points.",
+      " Overall Labor force in millions has increased over the Year",
+      "Labor force in millions is roughly constant from 2010 to 2020.",
+      "The steepest stays the same occurs in between the Year 2017 and 2018.",
+      "Max Labor force in millions about 8.94 was recorded at Year 2020",
+      "Min Labor force in millions about 8.21 was recorded at Year 2014",
+      "#########################################################################",
+      "This line chart has an x axis representing Year and a y axis representing Labor force in millions, with a total of 11 data points. The chart has 3 significant trends.",
+      " The longest trend is extremely increasing which exists from 2014 to 2020.",
+      " Additionally, the next significant trend is slightly decreasing which exists from 2012 to 2014.",
+      " Differently, the next significant trend is moderately increasing which exists from 2010 to 2012."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "0",
+         "12": "6"
+      },
+      {
+         "3": "6",
+         "14": "8"
+      },
+      {
+         "3": "8",
+         "14": "10"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2020",
+         "Labor force in millions": 8.94
+      },
+      {
+         "Year": "2019",
+         "Labor force in millions": 8.89
+      },
+      {
+         "Year": "2018",
+         "Labor force in millions": 8.78
+      },
+      {
+         "Year": "2017",
+         "Labor force in millions": 8.58
+      },
+      {
+         "Year": "2016",
+         "Labor force in millions": 8.4
+      },
+      {
+         "Year": "2015",
+         "Labor force in millions": 8.29
+      },
+      {
+         "Year": "2014",
+         "Labor force in millions": 8.21
+      },
+      {
+         "Year": "2013",
+         "Labor force in millions": 8.27
+      },
+      {
+         "Year": "2012",
+         "Labor force in millions": 8.33
+      },
+      {
+         "Year": "2011",
+         "Labor force in millions": 8.28
+      },
+      {
+         "Year": "2010",
+         "Labor force in millions": 8.28
+      }
+   ]
+}

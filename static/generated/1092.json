@@ -1,0 +1,77 @@
+{
+   "title": "Test",
+   "xAxis": "Month",
+   "yAxis": "Revenue in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 12 categories on the x axis representing Month, and Revenue in million U.S. dollars in each Month on the y axis.",
+      "Jan to Dec 2017 is higher than any other categories with value 1074.93, followed by , and Jan to Dec 2015. Down to category Feb 2006 to Jan 2007 with the lowest value of 3.25. ",
+      " The highest value at Jan to Dec 2017 is almost 330.75 times larger than the minimum value of Feb 2006 to Jan 2007. ",
+      " The highest value at Jan to Dec 2017 is almost 330.75 times larger than the minimum value of Feb 2006 to Jan 2007. ",
+      " The difference between the max Month Jan to Dec 2017 and min Month Feb 2006 to Jan 2007 is 1071.68. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 11,
+         "12": 11
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Month": "Jan to Dec 2017",
+         "Revenue in million U.S. dollars": 1074.93
+      },
+      {
+         "Month": "Jan to Dec 2016",
+         "Revenue in million U.S. dollars": 1072.49
+      },
+      {
+         "Month": "Jan to Dec 2015",
+         "Revenue in million U.S. dollars": 933.31
+      },
+      {
+         "Month": "Jan to Dec 2014",
+         "Revenue in million U.S. dollars": 732.34
+      },
+      {
+         "Month": "Feb to Dec 2013",
+         "Revenue in million U.S. dollars": 489.34
+      },
+      {
+         "Month": "Feb 2012 to Jan 2013",
+         "Revenue in million U.S. dollars": 375.22
+      },
+      {
+         "Month": "Feb 2011 to Jan 2012",
+         "Revenue in million U.S. dollars": 239.96
+      },
+      {
+         "Month": "Feb 2010 to Jan 2011",
+         "Revenue in million U.S. dollars": 119.33
+      },
+      {
+         "Month": "Feb 2009 to Jan 2010",
+         "Revenue in million U.S. dollars": 50.15
+      },
+      {
+         "Month": "Feb 2008 to Jan 2009",
+         "Revenue in million U.S. dollars": 18.25
+      },
+      {
+         "Month": "Feb 2007 to Jan 2008",
+         "Revenue in million U.S. dollars": 13.31
+      },
+      {
+         "Month": "Feb 2006 to Jan 2007",
+         "Revenue in million U.S. dollars": 3.25
+      }
+   ]
+}

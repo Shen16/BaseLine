@@ -1,0 +1,81 @@
+{
+   "title": "Test",
+   "xAxis": "Month",
+   "yAxis": "Number of establishments",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 13 categories on the x axis representing Month, and Number of establishments in each Month on the y axis.",
+      "Ontario is higher than any other categories with value 492.0, followed by Quebec, and British Columbia. Down to category Yukon with the lowest value of 1.0. ",
+      " The highest value at Ontario is almost 492.0 times larger than the minimum value of Yukon. ",
+      " The highest value at Ontario is almost 492.0 times larger than the minimum value of Yukon. ",
+      " The difference between the max Month Ontario and min Month Yukon is 491.0. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 12,
+         "12": 12
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Month": "Ontario",
+         "Number of establishments": 492.0
+      },
+      {
+         "Month": "Quebec",
+         "Number of establishments": 267.0
+      },
+      {
+         "Month": "British Columbia",
+         "Number of establishments": 206.0
+      },
+      {
+         "Month": "Alberta",
+         "Number of establishments": 169.0
+      },
+      {
+         "Month": "Saskatchewan",
+         "Number of establishments": 77.0
+      },
+      {
+         "Month": "Manitoba",
+         "Number of establishments": 73.0
+      },
+      {
+         "Month": "New Brunswick",
+         "Number of establishments": 54.0
+      },
+      {
+         "Month": "Nova Scotia",
+         "Number of establishments": 46.0
+      },
+      {
+         "Month": "Newfoundland and Labrador",
+         "Number of establishments": 39.0
+      },
+      {
+         "Month": "Northwest Territories",
+         "Number of establishments": 19.0
+      },
+      {
+         "Month": "Nunavut",
+         "Number of establishments": 19.0
+      },
+      {
+         "Month": "Prince Edward Island",
+         "Number of establishments": 4.0
+      },
+      {
+         "Month": "Yukon",
+         "Number of establishments": 1.0
+      }
+   ]
+}

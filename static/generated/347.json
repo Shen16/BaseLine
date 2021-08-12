@@ -1,0 +1,100 @@
+{
+   "title": "Test",
+   "labels": [
+      "Country",
+      "Cases",
+      "Deaths"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This grouped bar chart has 11 categories of Country on the x axis representing 2 groups: Cases, and Deaths.",
+      " Averaging these 2 groups, the highest category is found for Country Total with a mean value of 19984.5.",
+      " Followed by Sierra Leone with a mean value of 9040.0.",
+      " The lowest category is observed at Senegal that has a mean value of 0.5",
+      " showing a difference of 200.0% with the maximum value.",
+      " In case of Total, Cases shows more dominance than any other Country with a value 28646.0 and it has the lowest value 1.0 in Senegal. "
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "10"
+         ],
+         "13": [
+            "2",
+            "10"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "2"
+         ],
+         "14": [
+            "2",
+            "2"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Country": "Guinea",
+         "Cases": "3811",
+         "Deaths": "2543"
+      },
+      {
+         "Country": "Liberia",
+         "Cases": "10675",
+         "Deaths": "4809"
+      },
+      {
+         "Country": "Sierra Leone",
+         "Cases": "14124",
+         "Deaths": "3956"
+      },
+      {
+         "Country": "Nigeria",
+         "Cases": "20",
+         "Deaths": "8"
+      },
+      {
+         "Country": "Senegal",
+         "Cases": "1",
+         "Deaths": "0"
+      },
+      {
+         "Country": "Spain",
+         "Cases": "1",
+         "Deaths": "0"
+      },
+      {
+         "Country": "United States",
+         "Cases": "4",
+         "Deaths": "1"
+      },
+      {
+         "Country": "Mali",
+         "Cases": "8",
+         "Deaths": "6"
+      },
+      {
+         "Country": "United Kingdom",
+         "Cases": "1",
+         "Deaths": "0"
+      },
+      {
+         "Country": "Italy",
+         "Cases": "1",
+         "Deaths": "0"
+      },
+      {
+         "Country": "Total",
+         "Cases": "28646",
+         "Deaths": "11323"
+      }
+   ]
+}

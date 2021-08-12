@@ -1,0 +1,51 @@
+{
+   "title": "Test",
+   "xAxis": "Country",
+   "yAxis": "Sales share",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 5 categories on the x axis representing Country, and Sales share in each Country on the y axis.",
+      " The highest category is found at Germany where Sales share is 15.0.",
+      " Followed by 15.0 in .",
+      " The lowest category is found at United Kingdom where Sales share is 6.0.",
+      " The highest value at Germany is almost 2.5 times larger than the minimum value of United Kingdom. ",
+      " The highest value at Germany is almost 2.5 times larger than the minimum value of United Kingdom. ",
+      " The difference between the max Country Germany and min Country United Kingdom is 9.0. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 3,
+         "12": 3
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Country": "Germany",
+         "Sales share": 15.0
+      },
+      {
+         "Country": "United States",
+         "Sales share": 13.0
+      },
+      {
+         "Country": "France",
+         "Sales share": 8.0
+      },
+      {
+         "Country": "United Kingdom",
+         "Sales share": 6.0
+      },
+      {
+         "Country": "China",
+         "Sales share": 6.0
+      }
+   ]
+}

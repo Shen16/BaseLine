@@ -1,0 +1,61 @@
+{
+   "title": "Test",
+   "xAxis": "Country",
+   "yAxis": "Share of population using Facebook",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 8 categories on the x axis representing Country, and Share of population using Facebook in each Country on the y axis.",
+      "North America is higher than any other categories with value 72.4, followed by Latin America / Caribbean, and Oceania / Australia. Down to category Africa with the lowest value of 12.7. ",
+      " The highest value at North America is almost 5.7 times larger than the minimum value of Africa. ",
+      " The highest value at North America is almost 5.7 times larger than the minimum value of Africa. ",
+      " The difference between the max Country North America and min Country Africa is 59.7. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 7,
+         "12": 7
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Country": "North America",
+         "Share of population using Facebook": 72.4
+      },
+      {
+         "Country": "Latin America / Caribbean",
+         "Share of population using Facebook": 57.3
+      },
+      {
+         "Country": "Oceania / Australia",
+         "Share of population using Facebook": 48.1
+      },
+      {
+         "Country": "Europe",
+         "Share of population using Facebook": 41.7
+      },
+      {
+         "Country": "Middle East",
+         "Share of population using Facebook": 34.6
+      },
+      {
+         "Country": "Worldwide",
+         "Share of population using Facebook": 26.3
+      },
+      {
+         "Country": "Asia",
+         "Share of population using Facebook": 13.8
+      },
+      {
+         "Country": "Africa",
+         "Share of population using Facebook": 12.7
+      }
+   ]
+}

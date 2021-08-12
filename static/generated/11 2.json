@@ -1,0 +1,88 @@
+{
+   "title": "Test",
+   "labels": [
+      "Platform",
+      "18-24",
+      "25-29",
+      "30-34"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This grouped bar chart has 7 categories of Platform on the x axis representing 3 groups: 18-24, 25-29, and 30-34.",
+      " Averaging these 3 groups, the highest category is found for Platform Facebook with a mean value of 42.33.",
+      " Followed by Instagram with a mean value of 18.0.",
+      " The lowest category is observed at Twitter that has a mean value of 2.0",
+      " showing a difference of 182.0% with the maximum value.",
+      " In case of Facebook, 18-24 shows more dominance than any other Platform with a value 36.0 and it has the lowest value 3.0 in Twitter.  However, 25-29 is the second impactful group, and it has the highest value 50.0 for Platform Facebook and the lowest 2.0 in case of Twitter. "
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "13": [
+            "3",
+            "0"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "14": [
+            "3",
+            "1"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Platform": "Facebook",
+         "18-24": "36",
+         "25-29": "41",
+         "30-34": "50"
+      },
+      {
+         "Platform": "Instagram",
+         "18-24": "24",
+         "25-29": "17",
+         "30-34": "13"
+      },
+      {
+         "Platform": "YouTube",
+         "18-24": "12",
+         "25-29": "14",
+         "30-34": "11"
+      },
+      {
+         "Platform": "LinkedIn",
+         "18-24": "7",
+         "25-29": "10",
+         "30-34": "10"
+      },
+      {
+         "Platform": "Pinterest",
+         "18-24": "9",
+         "25-29": "8",
+         "30-34": "8"
+      },
+      {
+         "Platform": "Snapchat",
+         "18-24": "9",
+         "25-29": "9",
+         "30-34": "5"
+      },
+      {
+         "Platform": "Twitter",
+         "18-24": "3",
+         "25-29": "1",
+         "30-34": "2"
+      }
+   ]
+}

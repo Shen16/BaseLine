@@ -1,0 +1,81 @@
+{
+   "title": "Test",
+   "xAxis": "Year",
+   "yAxis": "Number of children",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Number of children, with a total of 12 data points.",
+      " Overall Number of children has decreased over the Year.",
+      "Number of children is slightly decreasing from 2007 to 2009, roughly constant from 2009 to 2013, slightly increasing from 2013 to 2017, and lastly roughly constant from 2017 to 2018.",
+      "The steepest decrease occurs in between the Year 2008 and 2009.",
+      "Max Number of children about 133682.0 was recorded at Year 2007",
+      "Min Number of children about 101945.0 was recorded at Year 2012",
+      "#########################################################################",
+      "This line chart has an x axis representing Year and a y axis representing Number of children, with a total of 12 data points. The chart has 2 significant trends.",
+      " The longest trend is extremely increasing which exists from 2012 to 2018.",
+      " Additionally, the next significant trend is slightly decreasing which exists from 2007 to 2012."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "0",
+         "12": "6"
+      },
+      {
+         "3": "6",
+         "14": "11"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Number of children": 125422.0
+      },
+      {
+         "Year": "2017",
+         "Number of children": 123754.0
+      },
+      {
+         "Year": "2016",
+         "Number of children": 116654.0
+      },
+      {
+         "Year": "2015",
+         "Number of children": 109951.0
+      },
+      {
+         "Year": "2014",
+         "Number of children": 106636.0
+      },
+      {
+         "Year": "2013",
+         "Number of children": 102808.0
+      },
+      {
+         "Year": "2012",
+         "Number of children": 101945.0
+      },
+      {
+         "Year": "2011",
+         "Number of children": 106440.0
+      },
+      {
+         "Year": "2010",
+         "Number of children": 108746.0
+      },
+      {
+         "Year": "2009",
+         "Number of children": 113798.0
+      },
+      {
+         "Year": "2008",
+         "Number of children": 125712.0
+      },
+      {
+         "Year": "2007",
+         "Number of children": 133682.0
+      }
+   ]
+}

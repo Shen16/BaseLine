@@ -1,0 +1,73 @@
+{
+   "title": "Test",
+   "xAxis": "Hotel Related Keyword",
+   "yAxis": "Searches in thousands",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 11 categories on the x axis representing Hotel Related Keyword, and Searches in thousands in each Hotel Related Keyword on the y axis.",
+      "Other related keywords is higher than any other categories with value 3059.58, followed by , and Hotels in London. Down to category Amsterdam hotels with the lowest value of 40.5. ",
+      " The highest value at Other related keywords is almost 75.55 times larger than the minimum value of Amsterdam hotels. ",
+      " The highest value at Other related keywords is almost 75.55 times larger than the minimum value of Amsterdam hotels. ",
+      " The difference between the max Hotel Related Keyword Other related keywords and min Hotel Related Keyword Amsterdam hotels is 3019.08. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 10,
+         "12": 10
+      },
+      {
+         "7": 6,
+         "12": 6
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Hotel Related Keyword": "Hotels",
+         "Searches in thousands": 201.0
+      },
+      {
+         "Hotel Related Keyword": "Hotels in London",
+         "Searches in thousands": 90.5
+      },
+      {
+         "Hotel Related Keyword": "Cheap hotels",
+         "Searches in thousands": 74.0
+      },
+      {
+         "Hotel Related Keyword": "London hotels",
+         "Searches in thousands": 74.0
+      },
+      {
+         "Hotel Related Keyword": "Last minute hotels",
+         "Searches in thousands": 74.0
+      },
+      {
+         "Hotel Related Keyword": "Hotel",
+         "Searches in thousands": 49.5
+      },
+      {
+         "Hotel Related Keyword": "Amsterdam hotels",
+         "Searches in thousands": 40.5
+      },
+      {
+         "Hotel Related Keyword": "Hotels in Machester",
+         "Searches in thousands": 40.5
+      },
+      {
+         "Hotel Related Keyword": "Hotels in York",
+         "Searches in thousands": 40.5
+      },
+      {
+         "Hotel Related Keyword": "Hoterls in Edinburgh",
+         "Searches in thousands": 40.5
+      },
+      {
+         "Hotel Related Keyword": "Other related keywords",
+         "Searches in thousands": 3059.58
+      }
+   ]
+}

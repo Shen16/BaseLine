@@ -1,0 +1,71 @@
+{
+   "title": "Test",
+   "xAxis": "Month",
+   "yAxis": "Number of knockdowns landed",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 10 categories on the x axis representing Month, and Number of knockdowns landed in each Month on the y axis.",
+      " The highest category is found at Donald Cerrone where Number of knockdowns landed is 20.0.",
+      " Followed by 18.0 in Jeremy Stephens.",
+      " The lowest category is found at Thiago Alves where Number of knockdowns landed is 13.0.",
+      " The highest value at Donald Cerrone is almost 1.54 times larger than the minimum value of Thiago Alves. ",
+      " The highest value at Donald Cerrone is almost 1.54 times larger than the minimum value of Thiago Alves. ",
+      " The difference between the max Month Donald Cerrone and min Month Thiago Alves is 7.0. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 7,
+         "12": 7
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Month": "Donald Cerrone",
+         "Number of knockdowns landed": 20.0
+      },
+      {
+         "Month": "Anderson Silva",
+         "Number of knockdowns landed": 18.0
+      },
+      {
+         "Month": "Jeremy Stephens",
+         "Number of knockdowns landed": 18.0
+      },
+      {
+         "Month": "Junior Dos Santos",
+         "Number of knockdowns landed": 14.0
+      },
+      {
+         "Month": "Chuck Liddell",
+         "Number of knockdowns landed": 14.0
+      },
+      {
+         "Month": "Lyoto Machida",
+         "Number of knockdowns landed": 14.0
+      },
+      {
+         "Month": "Mauricio Rua",
+         "Number of knockdowns landed": 14.0
+      },
+      {
+         "Month": "Thiago Alves",
+         "Number of knockdowns landed": 13.0
+      },
+      {
+         "Month": "Melvin Guillard",
+         "Number of knockdowns landed": 13.0
+      },
+      {
+         "Month": "Anthony Johnson",
+         "Number of knockdowns landed": 13.0
+      }
+   ]
+}

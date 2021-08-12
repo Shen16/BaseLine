@@ -1,0 +1,89 @@
+{
+   "title": "Test",
+   "xAxis": "Exporting nation",
+   "yAxis": "Export value in billion U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 15 categories on the x axis representing Exporting nation, and Export value in billion U.S. dollars in each Exporting nation on the y axis.",
+      "China is higher than any other categories with value 2487.0, followed by , and United States. Down to category Kingdom of Saudi Arabia with the lowest value of 299.0. ",
+      " The highest value at China is almost 8.32 times larger than the minimum value of Kingdom of Saudi Arabia. ",
+      " The highest value at China is almost 8.32 times larger than the minimum value of Kingdom of Saudi Arabia. ",
+      " The difference between the max Exporting nation China and min Exporting nation Kingdom of Saudi Arabia is 2188.0. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 14,
+         "12": 14
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Exporting nation": "China",
+         "Export value in billion U.S. dollars": 2487.0
+      },
+      {
+         "Exporting nation": "Extra-EU (28)",
+         "Export value in billion U.S. dollars": 2309.0
+      },
+      {
+         "Exporting nation": "United States",
+         "Export value in billion U.S. dollars": 1664.0
+      },
+      {
+         "Exporting nation": "Japan",
+         "Export value in billion U.S. dollars": 738.0
+      },
+      {
+         "Exporting nation": "Republic of Korea",
+         "Export value in billion U.S. dollars": 605.0
+      },
+      {
+         "Exporting nation": "Hong Kong China",
+         "Export value in billion U.S. dollars": 569.0
+      },
+      {
+         "Exporting nation": "Mexico",
+         "Export value in billion U.S. dollars": 451.0
+      },
+      {
+         "Exporting nation": "Canada",
+         "Export value in billion U.S. dollars": 450.0
+      },
+      {
+         "Exporting nation": "Russian Federation",
+         "Export value in billion U.S. dollars": 444.0
+      },
+      {
+         "Exporting nation": "Singapore",
+         "Export value in billion U.S. dollars": 413.0
+      },
+      {
+         "Exporting nation": "United Arab Emirates",
+         "Export value in billion U.S. dollars": 346.0
+      },
+      {
+         "Exporting nation": "Chinese Taipei",
+         "Export value in billion U.S. dollars": 336.0
+      },
+      {
+         "Exporting nation": "India",
+         "Export value in billion U.S. dollars": 326.0
+      },
+      {
+         "Exporting nation": "Switzerland",
+         "Export value in billion U.S. dollars": 311.0
+      },
+      {
+         "Exporting nation": "Kingdom of Saudi Arabia",
+         "Export value in billion U.S. dollars": 299.0
+      }
+   ]
+}

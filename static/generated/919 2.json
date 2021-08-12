@@ -1,0 +1,48 @@
+{
+   "title": "Test",
+   "xAxis": "Year",
+   "yAxis": "Spending in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Spending in million U.S. dollars, with a total of 5 data points.",
+      " Overall Spending in million U.S. dollars has increased over the Year",
+      "Spending in million U.S. dollars is roughly constant from Just_Mercy to Bad_Boys_for_Life, and lastly rapidly increasing from Bad_Boys_for_Life to 1917.",
+      "The steepest increase occurs in between the Year Dolittle and 1917.",
+      "Max Spending in million U.S. dollars about 10.41 was recorded at Year 1917",
+      "Min Spending in million U.S. dollars about 3.72 was recorded at Year Just_Mercy",
+      "#########################################################################",
+      "This line chart has an x axis representing Year and a y axis representing Spending in million U.S. dollars with a total of 5 data points. The chart has one significant trend.",
+      " This trend is increasing which exists from 1917 to Just_Mercy."
+   ],
+   "trends": [
+      {},
+      {
+         "3": "0",
+         "14": "4"
+      }
+   ],
+   "data": [
+      {
+         "Year": "1917",
+         "Spending in million U.S. dollars": 10.41
+      },
+      {
+         "Year": "Dolittle",
+         "Spending in million U.S. dollars": 5.77
+      },
+      {
+         "Year": "Bad Boys for Life",
+         "Spending in million U.S. dollars": 4.18
+      },
+      {
+         "Year": "Like a Boss",
+         "Spending in million U.S. dollars": 3.9
+      },
+      {
+         "Year": "Just Mercy",
+         "Spending in million U.S. dollars": 3.72
+      }
+   ]
+}

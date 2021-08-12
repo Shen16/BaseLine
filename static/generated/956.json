@@ -1,0 +1,97 @@
+{
+   "title": "Test",
+   "labels": [
+      "Year",
+      "18-29",
+      "30-49",
+      "50-64",
+      "65+"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a multi-line chart with 4 lines representing 18-29, 30-49, 50-64, and 65+. ",
+      "The line for 18-29 has the highest values across Year with a mean value of 92.0, ",
+      "and it peaked at 2018 with a value of 96.0.",
+      "Followed by 30-49, with a mean value of 88.0. ",
+      "This line peaked at 2018 with a value of 92.0. ",
+      "65+ mostly had the least y-axis name with a mean value of 42.75, ",
+      "which peaked at 2018 with a value of 53.0. ",
+      "65+ reported the lowest y-axis name  about 30.0 in Year 2015",
+      "Overall 18-29, 50-64, and 65+ are gradually increasing, 30-49 is roughly constant,  throughout the Year"
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "16": [
+            "3",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "0"
+         ],
+         "9": [
+            "0",
+            "0"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "15": [
+            "3",
+            "1"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "1"
+         ],
+         "10": [
+            "0",
+            "1"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "18-29": "96",
+         "30-49": "92",
+         "50-64": "79",
+         "65+": "53"
+      },
+      {
+         "Year": "2017",
+         "18-29": "94",
+         "30-49": "89",
+         "50-64": "73",
+         "65+": "46"
+      },
+      {
+         "Year": "2016",
+         "18-29": "92",
+         "30-49": "88",
+         "50-64": "74",
+         "65+": "42"
+      },
+      {
+         "Year": "2015",
+         "18-29": "86",
+         "30-49": "83",
+         "50-64": "58",
+         "65+": "30"
+      }
+   ]
+}

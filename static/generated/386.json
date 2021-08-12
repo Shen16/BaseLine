@@ -1,0 +1,49 @@
+{
+   "title": "Test",
+   "xAxis": "Region",
+   "yAxis": "Share of capital expenditure",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 5 categories on the x axis representing Region, and Share of capital expenditure in each Region on the y axis.",
+      "Asia Pacific is higher than any other categories with value 41.0, followed by , and North America. Down to category South America Africa Middle East with the lowest value of 1.0. ",
+      " The highest value at Asia Pacific is almost 41.0 times larger than the minimum value of South America Africa Middle East. ",
+      " The highest value at Asia Pacific is almost 41.0 times larger than the minimum value of South America Africa Middle East. ",
+      " The difference between the max Region Asia Pacific and min Region South America Africa Middle East is 40.0. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 3,
+         "12": 3
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Region": "Asia Pacific",
+         "Share of capital expenditure": 41.0
+      },
+      {
+         "Region": "Europe",
+         "Share of capital expenditure": 34.0
+      },
+      {
+         "Region": "North America",
+         "Share of capital expenditure": 19.0
+      },
+      {
+         "Region": "South America Africa Middle East",
+         "Share of capital expenditure": 1.0
+      },
+      {
+         "Region": "Site alternatives currently being investigated",
+         "Share of capital expenditure": 5.0
+      }
+   ]
+}

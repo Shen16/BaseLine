@@ -1,0 +1,69 @@
+{
+   "title": "Test",
+   "xAxis": "Age group",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 10 categories on the x axis representing Age group, and Share of respondents in each Age group on the y axis.",
+      "25-29 is higher than any other categories with value 89.0, followed by 40-49, and 50-59. Down to category 14-15 with the lowest value of 13.0. ",
+      " The highest value at 25-29 is almost 6.85 times larger than the minimum value of 14-15. ",
+      " The highest value at 25-29 is almost 6.85 times larger than the minimum value of 14-15. ",
+      " The difference between the max Age group 25-29 and min Age group 14-15 is 76.0. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 4,
+         "12": 4
+      },
+      {
+         "7": 0,
+         "12": 0
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Age group": "14-15",
+         "Share of respondents": 13.0
+      },
+      {
+         "Age group": "16-17",
+         "Share of respondents": 29.0
+      },
+      {
+         "Age group": "18-19",
+         "Share of respondents": 61.0
+      },
+      {
+         "Age group": "20-24",
+         "Share of respondents": 78.0
+      },
+      {
+         "Age group": "25-29",
+         "Share of respondents": 89.0
+      },
+      {
+         "Age group": "30-39",
+         "Share of respondents": 80.0
+      },
+      {
+         "Age group": "40-49",
+         "Share of respondents": 83.0
+      },
+      {
+         "Age group": "50-59",
+         "Share of respondents": 80.0
+      },
+      {
+         "Age group": "60-69",
+         "Share of respondents": 73.0
+      },
+      {
+         "Age group": "70 and older",
+         "Share of respondents": 43.0
+      }
+   ]
+}

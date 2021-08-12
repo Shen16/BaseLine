@@ -1,0 +1,64 @@
+{
+   "title": "Test",
+   "xAxis": "Year",
+   "yAxis": "Number of residents",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Number of residents, with a total of 9 data points.",
+      " Overall Number of residents has decreased over the Year.",
+      "Number of residents is slightly decreasing from 2018 to 2010.",
+      "The steepest decrease occurs in between the Year 2011 and 2010.",
+      "Max Number of residents about 6198782.0 was recorded at Year 2018",
+      "Min Number of residents about 5583547.0 was recorded at Year 2010",
+      "#########################################################################",
+      "This line chart has an x axis representing Year and a y axis representing Number of residents with a total of 9 data points. The chart has one significant trend.",
+      " This trend is decreasing which exists from 2010 to 2018."
+   ],
+   "trends": [
+      {},
+      {
+         "3": "0",
+         "14": "8"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2010",
+         "Number of residents": 5583547.0
+      },
+      {
+         "Year": "2011",
+         "Number of residents": 5693531.0
+      },
+      {
+         "Year": "2012",
+         "Number of residents": 5771731.0
+      },
+      {
+         "Year": "2013",
+         "Number of residents": 5849411.0
+      },
+      {
+         "Year": "2014",
+         "Number of residents": 5921030.0
+      },
+      {
+         "Year": "2015",
+         "Number of residents": 5998284.0
+      },
+      {
+         "Year": "2016",
+         "Number of residents": 6086935.0
+      },
+      {
+         "Year": "2017",
+         "Number of residents": 6149687.0
+      },
+      {
+         "Year": "2018",
+         "Number of residents": 6198782.0
+      }
+   ]
+}

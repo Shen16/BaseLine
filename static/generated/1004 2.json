@@ -1,0 +1,39 @@
+{
+   "title": "Test",
+   "xAxis": "Day",
+   "yAxis": "Circulation",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 2 categories on the x axis representing Day, and Circulation in each Day on the y axis.",
+      " The highest category is found at Sunday where Circulation is 378602.0.",
+      "",
+      " The lowest category is found at Daily where Circulation is 130283.0.",
+      " The highest value at Sunday is almost 2.91 times larger than the minimum value of Daily. ",
+      " The highest value at Sunday is almost 2.91 times larger than the minimum value of Daily. ",
+      " The difference between the max Day Sunday and min Day Daily is 248319.0. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 1,
+         "12": 1
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Day": "Sunday",
+         "Circulation": 378602.0
+      },
+      {
+         "Day": "Daily",
+         "Circulation": 130283.0
+      }
+   ]
+}

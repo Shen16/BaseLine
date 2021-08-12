@@ -1,0 +1,51 @@
+{
+   "title": "Test",
+   "xAxis": "Country",
+   "yAxis": "Share of desktop traffic",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 5 categories on the x axis representing Country, and Share of desktop traffic in each Country on the y axis.",
+      " The highest category is found at United States where Share of desktop traffic is 17.77.",
+      " Followed by 17.77 in .",
+      " The lowest category is found at Turkey where Share of desktop traffic is 3.24.",
+      " The highest value at United States is almost 5.48 times larger than the minimum value of Turkey. ",
+      " The highest value at United States is almost 5.48 times larger than the minimum value of Turkey. ",
+      " The difference between the max Country United States and min Country Turkey is 14.53. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 4,
+         "12": 4
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Country": "United States",
+         "Share of desktop traffic": 17.77
+      },
+      {
+         "Country": "Brazil",
+         "Share of desktop traffic": 8.22
+      },
+      {
+         "Country": "Russia",
+         "Share of desktop traffic": 7.06
+      },
+      {
+         "Country": "United Kingdom",
+         "Share of desktop traffic": 3.6
+      },
+      {
+         "Country": "Turkey",
+         "Share of desktop traffic": 3.24
+      }
+   ]
+}

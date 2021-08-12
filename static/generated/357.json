@@ -1,0 +1,51 @@
+{
+   "title": "Test",
+   "xAxis": "League Name",
+   "yAxis": "Average attendance in thousands of people",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 5 categories on the x axis representing League Name, and Average attendance in thousands of people in each League Name on the y axis.",
+      " The highest category is found at Bundesliga (Germany) where Average attendance in thousands of people is 42.7.",
+      " Followed by 42.7 in .",
+      " The lowest category is found at Ligue 1 (France) where Average attendance in thousands of people is 22.1.",
+      " The highest value at Bundesliga (Germany) is almost 1.93 times larger than the minimum value of Ligue 1 (France). ",
+      " The highest value at Bundesliga (Germany) is almost 1.93 times larger than the minimum value of Ligue 1 (France). ",
+      " The difference between the max League Name Bundesliga (Germany) and min League Name Ligue 1 (France) is 20.6. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 4,
+         "12": 4
+      },
+      {}
+   ],
+   "data": [
+      {
+         "League Name": "Bundesliga (Germany)",
+         "Average attendance in thousands of people": 42.7
+      },
+      {
+         "League Name": "Premier League (England)",
+         "Average attendance in thousands of people": 38.0
+      },
+      {
+         "League Name": "La Liga (Spain)",
+         "Average attendance in thousands of people": 27.2
+      },
+      {
+         "League Name": "Serie A (Italy)",
+         "Average attendance in thousands of people": 24.7
+      },
+      {
+         "League Name": "Ligue 1 (France)",
+         "Average attendance in thousands of people": 22.1
+      }
+   ]
+}

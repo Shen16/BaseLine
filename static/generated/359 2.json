@@ -1,0 +1,65 @@
+{
+   "title": "Test",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 9 categories on the x axis representing Response, and Share of respondents in each Response on the y axis.",
+      "Lack of opportunities to enter into the labor market is higher than any other categories with value 26.0, followed by Lack of funding and resources, and Lack of financial aid for low-income families and students. Down to category Others with the lowest value of 2.0. ",
+      " The highest value at Lack of opportunities to enter into the labor market is almost 13.0 times larger than the minimum value of Others. ",
+      " The highest value at Lack of opportunities to enter into the labor market is almost 13.0 times larger than the minimum value of Others. ",
+      " The difference between the max Response Lack of opportunities to enter into the labor market and min Response Others is 24.0. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 7,
+         "12": 7
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Response": "Lack of opportunities to enter into the labor market",
+         "Share of respondents": 26.0
+      },
+      {
+         "Response": "Lack of funding and resources",
+         "Share of respondents": 21.0
+      },
+      {
+         "Response": "Bad teachers",
+         "Share of respondents": 13.0
+      },
+      {
+         "Response": "Lack of financial aid for low-income families and students",
+         "Share of respondents": 13.0
+      },
+      {
+         "Response": "Inadequacy or backwardness of programs",
+         "Share of respondents": 11.0
+      },
+      {
+         "Response": "Violence",
+         "Share of respondents": 7.0
+      },
+      {
+         "Response": "All these aspects",
+         "Share of respondents": 4.0
+      },
+      {
+         "Response": "Others",
+         "Share of respondents": 2.0
+      },
+      {
+         "Response": "I do not know",
+         "Share of respondents": 3.0
+      }
+   ]
+}

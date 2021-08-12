@@ -1,0 +1,148 @@
+{
+   "title": "Test",
+   "xAxis": "Year",
+   "yAxis": "Share of non-performing loans in total loans",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Share of non-performing loans in total loans, with a total of 25 data points.",
+      " Overall Share of non-performing loans in total loans has decreased over the Year",
+      "Share of non-performing loans in total loans is roughly constant from '95 to '03, slightly decreasing from '03 to '04, slightly constant from '04 to '06, rapidly increasing from '06 to '09, roughly constant from '09 to '12, gradually decreasing from '12 to '15, and lastly gradually constant from '15 to '19.",
+      "The steepest increase occurs in between the Year '08 and '09.",
+      "Max Share of non-performing loans in total loans about 5.3 was recorded at Year '10",
+      "Min Share of non-performing loans in total loans about 0.73 was recorded at Year '06",
+      "#########################################################################",
+      "This line chart has an x axis representing Year and a y axis representing Share of non-performing loans in total loans, with a total of 25 data points. The chart has 5 significant trends.",
+      " The longest trend is slightly decreasing which exists from '10 to '19.",
+      " On the other hand, the next significant trend is extremely increasing which exists from '06 to '10.",
+      " Likewise, the next significant trend is slightly decreasing which exists from '02 to '06.",
+      " Contrarily, the next significant trend is moderately increasing which exists from '98 to '02.",
+      " Similarly, the next significant trend is slightly decreasing which exists from '95 to '98."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "0",
+         "12": "9"
+      },
+      {
+         "3": "9",
+         "14": "13"
+      },
+      {
+         "3": "13",
+         "14": "17"
+      },
+      {
+         "3": "17",
+         "14": "21"
+      },
+      {
+         "3": "21",
+         "14": "24"
+      }
+   ],
+   "data": [
+      {
+         "Year": "'19",
+         "Share of non-performing loans in total loans": 0.89
+      },
+      {
+         "Year": "'18",
+         "Share of non-performing loans in total loans": 1.02
+      },
+      {
+         "Year": "'17",
+         "Share of non-performing loans in total loans": 1.22
+      },
+      {
+         "Year": "'16",
+         "Share of non-performing loans in total loans": 1.47
+      },
+      {
+         "Year": "'15",
+         "Share of non-performing loans in total loans": 1.67
+      },
+      {
+         "Year": "'14",
+         "Share of non-performing loans in total loans": 2.21
+      },
+      {
+         "Year": "'13",
+         "Share of non-performing loans in total loans": 3.04
+      },
+      {
+         "Year": "'12",
+         "Share of non-performing loans in total loans": 3.95
+      },
+      {
+         "Year": "'11",
+         "Share of non-performing loans in total loans": 4.5
+      },
+      {
+         "Year": "'10",
+         "Share of non-performing loans in total loans": 5.3
+      },
+      {
+         "Year": "'09",
+         "Share of non-performing loans in total loans": 4.7
+      },
+      {
+         "Year": "'08",
+         "Share of non-performing loans in total loans": 2.21
+      },
+      {
+         "Year": "'07",
+         "Share of non-performing loans in total loans": 1.01
+      },
+      {
+         "Year": "'06",
+         "Share of non-performing loans in total loans": 0.73
+      },
+      {
+         "Year": "'05",
+         "Share of non-performing loans in total loans": 0.77
+      },
+      {
+         "Year": "'04",
+         "Share of non-performing loans in total loans": 0.96
+      },
+      {
+         "Year": "'03",
+         "Share of non-performing loans in total loans": 1.3
+      },
+      {
+         "Year": "'02",
+         "Share of non-performing loans in total loans": 1.47
+      },
+      {
+         "Year": "'01",
+         "Share of non-performing loans in total loans": 1.3
+      },
+      {
+         "Year": "'00",
+         "Share of non-performing loans in total loans": 1.02
+      },
+      {
+         "Year": "'99",
+         "Share of non-performing loans in total loans": 0.96
+      },
+      {
+         "Year": "'98",
+         "Share of non-performing loans in total loans": 0.95
+      },
+      {
+         "Year": "'97",
+         "Share of non-performing loans in total loans": 0.99
+      },
+      {
+         "Year": "'96",
+         "Share of non-performing loans in total loans": 1.11
+      },
+      {
+         "Year": "'95",
+         "Share of non-performing loans in total loans": 1.25
+      }
+   ]
+}

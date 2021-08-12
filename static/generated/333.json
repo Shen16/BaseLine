@@ -1,0 +1,119 @@
+{
+   "title": "Test",
+   "labels": [
+      "Country",
+      "Online (excl. social media)",
+      "Online (incl. social media)",
+      "TV",
+      "Print",
+      "Radio"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This grouped bar chart has 9 categories of Country on the x axis representing 5 groups: Online (excl. social media), Online (incl. social media), TV, Print, and Radio.",
+      " Averaging these 5 groups, the highest category is found for Country Sweden with a mean value of 27.2.",
+      " The lowest category is observed at Germany that has a mean value of 23.6",
+      " showing a difference of 14.2% with the maximum value.",
+      " In case of Sweden, Online (excl. social media) shows more dominance than any other Country with a value 39.0 and it has the lowest value 19.0 in Italy.  However, Radio being the 2nd most important group, has the highest value 10.0 for Country Sweden and the lowest 4.0 in case of Italy. "
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "8"
+         ],
+         "13": [
+            "5",
+            "8"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "14": [
+            "5",
+            "0"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Country": "United Kingdom",
+         "Online (excl. social media)": "32",
+         "Online (incl. social media)": "41",
+         "TV": "40",
+         "Print": "11",
+         "Radio": "7"
+      },
+      {
+         "Country": "France",
+         "Online (excl. social media)": "23",
+         "Online (incl. social media)": "34",
+         "TV": "50",
+         "Print": "6",
+         "Radio": "7"
+      },
+      {
+         "Country": "Germany",
+         "Online (excl. social media)": "21",
+         "Online (incl. social media)": "28",
+         "TV": "52",
+         "Print": "7",
+         "Radio": "10"
+      },
+      {
+         "Country": "Italy",
+         "Online (excl. social media)": "19",
+         "Online (incl. social media)": "29",
+         "TV": "59",
+         "Print": "7",
+         "Radio": "4"
+      },
+      {
+         "Country": "United States",
+         "Online (excl. social media)": "27",
+         "Online (incl. social media)": "44",
+         "TV": "41",
+         "Print": "6",
+         "Radio": "5"
+      },
+      {
+         "Country": "Japan",
+         "Online (excl. social media)": "29",
+         "Online (incl. social media)": "37",
+         "TV": "44",
+         "Print": "15",
+         "Radio": "4"
+      },
+      {
+         "Country": "Australia",
+         "Online (excl. social media)": "26",
+         "Online (incl. social media)": "43",
+         "TV": "36",
+         "Print": "9",
+         "Radio": "8"
+      },
+      {
+         "Country": "Spain",
+         "Online (excl. social media)": "23",
+         "Online (incl. social media)": "39",
+         "TV": "42",
+         "Print": "10",
+         "Radio": "8"
+      },
+      {
+         "Country": "Sweden",
+         "Online (excl. social media)": "39",
+         "Online (incl. social media)": "49",
+         "TV": "29",
+         "Print": "9",
+         "Radio": "10"
+      }
+   ]
+}

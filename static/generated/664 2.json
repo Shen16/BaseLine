@@ -1,0 +1,53 @@
+{
+   "title": "Test",
+   "xAxis": "Diseases",
+   "yAxis": "Number of deaths per day",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 6 categories on the x axis representing Diseases, and Number of deaths per day in each Diseases on the y axis.",
+      "HIV/AIDS is higher than any other categories with value 685.0, followed by Malaria, and Diarrhoea. Down to category Ebola with the lowest value of 4.0. ",
+      " The highest value at HIV/AIDS is almost 171.25 times larger than the minimum value of Ebola. ",
+      " The highest value at HIV/AIDS is almost 171.25 times larger than the minimum value of Ebola. ",
+      " The difference between the max Diseases HIV/AIDS and min Diseases Ebola is 681.0. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 5,
+         "12": 5
+      },
+      {
+         "7": 0,
+         "12": 0
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Diseases": "Ebola",
+         "Number of deaths per day": 4.0
+      },
+      {
+         "Diseases": "Lassa fever",
+         "Number of deaths per day": 14.0
+      },
+      {
+         "Diseases": "Tuberculosis",
+         "Number of deaths per day": 110.0
+      },
+      {
+         "Diseases": "Diarrhoea",
+         "Number of deaths per day": 404.0
+      },
+      {
+         "Diseases": "Malaria",
+         "Number of deaths per day": 552.0
+      },
+      {
+         "Diseases": "HIV/AIDS",
+         "Number of deaths per day": 685.0
+      }
+   ]
+}

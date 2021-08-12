@@ -1,0 +1,49 @@
+{
+   "title": "Test",
+   "xAxis": "Age of casino visitors",
+   "yAxis": "Percentage of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 5 categories on the x axis representing Age of casino visitors, and Percentage of respondents in each Age of casino visitors on the y axis.",
+      "Age 50-64 is higher than any other categories with value 33.0, followed by , and Age 35-49. Down to category Don't know / refused with the lowest value of 3.0. ",
+      " The highest value at Age 50-64 is almost 11.0 times larger than the minimum value of Don't know / refused. ",
+      " The highest value at Age 50-64 is almost 11.0 times larger than the minimum value of Don't know / refused. ",
+      " The difference between the max Age of casino visitors Age 50-64 and min Age of casino visitors Don't know / refused is 30.0. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 2,
+         "12": 2
+      },
+      {
+         "7": 4,
+         "12": 4
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Age of casino visitors": "Age 21-34",
+         "Percentage of respondents": 18.0
+      },
+      {
+         "Age of casino visitors": "Age 35-49",
+         "Percentage of respondents": 21.0
+      },
+      {
+         "Age of casino visitors": "Age 50-64",
+         "Percentage of respondents": 33.0
+      },
+      {
+         "Age of casino visitors": "Age 65 and over",
+         "Percentage of respondents": 25.0
+      },
+      {
+         "Age of casino visitors": "Don't know / refused",
+         "Percentage of respondents": 3.0
+      }
+   ]
+}

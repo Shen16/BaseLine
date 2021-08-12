@@ -1,0 +1,139 @@
+{
+   "title": "Test",
+   "xAxis": "Year",
+   "yAxis": "Imports in million bushels",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Imports in million bushels, with a total of 19 data points.",
+      " Overall Imports in million bushels has increased over the Year.",
+      "Imports in million bushels is roughly constant from 2001 to 2008, slightly increasing from 2008 to 2010, roughly constant from 2010 to 2011, rapidly increasing from 2011 to 2012, roughly constant from 2012 to 2014, slightly increasing from 2014 to 2015, and lastly roughly constant from 2015 to 2019.",
+      "The steepest increase occurs in between the Year 2011 and 2012.",
+      "Max Imports in million bushels about 160.0 was recorded at Year 2012",
+      "Min Imports in million bushels about 8.0 was recorded at Year 2009",
+      "#########################################################################",
+      "This line chart has an x axis representing Year and a y axis representing Imports in million bushels, with a total of 19 data points. The chart has 8 significant trends.",
+      " The longest trend is slightly decreasing which exists from 2012 to 2015.",
+      " Conversely, the next significant trend is extremely increasing which exists from 2009 to 2012.",
+      " Additionally, the next significant trend is slightly decreasing which exists from 2017 to 2019.",
+      " On the contrary, the next significant trend is moderately decreasing which exists from 2015 to 2017.",
+      " On the contrary, the next significant trend is moderately decreasing which exists from 2007 to 2009.",
+      " But, the next significant trend is moderately increasing which exists from 2005 to 2007.",
+      " Similarly, the next significant trend is moderately decreasing which exists from 2003 to 2005.",
+      " Conversely, the next significant trend is moderately constant which exists from 2001 to 2003."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "4",
+         "12": "7"
+      },
+      {
+         "3": "7",
+         "14": "10"
+      },
+      {
+         "3": "0",
+         "14": "2"
+      },
+      {
+         "3": "2",
+         "14": "4"
+      },
+      {
+         "3": "10",
+         "14": "12"
+      },
+      {
+         "3": "12",
+         "14": "14"
+      },
+      {
+         "3": "14",
+         "14": "16"
+      },
+      {
+         "3": "16",
+         "14": "18"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Imports in million bushels": 28.0
+      },
+      {
+         "Year": "2018",
+         "Imports in million bushels": 36.0
+      },
+      {
+         "Year": "2017",
+         "Imports in million bushels": 57.0
+      },
+      {
+         "Year": "2016",
+         "Imports in million bushels": 57.0
+      },
+      {
+         "Year": "2015",
+         "Imports in million bushels": 68.0
+      },
+      {
+         "Year": "2014",
+         "Imports in million bushels": 32.0
+      },
+      {
+         "Year": "2013",
+         "Imports in million bushels": 36.0
+      },
+      {
+         "Year": "2012",
+         "Imports in million bushels": 160.0
+      },
+      {
+         "Year": "2011",
+         "Imports in million bushels": 29.0
+      },
+      {
+         "Year": "2010",
+         "Imports in million bushels": 28.0
+      },
+      {
+         "Year": "2009",
+         "Imports in million bushels": 8.0
+      },
+      {
+         "Year": "2008",
+         "Imports in million bushels": 14.0
+      },
+      {
+         "Year": "2007",
+         "Imports in million bushels": 20.0
+      },
+      {
+         "Year": "2006",
+         "Imports in million bushels": 12.0
+      },
+      {
+         "Year": "2005",
+         "Imports in million bushels": 9.0
+      },
+      {
+         "Year": "2004",
+         "Imports in million bushels": 11.0
+      },
+      {
+         "Year": "2003",
+         "Imports in million bushels": 14.0
+      },
+      {
+         "Year": "2002",
+         "Imports in million bushels": 14.0
+      },
+      {
+         "Year": "2001",
+         "Imports in million bushels": 10.0
+      }
+   ]
+}

@@ -1,0 +1,65 @@
+{
+   "title": "Test",
+   "xAxis": "Country",
+   "yAxis": "Import volume in thousand metric tones",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 9 categories on the x axis representing Country, and Import volume in thousand metric tones in each Country on the y axis.",
+      "China is higher than any other categories with value 3700.0, followed by Others, and Japan. Down to category Canada with the lowest value of 260.0. ",
+      " The highest value at China is almost 14.23 times larger than the minimum value of Canada. ",
+      " The highest value at China is almost 14.23 times larger than the minimum value of Canada. ",
+      " The difference between the max Country China and min Country Canada is 3440.0. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 7,
+         "12": 7
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Country": "China",
+         "Import volume in thousand metric tones": 3700.0
+      },
+      {
+         "Country": "Japan",
+         "Import volume in thousand metric tones": 1490.0
+      },
+      {
+         "Country": "Mexico",
+         "Import volume in thousand metric tones": 1235.0
+      },
+      {
+         "Country": "Korea South",
+         "Import volume in thousand metric tones": 695.0
+      },
+      {
+         "Country": "United States",
+         "Import volume in thousand metric tones": 401.0
+      },
+      {
+         "Country": "Hong Kong",
+         "Import volume in thousand metric tones": 300.0
+      },
+      {
+         "Country": "Philippines",
+         "Import volume in thousand metric tones": 300.0
+      },
+      {
+         "Country": "Canada",
+         "Import volume in thousand metric tones": 260.0
+      },
+      {
+         "Country": "Others",
+         "Import volume in thousand metric tones": 1590.0
+      }
+   ]
+}

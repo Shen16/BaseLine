@@ -1,0 +1,82 @@
+{
+   "title": "Test",
+   "labels": [
+      "Submarket",
+      "2013",
+      "2014",
+      "2015",
+      "2016"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This grouped bar chart has 5 categories of Submarket on the x axis representing 4 groups: 2013, 2014, 2015, and 2016.",
+      " Averaging these 4 groups, the highest category is found for Submarket Residential property: owner occupied & social housing with a mean value of 4291.0.",
+      " Followed by Residential property: privately rented with a mean value of 973.25.",
+      " The lowest category is observed at Other non-domestic buildings that has a mean value of 145.75",
+      " showing a difference of 186.9% with the maximum value.",
+      " In case of Residential property: owner occupied & social housing, 2013 shows more dominance than any other Submarket and it has the lowest value in Infrastructure. On the other hand, group 2016 is highest in case of Residential property: owner occupied & social housing and has minimum impact for Submarket Other non-domestic buildings. "
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "13": [
+            "4",
+            "0"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "14": [
+            "4",
+            "1"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Submarket": "Residential property: owner occupied & social housing",
+         "2013": "3831",
+         "2014": "4068",
+         "2015": "4460",
+         "2016": "4805"
+      },
+      {
+         "Submarket": "Residential property: privately rented",
+         "2013": "839",
+         "2014": "929",
+         "2015": "1015",
+         "2016": "1110"
+      },
+      {
+         "Submarket": "Infrastructure",
+         "2013": "0",
+         "2014": "960",
+         "2015": "1061",
+         "2016": "1102"
+      },
+      {
+         "Submarket": "Commercial property",
+         "2013": "683",
+         "2014": "787",
+         "2015": "871",
+         "2016": "883"
+      },
+      {
+         "Submarket": "Other non-domestic buildings",
+         "2013": "127",
+         "2014": "146",
+         "2015": "163",
+         "2016": "147"
+      }
+   ]
+}

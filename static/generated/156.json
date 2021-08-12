@@ -1,0 +1,44 @@
+{
+   "title": "Test",
+   "xAxis": "Year",
+   "yAxis": "Revenue in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Revenue in million U.S. dollars, with a total of 4 data points.",
+      " Overall Revenue in million U.S. dollars has decreased over the Year.",
+      "Revenue in million U.S. dollars is slightly decreasing from 2012 to 2015.",
+      "The steepest decrease occurs in between the Year 2014 and 2015.",
+      "Max Revenue in million U.S. dollars about 919.98 was recorded at Year 2012",
+      "Min Revenue in million U.S. dollars about 676.52 was recorded at Year 2015",
+      "#########################################################################",
+      "This line chart has an x axis representing Year and a y axis representing Revenue in million U.S. dollars with a total of 4 data points. The chart has one significant trend.",
+      " This trend is decreasing which exists from 2015 to 2012."
+   ],
+   "trends": [
+      {},
+      {
+         "3": "0",
+         "14": "3"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2015",
+         "Revenue in million U.S. dollars": 676.52
+      },
+      {
+         "Year": "2014",
+         "Revenue in million U.S. dollars": 773.36
+      },
+      {
+         "Year": "2013",
+         "Revenue in million U.S. dollars": 842.63
+      },
+      {
+         "Year": "2012",
+         "Revenue in million U.S. dollars": 919.98
+      }
+   ]
+}

@@ -1,0 +1,108 @@
+{
+   "title": "Test",
+   "xAxis": "Year",
+   "yAxis": "Volume of emissions in thousand tons",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Volume of emissions in thousand tons, with a total of 20 data points.",
+      " Overall Volume of emissions in thousand tons has decreased over the Year",
+      "Volume of emissions in thousand tons is rapidly constant from 1970 to 2011, slightly decreasing from 2011 to 2012, roughly constant from 2012 to 2014, slightly decreasing from 2014 to 2015, and lastly slightly constant from 2015 to 2017.",
+      "The steepest stays the same occurs in between the Year 1990 and 1995.",
+      "Max Volume of emissions in thousand tons about 31218.0 was recorded at Year 1970",
+      "Min Volume of emissions in thousand tons about 2815.0 was recorded at Year 2017",
+      "#########################################################################",
+      "This line chart has an x axis representing Year and a y axis representing Volume of emissions in thousand tons with a total of 20 data points. The chart has one significant trend.",
+      " This trend is decreasing which exists from 2017 to 1970."
+   ],
+   "trends": [
+      {},
+      {
+         "3": "0",
+         "14": "19"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2017",
+         "Volume of emissions in thousand tons": 2815.0
+      },
+      {
+         "Year": "2016",
+         "Volume of emissions in thousand tons": 2960.0
+      },
+      {
+         "Year": "2015",
+         "Volume of emissions in thousand tons": 3685.0
+      },
+      {
+         "Year": "2014",
+         "Volume of emissions in thousand tons": 4674.0
+      },
+      {
+         "Year": "2013",
+         "Volume of emissions in thousand tons": 4873.0
+      },
+      {
+         "Year": "2012",
+         "Volume of emissions in thousand tons": 5079.0
+      },
+      {
+         "Year": "2011",
+         "Volume of emissions in thousand tons": 6479.0
+      },
+      {
+         "Year": "2010",
+         "Volume of emissions in thousand tons": 7732.0
+      },
+      {
+         "Year": "2009",
+         "Volume of emissions in thousand tons": 9089.0
+      },
+      {
+         "Year": "2008",
+         "Volume of emissions in thousand tons": 10324.0
+      },
+      {
+         "Year": "2007",
+         "Volume of emissions in thousand tons": 11699.0
+      },
+      {
+         "Year": "2006",
+         "Volume of emissions in thousand tons": 13123.0
+      },
+      {
+         "Year": "2005",
+         "Volume of emissions in thousand tons": 14546.0
+      },
+      {
+         "Year": "2000",
+         "Volume of emissions in thousand tons": 16347.0
+      },
+      {
+         "Year": "1995",
+         "Volume of emissions in thousand tons": 18619.0
+      },
+      {
+         "Year": "1990",
+         "Volume of emissions in thousand tons": 23077.0
+      },
+      {
+         "Year": "1985",
+         "Volume of emissions in thousand tons": 23307.0
+      },
+      {
+         "Year": "1980",
+         "Volume of emissions in thousand tons": 25926.0
+      },
+      {
+         "Year": "1975",
+         "Volume of emissions in thousand tons": 28044.0
+      },
+      {
+         "Year": "1970",
+         "Volume of emissions in thousand tons": 31218.0
+      }
+   ]
+}

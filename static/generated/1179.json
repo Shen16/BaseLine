@@ -1,0 +1,86 @@
+{
+   "title": "Test",
+   "xAxis": "Year",
+   "yAxis": "Percentage of population",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Percentage of population, with a total of 12 data points.",
+      " Overall Percentage of population has decreased over the Year.",
+      "Percentage of population is slightly decreasing from 2005 to 2007, roughly constant from 2007 to 2009, gradually decreasing from 2009 to 2011, roughly constant from 2011 to 2012, roughly increasing from 2012 to 2013, and lastly slightly decreasing from 2013 to 2017.",
+      "The steepest decrease occurs in between the Year 2009 and 2010.",
+      "Max Percentage of population about 10.0 was recorded at Year 2005",
+      "Min Percentage of population about 2.0 was recorded at Year 2017",
+      "#########################################################################",
+      "This line chart has an x axis representing Year and a y axis representing Percentage of population, with a total of 12 data points. The chart has 3 significant trends.",
+      " The longest trend is slightly decreasing which exists from 2005 to 2012.",
+      " Contrarily, the next significant trend is moderately decreasing which exists from 2014 to 2017.",
+      " Contrarily, the next significant trend is extremely decreasing which exists from 2012 to 2014."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "4",
+         "12": "11"
+      },
+      {
+         "3": "0",
+         "14": "2"
+      },
+      {
+         "3": "2",
+         "14": "4"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2017",
+         "Percentage of population": 2.0
+      },
+      {
+         "Year": "2016",
+         "Percentage of population": 2.4
+      },
+      {
+         "Year": "2014",
+         "Percentage of population": 2.8
+      },
+      {
+         "Year": "2013",
+         "Percentage of population": 2.4
+      },
+      {
+         "Year": "2012",
+         "Percentage of population": 2.7
+      },
+      {
+         "Year": "2011",
+         "Percentage of population": 2.6
+      },
+      {
+         "Year": "2010",
+         "Percentage of population": 3.7
+      },
+      {
+         "Year": "2009",
+         "Percentage of population": 6.0
+      },
+      {
+         "Year": "2008",
+         "Percentage of population": 6.2
+      },
+      {
+         "Year": "2007",
+         "Percentage of population": 6.9
+      },
+      {
+         "Year": "2006",
+         "Percentage of population": 8.0
+      },
+      {
+         "Year": "2005",
+         "Percentage of population": 10.0
+      }
+   ]
+}

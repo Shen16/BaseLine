@@ -1,0 +1,109 @@
+{
+   "title": "Test",
+   "xAxis": "Country",
+   "yAxis": "National debt in relation to GDP",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 20 categories on the x axis representing Country, and National debt in relation to GDP in each Country on the y axis.",
+      "Kiribati is higher than any other categories with value 22.62, followed by Tuvalu, and Luxembourg. Down to category Hong Kong SAR with the lowest value of 0.0. ",
+      " The highest value at Kiribati is almost 2262000000000.0 times larger than the minimum value of Hong Kong SAR. ",
+      " The highest value at Kiribati is almost 2262000000000.0 times larger than the minimum value of Hong Kong SAR. ",
+      " The difference between the max Country Kiribati and min Country Hong Kong SAR is 22.62. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 19,
+         "12": 19
+      },
+      {
+         "7": 0,
+         "12": 0
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Country": "Hong Kong SAR",
+         "National debt in relation to GDP": 0.0
+      },
+      {
+         "Country": "Macao SAR",
+         "National debt in relation to GDP": 0.0
+      },
+      {
+         "Country": "Brunei Darussalam",
+         "National debt in relation to GDP": 2.8
+      },
+      {
+         "Country": "Afghanistan",
+         "National debt in relation to GDP": 7.55
+      },
+      {
+         "Country": "Estonia",
+         "National debt in relation to GDP": 8.2
+      },
+      {
+         "Country": "Solomon Islands",
+         "National debt in relation to GDP": 10.91
+      },
+      {
+         "Country": "Botswana",
+         "National debt in relation to GDP": 12.31
+      },
+      {
+         "Country": "Democratic Republic of the Congo",
+         "National debt in relation to GDP": 13.49
+      },
+      {
+         "Country": "Kuwait",
+         "National debt in relation to GDP": 15.25
+      },
+      {
+         "Country": "Russia",
+         "National debt in relation to GDP": 16.49
+      },
+      {
+         "Country": "Zimbabwe",
+         "National debt in relation to GDP": 17.67
+      },
+      {
+         "Country": "Kosovo",
+         "National debt in relation to GDP": 18.18
+      },
+      {
+         "Country": "Micronesia",
+         "National debt in relation to GDP": 18.49
+      },
+      {
+         "Country": "Bulgaria",
+         "National debt in relation to GDP": 19.16
+      },
+      {
+         "Country": "Azerbaijan",
+         "National debt in relation to GDP": 19.71
+      },
+      {
+         "Country": "United Arab Emirates",
+         "National debt in relation to GDP": 20.14
+      },
+      {
+         "Country": "Kazakhstan",
+         "National debt in relation to GDP": 20.76
+      },
+      {
+         "Country": "Luxembourg",
+         "National debt in relation to GDP": 21.34
+      },
+      {
+         "Country": "Tuvalu",
+         "National debt in relation to GDP": 22.6
+      },
+      {
+         "Country": "Kiribati",
+         "National debt in relation to GDP": 22.62
+      }
+   ]
+}

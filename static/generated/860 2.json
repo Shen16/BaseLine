@@ -1,0 +1,71 @@
+{
+   "title": "Test",
+   "xAxis": "Month",
+   "yAxis": "Instagram followers in millions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 10 categories on the x axis representing Month, and Instagram followers in millions in each Month on the y axis.",
+      " The highest category is found at Anna Nystr\u00f6m (annanystrom) where Instagram followers in millions is 4.9.",
+      " Followed by 2.1 in thisisamans.world.",
+      " The lowest category is found at TrainForFitspo (trainforfitspo) where Instagram followers in millions is 0.51.",
+      " The highest value at Anna Nystr\u00f6m (annanystrom) is almost 9.61 times larger than the minimum value of TrainForFitspo (trainforfitspo). ",
+      " The highest value at Anna Nystr\u00f6m (annanystrom) is almost 9.61 times larger than the minimum value of TrainForFitspo (trainforfitspo). ",
+      " The difference between the max Month Anna Nystr\u00f6m (annanystrom) and min Month TrainForFitspo (trainforfitspo) is 4.390000000000001. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 9,
+         "12": 9
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Month": "Anna Nystr\u00f6m (annanystrom)",
+         "Instagram followers in millions": 4.9
+      },
+      {
+         "Month": "thisisamans.world",
+         "Instagram followers in millions": 2.1
+      },
+      {
+         "Month": "Kenza Zouiten (kenzas)",
+         "Instagram followers in millions": 1.8
+      },
+      {
+         "Month": "Christoffer Collin (wisslaren)",
+         "Instagram followers in millions": 1.4
+      },
+      {
+         "Month": "Angelica Blick (angelicablick)",
+         "Instagram followers in millions": 1.3
+      },
+      {
+         "Month": "Janni Del\u00e9r (jannid)",
+         "Instagram followers in millions": 1.2
+      },
+      {
+         "Month": "Victoria T\u00f6rnegren (victoriatornegren)",
+         "Instagram followers in millions": 0.77
+      },
+      {
+         "Month": "Mattias Klum (mattiasklumofficial)",
+         "Instagram followers in millions": 0.73
+      },
+      {
+         "Month": "Alexandra Bring (alexandrabring)",
+         "Instagram followers in millions": 0.65
+      },
+      {
+         "Month": "TrainForFitspo (trainforfitspo)",
+         "Instagram followers in millions": 0.51
+      }
+   ]
+}

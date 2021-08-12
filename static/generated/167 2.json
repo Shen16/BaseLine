@@ -1,0 +1,137 @@
+{
+   "title": "Test",
+   "xAxis": "Year",
+   "yAxis": "Youth unemployment rate",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Youth unemployment rate, with a total of 21 data points.",
+      " Overall Youth unemployment rate has increased over the Year",
+      "Youth unemployment rate is slightly constant from 1999 to 2019.",
+      "The steepest stays the same occurs in between the Year 2015 and 2016.",
+      "Max Youth unemployment rate about 37.24 was recorded at Year 2018",
+      "Min Youth unemployment rate about 28.43 was recorded at Year 2014",
+      "#########################################################################",
+      "This line chart has an x axis representing Year and a y axis representing Youth unemployment rate, with a total of 21 data points. The chart has 6 significant trends.",
+      " The longest trend is slightly decreasing which exists from 2005 to 2010.",
+      " On the contrary, the next significant trend is moderately decreasing which exists from 2016 to 2019.",
+      " Conversely, the next significant trend is extremely decreasing which exists from 2013 to 2016.",
+      " But, the next significant trend is moderately increasing which exists from 2010 to 2013.",
+      " Likewise, the next significant trend is slightly decreasing which exists from 2002 to 2005.",
+      " Differently, the next significant trend is moderately increasing which exists from 1999 to 2002."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "9",
+         "12": "14"
+      },
+      {
+         "3": "0",
+         "14": "3"
+      },
+      {
+         "3": "3",
+         "14": "6"
+      },
+      {
+         "3": "6",
+         "14": "9"
+      },
+      {
+         "3": "14",
+         "14": "17"
+      },
+      {
+         "3": "17",
+         "14": "20"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Youth unemployment rate": 36.68
+      },
+      {
+         "Year": "2018",
+         "Youth unemployment rate": 37.24
+      },
+      {
+         "Year": "2017",
+         "Youth unemployment rate": 34.86
+      },
+      {
+         "Year": "2016",
+         "Youth unemployment rate": 35.63
+      },
+      {
+         "Year": "2015",
+         "Youth unemployment rate": 30.9
+      },
+      {
+         "Year": "2014",
+         "Youth unemployment rate": 28.43
+      },
+      {
+         "Year": "2013",
+         "Youth unemployment rate": 29.87
+      },
+      {
+         "Year": "2012",
+         "Youth unemployment rate": 28.84
+      },
+      {
+         "Year": "2011",
+         "Youth unemployment rate": 30.03
+      },
+      {
+         "Year": "2010",
+         "Youth unemployment rate": 28.88
+      },
+      {
+         "Year": "2009",
+         "Youth unemployment rate": 29.12
+      },
+      {
+         "Year": "2008",
+         "Youth unemployment rate": 28.51
+      },
+      {
+         "Year": "2007",
+         "Youth unemployment rate": 29.04
+      },
+      {
+         "Year": "2006",
+         "Youth unemployment rate": 30.45
+      },
+      {
+         "Year": "2005",
+         "Youth unemployment rate": 31.75
+      },
+      {
+         "Year": "2004",
+         "Youth unemployment rate": 31.37
+      },
+      {
+         "Year": "2003",
+         "Youth unemployment rate": 31.06
+      },
+      {
+         "Year": "2002",
+         "Youth unemployment rate": 32.62
+      },
+      {
+         "Year": "2001",
+         "Youth unemployment rate": 31.08
+      },
+      {
+         "Year": "2000",
+         "Youth unemployment rate": 29.4
+      },
+      {
+         "Year": "1999",
+         "Youth unemployment rate": 29.65
+      }
+   ]
+}

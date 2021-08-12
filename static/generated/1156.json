@@ -1,0 +1,48 @@
+{
+   "title": "Test",
+   "xAxis": "Year",
+   "yAxis": "Unit sales in millions",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Unit sales in millions, with a total of 5 data points.",
+      " Overall Unit sales in millions has increased over the Year.",
+      "Unit sales in millions is slightly increasing from 2014 to 2015, roughly constant from 2015 to 2016, and lastly slightly increasing from 2016 to 2018.",
+      "The steepest increase occurs in between the Year 2017 and 2018.",
+      "Max Unit sales in millions about 21.15 was recorded at Year 2018",
+      "Min Unit sales in millions about 0.83 was recorded at Year 2014",
+      "#########################################################################",
+      "This line chart has an x axis representing Year and a y axis representing Unit sales in millions with a total of 5 data points. The chart has one significant trend.",
+      " This trend is increasing which exists from 2018 to 2014."
+   ],
+   "trends": [
+      {},
+      {
+         "3": "0",
+         "14": "4"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Unit sales in millions": 21.15
+      },
+      {
+         "Year": "2017",
+         "Unit sales in millions": 10.62
+      },
+      {
+         "Year": "2016",
+         "Unit sales in millions": 3.74
+      },
+      {
+         "Year": "2015",
+         "Unit sales in millions": 2.47
+      },
+      {
+         "Year": "2014",
+         "Unit sales in millions": 0.83
+      }
+   ]
+}

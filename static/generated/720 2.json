@@ -1,0 +1,76 @@
+{
+   "title": "Test",
+   "labels": [
+      "Response",
+      "2017",
+      "2018",
+      "2019"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This grouped bar chart has 5 categories of Response on the x axis representing 3 groups: 2017, 2018, and 2019.",
+      " Averaging these 3 groups, the highest category is found for Response Somewhat agree with a mean value of 39.07.",
+      " Followed by Somewhat disagree with a mean value of 21.73.",
+      " The lowest category is observed at Strongly disagree that has a mean value of 10.97",
+      " showing a difference of 112.3% with the maximum value.",
+      " In case of Somewhat agree, 2017 shows more dominance than any other Response with a value 397.0 and it has the lowest value 97.0 in Strongly agree.  However, 2018 is the second impactful group, and it has the highest value 341.0 for Response Somewhat agree and the lowest 105.0 in case of Strongly agree. "
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "3"
+         ],
+         "13": [
+            "3",
+            "3"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "14": [
+            "3",
+            "1"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Response": "Strongly disagree",
+         "2017": "10.8",
+         "2018": "8.2",
+         "2019": "13.9"
+      },
+      {
+         "Response": "Somewhat disagree",
+         "2017": "25.4",
+         "2018": "17.3",
+         "2019": "22.5"
+      },
+      {
+         "Response": "Neither agree nor disagree",
+         "2017": "14.4",
+         "2018": "16.3",
+         "2019": "19.1"
+      },
+      {
+         "Response": "Somewhat agree",
+         "2017": "39.7",
+         "2018": "43.4",
+         "2019": "34.1"
+      },
+      {
+         "Response": "Strongly agree",
+         "2017": "9.7",
+         "2018": "14.8",
+         "2019": "10.5"
+      }
+   ]
+}

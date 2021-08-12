@@ -1,0 +1,113 @@
+{
+   "title": "Test",
+   "xAxis": "Year",
+   "yAxis": "Inflation rate",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Inflation rate, with a total of 15 data points.",
+      " Overall Inflation rate has increased over the Year",
+      "Inflation rate is rapidly increasing from 2010 to 2011, gradually decreasing from 2011 to 2013, roughly constant from 2013 to 2014, rapidly decreasing from 2014 to 2015, rapidly increasing from 2015 to 2017, roughly constant from 2017 to 2019, gradually increasing from 2019 to 2020, and lastly roughly constant from 2020 to 2024.",
+      "The steepest increase occurs in between the Year 2010 and 2011.",
+      "Max Inflation rate about 3.14 was recorded at Year 2011",
+      "Min Inflation rate about 0.12 was recorded at Year 2015",
+      "#########################################################################",
+      "This line chart has an x axis representing Year and a y axis representing Inflation rate, with a total of 15 data points. The chart has 6 significant trends.",
+      " The longest trend is extremely increasing which exists from 2015 to 2018.",
+      " Also, the next significant trend is moderately decreasing which exists from 2010 to 2013.",
+      " On the other hand, the next significant trend is moderately constant which exists from 2022 to 2024.",
+      " Conversely, the next significant trend is moderately decreasing which exists from 2020 to 2022.",
+      " On the contrary, the next significant trend is moderately decreasing which exists from 2018 to 2020.",
+      " On the other hand, the next significant trend is slightly increasing which exists from 2013 to 2015."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "6",
+         "12": "9"
+      },
+      {
+         "3": "11",
+         "14": "14"
+      },
+      {
+         "3": "0",
+         "14": "2"
+      },
+      {
+         "3": "2",
+         "14": "4"
+      },
+      {
+         "3": "4",
+         "14": "6"
+      },
+      {
+         "3": "9",
+         "14": "11"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2024",
+         "Inflation rate": 2.24
+      },
+      {
+         "Year": "2023",
+         "Inflation rate": 2.23
+      },
+      {
+         "Year": "2022",
+         "Inflation rate": 2.23
+      },
+      {
+         "Year": "2021",
+         "Inflation rate": 2.27
+      },
+      {
+         "Year": "2020",
+         "Inflation rate": 2.73
+      },
+      {
+         "Year": "2019",
+         "Inflation rate": 2.0
+      },
+      {
+         "Year": "2018",
+         "Inflation rate": 2.44
+      },
+      {
+         "Year": "2017",
+         "Inflation rate": 2.14
+      },
+      {
+         "Year": "2016",
+         "Inflation rate": 1.27
+      },
+      {
+         "Year": "2015",
+         "Inflation rate": 0.12
+      },
+      {
+         "Year": "2014",
+         "Inflation rate": 1.62
+      },
+      {
+         "Year": "2013",
+         "Inflation rate": 1.47
+      },
+      {
+         "Year": "2012",
+         "Inflation rate": 2.07
+      },
+      {
+         "Year": "2011",
+         "Inflation rate": 3.14
+      },
+      {
+         "Year": "2010",
+         "Inflation rate": 1.64
+      }
+   ]
+}

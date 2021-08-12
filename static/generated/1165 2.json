@@ -1,0 +1,64 @@
+{
+   "title": "Test",
+   "labels": [
+      "Response",
+      "Remain",
+      "Leave"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This grouped bar chart has 4 categories of Response on the x axis representing 2 groups: Remain, and Leave.",
+      " Averaging these 2 groups, the highest category is found for Response Upper Middle-Class (AB) with a mean value of 50.0.",
+      " Followed by Lower Middle-Class (C1) with a mean value of 50.0.",
+      " The lowest category is observed at Lower Working-Class (DE) that has a mean value of 50.0",
+      " In case of Upper Middle-Class (AB), Remain shows more dominance than any other Response with a value 57.0 and it has the lowest value 36.0 in Lower Working-Class (DE). "
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "3"
+         ],
+         "13": [
+            "2",
+            "3"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "2"
+         ],
+         "14": [
+            "2",
+            "2"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Response": "Lower Working-Class (DE)",
+         "Remain": "36",
+         "Leave": "64"
+      },
+      {
+         "Response": "Upper Working-Class (C2)",
+         "Remain": "36",
+         "Leave": "64"
+      },
+      {
+         "Response": "Lower Middle-Class (C1)",
+         "Remain": "51",
+         "Leave": "49"
+      },
+      {
+         "Response": "Upper Middle-Class (AB)",
+         "Remain": "57",
+         "Leave": "43"
+      }
+   ]
+}

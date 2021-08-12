@@ -1,0 +1,96 @@
+{
+   "title": "Test",
+   "xAxis": "Year",
+   "yAxis": "Average annual expenditure in U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Average annual expenditure in U.S. dollars, with a total of 12 data points.",
+      " Overall Average annual expenditure in U.S. dollars has increased over the Year.",
+      "Average annual expenditure in U.S. dollars is slightly increasing from 2007 to 2008, roughly decreasing from 2008 to 2010, slightly increasing from 2010 to 2012, roughly constant from 2012 to 2013, slightly increasing from 2013 to 2014, roughly constant from 2014 to 2016, gradually increasing from 2016 to 2017, and lastly roughly constant from 2017 to 2018.",
+      "The steepest increase occurs in between the Year 2016 and 2017.",
+      "Max Average annual expenditure in U.S. dollars about 92.05 was recorded at Year 2018",
+      "Min Average annual expenditure in U.S. dollars about 75.68 was recorded at Year 2007",
+      "#########################################################################",
+      "This line chart has an x axis representing Year and a y axis representing Average annual expenditure in U.S. dollars, with a total of 12 data points. The chart has 5 significant trends.",
+      " The longest trend is slightly decreasing which exists from 2009 to 2012.",
+      " Contrarily, the next significant trend is extremely increasing which exists from 2016 to 2018.",
+      " Additionally, the next significant trend is moderately increasing which exists from 2014 to 2016.",
+      " Also, the next significant trend is slightly decreasing which exists from 2012 to 2014.",
+      " On the contrary, the next significant trend is extremely increasing which exists from 2007 to 2009."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "6",
+         "12": "9"
+      },
+      {
+         "3": "0",
+         "14": "2"
+      },
+      {
+         "3": "2",
+         "14": "4"
+      },
+      {
+         "3": "4",
+         "14": "6"
+      },
+      {
+         "3": "9",
+         "14": "11"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Average annual expenditure in U.S. dollars": 92.05
+      },
+      {
+         "Year": "2017",
+         "Average annual expenditure in U.S. dollars": 89.43
+      },
+      {
+         "Year": "2016",
+         "Average annual expenditure in U.S. dollars": 82.13
+      },
+      {
+         "Year": "2015",
+         "Average annual expenditure in U.S. dollars": 84.24
+      },
+      {
+         "Year": "2014",
+         "Average annual expenditure in U.S. dollars": 79.89
+      },
+      {
+         "Year": "2013",
+         "Average annual expenditure in U.S. dollars": 82.68
+      },
+      {
+         "Year": "2012",
+         "Average annual expenditure in U.S. dollars": 84.71
+      },
+      {
+         "Year": "2011",
+         "Average annual expenditure in U.S. dollars": 78.49
+      },
+      {
+         "Year": "2010",
+         "Average annual expenditure in U.S. dollars": 81.94
+      },
+      {
+         "Year": "2009",
+         "Average annual expenditure in U.S. dollars": 85.66
+      },
+      {
+         "Year": "2008",
+         "Average annual expenditure in U.S. dollars": 81.1
+      },
+      {
+         "Year": "2007",
+         "Average annual expenditure in U.S. dollars": 75.68
+      }
+   ]
+}

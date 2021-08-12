@@ -1,0 +1,128 @@
+{
+   "title": "Test",
+   "xAxis": "Year",
+   "yAxis": "Index value in points",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Index value in points, with a total of 20 data points.",
+      " Overall Index value in points has increased over the Year.",
+      "Index value in points is slightly decreasing from 2000 to 2002, slightly increasing from 2002 to 2003, roughly constant from 2003 to 2007, slightly decreasing from 2007 to 2008, slightly increasing from 2008 to 2009, roughly constant from 2009 to 2012, slightly increasing from 2012 to 2013, roughly constant from 2013 to 2015, slightly increasing from 2015 to 2017, roughly constant from 2017 to 2018, and lastly slightly increasing from 2018 to 2019.",
+      "The steepest increase occurs in between the Year 2018 and 2019.",
+      "Max Index value in points about 9386.48 was recorded at Year 2019",
+      "Min Index value in points about 2374.96 was recorded at Year 2002",
+      "#########################################################################",
+      "This line chart has an x axis representing Year and a y axis representing Index value in points, with a total of 20 data points. The chart has 5 significant trends.",
+      " The longest trend is moderately increasing which exists from 2008 to 2015.",
+      " Additionally, the next significant trend is moderately increasing which exists from 2002 to 2008.",
+      " Likewise, the next significant trend is moderately decreasing which exists from 2017 to 2019.",
+      " On the other hand, the next significant trend is extremely increasing which exists from 2015 to 2017.",
+      " Likewise, the next significant trend is slightly decreasing which exists from 2000 to 2002."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "4",
+         "12": "11"
+      },
+      {
+         "3": "11",
+         "14": "17"
+      },
+      {
+         "3": "0",
+         "14": "2"
+      },
+      {
+         "3": "2",
+         "14": "4"
+      },
+      {
+         "3": "17",
+         "14": "19"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Index value in points": 9386.48
+      },
+      {
+         "Year": "2018",
+         "Index value in points": 7710.44
+      },
+      {
+         "Year": "2017",
+         "Index value in points": 8310.35
+      },
+      {
+         "Year": "2016",
+         "Index value in points": 6902.45
+      },
+      {
+         "Year": "2015",
+         "Index value in points": 5978.34
+      },
+      {
+         "Year": "2014",
+         "Index value in points": 6473.6
+      },
+      {
+         "Year": "2013",
+         "Index value in points": 5641.55
+      },
+      {
+         "Year": "2012",
+         "Index value in points": 4442.07
+      },
+      {
+         "Year": "2011",
+         "Index value in points": 4232.17
+      },
+      {
+         "Year": "2010",
+         "Index value in points": 4033.19
+      },
+      {
+         "Year": "2009",
+         "Index value in points": 3566.68
+      },
+      {
+         "Year": "2008",
+         "Index value in points": 3086.07
+      },
+      {
+         "Year": "2007",
+         "Index value in points": 4394.05
+      },
+      {
+         "Year": "2006",
+         "Index value in points": 4120.96
+      },
+      {
+         "Year": "2005",
+         "Index value in points": 3638.06
+      },
+      {
+         "Year": "2004",
+         "Index value in points": 3395.82
+      },
+      {
+         "Year": "2003",
+         "Index value in points": 3000.75
+      },
+      {
+         "Year": "2002",
+         "Index value in points": 2374.96
+      },
+      {
+         "Year": "2001",
+         "Index value in points": 2892.23
+      },
+      {
+         "Year": "2000",
+         "Index value in points": 3317.61
+      }
+   ]
+}

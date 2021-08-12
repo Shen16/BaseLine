@@ -1,0 +1,49 @@
+{
+   "title": "Test",
+   "xAxis": "Region",
+   "yAxis": "Number of employees",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 5 categories on the x axis representing Region, and Number of employees in each Region on the y axis.",
+      "Europe is higher than any other categories with value 70599.0, followed by , and Asia (excl. India). Down to category Africa India Middle-East with the lowest value of 1848.0. ",
+      " The highest value at Europe is almost 38.2 times larger than the minimum value of Africa India Middle-East. ",
+      " The highest value at Europe is almost 38.2 times larger than the minimum value of Africa India Middle-East. ",
+      " The difference between the max Region Europe and min Region Africa India Middle-East is 68751.0. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 4,
+         "12": 4
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Region": "Europe",
+         "Number of employees": 70599.0
+      },
+      {
+         "Region": "North America",
+         "Number of employees": 21541.0
+      },
+      {
+         "Region": "Asia (excl. India)",
+         "Number of employees": 15259.0
+      },
+      {
+         "Region": "South America",
+         "Number of employees": 8166.0
+      },
+      {
+         "Region": "Africa India Middle-East",
+         "Number of employees": 1848.0
+      }
+   ]
+}

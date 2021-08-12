@@ -1,0 +1,51 @@
+{
+   "title": "Test",
+   "xAxis": "Telecommunications Company",
+   "yAxis": "Market share",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 5 categories on the x axis representing Telecommunications Company, and Market share in each Telecommunications Company on the y axis.",
+      " The highest category is found at Telstra where Market share is 46.3.",
+      " Followed by 46.3 in .",
+      " The lowest category is found at Australia Other where Market share is 11.0.",
+      " The highest value at Telstra is almost 4.21 times larger than the minimum value of Australia Other. ",
+      " The highest value at Telstra is almost 4.21 times larger than the minimum value of Australia Other. ",
+      " The difference between the max Telecommunications Company Telstra and min Telecommunications Company Australia Other is 35.3. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 4,
+         "12": 4
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Telecommunications Company": "Telstra",
+         "Market share": 46.3
+      },
+      {
+         "Telecommunications Company": "Optus",
+         "Market share": 15.9
+      },
+      {
+         "Telecommunications Company": "iiNet",
+         "Market share": 15.1
+      },
+      {
+         "Telecommunications Company": "TPG",
+         "Market share": 11.6
+      },
+      {
+         "Telecommunications Company": "Australia Other",
+         "Market share": 11.0
+      }
+   ]
+}

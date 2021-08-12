@@ -1,0 +1,167 @@
+{
+   "title": "Test",
+   "labels": [
+      "Year",
+      "Public use",
+      "Private use"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a multi-line chart with 2 lines representing Public use, and Private use. ",
+      "The line for Private use has the highest values across Year with a mean value of 14126.75, ",
+      "and it peaked at 7 with a value of 14839.0.",
+      "Public use mostly had the least y-axis name with a mean value of 5236.2, ",
+      "which peaked at 90 with a value of 5589.0. ",
+      "Public use reported the lowest y-axis name  about 5087.0 in Year 18",
+      "Overall Public use, and Private use are roughly constant,  throughout the Year",
+      "The difference of y_axis name between Public use and Private use is smaller at Year 95 compared to the Year 0.",
+      "The greatest difference of y_axis name between Public use and Private use occurs at Year 7 and the smallest difference occurs at 90."
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "16": [
+            "19",
+            "1"
+         ]
+      },
+      {
+         "1": [
+            "10",
+            "1"
+         ],
+         "9": [
+            "10",
+            "1"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "15": [
+            "19",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "19",
+            "0"
+         ],
+         "10": [
+            "19",
+            "0"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "18",
+         "Public use": "5087",
+         "Private use": "14549"
+      },
+      {
+         "Year": "17",
+         "Public use": "5104",
+         "Private use": "14263"
+      },
+      {
+         "Year": "16",
+         "Public use": "5136",
+         "Private use": "14112"
+      },
+      {
+         "Year": "14",
+         "Public use": "5145",
+         "Private use": "13863"
+      },
+      {
+         "Year": "13",
+         "Public use": "5155",
+         "Private use": "14009"
+      },
+      {
+         "Year": "12",
+         "Public use": "5171",
+         "Private use": "14269"
+      },
+      {
+         "Year": "11",
+         "Public use": "5172",
+         "Private use": "14339"
+      },
+      {
+         "Year": "10",
+         "Public use": "5175",
+         "Private use": "14353"
+      },
+      {
+         "Year": "9",
+         "Public use": "5178",
+         "Private use": "14298"
+      },
+      {
+         "Year": "8",
+         "Public use": "5202",
+         "Private use": "14451"
+      },
+      {
+         "Year": "7",
+         "Public use": "5221",
+         "Private use": "14839"
+      },
+      {
+         "Year": "6",
+         "Public use": "5233",
+         "Private use": "14757"
+      },
+      {
+         "Year": "5",
+         "Public use": "5270",
+         "Private use": "14584"
+      },
+      {
+         "Year": "4",
+         "Public use": "5288",
+         "Private use": "14532"
+      },
+      {
+         "Year": "3",
+         "Public use": "5286",
+         "Private use": "14295"
+      },
+      {
+         "Year": "2",
+         "Public use": "5286",
+         "Private use": "14286"
+      },
+      {
+         "Year": "1",
+         "Public use": "5294",
+         "Private use": "14062"
+      },
+      {
+         "Year": "0",
+         "Public use": "5317",
+         "Private use": "13964"
+      },
+      {
+         "Year": "95",
+         "Public use": "5415",
+         "Private use": "12809"
+      },
+      {
+         "Year": "90",
+         "Public use": "5589",
+         "Private use": "11901"
+      }
+   ]
+}

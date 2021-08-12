@@ -1,0 +1,36 @@
+{
+   "title": "Test",
+   "xAxis": "Year",
+   "yAxis": "Market revenue in billion U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Market revenue in billion U.S. dollars, with a total of 2 data points.",
+      " Overall Market revenue in billion U.S. dollars has increased over the Year.",
+      "Market revenue in billion U.S. dollars is slightly increasing from 2016 to 2021.",
+      "The steepest increase occurs in between the Year 2016 and 2021.",
+      "Max Market revenue in billion U.S. dollars about 19.09 was recorded at Year 2021",
+      "Min Market revenue in billion U.S. dollars about 14.5 was recorded at Year 2016",
+      "#########################################################################",
+      "This line chart has an x axis representing Year and a y axis representing Market revenue in billion U.S. dollars with a total of 2 data points. The chart has one significant trend.",
+      " This trend is increasing which exists from 2021 to 2016."
+   ],
+   "trends": [
+      {},
+      {
+         "3": "0",
+         "14": "1"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2021",
+         "Market revenue in billion U.S. dollars": 19.09
+      },
+      {
+         "Year": "2016",
+         "Market revenue in billion U.S. dollars": 14.5
+      }
+   ]
+}

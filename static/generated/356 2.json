@@ -1,0 +1,67 @@
+{
+   "title": "Test",
+   "xAxis": "Fine Types",
+   "yAxis": "Maximum fine (in U.S. dollars)",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 9 categories on the x axis representing Fine Types, and Maximum fine (in U.S. dollars) in each Fine Types on the y axis.",
+      " The highest category is found at Unexcused late reporting foror absence from preseason training where Maximum fine (in U.S. dollars) is 30000.0.",
+      " Followed by 25000.0 in Ejection from game.",
+      " The lowest category is found at Being overweight (per lb.) where Maximum fine (in U.S. dollars) is 470.0.",
+      " The highest value at Unexcused late reporting foror absence from preseason training is almost 63.83 times larger than the minimum value of Being overweight (per lb.). ",
+      " The highest value at Unexcused late reporting foror absence from preseason training is almost 63.83 times larger than the minimum value of Being overweight (per lb.). ",
+      " The difference between the max Fine Types Unexcused late reporting foror absence from preseason training and min Fine Types Being overweight (per lb.) is 29530.0. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 8,
+         "12": 8
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Fine Types": "Unexcused late reporting foror absence from preseason training",
+         "Maximum fine (in U.S. dollars)": 30000.0
+      },
+      {
+         "Fine Types": "Ejection from game",
+         "Maximum fine (in U.S. dollars)": 25000.0
+      },
+      {
+         "Fine Types": "Unexcused missed team transportation",
+         "Maximum fine (in U.S. dollars)": 9440.0
+      },
+      {
+         "Fine Types": "Loss of playbook scouting reportor game plan",
+         "Maximum fine (in U.S. dollars)": 9440.0
+      },
+      {
+         "Fine Types": "Throwing football into stands",
+         "Maximum fine (in U.S. dollars)": 1770.0
+      },
+      {
+         "Fine Types": "Losing damaging or alteringClub-provided equipment",
+         "Maximum fine (in U.S. dollars)": 1770.0
+      },
+      {
+         "Fine Types": "Failure to promptly report injury",
+         "Maximum fine (in U.S. dollars)": 1770.0
+      },
+      {
+         "Fine Types": "Unexcused late reportingfor team activity",
+         "Maximum fine (in U.S. dollars)": 1770.0
+      },
+      {
+         "Fine Types": "Being overweight (per lb.)",
+         "Maximum fine (in U.S. dollars)": 470.0
+      }
+   ]
+}

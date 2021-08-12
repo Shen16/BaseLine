@@ -1,0 +1,87 @@
+{
+   "title": "Test",
+   "xAxis": "Year",
+   "yAxis": "GDP growth compared to previous year",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing GDP growth compared to previous year, with a total of 11 data points.",
+      " Overall GDP growth compared to previous year has increased over the Year",
+      "GDP growth compared to previous year is gradually constant from 2014 to 2018, gradually decreasing from 2018 to 2020, rapidly increasing from 2020 to 2022, and lastly roughly constant from 2022 to 2024.",
+      "The steepest decrease occurs in between the Year 2018 and 2019.",
+      "Max GDP growth compared to previous year about 5.53 was recorded at Year 2018",
+      "Min GDP growth compared to previous year about 2.35 was recorded at Year 2020",
+      "#########################################################################",
+      "This line chart has an x axis representing Year and a y axis representing GDP growth compared to previous year, with a total of 11 data points. The chart has 4 significant trends.",
+      " The longest trend is extremely increasing which exists from 2014 to 2018.",
+      " Additionally, the next significant trend is extremely increasing which exists from 2020 to 2023.",
+      " Similarly, the next significant trend is slightly decreasing which exists from 2018 to 2020.",
+      " Differently, the next significant trend is moderately constant which exists from 2023 to 2024."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "6",
+         "12": "10"
+      },
+      {
+         "3": "1",
+         "14": "4"
+      },
+      {
+         "3": "4",
+         "14": "6"
+      },
+      {
+         "3": "0",
+         "14": "1"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2024",
+         "GDP growth compared to previous year": 5.02
+      },
+      {
+         "Year": "2023",
+         "GDP growth compared to previous year": 5.02
+      },
+      {
+         "Year": "2022",
+         "GDP growth compared to previous year": 4.53
+      },
+      {
+         "Year": "2021",
+         "GDP growth compared to previous year": 3.0
+      },
+      {
+         "Year": "2020",
+         "GDP growth compared to previous year": 2.35
+      },
+      {
+         "Year": "2019",
+         "GDP growth compared to previous year": 3.29
+      },
+      {
+         "Year": "2018",
+         "GDP growth compared to previous year": 5.53
+      },
+      {
+         "Year": "2017",
+         "GDP growth compared to previous year": 5.22
+      },
+      {
+         "Year": "2016",
+         "GDP growth compared to previous year": 4.56
+      },
+      {
+         "Year": "2015",
+         "GDP growth compared to previous year": 4.06
+      },
+      {
+         "Year": "2014",
+         "GDP growth compared to previous year": 4.05
+      }
+   ]
+}
