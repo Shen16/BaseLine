@@ -1,0 +1,96 @@
+{
+   "title": "Test",
+   "labels": [
+      "Ticket Type",
+      "Cat 1",
+      "Cat 2",
+      "Cat 3",
+      "Cat 4"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This grouped bar chart has 7 categories of Ticket Type on the x axis representing 4 groups: Cat 1, Cat 2, Cat 3, and Cat 4.",
+      " Averaging these 4 groups, the highest category is found for Ticket Type Final (64) with a mean value of 593.75.",
+      " Followed by Semi-finals (61 to 62) with a mean value of 396.25.",
+      " The lowest category is observed at Group matches (2 to 48) that has a mean value of 125.0",
+      " showing a difference of 130.4% with the maximum value.",
+      " In case of Final (64), Cat 1 shows more dominance than any other Ticket Type with a value 1100.0 and it has the lowest value 210.0 in Group matches (2 to 48).  However, Cat 2 is the second impactful group, and it has the highest value 455.0 for Ticket Type Final (64) and the lowest 105.0 in case of Group matches (2 to 48). "
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "6"
+         ],
+         "13": [
+            "4",
+            "6"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "4"
+         ],
+         "14": [
+            "4",
+            "4"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Ticket Type": "Opening match (1)",
+         "Cat 1": "550",
+         "Cat 2": "390",
+         "Cat 3": "220",
+         "Cat 4": "50"
+      },
+      {
+         "Ticket Type": "Group matches (2 to 48)",
+         "Cat 1": "210",
+         "Cat 2": "165",
+         "Cat 3": "105",
+         "Cat 4": "20"
+      },
+      {
+         "Ticket Type": "Round of 16 (49 to 56)",
+         "Cat 1": "245",
+         "Cat 2": "185",
+         "Cat 3": "115",
+         "Cat 4": "35"
+      },
+      {
+         "Ticket Type": "Quarter-finals (57 to 60)",
+         "Cat 1": "365",
+         "Cat 2": "255",
+         "Cat 3": "175",
+         "Cat 4": "60"
+      },
+      {
+         "Ticket Type": "Semi-finals (61 to 62)",
+         "Cat 1": "750",
+         "Cat 2": "480",
+         "Cat 3": "285",
+         "Cat 4": "70"
+      },
+      {
+         "Ticket Type": "3rd/4th place match (63)",
+         "Cat 1": "365",
+         "Cat 2": "255",
+         "Cat 3": "175",
+         "Cat 4": "60"
+      },
+      {
+         "Ticket Type": "Final (64)",
+         "Cat 1": "1100",
+         "Cat 2": "710",
+         "Cat 3": "455",
+         "Cat 4": "110"
+      }
+   ]
+}

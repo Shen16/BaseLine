@@ -1,0 +1,92 @@
+{
+   "title": "Test",
+   "xAxis": "Year",
+   "yAxis": "Revenue in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Revenue in million U.S. dollars, with a total of 11 data points.",
+      " Overall Revenue in million U.S. dollars has increased over the Year",
+      "Revenue in million U.S. dollars is gradually constant from 2009 to 2015, gradually increasing from 2015 to 2016, and lastly roughly constant from 2016 to 2019.",
+      "The steepest increase occurs in between the Year 2015 and 2016.",
+      "Max Revenue in million U.S. dollars about 796.4 was recorded at Year 2019",
+      "Min Revenue in million U.S. dollars about 366.24 was recorded at Year 2009",
+      "#########################################################################",
+      "This line chart has an x axis representing Year and a y axis representing Revenue in million U.S. dollars, with a total of 11 data points. The chart has 5 significant trends.",
+      " The longest trend is extremely increasing which exists from 2015 to 2019.",
+      " Additionally, the next significant trend is extremely increasing which exists from 2012 to 2014.",
+      " Likewise, the next significant trend is moderately increasing which exists from 2009 to 2011.",
+      " In a similar manner, the next significant trend is slightly decreasing which exists from 2014 to 2015.",
+      " On the other hand, the next significant trend is moderately decreasing which exists from 2011 to 2012."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "0",
+         "12": "4"
+      },
+      {
+         "3": "5",
+         "14": "7"
+      },
+      {
+         "3": "8",
+         "14": "10"
+      },
+      {
+         "3": "4",
+         "14": "5"
+      },
+      {
+         "3": "7",
+         "14": "8"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Revenue in million U.S. dollars": 796.4
+      },
+      {
+         "Year": "2018",
+         "Revenue in million U.S. dollars": 775.96
+      },
+      {
+         "Year": "2017",
+         "Revenue in million U.S. dollars": 764.36
+      },
+      {
+         "Year": "2016",
+         "Revenue in million U.S. dollars": 677.76
+      },
+      {
+         "Year": "2015",
+         "Revenue in million U.S. dollars": 519.75
+      },
+      {
+         "Year": "2014",
+         "Revenue in million U.S. dollars": 569.72
+      },
+      {
+         "Year": "2013",
+         "Revenue in million U.S. dollars": 477.65
+      },
+      {
+         "Year": "2012",
+         "Revenue in million U.S. dollars": 421.27
+      },
+      {
+         "Year": "2011",
+         "Revenue in million U.S. dollars": 435.89
+      },
+      {
+         "Year": "2010",
+         "Revenue in million U.S. dollars": 376.68
+      },
+      {
+         "Year": "2009",
+         "Revenue in million U.S. dollars": 366.24
+      }
+   ]
+}

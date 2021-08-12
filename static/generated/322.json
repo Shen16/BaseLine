@@ -1,0 +1,147 @@
+{
+   "title": "Test",
+   "xAxis": "Year",
+   "yAxis": "Billion U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Billion U.S. dollars, with a total of 26 data points.",
+      " Overall Billion U.S. dollars has increased over the Year.",
+      "Billion U.S. dollars is slightly increasing from 1992 to 1996, roughly constant from 1996 to 1997, roughly increasing from 1997 to 1998, roughly constant from 1998 to 2003, slightly increasing from 2003 to 2006, roughly constant from 2006 to 2008, roughly decreasing from 2008 to 2009, rapidly increasing from 2009 to 2016, and lastly roughly decreasing from 2016 to 2017.",
+      "The steepest increase occurs in between the Year 2010 and 2011.",
+      "Max Billion U.S. dollars about 36.2 was recorded at Year 2016",
+      "Min Billion U.S. dollars about 18.62 was recorded at Year 1992",
+      "#########################################################################",
+      "This line chart has an x axis representing Year and a y axis representing Billion U.S. dollars, with a total of 26 data points. The chart has 4 significant trends.",
+      " The longest trend is extremely increasing which exists from 2009 to 2017.",
+      " In a similar manner, the next significant trend is moderately increasing which exists from 1992 to 2000.",
+      " Similarly, the next significant trend is moderately increasing which exists from 2003 to 2009.",
+      " Similarly, the next significant trend is slightly constant which exists from 2000 to 2003."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "0",
+         "12": "8"
+      },
+      {
+         "3": "17",
+         "14": "25"
+      },
+      {
+         "3": "8",
+         "14": "14"
+      },
+      {
+         "3": "14",
+         "14": "17"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2017",
+         "Billion U.S. dollars": 35.5
+      },
+      {
+         "Year": "2016",
+         "Billion U.S. dollars": 36.2
+      },
+      {
+         "Year": "2015",
+         "Billion U.S. dollars": 34.51
+      },
+      {
+         "Year": "2014",
+         "Billion U.S. dollars": 33.45
+      },
+      {
+         "Year": "2013",
+         "Billion U.S. dollars": 32.52
+      },
+      {
+         "Year": "2012",
+         "Billion U.S. dollars": 31.04
+      },
+      {
+         "Year": "2011",
+         "Billion U.S. dollars": 29.26
+      },
+      {
+         "Year": "2010",
+         "Billion U.S. dollars": 27.23
+      },
+      {
+         "Year": "2009",
+         "Billion U.S. dollars": 25.65
+      },
+      {
+         "Year": "2008",
+         "Billion U.S. dollars": 26.98
+      },
+      {
+         "Year": "2007",
+         "Billion U.S. dollars": 26.81
+      },
+      {
+         "Year": "2006",
+         "Billion U.S. dollars": 26.68
+      },
+      {
+         "Year": "2005",
+         "Billion U.S. dollars": 25.26
+      },
+      {
+         "Year": "2004",
+         "Billion U.S. dollars": 23.69
+      },
+      {
+         "Year": "2003",
+         "Billion U.S. dollars": 23.17
+      },
+      {
+         "Year": "2002",
+         "Billion U.S. dollars": 23.2
+      },
+      {
+         "Year": "2001",
+         "Billion U.S. dollars": 22.88
+      },
+      {
+         "Year": "2000",
+         "Billion U.S. dollars": 22.88
+      },
+      {
+         "Year": "1999",
+         "Billion U.S. dollars": 22.69
+      },
+      {
+         "Year": "1998",
+         "Billion U.S. dollars": 22.24
+      },
+      {
+         "Year": "1997",
+         "Billion U.S. dollars": 21.45
+      },
+      {
+         "Year": "1996",
+         "Billion U.S. dollars": 21.24
+      },
+      {
+         "Year": "1995",
+         "Billion U.S. dollars": 20.34
+      },
+      {
+         "Year": "1994",
+         "Billion U.S. dollars": 19.91
+      },
+      {
+         "Year": "1993",
+         "Billion U.S. dollars": 19.03
+      },
+      {
+         "Year": "1992",
+         "Billion U.S. dollars": 18.62
+      }
+   ]
+}

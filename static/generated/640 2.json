@@ -1,0 +1,110 @@
+{
+   "title": "Test",
+   "xAxis": "Year",
+   "yAxis": "Per capita sales in U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Per capita sales in U.S. dollars, with a total of 18 data points.",
+      " Overall Per capita sales in U.S. dollars has increased over the Year",
+      "Per capita sales in U.S. dollars is gradually constant from 2000 to 2017.",
+      "The steepest stays the same occurs in between the Year 2008 and 2009.",
+      "Max Per capita sales in U.S. dollars about 15522.0 was recorded at Year 2017",
+      "Min Per capita sales in U.S. dollars about 10573.0 was recorded at Year 2000",
+      "#########################################################################",
+      "This line chart has an x axis representing Year and a y axis representing Per capita sales in U.S. dollars, with a total of 18 data points. The chart has 3 significant trends.",
+      " The longest trend is extremely increasing which exists from 2009 to 2017.",
+      " Additionally, the next significant trend is extremely increasing which exists from 2000 to 2007.",
+      " Similarly, the next significant trend is slightly decreasing which exists from 2007 to 2009."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "0",
+         "12": "8"
+      },
+      {
+         "3": "10",
+         "14": "17"
+      },
+      {
+         "3": "8",
+         "14": "10"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2017",
+         "Per capita sales in U.S. dollars": 15522.0
+      },
+      {
+         "Year": "2016",
+         "Per capita sales in U.S. dollars": 15018.0
+      },
+      {
+         "Year": "2015",
+         "Per capita sales in U.S. dollars": 14721.0
+      },
+      {
+         "Year": "2014",
+         "Per capita sales in U.S. dollars": 14561.0
+      },
+      {
+         "Year": "2013",
+         "Per capita sales in U.S. dollars": 14099.0
+      },
+      {
+         "Year": "2012",
+         "Per capita sales in U.S. dollars": 13702.0
+      },
+      {
+         "Year": "2011",
+         "Per capita sales in U.S. dollars": 13166.0
+      },
+      {
+         "Year": "2010",
+         "Per capita sales in U.S. dollars": 12343.0
+      },
+      {
+         "Year": "2009",
+         "Per capita sales in U.S. dollars": 11776.0
+      },
+      {
+         "Year": "2008",
+         "Per capita sales in U.S. dollars": 12941.0
+      },
+      {
+         "Year": "2007",
+         "Per capita sales in U.S. dollars": 13263.0
+      },
+      {
+         "Year": "2006",
+         "Per capita sales in U.S. dollars": 12975.0
+      },
+      {
+         "Year": "2005",
+         "Per capita sales in U.S. dollars": 12484.0
+      },
+      {
+         "Year": "2004",
+         "Per capita sales in U.S. dollars": 11861.0
+      },
+      {
+         "Year": "2003",
+         "Per capita sales in U.S. dollars": 11247.0
+      },
+      {
+         "Year": "2002",
+         "Per capita sales in U.S. dollars": 10877.0
+      },
+      {
+         "Year": "2001",
+         "Per capita sales in U.S. dollars": 10746.0
+      },
+      {
+         "Year": "2000",
+         "Per capita sales in U.S. dollars": 10573.0
+      }
+   ]
+}

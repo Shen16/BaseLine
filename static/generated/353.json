@@ -1,0 +1,46 @@
+{
+   "title": "Test",
+   "xAxis": "Age (in years)",
+   "yAxis": "Own a boat",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 5 categories on the x axis representing Age (in years), and Own a boat in each Age (in years) on the y axis.",
+      "16 to 34 is higher than any other categories with value 8.2, followed by , and 45 to 64. Down to category 65+ with the lowest value of 6.0. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 1,
+         "12": 1
+      },
+      {
+         "7": 4,
+         "12": 4
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Age (in years)": "Under 16",
+         "Own a boat": 7.1
+      },
+      {
+         "Age (in years)": "16 to 34",
+         "Own a boat": 8.2
+      },
+      {
+         "Age (in years)": "35 to 44",
+         "Own a boat": 7.6
+      },
+      {
+         "Age (in years)": "45 to 64",
+         "Own a boat": 7.5
+      },
+      {
+         "Age (in years)": "65+",
+         "Own a boat": 6.0
+      }
+   ]
+}

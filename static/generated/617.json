@@ -1,0 +1,49 @@
+{
+   "title": "Test",
+   "xAxis": "Year",
+   "yAxis": "Number of passenger cars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Number of passenger cars, with a total of 4 data points.",
+      " Overall Number of passenger cars has decreased over the Year.",
+      "Number of passenger cars is slightly decreasing from 1999 to 2017.",
+      "The steepest decrease occurs in between the Year 2011 and 2017.",
+      "Max Number of passenger cars about 136568083.0 was recorded at Year 2005",
+      "Min Number of passenger cars about 111177029.0 was recorded at Year 2017",
+      "#########################################################################",
+      "This line chart has an x axis representing Year and a y axis representing Number of passenger cars, with a total of 4 data points. The chart has 2 significant trends.",
+      " The longest trend is slightly decreasing which exists from 1999 to 2017.",
+      " Differently, the next significant trend is slightly increasing which exists from 2017 to 2017."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "0",
+         "12": "3"
+      },
+      {
+         "3": "0",
+         "14": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2017",
+         "Number of passenger cars": 111177029.0
+      },
+      {
+         "Year": "2011",
+         "Number of passenger cars": 126966714.0
+      },
+      {
+         "Year": "2005",
+         "Number of passenger cars": 136568083.0
+      },
+      {
+         "Year": "1999",
+         "Number of passenger cars": 127083019.0
+      }
+   ]
+}

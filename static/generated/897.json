@@ -1,0 +1,90 @@
+{
+   "title": "Test",
+   "labels": [
+      "Country",
+      "Q2 2019",
+      "Q3 2019"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This grouped bar chart has 9 categories of Country on the x axis representing 2 groups: Q2 2019, and Q3 2019.",
+      " Averaging these 2 groups, the highest category is found for Country United States with a mean value of 30.5.",
+      " Followed by Canada with a mean value of 18.21.",
+      " The lowest category is observed at Belgium that has a mean value of 0.01",
+      " showing a difference of 199.9% with the maximum value.",
+      " In case of United States, Q2 2019 shows more dominance than any other Country and it has the lowest value in Belgium. "
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "13": [
+            "2",
+            "0"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "14": [
+            "2",
+            "1"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Country": "United States",
+         "Q2 2019": "36.07",
+         "Q3 2019": "24.93"
+      },
+      {
+         "Country": "Canada",
+         "Q2 2019": "34.97",
+         "Q3 2019": "1.46"
+      },
+      {
+         "Country": "Germany",
+         "Q2 2019": "9.81",
+         "Q3 2019": "19.38"
+      },
+      {
+         "Country": "Spain",
+         "Q2 2019": "6.32",
+         "Q3 2019": "26.79"
+      },
+      {
+         "Country": "Belgium",
+         "Q2 2019": "0",
+         "Q3 2019": "0.01"
+      },
+      {
+         "Country": "Netherlands",
+         "Q2 2019": "0",
+         "Q3 2019": "0.71"
+      },
+      {
+         "Country": "Australia",
+         "Q2 2019": "0",
+         "Q3 2019": "1.42"
+      },
+      {
+         "Country": "Japan",
+         "Q2 2019": "0",
+         "Q3 2019": "7.64"
+      },
+      {
+         "Country": "Italy",
+         "Q2 2019": "3.18",
+         "Q3 2019": "6.94"
+      }
+   ]
+}

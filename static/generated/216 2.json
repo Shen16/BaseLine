@@ -1,0 +1,37 @@
+{
+   "title": "Test",
+   "xAxis": "Copy Type",
+   "yAxis": "Number of copies in millions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 2 categories on the x axis representing Copy Type, and Number of copies in millions in each Copy Type on the y axis.",
+      "",
+      " The highest value at Print is almost 1.93 times larger than the minimum value of Digital. ",
+      " The highest value at Print is almost 1.93 times larger than the minimum value of Digital. ",
+      " The difference between the max Copy Type Print and min Copy Type Digital is 14.0. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 1,
+         "12": 1
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Copy Type": "Print",
+         "Number of copies in millions": 29.0
+      },
+      {
+         "Copy Type": "Digital",
+         "Number of copies in millions": 15.0
+      }
+   ]
+}

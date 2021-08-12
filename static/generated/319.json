@@ -1,0 +1,74 @@
+{
+   "title": "Test",
+   "labels": [
+      "State",
+      "Dispensary price",
+      "Street price"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This grouped bar chart has 6 categories of State on the x axis representing 2 groups: Dispensary price, and Street price.",
+      " Averaging these 2 groups, the highest category is found for State Michigan with a mean value of 287.5.",
+      " The lowest category is observed at Oregon that has a mean value of 202.5",
+      " showing a difference of 34.7% with the maximum value.",
+      " In case of Michigan, Dispensary price shows more dominance than any other State with a value 301.0 and it has the lowest value 214.0 in Oregon. "
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "3"
+         ],
+         "13": [
+            "2",
+            "3"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "14": [
+            "2",
+            "0"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "State": "Arizona",
+         "Dispensary price": "290$",
+         "Street price": "254$"
+      },
+      {
+         "State": "California",
+         "Dispensary price": "299$",
+         "Street price": "218$"
+      },
+      {
+         "State": "Colorado",
+         "Dispensary price": "223$",
+         "Street price": "219$"
+      },
+      {
+         "State": "Michigan",
+         "Dispensary price": "301$",
+         "Street price": "274$"
+      },
+      {
+         "State": "Oregon",
+         "Dispensary price": "214$",
+         "Street price": "191$"
+      },
+      {
+         "State": "Washington",
+         "Dispensary price": "238$",
+         "Street price": "210$"
+      }
+   ]
+}

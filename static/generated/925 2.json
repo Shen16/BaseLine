@@ -1,0 +1,66 @@
+{
+   "title": "Test",
+   "xAxis": "Country",
+   "yAxis": "Annual average GDP growth in percent",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 10 categories on the x axis representing Country, and Annual average GDP growth in percent in each Country on the y axis.",
+      "Angola is higher than any other categories with value 11.1, followed by China, and Myanmar. Down to category Rwanda with the lowest value of 7.6. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 9,
+         "12": 9
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Country": "Angola",
+         "Annual average GDP growth in percent": 11.1
+      },
+      {
+         "Country": "China",
+         "Annual average GDP growth in percent": 10.5
+      },
+      {
+         "Country": "Myanmar",
+         "Annual average GDP growth in percent": 10.3
+      },
+      {
+         "Country": "Nigeria",
+         "Annual average GDP growth in percent": 8.9
+      },
+      {
+         "Country": "Ethiopia",
+         "Annual average GDP growth in percent": 8.4
+      },
+      {
+         "Country": "Kazakhstan",
+         "Annual average GDP growth in percent": 8.2
+      },
+      {
+         "Country": "Chad",
+         "Annual average GDP growth in percent": 7.9
+      },
+      {
+         "Country": "Mozambique",
+         "Annual average GDP growth in percent": 7.9
+      },
+      {
+         "Country": "Cambodia",
+         "Annual average GDP growth in percent": 7.7
+      },
+      {
+         "Country": "Rwanda",
+         "Annual average GDP growth in percent": 7.6
+      }
+   ]
+}

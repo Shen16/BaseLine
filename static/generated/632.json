@@ -1,0 +1,100 @@
+{
+   "title": "Test",
+   "xAxis": "Year",
+   "yAxis": "Revenue in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Revenue in million U.S. dollars, with a total of 18 data points.",
+      " Overall Revenue in million U.S. dollars has increased over the Year.",
+      "Revenue in million U.S. dollars is roughly constant from 2001 to 2002, slightly increasing from 2002 to 2004, roughly constant from 2004 to 2005, slightly increasing from 2005 to 2007, roughly constant from 2007 to 2011, slightly increasing from 2011 to 2012, roughly constant from 2012 to 2013, rapidly increasing from 2013 to 2016, roughly constant from 2016 to 2017, and lastly slightly increasing from 2017 to 2018.",
+      "The steepest increase occurs in between the Year 2013 and 2014.",
+      "Max Revenue in million U.S. dollars about 424.0 was recorded at Year 2018",
+      "Min Revenue in million U.S. dollars about 137.0 was recorded at Year 2001",
+      "#########################################################################",
+      "This line chart has an x axis representing Year and a y axis representing Revenue in million U.S. dollars with a total of 18 data points. The chart has one significant trend.",
+      " This trend is increasing which exists from 2018 to 2001."
+   ],
+   "trends": [
+      {},
+      {
+         "3": "0",
+         "14": "17"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Revenue in million U.S. dollars": 424.0
+      },
+      {
+         "Year": "2017",
+         "Revenue in million U.S. dollars": 391.0
+      },
+      {
+         "Year": "2016",
+         "Revenue in million U.S. dollars": 377.0
+      },
+      {
+         "Year": "2015",
+         "Revenue in million U.S. dollars": 344.0
+      },
+      {
+         "Year": "2014",
+         "Revenue in million U.S. dollars": 315.0
+      },
+      {
+         "Year": "2013",
+         "Revenue in million U.S. dollars": 263.0
+      },
+      {
+         "Year": "2012",
+         "Revenue in million U.S. dollars": 260.0
+      },
+      {
+         "Year": "2011",
+         "Revenue in million U.S. dollars": 238.0
+      },
+      {
+         "Year": "2010",
+         "Revenue in million U.S. dollars": 236.0
+      },
+      {
+         "Year": "2009",
+         "Revenue in million U.S. dollars": 220.0
+      },
+      {
+         "Year": "2008",
+         "Revenue in million U.S. dollars": 217.0
+      },
+      {
+         "Year": "2007",
+         "Revenue in million U.S. dollars": 204.0
+      },
+      {
+         "Year": "2006",
+         "Revenue in million U.S. dollars": 189.0
+      },
+      {
+         "Year": "2005",
+         "Revenue in million U.S. dollars": 173.0
+      },
+      {
+         "Year": "2004",
+         "Revenue in million U.S. dollars": 169.0
+      },
+      {
+         "Year": "2003",
+         "Revenue in million U.S. dollars": 153.0
+      },
+      {
+         "Year": "2002",
+         "Revenue in million U.S. dollars": 142.0
+      },
+      {
+         "Year": "2001",
+         "Revenue in million U.S. dollars": 137.0
+      }
+   ]
+}

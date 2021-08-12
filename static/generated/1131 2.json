@@ -1,0 +1,36 @@
+{
+   "title": "Test",
+   "xAxis": "Year",
+   "yAxis": "Revenue in million euros",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Revenue in million euros, with a total of 2 data points.",
+      " Overall Revenue in million euros has increased over the Year",
+      "Revenue in million euros is roughly constant from 2012 to 2013.",
+      "The steepest stays the same occurs in between the Year 2012 and 2013.",
+      "Max Revenue in million euros about 14525.69 was recorded at Year 2013",
+      "Min Revenue in million euros about 14109.4 was recorded at Year 2012",
+      "#########################################################################",
+      "This line chart has an x axis representing Year and a y axis representing Revenue in million euros with a total of 2 data points. The chart has one significant trend.",
+      " This trend is increasing which exists from 2013 to 2012."
+   ],
+   "trends": [
+      {},
+      {
+         "3": "0",
+         "14": "1"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2013",
+         "Revenue in million euros": 14525.69
+      },
+      {
+         "Year": "2012",
+         "Revenue in million euros": 14109.4
+      }
+   ]
+}

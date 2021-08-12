@@ -1,0 +1,64 @@
+{
+   "title": "Test",
+   "labels": [
+      "Response",
+      "Male",
+      "Female"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This grouped bar chart has 4 categories of Response on the x axis representing 2 groups: Male, and Female.",
+      " Averaging these 2 groups, the highest category is found for Response I have been cyber bullied (lifetime) with a mean value of 36.4.",
+      " The lowest category is observed at I have cyber bullied others (previous 30 days) that has a mean value of 6.35",
+      " showing a difference of 140.6% with the maximum value.",
+      " In case of I have been cyber bullied (lifetime), Male shows more dominance than any other Response and it has the lowest value in I have cyber bullied others (previous 30 days). "
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "13": [
+            "2",
+            "1"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "14": [
+            "2",
+            "0"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Response": "I have been cyber bullied (previous 30 days)",
+         "Male": "17.7",
+         "Female": "17.1"
+      },
+      {
+         "Response": "I have been cyber bullied (lifetime)",
+         "Male": "34.1",
+         "Female": "38.7"
+      },
+      {
+         "Response": "I have cyber bullied others (previous 30 days)",
+         "Male": "8.1",
+         "Female": "4.6"
+      },
+      {
+         "Response": "I have cyber bullied others (lifetime)",
+         "Male": "16.1",
+         "Female": "13.4"
+      }
+   ]
+}

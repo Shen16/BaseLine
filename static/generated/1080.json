@@ -1,0 +1,53 @@
+{
+   "title": "Test",
+   "xAxis": "Airport",
+   "yAxis": "Costs in billion euros",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 6 categories on the x axis representing Airport, and Costs in billion euros in each Airport on the y axis.",
+      "Hong Kong (China) is higher than any other categories with value 15.9, followed by , and Doha (Katar). Down to category Berlin-Brandenburg (Germany) with the lowest value of 3.0. ",
+      " The highest value at Hong Kong (China) is almost 5.3 times larger than the minimum value of Berlin-Brandenburg (Germany). ",
+      " The highest value at Hong Kong (China) is almost 5.3 times larger than the minimum value of Berlin-Brandenburg (Germany). ",
+      " The difference between the max Airport Hong Kong (China) and min Airport Berlin-Brandenburg (Germany) is 12.9. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 5,
+         "12": 5
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Airport": "Hong Kong (China)",
+         "Costs in billion euros": 15.9
+      },
+      {
+         "Airport": "Kansai/Osaka (Japan)",
+         "Costs in billion euros": 15.9
+      },
+      {
+         "Airport": "Doha (Katar)",
+         "Costs in billion euros": 8.8
+      },
+      {
+         "Airport": "Kobe (Japan)",
+         "Costs in billion euros": 6.9
+      },
+      {
+         "Airport": "London-Heathrow (Terminal 5 GB)",
+         "Costs in billion euros": 5.6
+      },
+      {
+         "Airport": "Berlin-Brandenburg (Germany)",
+         "Costs in billion euros": 3.0
+      }
+   ]
+}

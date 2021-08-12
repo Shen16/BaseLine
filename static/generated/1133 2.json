@@ -1,0 +1,92 @@
+{
+   "title": "Test",
+   "labels": [
+      "Fiber Type",
+      "2000",
+      "2010",
+      "2011",
+      "2012",
+      "2013",
+      "2014",
+      "2015",
+      "2016",
+      "2017",
+      "2018"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This grouped bar chart has 3 categories of Fiber Type on the x axis representing 10 groups: 2000, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, and 2018.",
+      " Averaging these 10 groups, the highest category is found for Fiber Type Total with a mean value of 59594.0.",
+      " Followed by Synthetic fibers with a mean value of 54101.7.",
+      " The lowest category is observed at Cellulose fibers that has a mean value of 5492.3",
+      " showing a difference of 166.2% with the maximum value.",
+      " In case of Total, 2000 shows more dominance than any other Fiber Type with a value 31040.0 and it has the lowest value 2640.0 in Cellulose fibers.  However, 2018 being the 2nd most important group, has the highest value 73400.0 for Fiber Type Total and the lowest 6800.0 in case of Cellulose fibers. "
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "2"
+         ],
+         "13": [
+            "10",
+            "2"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "14": [
+            "10",
+            "1"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Fiber Type": "Cellulose fibers",
+         "2000": "2640",
+         "2010": "4400",
+         "2011": "4743",
+         "2012": "5040",
+         "2013": "5900",
+         "2014": "6200",
+         "2015": "6100",
+         "2016": "6400",
+         "2017": "6700",
+         "2018": "6800"
+      },
+      {
+         "Fiber Type": "Synthetic fibers",
+         "2000": "28400",
+         "2010": "45200",
+         "2011": "47957",
+         "2012": "50960",
+         "2013": "54400",
+         "2014": "57100",
+         "2015": "60700",
+         "2016": "64800",
+         "2017": "64900",
+         "2018": "66600"
+      },
+      {
+         "Fiber Type": "Total",
+         "2000": "31040",
+         "2010": "49600",
+         "2011": "52700",
+         "2012": "56000",
+         "2013": "60300",
+         "2014": "63300",
+         "2015": "66800",
+         "2016": "71200",
+         "2017": "71600",
+         "2018": "73400"
+      }
+   ]
+}

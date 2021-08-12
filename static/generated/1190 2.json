@@ -1,0 +1,86 @@
+{
+   "title": "Test",
+   "xAxis": "Quarter",
+   "yAxis": "Market capitalization in trillion Euros",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 15 categories on the x axis representing Quarter, and Market capitalization in trillion Euros in each Quarter on the y axis.",
+      "Q4 '17 is higher than any other categories with value 5.6, followed by Q1 '17, and Q1 '17. Down to category Q2 '16 with the lowest value of 4.1. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 7,
+         "12": 7
+      },
+      {
+         "7": 13,
+         "12": 13
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Quarter": "Q3 '19",
+         "Market capitalization in trillion Euros": 5.3
+      },
+      {
+         "Quarter": "Q2 '19",
+         "Market capitalization in trillion Euros": 5.2
+      },
+      {
+         "Quarter": "Q1 '19",
+         "Market capitalization in trillion Euros": 5.2
+      },
+      {
+         "Quarter": "Q4 '18",
+         "Market capitalization in trillion Euros": 4.8
+      },
+      {
+         "Quarter": "Q3 '18",
+         "Market capitalization in trillion Euros": 5.3
+      },
+      {
+         "Quarter": "Q2 '18",
+         "Market capitalization in trillion Euros": 5.2
+      },
+      {
+         "Quarter": "Q1 '18",
+         "Market capitalization in trillion Euros": 5.4
+      },
+      {
+         "Quarter": "Q4 '17",
+         "Market capitalization in trillion Euros": 5.6
+      },
+      {
+         "Quarter": "Q3 '17",
+         "Market capitalization in trillion Euros": 5.4
+      },
+      {
+         "Quarter": "Q2 '17",
+         "Market capitalization in trillion Euros": 5.3
+      },
+      {
+         "Quarter": "Q1 '17",
+         "Market capitalization in trillion Euros": 5.4
+      },
+      {
+         "Quarter": "Q4 '16",
+         "Market capitalization in trillion Euros": 5.2
+      },
+      {
+         "Quarter": "Q3 '16",
+         "Market capitalization in trillion Euros": 4.4
+      },
+      {
+         "Quarter": "Q2 '16",
+         "Market capitalization in trillion Euros": 4.1
+      },
+      {
+         "Quarter": "Q1 '16",
+         "Market capitalization in trillion Euros": 4.2
+      }
+   ]
+}

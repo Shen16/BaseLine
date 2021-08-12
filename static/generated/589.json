@@ -1,0 +1,52 @@
+{
+   "title": "Test",
+   "xAxis": "Year",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Share of respondents, with a total of 5 data points.",
+      " Overall Share of respondents has increased over the Year.",
+      "Share of respondents is slightly increasing from 21-30_mins to 11-20_mins, and lastly roughly constant from 11-20_mins to 0_mins.",
+      "Max Share of respondents about 48.0 was recorded at Year 1-5_mins",
+      "Min Share of respondents about 1.0 was recorded at Year 21-30_mins",
+      "#########################################################################",
+      "This line chart has an x axis representing Year and a y axis representing Share of respondents, with a total of 5 data points. The chart has 2 significant trends.",
+      " The longest trend is slightly increasing which exists from 21-30_mins to 1-5_mins.",
+      " Also, the next significant trend is extremely decreasing which exists from 1-5_mins to 0_mins."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "1",
+         "12": "4"
+      },
+      {
+         "3": "0",
+         "14": "1"
+      }
+   ],
+   "data": [
+      {
+         "Year": "0 mins",
+         "Share of respondents": 14.0
+      },
+      {
+         "Year": "1-5 mins",
+         "Share of respondents": 48.0
+      },
+      {
+         "Year": "6-10 mins",
+         "Share of respondents": 25.0
+      },
+      {
+         "Year": "11-20 mins",
+         "Share of respondents": 12.0
+      },
+      {
+         "Year": "21-30 mins",
+         "Share of respondents": 1.0
+      }
+   ]
+}

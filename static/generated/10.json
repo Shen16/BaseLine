@@ -1,0 +1,56 @@
+{
+   "title": "Test",
+   "xAxis": "Year",
+   "yAxis": "Share of population with a smartphone",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Share of population with a smartphone, with a total of 7 data points.",
+      " Overall Share of population with a smartphone has increased over the Year.",
+      "Share of population with a smartphone is slightly increasing from 2017 to 2020, and lastly roughly constant from 2020 to 2023.",
+      "The steepest increase occurs in between the Year 2017 and 2018.",
+      "Max Share of population with a smartphone about 33.0 was recorded at Year 2023",
+      "Min Share of population with a smartphone about 24.0 was recorded at Year 2017",
+      "#########################################################################",
+      "This line chart has an x axis representing Year and a y axis representing Share of population with a smartphone with a total of 7 data points. The chart has one significant trend.",
+      " This trend is increasing which exists from 2023 to 2017."
+   ],
+   "trends": [
+      {},
+      {
+         "3": "0",
+         "14": "6"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2023",
+         "Share of population with a smartphone": 33.0
+      },
+      {
+         "Year": "2022",
+         "Share of population with a smartphone": 32.0
+      },
+      {
+         "Year": "2021",
+         "Share of population with a smartphone": 31.0
+      },
+      {
+         "Year": "2020",
+         "Share of population with a smartphone": 30.0
+      },
+      {
+         "Year": "2019",
+         "Share of population with a smartphone": 28.0
+      },
+      {
+         "Year": "2018",
+         "Share of population with a smartphone": 26.0
+      },
+      {
+         "Year": "2017",
+         "Share of population with a smartphone": 24.0
+      }
+   ]
+}

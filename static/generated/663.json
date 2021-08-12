@@ -1,0 +1,85 @@
+{
+   "title": "Test",
+   "xAxis": "Industry",
+   "yAxis": "Real value added in billion chained (2012) U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 14 categories on the x axis representing Industry, and Real value added in billion chained (2012) U.S. dollars in each Industry on the y axis.",
+      "Finance insurance real estate rental and leasing is higher than any other categories with value 418.87, followed by , and Government and government enterprises. Down to category Mining quarrying and oil and gas extraction with the lowest value of 1.2. ",
+      " The highest value at Finance insurance real estate rental and leasing is almost 349.06 times larger than the minimum value of Mining quarrying and oil and gas extraction. ",
+      " The highest value at Finance insurance real estate rental and leasing is almost 349.06 times larger than the minimum value of Mining quarrying and oil and gas extraction. ",
+      " The difference between the max Industry Finance insurance real estate rental and leasing and min Industry Mining quarrying and oil and gas extraction is 417.67. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 13,
+         "12": 13
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Industry": "Finance insurance real estate rental and leasing",
+         "Real value added in billion chained (2012) U.S. dollars": 418.87
+      },
+      {
+         "Industry": "Professional and business services",
+         "Real value added in billion chained (2012) U.S. dollars": 200.09
+      },
+      {
+         "Industry": "Government and government enterprises",
+         "Real value added in billion chained (2012) U.S. dollars": 151.94
+      },
+      {
+         "Industry": "Information",
+         "Real value added in billion chained (2012) U.S. dollars": 143.64
+      },
+      {
+         "Industry": "Educational services health care and social assistance",
+         "Real value added in billion chained (2012) U.S. dollars": 141.49
+      },
+      {
+         "Industry": "Wholesale trade",
+         "Real value added in billion chained (2012) U.S. dollars": 70.45
+      },
+      {
+         "Industry": "Retail trade",
+         "Real value added in billion chained (2012) U.S. dollars": 69.22
+      },
+      {
+         "Industry": "Manufacturing",
+         "Real value added in billion chained (2012) U.S. dollars": 65.79
+      },
+      {
+         "Industry": "Arts entertainment recreation accommodation and food services",
+         "Real value added in billion chained (2012) U.S. dollars": 61.7
+      },
+      {
+         "Industry": "Construction",
+         "Real value added in billion chained (2012) U.S. dollars": 39.87
+      },
+      {
+         "Industry": "Transportation and warehousing",
+         "Real value added in billion chained (2012) U.S. dollars": 28.29
+      },
+      {
+         "Industry": "Utilities",
+         "Real value added in billion chained (2012) U.S. dollars": 20.17
+      },
+      {
+         "Industry": "Agriculture forestry fishing and hunting",
+         "Real value added in billion chained (2012) U.S. dollars": 3.3
+      },
+      {
+         "Industry": "Mining quarrying and oil and gas extraction",
+         "Real value added in billion chained (2012) U.S. dollars": 1.2
+      }
+   ]
+}

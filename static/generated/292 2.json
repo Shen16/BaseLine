@@ -1,0 +1,71 @@
+{
+   "title": "Test",
+   "xAxis": "Country",
+   "yAxis": "Number of runners-up",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 10 categories on the x axis representing Country, and Number of runners-up in each Country on the y axis.",
+      " The highest category is found at Germany where Number of runners-up is 4.0.",
+      " Followed by 3.0 in Argentina.",
+      " The lowest category is found at France where Number of runners-up is 1.0.",
+      " The highest value at Germany is almost 4.0 times larger than the minimum value of France. ",
+      " The highest value at Germany is almost 4.0 times larger than the minimum value of France. ",
+      " The difference between the max Country Germany and min Country France is 3.0. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 8,
+         "12": 8
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Country": "Germany",
+         "Number of runners-up": 4.0
+      },
+      {
+         "Country": "Netherlands the",
+         "Number of runners-up": 3.0
+      },
+      {
+         "Country": "Argentina",
+         "Number of runners-up": 3.0
+      },
+      {
+         "Country": "Czech Republic",
+         "Number of runners-up": 2.0
+      },
+      {
+         "Country": "Brazil",
+         "Number of runners-up": 2.0
+      },
+      {
+         "Country": "Czechoslovakia",
+         "Number of runners-up": 2.0
+      },
+      {
+         "Country": "Italy",
+         "Number of runners-up": 2.0
+      },
+      {
+         "Country": "Hungary",
+         "Number of runners-up": 2.0
+      },
+      {
+         "Country": "France",
+         "Number of runners-up": 1.0
+      },
+      {
+         "Country": "Sweden",
+         "Number of runners-up": 1.0
+      }
+   ]
+}

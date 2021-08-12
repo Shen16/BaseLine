@@ -1,0 +1,132 @@
+{
+   "title": "Test",
+   "xAxis": "Year",
+   "yAxis": "Net sales in billion euros",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Net sales in billion euros, with a total of 21 data points.",
+      " Overall Net sales in billion euros has increased over the Year.",
+      "Net sales in billion euros is slightly increasing from 1999 to 2000, roughly constant from 2000 to 2004, slightly increasing from 2004 to 2007, roughly constant from 2007 to 2011, slightly decreasing from 2011 to 2013, roughly constant from 2013 to 2015, gradually increasing from 2015 to 2016, and lastly roughly constant from 2016 to 2019.",
+      "The steepest decrease occurs in between the Year 2012 and 2013.",
+      "Max Net sales in billion euros about 51.06 was recorded at Year 2007",
+      "Min Net sales in billion euros about 11.76 was recorded at Year 2014",
+      "#########################################################################",
+      "This line chart has an x axis representing Year and a y axis representing Net sales in billion euros, with a total of 21 data points. The chart has 5 significant trends.",
+      " The longest trend is slightly decreasing which exists from 2010 to 2016.",
+      " But, the next significant trend is moderately decreasing which exists from 2016 to 2019.",
+      " On the contrary, the next significant trend is slightly decreasing which exists from 2007 to 2010.",
+      " Differently, the next significant trend is extremely increasing which exists from 2004 to 2007.",
+      " Correspondingly, the next significant trend is moderately decreasing which exists from 2001 to 2004."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "3",
+         "12": "9"
+      },
+      {
+         "3": "0",
+         "14": "3"
+      },
+      {
+         "3": "9",
+         "14": "12"
+      },
+      {
+         "3": "12",
+         "14": "15"
+      },
+      {
+         "3": "15",
+         "14": "18"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Net sales in billion euros": 23.32
+      },
+      {
+         "Year": "2018",
+         "Net sales in billion euros": 22.56
+      },
+      {
+         "Year": "2017",
+         "Net sales in billion euros": 23.15
+      },
+      {
+         "Year": "2016",
+         "Net sales in billion euros": 23.64
+      },
+      {
+         "Year": "2015",
+         "Net sales in billion euros": 12.5
+      },
+      {
+         "Year": "2014",
+         "Net sales in billion euros": 11.76
+      },
+      {
+         "Year": "2013",
+         "Net sales in billion euros": 12.71
+      },
+      {
+         "Year": "2012",
+         "Net sales in billion euros": 30.18
+      },
+      {
+         "Year": "2011",
+         "Net sales in billion euros": 38.66
+      },
+      {
+         "Year": "2010",
+         "Net sales in billion euros": 42.45
+      },
+      {
+         "Year": "2009",
+         "Net sales in billion euros": 40.98
+      },
+      {
+         "Year": "2008",
+         "Net sales in billion euros": 50.71
+      },
+      {
+         "Year": "2007",
+         "Net sales in billion euros": 51.06
+      },
+      {
+         "Year": "2006",
+         "Net sales in billion euros": 41.12
+      },
+      {
+         "Year": "2005",
+         "Net sales in billion euros": 34.19
+      },
+      {
+         "Year": "2004",
+         "Net sales in billion euros": 29.37
+      },
+      {
+         "Year": "2003",
+         "Net sales in billion euros": 29.53
+      },
+      {
+         "Year": "2002",
+         "Net sales in billion euros": 30.02
+      },
+      {
+         "Year": "2001",
+         "Net sales in billion euros": 31.19
+      },
+      {
+         "Year": "2000",
+         "Net sales in billion euros": 30.38
+      },
+      {
+         "Year": "1999",
+         "Net sales in billion euros": 19.77
+      }
+   ]
+}

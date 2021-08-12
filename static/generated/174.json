@@ -1,0 +1,49 @@
+{
+   "title": "Test",
+   "xAxis": "Religion",
+   "yAxis": "Percentage of population",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 5 categories on the x axis representing Religion, and Percentage of population in each Religion on the y axis.",
+      "Muslims is higher than any other categories with value 93.0, followed by , and Jews. Down to category Unaffiliated with the lowest value of 1.0. ",
+      " The highest value at Muslims is almost 93.0 times larger than the minimum value of Unaffiliated. ",
+      " The highest value at Muslims is almost 93.0 times larger than the minimum value of Unaffiliated. ",
+      " The difference between the max Religion Muslims and min Religion Unaffiliated is 92.0. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 3,
+         "12": 3
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Religion": "Muslims",
+         "Percentage of population": 93.0
+      },
+      {
+         "Religion": "Christians",
+         "Percentage of population": 4.0
+      },
+      {
+         "Religion": "Jews",
+         "Percentage of population": 2.0
+      },
+      {
+         "Religion": "Unaffiliated",
+         "Percentage of population": 1.0
+      },
+      {
+         "Religion": "Hindus",
+         "Percentage of population": 1.0
+      }
+   ]
+}

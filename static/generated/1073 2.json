@@ -1,0 +1,71 @@
+{
+   "title": "Test",
+   "xAxis": "Quarter",
+   "yAxis": "Estimated share of e-commerce in total sales",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 10 categories on the x axis representing Quarter, and Estimated share of e-commerce in total sales in each Quarter on the y axis.",
+      " The highest category is found at Q4 '19 where Estimated share of e-commerce in total sales is 11.5.",
+      " Followed by 10.1 in Q4 '18.",
+      " The lowest category is found at Q4 '10 where Estimated share of e-commerce in total sales is 4.6.",
+      " The highest value at Q4 '19 is almost 2.5 times larger than the minimum value of Q4 '10. ",
+      " The highest value at Q4 '19 is almost 2.5 times larger than the minimum value of Q4 '10. ",
+      " The difference between the max Quarter Q4 '19 and min Quarter Q4 '10 is 6.9. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 9,
+         "12": 9
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Quarter": "Q4 '19",
+         "Estimated share of e-commerce in total sales": 11.5
+      },
+      {
+         "Quarter": "Q4 '18",
+         "Estimated share of e-commerce in total sales": 10.1
+      },
+      {
+         "Quarter": "Q4 '17",
+         "Estimated share of e-commerce in total sales": 9.1
+      },
+      {
+         "Quarter": "Q4 '16",
+         "Estimated share of e-commerce in total sales": 8.2
+      },
+      {
+         "Quarter": "Q4 '15",
+         "Estimated share of e-commerce in total sales": 7.5
+      },
+      {
+         "Quarter": "Q4 '14",
+         "Estimated share of e-commerce in total sales": 6.6
+      },
+      {
+         "Quarter": "Q4 '13",
+         "Estimated share of e-commerce in total sales": 6.1
+      },
+      {
+         "Quarter": "Q4 '12",
+         "Estimated share of e-commerce in total sales": 5.5
+      },
+      {
+         "Quarter": "Q4 '11",
+         "Estimated share of e-commerce in total sales": 5.1
+      },
+      {
+         "Quarter": "Q4 '10",
+         "Estimated share of e-commerce in total sales": 4.6
+      }
+   ]
+}

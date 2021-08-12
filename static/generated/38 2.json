@@ -1,0 +1,103 @@
+{
+   "title": "Test",
+   "labels": [
+      "Race",
+      "Total",
+      "Male",
+      "Female",
+      "Unknown"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This grouped bar chart has 8 categories of Race on the x axis representing 4 groups: Total, Male, Female, and Unknown.",
+      " Averaging these 4 groups, the highest category is found for Race Total with a mean value of 7061.5.",
+      " Followed by Not Hispanic or Latino with a mean value of 4533.0.",
+      " The lowest category is observed at Unknown race that has a mean value of 116.5",
+      " showing a difference of 193.5% with the maximum value.",
+      " In case of Total, Total shows more dominance than any other Race with a value 14123.0 and it has the lowest value 233.0 in Unknown race.  However, Unknown being the 2nd most important group, has the highest value 29.0 for Race Total and the lowest 0.0 in case of Hispanic or Latino. "
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "13": [
+            "4",
+            "0"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "6"
+         ],
+         "14": [
+            "4",
+            "6"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Race": "Total",
+         "Total": "14123",
+         "Male": "10914",
+         "Female": "3180",
+         "Unknown": "29"
+      },
+      {
+         "Race": "White",
+         "Total": "6088",
+         "Male": "4255",
+         "Female": "1832",
+         "Unknown": "1"
+      },
+      {
+         "Race": "Black",
+         "Total": "7407",
+         "Male": "6237",
+         "Female": "1168",
+         "Unknown": "2"
+      },
+      {
+         "Race": "Other race",
+         "Total": "395",
+         "Male": "273",
+         "Female": "121",
+         "Unknown": "1"
+      },
+      {
+         "Race": "Unknown race",
+         "Total": "233",
+         "Male": "149",
+         "Female": "59",
+         "Unknown": "25"
+      },
+      {
+         "Race": "Hispanic or Latino",
+         "Total": "2173",
+         "Male": "1752",
+         "Female": "421",
+         "Unknown": "0"
+      },
+      {
+         "Race": "Not Hispanic or Latino",
+         "Total": "9066",
+         "Male": "7005",
+         "Female": "2058",
+         "Unknown": "3"
+      },
+      {
+         "Race": "Unknown",
+         "Total": "1840",
+         "Male": "1371",
+         "Female": "450",
+         "Unknown": "19"
+      }
+   ]
+}

@@ -1,0 +1,61 @@
+{
+   "title": "Test",
+   "xAxis": "Company",
+   "yAxis": "Revenue per employee in U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 8 categories on the x axis representing Company, and Revenue per employee in U.S. dollars in each Company on the y axis.",
+      "Netflix is higher than any other categories with value 2224555.0, followed by Apple, and Facebook. Down to category Amazon with the lowest value of 359671.0. ",
+      " The highest value at Netflix is almost 6.18 times larger than the minimum value of Amazon. ",
+      " The highest value at Netflix is almost 6.18 times larger than the minimum value of Amazon. ",
+      " The difference between the max Company Netflix and min Company Amazon is 1864884.0. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 7,
+         "12": 7
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Company": "Netflix",
+         "Revenue per employee in U.S. dollars": 2224555.0
+      },
+      {
+         "Company": "Apple",
+         "Revenue per employee in U.S. dollars": 2012083.0
+      },
+      {
+         "Company": "Facebook",
+         "Revenue per employee in U.S. dollars": 1569056.0
+      },
+      {
+         "Company": "Alphabet",
+         "Revenue per employee in U.S. dollars": 1385214.0
+      },
+      {
+         "Company": "Microsoft",
+         "Revenue per employee in U.S. dollars": 873910.0
+      },
+      {
+         "Company": "Twitter",
+         "Revenue per employee in U.S. dollars": 776112.0
+      },
+      {
+         "Company": "Alibaba",
+         "Revenue per employee in U.S. dollars": 550737.0
+      },
+      {
+         "Company": "Amazon",
+         "Revenue per employee in U.S. dollars": 359671.0
+      }
+   ]
+}

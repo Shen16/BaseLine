@@ -1,0 +1,69 @@
+{
+   "title": "Test",
+   "xAxis": "Company",
+   "yAxis": "Net profit margin",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 10 categories on the x axis representing Company, and Net profit margin in each Company on the y axis.",
+      "Philip Morris International Inc. is higher than any other categories with value 28.3, followed by Apple Inc., and The Coca-Cola Company. Down to category Mars Inc. with the lowest value of 0.0. ",
+      " The highest value at Philip Morris International Inc. is almost 2830000000000.0 times larger than the minimum value of Mars Inc.. ",
+      " The highest value at Philip Morris International Inc. is almost 2830000000000.0 times larger than the minimum value of Mars Inc.. ",
+      " The difference between the max Company Philip Morris International Inc. and min Company Mars Inc. is 28.3. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 7,
+         "12": 7
+      },
+      {
+         "7": 6,
+         "12": 6
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Company": "Apple Inc.",
+         "Net profit margin": 21.7
+      },
+      {
+         "Company": "The Procter & Gamble Company",
+         "Net profit margin": 14.2
+      },
+      {
+         "Company": "PepsiCo Inc.",
+         "Net profit margin": 10.2
+      },
+      {
+         "Company": "The Coca-Cola Company",
+         "Net profit margin": 18.4
+      },
+      {
+         "Company": "Mondel\u00e9z International",
+         "Net profit margin": 11.1
+      },
+      {
+         "Company": "Tyson Foods Inc.",
+         "Net profit margin": 2.3
+      },
+      {
+         "Company": "Mars Inc.",
+         "Net profit margin": 0.0
+      },
+      {
+         "Company": "Philip Morris International Inc.",
+         "Net profit margin": 28.3
+      },
+      {
+         "Company": "NIKE Inc.",
+         "Net profit margin": 9.7
+      },
+      {
+         "Company": "Kimberly-Clark Corporation",
+         "Net profit margin": 10.5
+      }
+   ]
+}

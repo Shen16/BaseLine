@@ -1,0 +1,42 @@
+{
+   "title": "Test",
+   "xAxis": "Form of Employment",
+   "yAxis": "Average number of working hours per week",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 4 categories on the x axis representing Form of Employment, and Average number of working hours per week in each Form of Employment on the y axis.",
+      "Self-employed is higher than any other categories with value 35.4, followed by Permanently employed, and Employed total. Down to category Temporary employed with the lowest value of 25.5. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 2,
+         "12": 2
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Form of Employment": "Self-employed",
+         "Average number of working hours per week": 35.4
+      },
+      {
+         "Form of Employment": "Permanently employed",
+         "Average number of working hours per week": 30.4
+      },
+      {
+         "Form of Employment": "Temporary employed",
+         "Average number of working hours per week": 25.5
+      },
+      {
+         "Form of Employment": "Employed total",
+         "Average number of working hours per week": 30.2
+      }
+   ]
+}

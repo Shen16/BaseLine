@@ -1,0 +1,57 @@
+{
+   "title": "Test",
+   "xAxis": "Month",
+   "yAxis": "Number of subscribers in thousands",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 7 categories on the x axis representing Month, and Number of subscribers in thousands in each Month on the y axis.",
+      "June 2018 is higher than any other categories with value 3000.0, followed by March 2018, and January 2018. Down to category December 2016 with the lowest value of 20.0. ",
+      " The highest value at June 2018 is almost 150.0 times larger than the minimum value of December 2016. ",
+      " The highest value at June 2018 is almost 150.0 times larger than the minimum value of December 2016. ",
+      " The difference between the max Month June 2018 and min Month December 2016 is 2980.0. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 1,
+         "12": 1
+      },
+      {
+         "7": 6,
+         "12": 6
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Month": "April 2019",
+         "Number of subscribers in thousands": 225.0
+      },
+      {
+         "Month": "June 2018",
+         "Number of subscribers in thousands": 3000.0
+      },
+      {
+         "Month": "March 2018",
+         "Number of subscribers in thousands": 2000.0
+      },
+      {
+         "Month": "January 2018",
+         "Number of subscribers in thousands": 1500.0
+      },
+      {
+         "Month": "September 2017",
+         "Number of subscribers in thousands": 500.0
+      },
+      {
+         "Month": "August 2017",
+         "Number of subscribers in thousands": 150.0
+      },
+      {
+         "Month": "December 2016",
+         "Number of subscribers in thousands": 20.0
+      }
+   ]
+}

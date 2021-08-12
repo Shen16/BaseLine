@@ -1,0 +1,92 @@
+{
+   "title": "Test",
+   "xAxis": "Year",
+   "yAxis": "Jersey sponsorship revenue in million GBP",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Jersey sponsorship revenue in million GBP, with a total of 11 data points.",
+      " Overall Jersey sponsorship revenue in million GBP has increased over the Year.",
+      "Jersey sponsorship revenue in million GBP is roughly constant from 2009/10_(Fly_Emirates) to 2012/13_(Fly_Emirates), gradually increasing from 2012/13_(Fly_Emirates) to 2013/14_(Fly_Emirates), and lastly roughly constant from 2013/14_(Fly_Emirates) to 2019/20_(Fly_Emirates).",
+      "The steepest increase occurs in between the Year 2012/13_(Fly_Emirates) and 2013/14_(Fly_Emirates).",
+      "Max Jersey sponsorship revenue in million GBP about 40.0 was recorded at Year 2018/19_(Fly_Emirates), and 2019/20_(Fly_Emirates)",
+      "Min Jersey sponsorship revenue in million GBP about 5.5 was recorded at Year 2009/10_(Fly_Emirates),  2010/11_(Fly_Emirates),  2011/12_(Fly_Emirates), and 2012/13_(Fly_Emirates)",
+      "#########################################################################",
+      "This line chart has an x axis representing Year and a y axis representing Jersey sponsorship revenue in million GBP, with a total of 11 data points. The chart has 5 significant trends.",
+      " The longest trend is slightly constant which exists from 2013/14_(Fly_Emirates) to 2017/18_(Fly_Emirates).",
+      " Differently, the next significant trend is slightly constant which exists from 2009/10_(Fly_Emirates) to 2012/13_(Fly_Emirates).",
+      " Contrarily, the next significant trend is slightly constant which exists from 2018/19_(Fly_Emirates) to 2019/20_(Fly_Emirates).",
+      " Contrarily, the next significant trend is moderately increasing which exists from 2017/18_(Fly_Emirates) to 2018/19_(Fly_Emirates).",
+      " Similarly, the next significant trend is extremely increasing which exists from 2012/13_(Fly_Emirates) to 2013/14_(Fly_Emirates)."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "2",
+         "12": "6"
+      },
+      {
+         "3": "7",
+         "14": "10"
+      },
+      {
+         "3": "0",
+         "14": "1"
+      },
+      {
+         "3": "1",
+         "14": "2"
+      },
+      {
+         "3": "6",
+         "14": "7"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019/20 (Fly Emirates)",
+         "Jersey sponsorship revenue in million GBP": 40.0
+      },
+      {
+         "Year": "2018/19 (Fly Emirates)",
+         "Jersey sponsorship revenue in million GBP": 40.0
+      },
+      {
+         "Year": "2017/18 (Fly Emirates)",
+         "Jersey sponsorship revenue in million GBP": 30.0
+      },
+      {
+         "Year": "2016/17 (Fly Emirates)",
+         "Jersey sponsorship revenue in million GBP": 30.0
+      },
+      {
+         "Year": "2015/16 (Fly Emirates)",
+         "Jersey sponsorship revenue in million GBP": 30.0
+      },
+      {
+         "Year": "2014/15 (Fly Emirates)",
+         "Jersey sponsorship revenue in million GBP": 30.0
+      },
+      {
+         "Year": "2013/14 (Fly Emirates)",
+         "Jersey sponsorship revenue in million GBP": 30.0
+      },
+      {
+         "Year": "2012/13 (Fly Emirates)",
+         "Jersey sponsorship revenue in million GBP": 5.5
+      },
+      {
+         "Year": "2011/12 (Fly Emirates)",
+         "Jersey sponsorship revenue in million GBP": 5.5
+      },
+      {
+         "Year": "2010/11 (Fly Emirates)",
+         "Jersey sponsorship revenue in million GBP": 5.5
+      },
+      {
+         "Year": "2009/10 (Fly Emirates)",
+         "Jersey sponsorship revenue in million GBP": 5.5
+      }
+   ]
+}

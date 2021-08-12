@@ -1,0 +1,87 @@
+{
+   "title": "Test",
+   "xAxis": "Year",
+   "yAxis": "Number of students",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Number of students, with a total of 11 data points.",
+      " Overall Number of students has increased over the Year.",
+      "Number of students is slightly increasing from 2008 to 2012, and lastly roughly constant from 2012 to 2018.",
+      "The steepest increase occurs in between the Year 2009 and 2010.",
+      "Max Number of students about 150608.0 was recorded at Year 2017",
+      "Min Number of students about 118217.0 was recorded at Year 2008",
+      "#########################################################################",
+      "This line chart has an x axis representing Year and a y axis representing Number of students, with a total of 11 data points. The chart has 4 significant trends.",
+      " The longest trend is extremely increasing which exists from 2008 to 2013.",
+      " Correspondingly, the next significant trend is moderately increasing which exists from 2014 to 2017.",
+      " Correspondingly, the next significant trend is slightly decreasing which exists from 2017 to 2018.",
+      " Conversely, the next significant trend is slightly decreasing which exists from 2013 to 2014."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "5",
+         "12": "10"
+      },
+      {
+         "3": "1",
+         "14": "4"
+      },
+      {
+         "3": "0",
+         "14": "1"
+      },
+      {
+         "3": "4",
+         "14": "5"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Number of students": 148551.0
+      },
+      {
+         "Year": "2017",
+         "Number of students": 150608.0
+      },
+      {
+         "Year": "2016",
+         "Number of students": 149788.0
+      },
+      {
+         "Year": "2015",
+         "Number of students": 148144.0
+      },
+      {
+         "Year": "2014",
+         "Number of students": 147760.0
+      },
+      {
+         "Year": "2013",
+         "Number of students": 148051.0
+      },
+      {
+         "Year": "2012",
+         "Number of students": 144791.0
+      },
+      {
+         "Year": "2011",
+         "Number of students": 140259.0
+      },
+      {
+         "Year": "2010",
+         "Number of students": 132619.0
+      },
+      {
+         "Year": "2009",
+         "Number of students": 122837.0
+      },
+      {
+         "Year": "2008",
+         "Number of students": 118217.0
+      }
+   ]
+}

@@ -1,0 +1,104 @@
+{
+   "title": "Test",
+   "xAxis": "Year",
+   "yAxis": "Revenue in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Revenue in million U.S. dollars, with a total of 14 data points.",
+      " Overall Revenue in million U.S. dollars has increased over the Year.",
+      "Revenue in million U.S. dollars is roughly constant from 2005/06 to 2006/07, slightly increasing from 2006/07 to 2007/08, roughly constant from 2007/08 to 2009/10, slightly increasing from 2009/10 to 2010/11, slightly decreasing from 2010/11 to 2012/13, rapidly increasing from 2012/13 to 2013/14, roughly constant from 2013/14 to 2015/16, slightly increasing from 2015/16 to 2016/17, and lastly roughly constant from 2016/17 to 2018/19.",
+      "The steepest increase occurs in between the Year 2012/13 and 2013/14.",
+      "Max Revenue in million U.S. dollars about 154.0 was recorded at Year 2018/19",
+      "Min Revenue in million U.S. dollars about 71.0 was recorded at Year 2006/07",
+      "#########################################################################",
+      "This line chart has an x axis representing Year and a y axis representing Revenue in million U.S. dollars, with a total of 14 data points. The chart has 5 significant trends.",
+      " The longest trend is slightly increasing which exists from 2008/09 to 2012/13.",
+      " Similarly, the next significant trend is slightly increasing which exists from 2005/06 to 2008/09.",
+      " Also, the next significant trend is slightly decreasing which exists from 2016/17 to 2018/19.",
+      " On the other hand, the next significant trend is extremely decreasing which exists from 2014/15 to 2016/17.",
+      " Conversely, the next significant trend is extremely increasing which exists from 2012/13 to 2014/15."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "6",
+         "12": "10"
+      },
+      {
+         "3": "10",
+         "14": "13"
+      },
+      {
+         "3": "0",
+         "14": "2"
+      },
+      {
+         "3": "2",
+         "14": "4"
+      },
+      {
+         "3": "4",
+         "14": "6"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018/19",
+         "Revenue in million U.S. dollars": 154.0
+      },
+      {
+         "Year": "2017/18",
+         "Revenue in million U.S. dollars": 145.0
+      },
+      {
+         "Year": "2016/17",
+         "Revenue in million U.S. dollars": 151.0
+      },
+      {
+         "Year": "2015/16",
+         "Revenue in million U.S. dollars": 117.0
+      },
+      {
+         "Year": "2014/15",
+         "Revenue in million U.S. dollars": 119.0
+      },
+      {
+         "Year": "2013/14",
+         "Revenue in million U.S. dollars": 119.0
+      },
+      {
+         "Year": "2012/13",
+         "Revenue in million U.S. dollars": 80.0
+      },
+      {
+         "Year": "2011/12",
+         "Revenue in million U.S. dollars": 106.0
+      },
+      {
+         "Year": "2010/11",
+         "Revenue in million U.S. dollars": 96.0
+      },
+      {
+         "Year": "2009/10",
+         "Revenue in million U.S. dollars": 87.0
+      },
+      {
+         "Year": "2008/09",
+         "Revenue in million U.S. dollars": 83.0
+      },
+      {
+         "Year": "2007/08",
+         "Revenue in million U.S. dollars": 85.0
+      },
+      {
+         "Year": "2006/07",
+         "Revenue in million U.S. dollars": 71.0
+      },
+      {
+         "Year": "2005/06",
+         "Revenue in million U.S. dollars": 75.0
+      }
+   ]
+}

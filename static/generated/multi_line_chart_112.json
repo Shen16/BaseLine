@@ -1,0 +1,134 @@
+{
+   "title": "Test",
+   "labels": [
+      "Year",
+      "Research and development",
+      "Sales and marketing",
+      "General and administrative",
+      "Operations"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a multi-line chart with 4 lines representing Research and development, Sales and marketing, General and administrative, and Operations. ",
+      "The ranking of the lines from topmost to botommmost is as follows: 1. Research and development, 2. Sales and marketing, 3. Operations, and lastly, 4. General and administrative. ",
+      "Throughout the period, Research and development mostly maintained the highest y-axis name when compared to others with a mean value of 16171.78, ",
+      "and it peaked at 2016 with a value of 27169.0.",
+      "After Research and development, Sales and marketing overall has the second highest values , with a mean value of 13812.2, ",
+      "peaking at 2016 with a value of 20902.0. ",
+      "General and administrative mostly had the least y-axis name with a mean value of 5831.22, ",
+      "which peaked at 2016 with a value of 9695.0. ",
+      "Operations reported the lowest y-axis name  about 1857.0 in Year 2008",
+      "Overall Research and development is rapidly increasing, Sales and marketing, General and administrative, and Operations are gradually increasing,  throughout the Year",
+      "Research and development has increased by 3.7 times."
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "16": [
+            "8",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "0"
+         ],
+         "9": [
+            "0",
+            "0"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "15": [
+            "8",
+            "1"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "1"
+         ],
+         "10": [
+            "0",
+            "1"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2016",
+         "Research and development": "27169",
+         "Sales and marketing": "20902",
+         "General and administrative": "9695",
+         "Operations": "14287"
+      },
+      {
+         "Year": "2015",
+         "Research and development": "23336",
+         "Sales and marketing": "19082",
+         "General and administrative": "8452",
+         "Operations": "10944"
+      },
+      {
+         "Year": "2014",
+         "Research and development": "20832",
+         "Sales and marketing": "17621",
+         "General and administrative": "7510",
+         "Operations": "7637"
+      },
+      {
+         "Year": "2013",
+         "Research and development": "18593",
+         "Sales and marketing": "15348",
+         "General and administrative": "6563",
+         "Operations": "7252"
+      },
+      {
+         "Year": "2012",
+         "Research and development": "19746",
+         "Sales and marketing": "15306",
+         "General and administrative": "6214",
+         "Operations": "12595"
+      },
+      {
+         "Year": "2011",
+         "Research and development": "11665",
+         "Sales and marketing": "11933",
+         "General and administrative": "4651",
+         "Operations": "4218"
+      },
+      {
+         "Year": "2010",
+         "Research and development": "9508",
+         "Sales and marketing": "8778",
+         "General and administrative": "3346",
+         "Operations": "2768"
+      },
+      {
+         "Year": "2009",
+         "Research and development": "7443",
+         "Sales and marketing": "7338",
+         "General and administrative": "2941",
+         "Operations": "2113"
+      },
+      {
+         "Year": "2008",
+         "Research and development": "7254",
+         "Sales and marketing": "8002",
+         "General and administrative": "3109",
+         "Operations": "1857"
+      }
+   ]
+}

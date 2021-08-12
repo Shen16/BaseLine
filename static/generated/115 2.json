@@ -1,0 +1,53 @@
+{
+   "title": "Test",
+   "xAxis": "Pet Type",
+   "yAxis": "Number of pets in thousands",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 6 categories on the x axis representing Pet Type, and Number of pets in thousands in each Pet Type on the y axis.",
+      "Cat is higher than any other categories with value 103828.0, followed by Dog, and Ornamental bird. Down to category Reptiles with the lowest value of 7848.0. ",
+      " The highest value at Cat is almost 13.23 times larger than the minimum value of Reptiles. ",
+      " The highest value at Cat is almost 13.23 times larger than the minimum value of Reptiles. ",
+      " The difference between the max Pet Type Cat and min Pet Type Reptiles is 95980.0. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 5,
+         "12": 5
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Pet Type": "Cat",
+         "Number of pets in thousands": 103828.0
+      },
+      {
+         "Pet Type": "Dog",
+         "Number of pets in thousands": 85184.0
+      },
+      {
+         "Pet Type": "Ornamental bird",
+         "Number of pets in thousands": 50212.0
+      },
+      {
+         "Pet Type": "Small mammal",
+         "Number of pets in thousands": 26794.0
+      },
+      {
+         "Pet Type": "Aquaria",
+         "Number of pets in thousands": 15493.0
+      },
+      {
+         "Pet Type": "Reptiles",
+         "Number of pets in thousands": 7848.0
+      }
+   ]
+}

@@ -1,0 +1,74 @@
+{
+   "title": "Test",
+   "labels": [
+      "Power Type",
+      "2011",
+      "2030"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This grouped bar chart has 6 categories of Power Type on the x axis representing 2 groups: 2011, and 2030.",
+      " Averaging these 2 groups, the highest category is found for Power Type Nuclear generation with a mean value of 216.5.",
+      " The lowest category is observed at Spent nuclear fuel reprocessing and secondary fuel that has a mean value of 6.0",
+      " showing a difference of 189.2% with the maximum value.",
+      " In case of Nuclear generation, 2011 shows more dominance than any other Power Type and it has the lowest value in Spent nuclear fuel reprocessing and secondary fuel. "
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "13": [
+            "2",
+            "0"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "14": [
+            "2",
+            "1"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Power Type": "Nuclear generation",
+         "2011": "133",
+         "2030": "300"
+      },
+      {
+         "Power Type": "Radiation management",
+         "2011": "69",
+         "2030": "267"
+      },
+      {
+         "Power Type": "Nuclear power plant construction",
+         "2011": "31",
+         "2030": "53"
+      },
+      {
+         "Power Type": "Service",
+         "2011": "18",
+         "2030": "22"
+      },
+      {
+         "Power Type": "Front end of fuel cycle",
+         "2011": "17",
+         "2030": "26"
+      },
+      {
+         "Power Type": "Spent nuclear fuel reprocessing and secondary fuel",
+         "2011": "3",
+         "2030": "9"
+      }
+   ]
+}

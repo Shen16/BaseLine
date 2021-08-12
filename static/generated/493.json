@@ -1,0 +1,63 @@
+{
+   "title": "Test",
+   "xAxis": "Teams",
+   "yAxis": "Revenue in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 8 categories on the x axis representing Teams, and Revenue in million U.S. dollars in each Teams on the y axis.",
+      " The highest category is found at Hendrick Motorsports where Revenue in million U.S. dollars is 180.0.",
+      " Followed by 180.0 in .",
+      " The lowest category is found at Front Row Motorsports where Revenue in million U.S. dollars is 19.0.",
+      " The highest value at Hendrick Motorsports is almost 9.47 times larger than the minimum value of Front Row Motorsports. ",
+      " The highest value at Hendrick Motorsports is almost 9.47 times larger than the minimum value of Front Row Motorsports. ",
+      " The difference between the max Teams Hendrick Motorsports and min Teams Front Row Motorsports is 161.0. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 7,
+         "12": 7
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Teams": "Hendrick Motorsports",
+         "Revenue in million U.S. dollars": 180.0
+      },
+      {
+         "Teams": "Richard Childress Racing",
+         "Revenue in million U.S. dollars": 145.0
+      },
+      {
+         "Teams": "Joe Gibbs Racing",
+         "Revenue in million U.S. dollars": 131.0
+      },
+      {
+         "Teams": "Stewart-Haas Racing",
+         "Revenue in million U.S. dollars": 109.0
+      },
+      {
+         "Teams": "Roush Fenway Racing",
+         "Revenue in million U.S. dollars": 97.0
+      },
+      {
+         "Teams": "Team Penske",
+         "Revenue in million U.S. dollars": 63.0
+      },
+      {
+         "Teams": "Chip Ganassi Racing",
+         "Revenue in million U.S. dollars": 49.0
+      },
+      {
+         "Teams": "Front Row Motorsports",
+         "Revenue in million U.S. dollars": 19.0
+      }
+   ]
+}

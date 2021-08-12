@@ -1,0 +1,109 @@
+{
+   "title": "Test",
+   "xAxis": "Company",
+   "yAxis": "Number of U.S. patents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 20 categories on the x axis representing Company, and Number of U.S. patents in each Company on the y axis.",
+      "Samsung is higher than any other categories with value 47855.0, followed by , and Sony. Down to category Amazon with the lowest value of 448.0. ",
+      " The highest value at Samsung is almost 106.82 times larger than the minimum value of Amazon. ",
+      " The highest value at Samsung is almost 106.82 times larger than the minimum value of Amazon. ",
+      " The difference between the max Company Samsung and min Company Amazon is 47407.0. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 19,
+         "12": 19
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Company": "Samsung",
+         "Number of U.S. patents": 47855.0
+      },
+      {
+         "Company": "Canon",
+         "Number of U.S. patents": 46322.0
+      },
+      {
+         "Company": "Sony",
+         "Number of U.S. patents": 36508.0
+      },
+      {
+         "Company": "Hewlett-Packard",
+         "Number of U.S. patents": 23904.0
+      },
+      {
+         "Company": "Xerox",
+         "Number of U.S. patents": 23603.0
+      },
+      {
+         "Company": "Intel",
+         "Number of U.S. patents": 21153.0
+      },
+      {
+         "Company": "Motorola",
+         "Number of U.S. patents": 21027.0
+      },
+      {
+         "Company": "Microsoft",
+         "Number of U.S. patents": 19800.0
+      },
+      {
+         "Company": "Ricoh",
+         "Number of U.S. patents": 14363.0
+      },
+      {
+         "Company": "Lucent",
+         "Number of U.S. patents": 11713.0
+      },
+      {
+         "Company": "Nokia",
+         "Number of U.S. patents": 9615.0
+      },
+      {
+         "Company": "Cisco",
+         "Number of U.S. patents": 7208.0
+      },
+      {
+         "Company": "Apple",
+         "Number of U.S. patents": 4649.0
+      },
+      {
+         "Company": "Oracle",
+         "Number of U.S. patents": 3371.0
+      },
+      {
+         "Company": "Dell",
+         "Number of U.S. patents": 2489.0
+      },
+      {
+         "Company": "Google",
+         "Number of U.S. patents": 1124.0
+      },
+      {
+         "Company": "Verizon",
+         "Number of U.S. patents": 1110.0
+      },
+      {
+         "Company": "Yahoo",
+         "Number of U.S. patents": 1029.0
+      },
+      {
+         "Company": "AOL",
+         "Number of U.S. patents": 533.0
+      },
+      {
+         "Company": "Amazon",
+         "Number of U.S. patents": 448.0
+      }
+   ]
+}

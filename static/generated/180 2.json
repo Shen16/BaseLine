@@ -1,0 +1,62 @@
+{
+   "title": "Test",
+   "xAxis": "Month",
+   "yAxis": "Share of U.S. adults",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 9 categories on the x axis representing Month, and Share of U.S. adults in each Month on the y axis.",
+      "November 2016 is higher than any other categories with value 78.0, followed by June 2010, and June 2010. Down to category January 2018 with the lowest value of 73.0. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 2,
+         "12": 2
+      },
+      {
+         "7": 1,
+         "12": 1
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Month": "February 2019",
+         "Share of U.S. adults": 74.0
+      },
+      {
+         "Month": "January 2018",
+         "Share of U.S. adults": 73.0
+      },
+      {
+         "Month": "November 2016",
+         "Share of U.S. adults": 78.0
+      },
+      {
+         "Month": "April 2016",
+         "Share of U.S. adults": 74.0
+      },
+      {
+         "Month": "April 2015",
+         "Share of U.S. adults": 73.0
+      },
+      {
+         "Month": "January 2012",
+         "Share of U.S. adults": 78.0
+      },
+      {
+         "Month": "December 2011",
+         "Share of U.S. adults": 75.0
+      },
+      {
+         "Month": "June 2010",
+         "Share of U.S. adults": 78.0
+      },
+      {
+         "Month": "January 2008",
+         "Share of U.S. adults": 74.0
+      }
+   ]
+}

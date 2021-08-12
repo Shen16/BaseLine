@@ -1,0 +1,69 @@
+{
+   "title": "Test",
+   "xAxis": "Location",
+   "yAxis": "Number of cores",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 10 categories on the x axis representing Location, and Number of cores in each Location on the y axis.",
+      "Sunway TaihuLight  China is higher than any other categories with value 10649600.0, followed by Tianhe-2A China, and Summit United States. Down to category Lassen United States with the lowest value of 288288.0. ",
+      " The highest value at Sunway TaihuLight  China is almost 36.94 times larger than the minimum value of Lassen United States. ",
+      " The highest value at Sunway TaihuLight  China is almost 36.94 times larger than the minimum value of Lassen United States. ",
+      " The difference between the max Location Sunway TaihuLight  China and min Location Lassen United States is 10361312.0. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 2,
+         "12": 2
+      },
+      {
+         "7": 9,
+         "12": 9
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Location": "Summit United States",
+         "Number of cores": 2414592.0
+      },
+      {
+         "Location": "Sierra  United States",
+         "Number of cores": 1572480.0
+      },
+      {
+         "Location": "Sunway TaihuLight  China",
+         "Number of cores": 10649600.0
+      },
+      {
+         "Location": "Tianhe-2A China",
+         "Number of cores": 4981760.0
+      },
+      {
+         "Location": "Frontera United States",
+         "Number of cores": 448448.0
+      },
+      {
+         "Location": "Piz Daint  Switzerland",
+         "Number of cores": 387872.0
+      },
+      {
+         "Location": "Trinity  United States",
+         "Number of cores": 979072.0
+      },
+      {
+         "Location": "AI Bridging Cloud Infrastructure (ABCI) Japan",
+         "Number of cores": 391680.0
+      },
+      {
+         "Location": "SuperMUC-NG Germany",
+         "Number of cores": 305856.0
+      },
+      {
+         "Location": "Lassen United States",
+         "Number of cores": 288288.0
+      }
+   ]
+}

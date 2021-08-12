@@ -1,0 +1,106 @@
+{
+   "title": "Test",
+   "labels": [
+      "Year",
+      "5-10 years",
+      "11-15 years"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a multi-line chart with 2 lines representing 5-10 years, and 11-15 years. ",
+      "The line for 11-15 years has the highest values across Year with a mean value of 17.7, ",
+      "and it peaked at 2012/13 with a value of 22.5.",
+      "5-10 years mostly had the least y-axis name with a mean value of 5.46, ",
+      "which peaked at 2011/12 with a value of 6.9. ",
+      "Overall 11-15 years is gradually decreasing, 5-10 years is roughly constant,  throughout the Year",
+      "The difference of y_axis name between 5-10 years and 11-15 years is smaller at Year 2017/18 compared to the Year 2010/11.",
+      "The greatest difference of y_axis name between 5-10 years and 11-15 years occurs at Year 2012/13 and the smallest difference occurs at 2017/18."
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "16": [
+            "7",
+            "1"
+         ]
+      },
+      {
+         "1": [
+            "5",
+            "1"
+         ],
+         "9": [
+            "5",
+            "1"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "15": [
+            "7",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "6",
+            "0"
+         ],
+         "10": [
+            "6",
+            "0"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2017/18",
+         "5-10 years": "5.3",
+         "11-15 years": "12.6"
+      },
+      {
+         "Year": "2016/17",
+         "5-10 years": "5.2",
+         "11-15 years": "13.4"
+      },
+      {
+         "Year": "2015/16",
+         "5-10 years": "4",
+         "11-15 years": "18.8"
+      },
+      {
+         "Year": "2014/15",
+         "5-10 years": "4.6",
+         "11-15 years": "18.1"
+      },
+      {
+         "Year": "2013/14",
+         "5-10 years": "6.4",
+         "11-15 years": "21.3"
+      },
+      {
+         "Year": "2012/13",
+         "5-10 years": "4.7",
+         "11-15 years": "22.5"
+      },
+      {
+         "Year": "2011/12",
+         "5-10 years": "6.9",
+         "11-15 years": "17.6"
+      },
+      {
+         "Year": "2010/11",
+         "5-10 years": "6.6",
+         "11-15 years": "17.3"
+      }
+   ]
+}

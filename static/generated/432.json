@@ -1,0 +1,200 @@
+{
+   "title": "Test",
+   "labels": [
+      "Year",
+      "Born with",
+      "Upbringing/environment",
+      "Both"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a multi-line chart with 3 lines representing Born with, Upbringing/environment, and Both. ",
+      "The line for Upbringing/environment has the highest values across Year with a mean value of 39.68, ",
+      "and it peaked at 1977 with a value of 56.0.",
+      "Followed by Born with, with a mean value of 37.2. ",
+      "This line peaked at 2015 with a value of 51.0. ",
+      "Both mostly had the least y-axis name with a mean value of 10.82, ",
+      "which peaked at 1977 with a value of 14.0. ",
+      "Both reported the lowest y-axis name  about 6.0 in Year 2011",
+      "Overall Born with is gradually increasing, Upbringing/environment is gradually decreasing, Both is roughly constant,  throughout the Year"
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "16": [
+            "21",
+            "1"
+         ]
+      },
+      {
+         "1": [
+            "21",
+            "1"
+         ],
+         "9": [
+            "21",
+            "1"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "15": [
+            "21",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "2",
+            "0"
+         ],
+         "10": [
+            "2",
+            "0"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Born with": "50",
+         "Upbringing/environment": "30",
+         "Both": "10"
+      },
+      {
+         "Year": "2016",
+         "Born with": "46",
+         "Upbringing/environment": "33",
+         "Both": "12"
+      },
+      {
+         "Year": "2015",
+         "Born with": "51",
+         "Upbringing/environment": "30",
+         "Both": "8"
+      },
+      {
+         "Year": "2014",
+         "Born with": "42",
+         "Upbringing/environment": "37",
+         "Both": "9"
+      },
+      {
+         "Year": "2013",
+         "Born with": "47",
+         "Upbringing/environment": "33",
+         "Both": "9"
+      },
+      {
+         "Year": "2012",
+         "Born with": "40",
+         "Upbringing/environment": "35",
+         "Both": "11"
+      },
+      {
+         "Year": "2011",
+         "Born with": "40",
+         "Upbringing/environment": "42",
+         "Both": "6"
+      },
+      {
+         "Year": "2010",
+         "Born with": "36",
+         "Upbringing/environment": "37",
+         "Both": "12"
+      },
+      {
+         "Year": "2009",
+         "Born with": "35",
+         "Upbringing/environment": "42",
+         "Both": "12"
+      },
+      {
+         "Year": "2008",
+         "Born with": "41",
+         "Upbringing/environment": "38",
+         "Both": "9"
+      },
+      {
+         "Year": "2007",
+         "Born with": "42",
+         "Upbringing/environment": "35",
+         "Both": "11"
+      },
+      {
+         "Year": "2006",
+         "Born with": "42",
+         "Upbringing/environment": "37",
+         "Both": "11"
+      },
+      {
+         "Year": "2005",
+         "Born with": "38",
+         "Upbringing/environment": "44",
+         "Both": "10"
+      },
+      {
+         "Year": "2004",
+         "Born with": "37",
+         "Upbringing/environment": "41",
+         "Both": "11"
+      },
+      {
+         "Year": "2003",
+         "Born with": "38",
+         "Upbringing/environment": "44",
+         "Both": "11"
+      },
+      {
+         "Year": "2002",
+         "Born with": "40",
+         "Upbringing/environment": "36",
+         "Both": "12"
+      },
+      {
+         "Year": "2001",
+         "Born with": "40",
+         "Upbringing/environment": "39",
+         "Both": "9"
+      },
+      {
+         "Year": "1999",
+         "Born with": "34",
+         "Upbringing/environment": "44",
+         "Both": "13"
+      },
+      {
+         "Year": "1996",
+         "Born with": "31",
+         "Upbringing/environment": "40",
+         "Both": "13"
+      },
+      {
+         "Year": "1989",
+         "Born with": "19",
+         "Upbringing/environment": "48",
+         "Both": "12"
+      },
+      {
+         "Year": "1982",
+         "Born with": "17",
+         "Upbringing/environment": "52",
+         "Both": "13"
+      },
+      {
+         "Year": "1977",
+         "Born with": "13",
+         "Upbringing/environment": "56",
+         "Both": "14"
+      }
+   ]
+}

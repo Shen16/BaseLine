@@ -1,0 +1,222 @@
+{
+   "title": "Test",
+   "xAxis": "Year",
+   "yAxis": "Inflation rate compared to previous year",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Inflation rate compared to previous year, with a total of 500 data points.",
+      " Overall Inflation rate compared to previous year has decreased over the Year.",
+      "Inflation rate compared to previous year is roughly decreasing from 1984 to 1984, roughly constant from 1984 to 1984, gradually increasing from 1984 to 1986, roughly constant from 1986 to 1987, slightly decreasing from 1987 to 1988, roughly constant from 1988 to 1988, rapidly increasing from 1988 to 1990, roughly constant from 1990 to 1991, slightly decreasing from 1991 to 1992, roughly constant from 1992 to 1992, slightly increasing from 1992 to 1993, roughly constant from 1993 to 1995, slightly decreasing from 1995 to 1996, roughly constant from 1996 to 1996, rapidly increasing from 1996 to 1997, roughly constant from 1997 to 1998, gradually decreasing from 1998 to 1999, roughly constant from 1999 to 1999, roughly increasing from 1999 to 2000, roughly constant from 2000 to 2004, gradually increasing from 2004 to 2005, roughly constant from 2005 to 2006, roughly decreasing from 2006 to 2006, roughly constant from 2006 to 2007, rapidly increasing from 2007 to 2008, roughly constant from 2008 to 2009, slightly decreasing from 2009 to 2010, roughly constant from 2010 to 2012, slightly decreasing from 2012 to 2014, roughly constant from 2014 to 2015, slightly decreasing from 2015 to 2016, roughly constant from 2016 to 2019, roughly increasing from 2019 to 2019, and lastly roughly constant from 2019 to 2024.",
+      "The steepest decrease occurs in between the Year 1998 and 1998.",
+      "Max Inflation rate compared to previous year about 13.639286432442251 was recorded at Year 1990",
+      "Min Inflation rate compared to previous year about 3.3692993523681096 was recorded at Year 2018",
+      "#########################################################################",
+      "This line chart has an x axis representing Year and a y axis representing Inflation rate compared to previous year, with a total of 41 data points. The chart has 7 significant trends.",
+      " The longest trend is slightly decreasing which exists from 1994 to 2001.",
+      " Differently, the next significant trend is moderately increasing which exists from 2018 to 2024.",
+      " In a similar manner, the next significant trend is slightly decreasing which exists from 2012 to 2018.",
+      " On the contrary, the next significant trend is extremely decreasing which exists from 2001 to 2007.",
+      " Conversely, the next significant trend is extremely increasing which exists from 2007 to 2012.",
+      " Additionally, the next significant trend is extremely increasing which exists from 1989 to 1994.",
+      " Also, the next significant trend is moderately increasing which exists from 1984 to 1989."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "23",
+         "12": "30"
+      },
+      {
+         "3": "0",
+         "14": "6"
+      },
+      {
+         "3": "6",
+         "14": "12"
+      },
+      {
+         "3": "17",
+         "14": "23"
+      },
+      {
+         "3": "12",
+         "14": "17"
+      },
+      {
+         "3": "30",
+         "14": "35"
+      },
+      {
+         "3": "35",
+         "14": "40"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2024",
+         "Inflation rate compared to previous year": 3.97
+      },
+      {
+         "Year": "2023",
+         "Inflation rate compared to previous year": 3.98
+      },
+      {
+         "Year": "2022",
+         "Inflation rate compared to previous year": 4.05
+      },
+      {
+         "Year": "2021",
+         "Inflation rate compared to previous year": 4.07
+      },
+      {
+         "Year": "2020",
+         "Inflation rate compared to previous year": 4.09
+      },
+      {
+         "Year": "2019",
+         "Inflation rate compared to previous year": 3.44
+      },
+      {
+         "Year": "2018",
+         "Inflation rate compared to previous year": 3.43
+      },
+      {
+         "Year": "2017",
+         "Inflation rate compared to previous year": 3.6
+      },
+      {
+         "Year": "2016",
+         "Inflation rate compared to previous year": 4.5
+      },
+      {
+         "Year": "2015",
+         "Inflation rate compared to previous year": 4.9
+      },
+      {
+         "Year": "2014",
+         "Inflation rate compared to previous year": 5.8
+      },
+      {
+         "Year": "2013",
+         "Inflation rate compared to previous year": 9.4
+      },
+      {
+         "Year": "2012",
+         "Inflation rate compared to previous year": 10.0
+      },
+      {
+         "Year": "2011",
+         "Inflation rate compared to previous year": 9.5
+      },
+      {
+         "Year": "2010",
+         "Inflation rate compared to previous year": 10.53
+      },
+      {
+         "Year": "2009",
+         "Inflation rate compared to previous year": 12.31
+      },
+      {
+         "Year": "2008",
+         "Inflation rate compared to previous year": 9.09
+      },
+      {
+         "Year": "2007",
+         "Inflation rate compared to previous year": 6.2
+      },
+      {
+         "Year": "2006",
+         "Inflation rate compared to previous year": 6.7
+      },
+      {
+         "Year": "2005",
+         "Inflation rate compared to previous year": 4.4
+      },
+      {
+         "Year": "2004",
+         "Inflation rate compared to previous year": 3.82
+      },
+      {
+         "Year": "2003",
+         "Inflation rate compared to previous year": 3.86
+      },
+      {
+         "Year": "2002",
+         "Inflation rate compared to previous year": 3.98
+      },
+      {
+         "Year": "2001",
+         "Inflation rate compared to previous year": 4.31
+      },
+      {
+         "Year": "2000",
+         "Inflation rate compared to previous year": 3.83
+      },
+      {
+         "Year": "1999",
+         "Inflation rate compared to previous year": 5.7
+      },
+      {
+         "Year": "1998",
+         "Inflation rate compared to previous year": 13.13
+      },
+      {
+         "Year": "1997",
+         "Inflation rate compared to previous year": 6.84
+      },
+      {
+         "Year": "1996",
+         "Inflation rate compared to previous year": 9.43
+      },
+      {
+         "Year": "1995",
+         "Inflation rate compared to previous year": 9.96
+      },
+      {
+         "Year": "1994",
+         "Inflation rate compared to previous year": 10.28
+      },
+      {
+         "Year": "1993",
+         "Inflation rate compared to previous year": 7.28
+      },
+      {
+         "Year": "1992",
+         "Inflation rate compared to previous year": 9.86
+      },
+      {
+         "Year": "1991",
+         "Inflation rate compared to previous year": 13.48
+      },
+      {
+         "Year": "1990",
+         "Inflation rate compared to previous year": 11.2
+      },
+      {
+         "Year": "1989",
+         "Inflation rate compared to previous year": 4.57
+      },
+      {
+         "Year": "1988",
+         "Inflation rate compared to previous year": 7.21
+      },
+      {
+         "Year": "1987",
+         "Inflation rate compared to previous year": 9.06
+      },
+      {
+         "Year": "1986",
+         "Inflation rate compared to previous year": 8.89
+      },
+      {
+         "Year": "1985",
+         "Inflation rate compared to previous year": 6.25
+      },
+      {
+         "Year": "1984",
+         "Inflation rate compared to previous year": 6.52
+      }
+   ]
+}

@@ -1,0 +1,69 @@
+{
+   "title": "Test",
+   "xAxis": "Languages",
+   "yAxis": "Native speaker in millions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 10 categories on the x axis representing Languages, and Native speaker in millions in each Languages on the y axis.",
+      "Chinese is higher than any other categories with value 1311.0, followed by , and English. Down to category Lahnda with the lowest value of 119.0. ",
+      " The highest value at Chinese is almost 11.02 times larger than the minimum value of Lahnda. ",
+      " The highest value at Chinese is almost 11.02 times larger than the minimum value of Lahnda. ",
+      " The difference between the max Languages Chinese and min Languages Lahnda is 1192.0. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 9,
+         "12": 9
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Languages": "Chinese",
+         "Native speaker in millions": 1311.0
+      },
+      {
+         "Languages": "Spanish",
+         "Native speaker in millions": 460.0
+      },
+      {
+         "Languages": "English",
+         "Native speaker in millions": 379.0
+      },
+      {
+         "Languages": "Hindi",
+         "Native speaker in millions": 341.0
+      },
+      {
+         "Languages": "Arabic",
+         "Native speaker in millions": 319.0
+      },
+      {
+         "Languages": "Bengali",
+         "Native speaker in millions": 228.0
+      },
+      {
+         "Languages": "Portuguese",
+         "Native speaker in millions": 221.0
+      },
+      {
+         "Languages": "Russian",
+         "Native speaker in millions": 154.0
+      },
+      {
+         "Languages": "Japanese",
+         "Native speaker in millions": 128.0
+      },
+      {
+         "Languages": "Lahnda",
+         "Native speaker in millions": 119.0
+      }
+   ]
+}

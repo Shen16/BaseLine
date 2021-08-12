@@ -1,0 +1,149 @@
+{
+   "title": "Test",
+   "xAxis": "Year",
+   "yAxis": "Emissions in million metric tons",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Emissions in million metric tons, with a total of 24 data points.",
+      " Overall Emissions in million metric tons has increased over the Year.",
+      "Emissions in million metric tons is rapidly increasing from 1995 to 2000, roughly constant from 2000 to 2002, slightly increasing from 2002 to 2003, roughly constant from 2003 to 2006, slightly increasing from 2006 to 2007, slightly decreasing from 2007 to 2009, roughly increasing from 2009 to 2010, roughly constant from 2010 to 2015, roughly increasing from 2015 to 2016, and lastly roughly constant from 2016 to 2018.",
+      "The steepest decrease occurs in between the Year 2008 and 2009.",
+      "Max Emissions in million metric tons about 594.73 was recorded at Year 2007",
+      "Min Emissions in million metric tons about 494.24 was recorded at Year 1995",
+      "#########################################################################",
+      "This line chart has an x axis representing Year and a y axis representing Emissions in million metric tons, with a total of 24 data points. The chart has 6 significant trends.",
+      " The longest trend is moderately increasing which exists from 2009 to 2014.",
+      " Additionally, the next significant trend is extremely increasing which exists from 1995 to 2000.",
+      " Also, the next significant trend is moderately decreasing which exists from 2014 to 2018.",
+      " Contrarily, the next significant trend is slightly increasing which exists from 2006 to 2009.",
+      " In a similar manner, the next significant trend is slightly decreasing which exists from 2003 to 2006.",
+      " But, the next significant trend is moderately decreasing which exists from 2000 to 2003."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "4",
+         "12": "9"
+      },
+      {
+         "3": "18",
+         "14": "23"
+      },
+      {
+         "3": "0",
+         "14": "4"
+      },
+      {
+         "3": "9",
+         "14": "12"
+      },
+      {
+         "3": "12",
+         "14": "15"
+      },
+      {
+         "3": "15",
+         "14": "18"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Emissions in million metric tons": 568.41
+      },
+      {
+         "Year": "2017",
+         "Emissions in million metric tons": 571.14
+      },
+      {
+         "Year": "2016",
+         "Emissions in million metric tons": 564.07
+      },
+      {
+         "Year": "2015",
+         "Emissions in million metric tons": 576.76
+      },
+      {
+         "Year": "2014",
+         "Emissions in million metric tons": 577.36
+      },
+      {
+         "Year": "2013",
+         "Emissions in million metric tons": 577.35
+      },
+      {
+         "Year": "2012",
+         "Emissions in million metric tons": 570.16
+      },
+      {
+         "Year": "2011",
+         "Emissions in million metric tons": 566.67
+      },
+      {
+         "Year": "2010",
+         "Emissions in million metric tons": 556.42
+      },
+      {
+         "Year": "2009",
+         "Emissions in million metric tons": 543.07
+      },
+      {
+         "Year": "2008",
+         "Emissions in million metric tons": 575.45
+      },
+      {
+         "Year": "2007",
+         "Emissions in million metric tons": 594.73
+      },
+      {
+         "Year": "2006",
+         "Emissions in million metric tons": 570.81
+      },
+      {
+         "Year": "2005",
+         "Emissions in million metric tons": 576.86
+      },
+      {
+         "Year": "2004",
+         "Emissions in million metric tons": 586.47
+      },
+      {
+         "Year": "2003",
+         "Emissions in million metric tons": 587.49
+      },
+      {
+         "Year": "2002",
+         "Emissions in million metric tons": 570.55
+      },
+      {
+         "Year": "2001",
+         "Emissions in million metric tons": 564.23
+      },
+      {
+         "Year": "2000",
+         "Emissions in million metric tons": 571.51
+      },
+      {
+         "Year": "1999",
+         "Emissions in million metric tons": 548.94
+      },
+      {
+         "Year": "1998",
+         "Emissions in million metric tons": 533.1
+      },
+      {
+         "Year": "1997",
+         "Emissions in million metric tons": 524.43
+      },
+      {
+         "Year": "1996",
+         "Emissions in million metric tons": 509.69
+      },
+      {
+         "Year": "1995",
+         "Emissions in million metric tons": 494.24
+      }
+   ]
+}

@@ -1,0 +1,116 @@
+{
+   "title": "Test",
+   "xAxis": "Year",
+   "yAxis": "Price in U.S. dollars per metric ton",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Price in U.S. dollars per metric ton, with a total of 17 data points.",
+      " Overall Price in U.S. dollars per metric ton has decreased over the Year.",
+      "Price in U.S. dollars per metric ton is roughly constant from 2025 to 2014, gradually increasing from 2014 to 2011, and lastly roughly decreasing from 2011 to 2009.",
+      "The steepest decrease occurs in between the Year 2011 and 2010.",
+      "Max Price in U.S. dollars per metric ton about 98757.0 was recorded at Year 2011",
+      "Min Price in U.S. dollars per metric ton about 4604.0 was recorded at Year 2009",
+      "#########################################################################",
+      "This line chart has an x axis representing Year and a y axis representing Price in U.S. dollars per metric ton, with a total of 17 data points. The chart has 5 significant trends.",
+      " The longest trend is moderately decreasing which exists from 2018 to 2014.",
+      " On the other hand, the next significant trend is moderately decreasing which exists from 2025 to 2021.",
+      " Contrarily, the next significant trend is slightly increasing which exists from 2014 to 2011.",
+      " Additionally, the next significant trend is moderately increasing which exists from 2021 to 2018.",
+      " Correspondingly, the next significant trend is extremely decreasing which exists from 2011 to 2009."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "5",
+         "12": "9"
+      },
+      {
+         "3": "12",
+         "14": "16"
+      },
+      {
+         "3": "2",
+         "14": "5"
+      },
+      {
+         "3": "9",
+         "14": "12"
+      },
+      {
+         "3": "0",
+         "14": "2"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2009",
+         "Price in U.S. dollars per metric ton": 4604.0
+      },
+      {
+         "Year": "2010",
+         "Price in U.S. dollars per metric ton": 23820.0
+      },
+      {
+         "Year": "2011",
+         "Price in U.S. dollars per metric ton": 98757.0
+      },
+      {
+         "Year": "2012",
+         "Price in U.S. dollars per metric ton": 25547.0
+      },
+      {
+         "Year": "2013",
+         "Price in U.S. dollars per metric ton": 7866.0
+      },
+      {
+         "Year": "2014",
+         "Price in U.S. dollars per metric ton": 5955.0
+      },
+      {
+         "Year": "2015",
+         "Price in U.S. dollars per metric ton": 6955.0
+      },
+      {
+         "Year": "2016",
+         "Price in U.S. dollars per metric ton": 7254.0
+      },
+      {
+         "Year": "2017",
+         "Price in U.S. dollars per metric ton": 7810.0
+      },
+      {
+         "Year": "2018",
+         "Price in U.S. dollars per metric ton": 7904.0
+      },
+      {
+         "Year": "2019",
+         "Price in U.S. dollars per metric ton": 7033.0
+      },
+      {
+         "Year": "2020",
+         "Price in U.S. dollars per metric ton": 6742.0
+      },
+      {
+         "Year": "2021",
+         "Price in U.S. dollars per metric ton": 6447.0
+      },
+      {
+         "Year": "2022",
+         "Price in U.S. dollars per metric ton": 6558.0
+      },
+      {
+         "Year": "2023",
+         "Price in U.S. dollars per metric ton": 6676.0
+      },
+      {
+         "Year": "2024",
+         "Price in U.S. dollars per metric ton": 6800.0
+      },
+      {
+         "Year": "2025",
+         "Price in U.S. dollars per metric ton": 6932.0
+      }
+   ]
+}

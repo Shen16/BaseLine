@@ -1,0 +1,61 @@
+{
+   "title": "Test",
+   "xAxis": "Country",
+   "yAxis": "Percentage of population",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 8 categories on the x axis representing Country, and Percentage of population in each Country on the y axis.",
+      "Spain is higher than any other categories with value 24.0, followed by Australia, and Italy. Down to category Germany with the lowest value of 10.0. ",
+      " The highest value at Spain is almost 2.4 times larger than the minimum value of Germany. ",
+      " The highest value at Spain is almost 2.4 times larger than the minimum value of Germany. ",
+      " The difference between the max Country Spain and min Country Germany is 14.0. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 7,
+         "12": 7
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Country": "Spain",
+         "Percentage of population": 24.0
+      },
+      {
+         "Country": "Australia",
+         "Percentage of population": 24.0
+      },
+      {
+         "Country": "Italy",
+         "Percentage of population": 23.0
+      },
+      {
+         "Country": "United States",
+         "Percentage of population": 20.0
+      },
+      {
+         "Country": "United Kingdom",
+         "Percentage of population": 19.0
+      },
+      {
+         "Country": "France",
+         "Percentage of population": 15.0
+      },
+      {
+         "Country": "Japan",
+         "Percentage of population": 12.0
+      },
+      {
+         "Country": "Germany",
+         "Percentage of population": 10.0
+      }
+   ]
+}

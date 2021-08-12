@@ -1,0 +1,91 @@
+{
+   "title": "Test",
+   "xAxis": "Year",
+   "yAxis": "Price index in real 2010 U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Price index in real 2010 U.S. dollars, with a total of 12 data points.",
+      " Overall Price index in real 2010 U.S. dollars has decreased over the Year",
+      "Price index in real 2010 U.S. dollars is roughly constant from 2013 to 2014, gradually decreasing from 2014 to 2015, roughly constant from 2015 to 2016, slightly increasing from 2016 to 2017, and lastly slightly constant from 2017 to 2030.",
+      "The steepest decrease occurs in between the Year 2014 and 2015.",
+      "Max Price index in real 2010 U.S. dollars about 120.1 was recorded at Year 2013",
+      "Min Price index in real 2010 U.S. dollars about 55.1 was recorded at Year 2016",
+      "#########################################################################",
+      "This line chart has an x axis representing Year and a y axis representing Price index in real 2010 U.S. dollars, with a total of 12 data points. The chart has 4 significant trends.",
+      " The longest trend is moderately increasing which exists from 2020 to 2030.",
+      " Likewise, the next significant trend is slightly decreasing which exists from 2013 to 2016.",
+      " But, the next significant trend is moderately decreasing which exists from 2018 to 2020.",
+      " But, the next significant trend is extremely increasing which exists from 2016 to 2018."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "0",
+         "12": "4"
+      },
+      {
+         "3": "8",
+         "14": "11"
+      },
+      {
+         "3": "4",
+         "14": "6"
+      },
+      {
+         "3": "6",
+         "14": "8"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2030",
+         "Price index in real 2010 U.S. dollars": 87.2
+      },
+      {
+         "Year": "2025",
+         "Price index in real 2010 U.S. dollars": 79.1
+      },
+      {
+         "Year": "2022",
+         "Price index in real 2010 U.S. dollars": 74.7
+      },
+      {
+         "Year": "2021",
+         "Price index in real 2010 U.S. dollars": 73.3
+      },
+      {
+         "Year": "2020",
+         "Price index in real 2010 U.S. dollars": 72.0
+      },
+      {
+         "Year": "2019",
+         "Price index in real 2010 U.S. dollars": 74.3
+      },
+      {
+         "Year": "2018",
+         "Price index in real 2010 U.S. dollars": 87.0
+      },
+      {
+         "Year": "2017",
+         "Price index in real 2010 U.S. dollars": 68.1
+      },
+      {
+         "Year": "2016",
+         "Price index in real 2010 U.S. dollars": 55.1
+      },
+      {
+         "Year": "2015",
+         "Price index in real 2010 U.S. dollars": 65.0
+      },
+      {
+         "Year": "2014",
+         "Price index in real 2010 U.S. dollars": 111.7
+      },
+      {
+         "Year": "2013",
+         "Price index in real 2010 U.S. dollars": 120.1
+      }
+   ]
+}

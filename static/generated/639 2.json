@@ -1,0 +1,69 @@
+{
+   "title": "Test",
+   "xAxis": "Month",
+   "yAxis": "Market value in million euros",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 10 categories on the x axis representing Month, and Market value in million euros in each Month on the y axis.",
+      "Neymar is higher than any other categories with value 180.0, followed by Philippe Coutinho, and Gabriel Jesus. Down to category Ederson with the lowest value of 50.0. ",
+      " The highest value at Neymar is almost 3.6 times larger than the minimum value of Ederson. ",
+      " The highest value at Neymar is almost 3.6 times larger than the minimum value of Ederson. ",
+      " The difference between the max Month Neymar and min Month Ederson is 130.0. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 9,
+         "12": 9
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Month": "Neymar",
+         "Market value in million euros": 180.0
+      },
+      {
+         "Month": "Philippe Coutinho",
+         "Market value in million euros": 100.0
+      },
+      {
+         "Month": "Roberto Firmino",
+         "Market value in million euros": 80.0
+      },
+      {
+         "Month": "Gabriel Jesus",
+         "Market value in million euros": 80.0
+      },
+      {
+         "Month": "Casemiro",
+         "Market value in million euros": 60.0
+      },
+      {
+         "Month": "Marcelo",
+         "Market value in million euros": 60.0
+      },
+      {
+         "Month": "Alisson",
+         "Market value in million euros": 60.0
+      },
+      {
+         "Month": "Douglas Costa",
+         "Market value in million euros": 55.0
+      },
+      {
+         "Month": "Marquinhos",
+         "Market value in million euros": 55.0
+      },
+      {
+         "Month": "Ederson",
+         "Market value in million euros": 50.0
+      }
+   ]
+}

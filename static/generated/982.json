@@ -1,0 +1,49 @@
+{
+   "title": "Test",
+   "xAxis": "Age Group",
+   "yAxis": "Sugar intake in grams",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 5 categories on the x axis representing Age Group, and Sugar intake in grams in each Age Group on the y axis.",
+      "Teenagers 11-18 years is higher than any other categories with value 74.2, followed by , and Adults 19-64 years. Down to category Children 1.5-3 years with the lowest value of 36.1. ",
+      " The highest value at Teenagers 11-18 years is almost 2.06 times larger than the minimum value of Children 1.5-3 years. ",
+      " The highest value at Teenagers 11-18 years is almost 2.06 times larger than the minimum value of Children 1.5-3 years. ",
+      " The difference between the max Age Group Teenagers 11-18 years and min Age Group Children 1.5-3 years is 38.1. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 2,
+         "12": 2
+      },
+      {
+         "7": 0,
+         "12": 0
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Age Group": "Children 1.5-3 years",
+         "Sugar intake in grams": 36.1
+      },
+      {
+         "Age Group": "Children 4-10 years",
+         "Sugar intake in grams": 60.8
+      },
+      {
+         "Age Group": "Teenagers 11-18 years",
+         "Sugar intake in grams": 74.2
+      },
+      {
+         "Age Group": "Adults 19-64 years",
+         "Sugar intake in grams": 58.8
+      },
+      {
+         "Age Group": "Adults 65 years and over",
+         "Sugar intake in grams": 51.6
+      }
+   ]
+}

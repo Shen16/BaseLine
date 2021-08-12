@@ -1,0 +1,92 @@
+{
+   "title": "Test",
+   "xAxis": "Year",
+   "yAxis": "GDP per capita in U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing GDP per capita in U.S. dollars, with a total of 11 data points.",
+      " Overall GDP per capita in U.S. dollars has decreased over the Year.",
+      "GDP per capita in U.S. dollars is roughly constant from 2014 to 2015, rapidly decreasing from 2015 to 2016, roughly constant from 2016 to 2017, slightly increasing from 2017 to 2018, slightly decreasing from 2018 to 2019, and lastly roughly constant from 2019 to 2024.",
+      "The steepest decrease occurs in between the Year 2015 and 2016.",
+      "Max GDP per capita in U.S. dollars about 1309.95 was recorded at Year 2014",
+      "Min GDP per capita in U.S. dollars about 243.27 was recorded at Year 2020",
+      "#########################################################################",
+      "This line chart has an x axis representing Year and a y axis representing GDP per capita in U.S. dollars, with a total of 11 data points. The chart has 5 significant trends.",
+      " The longest trend is slightly decreasing which exists from 2014 to 2017.",
+      " But, the next significant trend is extremely decreasing which exists from 2022 to 2024.",
+      " Differently, the next significant trend is extremely increasing which exists from 2020 to 2022.",
+      " Similarly, the next significant trend is moderately decreasing which exists from 2018 to 2020.",
+      " Contrarily, the next significant trend is extremely increasing which exists from 2017 to 2018."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "7",
+         "12": "10"
+      },
+      {
+         "3": "0",
+         "14": "2"
+      },
+      {
+         "3": "2",
+         "14": "4"
+      },
+      {
+         "3": "4",
+         "14": "6"
+      },
+      {
+         "3": "6",
+         "14": "7"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2024",
+         "GDP per capita in U.S. dollars": 265.58
+      },
+      {
+         "Year": "2023",
+         "GDP per capita in U.S. dollars": 270.37
+      },
+      {
+         "Year": "2022",
+         "GDP per capita in U.S. dollars": 278.36
+      },
+      {
+         "Year": "2021",
+         "GDP per capita in U.S. dollars": 244.0
+      },
+      {
+         "Year": "2020",
+         "GDP per capita in U.S. dollars": 243.27
+      },
+      {
+         "Year": "2019",
+         "GDP per capita in U.S. dollars": 275.18
+      },
+      {
+         "Year": "2018",
+         "GDP per capita in U.S. dollars": 353.17
+      },
+      {
+         "Year": "2017",
+         "GDP per capita in U.S. dollars": 273.14
+      },
+      {
+         "Year": "2016",
+         "GDP per capita in U.S. dollars": 281.51
+      },
+      {
+         "Year": "2015",
+         "GDP per capita in U.S. dollars": 1225.19
+      },
+      {
+         "Year": "2014",
+         "GDP per capita in U.S. dollars": 1309.95
+      }
+   ]
+}

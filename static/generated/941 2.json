@@ -1,0 +1,69 @@
+{
+   "title": "Test",
+   "xAxis": "Month",
+   "yAxis": "Value of wealth in billion euros",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 10 categories on the x axis representing Month, and Value of wealth in billion euros in each Month on the y axis.",
+      "Liliane Bettencourt (L\u2019Or\u00e9al France) is higher than any other categories with value 25.1, followed by Susanne Klatten (BMW Germany), and Johanna Quandt (BMW Germany). Down to category Elisabeth Mohn (Bertelsmann Germany) with the lowest value of 4.3. ",
+      " The highest value at Liliane Bettencourt (L\u2019Or\u00e9al France) is almost 5.84 times larger than the minimum value of Elisabeth Mohn (Bertelsmann Germany). ",
+      " The highest value at Liliane Bettencourt (L\u2019Or\u00e9al France) is almost 5.84 times larger than the minimum value of Elisabeth Mohn (Bertelsmann Germany). ",
+      " The difference between the max Month Liliane Bettencourt (L\u2019Or\u00e9al France) and min Month Elisabeth Mohn (Bertelsmann Germany) is 20.8. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 9,
+         "12": 9
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Month": "Liliane Bettencourt (L\u2019Or\u00e9al France)",
+         "Value of wealth in billion euros": 25.1
+      },
+      {
+         "Month": "Susanne Klatten (BMW Germany)",
+         "Value of wealth in billion euros": 13.1
+      },
+      {
+         "Month": "Johanna Quandt (BMW Germany)",
+         "Value of wealth in billion euros": 10.7
+      },
+      {
+         "Month": "Charlene Carvalho Heineken (Heineken Netherlands)",
+         "Value of wealth in billion euros": 8.1
+      },
+      {
+         "Month": "Margarita Louis Dreyfus (Louis Dreyfus Switzerland)",
+         "Value of wealth in billion euros": 5.6
+      },
+      {
+         "Month": "Antonia Axson Johnson (Axel Johnson Group Sweden)",
+         "Value of wealth in billion euros": 5.6
+      },
+      {
+         "Month": "Sandra Ortega Mera (Inditex Spain)",
+         "Value of wealth in billion euros": 5.2
+      },
+      {
+         "Month": "Daniela Herz (Mayfair Germany)",
+         "Value of wealth in billion euros": 4.6
+      },
+      {
+         "Month": "Kirsten Rausing (Tetra Sweden)",
+         "Value of wealth in billion euros": 4.5
+      },
+      {
+         "Month": "Elisabeth Mohn (Bertelsmann Germany)",
+         "Value of wealth in billion euros": 4.3
+      }
+   ]
+}

@@ -1,0 +1,109 @@
+{
+   "title": "Test",
+   "xAxis": "Retail Locations",
+   "yAxis": "Annual rent in U.S. dollars per square foot",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 20 categories on the x axis representing Retail Locations, and Annual rent in U.S. dollars per square foot in each Retail Locations on the y axis.",
+      "Causeway Bay main street shops (Hong Kong) is higher than any other categories with value 2745.0, followed by Upper 5th Avenue 49th-60th Sts (New York), and New Bond Street (London). Down to category Khan Market (New Delhi) with the lowest value of 243.0. ",
+      " The highest value at Causeway Bay main street shops (Hong Kong) is almost 11.3 times larger than the minimum value of Khan Market (New Delhi). ",
+      " The highest value at Causeway Bay main street shops (Hong Kong) is almost 11.3 times larger than the minimum value of Khan Market (New Delhi). ",
+      " The difference between the max Retail Locations Causeway Bay main street shops (Hong Kong) and min Retail Locations Khan Market (New Delhi) is 2502.0. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 19,
+         "12": 19
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Retail Locations": "Causeway Bay main street shops (Hong Kong)",
+         "Annual rent in U.S. dollars per square foot": 2745.0
+      },
+      {
+         "Retail Locations": "Upper 5th Avenue 49th-60th Sts (New York)",
+         "Annual rent in U.S. dollars per square foot": 2250.0
+      },
+      {
+         "Retail Locations": "New Bond Street (London)",
+         "Annual rent in U.S. dollars per square foot": 1714.0
+      },
+      {
+         "Retail Locations": "Avenue des Champs-Elysees (Paris)",
+         "Annual rent in U.S. dollars per square foot": 1478.0
+      },
+      {
+         "Retail Locations": "Via Montenapoleone (Milan)",
+         "Annual rent in U.S. dollars per square foot": 1447.0
+      },
+      {
+         "Retail Locations": "Ginza (Tokyo)",
+         "Annual rent in U.S. dollars per square foot": 1251.0
+      },
+      {
+         "Retail Locations": "Pitt Street Mall (Sydney)",
+         "Annual rent in U.S. dollars per square foot": 1076.0
+      },
+      {
+         "Retail Locations": "Bahnhofstrasse (Zurich)",
+         "Annual rent in U.S. dollars per square foot": 866.0
+      },
+      {
+         "Retail Locations": "Myeongdong (Seoul)",
+         "Annual rent in U.S. dollars per square foot": 862.0
+      },
+      {
+         "Retail Locations": "Kohlmarkt (Vienna)",
+         "Annual rent in U.S. dollars per square foot": 513.0
+      },
+      {
+         "Retail Locations": "Wangfujing (Beijing)",
+         "Annual rent in U.S. dollars per square foot": 471.0
+      },
+      {
+         "Retail Locations": "Kaufinger/Neuhauser (Munich)",
+         "Annual rent in U.S. dollars per square foot": 469.0
+      },
+      {
+         "Retail Locations": "Grafton Street (Dublin)",
+         "Annual rent in U.S. dollars per square foot": 401.0
+      },
+      {
+         "Retail Locations": "Portal de L'Angel (Barcelona)",
+         "Annual rent in U.S. dollars per square foot": 361.0
+      },
+      {
+         "Retail Locations": "Ermou (Athens)",
+         "Annual rent in U.S. dollars per square foot": 361.0
+      },
+      {
+         "Retail Locations": "Orchard Road (Singapore)",
+         "Annual rent in U.S. dollars per square foot": 312.0
+      },
+      {
+         "Retail Locations": "Kalverstraat (Amsterdam)",
+         "Annual rent in U.S. dollars per square foot": 301.0
+      },
+      {
+         "Retail Locations": "Na Prikope street (Prague)",
+         "Annual rent in U.S. dollars per square foot": 298.0
+      },
+      {
+         "Retail Locations": "Stoleshnikov (Moscow)",
+         "Annual rent in U.S. dollars per square foot": 288.0
+      },
+      {
+         "Retail Locations": "Khan Market (New Delhi)",
+         "Annual rent in U.S. dollars per square foot": 243.0
+      }
+   ]
+}

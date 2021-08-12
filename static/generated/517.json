@@ -1,0 +1,60 @@
+{
+   "title": "Test",
+   "xAxis": "Year",
+   "yAxis": "Share of mobile banking users",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Share of mobile banking users, with a total of 8 data points.",
+      " Overall Share of mobile banking users has increased over the Year.",
+      "Share of mobile banking users is roughly constant from 2009 to 2010, gradually increasing from 2010 to 2013, roughly constant from 2013 to 2015, and lastly roughly increasing from 2015 to 2016.",
+      "The steepest increase occurs in between the Year 2010 and 2011.",
+      "Max Share of mobile banking users about 51.0 was recorded at Year 2016",
+      "Min Share of mobile banking users about 18.0 was recorded at Year 2009",
+      "#########################################################################",
+      "This line chart has an x axis representing Year and a y axis representing Share of mobile banking users with a total of 8 data points. The chart has one significant trend.",
+      " This trend is increasing which exists from 2016 to 2009."
+   ],
+   "trends": [
+      {},
+      {
+         "3": "0",
+         "14": "7"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2016",
+         "Share of mobile banking users": 51.0
+      },
+      {
+         "Year": "2015",
+         "Share of mobile banking users": 46.0
+      },
+      {
+         "Year": "2014",
+         "Share of mobile banking users": 42.0
+      },
+      {
+         "Year": "2013",
+         "Share of mobile banking users": 38.0
+      },
+      {
+         "Year": "2012",
+         "Share of mobile banking users": 33.0
+      },
+      {
+         "Year": "2011",
+         "Share of mobile banking users": 29.0
+      },
+      {
+         "Year": "2010",
+         "Share of mobile banking users": 19.0
+      },
+      {
+         "Year": "2009",
+         "Share of mobile banking users": 18.0
+      }
+   ]
+}

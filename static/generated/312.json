@@ -1,0 +1,70 @@
+{
+   "title": "Test",
+   "xAxis": "Year",
+   "yAxis": "Cattle population in million head",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Cattle population in million head, with a total of 8 data points.",
+      " Overall Cattle population in million head has increased over the Year.",
+      "Cattle population in million head is roughly constant from 2012 to 2014, slightly decreasing from 2014 to 2015, roughly constant from 2015 to 2017, and lastly slightly increasing from 2017 to 2019.",
+      "The steepest decrease occurs in between the Year 2014 and 2015.",
+      "Max Cattle population in million head about 1008.57 was recorded at Year 2014",
+      "Min Cattle population in million head about 969.26 was recorded at Year 2015",
+      "#########################################################################",
+      "This line chart has an x axis representing Year and a y axis representing Cattle population in million head, with a total of 8 data points. The chart has 3 significant trends.",
+      " The longest trend is extremely increasing which exists from 2015 to 2019.",
+      " Similarly, the next significant trend is extremely increasing which exists from 2012 to 2014.",
+      " Similarly, the next significant trend is slightly decreasing which exists from 2014 to 2015."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "0",
+         "12": "4"
+      },
+      {
+         "3": "5",
+         "14": "7"
+      },
+      {
+         "3": "4",
+         "14": "5"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Cattle population in million head": 1007.26
+      },
+      {
+         "Year": "2018",
+         "Cattle population in million head": 996.36
+      },
+      {
+         "Year": "2017",
+         "Cattle population in million head": 984.53
+      },
+      {
+         "Year": "2016",
+         "Cattle population in million head": 978.77
+      },
+      {
+         "Year": "2015",
+         "Cattle population in million head": 969.26
+      },
+      {
+         "Year": "2014",
+         "Cattle population in million head": 1008.57
+      },
+      {
+         "Year": "2013",
+         "Cattle population in million head": 1005.29
+      },
+      {
+         "Year": "2012",
+         "Cattle population in million head": 1001.72
+      }
+   ]
+}

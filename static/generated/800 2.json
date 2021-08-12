@@ -1,0 +1,71 @@
+{
+   "title": "Test",
+   "xAxis": "Country",
+   "yAxis": "Prize money in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 10 categories on the x axis representing Country, and Prize money in million U.S. dollars in each Country on the y axis.",
+      " The highest category is found at United States where Prize money in million U.S. dollars is 28.07.",
+      " Followed by 16.02 in China.",
+      " The lowest category is found at Germany where Prize money in million U.S. dollars is 4.16.",
+      " The highest value at United States is almost 6.75 times larger than the minimum value of Germany. ",
+      " The highest value at United States is almost 6.75 times larger than the minimum value of Germany. ",
+      " The difference between the max Country United States and min Country Germany is 23.91. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 9,
+         "12": 9
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Country": "United States",
+         "Prize money in million U.S. dollars": 28.07
+      },
+      {
+         "Country": "China",
+         "Prize money in million U.S. dollars": 16.02
+      },
+      {
+         "Country": "South Korea",
+         "Prize money in million U.S. dollars": 13.54
+      },
+      {
+         "Country": "Denmark",
+         "Prize money in million U.S. dollars": 10.4
+      },
+      {
+         "Country": "Finland",
+         "Prize money in million U.S. dollars": 7.31
+      },
+      {
+         "Country": "Russia",
+         "Prize money in million U.S. dollars": 6.86
+      },
+      {
+         "Country": "Sweden",
+         "Prize money in million U.S. dollars": 6.29
+      },
+      {
+         "Country": "France",
+         "Prize money in million U.S. dollars": 6.04
+      },
+      {
+         "Country": "Canada",
+         "Prize money in million U.S. dollars": 4.68
+      },
+      {
+         "Country": "Germany",
+         "Prize money in million U.S. dollars": 4.16
+      }
+   ]
+}

@@ -1,0 +1,142 @@
+{
+   "title": "Test",
+   "xAxis": "Year",
+   "yAxis": "Billion U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Billion U.S. dollars, with a total of 26 data points.",
+      " Overall Billion U.S. dollars has increased over the Year.",
+      "Billion U.S. dollars is roughly increasing from 92 to 93, roughly constant from 93 to 95, gradually increasing from 95 to 0, roughly constant from 0 to 1, gradually increasing from 1 to 6, roughly decreasing from 6 to 9, slightly increasing from 9 to 12, and lastly roughly constant from 12 to 17.",
+      "The steepest increase occurs in between the Year 10 and 11.",
+      "Max Billion U.S. dollars about 259.84 was recorded at Year 16",
+      "Min Billion U.S. dollars about 120.1 was recorded at Year 92",
+      "#########################################################################",
+      "This line chart has an x axis representing Year and a y axis representing Billion U.S. dollars, with a total of 26 data points. The chart has 3 significant trends.",
+      " The longest trend is slightly increasing which exists from 92 to 1.",
+      " Likewise, the next significant trend is extremely increasing which exists from 9 to 17.",
+      " Correspondingly, the next significant trend is extremely increasing which exists from 1 to 9."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "16",
+         "12": "25"
+      },
+      {
+         "3": "0",
+         "14": "8"
+      },
+      {
+         "3": "8",
+         "14": "16"
+      }
+   ],
+   "data": [
+      {
+         "Year": "17",
+         "Billion U.S. dollars": 258.74
+      },
+      {
+         "Year": "16",
+         "Billion U.S. dollars": 259.84
+      },
+      {
+         "Year": "15",
+         "Billion U.S. dollars": 255.8
+      },
+      {
+         "Year": "14",
+         "Billion U.S. dollars": 250.41
+      },
+      {
+         "Year": "13",
+         "Billion U.S. dollars": 244.72
+      },
+      {
+         "Year": "12",
+         "Billion U.S. dollars": 239.49
+      },
+      {
+         "Year": "11",
+         "Billion U.S. dollars": 228.61
+      },
+      {
+         "Year": "10",
+         "Billion U.S. dollars": 213.29
+      },
+      {
+         "Year": "9",
+         "Billion U.S. dollars": 204.48
+      },
+      {
+         "Year": "8",
+         "Billion U.S. dollars": 215.58
+      },
+      {
+         "Year": "7",
+         "Billion U.S. dollars": 221.21
+      },
+      {
+         "Year": "6",
+         "Billion U.S. dollars": 213.19
+      },
+      {
+         "Year": "5",
+         "Billion U.S. dollars": 200.97
+      },
+      {
+         "Year": "4",
+         "Billion U.S. dollars": 190.25
+      },
+      {
+         "Year": "3",
+         "Billion U.S. dollars": 178.69
+      },
+      {
+         "Year": "2",
+         "Billion U.S. dollars": 172.3
+      },
+      {
+         "Year": "1",
+         "Billion U.S. dollars": 167.29
+      },
+      {
+         "Year": "0",
+         "Billion U.S. dollars": 167.67
+      },
+      {
+         "Year": "99",
+         "Billion U.S. dollars": 159.75
+      },
+      {
+         "Year": "98",
+         "Billion U.S. dollars": 149.15
+      },
+      {
+         "Year": "97",
+         "Billion U.S. dollars": 140.29
+      },
+      {
+         "Year": "96",
+         "Billion U.S. dollars": 136.58
+      },
+      {
+         "Year": "95",
+         "Billion U.S. dollars": 131.33
+      },
+      {
+         "Year": "94",
+         "Billion U.S. dollars": 129.08
+      },
+      {
+         "Year": "93",
+         "Billion U.S. dollars": 124.75
+      },
+      {
+         "Year": "92",
+         "Billion U.S. dollars": 120.1
+      }
+   ]
+}

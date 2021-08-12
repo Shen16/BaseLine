@@ -1,0 +1,94 @@
+{
+   "title": "Test",
+   "xAxis": "Year",
+   "yAxis": "Consumption per resident in gallons",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Consumption per resident in gallons, with a total of 14 data points.",
+      " Overall Consumption per resident in gallons has increased over the Year.",
+      "Consumption per resident in gallons is slightly increasing from 2005 to 2007, roughly constant from 2007 to 2008, rapidly increasing from 2008 to 2012, roughly constant from 2012 to 2014, roughly increasing from 2014 to 2015, and lastly roughly constant from 2015 to 2018.",
+      "The steepest increase occurs in between the Year 2010 and 2011.",
+      "Max Consumption per resident in gallons about 2.95 was recorded at Year 2018",
+      "Min Consumption per resident in gallons about 2.32 was recorded at Year 2005",
+      "#########################################################################",
+      "This line chart has an x axis representing Year and a y axis representing Consumption per resident in gallons, with a total of 14 data points. The chart has 3 significant trends.",
+      " The longest trend is extremely increasing which exists from 2008 to 2014.",
+      " Similarly, the next significant trend is slightly increasing which exists from 2014 to 2018.",
+      " In a similar manner, the next significant trend is moderately increasing which exists from 2005 to 2008."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "4",
+         "12": "10"
+      },
+      {
+         "3": "0",
+         "14": "4"
+      },
+      {
+         "3": "10",
+         "14": "13"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Consumption per resident in gallons": 2.95
+      },
+      {
+         "Year": "2017",
+         "Consumption per resident in gallons": 2.94
+      },
+      {
+         "Year": "2016",
+         "Consumption per resident in gallons": 2.93
+      },
+      {
+         "Year": "2015",
+         "Consumption per resident in gallons": 2.86
+      },
+      {
+         "Year": "2014",
+         "Consumption per resident in gallons": 2.82
+      },
+      {
+         "Year": "2013",
+         "Consumption per resident in gallons": 2.83
+      },
+      {
+         "Year": "2012",
+         "Consumption per resident in gallons": 2.78
+      },
+      {
+         "Year": "2011",
+         "Consumption per resident in gallons": 2.72
+      },
+      {
+         "Year": "2010",
+         "Consumption per resident in gallons": 2.58
+      },
+      {
+         "Year": "2009",
+         "Consumption per resident in gallons": 2.54
+      },
+      {
+         "Year": "2008",
+         "Consumption per resident in gallons": 2.45
+      },
+      {
+         "Year": "2007",
+         "Consumption per resident in gallons": 2.47
+      },
+      {
+         "Year": "2006",
+         "Consumption per resident in gallons": 2.36
+      },
+      {
+         "Year": "2005",
+         "Consumption per resident in gallons": 2.32
+      }
+   ]
+}

@@ -1,0 +1,106 @@
+{
+   "title": "Test",
+   "labels": [
+      "Country",
+      "Passenger Cars",
+      "Commercial Vehicles",
+      "Total"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This grouped bar chart has 10 categories of Country on the x axis representing 3 groups: Passenger Cars, Commercial Vehicles, and Total.",
+      " Averaging these 3 groups, the highest category is found for Country Germany with a mean value of 4100559.33.",
+      " Followed by Spain with a mean value of 1951377.33.",
+      " The lowest category is observed at Romania that has a mean value of 243102.67",
+      " showing a difference of 177.6% with the maximum value.",
+      " In case of Germany, Passenger Cars shows more dominance than any other Country with a value 5645581.0 and it has the lowest value 364654.0 in Romania.  However, Total being the 2nd most important group, has the highest value 6150839.0 for Country Germany and the lowest 364654.0 in case of Romania. "
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "13": [
+            "3",
+            "0"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "14": [
+            "3",
+            "1"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Country": "Germany",
+         "Passenger Cars": "5645581",
+         "Commercial Vehicles": "505258",
+         "Total": "6150839"
+      },
+      {
+         "Country": "Spain",
+         "Passenger Cars": "2291492",
+         "Commercial Vehicles": "635574",
+         "Total": "2927066"
+      },
+      {
+         "Country": "France",
+         "Passenger Cars": "1674717",
+         "Commercial Vehicles": "601623",
+         "Total": "2276340"
+      },
+      {
+         "Country": "United Kingdom",
+         "Passenger Cars": "1671166",
+         "Commercial Vehicles": "73486",
+         "Total": "1744652"
+      },
+      {
+         "Country": "Czech Republic",
+         "Passenger Cars": "1413881",
+         "Commercial Vehicles": "6112",
+         "Total": "1419993"
+      },
+      {
+         "Country": "Italy",
+         "Passenger Cars": "742642",
+         "Commercial Vehicles": "342801",
+         "Total": "1085443"
+      },
+      {
+         "Country": "Slovakia",
+         "Passenger Cars": "949365",
+         "Commercial Vehicles": "0",
+         "Total": "949365"
+      },
+      {
+         "Country": "Poland",
+         "Passenger Cars": "514700",
+         "Commercial Vehicles": "175029",
+         "Total": "689729"
+      },
+      {
+         "Country": "Hungary",
+         "Passenger Cars": "472107",
+         "Commercial Vehicles": "0",
+         "Total": "472107"
+      },
+      {
+         "Country": "Romania",
+         "Passenger Cars": "364654",
+         "Commercial Vehicles": "0",
+         "Total": "364654"
+      }
+   ]
+}

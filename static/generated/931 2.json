@@ -1,0 +1,67 @@
+{
+   "title": "Test",
+   "xAxis": "Selected Cosmetics",
+   "yAxis": "Amount of category views in billions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 9 categories on the x axis representing Selected Cosmetics, and Amount of category views in billions in each Selected Cosmetics on the y axis.",
+      " The highest category is found at Beauty - overall where Amount of category views in billions is 219.0.",
+      " Followed by 156.0 in Cosmetics.",
+      " The lowest category is found at Nails where Amount of category views in billions is 4.0.",
+      " The highest value at Beauty - overall is almost 54.75 times larger than the minimum value of Nails. ",
+      " The highest value at Beauty - overall is almost 54.75 times larger than the minimum value of Nails. ",
+      " The difference between the max Selected Cosmetics Beauty - overall and min Selected Cosmetics Nails is 215.0. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 3,
+         "12": 3
+      },
+      {
+         "7": 8,
+         "12": 8
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Selected Cosmetics": "Personal care - overall",
+         "Amount of category views in billions": 28.0
+      },
+      {
+         "Selected Cosmetics": "Deodorant",
+         "Amount of category views in billions": 17.0
+      },
+      {
+         "Selected Cosmetics": "Body care",
+         "Amount of category views in billions": 16.0
+      },
+      {
+         "Selected Cosmetics": "Beauty - overall",
+         "Amount of category views in billions": 219.0
+      },
+      {
+         "Selected Cosmetics": "Cosmetics",
+         "Amount of category views in billions": 156.0
+      },
+      {
+         "Selected Cosmetics": "Hair",
+         "Amount of category views in billions": 87.0
+      },
+      {
+         "Selected Cosmetics": "Skincare",
+         "Amount of category views in billions": 73.0
+      },
+      {
+         "Selected Cosmetics": "Fragrance",
+         "Amount of category views in billions": 24.0
+      },
+      {
+         "Selected Cosmetics": "Nails",
+         "Amount of category views in billions": 4.0
+      }
+   ]
+}

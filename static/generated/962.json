@@ -1,0 +1,46 @@
+{
+   "title": "Test",
+   "xAxis": "Country",
+   "yAxis": "Consumer Price Index (100=1982-1984)",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 5 categories on the x axis representing Country, and Consumer Price Index (100=1982-1984) in each Country on the y axis.",
+      "West is higher than any other categories with value 270.35, followed by , and U.S. city average. Down to category Midwest with the lowest value of 237.78. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 4,
+         "12": 4
+      },
+      {
+         "7": 2,
+         "12": 2
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Country": "U.S. city average",
+         "Consumer Price Index (100=1982-1984)": 255.66
+      },
+      {
+         "Country": "Northeast",
+         "Consumer Price Index (100=1982-1984)": 269.39
+      },
+      {
+         "Country": "Midwest",
+         "Consumer Price Index (100=1982-1984)": 237.78
+      },
+      {
+         "Country": "South",
+         "Consumer Price Index (100=1982-1984)": 246.27
+      },
+      {
+         "Country": "West",
+         "Consumer Price Index (100=1982-1984)": 270.35
+      }
+   ]
+}

@@ -1,0 +1,57 @@
+{
+   "title": "Test",
+   "xAxis": "Average usual weekly hours",
+   "yAxis": "Number of employed person in thousands",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 7 categories on the x axis representing Average usual weekly hours, and Number of employed person in thousands in each Average usual weekly hours on the y axis.",
+      "40 hours is higher than any other categories with value 7282.5, followed by , and 15 to 29 hours. Down to category 41 to 49 hours with the lowest value of 1044.2. ",
+      " The highest value at 40 hours is almost 6.97 times larger than the minimum value of 41 to 49 hours. ",
+      " The highest value at 40 hours is almost 6.97 times larger than the minimum value of 41 to 49 hours. ",
+      " The difference between the max Average usual weekly hours 40 hours and min Average usual weekly hours 41 to 49 hours is 6238.3. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 4,
+         "12": 4
+      },
+      {
+         "7": 5,
+         "12": 5
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Average usual weekly hours": "1 to 14 hours",
+         "Number of employed person in thousands": 1151.0
+      },
+      {
+         "Average usual weekly hours": "15 to 29 hours",
+         "Number of employed person in thousands": 2459.6
+      },
+      {
+         "Average usual weekly hours": "30 to 34 hours",
+         "Number of employed person in thousands": 1469.2
+      },
+      {
+         "Average usual weekly hours": "35 to 39 hours",
+         "Number of employed person in thousands": 4287.8
+      },
+      {
+         "Average usual weekly hours": "40 hours",
+         "Number of employed person in thousands": 7282.5
+      },
+      {
+         "Average usual weekly hours": "41 to 49 hours",
+         "Number of employed person in thousands": 1044.2
+      },
+      {
+         "Average usual weekly hours": "50 hours or more",
+         "Number of employed person in thousands": 1361.3
+      }
+   ]
+}

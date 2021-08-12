@@ -1,0 +1,69 @@
+{
+   "title": "Test",
+   "xAxis": "Country",
+   "yAxis": "Number of children with autism per 10,000 children studied",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 10 categories on the x axis representing Country, and Number of children with autism per 10,000 children studied in each Country on the y axis.",
+      "United States is higher than any other categories with value 168.0, followed by Japan, and Canada. Down to category Portugal with the lowest value of 9.2. ",
+      " The highest value at United States is almost 18.26 times larger than the minimum value of Portugal. ",
+      " The highest value at United States is almost 18.26 times larger than the minimum value of Portugal. ",
+      " The difference between the max Country United States and min Country Portugal is 158.8. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 9,
+         "12": 9
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Country": "United States",
+         "Number of children with autism per 10,000 children studied": 168.0
+      },
+      {
+         "Country": "Japan",
+         "Number of children with autism per 10,000 children studied": 161.0
+      },
+      {
+         "Country": "Canada",
+         "Number of children with autism per 10,000 children studied": 152.0
+      },
+      {
+         "Country": "United Kingdom",
+         "Number of children with autism per 10,000 children studied": 100.0
+      },
+      {
+         "Country": "Ireland",
+         "Number of children with autism per 10,000 children studied": 100.0
+      },
+      {
+         "Country": "Denmark",
+         "Number of children with autism per 10,000 children studied": 69.0
+      },
+      {
+         "Country": "Australia",
+         "Number of children with autism per 10,000 children studied": 67.0
+      },
+      {
+         "Country": "Hong Kong (SAR of China)",
+         "Number of children with autism per 10,000 children studied": 49.0
+      },
+      {
+         "Country": "Brazil",
+         "Number of children with autism per 10,000 children studied": 27.0
+      },
+      {
+         "Country": "Portugal",
+         "Number of children with autism per 10,000 children studied": 9.2
+      }
+   ]
+}

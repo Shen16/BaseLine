@@ -1,0 +1,49 @@
+{
+   "title": "Test",
+   "xAxis": "Year",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Share of respondents, with a total of 4 data points.",
+      " Overall Share of respondents has increased over the Year.",
+      "Share of respondents is gradually increasing from 65+_years to 50-64_years, roughly constant from 50-64_years to 30-49_years, and lastly slightly increasing from 30-49_years to 18-29_years.",
+      "The steepest increase occurs in between the Year 30-49_years and 18-29_years.",
+      "Max Share of respondents about 22.0 was recorded at Year 18-29_years",
+      "Min Share of respondents about 3.0 was recorded at Year 65+_years",
+      "#########################################################################",
+      "This line chart has an x axis representing Year and a y axis representing Share of respondents, with a total of 4 data points. The chart has 2 significant trends.",
+      " The longest trend is extremely decreasing which exists from 65+_years to 30-49_years.",
+      " Differently, the next significant trend is slightly increasing which exists from 30-49_years to 18-29_years."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "1",
+         "12": "3"
+      },
+      {
+         "3": "0",
+         "14": "1"
+      }
+   ],
+   "data": [
+      {
+         "Year": "18-29 years",
+         "Share of respondents": 22.0
+      },
+      {
+         "Year": "30-49 years",
+         "Share of respondents": 11.0
+      },
+      {
+         "Year": "50-64 years",
+         "Share of respondents": 12.0
+      },
+      {
+         "Year": "65+ years",
+         "Share of respondents": 3.0
+      }
+   ]
+}

@@ -1,0 +1,53 @@
+{
+   "title": "Test",
+   "xAxis": "Year",
+   "yAxis": "Consumption in grams",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Consumption in grams, with a total of 5 data points.",
+      " Overall Consumption in grams has constant over the Year.",
+      "Consumption in grams is roughly constant from 65_years_and_over to 19-64_years, gradually increasing from 19-64_years to 4-10_years, and lastly roughly decreasing from 4-10_years to 1.5-3_years.",
+      "The steepest decrease occurs in between the Year 4-10_years and 1.5-3_years.",
+      "Max Consumption in grams about 13.0 was recorded at Year 4-10_years",
+      "Min Consumption in grams about 5.0 was recorded at Year 19-64_years",
+      "#########################################################################",
+      "This line chart has an x axis representing Year and a y axis representing Consumption in grams, with a total of 5 data points. The chart has 2 significant trends.",
+      " The longest trend is slightly increasing which exists from 65_years_and_over to 4-10_years.",
+      " Similarly, the next significant trend is extremely decreasing which exists from 4-10_years to 1.5-3_years."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "1",
+         "12": "4"
+      },
+      {
+         "3": "0",
+         "14": "1"
+      }
+   ],
+   "data": [
+      {
+         "Year": "1.5-3 years",
+         "Consumption in grams": 7.0
+      },
+      {
+         "Year": "4-10 years",
+         "Consumption in grams": 13.0
+      },
+      {
+         "Year": "11-18 years",
+         "Consumption in grams": 8.0
+      },
+      {
+         "Year": "19-64 years",
+         "Consumption in grams": 5.0
+      },
+      {
+         "Year": "65 years and over",
+         "Consumption in grams": 7.0
+      }
+   ]
+}

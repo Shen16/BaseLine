@@ -1,0 +1,62 @@
+{
+   "title": "Test",
+   "xAxis": "Year",
+   "yAxis": "Domestic sponsorship revenue in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Domestic sponsorship revenue in million U.S. dollars, with a total of 6 data points.",
+      " Overall Domestic sponsorship revenue in million U.S. dollars has increased over the Year.",
+      "Domestic sponsorship revenue in million U.S. dollars is roughly constant from 1996_Atlanta to 2004_Athens, gradually increasing from 2004_Athens to 2008_Beijing, and lastly roughly constant from 2008_Beijing to 2016_Rio.",
+      "The steepest increase occurs in between the Year 2004_Athens and 2008_Beijing.",
+      "Max Domestic sponsorship revenue in million U.S. dollars about 1218.0 was recorded at Year 2008_Beijing",
+      "Min Domestic sponsorship revenue in million U.S. dollars about 302.0 was recorded at Year 2004_Athens",
+      "#########################################################################",
+      "This line chart has an x axis representing Year and a y axis representing Domestic sponsorship revenue in million U.S. dollars, with a total of 6 data points. The chart has 3 significant trends.",
+      " The longest trend is slightly decreasing which exists from 2008_Beijing to 2016_Rio.",
+      " Differently, the next significant trend is slightly decreasing which exists from 1996_Atlanta to 2004_Athens.",
+      " Contrarily, the next significant trend is extremely increasing which exists from 2004_Athens to 2008_Beijing."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "0",
+         "12": "2"
+      },
+      {
+         "3": "3",
+         "14": "5"
+      },
+      {
+         "3": "2",
+         "14": "3"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2016 Rio",
+         "Domestic sponsorship revenue in million U.S. dollars": 848.0
+      },
+      {
+         "Year": "2012 London",
+         "Domestic sponsorship revenue in million U.S. dollars": 1150.0
+      },
+      {
+         "Year": "2008 Beijing",
+         "Domestic sponsorship revenue in million U.S. dollars": 1218.0
+      },
+      {
+         "Year": "2004 Athens",
+         "Domestic sponsorship revenue in million U.S. dollars": 302.0
+      },
+      {
+         "Year": "2000 Sydney",
+         "Domestic sponsorship revenue in million U.S. dollars": 492.0
+      },
+      {
+         "Year": "1996 Atlanta",
+         "Domestic sponsorship revenue in million U.S. dollars": 426.0
+      }
+   ]
+}

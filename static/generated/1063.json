@@ -1,0 +1,104 @@
+{
+   "title": "Test",
+   "xAxis": "Year",
+   "yAxis": "Number of employees in thousands",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Number of employees in thousands, with a total of 14 data points.",
+      " Overall Number of employees in thousands has decreased over the Year.",
+      "Number of employees in thousands is roughly constant from 2005 to 2008, slightly decreasing from 2008 to 2010, roughly constant from 2010 to 2014, slightly increasing from 2014 to 2015, slightly decreasing from 2015 to 2016, slightly increasing from 2016 to 2017, and lastly slightly decreasing from 2017 to 2018.",
+      "The steepest decrease occurs in between the Year 2015 and 2016.",
+      "Max Number of employees in thousands about 333.0 was recorded at Year 2015",
+      "Min Number of employees in thousands about 283.0 was recorded at Year 2018",
+      "#########################################################################",
+      "This line chart has an x axis representing Year and a y axis representing Number of employees in thousands, with a total of 14 data points. The chart has 5 significant trends.",
+      " The longest trend is extremely increasing which exists from 2010 to 2014.",
+      " In a similar manner, the next significant trend is slightly decreasing which exists from 2007 to 2010.",
+      " But, the next significant trend is moderately increasing which exists from 2016 to 2018.",
+      " Additionally, the next significant trend is moderately increasing which exists from 2014 to 2016.",
+      " In a similar manner, the next significant trend is extremely increasing which exists from 2005 to 2007."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "4",
+         "12": "8"
+      },
+      {
+         "3": "8",
+         "14": "11"
+      },
+      {
+         "3": "0",
+         "14": "2"
+      },
+      {
+         "3": "2",
+         "14": "4"
+      },
+      {
+         "3": "11",
+         "14": "13"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Number of employees in thousands": 283.0
+      },
+      {
+         "Year": "2017",
+         "Number of employees in thousands": 313.0
+      },
+      {
+         "Year": "2016",
+         "Number of employees in thousands": 295.0
+      },
+      {
+         "Year": "2015",
+         "Number of employees in thousands": 333.0
+      },
+      {
+         "Year": "2014",
+         "Number of employees in thousands": 305.0
+      },
+      {
+         "Year": "2013",
+         "Number of employees in thousands": 307.0
+      },
+      {
+         "Year": "2012",
+         "Number of employees in thousands": 305.0
+      },
+      {
+         "Year": "2011",
+         "Number of employees in thousands": 301.0
+      },
+      {
+         "Year": "2010",
+         "Number of employees in thousands": 287.0
+      },
+      {
+         "Year": "2009",
+         "Number of employees in thousands": 304.0
+      },
+      {
+         "Year": "2008",
+         "Number of employees in thousands": 323.0
+      },
+      {
+         "Year": "2007",
+         "Number of employees in thousands": 327.0
+      },
+      {
+         "Year": "2006",
+         "Number of employees in thousands": 319.0
+      },
+      {
+         "Year": "2005",
+         "Number of employees in thousands": 316.0
+      }
+   ]
+}

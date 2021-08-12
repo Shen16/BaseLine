@@ -1,0 +1,73 @@
+{
+   "title": "Test",
+   "xAxis": "Youtube Categories",
+   "yAxis": "Share of views",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 11 categories on the x axis representing Youtube Categories, and Share of views in each Youtube Categories on the y axis.",
+      "Beauty and style is higher than any other categories with value 62.0, followed by Other, and Health and fitness. Down to category Food and drink with the lowest value of 1.0. ",
+      " The highest value at Beauty and style is almost 62.0 times larger than the minimum value of Food and drink. ",
+      " The highest value at Beauty and style is almost 62.0 times larger than the minimum value of Food and drink. ",
+      " The difference between the max Youtube Categories Beauty and style and min Youtube Categories Food and drink is 61.0. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 9,
+         "12": 9
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Youtube Categories": "Beauty and style",
+         "Share of views": 62.0
+      },
+      {
+         "Youtube Categories": "Health and fitness",
+         "Share of views": 6.0
+      },
+      {
+         "Youtube Categories": "Music",
+         "Share of views": 5.0
+      },
+      {
+         "Youtube Categories": "Shopping",
+         "Share of views": 4.0
+      },
+      {
+         "Youtube Categories": "Movies and tv",
+         "Share of views": 4.0
+      },
+      {
+         "Youtube Categories": "People",
+         "Share of views": 4.0
+      },
+      {
+         "Youtube Categories": "Gaming",
+         "Share of views": 3.0
+      },
+      {
+         "Youtube Categories": "Education and reference",
+         "Share of views": 2.0
+      },
+      {
+         "Youtube Categories": "Hobbies",
+         "Share of views": 2.0
+      },
+      {
+         "Youtube Categories": "Food and drink",
+         "Share of views": 1.0
+      },
+      {
+         "Youtube Categories": "Other",
+         "Share of views": 7.0
+      }
+   ]
+}

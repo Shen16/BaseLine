@@ -1,0 +1,59 @@
+{
+   "title": "Test",
+   "xAxis": "Youtube Category",
+   "yAxis": "Average length in minutes",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 7 categories on the x axis representing Youtube Category, and Average length in minutes in each Youtube Category on the y axis.",
+      " The highest category is found at Gaming where Average length in minutes is 24.7.",
+      " Followed by 24.7 in .",
+      " The lowest category is found at Music where Average length in minutes is 6.8.",
+      " The highest value at Gaming is almost 3.63 times larger than the minimum value of Music. ",
+      " The highest value at Gaming is almost 3.63 times larger than the minimum value of Music. ",
+      " The difference between the max Youtube Category Gaming and min Youtube Category Music is 17.9. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 6,
+         "12": 6
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Youtube Category": "Gaming",
+         "Average length in minutes": 24.7
+      },
+      {
+         "Youtube Category": "Film and animation",
+         "Average length in minutes": 19.2
+      },
+      {
+         "Youtube Category": "Entertainment",
+         "Average length in minutes": 12.9
+      },
+      {
+         "Youtube Category": "Total",
+         "Average length in minutes": 11.7
+      },
+      {
+         "Youtube Category": "Other",
+         "Average length in minutes": 9.5
+      },
+      {
+         "Youtube Category": "People and blogs",
+         "Average length in minutes": 8.4
+      },
+      {
+         "Youtube Category": "Music",
+         "Average length in minutes": 6.8
+      }
+   ]
+}

@@ -1,0 +1,62 @@
+{
+   "title": "Test",
+   "xAxis": "Year",
+   "yAxis": "Total number of homicides",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Total number of homicides, with a total of 6 data points.",
+      " Overall Total number of homicides has increased over the Year.",
+      "Total number of homicides is roughly increasing from 2007 to 2009, roughly constant from 2009 to 2011, and lastly slightly increasing from 2011 to 2012.",
+      "The steepest increase occurs in between the Year 2011 and 2012.",
+      "Max Total number of homicides about 2363.0 was recorded at Year 2012",
+      "Min Total number of homicides about 1659.0 was recorded at Year 2008",
+      "#########################################################################",
+      "This line chart has an x axis representing Year and a y axis representing Total number of homicides, with a total of 6 data points. The chart has 3 significant trends.",
+      " The longest trend is slightly decreasing which exists from 2009 to 2011.",
+      " But, the next significant trend is moderately increasing which exists from 2007 to 2009.",
+      " Additionally, the next significant trend is extremely increasing which exists from 2011 to 2012."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "1",
+         "12": "3"
+      },
+      {
+         "3": "3",
+         "14": "5"
+      },
+      {
+         "3": "0",
+         "14": "1"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2012",
+         "Total number of homicides": 2363.0
+      },
+      {
+         "Year": "2011",
+         "Total number of homicides": 1824.0
+      },
+      {
+         "Year": "2010",
+         "Total number of homicides": 2020.0
+      },
+      {
+         "Year": "2009",
+         "Total number of homicides": 2083.0
+      },
+      {
+         "Year": "2008",
+         "Total number of homicides": 1659.0
+      },
+      {
+         "Year": "2007",
+         "Total number of homicides": 1975.0
+      }
+   ]
+}

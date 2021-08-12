@@ -1,0 +1,65 @@
+{
+   "title": "Test",
+   "xAxis": "Spending Type",
+   "yAxis": "Spending in U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 9 categories on the x axis representing Spending Type, and Spending in U.S. dollars in each Spending Type on the y axis.",
+      "Housing is higher than any other categories with value 20091.0, followed by , and Food. Down to category Apparel and services with the lowest value of 1866.0. ",
+      " The highest value at Housing is almost 10.77 times larger than the minimum value of Apparel and services. ",
+      " The highest value at Housing is almost 10.77 times larger than the minimum value of Apparel and services. ",
+      " The difference between the max Spending Type Housing and min Spending Type Apparel and services is 18225.0. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 8,
+         "12": 8
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Spending Type": "Housing",
+         "Spending in U.S. dollars": 20091.0
+      },
+      {
+         "Spending Type": "Transportation",
+         "Spending in U.S. dollars": 9761.0
+      },
+      {
+         "Spending Type": "Food",
+         "Spending in U.S. dollars": 7923.0
+      },
+      {
+         "Spending Type": "Personal insurance and pensions",
+         "Spending in U.S. dollars": 7296.0
+      },
+      {
+         "Spending Type": "Healthcare",
+         "Spending in U.S. dollars": 4968.0
+      },
+      {
+         "Spending Type": "Entertainment",
+         "Spending in U.S. dollars": 3226.0
+      },
+      {
+         "Spending Type": "All other expenditures",
+         "Spending in U.S. dollars": 2030.0
+      },
+      {
+         "Spending Type": "Cash contributions",
+         "Spending in U.S. dollars": 1888.0
+      },
+      {
+         "Spending Type": "Apparel and services",
+         "Spending in U.S. dollars": 1866.0
+      }
+   ]
+}

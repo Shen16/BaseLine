@@ -1,0 +1,113 @@
+{
+   "title": "Test",
+   "xAxis": "Year",
+   "yAxis": "Number of shutdowns",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Number of shutdowns, with a total of 15 data points.",
+      " Overall Number of shutdowns has increased over the Year.",
+      "Number of shutdowns is slightly increasing from 2005 to 2006, roughly constant from 2006 to 2010, rapidly increasing from 2010 to 2011, roughly constant from 2011 to 2014, slightly increasing from 2014 to 2015, and lastly roughly constant from 2015 to 2019.",
+      "The steepest increase occurs in between the Year 2010 and 2011.",
+      "Max Number of shutdowns about 13.0 was recorded at Year 2011",
+      "Min Number of shutdowns about 1.0 was recorded at Year 2007,  2010, and 2014",
+      "#########################################################################",
+      "This line chart has an x axis representing Year and a y axis representing Number of shutdowns, with a total of 15 data points. The chart has 6 significant trends.",
+      " The longest trend is moderately increasing which exists from 2016 to 2019.",
+      " Likewise, the next significant trend is moderately increasing which exists from 2007 to 2010.",
+      " In a similar manner, the next significant trend is extremely increasing which exists from 2014 to 2016.",
+      " Also, the next significant trend is slightly increasing which exists from 2012 to 2014.",
+      " Additionally, the next significant trend is extremely increasing which exists from 2010 to 2012.",
+      " Correspondingly, the next significant trend is slightly decreasing which exists from 2005 to 2007."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "0",
+         "12": "3"
+      },
+      {
+         "3": "9",
+         "14": "12"
+      },
+      {
+         "3": "3",
+         "14": "5"
+      },
+      {
+         "3": "5",
+         "14": "7"
+      },
+      {
+         "3": "7",
+         "14": "9"
+      },
+      {
+         "3": "12",
+         "14": "14"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Number of shutdowns": 3.0
+      },
+      {
+         "Year": "2018",
+         "Number of shutdowns": 7.0
+      },
+      {
+         "Year": "2017",
+         "Number of shutdowns": 5.0
+      },
+      {
+         "Year": "2016",
+         "Number of shutdowns": 4.0
+      },
+      {
+         "Year": "2015",
+         "Number of shutdowns": 7.0
+      },
+      {
+         "Year": "2014",
+         "Number of shutdowns": 1.0
+      },
+      {
+         "Year": "2013",
+         "Number of shutdowns": 6.0
+      },
+      {
+         "Year": "2012",
+         "Number of shutdowns": 3.0
+      },
+      {
+         "Year": "2011",
+         "Number of shutdowns": 13.0
+      },
+      {
+         "Year": "2010",
+         "Number of shutdowns": 1.0
+      },
+      {
+         "Year": "2009",
+         "Number of shutdowns": 3.0
+      },
+      {
+         "Year": "2008",
+         "Number of shutdowns": 2.0
+      },
+      {
+         "Year": "2007",
+         "Number of shutdowns": 1.0
+      },
+      {
+         "Year": "2006",
+         "Number of shutdowns": 8.0
+      },
+      {
+         "Year": "2005",
+         "Number of shutdowns": 2.0
+      }
+   ]
+}

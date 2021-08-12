@@ -1,0 +1,73 @@
+{
+   "title": "Test",
+   "xAxis": "Cyber Incidents",
+   "yAxis": "Number of complaints",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 11 categories on the x axis representing Cyber Incidents, and Number of complaints in each Cyber Incidents on the y axis.",
+      "Non-payment/Non-delivery is higher than any other categories with value 65116.0, followed by , and Personal data breach. Down to category Spoofing with the lowest value of 15569.0. ",
+      " The highest value at Non-payment/Non-delivery is almost 4.18 times larger than the minimum value of Spoofing. ",
+      " The highest value at Non-payment/Non-delivery is almost 4.18 times larger than the minimum value of Spoofing. ",
+      " The difference between the max Cyber Incidents Non-payment/Non-delivery and min Cyber Incidents Spoofing is 49547.0. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 10,
+         "12": 10
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Cyber Incidents": "Non-payment/Non-delivery",
+         "Number of complaints": 65116.0
+      },
+      {
+         "Cyber Incidents": "Extortion",
+         "Number of complaints": 51146.0
+      },
+      {
+         "Cyber Incidents": "Personal data breach",
+         "Number of complaints": 50642.0
+      },
+      {
+         "Cyber Incidents": "No lead value",
+         "Number of complaints": 36936.0
+      },
+      {
+         "Cyber Incidents": "Phishing/Vishing/Smishing/Pharming",
+         "Number of complaints": 26379.0
+      },
+      {
+         "Cyber Incidents": "BEC/EAC",
+         "Number of complaints": 20373.0
+      },
+      {
+         "Cyber Incidents": "Confidence fraud/romance",
+         "Number of complaints": 18493.0
+      },
+      {
+         "Cyber Incidents": "Harassment/threats of violence",
+         "Number of complaints": 18415.0
+      },
+      {
+         "Cyber Incidents": "Advance fee",
+         "Number of complaints": 16362.0
+      },
+      {
+         "Cyber Incidents": "Identity theft",
+         "Number of complaints": 16128.0
+      },
+      {
+         "Cyber Incidents": "Spoofing",
+         "Number of complaints": 15569.0
+      }
+   ]
+}

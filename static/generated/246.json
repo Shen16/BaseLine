@@ -1,0 +1,65 @@
+{
+   "title": "Test",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 9 categories on the x axis representing Response, and Share of respondents in each Response on the y axis.",
+      "Using the internet for social or personal interests is higher than any other categories with value 51.0, followed by , and Reading newspapers (either printed or online). Down to category Listening to the radio (any format/device) with the lowest value of 12.0. ",
+      " The highest value at Using the internet for social or personal interests is almost 4.25 times larger than the minimum value of Listening to the radio (any format/device). ",
+      " The highest value at Using the internet for social or personal interests is almost 4.25 times larger than the minimum value of Listening to the radio (any format/device). ",
+      " The difference between the max Response Using the internet for social or personal interests and min Response Listening to the radio (any format/device) is 39.0. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 8,
+         "12": 8
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Response": "Using the internet for social or personal interests",
+         "Share of respondents": 51.0
+      },
+      {
+         "Response": "Watching television (any device)",
+         "Share of respondents": 51.0
+      },
+      {
+         "Response": "Reading newspapers (either printed or online)",
+         "Share of respondents": 46.0
+      },
+      {
+         "Response": "Listening to music (using any device)",
+         "Share of respondents": 37.0
+      },
+      {
+         "Response": "Reading books (either physical books or via an e-book reader/online)",
+         "Share of respondents": 26.0
+      },
+      {
+         "Response": "Reading magazines (either printed or online)",
+         "Share of respondents": 26.0
+      },
+      {
+         "Response": "Going to the movies",
+         "Share of respondents": 24.0
+      },
+      {
+         "Response": "Playing videogames (handhelds PC console mobile/cellular/smartphone online)",
+         "Share of respondents": 14.0
+      },
+      {
+         "Response": "Listening to the radio (any format/device)",
+         "Share of respondents": 12.0
+      }
+   ]
+}

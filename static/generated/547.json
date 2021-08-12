@@ -1,0 +1,71 @@
+{
+   "title": "Test",
+   "xAxis": "State",
+   "yAxis": "Number of specialist physicians",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 10 categories on the x axis representing State, and Number of specialist physicians in each State on the y axis.",
+      " The highest category is found at California where Number of specialist physicians is 112906.0.",
+      " Followed by 112906.0 in .",
+      " The lowest category is found at New Jersey where Number of specialist physicians is 30502.0.",
+      " The highest value at California is almost 3.7 times larger than the minimum value of New Jersey. ",
+      " The highest value at California is almost 3.7 times larger than the minimum value of New Jersey. ",
+      " The difference between the max State California and min State New Jersey is 82404.0. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 9,
+         "12": 9
+      },
+      {}
+   ],
+   "data": [
+      {
+         "State": "California",
+         "Number of specialist physicians": 112906.0
+      },
+      {
+         "State": "New York",
+         "Number of specialist physicians": 89500.0
+      },
+      {
+         "State": "Texas",
+         "Number of specialist physicians": 64602.0
+      },
+      {
+         "State": "Florida",
+         "Number of specialist physicians": 56499.0
+      },
+      {
+         "State": "Pennsylvania",
+         "Number of specialist physicians": 51069.0
+      },
+      {
+         "State": "Illinois",
+         "Number of specialist physicians": 43377.0
+      },
+      {
+         "State": "Ohio",
+         "Number of specialist physicians": 42373.0
+      },
+      {
+         "State": "Michigan",
+         "Number of specialist physicians": 38819.0
+      },
+      {
+         "State": "Massachusetts",
+         "Number of specialist physicians": 36506.0
+      },
+      {
+         "State": "New Jersey",
+         "Number of specialist physicians": 30502.0
+      }
+   ]
+}

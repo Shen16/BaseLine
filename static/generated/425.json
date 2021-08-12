@@ -1,0 +1,69 @@
+{
+   "title": "Test",
+   "xAxis": "Player",
+   "yAxis": "Brand value in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 10 categories on the x axis representing Player, and Brand value in million U.S. dollars in each Player on the y axis.",
+      "Roger Federer is higher than any other categories with value 37.2, followed by , and Usain Bolt. Down to category Stephen Curry with the lowest value of 13.4. ",
+      " The highest value at Roger Federer is almost 2.78 times larger than the minimum value of Stephen Curry. ",
+      " The highest value at Roger Federer is almost 2.78 times larger than the minimum value of Stephen Curry. ",
+      " The difference between the max Player Roger Federer and min Player Stephen Curry is 23.800000000000004. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 9,
+         "12": 9
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Player": "Roger Federer",
+         "Brand value in million U.S. dollars": 37.2
+      },
+      {
+         "Player": "LeBron James",
+         "Brand value in million U.S. dollars": 33.4
+      },
+      {
+         "Player": "Usain Bolt",
+         "Brand value in million U.S. dollars": 27.0
+      },
+      {
+         "Player": "Cristiano Ronaldo",
+         "Brand value in million U.S. dollars": 21.5
+      },
+      {
+         "Player": "Phil Mickelson",
+         "Brand value in million U.S. dollars": 19.6
+      },
+      {
+         "Player": "Tiger Woods",
+         "Brand value in million U.S. dollars": 16.6
+      },
+      {
+         "Player": "Virat Kohli",
+         "Brand value in million U.S. dollars": 14.5
+      },
+      {
+         "Player": "Rory Mcllroy",
+         "Brand value in million U.S. dollars": 13.6
+      },
+      {
+         "Player": "Lionel Messi",
+         "Brand value in million U.S. dollars": 13.5
+      },
+      {
+         "Player": "Stephen Curry",
+         "Brand value in million U.S. dollars": 13.4
+      }
+   ]
+}

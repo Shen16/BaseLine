@@ -1,0 +1,71 @@
+{
+   "title": "Test",
+   "xAxis": "Month",
+   "yAxis": "Wealth in billion U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 10 categories on the x axis representing Month, and Wealth in billion U.S. dollars in each Month on the y axis.",
+      " The highest category is found at Leonardo Del Vecchio where Wealth in billion U.S. dollars is 24.4.",
+      " Followed by 24.4 in .",
+      " The lowest category is found at Ennio Doris where Wealth in billion U.S. dollars is 3.3.",
+      " The highest value at Leonardo Del Vecchio is almost 7.39 times larger than the minimum value of Ennio Doris. ",
+      " The highest value at Leonardo Del Vecchio is almost 7.39 times larger than the minimum value of Ennio Doris. ",
+      " The difference between the max Month Leonardo Del Vecchio and min Month Ennio Doris is 21.099999999999998. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 9,
+         "12": 9
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Month": "Leonardo Del Vecchio",
+         "Wealth in billion U.S. dollars": 24.4
+      },
+      {
+         "Month": "Giovanni Ferrero",
+         "Wealth in billion U.S. dollars": 21.9
+      },
+      {
+         "Month": "Giorgio Armani",
+         "Wealth in billion U.S. dollars": 11.2
+      },
+      {
+         "Month": "Stefano Pessina",
+         "Wealth in billion U.S. dollars": 10.4
+      },
+      {
+         "Month": "Massimiliana Landini Aleotti",
+         "Wealth in billion U.S. dollars": 8.1
+      },
+      {
+         "Month": "Silvio Berlusconi",
+         "Wealth in billion U.S. dollars": 7.0
+      },
+      {
+         "Month": "Augusto e Giorgio Perfetti",
+         "Wealth in billion U.S. dollars": 6.9
+      },
+      {
+         "Month": "Paolo and Gianfelice Rocca",
+         "Wealth in billion U.S. dollars": 3.7
+      },
+      {
+         "Month": "Piero Ferrari",
+         "Wealth in billion U.S. dollars": 3.4
+      },
+      {
+         "Month": "Ennio Doris",
+         "Wealth in billion U.S. dollars": 3.3
+      }
+   ]
+}

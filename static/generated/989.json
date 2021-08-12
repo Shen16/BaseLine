@@ -1,0 +1,69 @@
+{
+   "title": "Test",
+   "xAxis": "DNS names",
+   "yAxis": "Share of global TLD",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 10 categories on the x axis representing DNS names, and Share of global TLD in each DNS names on the y axis.",
+      ".com is higher than any other categories with value 48.0, followed by , and .org. Down to category .au with the lowest value of 1.3. ",
+      " The highest value at .com is almost 36.92 times larger than the minimum value of .au. ",
+      " The highest value at .com is almost 36.92 times larger than the minimum value of .au. ",
+      " The difference between the max DNS names .com and min DNS names .au is 46.7. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 8,
+         "12": 8
+      },
+      {}
+   ],
+   "data": [
+      {
+         "DNS names": ".com",
+         "Share of global TLD": 48.0
+      },
+      {
+         "DNS names": ".ru",
+         "Share of global TLD": 5.2
+      },
+      {
+         "DNS names": ".org",
+         "Share of global TLD": 4.9
+      },
+      {
+         "DNS names": ".net",
+         "Share of global TLD": 3.5
+      },
+      {
+         "DNS names": ".de",
+         "Share of global TLD": 2.7
+      },
+      {
+         "DNS names": ".br",
+         "Share of global TLD": 1.9
+      },
+      {
+         "DNS names": ".uk",
+         "Share of global TLD": 1.8
+      },
+      {
+         "DNS names": ".in",
+         "Share of global TLD": 1.5
+      },
+      {
+         "DNS names": ".au",
+         "Share of global TLD": 1.3
+      },
+      {
+         "DNS names": ".jp",
+         "Share of global TLD": 1.3
+      }
+   ]
+}

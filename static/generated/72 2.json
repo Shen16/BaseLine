@@ -1,0 +1,71 @@
+{
+   "title": "Test",
+   "xAxis": "Company Name",
+   "yAxis": "Market capitalization in million euros",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 10 categories on the x axis representing Company Name, and Market capitalization in million euros in each Company Name on the y axis.",
+      " The highest category is found at Intesa Sanpaolo where Market capitalization in million euros is 38043.87.",
+      " Followed by 24228.42 in UniCredit.",
+      " The lowest category is found at Banca Popolare di Sondrio where Market capitalization in million euros is 761.8.",
+      " The highest value at Intesa Sanpaolo is almost 49.94 times larger than the minimum value of Banca Popolare di Sondrio. ",
+      " The highest value at Intesa Sanpaolo is almost 49.94 times larger than the minimum value of Banca Popolare di Sondrio. ",
+      " The difference between the max Company Name Intesa Sanpaolo and min Company Name Banca Popolare di Sondrio is 37282.07. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 9,
+         "12": 9
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Company Name": "Intesa Sanpaolo",
+         "Market capitalization in million euros": 38043.87
+      },
+      {
+         "Company Name": "UniCredit",
+         "Market capitalization in million euros": 24228.42
+      },
+      {
+         "Company Name": "Mediobanca",
+         "Market capitalization in million euros": 8863.88
+      },
+      {
+         "Company Name": "Fineco Bank",
+         "Market capitalization in million euros": 5902.19
+      },
+      {
+         "Company Name": "UBI Banca",
+         "Market capitalization in million euros": 2947.23
+      },
+      {
+         "Company Name": "Banco BPM",
+         "Market capitalization in million euros": 2842.07
+      },
+      {
+         "Company Name": "BPER Banca",
+         "Market capitalization in million euros": 1935.76
+      },
+      {
+         "Company Name": "Banca Monte dei Paschi di Siena",
+         "Market capitalization in million euros": 1737.76
+      },
+      {
+         "Company Name": "Credito Emiliano",
+         "Market capitalization in million euros": 1640.93
+      },
+      {
+         "Company Name": "Banca Popolare di Sondrio",
+         "Market capitalization in million euros": 761.8
+      }
+   ]
+}

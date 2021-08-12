@@ -1,0 +1,74 @@
+{
+   "title": "Test",
+   "labels": [
+      "Race",
+      "2019",
+      "2020"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This grouped bar chart has 6 categories of Race on the x axis representing 2 groups: 2019, and 2020.",
+      " Averaging these 2 groups, the highest category is found for Race Smartphone with a mean value of 35.5.",
+      " The lowest category is observed at Other that has a mean value of 3.0",
+      " showing a difference of 168.8% with the maximum value.",
+      " In case of Smartphone, 2019 shows more dominance than any other Race with a value 35.0 and it has the lowest value 3.0 in Other. "
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "13": [
+            "2",
+            "0"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "14": [
+            "2",
+            "1"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Race": "Smartphone",
+         "2019": "35",
+         "2020": "36"
+      },
+      {
+         "Race": "SSD (client enterprise)",
+         "2019": "28",
+         "2020": "30"
+      },
+      {
+         "Race": "Memory card",
+         "2019": "15",
+         "2020": "13"
+      },
+      {
+         "Race": "Tablet PC",
+         "2019": "12",
+         "2020": "11"
+      },
+      {
+         "Race": "Consumer",
+         "2019": "7",
+         "2020": "7"
+      },
+      {
+         "Race": "Other",
+         "2019": "3",
+         "2020": "3"
+      }
+   ]
+}

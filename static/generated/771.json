@@ -1,0 +1,41 @@
+{
+   "title": "Test",
+   "xAxis": "Gender",
+   "yAxis": "Total population",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 3 categories on the x axis representing Gender, and Total population in each Gender on the y axis.",
+      "",
+      " The highest value at Total is almost 2.06 times larger than the minimum value of Males. ",
+      " The highest value at Total is almost 2.06 times larger than the minimum value of Males. ",
+      " The difference between the max Gender Total and min Gender Males is 5559538.0. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 2,
+         "12": 2
+      },
+      {
+         "7": 1,
+         "12": 1
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Gender": "Females",
+         "Total population": 5559538.0
+      },
+      {
+         "Gender": "Males",
+         "Total population": 5224210.0
+      },
+      {
+         "Gender": "Total",
+         "Total population": 10783748.0
+      }
+   ]
+}

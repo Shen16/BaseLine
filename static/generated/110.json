@@ -1,0 +1,81 @@
+{
+   "title": "Test",
+   "xAxis": "Quarter",
+   "yAxis": "Revenue in billion yen",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 13 categories on the x axis representing Quarter, and Revenue in billion yen in each Quarter on the y axis.",
+      "Q4 '15 is higher than any other categories with value 30.0, followed by , and Q1 '15. Down to category Q4 '12 with the lowest value of 2.2. ",
+      " The highest value at Q4 '15 is almost 13.64 times larger than the minimum value of Q4 '12. ",
+      " The highest value at Q4 '15 is almost 13.64 times larger than the minimum value of Q4 '12. ",
+      " The difference between the max Quarter Q4 '15 and min Quarter Q4 '12 is 27.8. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 12,
+         "12": 12
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Quarter": "Q4 '15",
+         "Revenue in billion yen": 30.0
+      },
+      {
+         "Quarter": "Q3 '15",
+         "Revenue in billion yen": 29.9
+      },
+      {
+         "Quarter": "Q2 '15",
+         "Revenue in billion yen": 25.3
+      },
+      {
+         "Quarter": "Q1 '15",
+         "Revenue in billion yen": 25.4
+      },
+      {
+         "Quarter": "Q4 '14",
+         "Revenue in billion yen": 23.6
+      },
+      {
+         "Quarter": "Q3 '14",
+         "Revenue in billion yen": 20.9
+      },
+      {
+         "Quarter": "Q2 '14",
+         "Revenue in billion yen": 17.7
+      },
+      {
+         "Quarter": "Q1 '14",
+         "Revenue in billion yen": 14.6
+      },
+      {
+         "Quarter": "Q4 '13",
+         "Revenue in billion yen": 12.2
+      },
+      {
+         "Quarter": "Q3 '13",
+         "Revenue in billion yen": 10.2
+      },
+      {
+         "Quarter": "Q2 '13",
+         "Revenue in billion yen": 7.4
+      },
+      {
+         "Quarter": "Q1 '13",
+         "Revenue in billion yen": 4.5
+      },
+      {
+         "Quarter": "Q4 '12",
+         "Revenue in billion yen": 2.2
+      }
+   ]
+}

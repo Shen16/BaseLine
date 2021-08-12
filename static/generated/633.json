@@ -1,0 +1,61 @@
+{
+   "title": "Test",
+   "xAxis": "Breakdown of Project",
+   "yAxis": "Costs in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 8 categories on the x axis representing Breakdown of Project, and Costs in million U.S. dollars in each Breakdown of Project on the y axis.",
+      "Stadium construction & renovation is higher than any other categories with value 3600.0, followed by , and Upgrades at airports. Down to category Tourism infrastructure projects with the lowest value of 76.0. ",
+      " The highest value at Stadium construction & renovation is almost 47.37 times larger than the minimum value of Tourism infrastructure projects. ",
+      " The highest value at Stadium construction & renovation is almost 47.37 times larger than the minimum value of Tourism infrastructure projects. ",
+      " The difference between the max Breakdown of Project Stadium construction & renovation and min Breakdown of Project Tourism infrastructure projects is 3524.0. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 7,
+         "12": 7
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Breakdown of Project": "Stadium construction & renovation",
+         "Costs in million U.S. dollars": 3600.0
+      },
+      {
+         "Breakdown of Project": "Urban mobility projects",
+         "Costs in million U.S. dollars": 3400.0
+      },
+      {
+         "Breakdown of Project": "Upgrades at airports",
+         "Costs in million U.S. dollars": 2600.0
+      },
+      {
+         "Breakdown of Project": "Public security & military defence forces",
+         "Costs in million U.S. dollars": 797.0
+      },
+      {
+         "Breakdown of Project": "Port infrastructure",
+         "Costs in million U.S. dollars": 249.0
+      },
+      {
+         "Breakdown of Project": "Telecommunications networks & services",
+         "Costs in million U.S. dollars": 171.0
+      },
+      {
+         "Breakdown of Project": "Complementary work for Confederations Cup",
+         "Costs in million U.S. dollars": 88.0
+      },
+      {
+         "Breakdown of Project": "Tourism infrastructure projects",
+         "Costs in million U.S. dollars": 76.0
+      }
+   ]
+}

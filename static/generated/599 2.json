@@ -1,0 +1,61 @@
+{
+   "title": "Test",
+   "xAxis": "Number of cigarettes",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 8 categories on the x axis representing Number of cigarettes, and Share of respondents in each Number of cigarettes on the y axis.",
+      "6 to 10 is higher than any other categories with value 24.0, followed by 1 to 5, and 11 to 15. Down to category 31 to 50 with the lowest value of 2.0. ",
+      " The highest value at 6 to 10 is almost 12.0 times larger than the minimum value of 31 to 50. ",
+      " The highest value at 6 to 10 is almost 12.0 times larger than the minimum value of 31 to 50. ",
+      " The difference between the max Number of cigarettes 6 to 10 and min Number of cigarettes 31 to 50 is 22.0. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 1,
+         "12": 1
+      },
+      {
+         "7": 6,
+         "12": 6
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Number of cigarettes": "1 to 5",
+         "Share of respondents": 23.0
+      },
+      {
+         "Number of cigarettes": "6 to 10",
+         "Share of respondents": 24.0
+      },
+      {
+         "Number of cigarettes": "11 to 15",
+         "Share of respondents": 22.0
+      },
+      {
+         "Number of cigarettes": "16 to 20",
+         "Share of respondents": 19.0
+      },
+      {
+         "Number of cigarettes": "21 to 25",
+         "Share of respondents": 6.0
+      },
+      {
+         "Number of cigarettes": "26 to 30",
+         "Share of respondents": 4.0
+      },
+      {
+         "Number of cigarettes": "31 to 50",
+         "Share of respondents": 2.0
+      },
+      {
+         "Number of cigarettes": "51 and over",
+         "Share of respondents": 3.0
+      }
+   ]
+}

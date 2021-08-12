@@ -1,0 +1,109 @@
+{
+   "title": "Test",
+   "labels": [
+      "Quarter",
+      "Australia",
+      "China/Hong Kong",
+      "India",
+      "Japan"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This grouped bar chart has 9 categories of Quarter on the x axis representing 4 groups: Australia, China/Hong Kong, India, and Japan.",
+      " Averaging these 4 groups, the highest category is found for Quarter Q4 2016 with a mean value of 532.25.",
+      " The lowest category is observed at Q2 2016 that has a mean value of 434.5",
+      " showing a difference of 20.2% with the maximum value.",
+      " In case of Q4 2016, Australia shows more dominance than any other Quarter and it has the lowest value in Q1 2017. On the other hand, group Japan is highest in case of Q3 2017 and has minimum impact for Quarter Q3 2015. "
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "3"
+         ],
+         "13": [
+            "4",
+            "3"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "4"
+         ],
+         "14": [
+            "4",
+            "4"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Quarter": "Q3 2017",
+         "Australia": "328",
+         "China/Hong Kong": "983",
+         "India": "156",
+         "Japan": "492"
+      },
+      {
+         "Quarter": "Q2 2017",
+         "Australia": "328",
+         "China/Hong Kong": "930",
+         "India": "173",
+         "Japan": "456"
+      },
+      {
+         "Quarter": "Q1 2017",
+         "Australia": "321",
+         "China/Hong Kong": "771",
+         "India": "228",
+         "Japan": "446"
+      },
+      {
+         "Quarter": "Q4 2016",
+         "Australia": "404",
+         "China/Hong Kong": "1059",
+         "India": "221",
+         "Japan": "445"
+      },
+      {
+         "Quarter": "Q3 2016",
+         "Australia": "364",
+         "China/Hong Kong": "916",
+         "India": "258",
+         "Japan": "437"
+      },
+      {
+         "Quarter": "Q2 2016",
+         "Australia": "358",
+         "China/Hong Kong": "732",
+         "India": "254",
+         "Japan": "394"
+      },
+      {
+         "Quarter": "Q1 2016",
+         "Australia": "362",
+         "China/Hong Kong": "746",
+         "India": "286",
+         "Japan": "425"
+      },
+      {
+         "Quarter": "Q4 2015",
+         "Australia": "402",
+         "China/Hong Kong": "932",
+         "India": "241",
+         "Japan": "384"
+      },
+      {
+         "Quarter": "Q3 2015",
+         "Australia": "394",
+         "China/Hong Kong": "896",
+         "India": "271",
+         "Japan": "381"
+      }
+   ]
+}

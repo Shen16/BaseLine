@@ -1,0 +1,96 @@
+{
+   "title": "Test",
+   "labels": [
+      "Frequency",
+      "White",
+      "Hispanic",
+      "Black",
+      "Other"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This grouped bar chart has 7 categories of Frequency on the x axis representing 4 groups: White, Hispanic, Black, and Other.",
+      " Averaging these 4 groups, the highest category is found for Frequency At least once a day with a mean value of 55.5.",
+      " Followed by Never with a mean value of 14.0.",
+      " The lowest category is observed at Don't know/No opinion that has a mean value of 2.5",
+      " showing a difference of 182.8% with the maximum value.",
+      " In case of At least once a day, White shows more dominance than any other Frequency and it has the lowest value in Don't know/No opinion. On the other hand, group Other is highest in case of At least once a day and has minimum impact for Frequency Don't know/No opinion. "
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "13": [
+            "4",
+            "0"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "5"
+         ],
+         "14": [
+            "4",
+            "5"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Frequency": "At least once a day",
+         "White": "64",
+         "Hispanic": "56",
+         "Black": "53",
+         "Other": "49"
+      },
+      {
+         "Frequency": "A few times a week",
+         "White": "12",
+         "Hispanic": "15",
+         "Black": "15",
+         "Other": "14"
+      },
+      {
+         "Frequency": "At least once a week",
+         "White": "4",
+         "Hispanic": "4",
+         "Black": "7",
+         "Other": "3"
+      },
+      {
+         "Frequency": "A few times a month",
+         "White": "3",
+         "Hispanic": "6",
+         "Black": "3",
+         "Other": "7"
+      },
+      {
+         "Frequency": "At least once a month",
+         "White": "4",
+         "Hispanic": "5",
+         "Black": "4",
+         "Other": "6"
+      },
+      {
+         "Frequency": "Never",
+         "White": "11",
+         "Hispanic": "13",
+         "Black": "13",
+         "Other": "19"
+      },
+      {
+         "Frequency": "Don't know/No opinion",
+         "White": "2",
+         "Hispanic": "1",
+         "Black": "5",
+         "Other": "2"
+      }
+   ]
+}

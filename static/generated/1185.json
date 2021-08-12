@@ -1,0 +1,109 @@
+{
+   "title": "Test",
+   "xAxis": "Golfer",
+   "yAxis": "Average points",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 20 categories on the x axis representing Golfer, and Average points in each Golfer on the y axis.",
+      "Rory McIlroy (NIR) is higher than any other categories with value 9.48, followed by , and Brooks Koepka (USA). Down to category Hideki Matsuyama (JPN) with the lowest value of 4.31. ",
+      " The highest value at Rory McIlroy (NIR) is almost 2.2 times larger than the minimum value of Hideki Matsuyama (JPN). ",
+      " The highest value at Rory McIlroy (NIR) is almost 2.2 times larger than the minimum value of Hideki Matsuyama (JPN). ",
+      " The difference between the max Golfer Rory McIlroy (NIR) and min Golfer Hideki Matsuyama (JPN) is 5.170000000000001. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 19,
+         "12": 19
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Golfer": "Rory McIlroy (NIR)",
+         "Average points": 9.48
+      },
+      {
+         "Golfer": "Jon Rahm (ESP)",
+         "Average points": 8.68
+      },
+      {
+         "Golfer": "Brooks Koepka (USA)",
+         "Average points": 8.62
+      },
+      {
+         "Golfer": "Justin Thomas (USA)",
+         "Average points": 7.62
+      },
+      {
+         "Golfer": "Dustin Johnson (USA)",
+         "Average points": 6.72
+      },
+      {
+         "Golfer": "Adam Scott (AUS)",
+         "Average points": 6.06
+      },
+      {
+         "Golfer": "Patrick Cantley (USA)",
+         "Average points": 6.04
+      },
+      {
+         "Golfer": "Patrick Reed (USA)",
+         "Average points": 5.93
+      },
+      {
+         "Golfer": "Webb Simpson (USA)",
+         "Average points": 5.88
+      },
+      {
+         "Golfer": "Tiger Woods (USA)",
+         "Average points": 5.81
+      },
+      {
+         "Golfer": "Xander Schauffele (USA)",
+         "Average points": 5.62
+      },
+      {
+         "Golfer": "Tommy Fleetwood (ENG)",
+         "Average points": 5.52
+      },
+      {
+         "Golfer": "Justin Rose (ENG)",
+         "Average points": 5.3
+      },
+      {
+         "Golfer": "Bryson DeChambeau (USA)",
+         "Average points": 5.1
+      },
+      {
+         "Golfer": "Tony Finau (USA)",
+         "Average points": 4.88
+      },
+      {
+         "Golfer": "Matt Kuchar (USA)",
+         "Average points": 4.63
+      },
+      {
+         "Golfer": "Louis Oosthuizen (RSA)",
+         "Average points": 4.38
+      },
+      {
+         "Golfer": "Gary Woodland (USA)",
+         "Average points": 4.36
+      },
+      {
+         "Golfer": "Shane Lowry (IRE)",
+         "Average points": 4.33
+      },
+      {
+         "Golfer": "Hideki Matsuyama (JPN)",
+         "Average points": 4.31
+      }
+   ]
+}

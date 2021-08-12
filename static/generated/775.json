@@ -1,0 +1,69 @@
+{
+   "title": "Test",
+   "xAxis": "Airlines",
+   "yAxis": "Number of passengers in millions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 10 categories on the x axis representing Airlines, and Number of passengers in millions in each Airlines on the y axis.",
+      "American is higher than any other categories with value 203.7, followed by , and Southwest. Down to category Air China with the lowest value of 110.0. ",
+      " The highest value at American is almost 1.85 times larger than the minimum value of Air China. ",
+      " The highest value at American is almost 1.85 times larger than the minimum value of Air China. ",
+      " The difference between the max Airlines American and min Airlines Air China is 93.69999999999999. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 9,
+         "12": 9
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Airlines": "American",
+         "Number of passengers in millions": 203.7
+      },
+      {
+         "Airlines": "Delta",
+         "Number of passengers in millions": 192.5
+      },
+      {
+         "Airlines": "Southwest",
+         "Number of passengers in millions": 163.6
+      },
+      {
+         "Airlines": "United Continental",
+         "Number of passengers in millions": 158.3
+      },
+      {
+         "Airlines": "Lufthansa",
+         "Number of passengers in millions": 142.3
+      },
+      {
+         "Airlines": "Ryanair",
+         "Number of passengers in millions": 142.1
+      },
+      {
+         "Airlines": "China Southern",
+         "Number of passengers in millions": 140.0
+      },
+      {
+         "Airlines": "China Eastern",
+         "Number of passengers in millions": 122.5
+      },
+      {
+         "Airlines": "IAG",
+         "Number of passengers in millions": 113.0
+      },
+      {
+         "Airlines": "Air China",
+         "Number of passengers in millions": 110.0
+      }
+   ]
+}

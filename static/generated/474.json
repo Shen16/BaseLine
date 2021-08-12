@@ -1,0 +1,109 @@
+{
+   "title": "Test",
+   "xAxis": "Country",
+   "yAxis": "Child deaths in the first year of life per 1,000 live births",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 20 categories on the x axis representing Country, and Child deaths in the first year of life per 1,000 live births in each Country on the y axis.",
+      "Luxembourg is higher than any other categories with value 3.4, followed by , and Germany. Down to category Monaco with the lowest value of 1.8. ",
+      " The highest value at Luxembourg is almost 1.89 times larger than the minimum value of Monaco. ",
+      " The highest value at Luxembourg is almost 1.89 times larger than the minimum value of Monaco. ",
+      " The difference between the max Country Luxembourg and min Country Monaco is 1.5999999999999999. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 16,
+         "12": 16
+      },
+      {
+         "7": 0,
+         "12": 0
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Country": "Monaco",
+         "Child deaths in the first year of life per 1,000 live births": 1.8
+      },
+      {
+         "Country": "Japan",
+         "Child deaths in the first year of life per 1,000 live births": 2.0
+      },
+      {
+         "Country": "Iceland",
+         "Child deaths in the first year of life per 1,000 live births": 2.1
+      },
+      {
+         "Country": "Singapore",
+         "Child deaths in the first year of life per 1,000 live births": 2.4
+      },
+      {
+         "Country": "Norway",
+         "Child deaths in the first year of life per 1,000 live births": 2.5
+      },
+      {
+         "Country": "Finland",
+         "Child deaths in the first year of life per 1,000 live births": 2.5
+      },
+      {
+         "Country": "Bermuda",
+         "Child deaths in the first year of life per 1,000 live births": 2.5
+      },
+      {
+         "Country": "Sweden",
+         "Child deaths in the first year of life per 1,000 live births": 2.6
+      },
+      {
+         "Country": "Czech Republic",
+         "Child deaths in the first year of life per 1,000 live births": 2.6
+      },
+      {
+         "Country": "Hong Kong",
+         "Child deaths in the first year of life per 1,000 live births": 2.7
+      },
+      {
+         "Country": "South Korea",
+         "Child deaths in the first year of life per 1,000 live births": 3.0
+      },
+      {
+         "Country": "Macau",
+         "Child deaths in the first year of life per 1,000 live births": 3.1
+      },
+      {
+         "Country": "France",
+         "Child deaths in the first year of life per 1,000 live births": 3.2
+      },
+      {
+         "Country": "Spain",
+         "Child deaths in the first year of life per 1,000 live births": 3.3
+      },
+      {
+         "Country": "Anguilla",
+         "Child deaths in the first year of life per 1,000 live births": 3.3
+      },
+      {
+         "Country": "Italy",
+         "Child deaths in the first year of life per 1,000 live births": 3.3
+      },
+      {
+         "Country": "Luxembourg",
+         "Child deaths in the first year of life per 1,000 live births": 3.4
+      },
+      {
+         "Country": "Austria",
+         "Child deaths in the first year of life per 1,000 live births": 3.4
+      },
+      {
+         "Country": "Belgium",
+         "Child deaths in the first year of life per 1,000 live births": 3.4
+      },
+      {
+         "Country": "Germany",
+         "Child deaths in the first year of life per 1,000 live births": 3.4
+      }
+   ]
+}

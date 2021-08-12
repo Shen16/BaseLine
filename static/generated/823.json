@@ -1,0 +1,53 @@
+{
+   "title": "Test",
+   "labels": [
+      "Award",
+      "White",
+      "Other Ethnicities"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This grouped bar chart has 2 categories of Award on the x axis representing 2 groups: White, and Other Ethnicities.",
+      " Averaging the 2 groups, the highest category is found for Award Best Actor with a mean value of 50.0.",
+      " The minimum category is found at Best Actress with a mean value of 50.0.",
+      " In case of Best Actress, White shows more dominance than any other Award with a value 989.0 and it has the lowest value 932.0 in Best Actor. "
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "13": [
+            "2",
+            "1"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "14": [
+            "2",
+            "0"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Award": "Best Actress",
+         "White": "98.9",
+         "Other Ethnicities": "1.1"
+      },
+      {
+         "Award": "Best Actor",
+         "White": "93.2",
+         "Other Ethnicities": "6.8"
+      }
+   ]
+}

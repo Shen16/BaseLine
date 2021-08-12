@@ -1,0 +1,75 @@
+{
+   "title": "Test",
+   "xAxis": "Country",
+   "yAxis": "Export volume in million hectoliters",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 11 categories on the x axis representing Country, and Export volume in million hectoliters in each Country on the y axis.",
+      " The highest category is found at Spain where Export volume in million hectoliters is 21.0.",
+      " Followed by 19.7 in Italy.",
+      " The lowest category is found at New Zealand where Export volume in million hectoliters is 2.6.",
+      " The highest value at Spain is almost 8.08 times larger than the minimum value of New Zealand. ",
+      " The highest value at Spain is almost 8.08 times larger than the minimum value of New Zealand. ",
+      " The difference between the max Country Spain and min Country New Zealand is 18.4. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 10,
+         "12": 10
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Country": "Spain",
+         "Export volume in million hectoliters": 21.0
+      },
+      {
+         "Country": "Italy",
+         "Export volume in million hectoliters": 19.7
+      },
+      {
+         "Country": "France",
+         "Export volume in million hectoliters": 14.1
+      },
+      {
+         "Country": "Chile",
+         "Export volume in million hectoliters": 9.3
+      },
+      {
+         "Country": "Australia",
+         "Export volume in million hectoliters": 8.6
+      },
+      {
+         "Country": "South Africa",
+         "Export volume in million hectoliters": 4.2
+      },
+      {
+         "Country": "Germany",
+         "Export volume in million hectoliters": 3.8
+      },
+      {
+         "Country": "United States",
+         "Export volume in million hectoliters": 3.5
+      },
+      {
+         "Country": "Portugal",
+         "Export volume in million hectoliters": 3.0
+      },
+      {
+         "Country": "Argentina",
+         "Export volume in million hectoliters": 2.8
+      },
+      {
+         "Country": "New Zealand",
+         "Export volume in million hectoliters": 2.6
+      }
+   ]
+}

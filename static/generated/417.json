@@ -1,0 +1,99 @@
+{
+   "title": "Test",
+   "labels": [
+      "Cloud Service",
+      "2011",
+      "2016"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This grouped bar chart has 11 categories of Cloud Service on the x axis representing 2 groups: 2011, and 2016.",
+      " Averaging these 2 groups, the highest category is found for Cloud Service Cloud Application platform services (aPaaS) with a mean value of 35.0.",
+      " The lowest category is observed at Cloud Horizontal Portal Services (Portal PaaS) that has a mean value of 1.5",
+      " showing a difference of 183.6% with the maximum value.",
+      " In case of Cloud Application platform services (aPaaS), 2011 shows more dominance than any other Cloud Service with a value 35.0 and it has the lowest value 1.0 in Cloud Horizontal Portal Services (Portal PaaS). "
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "13": [
+            "2",
+            "0"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "3"
+         ],
+         "14": [
+            "2",
+            "3"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Cloud Service": "Cloud Application platform services (aPaaS)",
+         "2011": "35",
+         "2016": "35"
+      },
+      {
+         "Cloud Service": "Cloud ALM Services (almPaaS)",
+         "2011": "12",
+         "2016": "11"
+      },
+      {
+         "Cloud Service": "Cloud BPM platform services (bpmPaaS)",
+         "2011": "11",
+         "2016": "10"
+      },
+      {
+         "Cloud Service": "Cloud Integration services (iPaaS)",
+         "2011": "11",
+         "2016": "14"
+      },
+      {
+         "Cloud Service": "Cloud Application Security Services",
+         "2011": "11",
+         "2016": "9"
+      },
+      {
+         "Cloud Service": "Cloud MFT Services",
+         "2011": "8",
+         "2016": "6"
+      },
+      {
+         "Cloud Service": "Cloud Application Services Governance",
+         "2011": "4",
+         "2016": "3"
+      },
+      {
+         "Cloud Service": "Cloud Business Analytics Services (baPaaS)",
+         "2011": "3",
+         "2016": "4"
+      },
+      {
+         "Cloud Service": "Cloud MOM Services",
+         "2011": "2",
+         "2016": "2"
+      },
+      {
+         "Cloud Service": "Cloud Database services (dbPaas)",
+         "2011": "2",
+         "2016": "4"
+      },
+      {
+         "Cloud Service": "Cloud Horizontal Portal Services (Portal PaaS)",
+         "2011": "1",
+         "2016": "2"
+      }
+   ]
+}

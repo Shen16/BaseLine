@@ -1,0 +1,89 @@
+{
+   "title": "Test",
+   "xAxis": "Year",
+   "yAxis": "Number of pregnancies resulting in maternity",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Number of pregnancies resulting in maternity, with a total of 14 data points.",
+      " Overall Number of pregnancies resulting in maternity has decreased over the Year.",
+      "Number of pregnancies resulting in maternity is roughly constant from 2004 to 2008, and lastly slightly decreasing from 2008 to 2017.",
+      "The steepest decrease occurs in between the Year 2011 and 2012.",
+      "Max Number of pregnancies resulting in maternity about 61111.0 was recorded at Year 2005",
+      "Min Number of pregnancies resulting in maternity about 28092.0 was recorded at Year 2017",
+      "#########################################################################",
+      "This line chart has an x axis representing Year and a y axis representing Number of pregnancies resulting in maternity, with a total of 14 data points. The chart has 2 significant trends.",
+      " The longest trend is slightly decreasing which exists from 2007 to 2017.",
+      " On the other hand, the next significant trend is extremely decreasing which exists from 2004 to 2007."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "0",
+         "12": "10"
+      },
+      {
+         "3": "10",
+         "14": "13"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2017",
+         "Number of pregnancies resulting in maternity": 28092.0
+      },
+      {
+         "Year": "2016",
+         "Number of pregnancies resulting in maternity": 30518.0
+      },
+      {
+         "Year": "2015",
+         "Number of pregnancies resulting in maternity": 32747.0
+      },
+      {
+         "Year": "2014",
+         "Number of pregnancies resulting in maternity": 34977.0
+      },
+      {
+         "Year": "2013",
+         "Number of pregnancies resulting in maternity": 37887.0
+      },
+      {
+         "Year": "2012",
+         "Number of pregnancies resulting in maternity": 42688.0
+      },
+      {
+         "Year": "2011",
+         "Number of pregnancies resulting in maternity": 48331.0
+      },
+      {
+         "Year": "2010",
+         "Number of pregnancies resulting in maternity": 52470.0
+      },
+      {
+         "Year": "2009",
+         "Number of pregnancies resulting in maternity": 56901.0
+      },
+      {
+         "Year": "2008",
+         "Number of pregnancies resulting in maternity": 59488.0
+      },
+      {
+         "Year": "2007",
+         "Number of pregnancies resulting in maternity": 61075.0
+      },
+      {
+         "Year": "2006",
+         "Number of pregnancies resulting in maternity": 59951.0
+      },
+      {
+         "Year": "2005",
+         "Number of pregnancies resulting in maternity": 61111.0
+      },
+      {
+         "Year": "2004",
+         "Number of pregnancies resulting in maternity": 60682.0
+      }
+   ]
+}

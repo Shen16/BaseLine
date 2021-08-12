@@ -1,0 +1,49 @@
+{
+   "title": "Test",
+   "xAxis": "Year",
+   "yAxis": "Average sales in thousand U.S. dollars",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Average sales in thousand U.S. dollars, with a total of 4 data points.",
+      " Overall Average sales in thousand U.S. dollars has increased over the Year.",
+      "Average sales in thousand U.S. dollars is slightly increasing from 2015 to 2017, and lastly roughly constant from 2017 to 2018.",
+      "The steepest increase occurs in between the Year 2016 and 2017.",
+      "Max Average sales in thousand U.S. dollars about 3580.0 was recorded at Year 2018",
+      "Min Average sales in thousand U.S. dollars about 3354.0 was recorded at Year 2016",
+      "#########################################################################",
+      "This line chart has an x axis representing Year and a y axis representing Average sales in thousand U.S. dollars, with a total of 4 data points. The chart has 2 significant trends.",
+      " The longest trend is slightly increasing which exists from 2015 to 2018.",
+      " Similarly, the next significant trend is slightly decreasing which exists from 2018 to 2018."
+   ],
+   "trends": [
+      {},
+      {
+         "1": "0",
+         "12": "3"
+      },
+      {
+         "3": "0",
+         "14": "0"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Average sales in thousand U.S. dollars": 3580.0
+      },
+      {
+         "Year": "2017",
+         "Average sales in thousand U.S. dollars": 3542.0
+      },
+      {
+         "Year": "2016",
+         "Average sales in thousand U.S. dollars": 3354.0
+      },
+      {
+         "Year": "2015",
+         "Average sales in thousand U.S. dollars": 3430.0
+      }
+   ]
+}

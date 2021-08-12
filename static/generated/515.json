@@ -1,0 +1,104 @@
+{
+   "title": "Test",
+   "xAxis": "Year",
+   "yAxis": "Percentage of individuals using internet",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This line chart has an x axis representing Year and a y axis representing Percentage of individuals using internet, with a total of 19 data points.",
+      " Overall Percentage of individuals using internet has increased over the Year.",
+      "Percentage of individuals using internet is rapidly increasing from 2000 to 2002, roughly constant from 2002 to 2004, roughly increasing from 2004 to 2005, roughly constant from 2005 to 2008, slightly increasing from 2008 to 2011, roughly constant from 2011 to 2014, slightly increasing from 2014 to 2015, and lastly roughly constant from 2015 to 2018.",
+      "The steepest increase occurs in between the Year 2014 and 2015.",
+      "Max Percentage of individuals using internet about 65.8 was recorded at Year 2018",
+      "Min Percentage of individuals using internet about 5.08 was recorded at Year 2000",
+      "#########################################################################",
+      "This line chart has an x axis representing Year and a y axis representing Percentage of individuals using internet with a total of 19 data points. The chart has one significant trend.",
+      " This trend is increasing which exists from 2018 to 2000."
+   ],
+   "trends": [
+      {},
+      {
+         "3": "0",
+         "14": "18"
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "Percentage of individuals using internet": 65.8
+      },
+      {
+         "Year": "2017",
+         "Percentage of individuals using internet": 63.9
+      },
+      {
+         "Year": "2016",
+         "Percentage of individuals using internet": 59.54
+      },
+      {
+         "Year": "2015",
+         "Percentage of individuals using internet": 57.43
+      },
+      {
+         "Year": "2014",
+         "Percentage of individuals using internet": 44.39
+      },
+      {
+         "Year": "2013",
+         "Percentage of individuals using internet": 43.46
+      },
+      {
+         "Year": "2012",
+         "Percentage of individuals using internet": 39.75
+      },
+      {
+         "Year": "2011",
+         "Percentage of individuals using internet": 37.18
+      },
+      {
+         "Year": "2010",
+         "Percentage of individuals using internet": 31.05
+      },
+      {
+         "Year": "2009",
+         "Percentage of individuals using internet": 26.34
+      },
+      {
+         "Year": "2008",
+         "Percentage of individuals using internet": 21.71
+      },
+      {
+         "Year": "2007",
+         "Percentage of individuals using internet": 20.81
+      },
+      {
+         "Year": "2006",
+         "Percentage of individuals using internet": 19.52
+      },
+      {
+         "Year": "2005",
+         "Percentage of individuals using internet": 17.21
+      },
+      {
+         "Year": "2004",
+         "Percentage of individuals using internet": 14.1
+      },
+      {
+         "Year": "2003",
+         "Percentage of individuals using internet": 12.9
+      },
+      {
+         "Year": "2002",
+         "Percentage of individuals using internet": 11.9
+      },
+      {
+         "Year": "2001",
+         "Percentage of individuals using internet": 7.04
+      },
+      {
+         "Year": "2000",
+         "Percentage of individuals using internet": 5.08
+      }
+   ]
+}

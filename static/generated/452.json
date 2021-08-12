@@ -1,0 +1,128 @@
+{
+   "title": "Test",
+   "labels": [
+      "Country",
+      "2015",
+      "2016",
+      "2017",
+      "2018",
+      "2019"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This grouped bar chart has 10 categories of Country on the x axis representing 5 groups: 2015, 2016, 2017, 2018, and 2019.",
+      " Averaging these 5 groups, the highest category is found for Country China with a mean value of 11280.0.",
+      " Followed by Laos with a mean value of 1602.0.",
+      " The lowest category is observed at Bolivia that has a mean value of 4.0",
+      " showing a difference of 199.9% with the maximum value.",
+      " In case of China, 2015 shows more dominance than any other Country with a value 7500.0 and it has the lowest value 0.0 in Laos.  However, 2019 being the 2nd most important group, has the highest value 14000.0 for Country China and the lowest 0.0 in case of Russia. "
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "13": [
+            "5",
+            "0"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "14": [
+            "5",
+            "1"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Country": "China",
+         "2015": "7500",
+         "2016": "7400",
+         "2017": "13500",
+         "2018": "14000",
+         "2019": "14000"
+      },
+      {
+         "Country": "Laos",
+         "2015": "0",
+         "2016": "0",
+         "2017": "2000",
+         "2018": "3010",
+         "2019": "3000"
+      },
+      {
+         "Country": "Japan",
+         "2015": "0",
+         "2016": "0",
+         "2017": "525",
+         "2018": "571",
+         "2019": "540"
+      },
+      {
+         "Country": "Mexico",
+         "2015": "700",
+         "2016": "700",
+         "2017": "513",
+         "2018": "333",
+         "2019": "400"
+      },
+      {
+         "Country": "Kazakhstan",
+         "2015": "0",
+         "2016": "0",
+         "2017": "270",
+         "2018": "290",
+         "2019": "270"
+      },
+      {
+         "Country": "Bulgaria",
+         "2015": "0",
+         "2016": "0",
+         "2017": "50",
+         "2018": "50",
+         "2019": "50"
+      },
+      {
+         "Country": "Canada",
+         "2015": "3",
+         "2016": "3",
+         "2017": "25",
+         "2018": "25",
+         "2019": "25"
+      },
+      {
+         "Country": "Russia",
+         "2015": "40",
+         "2016": "40",
+         "2017": "4",
+         "2018": "0",
+         "2019": "0"
+      },
+      {
+         "Country": "Vietnam",
+         "2015": "5000",
+         "2016": "2000",
+         "2017": "0",
+         "2018": "0",
+         "2019": "0"
+      },
+      {
+         "Country": "Bolivia",
+         "2015": "10",
+         "2016": "10",
+         "2017": "0",
+         "2018": "0",
+         "2019": "0"
+      }
+   ]
+}
