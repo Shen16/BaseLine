@@ -1,58 +1,42 @@
 {
-   "title": "Test",
+   "title": "Inflation rate in Dominican Republic 2024",
    "xAxis": "Year",
    "yAxis": "Inflation rate compared to previous year",
    "columnType": "two",
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Inflation rate compared to previous year, with a total of 41 data points.",
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Inflation rate compared to previous year. In total the number of data points it has is 41.",
       " Overall Inflation rate compared to previous year has decreased over the Year.",
-      "Inflation rate compared to previous year is slightly increasing from 1984 to 1988, roughly constant from 1988 to 1991, slightly decreasing from 1991 to 1992, roughly constant from 1992 to 1993, roughly increasing from 1993 to 1994, roughly decreasing from 1994 to 1995, roughly increasing from 1995 to 1996, roughly constant from 1996 to 2002, rapidly increasing from 2002 to 2004, slightly decreasing from 2004 to 2005, roughly constant from 2005 to 2007, slightly decreasing from 2007 to 2009, rapidly increasing from 2009 to 2010, roughly constant from 2010 to 2014, roughly increasing from 2014 to 2017, roughly constant from 2017 to 2018, roughly increasing from 2018 to 2020, and lastly roughly constant from 2020 to 2024.",
+      "The chart in general has a zig-zag shape.",
+      "The line rapidly increased by 125.01% from Year 1984 to 1985,decreased by 83.15% from Year 1985 to 1986,increased by 77.36% from Year 1986 to 1987,increased by 223.69% from Year 1987 to 1988,decreased by 90.95% from Year 1991 to 1992,increased by 425.86% from Year 2002 to 2003,increased by 87.47% from Year 2003 to 2004,decreased by 91.86% from Year 2004 to 2005,increased by 80.67% from Year 2005 to 2006,increased by 73.29% from Year 2007 to 2008,decreased by 86.47% from Year 2008 to 2009,increased by 339.58% from Year 2009 to 2010,decreased by 72.0% from Year 2014 to 2015,increased by 91.67% from Year 2015 to 2016,increased by 103.73% from Year 2016 to 2017, and lastly, increased by 122.7% from Year 2019 to 2020.",
+      "The most drastic decrease took place within the Year 2004 and 2005.",
+      "The highest Inflation rate compared to previous year, of value 51.46 was reached at Year 2004",
+      "Minimum Inflation rate compared to previous year about 0.84 was reached at Year 2015"
+   ],
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Inflation rate compared to previous year, containing a total of 41 data points.",
+      " In general Inflation rate compared to previous year has fallen over the Year."
+   ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Inflation rate compared to previous year. In total the number of data points it has is 41.",
+      " Overall Inflation rate compared to previous year has decreased over the Year.",
       "The steepest decrease occurs in between the Year 2004 and 2005.",
-      "Max Inflation rate compared to previous year about 51.46 was recorded at Year 2004",
-      "Min Inflation rate compared to previous year about 0.84 was recorded at Year 2015",
-      "#########################################################################",
-      "This line chart has an x axis representing Year and a y axis representing Inflation rate compared to previous year, with a total of 41 data points. The chart has 7 significant trends.",
-      " The longest trend is moderately decreasing which exists from 2013 to 2019.",
-      " Conversely, the next significant trend is slightly increasing which exists from 2002 to 2008.",
-      " In a similar manner, the next significant trend is extremely increasing which exists from 1986 to 1992.",
-      " Correspondingly, the next significant trend is moderately increasing which exists from 2019 to 2024.",
-      " Correspondingly, the next significant trend is moderately decreasing which exists from 2008 to 2013.",
-      " On the other hand, the next significant trend is moderately decreasing which exists from 1997 to 2002.",
-      " Contrarily, the next significant trend is moderately increasing which exists from 1992 to 1997."
+      "The highest Inflation rate compared to previous year, of value 51.46 was reached at Year 2004",
+      "Minimum Inflation rate compared to previous year about 0.84 was reached at Year 2015"
    ],
-   "trends": [
-      {},
-      {
-         "1": "5",
-         "12": "11"
-      },
-      {
-         "3": "16",
-         "14": "22"
-      },
-      {
-         "3": "32",
-         "14": "38"
-      },
-      {
-         "3": "0",
-         "14": "5"
-      },
-      {
-         "3": "11",
-         "14": "16"
-      },
-      {
-         "3": "22",
-         "14": "27"
-      },
-      {
-         "3": "27",
-         "14": "32"
-      }
+   "max_summary": [
+      "The chart in general has a zig-zag shape.",
+      "The chart in general has a zig-zag shape.",
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Inflation rate compared to previous year. In total the number of data points it has is 41.",
+      " Overall Inflation rate compared to previous year has decreased over the Year.",
+      "The chart in general has a zig-zag shape.",
+      "The most drastic decrease took place within the Year 2004 and 2005.",
+      "The highest Inflation rate compared to previous year, of value 51.46 was reached at Year 2004",
+      "Minimum Inflation rate compared to previous year about 0.84 was reached at Year 2015",
+      "The line significantly increased by 25.19 from Year 1984 to 1985,decreased by 37.7 from Year 1985 to 1986,increased by 5.91 from Year 1986 to 1987,increased by 30.31 from Year 1987 to 1988,decreased by 42.82 from Year 1991 to 1992,increased by 22.23 from Year 2002 to 2003,increased by 24.01 from Year 2003 to 2004,decreased by 47.27 from Year 2004 to 2005,increased by 3.38 from Year 2005 to 2006,increased by 4.5 from Year 2007 to 2008,decreased by 9.2 from Year 2008 to 2009,increased by 4.89 from Year 2009 to 2010,decreased by 2.16 from Year 2014 to 2015,increased by 0.77 from Year 2015 to 2016,increased by 1.67 from Year 2016 to 2017, and lastly, increased by 2.27 from Year 2019 to 2020."
    ],
+   "trends": [],
    "data": [
       {
          "Year": "2024",

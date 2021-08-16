@@ -1,5 +1,5 @@
 {
-   "title": "Test",
+   "title": "National Basketball Association highest-paid players ( salaries & endorsements ) 2019",
    "labels": [
       "Player",
       "Salary",
@@ -9,11 +9,30 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart has 10 categories of Player on the x axis representing 2 groups: Salary, and Endorsements.",
-      " Averaging these 2 groups, the highest category is found for Player LeBron James (Cleveland Cavaliers) with a mean value of 44.35.",
-      " The lowest category is observed at Paul George (Oklahoma City Thunder) that has a mean value of 19.3",
-      " showing a difference of 78.7% with the maximum value.",
-      " In case of Stephen Curry (Golden State Warriors), Salary shows more dominance than any other Player and it has the lowest value in Giannis Antetokounmpo (Milwaukee Bucks). "
+      "This grouped bar chart represents 10 different Players on X-axis for 2 groups Salary, and Endorsements. On the Y-axis it shows their corresponding Earnings in million USD. ",
+      " In Player Stephen Curry (Golden State Warriors), Salary had the highest Earnings in million USD 375.0 among the 2 groups and in Blake Griffin (Detroit Pistons), Endorsements had the lowest Earnings in million USD 7.0. ",
+      " In Player LeBron James (Cleveland Cavaliers), Endorsements had the maximum Earnings in million USD and it saw the lowest in Player Blake Griffin (Detroit Pistons) out of all 10 Players. ",
+      " The maximum Earnings in million USD for Endorsements that was found in Player LeBron James (Cleveland Cavaliers) was 7.57 times larger than the minimum Earnings in million USD observed in Player Blake Griffin (Detroit Pistons). "
+   ],
+   "xAxis": "Player",
+   "yAxis": "Earnings in million USD",
+   "min_summary": [
+      "This grouped bar chart represents 10 different Players on X-axis for 2 groups Salary, and Endorsements. On the Y-axis it shows their corresponding Earnings in million USD. ",
+      " Out of all 2 groups, Salary had the highest Earnings in million USD in Player Stephen Curry (Golden State Warriors) and Endorsements had the lowest Earnings in million USD in Player Blake Griffin (Detroit Pistons). "
+   ],
+   "mid_summary": [
+      "This grouped bar chart represents 10 different Players on X-axis for 2 groups Salary, and Endorsements. On the Y-axis it shows their corresponding Earnings in million USD. ",
+      " In Player Stephen Curry (Golden State Warriors), Salary had the highest Earnings in million USD 375.0 among the 2 groups and in Blake Griffin (Detroit Pistons), Endorsements had the lowest Earnings in million USD 7.0. ",
+      " In Player LeBron James (Cleveland Cavaliers), Endorsements had the maximum Earnings in million USD and it saw the lowest in Player Blake Griffin (Detroit Pistons) out of all 10 Players. ",
+      " The maximum Earnings in million USD for Endorsements that was found in Player LeBron James (Cleveland Cavaliers) was 7.57 times larger than the minimum Earnings in million USD observed in Player Blake Griffin (Detroit Pistons). "
+   ],
+   "max_summary": [
+      "This grouped bar chart shows Earnings in million USD on the Y-axis for 10 different Players for 2 groups Salary, and Endorsements that are presented on the X-axis. ",
+      " Out of all 2 groups, Salary had the highest Earnings in million USD in Player Stephen Curry (Golden State Warriors) and Endorsements had the lowest Earnings in million USD in Player Blake Griffin (Detroit Pistons). ",
+      " In Player LeBron James (Cleveland Cavaliers), Endorsements had the maximum Earnings in million USD and it saw the lowest in Player Blake Griffin (Detroit Pistons) out of all 10 Players. ",
+      "Player LeBron James (Cleveland Cavaliers) and Blake Griffin (Detroit Pistons) had the biggest gap of 46.0 between the highest and lowest Earnings in million USD found for Endorsements. ",
+      " Out of all 2 groups, the highest gap between the maximum and minimum Earnings in million USD was found in case of Salary. ",
+      "On average, the Player LeBron James (Cleveland Cavaliers) had the highest Earnings in million USD for all 2 groups Salary, and Endorsements. Whereas Paul George (Oklahoma City Thunder) had the lowest average Earnings in million USD. "
    ],
    "trends": [
       {},

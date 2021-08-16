@@ -1,16 +1,31 @@
 {
-   "title": "Test",
+   "title": "Countries with the most affected people from earthquakes 1900 to 2016",
    "xAxis": "Country",
    "yAxis": "Number of affected people (in millions)",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 10 categories on the x axis representing Country, and Number of affected people (in millions) in each Country on the y axis.",
-      "China is higher than any other categories with value 70.9, followed by , and Chile. Down to category Haiti with the lowest value of 3.4. ",
-      " The highest value at China is almost 20.85 times larger than the minimum value of Haiti. ",
-      " The highest value at China is almost 20.85 times larger than the minimum value of Haiti. ",
-      " The difference between the max Country China and min Country Haiti is 67.5. "
+      "This bar chart has 10 columns on the x axis representing Country, and Number of affected people (in millions) in each Country on the y axis. ",
+      "The maximum Number of affected people (in millions) 70.9 is found at Country China and the minimum is found at Haiti where Country is 3.4. ",
+      "There is a difference of 67.5 between the maximum Country China and minimum Country Haiti. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Number of affected people (in millions) for 10 number of Countrys. ",
+      "Country China has the highest Number of affected people (in millions) and Haiti has the lowest Number of affected people (in millions). "
+   ],
+   "mid_summary": [
+      "This bar chart has 10 columns on the x axis representing Country, and Number of affected people (in millions) in each Country on the y axis. ",
+      "The maximum Number of affected people (in millions) 70.9 is found at Country China and the minimum is found at Haiti where Country is 3.4. ",
+      "There is a difference of 67.5 between the maximum Country China and minimum Country Haiti. "
+   ],
+   "max_summary": [
+      "This bar chart has 10 columns on the x axis representing Country, and Number of affected people (in millions) in each Country on the y axis. ",
+      "Country China has the highest Number of affected people (in millions) and Haiti has the lowest Number of affected people (in millions). ",
+      "Country India has the second highest value for Number of affected people (in millions). ",
+      "The difference of Number of affected people (in millions) between the highest and lowest Country is 67.5. ",
+      "Number of affected people (in millions) at Country China is 70.9 , second place is India at 26.18, and thirdly is Chile at 8.53.",
+      "The Country China tends to be 4.89 percent higher than average. "
    ],
    "trends": [
       {},

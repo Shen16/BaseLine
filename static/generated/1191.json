@@ -1,43 +1,38 @@
 {
-   "title": "Test",
+   "title": "Gross domestic product ( GDP ) growth rate in Pakistan 2024 ",
    "xAxis": "Year",
    "yAxis": "GDP growth compared to previous year",
    "columnType": "two",
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing GDP growth compared to previous year, with a total of 11 data points.",
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes GDP growth compared to previous year. In total the number of data points it has is 11.",
       " Overall GDP growth compared to previous year has increased over the Year.",
-      "GDP growth compared to previous year is roughly constant from 2014 to 2015, roughly increasing from 2015 to 2016, roughly constant from 2016 to 2018, slightly decreasing from 2018 to 2020, gradually increasing from 2020 to 2022, and lastly roughly constant from 2022 to 2024.",
+      "The line significantly ",
       "The steepest decrease occurs in between the Year 2018 and 2019.",
-      "Max GDP growth compared to previous year about 5.53 was recorded at Year 2018",
-      "Min GDP growth compared to previous year about 2.35 was recorded at Year 2020",
-      "#########################################################################",
-      "This line chart has an x axis representing Year and a y axis representing GDP growth compared to previous year, with a total of 11 data points. The chart has 4 significant trends.",
-      " The longest trend is extremely increasing which exists from 2014 to 2018.",
-      " Additionally, the next significant trend is extremely increasing which exists from 2020 to 2023.",
-      " Similarly, the next significant trend is slightly decreasing which exists from 2018 to 2020.",
-      " Differently, the next significant trend is moderately constant which exists from 2023 to 2024."
+      "Maximum GDP growth compared to previous year, about 5.53 was reported at Year 2018",
+      "The lowest GDP growth compared to previous year, of value 2.35 was reported at Year 2020"
    ],
-   "trends": [
-      {},
-      {
-         "1": "6",
-         "12": "10"
-      },
-      {
-         "3": "1",
-         "14": "4"
-      },
-      {
-         "3": "4",
-         "14": "6"
-      },
-      {
-         "3": "0",
-         "14": "1"
-      }
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes GDP growth compared to previous year. In total the number of data points it has is 11.",
+      " Overall GDP growth compared to previous year has increased over the Year."
    ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing GDP growth compared to previous year, containing a total of 11 data points.",
+      " In general GDP growth compared to previous year has rose over the Year.",
+      "The steepest decrease occurs in between the Year 2018 and 2019.",
+      "Maximum GDP growth compared to previous year, about 5.53 was reported at Year 2018",
+      "The lowest GDP growth compared to previous year, of value 2.35 was reported at Year 2020"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing GDP growth compared to previous year, containing a total of 11 data points.",
+      " In general GDP growth compared to previous year has rose over the Year.",
+      "The most drastic decrease took place within the Year 2018 and 2019.",
+      "Maximum GDP growth compared to previous year, about 5.53 was reported at Year 2018",
+      "The lowest GDP growth compared to previous year, of value 2.35 was reported at Year 2020",
+      "The line rapidly "
+   ],
+   "trends": [],
    "data": [
       {
          "Year": "2024",

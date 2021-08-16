@@ -1,16 +1,31 @@
 {
-   "title": "Test",
+   "title": "Old-age dependency ratio by state and union territory in India 2011",
    "xAxis": "State And Union Territory",
    "yAxis": "Old-age dependency ratio",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 20 categories on the x axis representing State And Union Territory, and Old-age dependency ratio in each State And Union Territory on the y axis.",
-      "Kerala is higher than any other categories with value 19.6, followed by , and Tamil Nadu. Down to category Delhi with the lowest value of 10.4. ",
-      " The highest value at Kerala is almost 1.88 times larger than the minimum value of Delhi. ",
-      " The highest value at Kerala is almost 1.88 times larger than the minimum value of Delhi. ",
-      " The difference between the max State And Union Territory Kerala and min State And Union Territory Delhi is 9.200000000000001. "
+      "This bar chart has 20 columns on the x axis representing State And Union Territory, and Old-age dependency ratio in each State And Union Territory on the y axis. ",
+      "The Old-age dependency ratio is highest at State And Union Territory Kerala and lowest at State And Union Territory Delhi. ",
+      "The difference of Old-age dependency ratio between the highest and lowest State And Union Territory is 9.2. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Old-age dependency ratio for 20 number of State And Union Territorys. ",
+      "The Old-age dependency ratio is highest at State And Union Territory Kerala and lowest at State And Union Territory Delhi. "
+   ],
+   "mid_summary": [
+      "This bar chart has 20 columns on the x axis representing State And Union Territory, and Old-age dependency ratio in each State And Union Territory on the y axis. ",
+      "The Old-age dependency ratio is highest at State And Union Territory Kerala and lowest at State And Union Territory Delhi. ",
+      "The difference of Old-age dependency ratio between the highest and lowest State And Union Territory is 9.2. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing State And Union Territory in the x axis and Old-age dependency ratio in the y axis. ",
+      "State And Union Territory Kerala has the highest Old-age dependency ratio and Delhi has the lowest Old-age dependency ratio. ",
+      "There is a difference of 9.2 between the maximum State And Union Territory Kerala and minimum State And Union Territory Delhi. ",
+      "State And Union Territory Kerala is higher than any other State And Union Territorys with value 19.6, followed by Punjab, and Tamil Nadu. Down to State And Union Territory Delhi with the lowest value 10.4. ",
+      "State And Union Territory Andaman & Nicobar Islands, and Odisha have the same Old-age dependency ratio. ",
+      "The State And Union Territory Delhi has 1.39 times less Old-age dependency ratio than average. "
    ],
    "trends": [
       {},

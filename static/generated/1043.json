@@ -1,58 +1,38 @@
 {
-   "title": "Test",
+   "title": "New York - poverty rate 2000 to 2018",
    "xAxis": "Year",
    "yAxis": "Percentage of population",
    "columnType": "two",
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Percentage of population, with a total of 19 data points.",
-      " Overall Percentage of population has increased over the Year.",
-      "Percentage of population is roughly decreasing from 2000 to 2001, roughly increasing from 2001 to 2005, roughly decreasing from 2005 to 2006, roughly constant from 2006 to 2008, gradually increasing from 2008 to 2011, roughly constant from 2011 to 2014, and lastly gradually decreasing from 2014 to 2018.",
+      "This is a line chart with an x axis representing Year and a y axis representing Percentage of population, containing a total of 19 data points.",
+      " In general Percentage of population has stayed the same over the Year.",
+      "The line rapidly ",
+      "The most drastic increase took place within the Year 2010 and 2011.",
+      "The highest Percentage of population, of value 16.0 was reached at Year 2011, and 2013",
+      "The lowest Percentage of population, of value 13.1 was reported at Year 2000, and 2002"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Percentage of population. In total the number of data points it has is 19.",
+      " Overall Percentage of population has increased over the Year."
+   ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Percentage of population. In total the number of data points it has is 19.",
+      " In general Percentage of population has stayed the same over the Year.",
       "The steepest increase occurs in between the Year 2010 and 2011.",
-      "Max Percentage of population about 16.0 was recorded at Year 2011, and 2013",
-      "Min Percentage of population about 13.1 was recorded at Year 2000, and 2002",
-      "#########################################################################",
-      "This line chart has an x axis representing Year and a y axis representing Percentage of population, with a total of 19 data points. The chart has 7 significant trends.",
-      " The longest trend is slightly decreasing which exists from 2013 to 2018.",
-      " Differently, the next significant trend is extremely increasing which exists from 2008 to 2011.",
-      " Correspondingly, the next significant trend is moderately decreasing which exists from 2011 to 2013.",
-      " Differently, the next significant trend is slightly decreasing which exists from 2006 to 2008.",
-      " Contrarily, the next significant trend is moderately decreasing which exists from 2004 to 2006.",
-      " Contrarily, the next significant trend is extremely increasing which exists from 2002 to 2004.",
-      " Likewise, the next significant trend is moderately decreasing which exists from 2000 to 2002."
+      "The highest Percentage of population, of value 16.0 was reached at Year 2011, and 2013",
+      "The lowest Percentage of population, of value 13.1 was reported at Year 2000, and 2002"
    ],
-   "trends": [
-      {},
-      {
-         "1": "0",
-         "12": "5"
-      },
-      {
-         "3": "7",
-         "14": "10"
-      },
-      {
-         "3": "5",
-         "14": "7"
-      },
-      {
-         "3": "10",
-         "14": "12"
-      },
-      {
-         "3": "12",
-         "14": "14"
-      },
-      {
-         "3": "14",
-         "14": "16"
-      },
-      {
-         "3": "16",
-         "14": "18"
-      }
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Percentage of population, containing a total of 19 data points.",
+      " In general Percentage of population has stayed the same over the Year.",
+      "The most drastic increase took place within the Year 2010 and 2011.",
+      "The highest Percentage of population, of value 16.0 was reached at Year 2011, and 2013",
+      "The lowest Percentage of population, of value 13.1 was reported at Year 2000, and 2002",
+      "The line rapidly "
    ],
+   "trends": [],
    "data": [
       {
          "Year": "2018",

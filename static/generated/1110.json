@@ -1,53 +1,38 @@
 {
-   "title": "Test",
+   "title": "Upland spot cotton price in the U.S. 1990 to 2018",
    "xAxis": "Year",
    "yAxis": "Price per pound in U.S. cents",
    "columnType": "two",
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Price per pound in U.S. cents, with a total of 21 data points.",
+      "This is a line chart with an x axis representing Year and a y axis representing Price per pound in U.S. cents, containing a total of 21 data points.",
+      " In general Price per pound in U.S. cents has rose over the Year.",
+      "The line rapidly ",
+      "The most drastic decrease took place within the Year 2011 and 2012.",
+      "Maximum Price per pound in U.S. cents, about 132.6 was reported at Year 2011",
+      "Minimum Price per pound in U.S. cents about 36.99 was reached at Year 2002"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Price per pound in U.S. cents. In total the number of data points it has is 21.",
+      " Overall Price per pound in U.S. cents has increased over the Year."
+   ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Price per pound in U.S. cents. In total the number of data points it has is 21.",
+      " In general Price per pound in U.S. cents has rose over the Year.",
+      "The most drastic decrease took place within the Year 2011 and 2012.",
+      "Maximum Price per pound in U.S. cents, about 132.6 was reported at Year 2011",
+      "Minimum Price per pound in U.S. cents about 36.99 was reached at Year 2002"
+   ],
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Price per pound in U.S. cents. In total the number of data points it has is 21.",
       " Overall Price per pound in U.S. cents has increased over the Year.",
-      "Price per pound in U.S. cents is slightly increasing from 1990 to 1995, slightly decreasing from 1995 to 2001, roughly constant from 2001 to 2002, slightly increasing from 2002 to 2003, roughly constant from 2003 to 2009, rapidly increasing from 2009 to 2011, slightly decreasing from 2011 to 2012, roughly constant from 2012 to 2016, slightly increasing from 2016 to 2017, and lastly roughly constant from 2017 to 2018.",
       "The steepest decrease occurs in between the Year 2011 and 2012.",
-      "Max Price per pound in U.S. cents about 132.6 was recorded at Year 2011",
-      "Min Price per pound in U.S. cents about 36.99 was recorded at Year 2002",
-      "#########################################################################",
-      "This line chart has an x axis representing Year and a y axis representing Price per pound in U.S. cents, with a total of 21 data points. The chart has 6 significant trends.",
-      " The longest trend is moderately increasing which exists from 2005 to 2009.",
-      " Correspondingly, the next significant trend is slightly decreasing which exists from 1990 to 2002.",
-      " Conversely, the next significant trend is extremely increasing which exists from 2015 to 2018.",
-      " Correspondingly, the next significant trend is slightly increasing which exists from 2012 to 2015.",
-      " Also, the next significant trend is extremely increasing which exists from 2009 to 2012.",
-      " Similarly, the next significant trend is moderately increasing which exists from 2002 to 2005."
+      "Maximum Price per pound in U.S. cents, about 132.6 was reported at Year 2011",
+      "Minimum Price per pound in U.S. cents about 36.99 was reached at Year 2002",
+      "The line drastically "
    ],
-   "trends": [
-      {},
-      {
-         "1": "9",
-         "12": "13"
-      },
-      {
-         "3": "16",
-         "14": "20"
-      },
-      {
-         "3": "0",
-         "14": "3"
-      },
-      {
-         "3": "3",
-         "14": "6"
-      },
-      {
-         "3": "6",
-         "14": "9"
-      },
-      {
-         "3": "13",
-         "14": "16"
-      }
-   ],
+   "trends": [],
    "data": [
       {
          "Year": "2018",

@@ -1,13 +1,32 @@
 {
-   "title": "Test",
+   "title": "Consumer Price Index of all urban consumers , by region 2019",
    "xAxis": "Country",
    "yAxis": "Consumer Price Index (100=1982-1984)",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 5 categories on the x axis representing Country, and Consumer Price Index (100=1982-1984) in each Country on the y axis.",
-      "West is higher than any other categories with value 270.35, followed by , and U.S. city average. Down to category Midwest with the lowest value of 237.78. "
+      "This is a bar chart representing Country in the x axis and Consumer Price Index (100=1982-1984) in the y axis. ",
+      "Country West has the highest Consumer Price Index (100=1982-1984) and Midwest has the lowest Consumer Price Index (100=1982-1984). ",
+      "The Consumer Price Index (100=1982-1984) of Country West is 1.14% larger than the minimum value at Midwest. "
+   ],
+   "min_summary": [
+      "This bar chart has 5 columns on the x axis representing Country, and Consumer Price Index (100=1982-1984) in each Country on the y axis. ",
+      "The maximum Consumer Price Index (100=1982-1984) 270.35 is found at Country West and the minimum is found at Midwest where Country is 237.78. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Country in the x axis and Consumer Price Index (100=1982-1984) in the y axis. ",
+      "Country West has the highest Consumer Price Index (100=1982-1984) and Midwest has the lowest Consumer Price Index (100=1982-1984). ",
+      "The Consumer Price Index (100=1982-1984) of Country West is 1.14% larger than the minimum value at Midwest. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Country in the x axis and Consumer Price Index (100=1982-1984) in the y axis. ",
+      "The Consumer Price Index (100=1982-1984) is highest at Country West and lowest at Country Midwest. ",
+      "Country Northeast has the second highest value for Consumer Price Index (100=1982-1984). ",
+      "There is a difference of 32.57 between the maximum Country West and minimum Country Midwest. ",
+      "Country West is higher than any other Countrys with value 270.35, followed by Northeast, and U.S. city average. Down to Country Midwest with the lowest value 237.78. ",
+      "The highest value 270.35 at West is almost 1.06 times larger than the average value 255.89. ",
+      "Summing up the values of all Countrys, we get total 1279.45. "
    ],
    "trends": [
       {},

@@ -1,16 +1,32 @@
 {
-   "title": "Test",
+   "title": "Ranking of the most popular blogs in Norway 2019",
    "xAxis": "Month",
    "yAxis": "Number of visitors",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 10 categories on the x axis representing Month, and Number of visitors in each Month on the y axis.",
-      "Sophieelise is higher than any other categories with value 34173.0, followed by , and Isabelleeriksen. Down to category Martinelunde with the lowest value of 11963.0. ",
-      " The highest value at Sophieelise is almost 2.86 times larger than the minimum value of Martinelunde. ",
-      " The highest value at Sophieelise is almost 2.86 times larger than the minimum value of Martinelunde. ",
-      " The difference between the max Month Sophieelise and min Month Martinelunde is 22210.0. "
+      "This is a bar chart representing Month in the x axis and Number of visitors in the y axis. ",
+      "The Number of visitors is highest at Month Sophieelise and lowest at Month Martinelunde. ",
+      "The highest Month Sophieelise has 22210.0 more Number of visitors than the lowest Month Martinelunde. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing Month in the x axis and Number of visitors in the y axis. ",
+      "The Number of visitors is highest at Month Sophieelise and lowest at Month Martinelunde. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Month in the x axis and Number of visitors in the y axis. ",
+      "The Number of visitors is highest at Month Sophieelise and lowest at Month Martinelunde. ",
+      "The highest Month Sophieelise has 22210.0 more Number of visitors than the lowest Month Martinelunde. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Number of visitors for 10 number of Months. ",
+      "The Number of visitors is appeared to be the highest at Month Sophieelise and lowest at Month Martinelunde. ",
+      "The highest Month Sophieelise has 22210.0 more Number of visitors than the lowest Month Martinelunde. ",
+      "The Month Sophieelise has the highest Number of visitors, followed by Annarasmussen, and Isabelleeriksen. Down to the Month Martinelunde which is the lowest. ",
+      "Overall Number of visitors has reduced over the Months. ",
+      "Considered together, the average Number of visitors in all 10 Months is roughly 22587.9. ",
+      "Summing up the values of all Months, we get total 225879.0. "
    ],
    "trends": [
       {},

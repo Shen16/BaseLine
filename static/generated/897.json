@@ -1,5 +1,5 @@
 {
-   "title": "Test",
+   "title": "Mexico : foreign direct investment ( FDI ) 3rd quarter 2019 , by country",
    "labels": [
       "Country",
       "Q2 2019",
@@ -9,12 +9,30 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart has 9 categories of Country on the x axis representing 2 groups: Q2 2019, and Q3 2019.",
-      " Averaging these 2 groups, the highest category is found for Country United States with a mean value of 30.5.",
-      " Followed by Canada with a mean value of 18.21.",
-      " The lowest category is observed at Belgium that has a mean value of 0.01",
-      " showing a difference of 199.9% with the maximum value.",
-      " In case of United States, Q2 2019 shows more dominance than any other Country and it has the lowest value in Belgium. "
+      "This grouped bar chart shows SOME LABEL on the Y-axis for 9 different Countrys for 2 groups Q2 2019, and Q3 2019 that are presented on the X-axis. ",
+      " Out of all 2 groups, Q2 2019 had the highest SOME LABEL in Country United States and Q2 2019 had the lowest SOME LABEL in Country Belgium. ",
+      " Among all the Countrys, Q2 2019 had the highest SOME LABEL 3607.0 in Country United States and lowest value 0.0 in Country Belgium. ",
+      " The maximum SOME LABEL for Q2 2019 that was found in Country United States was 3607.0 times larger than the minimum SOME LABEL observed in Country Belgium. "
+   ],
+   "xAxis": "Country",
+   "yAxis": "SOME LABEL",
+   "min_summary": [
+      "This grouped bar chart represents 9 different Countrys on X-axis for 2 groups Q2 2019, and Q3 2019. On the Y-axis it shows their corresponding SOME LABEL. ",
+      " In Country United States, Q2 2019 had the highest SOME LABEL 3607.0 among the 2 groups and in Belgium, Q2 2019 had the lowest SOME LABEL 0.0. "
+   ],
+   "mid_summary": [
+      "This grouped bar chart shows SOME LABEL on the Y-axis for 9 different Countrys for 2 groups Q2 2019, and Q3 2019 that are presented on the X-axis. ",
+      " Out of all 2 groups, Q2 2019 had the highest SOME LABEL in Country United States and Q2 2019 had the lowest SOME LABEL in Country Belgium. ",
+      " Among all the Countrys, Q2 2019 had the highest SOME LABEL 3607.0 in Country United States and lowest value 0.0 in Country Belgium. ",
+      " The maximum SOME LABEL for Q2 2019 that was found in Country United States was 3607.0 times larger than the minimum SOME LABEL observed in Country Belgium. "
+   ],
+   "max_summary": [
+      "This grouped bar chart represents 9 different Countrys on X-axis for 2 groups Q2 2019, and Q3 2019. On the Y-axis it shows their corresponding SOME LABEL. ",
+      " In Country United States, Q2 2019 had the highest SOME LABEL 3607.0 among the 2 groups and in Belgium, Q2 2019 had the lowest SOME LABEL 0.0. ",
+      " In Country United States, Q2 2019 had the highest SOME LABEL among all 9 Countrys and it has the lowest SOME LABEL in Country Belgium. ",
+      "Country United States and Belgium had the biggest gap of 3606.0 between the highest and lowest SOME LABEL found for Q2 2019. ",
+      " Among the groups, Q2 2019 had the biggest difference in SOME LABEL. Where the maximum SOME LABEL was 3607.0 times larger than the minimum SOME LABEL. ",
+      "Averaging all 2 groups Q2 2019, and Q3 2019, the Country United States is the maximum SOME LABEL and Belgium is the minimum SOME LABEL. "
    ],
    "trends": [
       {},

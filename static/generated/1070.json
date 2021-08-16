@@ -1,28 +1,42 @@
 {
-   "title": "Test",
+   "title": "Red Bull 's number of cans sold worldwide 2011 to 2016",
    "xAxis": "Year",
    "yAxis": "Number of cans in billions",
    "columnType": "two",
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Number of cans in billions, with a total of 6 data points.",
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of cans in billions. In total the number of data points it has is 6.",
+      " Overall Number of cans in billions has increased over the Year.",
+      "Number of cans in billions is slightly increasing from 2011 to 2012, and lastly roughly constant from 2012 to 2016.",
+      "The line rapidly ",
+      "The most drastic increase took place within the Year 2011 and 2012.",
+      "The highest Number of cans in billions, of value 6.06 was reached at Year 2016",
+      "Minimum Number of cans in billions about 4.08 was reached at Year 2011"
+   ],
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Number of cans in billions, containing a total of 6 data points.",
+      " Overall Number of cans in billions has increased over the Year.",
+      "Number of cans in billions is slightly increasing from 2011 to 2012, and lastly roughly constant from 2012 to 2016."
+   ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Number of cans in billions, containing a total of 6 data points.",
       " Overall Number of cans in billions has increased over the Year.",
       "Number of cans in billions is slightly increasing from 2011 to 2012, and lastly roughly constant from 2012 to 2016.",
       "The steepest increase occurs in between the Year 2011 and 2012.",
-      "Max Number of cans in billions about 6.06 was recorded at Year 2016",
-      "Min Number of cans in billions about 4.08 was recorded at Year 2011",
-      "#########################################################################",
-      "This line chart has an x axis representing Year and a y axis representing Number of cans in billions with a total of 6 data points. The chart has one significant trend.",
-      " This trend is increasing which exists from 2016 to 2011."
+      "The highest Number of cans in billions, of value 6.06 was reached at Year 2016",
+      "Minimum Number of cans in billions about 4.08 was reached at Year 2011"
    ],
-   "trends": [
-      {},
-      {
-         "3": "0",
-         "14": "5"
-      }
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Number of cans in billions, containing a total of 6 data points.",
+      " In general Number of cans in billions has rose over the Year.",
+      "Number of cans in billions is slightly increasing from 2011 to 2012, and lastly roughly constant from 2012 to 2016.",
+      "The steepest increase occurs in between the Year 2011 and 2012.",
+      "The highest Number of cans in billions, of value 6.06 was reached at Year 2016",
+      "Minimum Number of cans in billions about 4.08 was reached at Year 2011",
+      "The line drastically "
    ],
+   "trends": [],
    "data": [
       {
          "Year": "2016",

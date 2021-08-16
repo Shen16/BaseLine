@@ -1,38 +1,42 @@
 {
-   "title": "Test",
+   "title": "21st Century Fox 's revenue 2011 to 2018",
    "xAxis": "Year",
    "yAxis": "Revenue in billion U.S. dollars",
    "columnType": "two",
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Revenue in billion U.S. dollars, with a total of 8 data points.",
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Revenue in billion U.S. dollars. In total the number of data points it has is 8.",
       " Overall Revenue in billion U.S. dollars has increased over the Year.",
-      "Revenue in billion U.S. dollars is roughly constant from 2011 to 2012, gradually increasing from 2012 to 2014, slightly decreasing from 2014 to 2015, roughly constant from 2015 to 2017, and lastly slightly increasing from 2017 to 2018.",
+      "Revenue in billion U.S. dollars is roughly constant from 2011 to 2012, gradually increasing from 2012 to 2014, slightly decreasing from 2014 to 2015, roughly constant from 2015 to 2017, and finally slightly increasing from 2017 to 2018.",
+      "The line significantly ",
+      "The most drastic increase took place within the Year 2013 and 2014.",
+      "Maximum Revenue in billion U.S. dollars, about 31.87 was reported at Year 2014",
+      "The lowest Revenue in billion U.S. dollars, of value 24.23 was reported at Year 2011"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Revenue in billion U.S. dollars. In total the number of data points it has is 8.",
+      " In general Revenue in billion U.S. dollars has rose over the Year.",
+      "Revenue in billion U.S. dollars is roughly constant from 2011 to 2012, gradually increasing from 2012 to 2014, slightly decreasing from 2014 to 2015, roughly constant from 2015 to 2017, and finally slightly increasing from 2017 to 2018."
+   ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Revenue in billion U.S. dollars, containing a total of 8 data points.",
+      " In general Revenue in billion U.S. dollars has rose over the Year.",
+      "Revenue in billion U.S. dollars is roughly constant from 2011 to 2012, gradually increasing from 2012 to 2014, slightly decreasing from 2014 to 2015, roughly constant from 2015 to 2017, and finally slightly increasing from 2017 to 2018.",
       "The steepest increase occurs in between the Year 2013 and 2014.",
-      "Max Revenue in billion U.S. dollars about 31.87 was recorded at Year 2014",
-      "Min Revenue in billion U.S. dollars about 24.23 was recorded at Year 2011",
-      "#########################################################################",
-      "This line chart has an x axis representing Year and a y axis representing Revenue in billion U.S. dollars, with a total of 8 data points. The chart has 3 significant trends.",
-      " The longest trend is extremely increasing which exists from 2011 to 2014.",
-      " Also, the next significant trend is extremely increasing which exists from 2016 to 2018.",
-      " Additionally, the next significant trend is slightly decreasing which exists from 2014 to 2016."
+      "Maximum Revenue in billion U.S. dollars, about 31.87 was reported at Year 2014",
+      "The lowest Revenue in billion U.S. dollars, of value 24.23 was reported at Year 2011"
    ],
-   "trends": [
-      {},
-      {
-         "1": "4",
-         "12": "7"
-      },
-      {
-         "3": "0",
-         "14": "2"
-      },
-      {
-         "3": "2",
-         "14": "4"
-      }
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Revenue in billion U.S. dollars, containing a total of 8 data points.",
+      " In general Revenue in billion U.S. dollars has rose over the Year.",
+      "Revenue in billion U.S. dollars is roughly constant from 2011 to 2012, gradually increasing from 2012 to 2014, slightly decreasing from 2014 to 2015, roughly constant from 2015 to 2017, and finally slightly increasing from 2017 to 2018.",
+      "The steepest increase occurs in between the Year 2013 and 2014.",
+      "Maximum Revenue in billion U.S. dollars, about 31.87 was reported at Year 2014",
+      "The lowest Revenue in billion U.S. dollars, of value 24.23 was reported at Year 2011",
+      "The line significantly "
    ],
+   "trends": [],
    "data": [
       {
          "Year": "2018",

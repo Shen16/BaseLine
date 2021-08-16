@@ -1,48 +1,38 @@
 {
-   "title": "Test",
+   "title": "Farm value per liter of maple syrup in Ontario 2000 to 2018",
    "xAxis": "Year",
    "yAxis": "Farm value per liter in Canadian dollars",
    "columnType": "two",
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Farm value per liter in Canadian dollars, with a total of 19 data points.",
+      "This is a line chart with an x axis representing Year and a y axis representing Farm value per liter in Canadian dollars, containing a total of 19 data points.",
       " Overall Farm value per liter in Canadian dollars has increased over the Year.",
-      "Farm value per liter in Canadian dollars is roughly constant from 2000 to 2006, rapidly increasing from 2006 to 2010, roughly constant from 2010 to 2011, roughly increasing from 2011 to 2013, roughly constant from 2013 to 2015, slightly decreasing from 2015 to 2016, roughly constant from 2016 to 2017, and lastly slightly decreasing from 2017 to 2018.",
+      "The line drastically ",
       "The steepest decrease occurs in between the Year 2015 and 2016.",
-      "Max Farm value per liter in Canadian dollars about 15.59 was recorded at Year 2015",
-      "Min Farm value per liter in Canadian dollars about 10.5 was recorded at Year 2000",
-      "#########################################################################",
-      "This line chart has an x axis representing Year and a y axis representing Farm value per liter in Canadian dollars, with a total of 19 data points. The chart has 5 significant trends.",
-      " The longest trend is extremely increasing which exists from 2002 to 2010.",
-      " Additionally, the next significant trend is moderately increasing which exists from 2012 to 2016.",
-      " Also, the next significant trend is slightly increasing which exists from 2016 to 2018.",
-      " Likewise, the next significant trend is moderately decreasing which exists from 2010 to 2012.",
-      " Conversely, the next significant trend is moderately decreasing which exists from 2000 to 2002."
+      "The highest Farm value per liter in Canadian dollars, of value 15.59 was reached at Year 2015",
+      "Minimum Farm value per liter in Canadian dollars about 10.5 was reached at Year 2000"
    ],
-   "trends": [
-      {},
-      {
-         "1": "8",
-         "12": "16"
-      },
-      {
-         "3": "2",
-         "14": "6"
-      },
-      {
-         "3": "0",
-         "14": "2"
-      },
-      {
-         "3": "6",
-         "14": "8"
-      },
-      {
-         "3": "16",
-         "14": "18"
-      }
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Farm value per liter in Canadian dollars, containing a total of 19 data points.",
+      " Overall Farm value per liter in Canadian dollars has increased over the Year."
    ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Farm value per liter in Canadian dollars. In total the number of data points it has is 19.",
+      " Overall Farm value per liter in Canadian dollars has increased over the Year.",
+      "The most drastic decrease took place within the Year 2015 and 2016.",
+      "The highest Farm value per liter in Canadian dollars, of value 15.59 was reached at Year 2015",
+      "Minimum Farm value per liter in Canadian dollars about 10.5 was reached at Year 2000"
+   ],
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Farm value per liter in Canadian dollars. In total the number of data points it has is 19.",
+      " In general Farm value per liter in Canadian dollars has rose over the Year.",
+      "The steepest decrease occurs in between the Year 2015 and 2016.",
+      "The highest Farm value per liter in Canadian dollars, of value 15.59 was reached at Year 2015",
+      "Minimum Farm value per liter in Canadian dollars about 10.5 was reached at Year 2000",
+      "The line drastically "
+   ],
+   "trends": [],
    "data": [
       {
          "Year": "2018",

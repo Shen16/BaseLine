@@ -1,16 +1,32 @@
 {
-   "title": "Test",
+   "title": "U.S. per capita consumption of fresh fruit by fruit type 2018",
    "xAxis": "Fruits",
    "yAxis": "Per capita consumption in pounds",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 11 categories on the x axis representing Fruits, and Per capita consumption in pounds in each Fruits on the y axis.",
-      "Bananas is higher than any other categories with value 28.2, followed by , and Oranges. Down to category Cherries with the lowest value of 1.3. ",
-      " The highest value at Bananas is almost 21.69 times larger than the minimum value of Cherries. ",
-      " The highest value at Bananas is almost 21.69 times larger than the minimum value of Cherries. ",
-      " The difference between the max Fruits Bananas and min Fruits Cherries is 26.9. "
+      "This bar chart has 11 columns on the x axis representing Fruits, and Per capita consumption in pounds in each Fruits on the y axis. ",
+      "The maximum Per capita consumption in pounds 28.2 is found at Fruits Bananas and the minimum is found at Cherries where Fruits is 1.3. ",
+      "The minimum Fruits Cherries has got 21.69 times less Per capita consumption in pounds than the maximum Fruits Bananas. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing Fruits in the x axis and Per capita consumption in pounds in the y axis. ",
+      "The maximum Per capita consumption in pounds 28.2 is found at Fruits Bananas and the minimum is found at Cherries where Fruits is 1.3. "
+   ],
+   "mid_summary": [
+      "This bar chart has 11 columns on the x axis representing Fruits, and Per capita consumption in pounds in each Fruits on the y axis. ",
+      "The maximum Per capita consumption in pounds 28.2 is found at Fruits Bananas and the minimum is found at Cherries where Fruits is 1.3. ",
+      "The minimum Fruits Cherries has got 21.69 times less Per capita consumption in pounds than the maximum Fruits Bananas. "
+   ],
+   "max_summary": [
+      "This bar chart has 11 columns on the x axis representing Fruits, and Per capita consumption in pounds in each Fruits on the y axis. ",
+      "The Per capita consumption in pounds is appeared to be the highest at Fruits Bananas and lowest at Fruits Cherries. ",
+      "The second highest Per capita consumption in pounds is appeared to be the Fruits Apples. ",
+      "The highest Fruits Bananas has 26.9 more Per capita consumption in pounds than the lowest Fruits Cherries. ",
+      "The Fruits Bananas has the highest Per capita consumption in pounds, followed by Apples, and Oranges. Down to the Fruits Cherries which is the lowest. ",
+      "The Fruits Cherries has 3.27 times less Per capita consumption in pounds than average. ",
+      "Summing up the values of all Fruitss, we get total 94.9. "
    ],
    "trends": [
       {},

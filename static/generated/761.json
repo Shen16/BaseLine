@@ -1,53 +1,42 @@
 {
-   "title": "Test",
+   "title": "Number of registered voters in the United States 1996 to 2018",
    "xAxis": "Year",
    "yAxis": "Number of registered voters in millions",
    "columnType": "two",
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Number of registered voters in millions, with a total of 9 data points.",
+      "This is a line chart with an x axis representing Year and a y axis representing Number of registered voters in millions, containing a total of 9 data points.",
+      " Overall Number of registered voters in millions has increased over the Year.",
+      "Number of registered voters in millions is roughly constant from 1996 to 2000, slightly increasing from 2000 to 2004, roughly constant from 2004 to 2008, slightly increasing from 2008 to 2016, and lastly roughly constant from 2016 to 2018.",
+      "The line significantly ",
+      "The steepest increase occurs in between the Year 2010 and 2012.",
+      "Maximum Number of registered voters in millions, about 157.6 was reported at Year 2016",
+      "Minimum Number of registered voters in millions about 127.66 was reached at Year 1996"
+   ],
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Number of registered voters in millions, containing a total of 9 data points.",
+      " In general Number of registered voters in millions has rose over the Year.",
+      "Number of registered voters in millions is roughly constant from 1996 to 2000, slightly increasing from 2000 to 2004, roughly constant from 2004 to 2008, slightly increasing from 2008 to 2016, and lastly roughly constant from 2016 to 2018."
+   ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Number of registered voters in millions, containing a total of 9 data points.",
+      " In general Number of registered voters in millions has rose over the Year.",
+      "Number of registered voters in millions is roughly constant from 1996 to 2000, slightly increasing from 2000 to 2004, roughly constant from 2004 to 2008, slightly increasing from 2008 to 2016, and lastly roughly constant from 2016 to 2018.",
+      "The steepest increase occurs in between the Year 2010 and 2012.",
+      "Maximum Number of registered voters in millions, about 157.6 was reported at Year 2016",
+      "Minimum Number of registered voters in millions about 127.66 was reached at Year 1996"
+   ],
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of registered voters in millions. In total the number of data points it has is 9.",
       " Overall Number of registered voters in millions has increased over the Year.",
       "Number of registered voters in millions is roughly constant from 1996 to 2000, slightly increasing from 2000 to 2004, roughly constant from 2004 to 2008, slightly increasing from 2008 to 2016, and lastly roughly constant from 2016 to 2018.",
       "The steepest increase occurs in between the Year 2010 and 2012.",
-      "Max Number of registered voters in millions about 157.6 was recorded at Year 2016",
-      "Min Number of registered voters in millions about 127.66 was recorded at Year 1996",
-      "#########################################################################",
-      "This line chart has an x axis representing Year and a y axis representing Number of registered voters in millions, with a total of 9 data points. The chart has 6 significant trends.",
-      " The longest trend is moderately increasing which exists from 1996 to 2008.",
-      " Additionally, the next significant trend is slightly decreasing which exists from 2016 to 2018.",
-      " Conversely, the next significant trend is extremely increasing which exists from 2014 to 2016.",
-      " Also, the next significant trend is slightly decreasing which exists from 2012 to 2014.",
-      " Conversely, the next significant trend is extremely increasing which exists from 2010 to 2012.",
-      " Also, the next significant trend is slightly decreasing which exists from 2008 to 2010."
+      "Maximum Number of registered voters in millions, about 157.6 was reported at Year 2016",
+      "Minimum Number of registered voters in millions about 127.66 was reached at Year 1996",
+      "The line significantly "
    ],
-   "trends": [
-      {},
-      {
-         "1": "5",
-         "12": "8"
-      },
-      {
-         "3": "0",
-         "14": "1"
-      },
-      {
-         "3": "1",
-         "14": "2"
-      },
-      {
-         "3": "2",
-         "14": "3"
-      },
-      {
-         "3": "3",
-         "14": "4"
-      },
-      {
-         "3": "4",
-         "14": "5"
-      }
-   ],
+   "trends": [],
    "data": [
       {
          "Year": "2018",

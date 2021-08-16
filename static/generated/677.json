@@ -1,38 +1,42 @@
 {
-   "title": "Test",
+   "title": "U.S. drone strikes in Yemen 2011 to 2019",
    "xAxis": "Year",
    "yAxis": "Number of drone strikes",
    "columnType": "two",
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Number of drone strikes, with a total of 9 data points.",
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of drone strikes. In total the number of data points it has is 9.",
       " Overall Number of drone strikes has decreased over the Year.",
-      "Number of drone strikes is slightly increasing from 2011 to 2012, roughly constant from 2012 to 2015, gradually increasing from 2015 to 2017, and lastly roughly decreasing from 2017 to 2019.",
+      "Number of drone strikes is slightly increasing from 2011 to 2012, roughly constant from 2012 to 2015, gradually increasing from 2015 to 2017, and finally roughly decreasing from 2017 to 2019.",
+      "The line rapidly increased by 236.36% from Year 2011 to 2012,increased by 76.19% from Year 2015 to 2016,increased by 243.24% from Year 2016 to 2017,decreased by 71.65% from Year 2017 to 2018, and lastly, decreased by 77.78% from Year 2018 to 2019.",
       "The steepest decrease occurs in between the Year 2017 and 2018.",
-      "Max Number of drone strikes about 127.0 was recorded at Year 2017",
-      "Min Number of drone strikes about 8.0 was recorded at Year 2019",
-      "#########################################################################",
-      "This line chart has an x axis representing Year and a y axis representing Number of drone strikes, with a total of 9 data points. The chart has 3 significant trends.",
-      " The longest trend is extremely increasing which exists from 2014 to 2017.",
-      " In a similar manner, the next significant trend is moderately decreasing which exists from 2011 to 2014.",
-      " Conversely, the next significant trend is slightly decreasing which exists from 2017 to 2019."
+      "The highest Number of drone strikes, of value 127.0 was reached at Year 2017",
+      "The lowest Number of drone strikes, of value 8.0 was reported at Year 2019"
    ],
-   "trends": [
-      {},
-      {
-         "1": "2",
-         "12": "5"
-      },
-      {
-         "3": "5",
-         "14": "8"
-      },
-      {
-         "3": "0",
-         "14": "2"
-      }
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of drone strikes. In total the number of data points it has is 9.",
+      " Overall Number of drone strikes has decreased over the Year.",
+      "Number of drone strikes is slightly increasing from 2011 to 2012, roughly constant from 2012 to 2015, gradually increasing from 2015 to 2017, and finally roughly decreasing from 2017 to 2019."
    ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of drone strikes. In total the number of data points it has is 9.",
+      " Overall Number of drone strikes has decreased over the Year.",
+      "Number of drone strikes is slightly increasing from 2011 to 2012, roughly constant from 2012 to 2015, gradually increasing from 2015 to 2017, and finally roughly decreasing from 2017 to 2019.",
+      "The steepest decrease occurs in between the Year 2017 and 2018.",
+      "The highest Number of drone strikes, of value 127.0 was reached at Year 2017",
+      "The lowest Number of drone strikes, of value 8.0 was reported at Year 2019"
+   ],
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of drone strikes. In total the number of data points it has is 9.",
+      " Overall Number of drone strikes has decreased over the Year.",
+      "Number of drone strikes is slightly increasing from 2011 to 2012, roughly constant from 2012 to 2015, gradually increasing from 2015 to 2017, and finally roughly decreasing from 2017 to 2019.",
+      "The steepest decrease occurs in between the Year 2017 and 2018.",
+      "The highest Number of drone strikes, of value 127.0 was reached at Year 2017",
+      "The lowest Number of drone strikes, of value 8.0 was reported at Year 2019",
+      "The line significantly increased by 26.0 from Year 2011 to 2012,increased by 16.0 from Year 2015 to 2016,increased by 90.0 from Year 2016 to 2017,decreased by 91.0 from Year 2017 to 2018, and lastly, decreased by 28.0 from Year 2018 to 2019."
+   ],
+   "trends": [],
    "data": [
       {
          "Year": "2019",

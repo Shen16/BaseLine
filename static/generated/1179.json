@@ -1,38 +1,38 @@
 {
-   "title": "Test",
+   "title": "Argentina : poverty headcount ratio at 3.20 U.S. dollars per day 2005 to 2017",
    "xAxis": "Year",
    "yAxis": "Percentage of population",
    "columnType": "two",
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Percentage of population, with a total of 12 data points.",
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Percentage of population. In total the number of data points it has is 12.",
       " Overall Percentage of population has decreased over the Year.",
-      "Percentage of population is slightly decreasing from 2005 to 2007, roughly constant from 2007 to 2009, gradually decreasing from 2009 to 2011, roughly constant from 2011 to 2012, roughly increasing from 2012 to 2013, and lastly slightly decreasing from 2013 to 2017.",
-      "The steepest decrease occurs in between the Year 2009 and 2010.",
-      "Max Percentage of population about 10.0 was recorded at Year 2005",
-      "Min Percentage of population about 2.0 was recorded at Year 2017",
-      "#########################################################################",
-      "This line chart has an x axis representing Year and a y axis representing Percentage of population, with a total of 12 data points. The chart has 3 significant trends.",
-      " The longest trend is slightly decreasing which exists from 2005 to 2012.",
-      " Contrarily, the next significant trend is moderately decreasing which exists from 2014 to 2017.",
-      " Contrarily, the next significant trend is extremely decreasing which exists from 2012 to 2014."
+      "The line rapidly ",
+      "The most drastic decrease took place within the Year 2009 and 2010.",
+      "The highest Percentage of population, of value 10.0 was reached at Year 2005",
+      "The lowest Percentage of population, of value 2.0 was reported at Year 2017"
    ],
-   "trends": [
-      {},
-      {
-         "1": "4",
-         "12": "11"
-      },
-      {
-         "3": "0",
-         "14": "2"
-      },
-      {
-         "3": "2",
-         "14": "4"
-      }
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Percentage of population. In total the number of data points it has is 12.",
+      " Overall Percentage of population has decreased over the Year."
    ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Percentage of population. In total the number of data points it has is 12.",
+      " Overall Percentage of population has decreased over the Year.",
+      "The most drastic decrease took place within the Year 2009 and 2010.",
+      "The highest Percentage of population, of value 10.0 was reached at Year 2005",
+      "The lowest Percentage of population, of value 2.0 was reported at Year 2017"
+   ],
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Percentage of population. In total the number of data points it has is 12.",
+      " In general Percentage of population has fallen over the Year.",
+      "The most drastic decrease took place within the Year 2009 and 2010.",
+      "The highest Percentage of population, of value 10.0 was reached at Year 2005",
+      "The lowest Percentage of population, of value 2.0 was reported at Year 2017",
+      "The line significantly "
+   ],
+   "trends": [],
    "data": [
       {
          "Year": "2017",

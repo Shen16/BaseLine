@@ -1,28 +1,42 @@
 {
-   "title": "Test",
+   "title": "Median age of the population in Greece 2015",
    "xAxis": "Year",
    "yAxis": "Median age in years",
    "columnType": "two",
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Median age in years, with a total of 21 data points.",
-      " Overall Median age in years has increased over the Year.",
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Median age in years. In total the number of data points it has is 21.",
+      " In general Median age in years has rose over the Year.",
+      "Median age in years is slightly increasing from 1950 to 1970, roughly constant from 1970 to 1980, gradually increasing from 1980 to 2035, and lastly roughly constant from 2035 to 2050.",
+      "The line drastically ",
+      "The steepest increase occurs in between the Year 1965 and 1970.",
+      "Maximum Median age in years, about 53.4 was reported at Year 2050",
+      "Minimum Median age in years about 25.5 was reached at Year 1950"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Median age in years. In total the number of data points it has is 21.",
+      " In general Median age in years has rose over the Year.",
+      "Median age in years is slightly increasing from 1950 to 1970, roughly constant from 1970 to 1980, gradually increasing from 1980 to 2035, and lastly roughly constant from 2035 to 2050."
+   ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Median age in years, containing a total of 21 data points.",
+      " In general Median age in years has rose over the Year.",
       "Median age in years is slightly increasing from 1950 to 1970, roughly constant from 1970 to 1980, gradually increasing from 1980 to 2035, and lastly roughly constant from 2035 to 2050.",
       "The steepest increase occurs in between the Year 1965 and 1970.",
-      "Max Median age in years about 53.4 was recorded at Year 2050",
-      "Min Median age in years about 25.5 was recorded at Year 1950",
-      "#########################################################################",
-      "This line chart has an x axis representing Year and a y axis representing Median age in years with a total of 21 data points. The chart has one significant trend.",
-      " This trend is increasing which exists from 2050 to 1950."
+      "Maximum Median age in years, about 53.4 was reported at Year 2050",
+      "Minimum Median age in years about 25.5 was reached at Year 1950"
    ],
-   "trends": [
-      {},
-      {
-         "3": "0",
-         "14": "20"
-      }
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Median age in years. In total the number of data points it has is 21.",
+      " In general Median age in years has rose over the Year.",
+      "Median age in years is slightly increasing from 1950 to 1970, roughly constant from 1970 to 1980, gradually increasing from 1980 to 2035, and lastly roughly constant from 2035 to 2050.",
+      "The steepest increase occurs in between the Year 1965 and 1970.",
+      "Maximum Median age in years, about 53.4 was reported at Year 2050",
+      "Minimum Median age in years about 25.5 was reached at Year 1950",
+      "The line drastically "
    ],
+   "trends": [],
    "data": [
       {
          "Year": "2050",

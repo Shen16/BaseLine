@@ -1,16 +1,34 @@
 {
-   "title": "Test",
+   "title": "Leading Croatian national team players at FIFA World Cup 2018 , by market value",
    "xAxis": "Month",
    "yAxis": "Market value in million euros",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 23 categories on the x axis representing Month, and Market value in million euros in each Month on the y axis.",
-      "Ivan Rakitic is higher than any other categories with value 50.0, followed by , and Mateo Kovacic. Down to category Dominik Livakovic with the lowest value of 1.5. ",
-      " The highest value at Ivan Rakitic is almost 33.33 times larger than the minimum value of Dominik Livakovic. ",
-      " The highest value at Ivan Rakitic is almost 33.33 times larger than the minimum value of Dominik Livakovic. ",
-      " The difference between the max Month Ivan Rakitic and min Month Dominik Livakovic is 48.5. "
+      "This bar chart has 23 columns on the x axis representing Month, and Market value in million euros in each Month on the y axis. ",
+      "The Market value in million euros is highest at Month Ivan Rakitic and lowest at Month Dominik Livakovic. ",
+      "The Market value in million euros of Month Ivan Rakitic is 33.33% larger than the minimum value at Dominik Livakovic. "
+   ],
+   "min_summary": [
+      "This bar chart has 23 columns on the x axis representing Month, and Market value in million euros in each Month on the y axis. ",
+      "The maximum Market value in million euros 50.0 is found at Month Ivan Rakitic and the minimum is found at Dominik Livakovic where Month is 1.5. "
+   ],
+   "mid_summary": [
+      "This bar chart has 23 columns on the x axis representing Month, and Market value in million euros in each Month on the y axis. ",
+      "The Market value in million euros is highest at Month Ivan Rakitic and lowest at Month Dominik Livakovic. ",
+      "The Market value in million euros of Month Ivan Rakitic is 33.33% larger than the minimum value at Dominik Livakovic. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Market value in million euros for 23 number of Months. ",
+      "The Market value in million euros is appeared to be the highest at Month Ivan Rakitic and lowest at Month Dominik Livakovic. ",
+      "The second highest Market value in million euros is appeared to be the Month Ivan Perisic. ",
+      "The difference of Market value in million euros between the highest and lowest Month is 48.5. ",
+      "The Month Ivan Rakitic has the highest Market value in million euros, followed by Ivan Perisic, and Mateo Kovacic. Down to the Month Dominik Livakovic which is the lowest. ",
+      "The Market value in million euros has decreased over the past 23 Months. ",
+      "Month Andrej Kramaric, and Marcelo Brozovic share the same value 27.0. ",
+      "The Month Ivan Rakitic has 3.16 times more Market value in million euros than average. ",
+      "Summing up the values of all Months, we get total 364.0. "
    ],
    "trends": [
       {},

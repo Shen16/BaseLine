@@ -1,5 +1,5 @@
 {
-   "title": "Test",
+   "title": "Global bauxite import and export 2005 to 2018",
    "labels": [
       "Year",
       "Export",
@@ -9,15 +9,37 @@
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This is a multi-line chart with 2 lines representing Export, and Import. ",
-      "The line for Import has the highest values across Year with a mean value of 71087.69, ",
-      "and it peaked at 2018 with a value of 108775.3.",
-      "Export mostly had the least y-axis name with a mean value of 49288.24, ",
-      "which peaked at 2013 with a value of 91886.1. ",
-      "Export reported the lowest y-axis name  about 24045.7 in Year 2005",
+      "You are viewing a chart of multi-line type with 2 lines denoting Export, and Import. The y axis indicates the Trade in thousands metric tons and the x axis indicates Year.",
       "Overall Export, and Import are gradually increasing,  throughout the Year",
-      "The difference of y_axis name between Export and Import is greater at Year 2018 compared to the Year 2005.",
-      "The greatest difference of y_axis name between Export and Import occurs at Year 2018 and the smallest difference occurs at 2010."
+      "The ranking of the lines from topmost to botommmost is as follows: 1. Import, and lastly, 2. Export. ",
+      "Throughout the period, Import generally had the highest Trade in thousands metric tons relative to others with an average of 71087.69, and it reached its maximum at 2018 with a value of 108775.3.",
+      "The botommost line, Export,  has a mean of 49288.24, and peaked at 2013. ",
+      "Export reported the lowest Trade in thousands metric tons about 24045.7 in Year 2005",
+      "The greatest difference of Trade in thousands metric tons between Export and Import occurs at Year 2018 and the smallest difference occurs at 2010."
+   ],
+   "xAxis": "Year",
+   "yAxis": "Trade in thousands metric tons",
+   "min_summary": [
+      "The given chart is of multi-line type with 2 lines namely Export, and Import. The y axis represents Trade in thousands metric tons and the x axis represents Year.",
+      "Overall Export, and Import are gradually increasing,  throughout the Year",
+      "Overall across the Year, Import mostly maintained the highest Trade in thousands metric tons when compared to others with a mean value of 71087.69, and it peaked at 2018.",
+      "The botommost line, Export,  has a mean of 49288.24, and peaked at 2013. "
+   ],
+   "mid_summary": [
+      "This is a multi-line chart with 2 lines representing Export, and Import. The y axis denotes Trade in thousands metric tons and the x axis denotes Year.",
+      "Overall Export, and Import are gradually increasing,  throughout the Year",
+      "The lines ordered according to average values of Trade in thousands metric tons in descending order is: 1. Import, and lastly, 2. Export. ",
+      "Overall across the Year, Import mostly maintained the highest Trade in thousands metric tons when compared to others with a mean value of 71087.69, and it peaked at 2018.",
+      "Export mostly had the least Trade in thousands metric tons with a mean value of 49288.24, which peaked at 2013 with a value of 91886.1. "
+   ],
+   "max_summary": [
+      "The given chart is of multi-line type with 2 lines namely Export, and Import. The y axis represents Trade in thousands metric tons and the x axis represents Year.",
+      "Overall Export, and Import are gradually increasing,  throughout the Year",
+      "The lines ordered according to average values of Trade in thousands metric tons in descending order is: 1. Import, and lastly, 2. Export. ",
+      "Overall across the Year, Import mostly maintained the highest Trade in thousands metric tons when compared to others with a mean value of 71087.69, and it peaked at 2018.",
+      "Export mostly had the least Trade in thousands metric tons with a mean value of 49288.24, which peaked at 2013 with a value of 91886.1. ",
+      "Export reported the lowest Trade in thousands metric tons about 24045.7 in Year 2005",
+      "The difference of Trade in thousands metric tons between Export and Import is greater at Year 2018 compared to the Year 2005."
    ],
    "trends": [
       {},

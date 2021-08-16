@@ -1,43 +1,42 @@
 {
-   "title": "Test",
+   "title": "Unemployment rate in South Korea 2024",
    "xAxis": "Year",
    "yAxis": "Unemployment rate",
    "columnType": "two",
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Unemployment rate, with a total of 11 data points.",
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Unemployment rate. In total the number of data points it has is 11.",
+      " In general Unemployment rate has rose over the Year.",
+      "Unemployment rate is roughly increasing from 2014 to 2015, roughly constant from 2015 to 2017, gradually increasing from 2017 to 2020, roughly constant from 2020 to 2021, and finally slightly decreasing from 2021 to 2024.",
+      "The line significantly ",
+      "The most drastic increase took place within the Year 2018 and 2019.",
+      "The highest Unemployment rate, of value 4.15 was reached at Year 2020",
+      "Minimum Unemployment rate about 3.49 was reached at Year 2014"
+   ],
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Unemployment rate, containing a total of 11 data points.",
+      " In general Unemployment rate has rose over the Year.",
+      "Unemployment rate is roughly increasing from 2014 to 2015, roughly constant from 2015 to 2017, gradually increasing from 2017 to 2020, roughly constant from 2020 to 2021, and finally slightly decreasing from 2021 to 2024."
+   ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Unemployment rate, containing a total of 11 data points.",
       " Overall Unemployment rate has increased over the Year.",
-      "Unemployment rate is roughly increasing from 2014 to 2015, roughly constant from 2015 to 2017, gradually increasing from 2017 to 2020, roughly constant from 2020 to 2021, and lastly slightly decreasing from 2021 to 2024.",
+      "Unemployment rate is roughly increasing from 2014 to 2015, roughly constant from 2015 to 2017, gradually increasing from 2017 to 2020, roughly constant from 2020 to 2021, and finally slightly decreasing from 2021 to 2024.",
       "The steepest increase occurs in between the Year 2018 and 2019.",
-      "Max Unemployment rate about 4.15 was recorded at Year 2020",
-      "Min Unemployment rate about 3.49 was recorded at Year 2014",
-      "#########################################################################",
-      "This line chart has an x axis representing Year and a y axis representing Unemployment rate, with a total of 11 data points. The chart has 4 significant trends.",
-      " The longest trend is slightly decreasing which exists from 2020 to 2024.",
-      " On the contrary, the next significant trend is extremely increasing which exists from 2017 to 2020.",
-      " Also, the next significant trend is moderately increasing which exists from 2014 to 2016.",
-      " Additionally, the next significant trend is moderately constant which exists from 2016 to 2017."
+      "The highest Unemployment rate, of value 4.15 was reached at Year 2020",
+      "Minimum Unemployment rate about 3.49 was reached at Year 2014"
    ],
-   "trends": [
-      {},
-      {
-         "1": "0",
-         "12": "4"
-      },
-      {
-         "3": "4",
-         "14": "7"
-      },
-      {
-         "3": "8",
-         "14": "10"
-      },
-      {
-         "3": "7",
-         "14": "8"
-      }
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Unemployment rate. In total the number of data points it has is 11.",
+      " Overall Unemployment rate has increased over the Year.",
+      "Unemployment rate is roughly increasing from 2014 to 2015, roughly constant from 2015 to 2017, gradually increasing from 2017 to 2020, roughly constant from 2020 to 2021, and finally slightly decreasing from 2021 to 2024.",
+      "The steepest increase occurs in between the Year 2018 and 2019.",
+      "The highest Unemployment rate, of value 4.15 was reached at Year 2020",
+      "Minimum Unemployment rate about 3.49 was reached at Year 2014",
+      "The line significantly "
    ],
+   "trends": [],
    "data": [
       {
          "Year": "2024",

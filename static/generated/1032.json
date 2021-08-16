@@ -1,15 +1,29 @@
 {
-   "title": "Test",
+   "title": "Clash of Clans and Clash Royale mobile revenue 2018",
    "xAxis": "Game",
    "yAxis": "Revenue in million U.S. dollars",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 2 categories on the x axis representing Game, and Revenue in million U.S. dollars in each Game on the y axis.",
-      " The highest category is found at Clash Royale where Revenue in million U.S. dollars is 597.0.",
-      "",
-      " The lowest category is found at Clash of Clans where Revenue in million U.S. dollars is 567.0."
+      "This bar chart has 2 columns on the x axis representing Game, and Revenue in million U.S. dollars in each Game on the y axis. ",
+      "The Revenue in million U.S. dollars is appeared to be the highest at Game Clash Royale and lowest at Game Clash of Clans. ",
+      "The difference of Revenue in million U.S. dollars between the highest and lowest Game is 30.0. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing Game in the x axis and Revenue in million U.S. dollars in the y axis. ",
+      "The Revenue in million U.S. dollars is appeared to be the highest at Game Clash Royale and lowest at Game Clash of Clans. "
+   ],
+   "mid_summary": [
+      "This bar chart has 2 columns on the x axis representing Game, and Revenue in million U.S. dollars in each Game on the y axis. ",
+      "The Revenue in million U.S. dollars is appeared to be the highest at Game Clash Royale and lowest at Game Clash of Clans. ",
+      "The difference of Revenue in million U.S. dollars between the highest and lowest Game is 30.0. "
+   ],
+   "max_summary": [
+      "This bar chart has 2 columns on the x axis representing Game, and Revenue in million U.S. dollars in each Game on the y axis. ",
+      "The Revenue in million U.S. dollars is highest at Game Clash Royale and lowest at Game Clash of Clans. ",
+      "The difference of Revenue in million U.S. dollars between the highest and lowest Game is 30.0. ",
+      "The highest value 597.0 at Clash Royale is almost 1.03 times larger than the average value 582.0. "
    ],
    "trends": [
       {},

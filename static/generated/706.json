@@ -1,16 +1,31 @@
 {
-   "title": "Test",
+   "title": "Michelin - worldwide number of employees by region 2018",
    "xAxis": "Region",
    "yAxis": "Number of employees",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 5 categories on the x axis representing Region, and Number of employees in each Region on the y axis.",
-      "Europe is higher than any other categories with value 70599.0, followed by , and Asia (excl. India). Down to category Africa India Middle-East with the lowest value of 1848.0. ",
-      " The highest value at Europe is almost 38.2 times larger than the minimum value of Africa India Middle-East. ",
-      " The highest value at Europe is almost 38.2 times larger than the minimum value of Africa India Middle-East. ",
-      " The difference between the max Region Europe and min Region Africa India Middle-East is 68751.0. "
+      "This is a bar chart representing Region in the x axis and Number of employees in the y axis. ",
+      "The Number of employees is appeared to be the highest at Region Europe and lowest at Region Africa India Middle-East. ",
+      "There is a difference of 68751.0 between the maximum Region Europe and minimum Region Africa India Middle-East. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Number of employees for 5 number of Regions. ",
+      "The Number of employees is highest at Region Europe and lowest at Region Africa India Middle-East. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Region in the x axis and Number of employees in the y axis. ",
+      "The Number of employees is appeared to be the highest at Region Europe and lowest at Region Africa India Middle-East. ",
+      "There is a difference of 68751.0 between the maximum Region Europe and minimum Region Africa India Middle-East. "
+   ],
+   "max_summary": [
+      "This bar chart has 5 columns on the x axis representing Region, and Number of employees in each Region on the y axis. ",
+      "The Number of employees is appeared to be the highest at Region Europe and lowest at Region Africa India Middle-East. ",
+      "There is a difference of 68751.0 between the maximum Region Europe and minimum Region Africa India Middle-East. ",
+      "Region Europe is higher than any other Regions with value 70599.0, followed by North America, and Asia (excl. India). Down to Region Africa India Middle-East with the lowest value 1848.0. ",
+      "The lowest value 1848.0 at Africa India Middle-East is almost 3.01 times smaller than the average value 23482.6. ",
+      "The Number of employees is 117413.0 if we add up values of all Regions. "
    ],
    "trends": [
       {},

@@ -1,43 +1,38 @@
 {
-   "title": "Test",
+   "title": "GDP of New Brunswick , Canada 2000 to 2018",
    "xAxis": "Year",
    "yAxis": "GDP in million chained 2012 Canadian dollars",
    "columnType": "two",
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing GDP in million chained 2012 Canadian dollars, with a total of 19 data points.",
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes GDP in million chained 2012 Canadian dollars. In total the number of data points it has is 19.",
       " Overall GDP in million chained 2012 Canadian dollars has increased over the Year.",
-      "GDP in million chained 2012 Canadian dollars is rapidly increasing from 2000 to 2006, roughly constant from 2006 to 2007, roughly decreasing from 2007 to 2008, roughly increasing from 2008 to 2010, roughly constant from 2010 to 2015, slightly increasing from 2015 to 2017, and lastly roughly constant from 2017 to 2018.",
+      "The line significantly ",
       "The steepest increase occurs in between the Year 2001 and 2002.",
-      "Max GDP in million chained 2012 Canadian dollars about 30446.6 was recorded at Year 2018",
-      "Min GDP in million chained 2012 Canadian dollars about 25058.0 was recorded at Year 2000",
-      "#########################################################################",
-      "This line chart has an x axis representing Year and a y axis representing GDP in million chained 2012 Canadian dollars, with a total of 19 data points. The chart has 4 significant trends.",
-      " The longest trend is extremely increasing which exists from 2000 to 2009.",
-      " Also, the next significant trend is extremely increasing which exists from 2013 to 2018.",
-      " Additionally, the next significant trend is slightly decreasing which exists from 2011 to 2013.",
-      " Differently, the next significant trend is extremely increasing which exists from 2009 to 2011."
+      "The highest GDP in million chained 2012 Canadian dollars, of value 30446.6 was reached at Year 2018",
+      "The lowest GDP in million chained 2012 Canadian dollars, of value 25058.0 was reported at Year 2000"
    ],
-   "trends": [
-      {},
-      {
-         "1": "9",
-         "12": "18"
-      },
-      {
-         "3": "0",
-         "14": "5"
-      },
-      {
-         "3": "5",
-         "14": "7"
-      },
-      {
-         "3": "7",
-         "14": "9"
-      }
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing GDP in million chained 2012 Canadian dollars, containing a total of 19 data points.",
+      " Overall GDP in million chained 2012 Canadian dollars has increased over the Year."
    ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes GDP in million chained 2012 Canadian dollars. In total the number of data points it has is 19.",
+      " In general GDP in million chained 2012 Canadian dollars has rose over the Year.",
+      "The steepest increase occurs in between the Year 2001 and 2002.",
+      "The highest GDP in million chained 2012 Canadian dollars, of value 30446.6 was reached at Year 2018",
+      "The lowest GDP in million chained 2012 Canadian dollars, of value 25058.0 was reported at Year 2000"
+   ],
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes GDP in million chained 2012 Canadian dollars. In total the number of data points it has is 19.",
+      " Overall GDP in million chained 2012 Canadian dollars has increased over the Year.",
+      "The most drastic increase took place within the Year 2001 and 2002.",
+      "The highest GDP in million chained 2012 Canadian dollars, of value 30446.6 was reached at Year 2018",
+      "The lowest GDP in million chained 2012 Canadian dollars, of value 25058.0 was reported at Year 2000",
+      "The line drastically "
+   ],
+   "trends": [],
    "data": [
       {
          "Year": "2018",

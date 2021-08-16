@@ -1,18 +1,31 @@
 {
-   "title": "Test",
+   "title": "Leading FMCG brands in the United Kingdom ( UK ) 2018 , by consumer reach",
    "xAxis": "Food Groups",
    "yAxis": "Consumer Reach Points in millions",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 10 categories on the x axis representing Food Groups, and Consumer Reach Points in millions in each Food Groups on the y axis.",
-      " The highest category is found at Warburtons where Consumer Reach Points in millions is 514.0.",
-      " Followed by 514.0 in .",
-      " The lowest category is found at Birds Eye where Consumer Reach Points in millions is 172.0.",
-      " The highest value at Warburtons is almost 2.99 times larger than the minimum value of Birds Eye. ",
-      " The highest value at Warburtons is almost 2.99 times larger than the minimum value of Birds Eye. ",
-      " The difference between the max Food Groups Warburtons and min Food Groups Birds Eye is 342.0. "
+      "This bar chart has 10 columns on the x axis representing Food Groups, and Consumer Reach Points in millions in each Food Groups on the y axis. ",
+      "Food Groups Warburtons has the highest Consumer Reach Points in millions and Birds Eye has the lowest Consumer Reach Points in millions. ",
+      "The difference of Consumer Reach Points in millions between the highest and lowest Food Groups is 342.0. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing Food Groups in the x axis and Consumer Reach Points in millions in the y axis. ",
+      "The Consumer Reach Points in millions is highest at Food Groups Warburtons and lowest at Food Groups Birds Eye. "
+   ],
+   "mid_summary": [
+      "This bar chart has 10 columns on the x axis representing Food Groups, and Consumer Reach Points in millions in each Food Groups on the y axis. ",
+      "Food Groups Warburtons has the highest Consumer Reach Points in millions and Birds Eye has the lowest Consumer Reach Points in millions. ",
+      "The difference of Consumer Reach Points in millions between the highest and lowest Food Groups is 342.0. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Food Groups in the x axis and Consumer Reach Points in millions in the y axis. ",
+      "The Consumer Reach Points in millions is appeared to be the highest at Food Groups Warburtons and lowest at Food Groups Birds Eye. ",
+      "There is a difference of 342.0 between the maximum Food Groups Warburtons and minimum Food Groups Birds Eye. ",
+      "Consumer Reach Points in millions at Food Groups Warburtons is 514.0 , second place is Heinz at 367.0, and thirdly is Mc Vitie's at 284.0.",
+      "The Food Groups Birds Eye has 1.88 times less Consumer Reach Points in millions than average. ",
+      "The Consumer Reach Points in millions is 2733.0 if we add up values of all Food Groupss. "
    ],
    "trends": [
       {},

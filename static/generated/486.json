@@ -1,18 +1,33 @@
 {
-   "title": "Test",
+   "title": "National Basketball Association all-time rebounding leaders 1946 to 2020",
    "xAxis": "NBA player",
    "yAxis": "Number of rebounds",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 30 categories on the x axis representing NBA player, and Number of rebounds in each NBA player on the y axis.",
-      " The highest category is found at Wilt Chamberlain where Number of rebounds is 23924.0.",
-      " Followed by 23924.0 in .",
-      " The lowest category is found at Bill Bridges where Number of rebounds is 11054.0.",
-      " The highest value at Wilt Chamberlain is almost 2.16 times larger than the minimum value of Bill Bridges. ",
-      " The highest value at Wilt Chamberlain is almost 2.16 times larger than the minimum value of Bill Bridges. ",
-      " The difference between the max NBA player Wilt Chamberlain and min NBA player Bill Bridges is 12870.0. "
+      "This is a bar chart. It shows Number of rebounds for 30 number of NBA players. ",
+      "NBA player Wilt Chamberlain has the highest Number of rebounds and Bill Bridges has the lowest Number of rebounds. ",
+      "The Number of rebounds of NBA player Bill Bridges is 2.16% smaller than the maximum value at Wilt Chamberlain. "
+   ],
+   "min_summary": [
+      "This bar chart has 30 columns on the x axis representing NBA player, and Number of rebounds in each NBA player on the y axis. ",
+      "NBA player Wilt Chamberlain has the highest Number of rebounds and Bill Bridges has the lowest Number of rebounds. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Number of rebounds for 30 number of NBA players. ",
+      "NBA player Wilt Chamberlain has the highest Number of rebounds and Bill Bridges has the lowest Number of rebounds. ",
+      "The Number of rebounds of NBA player Bill Bridges is 2.16% smaller than the maximum value at Wilt Chamberlain. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Number of rebounds for 30 number of NBA players. ",
+      "The maximum Number of rebounds 23924.0 is found at NBA player Wilt Chamberlain and the minimum is found at Bill Bridges where NBA player is 11054.0. ",
+      "Second maximum Number of rebounds is found at NBA player Bill Russell. ",
+      "The minimum NBA player Bill Bridges has got 2.16 times less Number of rebounds than the maximum NBA player Wilt Chamberlain. ",
+      "NBA player Wilt Chamberlain is higher than any other NBA players with value 23924.0, followed by Bill Russell, and Kareem Abdul-Jabbar. Down to NBA player Bill Bridges with the lowest value 11054.0. ",
+      "NBA player Charles Barkley, and Charles Oakley have the same Number of rebounds. ",
+      "The NBA player Wilt Chamberlain tends to be 1.72 percent higher than average. ",
+      "Summing up the values of all NBA players, we get total 418464.0. "
    ],
    "trends": [
       {},

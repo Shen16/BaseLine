@@ -1,16 +1,34 @@
 {
-   "title": "Test",
+   "title": "UEFA Europa League all-time top goalscorers 1971 to 2019",
    "xAxis": "Month",
    "yAxis": "Goals scored",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 23 categories on the x axis representing Month, and Goals scored in each Month on the y axis.",
-      "Henrik Larsson is higher than any other categories with value 40.0, followed by , and Radamel Falcao. Down to category J\u00fcrgen Klinsmann with the lowest value of 22.0. ",
-      " The highest value at Henrik Larsson is almost 1.82 times larger than the minimum value of J\u00fcrgen Klinsmann. ",
-      " The highest value at Henrik Larsson is almost 1.82 times larger than the minimum value of J\u00fcrgen Klinsmann. ",
-      " The difference between the max Month Henrik Larsson and min Month J\u00fcrgen Klinsmann is 18.0. "
+      "This is a bar chart. It shows Goals scored for 23 number of Months. ",
+      "Month Henrik Larsson has the highest Goals scored and J\u00fcrgen Klinsmann has the lowest Goals scored. ",
+      "The highest Month Henrik Larsson has 18.0 more Goals scored than the lowest Month J\u00fcrgen Klinsmann. "
+   ],
+   "min_summary": [
+      "This bar chart has 23 columns on the x axis representing Month, and Goals scored in each Month on the y axis. ",
+      "The Goals scored is highest at Month Henrik Larsson and lowest at Month J\u00fcrgen Klinsmann. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Goals scored for 23 number of Months. ",
+      "Month Henrik Larsson has the highest Goals scored and J\u00fcrgen Klinsmann has the lowest Goals scored. ",
+      "The highest Month Henrik Larsson has 18.0 more Goals scored than the lowest Month J\u00fcrgen Klinsmann. "
+   ],
+   "max_summary": [
+      "This bar chart has 23 columns on the x axis representing Month, and Goals scored in each Month on the y axis. ",
+      "The Goals scored is appeared to be the highest at Month Henrik Larsson and lowest at Month J\u00fcrgen Klinsmann. ",
+      "Month Klaas Jan Huntelaar has the second highest value for Goals scored. ",
+      "The difference of Goals scored between the highest and lowest Month is 18.0. ",
+      "Month Henrik Larsson is higher than any other Months with value 40.0, followed by Klaas Jan Huntelaar, and Radamel Falcao. Down to Month J\u00fcrgen Klinsmann with the lowest value 22.0. ",
+      "Overall Goals scored has reduced over the Months. ",
+      "Month J\u00fcrgen Klinsmann, Dennis Bergkamp, Aleksandr Kerzhakov, Martin Chivers, Karl-Heinz Rummenigge, and Manuel Fernandes have the same Goals scored. ",
+      "The lowest value 22.0 at J\u00fcrgen Klinsmann is almost 1.57 times smaller than the average value 25.52. ",
+      "The Goals scored is 587.0 if we add up values of all Months. "
    ],
    "trends": [
       {},

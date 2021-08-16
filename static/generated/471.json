@@ -1,18 +1,31 @@
 {
-   "title": "Test",
+   "title": "Mobile operators : carrier market shares in the United Kingdom ( UK ) 2018",
    "xAxis": "Mobile Carrier",
    "yAxis": "Market share",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 9 categories on the x axis representing Mobile Carrier, and Market share in each Mobile Carrier on the y axis.",
-      " The highest category is found at BT (including EE) where Market share is 28.0.",
-      " Followed by 28.0 in .",
-      " The lowest category is found at Talk Talk where Market share is 1.0.",
-      " The highest value at BT (including EE) is almost 28.0 times larger than the minimum value of Talk Talk. ",
-      " The highest value at BT (including EE) is almost 28.0 times larger than the minimum value of Talk Talk. ",
-      " The difference between the max Mobile Carrier BT (including EE) and min Mobile Carrier Talk Talk is 27.0. "
+      "This is a bar chart. It shows Market share for 9 number of Mobile Carriers. ",
+      "Mobile Carrier BT (including EE) has the highest Market share and Talk Talk has the lowest Market share. ",
+      "The difference of Market share between the highest and lowest Mobile Carrier is 27.0. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing Mobile Carrier in the x axis and Market share in the y axis. ",
+      "The Market share is highest at Mobile Carrier BT (including EE) and lowest at Mobile Carrier Talk Talk. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Market share for 9 number of Mobile Carriers. ",
+      "Mobile Carrier BT (including EE) has the highest Market share and Talk Talk has the lowest Market share. ",
+      "The difference of Market share between the highest and lowest Mobile Carrier is 27.0. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Market share for 9 number of Mobile Carriers. ",
+      "The Market share is appeared to be the highest at Mobile Carrier BT (including EE) and lowest at Mobile Carrier Talk Talk. ",
+      "There is a difference of 27.0 between the maximum Mobile Carrier BT (including EE) and minimum Mobile Carrier Talk Talk. ",
+      "The Mobile Carrier BT (including EE) has the highest Market share, followed by O2, and Vodafone. Down to the Mobile Carrier Talk Talk which is the lowest. ",
+      "Mobile Carrier Talk Talk, iD Mobile, and Sky have the same Market share. ",
+      "The average Market share in all 9 Mobile Carriers is 11.11. "
    ],
    "trends": [
       {},

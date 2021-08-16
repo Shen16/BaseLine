@@ -1,16 +1,31 @@
 {
-   "title": "Test",
+   "title": "Opinion on novel coronavirus COVID-19 as a health issue India 2020",
    "xAxis": "Response",
    "yAxis": "Share of respondents",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 5 categories on the x axis representing Response, and Share of respondents in each Response on the y axis.",
-      "Staying alert and taking precautions is higher than any other categories with value 72.0, followed by , and Can't say. Down to category Don't know much about coronavirus with the lowest value of 3.0. ",
-      " The highest value at Staying alert and taking precautions is almost 24.0 times larger than the minimum value of Don't know much about coronavirus. ",
-      " The highest value at Staying alert and taking precautions is almost 24.0 times larger than the minimum value of Don't know much about coronavirus. ",
-      " The difference between the max Response Staying alert and taking precautions and min Response Don't know much about coronavirus is 69.0. "
+      "This is a bar chart representing Response in the x axis and Share of respondents in the y axis. ",
+      "The Share of respondents is highest at Response Staying alert and taking precautions and lowest at Response Don't know much about coronavirus. ",
+      "The highest value at Response Staying alert and taking precautions is 24.0x times more than the lowest value at Don't know much about coronavirus. "
+   ],
+   "min_summary": [
+      "This bar chart has 5 columns on the x axis representing Response, and Share of respondents in each Response on the y axis. ",
+      "The Share of respondents is highest at Response Staying alert and taking precautions and lowest at Response Don't know much about coronavirus. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Response in the x axis and Share of respondents in the y axis. ",
+      "The Share of respondents is highest at Response Staying alert and taking precautions and lowest at Response Don't know much about coronavirus. ",
+      "The highest value at Response Staying alert and taking precautions is 24.0x times more than the lowest value at Don't know much about coronavirus. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Share of respondents for 5 number of Responses. ",
+      "The Share of respondents is appeared to be the highest at Response Staying alert and taking precautions and lowest at Response Don't know much about coronavirus. ",
+      "Response Don't know much about coronavirus has 24.0 times less Share of respondents than Response Staying alert and taking precautions which is the highest. ",
+      "Share of respondents at Response Staying alert and taking precautions is 72.0 , second place is Don't believe it can impact us or Indians at large at 16.0, and thirdly is Can't say at 6.0.",
+      "Response Don't know much about coronavirus, and Don't believe it can impact us have a similar Share of respondents that is 3.0. ",
+      "The highest value 72.0 at Staying alert and taking precautions is almost 3.6 times larger than the average value 20.0. "
    ],
    "trends": [
       {},

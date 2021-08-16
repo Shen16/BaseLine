@@ -1,16 +1,32 @@
 {
-   "title": "Test",
+   "title": "Murder in the US - number of victims by weapon 2018",
    "xAxis": "Weapon Used",
    "yAxis": "Number of murder victims",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 16 categories on the x axis representing Weapon Used, and Number of murder victims in each Weapon Used on the y axis.",
-      "Handguns is higher than any other categories with value 6603.0, followed by , and Knives or cutting instruments. Down to category Explosives with the lowest value of 4.0. ",
-      " The highest value at Handguns is almost 1650.75 times larger than the minimum value of Explosives. ",
-      " The highest value at Handguns is almost 1650.75 times larger than the minimum value of Explosives. ",
-      " The difference between the max Weapon Used Handguns and min Weapon Used Explosives is 6599.0. "
+      "This is a bar chart. It shows Number of murder victims for 16 number of Weapon Useds. ",
+      "The maximum Number of murder victims 6603.0 is found at Weapon Used Handguns and the minimum is found at Explosives where Weapon Used is 4.0. ",
+      "The highest Weapon Used Handguns has 6599.0 more Number of murder victims than the lowest Weapon Used Explosives. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing Weapon Used in the x axis and Number of murder victims in the y axis. ",
+      "The Number of murder victims is appeared to be the highest at Weapon Used Handguns and lowest at Weapon Used Explosives. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Number of murder victims for 16 number of Weapon Useds. ",
+      "The maximum Number of murder victims 6603.0 is found at Weapon Used Handguns and the minimum is found at Explosives where Weapon Used is 4.0. ",
+      "The highest Weapon Used Handguns has 6599.0 more Number of murder victims than the lowest Weapon Used Explosives. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Weapon Used in the x axis and Number of murder victims in the y axis. ",
+      "The Number of murder victims is highest at Weapon Used Handguns and lowest at Weapon Used Explosives. ",
+      "The second highest Number of murder victims is appeared to be the Weapon Used Firearms type not stated. ",
+      "There is a difference of 6599.0 between the maximum Weapon Used Handguns and minimum Weapon Used Explosives. ",
+      "The Weapon Used Handguns has the highest Number of murder victims, followed by Firearms type not stated, and Knives or cutting instruments. Down to the Weapon Used Explosives which is the lowest. ",
+      "The average Number of murder victims in all 16 Weapon Useds is 882.69. ",
+      "The Number of murder victims is 14123.0 if we add up values of all Weapon Useds. "
    ],
    "trends": [
       {},

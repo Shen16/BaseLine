@@ -1,28 +1,42 @@
 {
-   "title": "Test",
+   "title": "Number of Spotify employees 2011 to 2018",
    "xAxis": "Year",
    "yAxis": "Number of employees",
    "columnType": "two",
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Number of employees, with a total of 6 data points.",
+      "This is a line chart with an x axis representing Year and a y axis representing Number of employees, containing a total of 6 data points.",
       " Overall Number of employees has increased over the Year.",
-      "Number of employees is slightly increasing from 2011 to 2013, roughly constant from 2013 to 2016, and lastly slightly increasing from 2016 to 2018.",
+      "Number of employees is slightly increasing from 2011 to 2013, roughly constant from 2013 to 2016, and finally slightly increasing from 2016 to 2018.",
+      "The line rapidly increased by 208.04% from Year 2011 to 2013, and lastly, increased by 92.65% from Year 2016 to 2018.",
+      "The most drastic increase took place within the Year 2016 and 2018.",
+      "The highest Number of employees, of value 4165.0 was reached at Year 2018",
+      "Minimum Number of employees about 311.0 was reached at Year 2011"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of employees. In total the number of data points it has is 6.",
+      " Overall Number of employees has increased over the Year.",
+      "Number of employees is slightly increasing from 2011 to 2013, roughly constant from 2013 to 2016, and finally slightly increasing from 2016 to 2018."
+   ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of employees. In total the number of data points it has is 6.",
+      " Overall Number of employees has increased over the Year.",
+      "Number of employees is slightly increasing from 2011 to 2013, roughly constant from 2013 to 2016, and finally slightly increasing from 2016 to 2018.",
       "The steepest increase occurs in between the Year 2016 and 2018.",
-      "Max Number of employees about 4165.0 was recorded at Year 2018",
-      "Min Number of employees about 311.0 was recorded at Year 2011",
-      "#########################################################################",
-      "This line chart has an x axis representing Year and a y axis representing Number of employees with a total of 6 data points. The chart has one significant trend.",
-      " This trend is increasing which exists from 2018 to 2011."
+      "The highest Number of employees, of value 4165.0 was reached at Year 2018",
+      "Minimum Number of employees about 311.0 was reached at Year 2011"
    ],
-   "trends": [
-      {},
-      {
-         "3": "0",
-         "14": "5"
-      }
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of employees. In total the number of data points it has is 6.",
+      " In general Number of employees has rose over the Year.",
+      "Number of employees is slightly increasing from 2011 to 2013, roughly constant from 2013 to 2016, and finally slightly increasing from 2016 to 2018.",
+      "The steepest increase occurs in between the Year 2016 and 2018.",
+      "The highest Number of employees, of value 4165.0 was reached at Year 2018",
+      "Minimum Number of employees about 311.0 was reached at Year 2011",
+      "The line rapidly increased by 208.04% from Year 2011 to 2013, and lastly, increased by 92.65% from Year 2016 to 2018."
    ],
+   "trends": [],
    "data": [
       {
          "Year": "2018",

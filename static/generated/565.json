@@ -1,48 +1,42 @@
 {
-   "title": "Test",
+   "title": "Gross domestic product ( GDP ) in Malaysia 2024",
    "xAxis": "Year",
    "yAxis": "Gross domestic product in billion U.S. dollars",
    "columnType": "two",
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Gross domestic product in billion U.S. dollars, with a total of 41 data points.",
+      "This is a line chart with an x axis representing Year and a y axis representing Gross domestic product in billion U.S. dollars, containing a total of 41 data points.",
       " Overall Gross domestic product in billion U.S. dollars has increased over the Year.",
-      "Gross domestic product in billion U.S. dollars is roughly decreasing from 1984 to 1985, rapidly increasing from 1985 to 1996, roughly constant from 1996 to 1997, roughly decreasing from 1997 to 1998, roughly increasing from 1998 to 2000, roughly constant from 2000 to 2001, rapidly increasing from 2001 to 2011, roughly constant from 2011 to 2020, and lastly roughly increasing from 2020 to 2024.",
+      "The chart in general has a zig-zag shape.",
+      "The line rapidly ",
       "The steepest increase occurs in between the Year 2009 and 2010.",
-      "Max Gross domestic product in billion U.S. dollars about 505.16 was recorded at Year 2024",
-      "Min Gross domestic product in billion U.S. dollars about 29.88 was recorded at Year 1986",
-      "#########################################################################",
-      "This line chart has an x axis representing Year and a y axis representing Gross domestic product in billion U.S. dollars, with a total of 41 data points. The chart has 5 significant trends.",
-      " The longest trend is moderately increasing which exists from 1986 to 1996.",
-      " Additionally, the next significant trend is extremely increasing which exists from 2016 to 2024.",
-      " In a similar manner, the next significant trend is moderately increasing which exists from 2001 to 2009.",
-      " Similarly, the next significant trend is moderately increasing which exists from 2009 to 2016.",
-      " Likewise, the next significant trend is slightly decreasing which exists from 1996 to 2001."
+      "Maximum Gross domestic product in billion U.S. dollars, about 505.16 was reported at Year 2024",
+      "Minimum Gross domestic product in billion U.S. dollars about 29.88 was reached at Year 1986"
    ],
-   "trends": [
-      {},
-      {
-         "1": "28",
-         "12": "38"
-      },
-      {
-         "3": "0",
-         "14": "8"
-      },
-      {
-         "3": "15",
-         "14": "23"
-      },
-      {
-         "3": "8",
-         "14": "15"
-      },
-      {
-         "3": "23",
-         "14": "28"
-      }
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Gross domestic product in billion U.S. dollars, containing a total of 41 data points.",
+      " Overall Gross domestic product in billion U.S. dollars has increased over the Year."
    ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Gross domestic product in billion U.S. dollars. In total the number of data points it has is 41.",
+      " Overall Gross domestic product in billion U.S. dollars has increased over the Year.",
+      "The steepest increase occurs in between the Year 2009 and 2010.",
+      "Maximum Gross domestic product in billion U.S. dollars, about 505.16 was reported at Year 2024",
+      "Minimum Gross domestic product in billion U.S. dollars about 29.88 was reached at Year 1986"
+   ],
+   "max_summary": [
+      "The chart generally has many fluctuations.",
+      "The chart in general has a zig-zag shape.",
+      "This is a line chart with an x axis representing Year and a y axis representing Gross domestic product in billion U.S. dollars, containing a total of 41 data points.",
+      " In general Gross domestic product in billion U.S. dollars has rose over the Year.",
+      "The chart generally has many fluctuations.",
+      "The steepest increase occurs in between the Year 2009 and 2010.",
+      "Maximum Gross domestic product in billion U.S. dollars, about 505.16 was reported at Year 2024",
+      "Minimum Gross domestic product in billion U.S. dollars about 29.88 was reached at Year 1986",
+      "The line significantly "
+   ],
+   "trends": [],
    "data": [
       {
          "Year": "2024",

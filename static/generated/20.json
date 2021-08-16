@@ -1,18 +1,33 @@
 {
-   "title": "Test",
+   "title": "Top hashtags used by U.S. Congress Democrats in 2019",
    "xAxis": "Hashtag",
    "yAxis": "Total number of mentions",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 10 categories on the x axis representing Hashtag, and Total number of mentions in each Hashtag on the y axis.",
-      " The highest category is found at #forthepeople where Total number of mentions is 6961.0.",
-      " Followed by 6961.0 in .",
-      " The lowest category is found at #hr1 where Total number of mentions is 1683.0.",
-      " The highest value at #forthepeople is almost 4.14 times larger than the minimum value of #hr1. ",
-      " The highest value at #forthepeople is almost 4.14 times larger than the minimum value of #hr1. ",
-      " The difference between the max Hashtag #forthepeople and min Hashtag #hr1 is 5278.0. "
+      "This is a bar chart. It shows Total number of mentions for 10 number of Hashtags. ",
+      "Hashtag #forthepeople has the highest Total number of mentions and #hr1 has the lowest Total number of mentions. ",
+      "The highest Hashtag #forthepeople has 5278.0 more Total number of mentions than the lowest Hashtag #hr1. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing Hashtag in the x axis and Total number of mentions in the y axis. ",
+      "The Total number of mentions is highest at Hashtag #forthepeople and lowest at Hashtag #hr1. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Total number of mentions for 10 number of Hashtags. ",
+      "Hashtag #forthepeople has the highest Total number of mentions and #hr1 has the lowest Total number of mentions. ",
+      "The highest Hashtag #forthepeople has 5278.0 more Total number of mentions than the lowest Hashtag #hr1. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Hashtag in the x axis and Total number of mentions in the y axis. ",
+      "The Total number of mentions is highest at Hashtag #forthepeople and lowest at Hashtag #hr1. ",
+      "The second highest Total number of mentions is appeared to be the Hashtag #trumpshutdown. ",
+      "The highest Hashtag #forthepeople has 5278.0 more Total number of mentions than the lowest Hashtag #hr1. ",
+      "Hashtag #forthepeople is higher than any other Hashtags with value 6961.0, followed by #trumpshutdown, and #protectourcare. Down to Hashtag #hr1 with the lowest value 1683.0. ",
+      "Hashtag #hr8, and #actonclimate have a similar Total number of mentions that is 2206.0. ",
+      "The Hashtag #forthepeople has 2.54 times more Total number of mentions than average. ",
+      "The Total number of mentions is 27456.0 if we add up values of all Hashtags. "
    ],
    "trends": [
       {},

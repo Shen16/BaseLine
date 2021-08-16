@@ -1,28 +1,42 @@
 {
-   "title": "Test",
+   "title": "Infant mortality rate in Malawi 2018",
    "xAxis": "Year",
    "yAxis": "Deaths per 1,000 live births",
    "columnType": "two",
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Deaths per 1,000 live births, with a total of 11 data points.",
+      "This is a line chart with an x axis representing Year and a y axis representing Deaths per 1,000 live births, containing a total of 11 data points.",
+      " In general Deaths per 1,000 live births has fallen over the Year.",
+      "Deaths per 1,000 live births is slightly decreasing from 2008 to 2018.",
+      "The line drastically ",
+      "The steepest decrease occurs in between the Year 2010 and 2011.",
+      "Maximum Deaths per 1,000 live births, about 59.2 was reported at Year 2008",
+      "Minimum Deaths per 1,000 live births about 35.3 was reached at Year 2018"
+   ],
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Deaths per 1,000 live births, containing a total of 11 data points.",
+      " In general Deaths per 1,000 live births has fallen over the Year.",
+      "Deaths per 1,000 live births is slightly decreasing from 2008 to 2018."
+   ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Deaths per 1,000 live births, containing a total of 11 data points.",
       " Overall Deaths per 1,000 live births has decreased over the Year.",
       "Deaths per 1,000 live births is slightly decreasing from 2008 to 2018.",
-      "The steepest decrease occurs in between the Year 2010 and 2011.",
-      "Max Deaths per 1,000 live births about 59.2 was recorded at Year 2008",
-      "Min Deaths per 1,000 live births about 35.3 was recorded at Year 2018",
-      "#########################################################################",
-      "This line chart has an x axis representing Year and a y axis representing Deaths per 1,000 live births with a total of 11 data points. The chart has one significant trend.",
-      " This trend is decreasing which exists from 2018 to 2008."
+      "The most drastic decrease took place within the Year 2010 and 2011.",
+      "Maximum Deaths per 1,000 live births, about 59.2 was reported at Year 2008",
+      "Minimum Deaths per 1,000 live births about 35.3 was reached at Year 2018"
    ],
-   "trends": [
-      {},
-      {
-         "3": "0",
-         "14": "10"
-      }
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Deaths per 1,000 live births, containing a total of 11 data points.",
+      " Overall Deaths per 1,000 live births has decreased over the Year.",
+      "Deaths per 1,000 live births is slightly decreasing from 2008 to 2018.",
+      "The most drastic decrease took place within the Year 2010 and 2011.",
+      "Maximum Deaths per 1,000 live births, about 59.2 was reported at Year 2008",
+      "Minimum Deaths per 1,000 live births about 35.3 was reached at Year 2018",
+      "The line drastically "
    ],
+   "trends": [],
    "data": [
       {
          "Year": "2018",

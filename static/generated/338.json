@@ -1,38 +1,42 @@
 {
-   "title": "Test",
+   "title": "Employments in the Netherlands 2020",
    "xAxis": "Year",
    "yAxis": "Labor force in millions",
    "columnType": "two",
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Labor force in millions, with a total of 11 data points.",
+      "This is a line chart with an x axis representing Year and a y axis representing Labor force in millions, containing a total of 11 data points.",
       " Overall Labor force in millions has increased over the Year.",
       "Labor force in millions is roughly constant from 2010 to 2012, roughly decreasing from 2012 to 2013, gradually increasing from 2013 to 2018, and lastly roughly constant from 2018 to 2020.",
-      "The steepest increase occurs in between the Year 2017 and 2018.",
-      "Max Labor force in millions about 8.94 was recorded at Year 2020",
-      "Min Labor force in millions about 8.21 was recorded at Year 2014",
-      "#########################################################################",
-      "This line chart has an x axis representing Year and a y axis representing Labor force in millions, with a total of 11 data points. The chart has 3 significant trends.",
-      " The longest trend is extremely increasing which exists from 2014 to 2020.",
-      " Likewise, the next significant trend is slightly decreasing which exists from 2012 to 2014.",
-      " But, the next significant trend is moderately increasing which exists from 2010 to 2012."
+      "The line significantly ",
+      "The most drastic increase took place within the Year 2017 and 2018.",
+      "Maximum Labor force in millions, about 8.94 was reported at Year 2020",
+      "Minimum Labor force in millions about 8.21 was reached at Year 2014"
    ],
-   "trends": [
-      {},
-      {
-         "1": "0",
-         "12": "6"
-      },
-      {
-         "3": "6",
-         "14": "8"
-      },
-      {
-         "3": "8",
-         "14": "10"
-      }
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Labor force in millions, containing a total of 11 data points.",
+      " In general Labor force in millions has rose over the Year.",
+      "Labor force in millions is roughly constant from 2010 to 2012, roughly decreasing from 2012 to 2013, gradually increasing from 2013 to 2018, and lastly roughly constant from 2018 to 2020."
    ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Labor force in millions, containing a total of 11 data points.",
+      " Overall Labor force in millions has increased over the Year.",
+      "Labor force in millions is roughly constant from 2010 to 2012, roughly decreasing from 2012 to 2013, gradually increasing from 2013 to 2018, and lastly roughly constant from 2018 to 2020.",
+      "The most drastic increase took place within the Year 2017 and 2018.",
+      "Maximum Labor force in millions, about 8.94 was reported at Year 2020",
+      "Minimum Labor force in millions about 8.21 was reached at Year 2014"
+   ],
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Labor force in millions. In total the number of data points it has is 11.",
+      " In general Labor force in millions has rose over the Year.",
+      "Labor force in millions is roughly constant from 2010 to 2012, roughly decreasing from 2012 to 2013, gradually increasing from 2013 to 2018, and lastly roughly constant from 2018 to 2020.",
+      "The most drastic increase took place within the Year 2017 and 2018.",
+      "Maximum Labor force in millions, about 8.94 was reported at Year 2020",
+      "Minimum Labor force in millions about 8.21 was reached at Year 2014",
+      "The line significantly "
+   ],
+   "trends": [],
    "data": [
       {
          "Year": "2020",

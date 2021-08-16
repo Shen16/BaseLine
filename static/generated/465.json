@@ -1,18 +1,33 @@
 {
-   "title": "Test",
+   "title": "The richest people in America as of 2019",
    "xAxis": "Month",
    "yAxis": "Net worth in billion U.S. dollars",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 20 categories on the x axis representing Month, and Net worth in billion U.S. dollars in each Month on the y axis.",
-      " The highest category is found at Jeff Bezos & family (Amazon.com) where Net worth in billion U.S. dollars is 131.0.",
-      " Followed by 131.0 in .",
-      " The lowest category is found at Elon Musk (Tesla Motors SpaceX) where Net worth in billion U.S. dollars is 22.3.",
-      " The highest value at Jeff Bezos & family (Amazon.com) is almost 5.87 times larger than the minimum value of Elon Musk (Tesla Motors SpaceX). ",
-      " The highest value at Jeff Bezos & family (Amazon.com) is almost 5.87 times larger than the minimum value of Elon Musk (Tesla Motors SpaceX). ",
-      " The difference between the max Month Jeff Bezos & family (Amazon.com) and min Month Elon Musk (Tesla Motors SpaceX) is 108.7. "
+      "This is a bar chart representing Month in the x axis and Net worth in billion U.S. dollars in the y axis. ",
+      "The Net worth in billion U.S. dollars is appeared to be the highest at Month Jeff Bezos & family (Amazon.com) and lowest at Month Elon Musk (Tesla Motors SpaceX). ",
+      "The highest Month Jeff Bezos & family (Amazon.com) has 108.7 more Net worth in billion U.S. dollars than the lowest Month Elon Musk (Tesla Motors SpaceX). "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Net worth in billion U.S. dollars for 20 number of Months. ",
+      "The Net worth in billion U.S. dollars is appeared to be the highest at Month Jeff Bezos & family (Amazon.com) and lowest at Month Elon Musk (Tesla Motors SpaceX). "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Month in the x axis and Net worth in billion U.S. dollars in the y axis. ",
+      "The Net worth in billion U.S. dollars is appeared to be the highest at Month Jeff Bezos & family (Amazon.com) and lowest at Month Elon Musk (Tesla Motors SpaceX). ",
+      "The highest Month Jeff Bezos & family (Amazon.com) has 108.7 more Net worth in billion U.S. dollars than the lowest Month Elon Musk (Tesla Motors SpaceX). "
+   ],
+   "max_summary": [
+      "This bar chart has 20 columns on the x axis representing Month, and Net worth in billion U.S. dollars in each Month on the y axis. ",
+      "The Net worth in billion U.S. dollars is highest at Month Jeff Bezos & family (Amazon.com) and lowest at Month Elon Musk (Tesla Motors SpaceX). ",
+      "The second highest Net worth in billion U.S. dollars is appeared to be the Month Bill Gates (Microsoft). ",
+      "The Net worth in billion U.S. dollars of Month Jeff Bezos & family (Amazon.com) is 5.87% larger than the minimum value at Elon Musk (Tesla Motors SpaceX). ",
+      "Month Jeff Bezos & family (Amazon.com) is higher than any other Months with value 131.0, followed by Bill Gates (Microsoft), and Warren Buffett (Berkshire Hathaway). Down to Month Elon Musk (Tesla Motors SpaceX) with the lowest value 22.3. ",
+      "Overall Net worth in billion U.S. dollars has reduced over the Months. ",
+      "Month Charles Koch (Koch Industries), and David Koch (Koch Industries) have the same Net worth in billion U.S. dollars. ",
+      "The Month Jeff Bezos & family (Amazon.com) has 2.52 times more Net worth in billion U.S. dollars than average. "
    ],
    "trends": [
       {},

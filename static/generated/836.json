@@ -1,18 +1,34 @@
 {
-   "title": "Test",
+   "title": "Dogs with the most Instagram followers worldwide 2017",
    "xAxis": "Month",
    "yAxis": "Number of followers in millions",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 10 categories on the x axis representing Month, and Number of followers in millions in each Month on the y axis.",
-      " The highest category is found at Jiff Pom @Jiffpom where Number of followers in millions is 6.6.",
-      " Followed by 6.6 in .",
-      " The lowest category is found at Manny @manny the frenchie where Number of followers in millions is 1.0.",
-      " The highest value at Jiff Pom @Jiffpom is almost 6.6 times larger than the minimum value of Manny @manny the frenchie. ",
-      " The highest value at Jiff Pom @Jiffpom is almost 6.6 times larger than the minimum value of Manny @manny the frenchie. ",
-      " The difference between the max Month Jiff Pom @Jiffpom and min Month Manny @manny the frenchie is 5.6. "
+      "This is a bar chart. It shows Number of followers in millions for 10 number of Months. ",
+      "The maximum Number of followers in millions 6.6 is found at Month Jiff Pom @Jiffpom and the minimum is found at Manny @manny the frenchie where Month is 1.0. ",
+      "The highest Month Jiff Pom @Jiffpom has 5.6 more Number of followers in millions than the lowest Month Manny @manny the frenchie. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Number of followers in millions for 10 number of Months. ",
+      "Month Jiff Pom @Jiffpom has the highest Number of followers in millions and Manny @manny the frenchie has the lowest Number of followers in millions. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Number of followers in millions for 10 number of Months. ",
+      "The maximum Number of followers in millions 6.6 is found at Month Jiff Pom @Jiffpom and the minimum is found at Manny @manny the frenchie where Month is 1.0. ",
+      "The highest Month Jiff Pom @Jiffpom has 5.6 more Number of followers in millions than the lowest Month Manny @manny the frenchie. "
+   ],
+   "max_summary": [
+      "This bar chart has 10 columns on the x axis representing Month, and Number of followers in millions in each Month on the y axis. ",
+      "Month Jiff Pom @Jiffpom has the highest Number of followers in millions and Manny @manny the frenchie has the lowest Number of followers in millions. ",
+      "Month Doug the Pug @itsdougthepug has the second highest value for Number of followers in millions. ",
+      "The difference of Number of followers in millions between the highest and lowest Month is 5.6. ",
+      "Month Jiff Pom @Jiffpom is higher than any other Months with value 6.6, followed by Doug the Pug @itsdougthepug, and Maruto @Marutaro. Down to Month Manny @manny the frenchie with the lowest value 1.0. ",
+      "Overall Number of followers in millions has declined over the Months. ",
+      "Similar Number of followers in millions is found in Month Manny @manny the frenchie, and Loki and Bear @Lokistagram. ",
+      "The highest value 6.6 at Jiff Pom @Jiffpom is almost 2.95 times larger than the average value 2.24. ",
+      "The Number of followers in millions is 22.4 if we add up values of all Months. "
    ],
    "trends": [
       {},

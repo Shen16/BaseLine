@@ -1,16 +1,33 @@
 {
-   "title": "Test",
+   "title": "U.S. consumer perception of Amazon as a company 2017",
    "xAxis": "Response",
    "yAxis": "Share of respondents",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 10 categories on the x axis representing Response, and Share of respondents in each Response on the y axis.",
-      "I like using Amazon is higher than any other categories with value 67.0, followed by , and I trust Amazon with my payment information. Down to category None of the above with the lowest value of 12.0. ",
-      " The highest value at I like using Amazon is almost 5.58 times larger than the minimum value of None of the above. ",
-      " The highest value at I like using Amazon is almost 5.58 times larger than the minimum value of None of the above. ",
-      " The difference between the max Response I like using Amazon and min Response None of the above is 55.0. "
+      "This is a bar chart. It shows Share of respondents for 10 number of Responses. ",
+      "The Share of respondents is appeared to be the highest at Response I like using Amazon and lowest at Response None of the above. ",
+      "The difference of Share of respondents between the highest and lowest Response is 55.0. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Share of respondents for 10 number of Responses. ",
+      "The maximum Share of respondents 67.0 is found at Response I like using Amazon and the minimum is found at None of the above where Response is 12.0. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Share of respondents for 10 number of Responses. ",
+      "The Share of respondents is appeared to be the highest at Response I like using Amazon and lowest at Response None of the above. ",
+      "The difference of Share of respondents between the highest and lowest Response is 55.0. "
+   ],
+   "max_summary": [
+      "This bar chart has 10 columns on the x axis representing Response, and Share of respondents in each Response on the y axis. ",
+      "The Share of respondents is highest at Response I like using Amazon and lowest at Response None of the above. ",
+      "Response With Amazon I get what I need has the second highest value for Share of respondents. ",
+      "The highest Response I like using Amazon has 55.0 more Share of respondents than the lowest Response None of the above. ",
+      "The Response I like using Amazon has the highest Share of respondents, followed by With Amazon I get what I need, and I trust Amazon with my payment information. Down to the Response None of the above which is the lowest. ",
+      "Response Amazon is an integral part of my life, and Amazon respects my privacy share the same value 32.0. ",
+      "The Response I like using Amazon has 1.81 times more Share of respondents than average. ",
+      "The Share of respondents is 371.0 if we add up values of all Responses. "
    ],
    "trends": [
       {},

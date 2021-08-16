@@ -1,48 +1,38 @@
 {
-   "title": "Test",
+   "title": "Producer Price Index for commodities 1990 to 2019",
    "xAxis": "Year",
    "yAxis": "Producer Price Index (100=1982)",
    "columnType": "two",
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Producer Price Index (100=1982), with a total of 30 data points.",
-      " Overall Producer Price Index (100=1982) has increased over the Year.",
-      "Producer Price Index (100=1982) is roughly constant from '90 to '94, roughly increasing from '94 to '95, roughly constant from '95 to '99, slightly increasing from '99 to '00, roughly constant from '00 to '01, rapidly increasing from '01 to '08, slightly decreasing from '08 to '09, gradually increasing from '09 to '11, roughly constant from '11 to '14, slightly decreasing from '14 to '15, roughly increasing from '15 to '17, and lastly roughly constant from '17 to '19.",
-      "The steepest increase occurs in between the Year '07 and '08.",
-      "Max Producer Price Index (100=1982) about 205.3 was recorded at Year '14",
-      "Min Producer Price Index (100=1982) about 116.3 was recorded at Year '90",
-      "#########################################################################",
-      "This line chart has an x axis representing Year and a y axis representing Producer Price Index (100=1982), with a total of 30 data points. The chart has 5 significant trends.",
-      " The longest trend is slightly increasing which exists from '90 to '98.",
-      " In a similar manner, the next significant trend is extremely increasing which exists from '02 to '09.",
-      " In a similar manner, the next significant trend is slightly decreasing which exists from '14 to '19.",
-      " Contrarily, the next significant trend is extremely increasing which exists from '09 to '14.",
-      " In a similar manner, the next significant trend is slightly increasing which exists from '98 to '02."
+      "This is a line chart with an x axis representing Year and a y axis representing Producer Price Index (100=1982), containing a total of 30 data points.",
+      " In general Producer Price Index (100=1982) has fallen over the Year.",
+      "The line drastically ",
+      "The steepest decrease occurs in between the Year '19 and '90.",
+      "The highest Producer Price Index (100=1982), of value 205.3 was reached at Year '14",
+      "The lowest Producer Price Index (100=1982), of value 116.3 was reported at Year '90"
    ],
-   "trends": [
-      {},
-      {
-         "1": "21",
-         "12": "29"
-      },
-      {
-         "3": "10",
-         "14": "17"
-      },
-      {
-         "3": "0",
-         "14": "5"
-      },
-      {
-         "3": "5",
-         "14": "10"
-      },
-      {
-         "3": "17",
-         "14": "21"
-      }
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Producer Price Index (100=1982). In total the number of data points it has is 30.",
+      " In general Producer Price Index (100=1982) has fallen over the Year."
    ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Producer Price Index (100=1982), containing a total of 30 data points.",
+      " In general Producer Price Index (100=1982) has fallen over the Year.",
+      "The most drastic decrease took place within the Year '19 and '90.",
+      "The highest Producer Price Index (100=1982), of value 205.3 was reached at Year '14",
+      "The lowest Producer Price Index (100=1982), of value 116.3 was reported at Year '90"
+   ],
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Producer Price Index (100=1982). In total the number of data points it has is 30.",
+      " In general Producer Price Index (100=1982) has fallen over the Year.",
+      "The steepest decrease occurs in between the Year '19 and '90.",
+      "The highest Producer Price Index (100=1982), of value 205.3 was reached at Year '14",
+      "The lowest Producer Price Index (100=1982), of value 116.3 was reported at Year '90",
+      "The line rapidly "
+   ],
+   "trends": [],
    "data": [
       {
          "Year": "'19",

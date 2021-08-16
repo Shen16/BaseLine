@@ -1,13 +1,32 @@
 {
-   "title": "Test",
+   "title": "U.S. cities with the highest annual temperatures",
    "xAxis": "Us City",
    "yAxis": "Average temperature in Fahrenheit per year",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 12 categories on the x axis representing Us City, and Average temperature in Fahrenheit per year in each Us City on the y axis.",
-      "Phoenix Arizona is higher than any other categories with value 87.2, followed by , and Orlando Florida. Down to category Los Angeles California with the lowest value of 75.2. "
+      "This is a bar chart representing Us City in the x axis and Average temperature in Fahrenheit per year in the y axis. ",
+      "The Average temperature in Fahrenheit per year is highest at Us City Phoenix Arizona and lowest at Us City Los Angeles California. ",
+      "The maximum Us City Phoenix Arizona has got 1.16 times higher Average temperature in Fahrenheit per year than the minimum Us City Los Angeles California. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing Us City in the x axis and Average temperature in Fahrenheit per year in the y axis. ",
+      "The Average temperature in Fahrenheit per year is appeared to be the highest at Us City Phoenix Arizona and lowest at Us City Los Angeles California. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Us City in the x axis and Average temperature in Fahrenheit per year in the y axis. ",
+      "The Average temperature in Fahrenheit per year is highest at Us City Phoenix Arizona and lowest at Us City Los Angeles California. ",
+      "The maximum Us City Phoenix Arizona has got 1.16 times higher Average temperature in Fahrenheit per year than the minimum Us City Los Angeles California. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Average temperature in Fahrenheit per year for 12 number of Us Citys. ",
+      "The Average temperature in Fahrenheit per year is highest at Us City Phoenix Arizona and lowest at Us City Los Angeles California. ",
+      "Us City Miami Florida has the second highest value for Average temperature in Fahrenheit per year. ",
+      "There is a difference of 12.0 between the maximum Us City Phoenix Arizona and minimum Us City Los Angeles California. ",
+      "The Us City Phoenix Arizona has the highest Average temperature in Fahrenheit per year, followed by Miami Florida, and Orlando Florida. Down to the Us City Los Angeles California which is the lowest. ",
+      "The Us City Los Angeles California tends to be 1.08 percent lower than average. ",
+      "The Average temperature in Fahrenheit per year is 969.5 if we add up values of all Us Citys. "
    ],
    "trends": [
       {},

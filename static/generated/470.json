@@ -1,28 +1,42 @@
 {
-   "title": "Test",
+   "title": "Brand spend on eSports sponsorship and advertising worldwide 2015 to 2020",
    "xAxis": "Year",
    "yAxis": "Spending in million U.S. dollars",
    "columnType": "two",
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Spending in million U.S. dollars, with a total of 4 data points.",
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Spending in million U.S. dollars. In total the number of data points it has is 4.",
+      " Overall Spending in million U.S. dollars has increased over the Year.",
+      "Spending in million U.S. dollars is slightly increasing from 2015 to 2020.",
+      "The line significantly increased by 703.0 from Year 2017 to 2020.",
+      "The steepest increase occurs in between the Year 2017 and 2020.",
+      "The highest Spending in million U.S. dollars, of value 1220.0 was reached at Year 2020",
+      "The lowest Spending in million U.S. dollars, of value 230.0 was reported at Year 2015"
+   ],
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Spending in million U.S. dollars, containing a total of 4 data points.",
+      " In general Spending in million U.S. dollars has rose over the Year.",
+      "Spending in million U.S. dollars is slightly increasing from 2015 to 2020."
+   ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Spending in million U.S. dollars. In total the number of data points it has is 4.",
       " Overall Spending in million U.S. dollars has increased over the Year.",
       "Spending in million U.S. dollars is slightly increasing from 2015 to 2020.",
       "The steepest increase occurs in between the Year 2017 and 2020.",
-      "Max Spending in million U.S. dollars about 1220.0 was recorded at Year 2020",
-      "Min Spending in million U.S. dollars about 230.0 was recorded at Year 2015",
-      "#########################################################################",
-      "This line chart has an x axis representing Year and a y axis representing Spending in million U.S. dollars with a total of 4 data points. The chart has one significant trend.",
-      " This trend is increasing which exists from 2020 to 2015."
+      "The highest Spending in million U.S. dollars, of value 1220.0 was reached at Year 2020",
+      "The lowest Spending in million U.S. dollars, of value 230.0 was reported at Year 2015"
    ],
-   "trends": [
-      {},
-      {
-         "3": "0",
-         "14": "3"
-      }
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Spending in million U.S. dollars. In total the number of data points it has is 4.",
+      " Overall Spending in million U.S. dollars has increased over the Year.",
+      "Spending in million U.S. dollars is slightly increasing from 2015 to 2020.",
+      "The most drastic increase took place within the Year 2017 and 2020.",
+      "The highest Spending in million U.S. dollars, of value 1220.0 was reached at Year 2020",
+      "The lowest Spending in million U.S. dollars, of value 230.0 was reported at Year 2015",
+      "The line rapidly increased by 135.98% from Year 2017 to 2020."
    ],
+   "trends": [],
    "data": [
       {
          "Year": "2020",

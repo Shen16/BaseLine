@@ -1,18 +1,34 @@
 {
-   "title": "Test",
+   "title": "Rate of inflation in Belgium 2018 to 2020",
    "xAxis": "Month",
    "yAxis": "Year on year percentage change",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 25 categories on the x axis representing Month, and Year on year percentage change in each Month on the y axis.",
-      " The highest category is found at Nov '18 where Year on year percentage change is 2.78.",
-      " Followed by 1.41 in .",
-      " The lowest category is found at Nov '19 where Year on year percentage change is 0.39.",
-      " The highest value at Nov '18 is almost 7.13 times larger than the minimum value of Nov '19. ",
-      " The highest value at Nov '18 is almost 7.13 times larger than the minimum value of Nov '19. ",
-      " The difference between the max Month Nov '18 and min Month Nov '19 is 2.3899999999999997. "
+      "This is a bar chart. It shows Year on year percentage change for 25 number of Months. ",
+      "The maximum Year on year percentage change 2.78 is found at Month Nov '18 and the minimum is found at Nov '19 where Month is 0.39. ",
+      "There is a difference of 2.39 between the maximum Month Nov '18 and minimum Month Nov '19. "
+   ],
+   "min_summary": [
+      "This bar chart has 25 columns on the x axis representing Month, and Year on year percentage change in each Month on the y axis. ",
+      "The maximum Year on year percentage change 2.78 is found at Month Nov '18 and the minimum is found at Nov '19 where Month is 0.39. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Year on year percentage change for 25 number of Months. ",
+      "The maximum Year on year percentage change 2.78 is found at Month Nov '18 and the minimum is found at Nov '19 where Month is 0.39. ",
+      "There is a difference of 2.39 between the maximum Month Nov '18 and minimum Month Nov '19. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Month in the x axis and Year on year percentage change in the y axis. ",
+      "The Year on year percentage change is highest at Month Nov '18 and lowest at Month Nov '19. ",
+      "Month Oct '18 has the second highest value for Year on year percentage change. ",
+      "There is a difference of 2.39 between the maximum Month Nov '18 and minimum Month Nov '19. ",
+      "Month Nov '18 is higher than any other Months with value 2.78, followed by Oct '18, and Sep '18. Down to Month Nov '19 with the lowest value 0.39. ",
+      "The Year on year percentage change has risen over the past 25 Months. ",
+      "Month Apr '19, and Jun '18 have the same Year on year percentage change. ",
+      "The average Year on year percentage change in all 25 Months is 1.73. ",
+      "Summing up the values of all Months, we get total 43.34. "
    ],
    "trends": [
       {},

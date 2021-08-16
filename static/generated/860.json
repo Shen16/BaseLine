@@ -1,18 +1,33 @@
 {
-   "title": "Test",
+   "title": "Leading influencers on Instagram in Sweden 2017 , by followers",
    "xAxis": "Month",
    "yAxis": "Instagram followers in millions",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 10 categories on the x axis representing Month, and Instagram followers in millions in each Month on the y axis.",
-      " The highest category is found at Anna Nystr\u00f6m (annanystrom) where Instagram followers in millions is 4.9.",
-      " Followed by 4.9 in .",
-      " The lowest category is found at TrainForFitspo (trainforfitspo) where Instagram followers in millions is 0.51.",
-      " The highest value at Anna Nystr\u00f6m (annanystrom) is almost 9.61 times larger than the minimum value of TrainForFitspo (trainforfitspo). ",
-      " The highest value at Anna Nystr\u00f6m (annanystrom) is almost 9.61 times larger than the minimum value of TrainForFitspo (trainforfitspo). ",
-      " The difference between the max Month Anna Nystr\u00f6m (annanystrom) and min Month TrainForFitspo (trainforfitspo) is 4.390000000000001. "
+      "This is a bar chart. It shows Instagram followers in millions for 10 number of Months. ",
+      "The Instagram followers in millions is highest at Month Anna Nystr\u00f6m (annanystrom) and lowest at Month TrainForFitspo (trainforfitspo). ",
+      "The maximum Month Anna Nystr\u00f6m (annanystrom) has got 9.61 times higher Instagram followers in millions than the minimum Month TrainForFitspo (trainforfitspo). "
+   ],
+   "min_summary": [
+      "This is a bar chart representing Month in the x axis and Instagram followers in millions in the y axis. ",
+      "Month Anna Nystr\u00f6m (annanystrom) has the highest Instagram followers in millions and TrainForFitspo (trainforfitspo) has the lowest Instagram followers in millions. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Instagram followers in millions for 10 number of Months. ",
+      "The Instagram followers in millions is highest at Month Anna Nystr\u00f6m (annanystrom) and lowest at Month TrainForFitspo (trainforfitspo). ",
+      "The maximum Month Anna Nystr\u00f6m (annanystrom) has got 9.61 times higher Instagram followers in millions than the minimum Month TrainForFitspo (trainforfitspo). "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Instagram followers in millions for 10 number of Months. ",
+      "The Instagram followers in millions is appeared to be the highest at Month Anna Nystr\u00f6m (annanystrom) and lowest at Month TrainForFitspo (trainforfitspo). ",
+      "The second highest Instagram followers in millions is appeared to be the Month thisisamans.world. ",
+      "The Instagram followers in millions of Month Anna Nystr\u00f6m (annanystrom) is 9.61% larger than the minimum value at TrainForFitspo (trainforfitspo). ",
+      "The Month Anna Nystr\u00f6m (annanystrom) has the highest Instagram followers in millions, followed by thisisamans.world, and Kenza Zouiten (kenzas). Down to the Month TrainForFitspo (trainforfitspo) which is the lowest. ",
+      "The Instagram followers in millions has decreased over the past 10 Months. ",
+      "The Month Anna Nystr\u00f6m (annanystrom) has 3.19 times more Instagram followers in millions than average. ",
+      "Summing up the values of all Months, we get total 15.36. "
    ],
    "trends": [
       {},

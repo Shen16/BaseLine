@@ -1,16 +1,31 @@
 {
-   "title": "Test",
+   "title": "Fastest supercomputers - number of computer cores 2019",
    "xAxis": "Location",
    "yAxis": "Number of cores",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 10 categories on the x axis representing Location, and Number of cores in each Location on the y axis.",
-      "Sunway TaihuLight  China is higher than any other categories with value 10649600.0, followed by , and Summit United States. Down to category Lassen United States with the lowest value of 288288.0. ",
-      " The highest value at Sunway TaihuLight  China is almost 36.94 times larger than the minimum value of Lassen United States. ",
-      " The highest value at Sunway TaihuLight  China is almost 36.94 times larger than the minimum value of Lassen United States. ",
-      " The difference between the max Location Sunway TaihuLight  China and min Location Lassen United States is 10361312.0. "
+      "This is a bar chart representing Location in the x axis and Number of cores in the y axis. ",
+      "Location Sunway TaihuLight  China has the highest Number of cores and Lassen United States has the lowest Number of cores. ",
+      "The difference of Number of cores between the highest and lowest Location is 10361312.0. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Number of cores for 10 number of Locations. ",
+      "The maximum Number of cores 10649600.0 is found at Location Sunway TaihuLight  China and the minimum is found at Lassen United States where Location is 288288.0. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Location in the x axis and Number of cores in the y axis. ",
+      "Location Sunway TaihuLight  China has the highest Number of cores and Lassen United States has the lowest Number of cores. ",
+      "The difference of Number of cores between the highest and lowest Location is 10361312.0. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Number of cores for 10 number of Locations. ",
+      "Location Sunway TaihuLight  China has the highest Number of cores and Lassen United States has the lowest Number of cores. ",
+      "Location Tianhe-2A China has the second highest value for Number of cores. ",
+      "There is a difference of 10361312.0 between the maximum Location Sunway TaihuLight  China and minimum Location Lassen United States. ",
+      "Location Sunway TaihuLight  China is higher than any other Locations with value 10649600.0, followed by Tianhe-2A China, and Summit United States. Down to Location Lassen United States with the lowest value 288288.0. ",
+      "The lowest value 288288.0 at Lassen United States is almost 4.75 times smaller than the average value 2241964.8. "
    ],
    "trends": [
       {},

@@ -1,27 +1,39 @@
 {
-   "title": "Test",
+   "title": "Projected total revenue of Amazon 2002 to 2022",
    "xAxis": "Year",
    "yAxis": "Net revenue in billion U.S. dollars",
    "columnType": "two",
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Net revenue in billion U.S. dollars, with a total of 21 data points.",
+      "This is a line chart with an x axis representing Year and a y axis representing Net revenue in billion U.S. dollars, containing a total of 21 data points.",
+      " In general Net revenue in billion U.S. dollars has rose over the Year.",
+      "Net revenue in billion U.S. dollars is roughly increasing from 2002 to 2004, roughly constant from 2004 to 2005, rapidly increasing from 2005 to 2019, and lastly roughly constant from 2019 to 2022.",
+      "The line rapidly ",
+      "Maximum Net revenue in billion U.S. dollars, about 356.0 was reported at Year 2022",
+      "Minimum Net revenue in billion U.S. dollars about 4.0 was reached at Year 2002"
+   ],
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Net revenue in billion U.S. dollars, containing a total of 21 data points.",
+      " In general Net revenue in billion U.S. dollars has rose over the Year.",
+      "Net revenue in billion U.S. dollars is roughly increasing from 2002 to 2004, roughly constant from 2004 to 2005, rapidly increasing from 2005 to 2019, and lastly roughly constant from 2019 to 2022."
+   ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Net revenue in billion U.S. dollars. In total the number of data points it has is 21.",
       " Overall Net revenue in billion U.S. dollars has increased over the Year.",
       "Net revenue in billion U.S. dollars is roughly increasing from 2002 to 2004, roughly constant from 2004 to 2005, rapidly increasing from 2005 to 2019, and lastly roughly constant from 2019 to 2022.",
-      "Max Net revenue in billion U.S. dollars about 356.0 was recorded at Year 2022",
-      "Min Net revenue in billion U.S. dollars about 4.0 was recorded at Year 2002",
-      "#########################################################################",
-      "This line chart has an x axis representing Year and a y axis representing Net revenue in billion U.S. dollars with a total of 21 data points. The chart has one significant trend.",
-      " This trend is increasing which exists from 2022 to 2002."
+      "Maximum Net revenue in billion U.S. dollars, about 356.0 was reported at Year 2022",
+      "Minimum Net revenue in billion U.S. dollars about 4.0 was reached at Year 2002"
    ],
-   "trends": [
-      {},
-      {
-         "3": "0",
-         "14": "20"
-      }
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Net revenue in billion U.S. dollars, containing a total of 21 data points.",
+      " In general Net revenue in billion U.S. dollars has rose over the Year.",
+      "Net revenue in billion U.S. dollars is roughly increasing from 2002 to 2004, roughly constant from 2004 to 2005, rapidly increasing from 2005 to 2019, and lastly roughly constant from 2019 to 2022.",
+      "Maximum Net revenue in billion U.S. dollars, about 356.0 was reported at Year 2022",
+      "Minimum Net revenue in billion U.S. dollars about 4.0 was reached at Year 2002",
+      "The line drastically "
    ],
+   "trends": [],
    "data": [
       {
          "Year": "2022",

@@ -1,5 +1,5 @@
 {
-   "title": "Test",
+   "title": "Champions and finalists of UEFA EURO championship 1960 to 2016",
    "labels": [
       "Country",
       "Winner",
@@ -9,12 +9,30 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart has 13 categories of Country on the x axis representing 2 groups: Winner, and Runner-up.",
-      " Averaging these 2 groups, the highest category is found for Country Germany with a mean value of 3.0.",
-      " Followed by USSR with a mean value of 2.0.",
-      " The lowest category is observed at Czechoslovakia that has a mean value of 0.5",
-      " showing a difference of 142.9% with the maximum value.",
-      " In case of Spain, Winner shows more dominance than any other Country and it has the lowest value in Yugoslavia. "
+      "This grouped bar chart represents 13 different Countrys on X-axis for 2 groups Winner, and Runner-up. On the Y-axis it shows their corresponding SOME LABEL. ",
+      " In Country Spain, Winner had the highest SOME LABEL 3.0 among the 2 groups and in Yugoslavia, Winner had the lowest SOME LABEL 0.0. ",
+      " In Country USSR, Runner-up had the highest SOME LABEL among all 13 Countrys and it has the lowest SOME LABEL in Country Czechoslovakia. ",
+      "Country USSR and Czechoslovakia had the biggest gap of 3.0 between the highest and lowest SOME LABEL found for Runner-up. "
+   ],
+   "xAxis": "Country",
+   "yAxis": "SOME LABEL",
+   "min_summary": [
+      "This grouped bar chart represents 13 different Countrys on X-axis for 2 groups Winner, and Runner-up. On the Y-axis it shows their corresponding SOME LABEL. ",
+      " In Country Spain, Winner had the highest SOME LABEL 3.0 among the 2 groups and in Yugoslavia, Winner had the lowest SOME LABEL 0.0. "
+   ],
+   "mid_summary": [
+      "This grouped bar chart represents 13 different Countrys on X-axis for 2 groups Winner, and Runner-up. On the Y-axis it shows their corresponding SOME LABEL. ",
+      " In Country Spain, Winner had the highest SOME LABEL 3.0 among the 2 groups and in Yugoslavia, Winner had the lowest SOME LABEL 0.0. ",
+      " In Country USSR, Runner-up had the highest SOME LABEL among all 13 Countrys and it has the lowest SOME LABEL in Country Czechoslovakia. ",
+      "Country USSR and Czechoslovakia had the biggest gap of 3.0 between the highest and lowest SOME LABEL found for Runner-up. "
+   ],
+   "max_summary": [
+      "This grouped bar chart shows SOME LABEL on the Y-axis for 13 different Countrys for 2 groups Winner, and Runner-up that are presented on the X-axis. ",
+      " Country Spain had the maximum SOME LABEL among all 2 groups, and it was for Winner. The minimum SOME LABEL was observed in Country Yugoslavia for Winner. ",
+      " Among all the Countrys, Runner-up had the highest SOME LABEL in Country USSR and lowest SOME LABEL in Country Czechoslovakia. ",
+      "Country USSR and Czechoslovakia had the biggest gap of 3.0 between the highest and lowest SOME LABEL found for Runner-up. ",
+      " Among all 2 groups, Winner had the gap of 3.0 between the maximum and minimum SOME LABEL observed in Country Spain and Yugoslavia respectively. ",
+      "Averaging all 2 groups Winner, and Runner-up, the Country Germany is the maximum SOME LABEL and Czechoslovakia is the minimum SOME LABEL. "
    ],
    "trends": [
       {},

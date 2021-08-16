@@ -1,43 +1,42 @@
 {
-   "title": "Test",
+   "title": "Global energy commodity price index 2013 to 2030",
    "xAxis": "Year",
    "yAxis": "Price index in real 2010 U.S. dollars",
    "columnType": "two",
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Price index in real 2010 U.S. dollars, with a total of 12 data points.",
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Price index in real 2010 U.S. dollars. In total the number of data points it has is 12.",
       " Overall Price index in real 2010 U.S. dollars has decreased over the Year.",
-      "Price index in real 2010 U.S. dollars is roughly constant from 2013 to 2014, gradually decreasing from 2014 to 2015, slightly increasing from 2015 to 2018, roughly constant from 2018 to 2025, and lastly roughly increasing from 2025 to 2030.",
-      "The steepest decrease occurs in between the Year 2014 and 2015.",
-      "Max Price index in real 2010 U.S. dollars about 120.1 was recorded at Year 2013",
-      "Min Price index in real 2010 U.S. dollars about 55.1 was recorded at Year 2016",
-      "#########################################################################",
-      "This line chart has an x axis representing Year and a y axis representing Price index in real 2010 U.S. dollars, with a total of 12 data points. The chart has 4 significant trends.",
-      " The longest trend is moderately increasing which exists from 2020 to 2030.",
-      " Likewise, the next significant trend is slightly decreasing which exists from 2013 to 2016.",
-      " Conversely, the next significant trend is moderately decreasing which exists from 2018 to 2020.",
-      " On the other hand, the next significant trend is extremely increasing which exists from 2016 to 2018."
+      "Price index in real 2010 U.S. dollars is roughly constant from 2013 to 2014, gradually decreasing from 2014 to 2015, slightly increasing from 2015 to 2018, roughly constant from 2018 to 2025, and finally roughly increasing from 2025 to 2030.",
+      "The line drastically ",
+      "The most drastic decrease took place within the Year 2014 and 2015.",
+      "Maximum Price index in real 2010 U.S. dollars, about 120.1 was reported at Year 2013",
+      "Minimum Price index in real 2010 U.S. dollars about 55.1 was reached at Year 2016"
    ],
-   "trends": [
-      {},
-      {
-         "1": "0",
-         "12": "4"
-      },
-      {
-         "3": "8",
-         "14": "11"
-      },
-      {
-         "3": "4",
-         "14": "6"
-      },
-      {
-         "3": "6",
-         "14": "8"
-      }
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Price index in real 2010 U.S. dollars. In total the number of data points it has is 12.",
+      " Overall Price index in real 2010 U.S. dollars has decreased over the Year.",
+      "Price index in real 2010 U.S. dollars is roughly constant from 2013 to 2014, gradually decreasing from 2014 to 2015, slightly increasing from 2015 to 2018, roughly constant from 2018 to 2025, and finally roughly increasing from 2025 to 2030."
    ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Price index in real 2010 U.S. dollars. In total the number of data points it has is 12.",
+      " In general Price index in real 2010 U.S. dollars has fallen over the Year.",
+      "Price index in real 2010 U.S. dollars is roughly constant from 2013 to 2014, gradually decreasing from 2014 to 2015, slightly increasing from 2015 to 2018, roughly constant from 2018 to 2025, and finally roughly increasing from 2025 to 2030.",
+      "The most drastic decrease took place within the Year 2014 and 2015.",
+      "Maximum Price index in real 2010 U.S. dollars, about 120.1 was reported at Year 2013",
+      "Minimum Price index in real 2010 U.S. dollars about 55.1 was reached at Year 2016"
+   ],
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Price index in real 2010 U.S. dollars. In total the number of data points it has is 12.",
+      " Overall Price index in real 2010 U.S. dollars has decreased over the Year.",
+      "Price index in real 2010 U.S. dollars is roughly constant from 2013 to 2014, gradually decreasing from 2014 to 2015, slightly increasing from 2015 to 2018, roughly constant from 2018 to 2025, and finally roughly increasing from 2025 to 2030.",
+      "The most drastic decrease took place within the Year 2014 and 2015.",
+      "Maximum Price index in real 2010 U.S. dollars, about 120.1 was reported at Year 2013",
+      "Minimum Price index in real 2010 U.S. dollars about 55.1 was reached at Year 2016",
+      "The line drastically "
+   ],
+   "trends": [],
    "data": [
       {
          "Year": "2030",

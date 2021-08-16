@@ -1,16 +1,32 @@
 {
-   "title": "Test",
+   "title": "Women 's magazine websites ranked by visitors in Great Britain ( GB ) 2017",
    "xAxis": "British Retailers",
    "yAxis": "Visitors in thousands",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 25 categories on the x axis representing British Retailers, and Visitors in thousands in each British Retailers on the y axis.",
-      "tesco.com is higher than any other categories with value 3498.0, followed by , and bbcgoodfood.com. Down to category weightwatchers.co.uk with the lowest value of 38.0. ",
-      " The highest value at tesco.com is almost 92.05 times larger than the minimum value of weightwatchers.co.uk. ",
-      " The highest value at tesco.com is almost 92.05 times larger than the minimum value of weightwatchers.co.uk. ",
-      " The difference between the max British Retailers tesco.com and min British Retailers weightwatchers.co.uk is 3460.0. "
+      "This is a bar chart representing British Retailers in the x axis and Visitors in thousands in the y axis. ",
+      "The Visitors in thousands is highest at British Retailers tesco.com and lowest at British Retailers weightwatchers.co.uk. ",
+      "British Retailers weightwatchers.co.uk has 92.05 times less Visitors in thousands than British Retailers tesco.com which is the highest. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing British Retailers in the x axis and Visitors in thousands in the y axis. ",
+      "The Visitors in thousands is highest at British Retailers tesco.com and lowest at British Retailers weightwatchers.co.uk. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing British Retailers in the x axis and Visitors in thousands in the y axis. ",
+      "The Visitors in thousands is highest at British Retailers tesco.com and lowest at British Retailers weightwatchers.co.uk. ",
+      "British Retailers weightwatchers.co.uk has 92.05 times less Visitors in thousands than British Retailers tesco.com which is the highest. "
+   ],
+   "max_summary": [
+      "This bar chart has 25 columns on the x axis representing British Retailers, and Visitors in thousands in each British Retailers on the y axis. ",
+      "The Visitors in thousands is appeared to be the highest at British Retailers tesco.com and lowest at British Retailers weightwatchers.co.uk. ",
+      "British Retailers asda.com has the second highest value for Visitors in thousands. ",
+      "There is a difference of 3460.0 between the maximum British Retailers tesco.com and minimum British Retailers weightwatchers.co.uk. ",
+      "The British Retailers tesco.com has the highest Visitors in thousands, followed by asda.com, and bbcgoodfood.com. Down to the British Retailers weightwatchers.co.uk which is the lowest. ",
+      "The lowest value 38.0 at weightwatchers.co.uk is almost 6.71 times smaller than the average value 521.04. ",
+      "Summing up the values of all British Retailerss, we get total 13026.0. "
    ],
    "trends": [
       {},

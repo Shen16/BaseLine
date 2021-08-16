@@ -1,28 +1,42 @@
 {
-   "title": "Test",
+   "title": "Inbound tourism in Qatar from 2013 to 2022 ",
    "xAxis": "Year",
    "yAxis": "Number of arrivals in millions",
    "columnType": "two",
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Number of arrivals in millions, with a total of 10 data points.",
-      " Overall Number of arrivals in millions has decreased over the Year.",
-      "Number of arrivals in millions is slightly decreasing from 2022 to 2013.",
-      "The steepest decrease occurs in between the Year 2022 and 2021.",
-      "Max Number of arrivals in millions about 3.7 was recorded at Year 2022",
-      "Min Number of arrivals in millions about 1.0 was recorded at Year 2013",
-      "#########################################################################",
-      "This line chart has an x axis representing Year and a y axis representing Number of arrivals in millions with a total of 10 data points. The chart has one significant trend.",
-      " This trend is decreasing which exists from 2013 to 2022."
+      "This is a line chart with an x axis representing Year and a y axis representing Number of arrivals in millions, containing a total of 10 data points.",
+      " In general Number of arrivals in millions has rose over the Year.",
+      "Number of arrivals in millions is slightly increasing from 2013 to 2022.",
+      "The line significantly ",
+      "The most drastic increase took place within the Year 2021 and 2022.",
+      "The highest Number of arrivals in millions, of value 3.7 was reached at Year 2022",
+      "Minimum Number of arrivals in millions about 1.0 was reached at Year 2013"
    ],
-   "trends": [
-      {},
-      {
-         "3": "0",
-         "14": "9"
-      }
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Number of arrivals in millions, containing a total of 10 data points.",
+      " In general Number of arrivals in millions has rose over the Year.",
+      "Number of arrivals in millions is slightly increasing from 2013 to 2022."
    ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Number of arrivals in millions, containing a total of 10 data points.",
+      " In general Number of arrivals in millions has rose over the Year.",
+      "Number of arrivals in millions is slightly increasing from 2013 to 2022.",
+      "The steepest increase occurs in between the Year 2021 and 2022.",
+      "The highest Number of arrivals in millions, of value 3.7 was reached at Year 2022",
+      "Minimum Number of arrivals in millions about 1.0 was reached at Year 2013"
+   ],
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of arrivals in millions. In total the number of data points it has is 10.",
+      " Overall Number of arrivals in millions has increased over the Year.",
+      "Number of arrivals in millions is slightly increasing from 2013 to 2022.",
+      "The steepest increase occurs in between the Year 2021 and 2022.",
+      "The highest Number of arrivals in millions, of value 3.7 was reached at Year 2022",
+      "Minimum Number of arrivals in millions about 1.0 was reached at Year 2013",
+      "The line significantly "
+   ],
+   "trends": [],
    "data": [
       {
          "Year": "2013",

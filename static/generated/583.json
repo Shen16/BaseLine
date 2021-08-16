@@ -1,16 +1,34 @@
 {
-   "title": "Test",
+   "title": "Facebook : monthly brand profile follower growth 2017",
    "xAxis": "Month",
    "yAxis": "Growth rate",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 5 categories on the x axis representing Month, and Growth rate in each Month on the y axis.",
-      "Sep '17 is higher than any other categories with value 3.28, followed by , and Dec '17. Down to category Nov '17 with the lowest value of 0.1. ",
-      " The highest value at Sep '17 is almost 32.8 times larger than the minimum value of Nov '17. ",
-      " The highest value at Sep '17 is almost 32.8 times larger than the minimum value of Nov '17. ",
-      " The difference between the max Month Sep '17 and min Month Nov '17 is 3.1799999999999997. "
+      "This is a bar chart representing Month in the x axis and Growth rate in the y axis. ",
+      "The Growth rate is highest at Month Sep '17 and lowest at Month Nov '17. ",
+      "There is a difference of 3.18 between the maximum Month Sep '17 and minimum Month Nov '17. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing Month in the x axis and Growth rate in the y axis. ",
+      "Month Sep '17 has the highest Growth rate and Nov '17 has the lowest Growth rate. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Month in the x axis and Growth rate in the y axis. ",
+      "The Growth rate is highest at Month Sep '17 and lowest at Month Nov '17. ",
+      "There is a difference of 3.18 between the maximum Month Sep '17 and minimum Month Nov '17. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Growth rate for 5 number of Months. ",
+      "Month Sep '17 has the highest Growth rate and Nov '17 has the lowest Growth rate. ",
+      "Second maximum Growth rate is found at Month Aug '17. ",
+      "There is a difference of 3.18 between the maximum Month Sep '17 and minimum Month Nov '17. ",
+      "The Month Sep '17 has the highest Growth rate, followed by Aug '17, and Dec '17. Down to the Month Nov '17 which is the lowest. ",
+      "Overall Growth rate has increased over the Months. ",
+      "Month Nov '17, and Oct '17 have a similar Growth rate that is 0.1. ",
+      "The highest value 3.28 at Sep '17 is almost 3.34 times larger than the average value 0.98. ",
+      "The Growth rate is 4.91 if we add up values of all Months. "
    ],
    "trends": [
       {},

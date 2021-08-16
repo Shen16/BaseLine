@@ -1,28 +1,42 @@
 {
-   "title": "Test",
+   "title": "Indonesia : mobile phone internet users 2017 to 2023",
    "xAxis": "Year",
    "yAxis": "Number of mobile phone internet users in millions",
    "columnType": "two",
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Number of mobile phone internet users in millions, with a total of 7 data points.",
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of mobile phone internet users in millions. In total the number of data points it has is 7.",
+      " In general Number of mobile phone internet users in millions has rose over the Year.",
+      "Number of mobile phone internet users in millions is slightly increasing from 2017 to 2021, and finally roughly constant from 2021 to 2023.",
+      "The line drastically ",
+      "The most drastic increase took place within the Year 2017 and 2018.",
+      "The highest Number of mobile phone internet users in millions, of value 100.4 was reached at Year 2023",
+      "Minimum Number of mobile phone internet users in millions about 72.5 was reached at Year 2017"
+   ],
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Number of mobile phone internet users in millions, containing a total of 7 data points.",
       " Overall Number of mobile phone internet users in millions has increased over the Year.",
-      "Number of mobile phone internet users in millions is slightly increasing from 2017 to 2021, and lastly roughly constant from 2021 to 2023.",
-      "The steepest increase occurs in between the Year 2017 and 2018.",
-      "Max Number of mobile phone internet users in millions about 100.4 was recorded at Year 2023",
-      "Min Number of mobile phone internet users in millions about 72.5 was recorded at Year 2017",
-      "#########################################################################",
-      "This line chart has an x axis representing Year and a y axis representing Number of mobile phone internet users in millions with a total of 7 data points. The chart has one significant trend.",
-      " This trend is increasing which exists from 2023 to 2017."
+      "Number of mobile phone internet users in millions is slightly increasing from 2017 to 2021, and finally roughly constant from 2021 to 2023."
    ],
-   "trends": [
-      {},
-      {
-         "3": "0",
-         "14": "6"
-      }
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of mobile phone internet users in millions. In total the number of data points it has is 7.",
+      " In general Number of mobile phone internet users in millions has rose over the Year.",
+      "Number of mobile phone internet users in millions is slightly increasing from 2017 to 2021, and finally roughly constant from 2021 to 2023.",
+      "The most drastic increase took place within the Year 2017 and 2018.",
+      "The highest Number of mobile phone internet users in millions, of value 100.4 was reached at Year 2023",
+      "Minimum Number of mobile phone internet users in millions about 72.5 was reached at Year 2017"
    ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Number of mobile phone internet users in millions, containing a total of 7 data points.",
+      " Overall Number of mobile phone internet users in millions has increased over the Year.",
+      "Number of mobile phone internet users in millions is slightly increasing from 2017 to 2021, and finally roughly constant from 2021 to 2023.",
+      "The most drastic increase took place within the Year 2017 and 2018.",
+      "The highest Number of mobile phone internet users in millions, of value 100.4 was reached at Year 2023",
+      "Minimum Number of mobile phone internet users in millions about 72.5 was reached at Year 2017",
+      "The line drastically "
+   ],
+   "trends": [],
    "data": [
       {
          "Year": "2023",

@@ -1,16 +1,33 @@
 {
-   "title": "Test",
+   "title": "British soccer teams with most League Cup titles 2019",
    "xAxis": "Club Name",
    "yAxis": "Number of titles",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 23 categories on the x axis representing Club Name, and Number of titles in each Club Name on the y axis.",
-      "Liverpool FC is higher than any other categories with value 8.0, followed by , and Manchester United. Down to category Blackburn Rovers with the lowest value of 1.0. ",
-      " The highest value at Liverpool FC is almost 8.0 times larger than the minimum value of Blackburn Rovers. ",
-      " The highest value at Liverpool FC is almost 8.0 times larger than the minimum value of Blackburn Rovers. ",
-      " The difference between the max Club Name Liverpool FC and min Club Name Blackburn Rovers is 7.0. "
+      "This is a bar chart. It shows Number of titles for 23 number of Club Names. ",
+      "Club Name Liverpool FC has the highest Number of titles and Blackburn Rovers has the lowest Number of titles. ",
+      "The highest Club Name Liverpool FC has 7.0 more Number of titles than the lowest Club Name Blackburn Rovers. "
+   ],
+   "min_summary": [
+      "This bar chart has 23 columns on the x axis representing Club Name, and Number of titles in each Club Name on the y axis. ",
+      "The Number of titles is appeared to be the highest at Club Name Liverpool FC and lowest at Club Name Blackburn Rovers. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Number of titles for 23 number of Club Names. ",
+      "Club Name Liverpool FC has the highest Number of titles and Blackburn Rovers has the lowest Number of titles. ",
+      "The highest Club Name Liverpool FC has 7.0 more Number of titles than the lowest Club Name Blackburn Rovers. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Club Name in the x axis and Number of titles in the y axis. ",
+      "The Number of titles is highest at Club Name Liverpool FC and lowest at Club Name Blackburn Rovers. ",
+      "Club Name Manchester City has the second highest value for Number of titles. ",
+      "There is a difference of 7.0 between the maximum Club Name Liverpool FC and minimum Club Name Blackburn Rovers. ",
+      "Number of titles at Club Name Liverpool FC is 8.0 , second place is Manchester City at 6.0, and thirdly is Manchester United at 5.0.",
+      "Club Name Blackburn Rovers, Leeds United, Luton Town, Middlesbrough FC, Oxford United, Queens Park Rangers, Sheffield Wednesday, Stoke City, Swansea City, Swindon Town, and West Bromwich Albion have a similar Number of titles that is 1.0. ",
+      "The Club Name Liverpool FC has 3.12 times more Number of titles than average. ",
+      "The Number of titles is 59.0 if we add up values of all Club Names. "
    ],
    "trends": [
       {},

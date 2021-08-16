@@ -1,18 +1,31 @@
 {
-   "title": "Test",
+   "title": "The 25 most valuable brands worldwide 2020",
    "xAxis": "Brand",
    "yAxis": "Brand value in million U.S. dollars",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 25 categories on the x axis representing Brand, and Brand value in million U.S. dollars in each Brand on the y axis.",
-      " The highest category is found at Amazon where Brand value in million U.S. dollars is 220791.0.",
-      " Followed by 220791.0 in .",
-      " The lowest category is found at Volkswagen where Brand value in million U.S. dollars is 44897.0.",
-      " The highest value at Amazon is almost 4.92 times larger than the minimum value of Volkswagen. ",
-      " The highest value at Amazon is almost 4.92 times larger than the minimum value of Volkswagen. ",
-      " The difference between the max Brand Amazon and min Brand Volkswagen is 175894.0. "
+      "This bar chart has 25 columns on the x axis representing Brand, and Brand value in million U.S. dollars in each Brand on the y axis. ",
+      "The maximum Brand value in million U.S. dollars 220791.0 is found at Brand Amazon and the minimum is found at Volkswagen where Brand is 44897.0. ",
+      "The highest Brand Amazon has 175894.0 more Brand value in million U.S. dollars than the lowest Brand Volkswagen. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Brand value in million U.S. dollars for 25 number of Brands. ",
+      "The Brand value in million U.S. dollars is highest at Brand Amazon and lowest at Brand Volkswagen. "
+   ],
+   "mid_summary": [
+      "This bar chart has 25 columns on the x axis representing Brand, and Brand value in million U.S. dollars in each Brand on the y axis. ",
+      "The maximum Brand value in million U.S. dollars 220791.0 is found at Brand Amazon and the minimum is found at Volkswagen where Brand is 44897.0. ",
+      "The highest Brand Amazon has 175894.0 more Brand value in million U.S. dollars than the lowest Brand Volkswagen. "
+   ],
+   "max_summary": [
+      "This bar chart has 25 columns on the x axis representing Brand, and Brand value in million U.S. dollars in each Brand on the y axis. ",
+      "The maximum Brand value in million U.S. dollars 220791.0 is found at Brand Amazon and the minimum is found at Volkswagen where Brand is 44897.0. ",
+      "The second highest Brand value in million U.S. dollars is appeared to be the Brand Google. ",
+      "There is a difference of 175894.0 between the maximum Brand Amazon and minimum Brand Volkswagen. ",
+      "The Brand Amazon has the highest Brand value in million U.S. dollars, followed by Google, and Apple. Down to the Brand Volkswagen which is the lowest. ",
+      "The Brand Volkswagen tends to be 2.87 percent lower than average. "
    ],
    "trends": [
       {},

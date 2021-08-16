@@ -1,38 +1,38 @@
 {
-   "title": "Test",
+   "title": "Coca-Cola Company 's net operating revenues worldwide 2007 to 2019",
    "xAxis": "Year",
    "yAxis": "Revenues in billion U.S. dollars",
    "columnType": "two",
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Revenues in billion U.S. dollars, with a total of 13 data points.",
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Revenues in billion U.S. dollars. In total the number of data points it has is 13.",
       " Overall Revenues in billion U.S. dollars has increased over the Year.",
-      "Revenues in billion U.S. dollars is slightly increasing from 2007 to 2008, roughly constant from 2008 to 2009, rapidly increasing from 2009 to 2011, roughly constant from 2011 to 2015, slightly decreasing from 2015 to 2017, and lastly roughly increasing from 2017 to 2019.",
+      "The line significantly ",
       "The steepest increase occurs in between the Year 2010 and 2011.",
-      "Max Revenues in billion U.S. dollars about 48.02 was recorded at Year 2012",
-      "Min Revenues in billion U.S. dollars about 28.86 was recorded at Year 2007",
-      "#########################################################################",
-      "This line chart has an x axis representing Year and a y axis representing Revenues in billion U.S. dollars, with a total of 13 data points. The chart has 3 significant trends.",
-      " The longest trend is slightly decreasing which exists from 2012 to 2019.",
-      " Contrarily, the next significant trend is extremely increasing which exists from 2009 to 2012.",
-      " Similarly, the next significant trend is moderately decreasing which exists from 2007 to 2009."
+      "The highest Revenues in billion U.S. dollars, of value 48.02 was reached at Year 2012",
+      "Minimum Revenues in billion U.S. dollars about 28.86 was reached at Year 2007"
    ],
-   "trends": [
-      {},
-      {
-         "1": "0",
-         "12": "7"
-      },
-      {
-         "3": "7",
-         "14": "10"
-      },
-      {
-         "3": "10",
-         "14": "12"
-      }
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Revenues in billion U.S. dollars, containing a total of 13 data points.",
+      " In general Revenues in billion U.S. dollars has rose over the Year."
    ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Revenues in billion U.S. dollars. In total the number of data points it has is 13.",
+      " In general Revenues in billion U.S. dollars has rose over the Year.",
+      "The steepest increase occurs in between the Year 2010 and 2011.",
+      "The highest Revenues in billion U.S. dollars, of value 48.02 was reached at Year 2012",
+      "Minimum Revenues in billion U.S. dollars about 28.86 was reached at Year 2007"
+   ],
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Revenues in billion U.S. dollars. In total the number of data points it has is 13.",
+      " Overall Revenues in billion U.S. dollars has increased over the Year.",
+      "The steepest increase occurs in between the Year 2010 and 2011.",
+      "The highest Revenues in billion U.S. dollars, of value 48.02 was reached at Year 2012",
+      "Minimum Revenues in billion U.S. dollars about 28.86 was reached at Year 2007",
+      "The line rapidly "
+   ],
+   "trends": [],
    "data": [
       {
          "Year": "2019",

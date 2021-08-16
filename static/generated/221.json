@@ -1,16 +1,31 @@
 {
-   "title": "Test",
+   "title": "Domestic teams with the most players at the 2018 World Cup",
    "xAxis": "Team",
    "yAxis": "Number of players",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 12 categories on the x axis representing Team, and Number of players in each Team on the y axis.",
-      "Manchester City is higher than any other categories with value 16.0, followed by , and FC Barcelona. Down to category Atl\u00e9tico Madrid with the lowest value of 9.0. ",
-      " The highest value at Manchester City is almost 1.78 times larger than the minimum value of Atl\u00e9tico Madrid. ",
-      " The highest value at Manchester City is almost 1.78 times larger than the minimum value of Atl\u00e9tico Madrid. ",
-      " The difference between the max Team Manchester City and min Team Atl\u00e9tico Madrid is 7.0. "
+      "This bar chart has 12 columns on the x axis representing Team, and Number of players in each Team on the y axis. ",
+      "The Number of players is appeared to be the highest at Team Manchester City and lowest at Team Atl\u00e9tico Madrid. ",
+      "There is a difference of 7.0 between the maximum Team Manchester City and minimum Team Atl\u00e9tico Madrid. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing Team in the x axis and Number of players in the y axis. ",
+      "The Number of players is appeared to be the highest at Team Manchester City and lowest at Team Atl\u00e9tico Madrid. "
+   ],
+   "mid_summary": [
+      "This bar chart has 12 columns on the x axis representing Team, and Number of players in each Team on the y axis. ",
+      "The Number of players is appeared to be the highest at Team Manchester City and lowest at Team Atl\u00e9tico Madrid. ",
+      "There is a difference of 7.0 between the maximum Team Manchester City and minimum Team Atl\u00e9tico Madrid. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Team in the x axis and Number of players in the y axis. ",
+      "The maximum Number of players 16.0 is found at Team Manchester City and the minimum is found at Atl\u00e9tico Madrid where Team is 9.0. ",
+      "There is a difference of 7.0 between the maximum Team Manchester City and minimum Team Atl\u00e9tico Madrid. ",
+      "The Team Manchester City has the highest Number of players, followed by Real Madrid, and FC Barcelona. Down to the Team Atl\u00e9tico Madrid which is the lowest. ",
+      "Team Tottenham Hotspur, FC Paris Saint-Germain, and Chelsea FC have the same Number of players. ",
+      "The lowest value 9.0 at Atl\u00e9tico Madrid is almost 1.36 times smaller than the average value 11.75. "
    ],
    "trends": [
       {},

@@ -1,58 +1,42 @@
 {
-   "title": "Test",
+   "title": "Inflation rate in Tunisia 2024",
    "xAxis": "Year",
    "yAxis": "Inflation rate compared to previous year",
    "columnType": "two",
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Inflation rate compared to previous year, with a total of 41 data points.",
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Inflation rate compared to previous year. In total the number of data points it has is 41.",
+      " In general Inflation rate compared to previous year has fallen over the Year.",
+      "The chart generally has many fluctuations.",
+      "The line significantly increased by 2.18 from Year 2005 to 2006.",
+      "The most drastic decrease took place within the Year 1995 and 1996.",
+      "The highest Inflation rate compared to previous year, of value 8.6 was reached at Year 1984",
+      "The lowest Inflation rate compared to previous year, of value 1.95 was reported at Year 2001"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Inflation rate compared to previous year. In total the number of data points it has is 41.",
+      " Overall Inflation rate compared to previous year has decreased over the Year."
+   ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Inflation rate compared to previous year, containing a total of 41 data points.",
       " Overall Inflation rate compared to previous year has decreased over the Year.",
-      "Inflation rate compared to previous year is roughly constant from 1984 to 1985, roughly increasing from 1985 to 1987, roughly constant from 1987 to 1989, roughly increasing from 1989 to 1990, roughly decreasing from 1990 to 1992, roughly increasing from 1992 to 1994, slightly decreasing from 1994 to 1996, roughly constant from 1996 to 2000, roughly increasing from 2000 to 2002, roughly constant from 2002 to 2003, slightly increasing from 2003 to 2004, slightly decreasing from 2004 to 2005, rapidly increasing from 2005 to 2010, slightly decreasing from 2010 to 2011, slightly increasing from 2011 to 2012, roughly constant from 2012 to 2015, slightly increasing from 2015 to 2018, and lastly roughly constant from 2018 to 2024.",
       "The steepest decrease occurs in between the Year 1995 and 1996.",
-      "Max Inflation rate compared to previous year about 8.6 was recorded at Year 1984",
-      "Min Inflation rate compared to previous year about 1.95 was recorded at Year 2001",
-      "#########################################################################",
-      "This line chart has an x axis representing Year and a y axis representing Inflation rate compared to previous year, with a total of 41 data points. The chart has 7 significant trends.",
-      " The longest trend is extremely increasing which exists from 2001 to 2008.",
-      " Also, the next significant trend is slightly decreasing which exists from 2018 to 2024.",
-      " But, the next significant trend is slightly decreasing which exists from 1995 to 2001.",
-      " Differently, the next significant trend is moderately decreasing which exists from 1984 to 1990.",
-      " Contrarily, the next significant trend is extremely decreasing which exists from 2013 to 2018.",
-      " Differently, the next significant trend is extremely decreasing which exists from 2008 to 2013.",
-      " On the other hand, the next significant trend is moderately increasing which exists from 1990 to 1995."
+      "The highest Inflation rate compared to previous year, of value 8.6 was reached at Year 1984",
+      "The lowest Inflation rate compared to previous year, of value 1.95 was reported at Year 2001"
    ],
-   "trends": [
-      {},
-      {
-         "1": "16",
-         "12": "23"
-      },
-      {
-         "3": "0",
-         "14": "6"
-      },
-      {
-         "3": "23",
-         "14": "29"
-      },
-      {
-         "3": "34",
-         "14": "40"
-      },
-      {
-         "3": "6",
-         "14": "11"
-      },
-      {
-         "3": "11",
-         "14": "16"
-      },
-      {
-         "3": "29",
-         "14": "34"
-      }
+   "max_summary": [
+      "The chart generally has many fluctuations.",
+      "The chart generally has many fluctuations.",
+      "This is a line chart with an x axis representing Year and a y axis representing Inflation rate compared to previous year, containing a total of 41 data points.",
+      " In general Inflation rate compared to previous year has fallen over the Year.",
+      "The chart generally has many fluctuations.",
+      "The steepest decrease occurs in between the Year 1995 and 1996.",
+      "The highest Inflation rate compared to previous year, of value 8.6 was reached at Year 1984",
+      "The lowest Inflation rate compared to previous year, of value 1.95 was reported at Year 2001",
+      "The line drastically increased by 2.1 times from Year 2005 to 2006."
    ],
+   "trends": [],
    "data": [
       {
          "Year": "2024",

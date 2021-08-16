@@ -1,16 +1,31 @@
 {
-   "title": "Test",
+   "title": "Highest earning eSports countries in 2018 , by prize winnings",
    "xAxis": "Country",
    "yAxis": "Prize money in million U.S. dollars",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 10 categories on the x axis representing Country, and Prize money in million U.S. dollars in each Country on the y axis.",
-      "United States is higher than any other categories with value 28.07, followed by , and South Korea. Down to category Germany with the lowest value of 4.16. ",
-      " The highest value at United States is almost 6.75 times larger than the minimum value of Germany. ",
-      " The highest value at United States is almost 6.75 times larger than the minimum value of Germany. ",
-      " The difference between the max Country United States and min Country Germany is 23.91. "
+      "This is a bar chart representing Country in the x axis and Prize money in million U.S. dollars in the y axis. ",
+      "The Prize money in million U.S. dollars is appeared to be the highest at Country United States and lowest at Country Germany. ",
+      "The highest Country United States has 23.91 more Prize money in million U.S. dollars than the lowest Country Germany. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Prize money in million U.S. dollars for 10 number of Countrys. ",
+      "The Prize money in million U.S. dollars is appeared to be the highest at Country United States and lowest at Country Germany. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Country in the x axis and Prize money in million U.S. dollars in the y axis. ",
+      "The Prize money in million U.S. dollars is appeared to be the highest at Country United States and lowest at Country Germany. ",
+      "The highest Country United States has 23.91 more Prize money in million U.S. dollars than the lowest Country Germany. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Country in the x axis and Prize money in million U.S. dollars in the y axis. ",
+      "Country United States has the highest Prize money in million U.S. dollars and Germany has the lowest Prize money in million U.S. dollars. ",
+      "Country China has the second highest value for Prize money in million U.S. dollars. ",
+      "The highest Country United States has 23.91 more Prize money in million U.S. dollars than the lowest Country Germany. ",
+      "The Country United States has the highest Prize money in million U.S. dollars, followed by China, and South Korea. Down to the Country Germany which is the lowest. ",
+      "The average Prize money in million U.S. dollars in all 10 Countrys is 10.34. "
    ],
    "trends": [
       {},

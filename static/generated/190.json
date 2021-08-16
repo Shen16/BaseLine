@@ -1,16 +1,33 @@
 {
-   "title": "Test",
+   "title": "U.S. disposable personal income - monthly percentage of change 2019/20",
    "xAxis": "Month",
    "yAxis": "Monthly percentage of change",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 13 categories on the x axis representing Month, and Monthly percentage of change in each Month on the y axis.",
-      "Jan '20 is higher than any other categories with value 0.6, followed by , and Feb '19. Down to category Oct '19 with the lowest value of 0.0. ",
-      " The highest value at Jan '20 is almost 60000000000.0 times larger than the minimum value of Oct '19. ",
-      " The highest value at Jan '20 is almost 60000000000.0 times larger than the minimum value of Oct '19. ",
-      " The difference between the max Month Jan '20 and min Month Oct '19 is 0.6. "
+      "This is a bar chart. It shows Monthly percentage of change for 13 number of Months. ",
+      "Month Jan '20 has the highest Monthly percentage of change and Oct '19 has the lowest Monthly percentage of change. ",
+      "There is a difference of 0.6 between the maximum Month Jan '20 and minimum Month Oct '19. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Monthly percentage of change for 13 number of Months. ",
+      "The maximum Monthly percentage of change 0.6 is found at Month Jan '20 and the minimum is found at Oct '19 where Month is 0.0. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Monthly percentage of change for 13 number of Months. ",
+      "Month Jan '20 has the highest Monthly percentage of change and Oct '19 has the lowest Monthly percentage of change. ",
+      "There is a difference of 0.6 between the maximum Month Jan '20 and minimum Month Oct '19. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Monthly percentage of change for 13 number of Months. ",
+      "Month Jan '20 has the highest Monthly percentage of change and Oct '19 has the lowest Monthly percentage of change. ",
+      "The highest value at Month Jan '20 is 60000000000.0x times more than the lowest value at Oct '19. ",
+      "The Month Jan '20 has the highest Monthly percentage of change, followed by Aug '19, and Feb '19. Down to the Month Oct '19 which is the lowest. ",
+      "Overall Monthly percentage of change has reduced over the Months. ",
+      "Month Nov '19, Jun '19, Apr '19, and Mar '19 have the same Monthly percentage of change. ",
+      "The Month Oct '19 has 1.73 times less Monthly percentage of change than average. ",
+      "Summing up the values of all Months, we get total 4.5. "
    ],
    "trends": [
       {},

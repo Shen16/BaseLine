@@ -1,33 +1,42 @@
 {
-   "title": "Test",
+   "title": "Teenage pregnancies in England and Wales resulting in maternities 2004 to 2017",
    "xAxis": "Year",
    "yAxis": "Number of pregnancies resulting in maternity",
    "columnType": "two",
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Number of pregnancies resulting in maternity, with a total of 14 data points.",
+      "This is a line chart with an x axis representing Year and a y axis representing Number of pregnancies resulting in maternity, containing a total of 14 data points.",
       " Overall Number of pregnancies resulting in maternity has decreased over the Year.",
-      "Number of pregnancies resulting in maternity is roughly constant from 2004 to 2008, and lastly slightly decreasing from 2008 to 2017.",
+      "Number of pregnancies resulting in maternity is roughly constant from 2004 to 2008, and finally slightly decreasing from 2008 to 2017.",
+      "The line drastically ",
       "The steepest decrease occurs in between the Year 2011 and 2012.",
-      "Max Number of pregnancies resulting in maternity about 61111.0 was recorded at Year 2005",
-      "Min Number of pregnancies resulting in maternity about 28092.0 was recorded at Year 2017",
-      "#########################################################################",
-      "This line chart has an x axis representing Year and a y axis representing Number of pregnancies resulting in maternity, with a total of 14 data points. The chart has 2 significant trends.",
-      " The longest trend is slightly decreasing which exists from 2007 to 2017.",
-      " On the other hand, the next significant trend is extremely decreasing which exists from 2004 to 2007."
+      "The highest Number of pregnancies resulting in maternity, of value 61111.0 was reached at Year 2005",
+      "The lowest Number of pregnancies resulting in maternity, of value 28092.0 was reported at Year 2017"
    ],
-   "trends": [
-      {},
-      {
-         "1": "0",
-         "12": "10"
-      },
-      {
-         "3": "10",
-         "14": "13"
-      }
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of pregnancies resulting in maternity. In total the number of data points it has is 14.",
+      " In general Number of pregnancies resulting in maternity has fallen over the Year.",
+      "Number of pregnancies resulting in maternity is roughly constant from 2004 to 2008, and finally slightly decreasing from 2008 to 2017."
    ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of pregnancies resulting in maternity. In total the number of data points it has is 14.",
+      " Overall Number of pregnancies resulting in maternity has decreased over the Year.",
+      "Number of pregnancies resulting in maternity is roughly constant from 2004 to 2008, and finally slightly decreasing from 2008 to 2017.",
+      "The most drastic decrease took place within the Year 2011 and 2012.",
+      "The highest Number of pregnancies resulting in maternity, of value 61111.0 was reached at Year 2005",
+      "The lowest Number of pregnancies resulting in maternity, of value 28092.0 was reported at Year 2017"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Number of pregnancies resulting in maternity, containing a total of 14 data points.",
+      " Overall Number of pregnancies resulting in maternity has decreased over the Year.",
+      "Number of pregnancies resulting in maternity is roughly constant from 2004 to 2008, and finally slightly decreasing from 2008 to 2017.",
+      "The steepest decrease occurs in between the Year 2011 and 2012.",
+      "The highest Number of pregnancies resulting in maternity, of value 61111.0 was reached at Year 2005",
+      "The lowest Number of pregnancies resulting in maternity, of value 28092.0 was reported at Year 2017",
+      "The line drastically "
+   ],
+   "trends": [],
    "data": [
       {
          "Year": "2017",

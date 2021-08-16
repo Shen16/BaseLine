@@ -1,53 +1,42 @@
 {
-   "title": "Test",
+   "title": "Laptop penetration in the United Kingdom ( UK ) 2009 to 2019",
    "xAxis": "Year",
    "yAxis": "Percentage of population",
    "columnType": "two",
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Percentage of population, with a total of 11 data points.",
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Percentage of population. In total the number of data points it has is 11.",
       " Overall Percentage of population has increased over the Year.",
       "Percentage of population is gradually increasing from 2009 to 2014, roughly constant from 2014 to 2018, and lastly roughly decreasing from 2018 to 2019.",
+      "The line rapidly ",
       "The steepest increase occurs in between the Year 2010 and 2011.",
-      "Max Percentage of population about 66.0 was recorded at Year 2013",
-      "Min Percentage of population about 47.0 was recorded at Year 2009",
-      "#########################################################################",
-      "This line chart has an x axis representing Year and a y axis representing Percentage of population, with a total of 11 data points. The chart has 6 significant trends.",
-      " The longest trend is extremely increasing which exists from 2009 to 2013.",
-      " Similarly, the next significant trend is slightly decreasing which exists from 2017 to 2019.",
-      " On the other hand, the next significant trend is moderately constant which exists from 2016 to 2017.",
-      " Differently, the next significant trend is moderately decreasing which exists from 2015 to 2016.",
-      " Contrarily, the next significant trend is moderately increasing which exists from 2014 to 2015.",
-      " Similarly, the next significant trend is slightly decreasing which exists from 2013 to 2014."
+      "The highest Percentage of population, of value 66.0 was reached at Year 2013",
+      "Minimum Percentage of population about 47.0 was reached at Year 2009"
    ],
-   "trends": [
-      {},
-      {
-         "1": "6",
-         "12": "10"
-      },
-      {
-         "3": "0",
-         "14": "2"
-      },
-      {
-         "3": "2",
-         "14": "3"
-      },
-      {
-         "3": "3",
-         "14": "4"
-      },
-      {
-         "3": "4",
-         "14": "5"
-      },
-      {
-         "3": "5",
-         "14": "6"
-      }
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Percentage of population, containing a total of 11 data points.",
+      " In general Percentage of population has rose over the Year.",
+      "Percentage of population is gradually increasing from 2009 to 2014, roughly constant from 2014 to 2018, and lastly roughly decreasing from 2018 to 2019."
    ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Percentage of population, containing a total of 11 data points.",
+      " In general Percentage of population has rose over the Year.",
+      "Percentage of population is gradually increasing from 2009 to 2014, roughly constant from 2014 to 2018, and lastly roughly decreasing from 2018 to 2019.",
+      "The steepest increase occurs in between the Year 2010 and 2011.",
+      "The highest Percentage of population, of value 66.0 was reached at Year 2013",
+      "Minimum Percentage of population about 47.0 was reached at Year 2009"
+   ],
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Percentage of population. In total the number of data points it has is 11.",
+      " In general Percentage of population has rose over the Year.",
+      "Percentage of population is gradually increasing from 2009 to 2014, roughly constant from 2014 to 2018, and lastly roughly decreasing from 2018 to 2019.",
+      "The steepest increase occurs in between the Year 2010 and 2011.",
+      "The highest Percentage of population, of value 66.0 was reached at Year 2013",
+      "Minimum Percentage of population about 47.0 was reached at Year 2009",
+      "The line rapidly "
+   ],
+   "trends": [],
    "data": [
       {
          "Year": "2019",

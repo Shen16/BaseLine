@@ -1,16 +1,32 @@
 {
-   "title": "Test",
+   "title": "Yelp : number of unique visitors 2010 to 2015",
    "xAxis": "Quarter",
    "yAxis": "Unique visitors in millions",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 21 categories on the x axis representing Quarter, and Unique visitors in millions in each Quarter on the y axis.",
-      "Q1 '15 is higher than any other categories with value 142.0, followed by , and Q2 '14. Down to category Q1 '10 with the lowest value of 29.82. ",
-      " The highest value at Q1 '15 is almost 4.76 times larger than the minimum value of Q1 '10. ",
-      " The highest value at Q1 '15 is almost 4.76 times larger than the minimum value of Q1 '10. ",
-      " The difference between the max Quarter Q1 '15 and min Quarter Q1 '10 is 112.18. "
+      "This is a bar chart representing Quarter in the x axis and Unique visitors in millions in the y axis. ",
+      "The Unique visitors in millions is highest at Quarter Q1 '15 and lowest at Quarter Q1 '10. ",
+      "The maximum Quarter Q1 '15 has got 4.76 times higher Unique visitors in millions than the minimum Quarter Q1 '10. "
+   ],
+   "min_summary": [
+      "This bar chart has 21 columns on the x axis representing Quarter, and Unique visitors in millions in each Quarter on the y axis. ",
+      "The Unique visitors in millions is highest at Quarter Q1 '15 and lowest at Quarter Q1 '10. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Quarter in the x axis and Unique visitors in millions in the y axis. ",
+      "The Unique visitors in millions is highest at Quarter Q1 '15 and lowest at Quarter Q1 '10. ",
+      "The maximum Quarter Q1 '15 has got 4.76 times higher Unique visitors in millions than the minimum Quarter Q1 '10. "
+   ],
+   "max_summary": [
+      "This bar chart has 21 columns on the x axis representing Quarter, and Unique visitors in millions in each Quarter on the y axis. ",
+      "Quarter Q1 '15 has the highest Unique visitors in millions and Q1 '10 has the lowest Unique visitors in millions. ",
+      "Quarter Q3 '14 has the second highest value for Unique visitors in millions. ",
+      "The highest Quarter Q1 '15 has 112.18 more Unique visitors in millions than the lowest Quarter Q1 '10. ",
+      "Unique visitors in millions at Quarter Q1 '15 is 142.0 , second place is Q3 '14 at 139.0, and thirdly is Q2 '14 at 138.0.",
+      "Over the past 21 Quarters, the Unique visitors in millions has grew. ",
+      "The Quarter Q1 '15 has 1.64 times more Unique visitors in millions than average. "
    ],
    "trends": [
       {},

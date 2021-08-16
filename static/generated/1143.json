@@ -1,18 +1,32 @@
 {
-   "title": "Test",
+   "title": "Number of earthquakes , by country 1900 to 2016",
    "xAxis": "Country",
    "yAxis": "Number of earthquakes",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 12 categories on the x axis representing Country, and Number of earthquakes in each Country on the y axis.",
-      " The highest category is found at China where Number of earthquakes is 157.0.",
-      " Followed by 157.0 in .",
-      " The lowest category is found at Afghanistan where Number of earthquakes is 32.0.",
-      " The highest value at China is almost 4.91 times larger than the minimum value of Afghanistan. ",
-      " The highest value at China is almost 4.91 times larger than the minimum value of Afghanistan. ",
-      " The difference between the max Country China and min Country Afghanistan is 125.0. "
+      "This is a bar chart. It shows Number of earthquakes for 12 number of Countrys. ",
+      "The maximum Number of earthquakes 157.0 is found at Country China and the minimum is found at Afghanistan where Country is 32.0. ",
+      "The difference of Number of earthquakes between the highest and lowest Country is 125.0. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Number of earthquakes for 12 number of Countrys. ",
+      "The Number of earthquakes is highest at Country China and lowest at Country Afghanistan. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Number of earthquakes for 12 number of Countrys. ",
+      "The maximum Number of earthquakes 157.0 is found at Country China and the minimum is found at Afghanistan where Country is 32.0. ",
+      "The difference of Number of earthquakes between the highest and lowest Country is 125.0. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Country in the x axis and Number of earthquakes in the y axis. ",
+      "The Number of earthquakes is highest at Country China and lowest at Country Afghanistan. ",
+      "There is a difference of 125.0 between the maximum Country China and minimum Country Afghanistan. ",
+      "Number of earthquakes at Country China is 157.0 , second place is Indonesia at 113.0, and thirdly is Iran (Islamic Republic of) at 106.0.",
+      "Country Afghanistan, India, Greece, and Mexico share the same value 32.0. ",
+      "The Country Afghanistan tends to be 2.48 percent lower than average. ",
+      "The Number of earthquakes is 760.0 if we add up values of all Countrys. "
    ],
    "trends": [
       {},

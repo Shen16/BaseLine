@@ -1,18 +1,33 @@
 {
-   "title": "Test",
+   "title": "Internet clothing and footwear retail sales trend monthly in the UK 2013 to 2019",
    "xAxis": "Month",
    "yAxis": "Percentage change",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 81 categories on the x axis representing Month, and Percentage change in each Month on the y axis.",
-      " The highest category is found at Aug 14 where Percentage change is 34.0.",
-      " Followed by 6.6 in .",
-      " The lowest category is found at Jun 16 where Percentage change is 0.5.",
-      " The highest value at Aug 14 is almost 68.0 times larger than the minimum value of Jun 16. ",
-      " The highest value at Aug 14 is almost 68.0 times larger than the minimum value of Jun 16. ",
-      " The difference between the max Month Aug 14 and min Month Jun 16 is 33.5. "
+      "This is a bar chart representing Month in the x axis and Percentage change in the y axis. ",
+      "The Percentage change is highest at Month Aug 14 and lowest at Month Jun 16. ",
+      "The highest Month Aug 14 has 33.5 more Percentage change than the lowest Month Jun 16. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing Month in the x axis and Percentage change in the y axis. ",
+      "The maximum Percentage change 34.0 is found at Month Aug 14 and the minimum is found at Jun 16 where Month is 0.5. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Month in the x axis and Percentage change in the y axis. ",
+      "The Percentage change is highest at Month Aug 14 and lowest at Month Jun 16. ",
+      "The highest Month Aug 14 has 33.5 more Percentage change than the lowest Month Jun 16. "
+   ],
+   "max_summary": [
+      "This bar chart has 81 columns on the x axis representing Month, and Percentage change in each Month on the y axis. ",
+      "The Percentage change is appeared to be the highest at Month Aug 14 and lowest at Month Jun 16. ",
+      "The highest Month Aug 14 has 33.5 more Percentage change than the lowest Month Jun 16. ",
+      "Month Aug 14 is higher than any other Months with value 34.0, followed by Nov 13, and Mar 17. Down to Month Jun 16 with the lowest value 0.5. ",
+      "Over the past 81 Months, the Percentage change has risen. ",
+      "Month May 16, Feb 16, and Aug 15 have the same Percentage change. ",
+      "The lowest value 0.5 at Jun 16 is almost 2.43 times smaller than the average value 14.01. ",
+      "The Percentage change is 1135.1 if we add up values of all Months. "
    ],
    "trends": [
       {},

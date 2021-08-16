@@ -1,16 +1,32 @@
 {
-   "title": "Test",
+   "title": "Real GDP of New York , by industry 2018",
    "xAxis": "Industry",
    "yAxis": "Real value added in billion chained (2012) U.S. dollars",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 14 categories on the x axis representing Industry, and Real value added in billion chained (2012) U.S. dollars in each Industry on the y axis.",
-      "Finance insurance real estate rental and leasing is higher than any other categories with value 418.87, followed by , and Government and government enterprises. Down to category Mining quarrying and oil and gas extraction with the lowest value of 1.2. ",
-      " The highest value at Finance insurance real estate rental and leasing is almost 349.06 times larger than the minimum value of Mining quarrying and oil and gas extraction. ",
-      " The highest value at Finance insurance real estate rental and leasing is almost 349.06 times larger than the minimum value of Mining quarrying and oil and gas extraction. ",
-      " The difference between the max Industry Finance insurance real estate rental and leasing and min Industry Mining quarrying and oil and gas extraction is 417.67. "
+      "This bar chart has 14 columns on the x axis representing Industry, and Real value added in billion chained (2012) U.S. dollars in each Industry on the y axis. ",
+      "Industry Finance insurance real estate rental and leasing has the highest Real value added in billion chained (2012) U.S. dollars and Mining quarrying and oil and gas extraction has the lowest Real value added in billion chained (2012) U.S. dollars. ",
+      "The highest Industry Finance insurance real estate rental and leasing has 417.67 more Real value added in billion chained (2012) U.S. dollars than the lowest Industry Mining quarrying and oil and gas extraction. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing Industry in the x axis and Real value added in billion chained (2012) U.S. dollars in the y axis. ",
+      "The Real value added in billion chained (2012) U.S. dollars is highest at Industry Finance insurance real estate rental and leasing and lowest at Industry Mining quarrying and oil and gas extraction. "
+   ],
+   "mid_summary": [
+      "This bar chart has 14 columns on the x axis representing Industry, and Real value added in billion chained (2012) U.S. dollars in each Industry on the y axis. ",
+      "Industry Finance insurance real estate rental and leasing has the highest Real value added in billion chained (2012) U.S. dollars and Mining quarrying and oil and gas extraction has the lowest Real value added in billion chained (2012) U.S. dollars. ",
+      "The highest Industry Finance insurance real estate rental and leasing has 417.67 more Real value added in billion chained (2012) U.S. dollars than the lowest Industry Mining quarrying and oil and gas extraction. "
+   ],
+   "max_summary": [
+      "This bar chart has 14 columns on the x axis representing Industry, and Real value added in billion chained (2012) U.S. dollars in each Industry on the y axis. ",
+      "The maximum Real value added in billion chained (2012) U.S. dollars 418.87 is found at Industry Finance insurance real estate rental and leasing and the minimum is found at Mining quarrying and oil and gas extraction where Industry is 1.2. ",
+      "Second maximum Real value added in billion chained (2012) U.S. dollars is found at Industry Professional and business services. ",
+      "The highest Industry Finance insurance real estate rental and leasing has 417.67 more Real value added in billion chained (2012) U.S. dollars than the lowest Industry Mining quarrying and oil and gas extraction. ",
+      "The Industry Finance insurance real estate rental and leasing has the highest Real value added in billion chained (2012) U.S. dollars, followed by Professional and business services, and Government and government enterprises. Down to the Industry Mining quarrying and oil and gas extraction which is the lowest. ",
+      "The Industry Finance insurance real estate rental and leasing tends to be 4.14 percent higher than average. ",
+      "The Real value added in billion chained (2012) U.S. dollars is 1416.02 if we add up values of all Industrys. "
    ],
    "trends": [
       {},

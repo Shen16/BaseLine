@@ -1,28 +1,42 @@
 {
-   "title": "Test",
+   "title": "United States : retail e-commerce sales 2017 to 2024",
    "xAxis": "Year",
    "yAxis": "Revenue in million U.S. dollars",
    "columnType": "two",
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Revenue in million U.S. dollars, with a total of 8 data points.",
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Revenue in million U.S. dollars. In total the number of data points it has is 8.",
+      " In general Revenue in million U.S. dollars has rose over the Year.",
+      "Revenue in million U.S. dollars is slightly increasing from 2017 to 2022, and lastly roughly constant from 2022 to 2024.",
+      "The line significantly ",
+      "The steepest increase occurs in between the Year 2019 and 2020.",
+      "The highest Revenue in million U.S. dollars, of value 599186.0 was reached at Year 2024",
+      "Minimum Revenue in million U.S. dollars about 274755.0 was reached at Year 2017"
+   ],
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Revenue in million U.S. dollars, containing a total of 8 data points.",
+      " In general Revenue in million U.S. dollars has rose over the Year.",
+      "Revenue in million U.S. dollars is slightly increasing from 2017 to 2022, and lastly roughly constant from 2022 to 2024."
+   ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Revenue in million U.S. dollars, containing a total of 8 data points.",
+      " In general Revenue in million U.S. dollars has rose over the Year.",
+      "Revenue in million U.S. dollars is slightly increasing from 2017 to 2022, and lastly roughly constant from 2022 to 2024.",
+      "The steepest increase occurs in between the Year 2019 and 2020.",
+      "The highest Revenue in million U.S. dollars, of value 599186.0 was reached at Year 2024",
+      "Minimum Revenue in million U.S. dollars about 274755.0 was reached at Year 2017"
+   ],
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Revenue in million U.S. dollars. In total the number of data points it has is 8.",
       " Overall Revenue in million U.S. dollars has increased over the Year.",
       "Revenue in million U.S. dollars is slightly increasing from 2017 to 2022, and lastly roughly constant from 2022 to 2024.",
       "The steepest increase occurs in between the Year 2019 and 2020.",
-      "Max Revenue in million U.S. dollars about 599186.0 was recorded at Year 2024",
-      "Min Revenue in million U.S. dollars about 274755.0 was recorded at Year 2017",
-      "#########################################################################",
-      "This line chart has an x axis representing Year and a y axis representing Revenue in million U.S. dollars with a total of 8 data points. The chart has one significant trend.",
-      " This trend is increasing which exists from 2024 to 2017."
+      "The highest Revenue in million U.S. dollars, of value 599186.0 was reached at Year 2024",
+      "Minimum Revenue in million U.S. dollars about 274755.0 was reached at Year 2017",
+      "The line drastically "
    ],
-   "trends": [
-      {},
-      {
-         "3": "0",
-         "14": "7"
-      }
-   ],
+   "trends": [],
    "data": [
       {
          "Year": "2024",

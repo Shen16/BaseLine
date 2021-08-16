@@ -1,5 +1,5 @@
 {
-   "title": "Test",
+   "title": "Population of Europe 2016 , by country and gender",
    "labels": [
       "Country",
       "Male",
@@ -9,11 +9,30 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart has 40 categories of Country on the x axis representing 2 groups: Male, and Female.",
-      " Averaging these 2 groups, the highest category is found for Country Germany with a mean value of 41087842.0.",
-      " The lowest category is observed at Liechtenstein that has a mean value of 18811.0",
-      " showing a difference of 199.8% with the maximum value.",
-      " In case of Germany, Male shows more dominance than any other Country and it has the lowest value in Liechtenstein. "
+      "This grouped bar chart shows SOME LABEL on the Y-axis for 40 different Countrys for 2 groups Male, and Female that are presented on the X-axis. ",
+      " In Country Germany, Female had the highest SOME LABEL 41661561.0 among the 2 groups and in Liechtenstein, Male had the lowest SOME LABEL 18660.0. ",
+      " Among all the Countrys, Female had the highest SOME LABEL in Country Germany and lowest SOME LABEL in Country Liechtenstein. ",
+      " There is a gap of 41642599.0 between the highest and lowest SOME LABEL found for Female in Country Germany and Liechtenstein. "
+   ],
+   "xAxis": "Country",
+   "yAxis": "SOME LABEL",
+   "min_summary": [
+      "This grouped bar chart shows SOME LABEL on the Y-axis for 40 different Countrys for 2 groups Male, and Female that are presented on the X-axis. ",
+      " In Country Germany, Female had the highest SOME LABEL 41661561.0 among the 2 groups and in Liechtenstein, Male had the lowest SOME LABEL 18660.0. "
+   ],
+   "mid_summary": [
+      "This grouped bar chart shows SOME LABEL on the Y-axis for 40 different Countrys for 2 groups Male, and Female that are presented on the X-axis. ",
+      " In Country Germany, Female had the highest SOME LABEL 41661561.0 among the 2 groups and in Liechtenstein, Male had the lowest SOME LABEL 18660.0. ",
+      " Among all the Countrys, Female had the highest SOME LABEL in Country Germany and lowest SOME LABEL in Country Liechtenstein. ",
+      " There is a gap of 41642599.0 between the highest and lowest SOME LABEL found for Female in Country Germany and Liechtenstein. "
+   ],
+   "max_summary": [
+      "This grouped bar chart shows SOME LABEL on the Y-axis for 40 different Countrys for 2 groups Male, and Female that are presented on the X-axis. ",
+      " Out of all 2 groups, Female had the highest SOME LABEL in Country Germany and Male had the lowest SOME LABEL in Country Liechtenstein. ",
+      " Among all the Countrys, Female had the highest SOME LABEL in Country Germany and lowest SOME LABEL in Country Liechtenstein. ",
+      "Country Germany and Liechtenstein had the biggest gap of 41642599.0 between the highest and lowest SOME LABEL found for Female. ",
+      " Among the groups, Male had the biggest difference in SOME LABEL. Where the maximum SOME LABEL was 2171.17 times larger than the minimum SOME LABEL. ",
+      "On average, the Country Germany had the highest SOME LABEL for all 2 groups Male, and Female. Whereas Liechtenstein had the lowest average SOME LABEL. "
    ],
    "trends": [
       {},

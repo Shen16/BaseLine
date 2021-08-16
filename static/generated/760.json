@@ -1,48 +1,38 @@
 {
-   "title": "Test",
+   "title": "Annual performance of the Dow Jones Composite Index 2000 to 2019",
    "xAxis": "Year",
    "yAxis": "Index value in points",
    "columnType": "two",
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Index value in points, with a total of 20 data points.",
-      " Overall Index value in points has increased over the Year.",
-      "Index value in points is slightly decreasing from 2000 to 2002, slightly increasing from 2002 to 2003, roughly constant from 2003 to 2007, slightly decreasing from 2007 to 2008, slightly increasing from 2008 to 2009, roughly constant from 2009 to 2012, slightly increasing from 2012 to 2013, roughly constant from 2013 to 2015, slightly increasing from 2015 to 2017, roughly constant from 2017 to 2018, and lastly slightly increasing from 2018 to 2019.",
+      "This is a line chart with an x axis representing Year and a y axis representing Index value in points, containing a total of 20 data points.",
+      " In general Index value in points has rose over the Year.",
+      "The line rapidly ",
       "The steepest increase occurs in between the Year 2018 and 2019.",
-      "Max Index value in points about 9386.48 was recorded at Year 2019",
-      "Min Index value in points about 2374.96 was recorded at Year 2002",
-      "#########################################################################",
-      "This line chart has an x axis representing Year and a y axis representing Index value in points, with a total of 20 data points. The chart has 5 significant trends.",
-      " The longest trend is moderately increasing which exists from 2008 to 2015.",
-      " Additionally, the next significant trend is moderately increasing which exists from 2002 to 2008.",
-      " Likewise, the next significant trend is moderately decreasing which exists from 2017 to 2019.",
-      " On the other hand, the next significant trend is extremely increasing which exists from 2015 to 2017.",
-      " Likewise, the next significant trend is slightly decreasing which exists from 2000 to 2002."
+      "Maximum Index value in points, about 9386.48 was reported at Year 2019",
+      "Minimum Index value in points about 2374.96 was reached at Year 2002"
    ],
-   "trends": [
-      {},
-      {
-         "1": "4",
-         "12": "11"
-      },
-      {
-         "3": "11",
-         "14": "17"
-      },
-      {
-         "3": "0",
-         "14": "2"
-      },
-      {
-         "3": "2",
-         "14": "4"
-      },
-      {
-         "3": "17",
-         "14": "19"
-      }
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Index value in points, containing a total of 20 data points.",
+      " Overall Index value in points has increased over the Year."
    ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Index value in points. In total the number of data points it has is 20.",
+      " In general Index value in points has rose over the Year.",
+      "The steepest increase occurs in between the Year 2018 and 2019.",
+      "Maximum Index value in points, about 9386.48 was reported at Year 2019",
+      "Minimum Index value in points about 2374.96 was reached at Year 2002"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Index value in points, containing a total of 20 data points.",
+      " In general Index value in points has rose over the Year.",
+      "The steepest increase occurs in between the Year 2018 and 2019.",
+      "Maximum Index value in points, about 9386.48 was reported at Year 2019",
+      "Minimum Index value in points about 2374.96 was reached at Year 2002",
+      "The line significantly "
+   ],
+   "trends": [],
    "data": [
       {
          "Year": "2019",

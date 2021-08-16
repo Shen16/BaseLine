@@ -1,43 +1,38 @@
 {
-   "title": "Test",
+   "title": "Expenditure on beer in the United Kingdom 2005 to 2018",
    "xAxis": "Year",
    "yAxis": "Expenditure in million GBP",
    "columnType": "two",
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Expenditure in million GBP, with a total of 14 data points.",
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Expenditure in million GBP. In total the number of data points it has is 14.",
       " Overall Expenditure in million GBP has increased over the Year.",
-      "Expenditure in million GBP is slightly increasing from 2005 to 2006, roughly decreasing from 2006 to 2007, slightly increasing from 2007 to 2010, roughly constant from 2010 to 2012, slightly increasing from 2012 to 2013, roughly constant from 2013 to 2016, and lastly gradually increasing from 2016 to 2018.",
+      "The line rapidly ",
+      "The most drastic increase took place within the Year 2017 and 2018.",
+      "Maximum Expenditure in million GBP, about 5631.0 was reported at Year 2018",
+      "The lowest Expenditure in million GBP, of value 3677.0 was reported at Year 2008"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Expenditure in million GBP. In total the number of data points it has is 14.",
+      " Overall Expenditure in million GBP has increased over the Year."
+   ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Expenditure in million GBP, containing a total of 14 data points.",
+      " In general Expenditure in million GBP has rose over the Year.",
       "The steepest increase occurs in between the Year 2017 and 2018.",
-      "Max Expenditure in million GBP about 5631.0 was recorded at Year 2018",
-      "Min Expenditure in million GBP about 3677.0 was recorded at Year 2008",
-      "#########################################################################",
-      "This line chart has an x axis representing Year and a y axis representing Expenditure in million GBP, with a total of 14 data points. The chart has 4 significant trends.",
-      " The longest trend is moderately increasing which exists from 2010 to 2015.",
-      " Additionally, the next significant trend is extremely increasing which exists from 2015 to 2018.",
-      " Likewise, the next significant trend is slightly decreasing which exists from 2005 to 2008.",
-      " But, the next significant trend is moderately increasing which exists from 2008 to 2010."
+      "Maximum Expenditure in million GBP, about 5631.0 was reported at Year 2018",
+      "The lowest Expenditure in million GBP, of value 3677.0 was reported at Year 2008"
    ],
-   "trends": [
-      {},
-      {
-         "1": "3",
-         "12": "8"
-      },
-      {
-         "3": "0",
-         "14": "3"
-      },
-      {
-         "3": "10",
-         "14": "13"
-      },
-      {
-         "3": "8",
-         "14": "10"
-      }
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Expenditure in million GBP. In total the number of data points it has is 14.",
+      " In general Expenditure in million GBP has rose over the Year.",
+      "The most drastic increase took place within the Year 2017 and 2018.",
+      "Maximum Expenditure in million GBP, about 5631.0 was reported at Year 2018",
+      "The lowest Expenditure in million GBP, of value 3677.0 was reported at Year 2008",
+      "The line drastically "
    ],
+   "trends": [],
    "data": [
       {
          "Year": "2018",

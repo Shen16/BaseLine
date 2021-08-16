@@ -1,18 +1,30 @@
 {
-   "title": "Test",
+   "title": "Profit of leading mutual property/casualty insurance companies 2018",
    "xAxis": "Insurance Companies",
    "yAxis": "Profit in million U.S. dollars",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 8 categories on the x axis representing Insurance Companies, and Profit in million U.S. dollars in each Insurance Companies on the y axis.",
-      " The highest category is found at State Farm Insurance Cos. where Profit in million U.S. dollars is 8788.4.",
-      " Followed by 8788.4 in .",
-      " The lowest category is found at Farmers Insurance Exchange where Profit in million U.S. dollars is 70.5.",
-      " The highest value at State Farm Insurance Cos. is almost 124.66 times larger than the minimum value of Farmers Insurance Exchange. ",
-      " The highest value at State Farm Insurance Cos. is almost 124.66 times larger than the minimum value of Farmers Insurance Exchange. ",
-      " The difference between the max Insurance Companies State Farm Insurance Cos. and min Insurance Companies Farmers Insurance Exchange is 8717.9. "
+      "This is a bar chart representing Insurance Companies in the x axis and Profit in million U.S. dollars in the y axis. ",
+      "The Profit in million U.S. dollars is appeared to be the highest at Insurance Companies State Farm Insurance Cos. and lowest at Insurance Companies Farmers Insurance Exchange. ",
+      "The lowest value at Insurance Companies Farmers Insurance Exchange is 124.66x times less than the highest value at State Farm Insurance Cos.. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing Insurance Companies in the x axis and Profit in million U.S. dollars in the y axis. ",
+      "Insurance Companies State Farm Insurance Cos. has the highest Profit in million U.S. dollars and Farmers Insurance Exchange has the lowest Profit in million U.S. dollars. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Insurance Companies in the x axis and Profit in million U.S. dollars in the y axis. ",
+      "The Profit in million U.S. dollars is appeared to be the highest at Insurance Companies State Farm Insurance Cos. and lowest at Insurance Companies Farmers Insurance Exchange. ",
+      "The lowest value at Insurance Companies Farmers Insurance Exchange is 124.66x times less than the highest value at State Farm Insurance Cos.. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Profit in million U.S. dollars for 8 number of Insurance Companiess. ",
+      "The Profit in million U.S. dollars is highest at Insurance Companies State Farm Insurance Cos. and lowest at Insurance Companies Farmers Insurance Exchange. ",
+      "The highest Insurance Companies State Farm Insurance Cos. has 8717.9 more Profit in million U.S. dollars than the lowest Insurance Companies Farmers Insurance Exchange. ",
+      "The Insurance Companies State Farm Insurance Cos. has the highest Profit in million U.S. dollars, followed by Auto-Owners Insurance, and Erie Insurance Group. Down to the Insurance Companies Farmers Insurance Exchange which is the lowest. ",
+      "The Insurance Companies Farmers Insurance Exchange tends to be 6.15 percent lower than average. "
    ],
    "trends": [
       {},

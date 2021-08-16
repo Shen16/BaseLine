@@ -1,38 +1,42 @@
 {
-   "title": "Test",
+   "title": "Boston Red Sox average ticket price 2006 to 2019",
    "xAxis": "Year",
    "yAxis": "Average ticket price in U.S. dollars",
    "columnType": "two",
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Average ticket price in U.S. dollars, with a total of 13 data points.",
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Average ticket price in U.S. dollars. In total the number of data points it has is 13.",
+      " In general Average ticket price in U.S. dollars has rose over the Year.",
+      "Average ticket price in U.S. dollars is slightly increasing from 2006 to 2010, roughly constant from 2010 to 2015, and lastly slightly increasing from 2015 to 2019.",
+      "The line rapidly ",
+      "The most drastic increase took place within the Year 2015 and 2016.",
+      "Maximum Average ticket price in U.S. dollars, about 59.32 was reported at Year 2019",
+      "The lowest Average ticket price in U.S. dollars, of value 46.46 was reported at Year 2006"
+   ],
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Average ticket price in U.S. dollars, containing a total of 13 data points.",
+      " In general Average ticket price in U.S. dollars has rose over the Year.",
+      "Average ticket price in U.S. dollars is slightly increasing from 2006 to 2010, roughly constant from 2010 to 2015, and lastly slightly increasing from 2015 to 2019."
+   ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Average ticket price in U.S. dollars. In total the number of data points it has is 13.",
       " Overall Average ticket price in U.S. dollars has increased over the Year.",
       "Average ticket price in U.S. dollars is slightly increasing from 2006 to 2010, roughly constant from 2010 to 2015, and lastly slightly increasing from 2015 to 2019.",
       "The steepest increase occurs in between the Year 2015 and 2016.",
-      "Max Average ticket price in U.S. dollars about 59.32 was recorded at Year 2019",
-      "Min Average ticket price in U.S. dollars about 46.46 was recorded at Year 2006",
-      "#########################################################################",
-      "This line chart has an x axis representing Year and a y axis representing Average ticket price in U.S. dollars, with a total of 13 data points. The chart has 3 significant trends.",
-      " The longest trend is extremely increasing which exists from 2006 to 2011.",
-      " Likewise, the next significant trend is extremely increasing which exists from 2014 to 2019.",
-      " In a similar manner, the next significant trend is slightly constant which exists from 2011 to 2014."
+      "Maximum Average ticket price in U.S. dollars, about 59.32 was reported at Year 2019",
+      "The lowest Average ticket price in U.S. dollars, of value 46.46 was reported at Year 2006"
    ],
-   "trends": [
-      {},
-      {
-         "1": "7",
-         "12": "12"
-      },
-      {
-         "3": "0",
-         "14": "4"
-      },
-      {
-         "3": "4",
-         "14": "7"
-      }
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Average ticket price in U.S. dollars, containing a total of 13 data points.",
+      " Overall Average ticket price in U.S. dollars has increased over the Year.",
+      "Average ticket price in U.S. dollars is slightly increasing from 2006 to 2010, roughly constant from 2010 to 2015, and lastly slightly increasing from 2015 to 2019.",
+      "The most drastic increase took place within the Year 2015 and 2016.",
+      "Maximum Average ticket price in U.S. dollars, about 59.32 was reported at Year 2019",
+      "The lowest Average ticket price in U.S. dollars, of value 46.46 was reported at Year 2006",
+      "The line significantly "
    ],
+   "trends": [],
    "data": [
       {
          "Year": "2019",

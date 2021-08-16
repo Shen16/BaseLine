@@ -1,38 +1,42 @@
 {
-   "title": "Test",
+   "title": "Arizona - real GDP 2000 to 2018",
    "xAxis": "Year",
    "yAxis": "Real GDP in billion U.S. dollars",
    "columnType": "two",
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Real GDP in billion U.S. dollars, with a total of 19 data points.",
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Real GDP in billion U.S. dollars. In total the number of data points it has is 19.",
+      " In general Real GDP in billion U.S. dollars has rose over the Year.",
+      "Real GDP in billion U.S. dollars is gradually increasing from 2000 to 2006, roughly decreasing from 2006 to 2009, roughly constant from 2009 to 2014, and finally slightly increasing from 2014 to 2018.",
+      "The line drastically ",
+      "The most drastic decrease took place within the Year 2008 and 2009.",
+      "The highest Real GDP in billion U.S. dollars, of value 309.07 was reached at Year 2018",
+      "The lowest Real GDP in billion U.S. dollars, of value 207.79 was reported at Year 2000"
+   ],
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Real GDP in billion U.S. dollars, containing a total of 19 data points.",
+      " In general Real GDP in billion U.S. dollars has rose over the Year.",
+      "Real GDP in billion U.S. dollars is gradually increasing from 2000 to 2006, roughly decreasing from 2006 to 2009, roughly constant from 2009 to 2014, and finally slightly increasing from 2014 to 2018."
+   ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Real GDP in billion U.S. dollars. In total the number of data points it has is 19.",
       " Overall Real GDP in billion U.S. dollars has increased over the Year.",
-      "Real GDP in billion U.S. dollars is gradually increasing from 2000 to 2006, roughly decreasing from 2006 to 2009, roughly constant from 2009 to 2014, and lastly slightly increasing from 2014 to 2018.",
+      "Real GDP in billion U.S. dollars is gradually increasing from 2000 to 2006, roughly decreasing from 2006 to 2009, roughly constant from 2009 to 2014, and finally slightly increasing from 2014 to 2018.",
       "The steepest decrease occurs in between the Year 2008 and 2009.",
-      "Max Real GDP in billion U.S. dollars about 309.07 was recorded at Year 2018",
-      "Min Real GDP in billion U.S. dollars about 207.79 was recorded at Year 2000",
-      "#########################################################################",
-      "This line chart has an x axis representing Year and a y axis representing Real GDP in billion U.S. dollars, with a total of 19 data points. The chart has 3 significant trends.",
-      " The longest trend is extremely increasing which exists from 2009 to 2018.",
-      " Similarly, the next significant trend is extremely increasing which exists from 2000 to 2007.",
-      " Additionally, the next significant trend is slightly decreasing which exists from 2007 to 2009."
+      "The highest Real GDP in billion U.S. dollars, of value 309.07 was reached at Year 2018",
+      "The lowest Real GDP in billion U.S. dollars, of value 207.79 was reported at Year 2000"
    ],
-   "trends": [
-      {},
-      {
-         "1": "0",
-         "12": "9"
-      },
-      {
-         "3": "11",
-         "14": "18"
-      },
-      {
-         "3": "9",
-         "14": "11"
-      }
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Real GDP in billion U.S. dollars. In total the number of data points it has is 19.",
+      " Overall Real GDP in billion U.S. dollars has increased over the Year.",
+      "Real GDP in billion U.S. dollars is gradually increasing from 2000 to 2006, roughly decreasing from 2006 to 2009, roughly constant from 2009 to 2014, and finally slightly increasing from 2014 to 2018.",
+      "The most drastic decrease took place within the Year 2008 and 2009.",
+      "The highest Real GDP in billion U.S. dollars, of value 309.07 was reached at Year 2018",
+      "The lowest Real GDP in billion U.S. dollars, of value 207.79 was reported at Year 2000",
+      "The line rapidly "
    ],
+   "trends": [],
    "data": [
       {
          "Year": "2018",

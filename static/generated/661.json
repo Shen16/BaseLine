@@ -1,16 +1,32 @@
 {
-   "title": "Test",
+   "title": "John Grisham - earnings 2010 to 2018",
    "xAxis": "Month",
    "yAxis": "Earnings in million U.S. dollars",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 8 categories on the x axis representing Month, and Earnings in million U.S. dollars in each Month on the y axis.",
-      "May 2011 to May 2012 is higher than any other categories with value 26.0, followed by , and May 2010 to April 2011. Down to category June 2016 to June 2017 with the lowest value of 14.0. ",
-      " The highest value at May 2011 to May 2012 is almost 1.86 times larger than the minimum value of June 2016 to June 2017. ",
-      " The highest value at May 2011 to May 2012 is almost 1.86 times larger than the minimum value of June 2016 to June 2017. ",
-      " The difference between the max Month May 2011 to May 2012 and min Month June 2016 to June 2017 is 12.0. "
+      "This is a bar chart. It shows Earnings in million U.S. dollars for 8 number of Months. ",
+      "Month May 2011 to May 2012 has the highest Earnings in million U.S. dollars and June 2016 to June 2017 has the lowest Earnings in million U.S. dollars. ",
+      "The difference of Earnings in million U.S. dollars between the highest and lowest Month is 12.0. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Earnings in million U.S. dollars for 8 number of Months. ",
+      "The Earnings in million U.S. dollars is appeared to be the highest at Month May 2011 to May 2012 and lowest at Month June 2016 to June 2017. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Earnings in million U.S. dollars for 8 number of Months. ",
+      "Month May 2011 to May 2012 has the highest Earnings in million U.S. dollars and June 2016 to June 2017 has the lowest Earnings in million U.S. dollars. ",
+      "The difference of Earnings in million U.S. dollars between the highest and lowest Month is 12.0. "
+   ],
+   "max_summary": [
+      "This bar chart has 8 columns on the x axis representing Month, and Earnings in million U.S. dollars in each Month on the y axis. ",
+      "Month May 2011 to May 2012 has the highest Earnings in million U.S. dollars and June 2016 to June 2017 has the lowest Earnings in million U.S. dollars. ",
+      "The highest Month May 2011 to May 2012 has 12.0 more Earnings in million U.S. dollars than the lowest Month June 2016 to June 2017. ",
+      "Earnings in million U.S. dollars at Month May 2011 to May 2012 is 26.0 , second place is June 2017 to June 2018 at 21.0, and thirdly is May 2010 to April 2011 at 18.0.",
+      "Overall Earnings in million U.S. dollars has decreased over the Months. ",
+      "Month June 2015 to June 2016, June 2012 to June 2013, and May 2010 to April 2011 have the same Earnings in million U.S. dollars. ",
+      "The average Earnings in million U.S. dollars in all 8 Months is 18.25. "
    ],
    "trends": [
       {},

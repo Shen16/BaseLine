@@ -1,43 +1,38 @@
 {
-   "title": "Test",
+   "title": "Unemployment rate in Somalia 2019",
    "xAxis": "Year",
    "yAxis": "Unemployment rate",
    "columnType": "two",
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Unemployment rate, with a total of 21 data points.",
+      "This is a line chart with an x axis representing Year and a y axis representing Unemployment rate, containing a total of 21 data points.",
+      " In general Unemployment rate has fallen over the Year.",
+      "The line drastically ",
+      "The most drastic increase took place within the Year 2008 and 2009.",
+      "Maximum Unemployment rate, about 15.34 was reported at Year 2002",
+      "The lowest Unemployment rate, of value 13.69 was reported at Year 2008"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Unemployment rate. In total the number of data points it has is 21.",
+      " Overall Unemployment rate has decreased over the Year."
+   ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Unemployment rate. In total the number of data points it has is 21.",
       " Overall Unemployment rate has decreased over the Year.",
-      "Unemployment rate is roughly constant from 1999 to 2001, roughly decreasing from 2001 to 2002, roughly constant from 2002 to 2004, rapidly decreasing from 2004 to 2007, slightly increasing from 2007 to 2009, roughly constant from 2009 to 2015, slightly decreasing from 2015 to 2017, and lastly roughly constant from 2017 to 2019.",
       "The steepest increase occurs in between the Year 2008 and 2009.",
-      "Max Unemployment rate about 15.34 was recorded at Year 2002",
-      "Min Unemployment rate about 13.69 was recorded at Year 2008",
-      "#########################################################################",
-      "This line chart has an x axis representing Year and a y axis representing Unemployment rate, with a total of 21 data points. The chart has 4 significant trends.",
-      " The longest trend is moderately decreasing which exists from 2013 to 2019.",
-      " On the other hand, the next significant trend is slightly decreasing which exists from 2002 to 2008.",
-      " On the other hand, the next significant trend is extremely increasing which exists from 2008 to 2013.",
-      " Similarly, the next significant trend is moderately decreasing which exists from 1999 to 2002."
+      "Maximum Unemployment rate, about 15.34 was reported at Year 2002",
+      "The lowest Unemployment rate, of value 13.69 was reported at Year 2008"
    ],
-   "trends": [
-      {},
-      {
-         "1": "0",
-         "12": "6"
-      },
-      {
-         "3": "11",
-         "14": "17"
-      },
-      {
-         "3": "6",
-         "14": "11"
-      },
-      {
-         "3": "17",
-         "14": "20"
-      }
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Unemployment rate, containing a total of 21 data points.",
+      " In general Unemployment rate has fallen over the Year.",
+      "The most drastic increase took place within the Year 2008 and 2009.",
+      "Maximum Unemployment rate, about 15.34 was reported at Year 2002",
+      "The lowest Unemployment rate, of value 13.69 was reported at Year 2008",
+      "The line rapidly "
    ],
+   "trends": [],
    "data": [
       {
          "Year": "2019",

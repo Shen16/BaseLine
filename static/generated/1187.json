@@ -1,18 +1,31 @@
 {
-   "title": "Test",
+   "title": "Total player salaries in the sports industry by league 2018/19",
    "xAxis": "Sports League",
    "yAxis": "Total player salaries in billion U.S. dollars",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 17 categories on the x axis representing Sports League, and Total player salaries in billion U.S. dollars in each Sports League on the y axis.",
-      " The highest category is found at NFL where Total player salaries in billion U.S. dollars is 4.94.",
-      " Followed by 4.94 in .",
-      " The lowest category is found at CFL where Total player salaries in billion U.S. dollars is 0.04.",
-      " The highest value at NFL is almost 123.5 times larger than the minimum value of CFL. ",
-      " The highest value at NFL is almost 123.5 times larger than the minimum value of CFL. ",
-      " The difference between the max Sports League NFL and min Sports League CFL is 4.9. "
+      "This is a bar chart representing Sports League in the x axis and Total player salaries in billion U.S. dollars in the y axis. ",
+      "Sports League NFL has the highest Total player salaries in billion U.S. dollars and CFL has the lowest Total player salaries in billion U.S. dollars. ",
+      "The difference of Total player salaries in billion U.S. dollars between the highest and lowest Sports League is 4.9. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing Sports League in the x axis and Total player salaries in billion U.S. dollars in the y axis. ",
+      "The Total player salaries in billion U.S. dollars is appeared to be the highest at Sports League NFL and lowest at Sports League CFL. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Sports League in the x axis and Total player salaries in billion U.S. dollars in the y axis. ",
+      "Sports League NFL has the highest Total player salaries in billion U.S. dollars and CFL has the lowest Total player salaries in billion U.S. dollars. ",
+      "The difference of Total player salaries in billion U.S. dollars between the highest and lowest Sports League is 4.9. "
+   ],
+   "max_summary": [
+      "This bar chart has 17 columns on the x axis representing Sports League, and Total player salaries in billion U.S. dollars in each Sports League on the y axis. ",
+      "The maximum Total player salaries in billion U.S. dollars 4.94 is found at Sports League NFL and the minimum is found at CFL where Sports League is 0.04. ",
+      "The difference of Total player salaries in billion U.S. dollars between the highest and lowest Sports League is 4.9. ",
+      "Total player salaries in billion U.S. dollars at Sports League NFL is 4.94 , second place is MLB at 3.96, and thirdly is NBA at 3.41.",
+      "The Sports League NFL tends to be 3.78 percent higher than average. ",
+      "The Total player salaries in billion U.S. dollars is 22.19 if we add up values of all Sports Leagues. "
    ],
    "trends": [
       {},

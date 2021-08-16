@@ -1,48 +1,38 @@
 {
-   "title": "Test",
+   "title": "Regular season home attendance of the Atlanta Falcons 2006 to 2019",
    "xAxis": "Year",
    "yAxis": "Home attendance",
    "columnType": "two",
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Home attendance, with a total of 14 data points.",
+      "This is a line chart with an x axis representing Year and a y axis representing Home attendance, containing a total of 14 data points.",
       " Overall Home attendance has increased over the Year.",
-      "Home attendance is slightly decreasing from 2006 to 2008, slightly increasing from 2008 to 2009, roughly constant from 2009 to 2013, slightly decreasing from 2013 to 2014, slightly increasing from 2014 to 2015, and lastly roughly constant from 2015 to 2019.",
+      "The line significantly ",
       "The steepest increase occurs in between the Year 2014 and 2015.",
-      "Max Home attendance about 583184.0 was recorded at Year 2018",
-      "Min Home attendance about 493515.0 was recorded at Year 2014",
-      "#########################################################################",
-      "This line chart has an x axis representing Year and a y axis representing Home attendance, with a total of 14 data points. The chart has 5 significant trends.",
-      " The longest trend is moderately increasing which exists from 2010 to 2014.",
-      " Also, the next significant trend is moderately increasing which exists from 2016 to 2019.",
-      " Also, the next significant trend is extremely increasing which exists from 2014 to 2016.",
-      " Correspondingly, the next significant trend is moderately increasing which exists from 2008 to 2010.",
-      " Correspondingly, the next significant trend is slightly decreasing which exists from 2006 to 2008."
+      "The highest Home attendance, of value 583184.0 was reached at Year 2018",
+      "The lowest Home attendance, of value 493515.0 was reported at Year 2014"
    ],
-   "trends": [
-      {},
-      {
-         "1": "5",
-         "12": "9"
-      },
-      {
-         "3": "0",
-         "14": "3"
-      },
-      {
-         "3": "3",
-         "14": "5"
-      },
-      {
-         "3": "9",
-         "14": "11"
-      },
-      {
-         "3": "11",
-         "14": "13"
-      }
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Home attendance. In total the number of data points it has is 14.",
+      " In general Home attendance has stayed the same over the Year."
    ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Home attendance. In total the number of data points it has is 14.",
+      " Overall Home attendance has increased over the Year.",
+      "The most drastic increase took place within the Year 2014 and 2015.",
+      "The highest Home attendance, of value 583184.0 was reached at Year 2018",
+      "The lowest Home attendance, of value 493515.0 was reported at Year 2014"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Home attendance, containing a total of 14 data points.",
+      " Overall Home attendance has increased over the Year.",
+      "The most drastic increase took place within the Year 2014 and 2015.",
+      "The highest Home attendance, of value 583184.0 was reached at Year 2018",
+      "The lowest Home attendance, of value 493515.0 was reported at Year 2014",
+      "The line significantly "
+   ],
+   "trends": [],
    "data": [
       {
          "Year": "2019",

@@ -1,58 +1,42 @@
 {
-   "title": "Test",
+   "title": "Inflation rate in South Korea 2024",
    "xAxis": "Year",
    "yAxis": "Inflation rate compared to previous year",
    "columnType": "two",
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Inflation rate compared to previous year, with a total of 41 data points.",
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Inflation rate compared to previous year. In total the number of data points it has is 41.",
+      " In general Inflation rate compared to previous year has fallen over the Year.",
+      "The chart generally has many fluctuations.",
+      "The line significantly increased by 4.1 from Year 1987 to 1988,decreased by 6.7 from Year 1998 to 1999,increased by 1.45 from Year 1999 to 2000,increased by 1.81 from Year 2000 to 2001,increased by 2.13 from Year 2007 to 2008,increased by 0.97 from Year 2016 to 2017, and lastly, increased by 0.43 from Year 2019 to 2020.",
+      "The most drastic decrease took place within the Year 1998 and 1999.",
+      "Maximum Inflation rate compared to previous year, about 9.33 was reported at Year 1991",
+      "The lowest Inflation rate compared to previous year, of value 0.46 was reported at Year 2019"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Inflation rate compared to previous year. In total the number of data points it has is 41.",
+      " In general Inflation rate compared to previous year has fallen over the Year."
+   ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Inflation rate compared to previous year, containing a total of 41 data points.",
       " Overall Inflation rate compared to previous year has decreased over the Year.",
-      "Inflation rate compared to previous year is roughly constant from 1984 to 1987, gradually increasing from 1987 to 1988, roughly constant from 1988 to 1989, slightly increasing from 1989 to 1990, roughly constant from 1990 to 1993, roughly decreasing from 1993 to 1994, roughly constant from 1994 to 1997, slightly increasing from 1997 to 1998, slightly decreasing from 1998 to 1999, rapidly increasing from 1999 to 2002, roughly constant from 2002 to 2007, slightly increasing from 2007 to 2008, roughly constant from 2008 to 2010, roughly decreasing from 2010 to 2012, roughly constant from 2012 to 2014, slightly increasing from 2014 to 2017, roughly constant from 2017 to 2018, slightly decreasing from 2018 to 2019, rapidly increasing from 2019 to 2021, and lastly roughly constant from 2021 to 2024.",
       "The steepest decrease occurs in between the Year 1998 and 1999.",
-      "Max Inflation rate compared to previous year about 9.33 was recorded at Year 1991",
-      "Min Inflation rate compared to previous year about 0.46 was recorded at Year 2019",
-      "#########################################################################",
-      "This line chart has an x axis representing Year and a y axis representing Inflation rate compared to previous year, with a total of 41 data points. The chart has 7 significant trends.",
-      " The longest trend is moderately decreasing which exists from 2011 to 2019.",
-      " Contrarily, the next significant trend is extremely increasing which exists from 1984 to 1991.",
-      " In a similar manner, the next significant trend is moderately increasing which exists from 2019 to 2024.",
-      " Likewise, the next significant trend is moderately increasing which exists from 2006 to 2011.",
-      " Also, the next significant trend is moderately decreasing which exists from 2001 to 2006.",
-      " Differently, the next significant trend is slightly decreasing which exists from 1996 to 2001.",
-      " Conversely, the next significant trend is slightly decreasing which exists from 1991 to 1996."
+      "Maximum Inflation rate compared to previous year, about 9.33 was reported at Year 1991",
+      "The lowest Inflation rate compared to previous year, of value 0.46 was reported at Year 2019"
    ],
-   "trends": [
-      {},
-      {
-         "1": "5",
-         "12": "13"
-      },
-      {
-         "3": "33",
-         "14": "40"
-      },
-      {
-         "3": "0",
-         "14": "5"
-      },
-      {
-         "3": "13",
-         "14": "18"
-      },
-      {
-         "3": "18",
-         "14": "23"
-      },
-      {
-         "3": "23",
-         "14": "28"
-      },
-      {
-         "3": "28",
-         "14": "33"
-      }
+   "max_summary": [
+      "The chart generally has many fluctuations.",
+      "The chart generally has many fluctuations.",
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Inflation rate compared to previous year. In total the number of data points it has is 41.",
+      " In general Inflation rate compared to previous year has fallen over the Year.",
+      "The chart generally has many fluctuations.",
+      "The steepest decrease occurs in between the Year 1998 and 1999.",
+      "Maximum Inflation rate compared to previous year, about 9.33 was reported at Year 1991",
+      "The lowest Inflation rate compared to previous year, of value 0.46 was reported at Year 2019",
+      "The line significantly increased by 4.1 from Year 1987 to 1988,decreased by 6.7 from Year 1998 to 1999,increased by 1.45 from Year 1999 to 2000,increased by 1.81 from Year 2000 to 2001,increased by 2.13 from Year 2007 to 2008,increased by 0.97 from Year 2016 to 2017, and lastly, increased by 0.43 from Year 2019 to 2020."
    ],
+   "trends": [],
    "data": [
       {
          "Year": "2024",

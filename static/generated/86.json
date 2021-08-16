@@ -1,38 +1,42 @@
 {
-   "title": "Test",
+   "title": "Health spending as percent of GDP in South Korea 2000 to 2018",
    "xAxis": "Year",
    "yAxis": "Percentage of GDP",
    "columnType": "two",
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Percentage of GDP, with a total of 19 data points.",
-      " Overall Percentage of GDP has increased over the Year.",
+      "This is a line chart with an x axis representing Year and a y axis representing Percentage of GDP, containing a total of 19 data points.",
+      " In general Percentage of GDP has rose over the Year.",
+      "Percentage of GDP is slightly increasing from 2000 to 2003, roughly constant from 2003 to 2004, gradually increasing from 2004 to 2009, roughly constant from 2009 to 2013, and lastly slightly increasing from 2013 to 2018.",
+      "The line rapidly ",
+      "The most drastic increase took place within the Year 2000 and 2001.",
+      "Maximum Percentage of GDP, about 8.1 was reported at Year 2018",
+      "The lowest Percentage of GDP, of value 4.0 was reported at Year 2000"
+   ],
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Percentage of GDP, containing a total of 19 data points.",
+      " In general Percentage of GDP has rose over the Year.",
+      "Percentage of GDP is slightly increasing from 2000 to 2003, roughly constant from 2003 to 2004, gradually increasing from 2004 to 2009, roughly constant from 2009 to 2013, and lastly slightly increasing from 2013 to 2018."
+   ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Percentage of GDP, containing a total of 19 data points.",
+      " In general Percentage of GDP has rose over the Year.",
       "Percentage of GDP is slightly increasing from 2000 to 2003, roughly constant from 2003 to 2004, gradually increasing from 2004 to 2009, roughly constant from 2009 to 2013, and lastly slightly increasing from 2013 to 2018.",
       "The steepest increase occurs in between the Year 2000 and 2001.",
-      "Max Percentage of GDP about 8.1 was recorded at Year 2018",
-      "Min Percentage of GDP about 4.0 was recorded at Year 2000",
-      "#########################################################################",
-      "This line chart has an x axis representing Year and a y axis representing Percentage of GDP, with a total of 19 data points. The chart has 3 significant trends.",
-      " The longest trend is extremely increasing which exists from 2004 to 2018.",
-      " Likewise, the next significant trend is slightly increasing which exists from 2002 to 2004.",
-      " Correspondingly, the next significant trend is moderately decreasing which exists from 2000 to 2002."
+      "Maximum Percentage of GDP, about 8.1 was reported at Year 2018",
+      "The lowest Percentage of GDP, of value 4.0 was reported at Year 2000"
    ],
-   "trends": [
-      {},
-      {
-         "1": "0",
-         "12": "14"
-      },
-      {
-         "3": "14",
-         "14": "16"
-      },
-      {
-         "3": "16",
-         "14": "18"
-      }
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Percentage of GDP, containing a total of 19 data points.",
+      " In general Percentage of GDP has rose over the Year.",
+      "Percentage of GDP is slightly increasing from 2000 to 2003, roughly constant from 2003 to 2004, gradually increasing from 2004 to 2009, roughly constant from 2009 to 2013, and lastly slightly increasing from 2013 to 2018.",
+      "The steepest increase occurs in between the Year 2000 and 2001.",
+      "Maximum Percentage of GDP, about 8.1 was reported at Year 2018",
+      "The lowest Percentage of GDP, of value 4.0 was reported at Year 2000",
+      "The line rapidly "
    ],
+   "trends": [],
    "data": [
       {
          "Year": "2018",

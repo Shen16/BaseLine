@@ -1,5 +1,5 @@
 {
-   "title": "Test",
+   "title": "Main source of news in selected countries 2017",
    "labels": [
       "Country",
       "Online (excl. social media)",
@@ -12,11 +12,31 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart has 9 categories of Country on the x axis representing 5 groups: Online (excl. social media), Online (incl. social media), TV, Print, and Radio.",
-      " Averaging these 5 groups, the highest category is found for Country Sweden with a mean value of 27.2.",
-      " The lowest category is observed at Germany that has a mean value of 23.6",
-      " showing a difference of 14.2% with the maximum value.",
-      " In case of Sweden, Online (excl. social media) shows more dominance than any other Country with a value 39.0 and it has the lowest value 19.0 in Italy.  However, Radio being the 2nd most important group, has the highest value 10.0 for Country Sweden and the lowest 4.0 in case of Italy. "
+      "This grouped bar chart represents 9 different Countrys on X-axis for 5 groups Online (excl. social media), Online (incl. social media), TV, Print, and Radio. On the Y-axis it shows their corresponding Share of respondents. ",
+      " Out of all 5 groups, TV had the highest Share of respondents in Country Italy and Radio had the lowest Share of respondents in Country Italy. ",
+      " In Country Sweden, Online (excl. social media) had the highest Share of respondents among all 9 Countrys and it has the lowest Share of respondents in Country Italy. ",
+      " There is a gap of 20.0 between the highest and lowest Share of respondents found for Online (excl. social media) in Country Sweden and Italy. "
+   ],
+   "xAxis": "Country",
+   "yAxis": "Share of respondents",
+   "min_summary": [
+      "This grouped bar chart shows Share of respondents on the Y-axis for 9 different Countrys for 5 groups Online (excl. social media), Online (incl. social media), TV, Print, and Radio that are presented on the X-axis. ",
+      " In Country Italy, TV had the highest Share of respondents 59.0 among the 5 groups and in Italy, Radio had the lowest Share of respondents 4.0. "
+   ],
+   "mid_summary": [
+      "This grouped bar chart represents 9 different Countrys on X-axis for 5 groups Online (excl. social media), Online (incl. social media), TV, Print, and Radio. On the Y-axis it shows their corresponding Share of respondents. ",
+      " Out of all 5 groups, TV had the highest Share of respondents in Country Italy and Radio had the lowest Share of respondents in Country Italy. ",
+      " In Country Sweden, Online (excl. social media) had the highest Share of respondents among all 9 Countrys and it has the lowest Share of respondents in Country Italy. ",
+      " There is a gap of 20.0 between the highest and lowest Share of respondents found for Online (excl. social media) in Country Sweden and Italy. "
+   ],
+   "max_summary": [
+      "This grouped bar chart represents 9 different Countrys on X-axis for 5 groups Online (excl. social media), Online (incl. social media), TV, Print, and Radio. On the Y-axis it shows their corresponding Share of respondents. ",
+      " Country Italy had the maximum Share of respondents among all 5 groups, and it was for TV. The minimum Share of respondents was observed in Country Italy for Radio. ",
+      " Among all the Countrys, Online (excl. social media) had the highest Share of respondents in Country Sweden and lowest Share of respondents in Country Italy. ",
+      "Country Sweden and Italy had the biggest gap of 20.0 between the highest and lowest Share of respondents found for Online (excl. social media). ",
+      " Among all 5 groups, TV had the gap of 30.0 between the maximum and minimum Share of respondents observed in Country Italy and Sweden respectively. ",
+      " In Country Italy, TV had the highest Share of respondents 59.0 among the 5 groups and in Italy, Radio had the lowest Share of respondents 4.0. The second highest Share of respondents 15.0 was observed for TV in Country Italy. ",
+      "On average, the Country Sweden had the highest Share of respondents for all 5 groups Online (excl. social media), Online (incl. social media), TV, Print, and Radio. Whereas Germany had the lowest average Share of respondents. "
    ],
    "trends": [
       {},

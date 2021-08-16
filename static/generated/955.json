@@ -1,16 +1,31 @@
 {
-   "title": "Test",
+   "title": "Net profit margin of the leading 10 consumer products companies in the U.S. 2013",
    "xAxis": "Company",
    "yAxis": "Net profit margin",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 10 categories on the x axis representing Company, and Net profit margin in each Company on the y axis.",
-      "Philip Morris International Inc. is higher than any other categories with value 28.3, followed by , and The Coca-Cola Company. Down to category Mars Inc. with the lowest value of 0.0. ",
-      " The highest value at Philip Morris International Inc. is almost 2830000000000.0 times larger than the minimum value of Mars Inc.. ",
-      " The highest value at Philip Morris International Inc. is almost 2830000000000.0 times larger than the minimum value of Mars Inc.. ",
-      " The difference between the max Company Philip Morris International Inc. and min Company Mars Inc. is 28.3. "
+      "This is a bar chart. It shows Net profit margin for 10 number of Companys. ",
+      "The maximum Net profit margin 28.3 is found at Company Philip Morris International Inc. and the minimum is found at Mars Inc. where Company is 0.0. ",
+      "Company Philip Morris International Inc. has 2830000000000.0 times more Net profit margin than Company Mars Inc. which is has the lowest. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing Company in the x axis and Net profit margin in the y axis. ",
+      "The maximum Net profit margin 28.3 is found at Company Philip Morris International Inc. and the minimum is found at Mars Inc. where Company is 0.0. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Net profit margin for 10 number of Companys. ",
+      "The maximum Net profit margin 28.3 is found at Company Philip Morris International Inc. and the minimum is found at Mars Inc. where Company is 0.0. ",
+      "Company Philip Morris International Inc. has 2830000000000.0 times more Net profit margin than Company Mars Inc. which is has the lowest. "
+   ],
+   "max_summary": [
+      "This bar chart has 10 columns on the x axis representing Company, and Net profit margin in each Company on the y axis. ",
+      "The Net profit margin is appeared to be the highest at Company Philip Morris International Inc. and lowest at Company Mars Inc.. ",
+      "The difference of Net profit margin between the highest and lowest Company is 28.3. ",
+      "Net profit margin at Company Philip Morris International Inc. is 28.3 , second place is Apple Inc. at 21.7, and thirdly is The Coca-Cola Company at 18.4.",
+      "The Company Philip Morris International Inc. has 2.24 times more Net profit margin than average. ",
+      "The Net profit margin is 126.4 if we add up values of all Companys. "
    ],
    "trends": [
       {},

@@ -1,5 +1,5 @@
 {
-   "title": "Test",
+   "title": "Sexual orientation of Americans in 2013",
    "labels": [
       "Sexual Orientation",
       "Women",
@@ -9,12 +9,30 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart has 3 categories of Sexual Orientation on the x axis representing 2 groups: Women, and Men.",
-      " Averaging these 2 groups, the highest category is found for Sexual Orientation Straight with a mean value of 97.75.",
-      " Followed by Lesbian / Gay with a mean value of 1.65.",
-      " The lowest category is observed at Bisexual that has a mean value of 0.65",
-      " showing a difference of 197.4% with the maximum value.",
-      " In case of Straight, Women shows more dominance than any other Sexual Orientation with a value 977.0 and it has the lowest value 9.0 in Bisexual. "
+      "This grouped bar chart shows Share of respondents on the Y-axis for 3 different Sexual Orientations for 2 groups Women, and Men that are presented on the X-axis. ",
+      " Out of all 2 groups, Men had the highest Share of respondents in Sexual Orientation Straight and Men had the lowest Share of respondents in Sexual Orientation Bisexual. ",
+      " In Sexual Orientation Straight, Women had the highest Share of respondents among all 3 Sexual Orientations and it has the lowest Share of respondents in Sexual Orientation Bisexual. ",
+      " The maximum Share of respondents for Women that was found in Sexual Orientation Straight was 108.56 times larger than the minimum Share of respondents observed in Sexual Orientation Bisexual. "
+   ],
+   "xAxis": "Sexual Orientation",
+   "yAxis": "Share of respondents",
+   "min_summary": [
+      "This grouped bar chart represents 3 different Sexual Orientations on X-axis for 2 groups Women, and Men. On the Y-axis it shows their corresponding Share of respondents. ",
+      " Out of all 2 groups, Men had the highest Share of respondents in Sexual Orientation Straight and Men had the lowest Share of respondents in Sexual Orientation Bisexual. "
+   ],
+   "mid_summary": [
+      "This grouped bar chart shows Share of respondents on the Y-axis for 3 different Sexual Orientations for 2 groups Women, and Men that are presented on the X-axis. ",
+      " Out of all 2 groups, Men had the highest Share of respondents in Sexual Orientation Straight and Men had the lowest Share of respondents in Sexual Orientation Bisexual. ",
+      " In Sexual Orientation Straight, Women had the highest Share of respondents among all 3 Sexual Orientations and it has the lowest Share of respondents in Sexual Orientation Bisexual. ",
+      " The maximum Share of respondents for Women that was found in Sexual Orientation Straight was 108.56 times larger than the minimum Share of respondents observed in Sexual Orientation Bisexual. "
+   ],
+   "max_summary": [
+      "This grouped bar chart shows Share of respondents on the Y-axis for 3 different Sexual Orientations for 2 groups Women, and Men that are presented on the X-axis. ",
+      " Sexual Orientation Straight had the maximum Share of respondents among all 2 groups, and it was for Men. The minimum Share of respondents was observed in Sexual Orientation Bisexual for Men. ",
+      " In Sexual Orientation Straight, Women had the maximum Share of respondents and it saw the lowest in Sexual Orientation Bisexual out of all 3 Sexual Orientations. ",
+      " The maximum Share of respondents for Women that was found in Sexual Orientation Straight was 108.56 times larger than the minimum Share of respondents observed in Sexual Orientation Bisexual. ",
+      " Out of all 2 groups, the highest gap between the maximum and minimum Share of respondents was found in case of Women. ",
+      "Averaging all 2 groups Women, and Men, the Sexual Orientation Straight is the maximum Share of respondents and Bisexual is the minimum Share of respondents. "
    ],
    "trends": [
       {},

@@ -1,18 +1,33 @@
 {
-   "title": "Test",
+   "title": "Runner-up at World Cup tournaments by country 1930 to 2014",
    "xAxis": "Country",
    "yAxis": "Number of runners-up",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 10 categories on the x axis representing Country, and Number of runners-up in each Country on the y axis.",
-      " The highest category is found at Germany where Number of runners-up is 4.0.",
-      " Followed by 4.0 in .",
-      " The lowest category is found at France where Number of runners-up is 1.0.",
-      " The highest value at Germany is almost 4.0 times larger than the minimum value of France. ",
-      " The highest value at Germany is almost 4.0 times larger than the minimum value of France. ",
-      " The difference between the max Country Germany and min Country France is 3.0. "
+      "This bar chart has 10 columns on the x axis representing Country, and Number of runners-up in each Country on the y axis. ",
+      "Country Germany has the highest Number of runners-up and France has the lowest Number of runners-up. ",
+      "There is a difference of 3.0 between the maximum Country Germany and minimum Country France. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Number of runners-up for 10 number of Countrys. ",
+      "Country Germany has the highest Number of runners-up and France has the lowest Number of runners-up. "
+   ],
+   "mid_summary": [
+      "This bar chart has 10 columns on the x axis representing Country, and Number of runners-up in each Country on the y axis. ",
+      "Country Germany has the highest Number of runners-up and France has the lowest Number of runners-up. ",
+      "There is a difference of 3.0 between the maximum Country Germany and minimum Country France. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Number of runners-up for 10 number of Countrys. ",
+      "The Number of runners-up is highest at Country Germany and lowest at Country France. ",
+      "Second maximum Number of runners-up is found at Country Argentina. ",
+      "The highest Country Germany has 3.0 more Number of runners-up than the lowest Country France. ",
+      "Number of runners-up at Country Germany is 4.0 , second place is Argentina at 3.0, and thirdly is Argentina at 3.0.",
+      "Country Czech Republic, Brazil, Czechoslovakia, Italy, and Hungary have a similar Number of runners-up that is 2.0. ",
+      "The Country Germany has 1.82 times more Number of runners-up than average. ",
+      "The Number of runners-up is 22.0 if we add up values of all Countrys. "
    ],
    "trends": [
       {},

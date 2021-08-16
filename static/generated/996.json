@@ -1,13 +1,34 @@
 {
-   "title": "Test",
+   "title": "Twitter : number of monetizable daily active U.S. users 2017 to 2019",
    "xAxis": "Quarter",
    "yAxis": "Number of monetizable daily active users in millions",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 12 categories on the x axis representing Quarter, and Number of monetizable daily active users in millions in each Quarter on the y axis.",
-      "Q4 '19 is higher than any other categories with value 31.0, followed by , and Q2 '19. Down to category Q4 '17 with the lowest value of 25.0. "
+      "This bar chart has 12 columns on the x axis representing Quarter, and Number of monetizable daily active users in millions in each Quarter on the y axis. ",
+      "The Number of monetizable daily active users in millions is appeared to be the highest at Quarter Q4 '19 and lowest at Quarter Q4 '17. ",
+      "The highest Quarter Q4 '19 has 6.0 more Number of monetizable daily active users in millions than the lowest Quarter Q4 '17. "
+   ],
+   "min_summary": [
+      "This bar chart has 12 columns on the x axis representing Quarter, and Number of monetizable daily active users in millions in each Quarter on the y axis. ",
+      "Quarter Q4 '19 has the highest Number of monetizable daily active users in millions and Q4 '17 has the lowest Number of monetizable daily active users in millions. "
+   ],
+   "mid_summary": [
+      "This bar chart has 12 columns on the x axis representing Quarter, and Number of monetizable daily active users in millions in each Quarter on the y axis. ",
+      "The Number of monetizable daily active users in millions is appeared to be the highest at Quarter Q4 '19 and lowest at Quarter Q4 '17. ",
+      "The highest Quarter Q4 '19 has 6.0 more Number of monetizable daily active users in millions than the lowest Quarter Q4 '17. "
+   ],
+   "max_summary": [
+      "This bar chart has 12 columns on the x axis representing Quarter, and Number of monetizable daily active users in millions in each Quarter on the y axis. ",
+      "The Number of monetizable daily active users in millions is appeared to be the highest at Quarter Q4 '19 and lowest at Quarter Q4 '17. ",
+      "Quarter Q3 '19 has the second highest value for Number of monetizable daily active users in millions. ",
+      "The highest Quarter Q4 '19 has 6.0 more Number of monetizable daily active users in millions than the lowest Quarter Q4 '17. ",
+      "Number of monetizable daily active users in millions at Quarter Q4 '19 is 31.0 , second place is Q3 '19 at 30.0, and thirdly is Q2 '19 at 29.0.",
+      "Overall Number of monetizable daily active users in millions has reduced over the Quarters. ",
+      "Similar Number of monetizable daily active users in millions is found in Quarter Q3 '18, Q2 '18, Q1 '18, Q3 '17, and Q1 '17. ",
+      "The highest value 31.0 at Q4 '19 is almost 1.14 times larger than the average value 27.08. ",
+      "The Number of monetizable daily active users in millions is 325.0 if we add up values of all Quarters. "
    ],
    "trends": [
       {},

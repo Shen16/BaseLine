@@ -1,5 +1,5 @@
 {
-   "title": "Test",
+   "title": "Online share of retail trade in selected countries 2014 to 2018",
    "labels": [
       "Country",
       "2014",
@@ -12,12 +12,31 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart has 12 categories of Country on the x axis representing 5 groups: 2014, 2015, 2016, 2017, and 2018.",
-      " Averaging these 5 groups, the highest category is found for Country United Kingdom with a mean value of 16.22.",
-      " Followed by Germany with a mean value of 13.06.",
-      " The lowest category is observed at Italy that has a mean value of 2.88",
-      " showing a difference of 139.7% with the maximum value.",
-      " In case of United Kingdom, 2014 shows more dominance than any other Country with a value 135.0 and it has the lowest value 0.0 in Switzerland.  However, 2018 being the 2nd most important group, has the highest value 178.0 for Country United Kingdom and the lowest 34.0 in case of Italy. "
+      "This grouped bar chart represents 12 different Countrys on X-axis for 5 groups 2014, 2015, 2016, 2017, and 2018. On the Y-axis it shows their corresponding SOME LABEL. ",
+      " Out of all 5 groups, 2017 had the highest SOME LABEL in Country United Kingdom and 2014 had the lowest SOME LABEL in Country Switzerland. ",
+      " Among all the Countrys, 2014 had the highest SOME LABEL 135.0 in Country United Kingdom and lowest value 0.0 in Country Switzerland. ",
+      "Country United Kingdom and Switzerland had the biggest gap of 134.0 between the highest and lowest SOME LABEL found for 2014. "
+   ],
+   "xAxis": "Country",
+   "yAxis": "SOME LABEL",
+   "min_summary": [
+      "This grouped bar chart shows SOME LABEL on the Y-axis for 12 different Countrys for 5 groups 2014, 2015, 2016, 2017, and 2018 that are presented on the X-axis. ",
+      " In Country United Kingdom, 2017 had the highest SOME LABEL 178.0 among the 5 groups and in Switzerland, 2014 had the lowest SOME LABEL 0.0. "
+   ],
+   "mid_summary": [
+      "This grouped bar chart represents 12 different Countrys on X-axis for 5 groups 2014, 2015, 2016, 2017, and 2018. On the Y-axis it shows their corresponding SOME LABEL. ",
+      " Out of all 5 groups, 2017 had the highest SOME LABEL in Country United Kingdom and 2014 had the lowest SOME LABEL in Country Switzerland. ",
+      " Among all the Countrys, 2014 had the highest SOME LABEL 135.0 in Country United Kingdom and lowest value 0.0 in Country Switzerland. ",
+      "Country United Kingdom and Switzerland had the biggest gap of 134.0 between the highest and lowest SOME LABEL found for 2014. "
+   ],
+   "max_summary": [
+      "This grouped bar chart represents 12 different Countrys on X-axis for 5 groups 2014, 2015, 2016, 2017, and 2018. On the Y-axis it shows their corresponding SOME LABEL. ",
+      " Out of all 5 groups, 2017 had the highest SOME LABEL in Country United Kingdom and 2014 had the lowest SOME LABEL in Country Switzerland. ",
+      " In Country United Kingdom, 2014 had the highest SOME LABEL among all 12 Countrys and it has the lowest SOME LABEL in Country Switzerland. ",
+      " There is a gap of 134.0 between the highest and lowest SOME LABEL found for 2014 in Country United Kingdom and Switzerland. ",
+      " Among all 5 groups, 2017 had the gap of 168.0 between the maximum and minimum SOME LABEL observed in Country United Kingdom and France respectively. ",
+      " In Country United Kingdom, 2017 had the highest SOME LABEL 178.0 among the 5 groups and in Switzerland, 2014 had the lowest SOME LABEL 0.0. The second highest SOME LABEL 152.0 was observed for 2017 in Country United Kingdom. ",
+      "On average, the Country United Kingdom had the highest SOME LABEL for all 5 groups 2014, 2015, 2016, 2017, and 2018. Whereas Italy had the lowest average SOME LABEL. "
    ],
    "trends": [
       {},

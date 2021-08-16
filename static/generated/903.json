@@ -1,18 +1,33 @@
 {
-   "title": "Test",
+   "title": "Cost of a liver transplant on the National Health Service in the United Kingdom 2015",
    "xAxis": "Cost in British pounds",
    "yAxis": "Share of respondents",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 6 categories on the x axis representing Cost in British pounds, and Share of respondents in each Cost in British pounds on the y axis.",
-      " The highest category is found at 5000-10000 where Share of respondents is 21.0.",
-      " Followed by 17.0 in .",
-      " The lowest category is found at 2300-5000 where Share of respondents is 9.0.",
-      " The highest value at 5000-10000 is almost 2.33 times larger than the minimum value of 2300-5000. ",
-      " The highest value at 5000-10000 is almost 2.33 times larger than the minimum value of 2300-5000. ",
-      " The difference between the max Cost in British pounds 5000-10000 and min Cost in British pounds 2300-5000 is 12.0. "
+      "This is a bar chart. It shows Share of respondents for 6 number of Cost in British poundss. ",
+      "The Share of respondents is appeared to be the highest at Cost in British pounds 5000-10000 and lowest at Cost in British pounds 2300-5000. ",
+      "There is a difference of 12.0 between the maximum Cost in British pounds 5000-10000 and minimum Cost in British pounds 2300-5000. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Share of respondents for 6 number of Cost in British poundss. ",
+      "The Share of respondents is highest at Cost in British pounds 5000-10000 and lowest at Cost in British pounds 2300-5000. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Share of respondents for 6 number of Cost in British poundss. ",
+      "The Share of respondents is appeared to be the highest at Cost in British pounds 5000-10000 and lowest at Cost in British pounds 2300-5000. ",
+      "There is a difference of 12.0 between the maximum Cost in British pounds 5000-10000 and minimum Cost in British pounds 2300-5000. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Share of respondents for 6 number of Cost in British poundss. ",
+      "The Share of respondents is appeared to be the highest at Cost in British pounds 5000-10000 and lowest at Cost in British pounds 2300-5000. ",
+      "The second highest Share of respondents is appeared to be the Cost in British pounds 10000-20000. ",
+      "Cost in British pounds 5000-10000 has 2.33 times more Share of respondents than Cost in British pounds 2300-5000 which is has the lowest. ",
+      "Cost in British pounds 5000-10000 is higher than any other Cost in British poundss with value 21.0, followed by 10000-20000, and More than 20000. Down to Cost in British pounds 2300-5000 with the lowest value 9.0. ",
+      "Cost in British pounds Less than 760, and 760-2300 share the same value 17.0. ",
+      "The average Share of respondents in all 6 Cost in British poundss is 16.83. ",
+      "Summing up the values of all Cost in British poundss, we get total 101.0. "
    ],
    "trends": [
       {},

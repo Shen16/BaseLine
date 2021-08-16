@@ -1,43 +1,42 @@
 {
-   "title": "Test",
+   "title": "Population of Saba ( Caribbean Netherlands ) 2011 to 2019",
    "xAxis": "Year",
    "yAxis": "Number of people",
    "columnType": "two",
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Number of people, with a total of 9 data points.",
-      " Overall Number of people has increased over the Year.",
+      "This is a line chart with an x axis representing Year and a y axis representing Number of people, containing a total of 9 data points.",
+      " In general Number of people has rose over the Year.",
       "Number of people is slightly increasing from 2011 to 2012, roughly constant from 2012 to 2015, slightly increasing from 2015 to 2016, roughly constant from 2016 to 2017, and lastly slightly decreasing from 2017 to 2019.",
+      "The line drastically ",
       "The steepest decrease occurs in between the Year 2018 and 2019.",
-      "Max Number of people about 2155.0 was recorded at Year 2018",
-      "Min Number of people about 1797.0 was recorded at Year 2011",
-      "#########################################################################",
-      "This line chart has an x axis representing Year and a y axis representing Number of people, with a total of 9 data points. The chart has 4 significant trends.",
-      " The longest trend is extremely increasing which exists from 2015 to 2018.",
-      " Additionally, the next significant trend is moderately decreasing which exists from 2013 to 2015.",
-      " Contrarily, the next significant trend is extremely increasing which exists from 2011 to 2013.",
-      " Correspondingly, the next significant trend is slightly decreasing which exists from 2018 to 2019."
+      "The highest Number of people, of value 2155.0 was reached at Year 2018",
+      "The lowest Number of people, of value 1797.0 was reported at Year 2011"
    ],
-   "trends": [
-      {},
-      {
-         "1": "1",
-         "12": "4"
-      },
-      {
-         "3": "4",
-         "14": "6"
-      },
-      {
-         "3": "6",
-         "14": "8"
-      },
-      {
-         "3": "0",
-         "14": "1"
-      }
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Number of people, containing a total of 9 data points.",
+      " Overall Number of people has increased over the Year.",
+      "Number of people is slightly increasing from 2011 to 2012, roughly constant from 2012 to 2015, slightly increasing from 2015 to 2016, roughly constant from 2016 to 2017, and lastly slightly decreasing from 2017 to 2019."
    ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Number of people, containing a total of 9 data points.",
+      " In general Number of people has rose over the Year.",
+      "Number of people is slightly increasing from 2011 to 2012, roughly constant from 2012 to 2015, slightly increasing from 2015 to 2016, roughly constant from 2016 to 2017, and lastly slightly decreasing from 2017 to 2019.",
+      "The most drastic decrease took place within the Year 2018 and 2019.",
+      "The highest Number of people, of value 2155.0 was reached at Year 2018",
+      "The lowest Number of people, of value 1797.0 was reported at Year 2011"
+   ],
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of people. In total the number of data points it has is 9.",
+      " In general Number of people has rose over the Year.",
+      "Number of people is slightly increasing from 2011 to 2012, roughly constant from 2012 to 2015, slightly increasing from 2015 to 2016, roughly constant from 2016 to 2017, and lastly slightly decreasing from 2017 to 2019.",
+      "The most drastic decrease took place within the Year 2018 and 2019.",
+      "The highest Number of people, of value 2155.0 was reached at Year 2018",
+      "The lowest Number of people, of value 1797.0 was reported at Year 2011",
+      "The line rapidly "
+   ],
+   "trends": [],
    "data": [
       {
          "Year": "2019",

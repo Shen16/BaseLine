@@ -1,18 +1,30 @@
 {
-   "title": "Test",
+   "title": "Leading bar soap brands ranked by sales value in the United Kingdom ( UK ) 2014",
    "xAxis": "Soap Bar Brand",
    "yAxis": "Sales in million GBP",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 3 categories on the x axis representing Soap Bar Brand, and Sales in million GBP in each Soap Bar Brand on the y axis.",
-      " The highest category is found at Dove where Sales in million GBP is 26.8.",
-      " Followed by 26.8 in .",
-      " The lowest category is found at Simple where Sales in million GBP is 5.8.",
-      " The highest value at Dove is almost 4.62 times larger than the minimum value of Simple. ",
-      " The highest value at Dove is almost 4.62 times larger than the minimum value of Simple. ",
-      " The difference between the max Soap Bar Brand Dove and min Soap Bar Brand Simple is 21.0. "
+      "This bar chart has 3 columns on the x axis representing Soap Bar Brand, and Sales in million GBP in each Soap Bar Brand on the y axis. ",
+      "The maximum Sales in million GBP 26.8 is found at Soap Bar Brand Dove and the minimum is found at Simple where Soap Bar Brand is 5.8. ",
+      "The highest Soap Bar Brand Dove has 21.0 more Sales in million GBP than the lowest Soap Bar Brand Simple. "
+   ],
+   "min_summary": [
+      "This bar chart has 3 columns on the x axis representing Soap Bar Brand, and Sales in million GBP in each Soap Bar Brand on the y axis. ",
+      "The Sales in million GBP is appeared to be the highest at Soap Bar Brand Dove and lowest at Soap Bar Brand Simple. "
+   ],
+   "mid_summary": [
+      "This bar chart has 3 columns on the x axis representing Soap Bar Brand, and Sales in million GBP in each Soap Bar Brand on the y axis. ",
+      "The maximum Sales in million GBP 26.8 is found at Soap Bar Brand Dove and the minimum is found at Simple where Soap Bar Brand is 5.8. ",
+      "The highest Soap Bar Brand Dove has 21.0 more Sales in million GBP than the lowest Soap Bar Brand Simple. "
+   ],
+   "max_summary": [
+      "This bar chart has 3 columns on the x axis representing Soap Bar Brand, and Sales in million GBP in each Soap Bar Brand on the y axis. ",
+      "The Sales in million GBP is highest at Soap Bar Brand Dove and lowest at Soap Bar Brand Simple. ",
+      "The second highest Sales in million GBP is appeared to be the Soap Bar Brand Imperial Leather. ",
+      "The maximum Soap Bar Brand Dove has got 4.62 times higher Sales in million GBP than the minimum Soap Bar Brand Simple. ",
+      "The average Sales in million GBP in all 3 Soap Bar Brands is 14.57. "
    ],
    "trends": [
       {},

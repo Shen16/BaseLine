@@ -1,16 +1,30 @@
 {
-   "title": "Test",
+   "title": "Population of Michigan , by race and ethnicity 2018",
    "xAxis": "Race",
    "yAxis": "Number of residents",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 8 categories on the x axis representing Race, and Number of residents in each Race on the y axis.",
-      "White alone is higher than any other categories with value 7476047.0, followed by , and Hispanic or Latino (of any race). Down to category Native Hawaiian and Other Pacific Islander alone with the lowest value of 3290.0. ",
-      " The highest value at White alone is almost 2272.35 times larger than the minimum value of Native Hawaiian and Other Pacific Islander alone. ",
-      " The highest value at White alone is almost 2272.35 times larger than the minimum value of Native Hawaiian and Other Pacific Islander alone. ",
-      " The difference between the max Race White alone and min Race Native Hawaiian and Other Pacific Islander alone is 7472757.0. "
+      "This is a bar chart representing Race in the x axis and Number of residents in the y axis. ",
+      "The maximum Number of residents 7476047.0 is found at Race White alone and the minimum is found at Native Hawaiian and Other Pacific Islander alone where Race is 3290.0. ",
+      "The highest value at Race White alone is 2272.35x times more than the lowest value at Native Hawaiian and Other Pacific Islander alone. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing Race in the x axis and Number of residents in the y axis. ",
+      "The maximum Number of residents 7476047.0 is found at Race White alone and the minimum is found at Native Hawaiian and Other Pacific Islander alone where Race is 3290.0. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Race in the x axis and Number of residents in the y axis. ",
+      "The maximum Number of residents 7476047.0 is found at Race White alone and the minimum is found at Native Hawaiian and Other Pacific Islander alone where Race is 3290.0. ",
+      "The highest value at Race White alone is 2272.35x times more than the lowest value at Native Hawaiian and Other Pacific Islander alone. "
+   ],
+   "max_summary": [
+      "This bar chart has 8 columns on the x axis representing Race, and Number of residents in each Race on the y axis. ",
+      "Race White alone has the highest Number of residents and Native Hawaiian and Other Pacific Islander alone has the lowest Number of residents. ",
+      "There is a difference of 7472757.0 between the maximum Race White alone and minimum Race Native Hawaiian and Other Pacific Islander alone. ",
+      "Number of residents at Race White alone is 7476047.0 , second place is Black or African American alone at 1363183.0, and thirdly is Hispanic or Latino (of any race) at 517381.0.",
+      "The lowest value 3290.0 at Native Hawaiian and Other Pacific Islander alone is almost 5.98 times smaller than the average value 1249489.38. "
    ],
    "trends": [
       {},

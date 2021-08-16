@@ -1,16 +1,33 @@
 {
-   "title": "Test",
+   "title": "Highest grossing Hollywood actors of all time in the U.S. 2019",
    "xAxis": "Month",
    "yAxis": "Box office grosses in million U.S. dollars",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 20 categories on the x axis representing Month, and Box office grosses in million U.S. dollars in each Month on the y axis.",
-      "Samuel L. Jackson is higher than any other categories with value 7107.8, followed by , and Scarlett Johannsson. Down to category Mark Ruffalo with the lowest value of 3764.7. ",
-      " The highest value at Samuel L. Jackson is almost 1.89 times larger than the minimum value of Mark Ruffalo. ",
-      " The highest value at Samuel L. Jackson is almost 1.89 times larger than the minimum value of Mark Ruffalo. ",
-      " The difference between the max Month Samuel L. Jackson and min Month Mark Ruffalo is 3343.1000000000004. "
+      "This is a bar chart representing Month in the x axis and Box office grosses in million U.S. dollars in the y axis. ",
+      "The maximum Box office grosses in million U.S. dollars 7107.8 is found at Month Samuel L. Jackson and the minimum is found at Mark Ruffalo where Month is 3764.7. ",
+      "The highest Month Samuel L. Jackson has 3343.1 more Box office grosses in million U.S. dollars than the lowest Month Mark Ruffalo. "
+   ],
+   "min_summary": [
+      "This bar chart has 20 columns on the x axis representing Month, and Box office grosses in million U.S. dollars in each Month on the y axis. ",
+      "Month Samuel L. Jackson has the highest Box office grosses in million U.S. dollars and Mark Ruffalo has the lowest Box office grosses in million U.S. dollars. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Month in the x axis and Box office grosses in million U.S. dollars in the y axis. ",
+      "The maximum Box office grosses in million U.S. dollars 7107.8 is found at Month Samuel L. Jackson and the minimum is found at Mark Ruffalo where Month is 3764.7. ",
+      "The highest Month Samuel L. Jackson has 3343.1 more Box office grosses in million U.S. dollars than the lowest Month Mark Ruffalo. "
+   ],
+   "max_summary": [
+      "This bar chart has 20 columns on the x axis representing Month, and Box office grosses in million U.S. dollars in each Month on the y axis. ",
+      "The Box office grosses in million U.S. dollars is highest at Month Samuel L. Jackson and lowest at Month Mark Ruffalo. ",
+      "The second highest Box office grosses in million U.S. dollars is appeared to be the Month Robert Downey Jr.. ",
+      "The highest Month Samuel L. Jackson has 3343.1 more Box office grosses in million U.S. dollars than the lowest Month Mark Ruffalo. ",
+      "Month Samuel L. Jackson is higher than any other Months with value 7107.8, followed by Robert Downey Jr., and Scarlett Johannsson. Down to Month Mark Ruffalo with the lowest value 3764.7. ",
+      "Overall Box office grosses in million U.S. dollars has decreased over the Months. ",
+      "The highest value 7107.8 at Samuel L. Jackson is almost 1.58 times larger than the average value 4500.83. ",
+      "The Box office grosses in million U.S. dollars is 90016.5 if we add up values of all Months. "
    ],
    "trends": [
       {},

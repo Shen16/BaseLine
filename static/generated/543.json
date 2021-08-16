@@ -1,48 +1,42 @@
 {
-   "title": "Test",
+   "title": "Number of nursery schools in the United Kingdom 2010 to 2019",
    "xAxis": "Year",
    "yAxis": "Number of schools",
    "columnType": "two",
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Number of schools, with a total of 9 data points.",
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of schools. In total the number of data points it has is 9.",
+      " Overall Number of schools has decreased over the Year.",
+      "Number of schools is roughly constant from 2010/11 to 2012/13, slightly decreasing from 2012/13 to 2014/15, slightly increasing from 2014/15 to 2015/16, and lastly roughly constant from 2015/16 to 2018/19.",
+      "The line rapidly ",
+      "The most drastic increase took place within the Year 2014/15 and 2015/16.",
+      "The highest Number of schools, of value 3.13 was reached at Year 2010/11",
+      "The lowest Number of schools, of value 2.97 was reported at Year 2014/15"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of schools. In total the number of data points it has is 9.",
+      " Overall Number of schools has decreased over the Year.",
+      "Number of schools is roughly constant from 2010/11 to 2012/13, slightly decreasing from 2012/13 to 2014/15, slightly increasing from 2014/15 to 2015/16, and lastly roughly constant from 2015/16 to 2018/19."
+   ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of schools. In total the number of data points it has is 9.",
+      " In general Number of schools has stayed the same over the Year.",
+      "Number of schools is roughly constant from 2010/11 to 2012/13, slightly decreasing from 2012/13 to 2014/15, slightly increasing from 2014/15 to 2015/16, and lastly roughly constant from 2015/16 to 2018/19.",
+      "The most drastic increase took place within the Year 2014/15 and 2015/16.",
+      "The highest Number of schools, of value 3.13 was reached at Year 2010/11",
+      "The lowest Number of schools, of value 2.97 was reported at Year 2014/15"
+   ],
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of schools. In total the number of data points it has is 9.",
       " Overall Number of schools has decreased over the Year.",
       "Number of schools is roughly constant from 2010/11 to 2012/13, slightly decreasing from 2012/13 to 2014/15, slightly increasing from 2014/15 to 2015/16, and lastly roughly constant from 2015/16 to 2018/19.",
       "The steepest increase occurs in between the Year 2014/15 and 2015/16.",
-      "Max Number of schools about 3.13 was recorded at Year 2010/11",
-      "Min Number of schools about 2.97 was recorded at Year 2014/15",
-      "#########################################################################",
-      "This line chart has an x axis representing Year and a y axis representing Number of schools, with a total of 9 data points. The chart has 5 significant trends.",
-      " The longest trend is slightly decreasing which exists from 2010/11 to 2014/15.",
-      " Conversely, the next significant trend is moderately constant which exists from 2017/18 to 2018/19.",
-      " Contrarily, the next significant trend is moderately increasing which exists from 2016/17 to 2017/18.",
-      " Similarly, the next significant trend is slightly decreasing which exists from 2015/16 to 2016/17.",
-      " Contrarily, the next significant trend is extremely increasing which exists from 2014/15 to 2015/16."
+      "The highest Number of schools, of value 3.13 was reached at Year 2010/11",
+      "The lowest Number of schools, of value 2.97 was reported at Year 2014/15",
+      "The line significantly "
    ],
-   "trends": [
-      {},
-      {
-         "1": "4",
-         "12": "8"
-      },
-      {
-         "3": "0",
-         "14": "1"
-      },
-      {
-         "3": "1",
-         "14": "2"
-      },
-      {
-         "3": "2",
-         "14": "3"
-      },
-      {
-         "3": "3",
-         "14": "4"
-      }
-   ],
+   "trends": [],
    "data": [
       {
          "Year": "2018/19",

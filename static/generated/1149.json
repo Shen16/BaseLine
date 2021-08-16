@@ -1,33 +1,42 @@
 {
-   "title": "Test",
+   "title": "Population of the Netherlands 2019 , by age",
    "xAxis": "Year",
    "yAxis": "Number of inhabitants",
    "columnType": "two",
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Number of inhabitants, with a total of 5 data points.",
-      " Overall Number of inhabitants has increased over the Year.",
-      "Number of inhabitants is slightly increasing from 80_years_and_older to 40_-_65_years, and lastly roughly constant from 40_-_65_years to 0_-_20_years.",
-      "The steepest increase occurs in between the Year 65_-_80_years and 40_-_65_years.",
-      "Max Number of inhabitants about 5866334.0 was recorded at Year 40_-_65_years",
-      "Min Number of inhabitants about 798820.0 was recorded at Year 80_years_and_older",
-      "#########################################################################",
-      "This line chart has an x axis representing Year and a y axis representing Number of inhabitants, with a total of 5 data points. The chart has 2 significant trends.",
-      " The longest trend is extremely decreasing which exists from 40_-_65_years to 0_-_20_years.",
-      " Contrarily, the next significant trend is slightly increasing which exists from 80_years_and_older to 40_-_65_years."
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of inhabitants. In total the number of data points it has is 5.",
+      " In general Number of inhabitants has fallen over the Year.",
+      "Number of inhabitants is roughly constant from 0_-_20_years to 20_-_40_years, and finally slightly decreasing from 20_-_40_years to 80_years_and_older.",
+      "The line significantly ",
+      "The most drastic decrease took place within the Year 40_-_65_years and 65_-_80_years.",
+      "Maximum Number of inhabitants, about 5866334.0 was reported at Year 40_-_65_years",
+      "Minimum Number of inhabitants about 798820.0 was reached at Year 80_years_and_older"
    ],
-   "trends": [
-      {},
-      {
-         "1": "0",
-         "12": "2"
-      },
-      {
-         "3": "2",
-         "14": "4"
-      }
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Number of inhabitants, containing a total of 5 data points.",
+      " In general Number of inhabitants has fallen over the Year.",
+      "Number of inhabitants is roughly constant from 0_-_20_years to 20_-_40_years, and finally slightly decreasing from 20_-_40_years to 80_years_and_older."
    ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Number of inhabitants, containing a total of 5 data points.",
+      " Overall Number of inhabitants has decreased over the Year.",
+      "Number of inhabitants is roughly constant from 0_-_20_years to 20_-_40_years, and finally slightly decreasing from 20_-_40_years to 80_years_and_older.",
+      "The most drastic decrease took place within the Year 40_-_65_years and 65_-_80_years.",
+      "Maximum Number of inhabitants, about 5866334.0 was reported at Year 40_-_65_years",
+      "Minimum Number of inhabitants about 798820.0 was reached at Year 80_years_and_older"
+   ],
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of inhabitants. In total the number of data points it has is 5.",
+      " In general Number of inhabitants has fallen over the Year.",
+      "Number of inhabitants is roughly constant from 0_-_20_years to 20_-_40_years, and finally slightly decreasing from 20_-_40_years to 80_years_and_older.",
+      "The steepest decrease occurs in between the Year 40_-_65_years and 65_-_80_years.",
+      "Maximum Number of inhabitants, about 5866334.0 was reported at Year 40_-_65_years",
+      "Minimum Number of inhabitants about 798820.0 was reached at Year 80_years_and_older",
+      "The line significantly "
+   ],
+   "trends": [],
    "data": [
       {
          "Year": "0 - 20 years",

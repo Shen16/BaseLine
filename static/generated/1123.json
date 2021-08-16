@@ -1,53 +1,38 @@
 {
-   "title": "Test",
+   "title": "Voter turnout in UK elections 1918 to 2019",
    "xAxis": "Year",
    "yAxis": "Voter turnout",
    "columnType": "two",
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Voter turnout, with a total of 29 data points.",
+      "This is a line chart with an x axis representing Year and a y axis representing Voter turnout, containing a total of 29 data points.",
       " Overall Voter turnout has increased over the Year.",
-      "Voter turnout is gradually increasing from 1918 to 1922, roughly constant from 1922 to 1923, slightly increasing from 1923 to 1924, roughly constant from 1924 to 1945, slightly increasing from 1945 to 1950, roughly constant from 1950 to 1966, roughly increasing from 1966 to Feb_1974, roughly decreasing from Feb_1974 to 1979, roughly constant from 1979 to 1992, gradually decreasing from 1992 to 2001, roughly constant from 2001 to 2015, slightly increasing from 2015 to Brexit_Referendum_2016, and lastly roughly constant from Brexit_Referendum_2016 to 2019.",
+      "The line significantly ",
+      "The most drastic increase took place within the Year 1918 and 1922.",
+      "The highest Voter turnout, of value 83.9 was reached at Year 1950",
+      "Minimum Voter turnout about 57.2 was reached at Year 1918"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Voter turnout. In total the number of data points it has is 29.",
+      " Overall Voter turnout has increased over the Year."
+   ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Voter turnout. In total the number of data points it has is 29.",
+      " In general Voter turnout has rose over the Year.",
+      "The most drastic increase took place within the Year 1918 and 1922.",
+      "The highest Voter turnout, of value 83.9 was reached at Year 1950",
+      "Minimum Voter turnout about 57.2 was reached at Year 1918"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Voter turnout, containing a total of 29 data points.",
+      " Overall Voter turnout has increased over the Year.",
       "The steepest increase occurs in between the Year 1918 and 1922.",
-      "Max Voter turnout about 83.9 was recorded at Year 1950",
-      "Min Voter turnout about 57.2 was recorded at Year 1918",
-      "#########################################################################",
-      "This line chart has an x axis representing Year and a y axis representing Voter turnout, with a total of 29 data points. The chart has 6 significant trends.",
-      " The longest trend is extremely increasing which exists from 2001 to 2019.",
-      " Likewise, the next significant trend is slightly increasing which exists from 1983 to 2001.",
-      " Correspondingly, the next significant trend is moderately increasing which exists from 1970 to 1983.",
-      " Additionally, the next significant trend is moderately increasing which exists from 1955 to 1970.",
-      " Also, the next significant trend is extremely increasing which exists from 1935 to 1955.",
-      " In a similar manner, the next significant trend is moderately increasing which exists from 1923 to 1935."
+      "The highest Voter turnout, of value 83.9 was reached at Year 1950",
+      "Minimum Voter turnout about 57.2 was reached at Year 1918",
+      "The line drastically "
    ],
-   "trends": [
-      {},
-      {
-         "1": "0",
-         "12": "6"
-      },
-      {
-         "3": "6",
-         "14": "10"
-      },
-      {
-         "3": "10",
-         "14": "14"
-      },
-      {
-         "3": "14",
-         "14": "18"
-      },
-      {
-         "3": "18",
-         "14": "22"
-      },
-      {
-         "3": "22",
-         "14": "26"
-      }
-   ],
+   "trends": [],
    "data": [
       {
          "Year": "2019",

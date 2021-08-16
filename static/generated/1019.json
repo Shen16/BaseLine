@@ -1,53 +1,38 @@
 {
-   "title": "Test",
+   "title": "Refugee admissions in the U.S. 1990 to 2019",
    "xAxis": "Year",
    "yAxis": "Number of persons",
    "columnType": "two",
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Number of persons, with a total of 30 data points.",
-      " Overall Number of persons has decreased over the Year.",
-      "Number of persons is roughly constant from '90 to '95, slightly decreasing from '95 to '96, roughly constant from '96 to '01, slightly decreasing from '01 to '02, roughly constant from '02 to '03, gradually increasing from '03 to '04, roughly constant from '04 to '05, slightly decreasing from '05 to '06, gradually increasing from '06 to '09, roughly constant from '09 to '15, slightly decreasing from '15 to '18, and lastly slightly increasing from '18 to '19.",
-      "The steepest decrease occurs in between the Year '01 and '02.",
-      "Max Number of persons about 132531.0 was recorded at Year '92",
-      "Min Number of persons about 22491.0 was recorded at Year '18",
-      "#########################################################################",
-      "This line chart has an x axis representing Year and a y axis representing Number of persons, with a total of 30 data points. The chart has 6 significant trends.",
-      " The longest trend is extremely increasing which exists from '06 to '11.",
-      " Likewise, the next significant trend is moderately increasing which exists from '97 to '02.",
-      " Similarly, the next significant trend is slightly decreasing which exists from '92 to '97.",
-      " On the contrary, the next significant trend is slightly increasing which exists from '15 to '19.",
-      " Correspondingly, the next significant trend is extremely increasing which exists from '11 to '15.",
-      " Similarly, the next significant trend is extremely increasing which exists from '02 to '06."
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of persons. In total the number of data points it has is 30.",
+      " In general Number of persons has rose over the Year.",
+      "The line drastically increased by 1.9 times from Year '03 to '04, and lastly, increased by 4.1 times from Year '19 to '90.",
+      "The most drastic increase took place within the Year '19 and '90.",
+      "Maximum Number of persons, about 132531.0 was reported at Year '92",
+      "Minimum Number of persons about 22491.0 was reached at Year '18"
    ],
-   "trends": [
-      {},
-      {
-         "1": "8",
-         "12": "13"
-      },
-      {
-         "3": "17",
-         "14": "22"
-      },
-      {
-         "3": "22",
-         "14": "27"
-      },
-      {
-         "3": "0",
-         "14": "4"
-      },
-      {
-         "3": "4",
-         "14": "8"
-      },
-      {
-         "3": "13",
-         "14": "17"
-      }
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of persons. In total the number of data points it has is 30.",
+      " In general Number of persons has rose over the Year."
    ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Number of persons, containing a total of 30 data points.",
+      " Overall Number of persons has increased over the Year.",
+      "The most drastic increase took place within the Year '19 and '90.",
+      "Maximum Number of persons, about 132531.0 was reported at Year '92",
+      "Minimum Number of persons about 22491.0 was reached at Year '18"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Number of persons, containing a total of 30 data points.",
+      " In general Number of persons has rose over the Year.",
+      "The steepest increase occurs in between the Year '19 and '90.",
+      "Maximum Number of persons, about 132531.0 was reported at Year '92",
+      "Minimum Number of persons about 22491.0 was reached at Year '18",
+      "The line significantly increased by 24470.0 from Year '03 to '04, and lastly, increased by 92066.0 from Year '19 to '90."
+   ],
+   "trends": [],
    "data": [
       {
          "Year": "'19",

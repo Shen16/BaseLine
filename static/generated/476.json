@@ -1,16 +1,31 @@
 {
-   "title": "Test",
+   "title": "Spotify : most streamed weekly tracks worldwide 2020",
    "xAxis": "Songs",
    "yAxis": "Number of streams in millions",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 10 categories on the x axis representing Songs, and Number of streams in millions in each Songs on the y axis.",
-      "Dance Monkey - Tones and I is higher than any other categories with value 50.24, followed by , and ROXANNE - Arizona Zervas. Down to category Circles - Post Malone with the lowest value of 26.37. ",
-      " The highest value at Dance Monkey - Tones and I is almost 1.91 times larger than the minimum value of Circles - Post Malone. ",
-      " The highest value at Dance Monkey - Tones and I is almost 1.91 times larger than the minimum value of Circles - Post Malone. ",
-      " The difference between the max Songs Dance Monkey - Tones and I and min Songs Circles - Post Malone is 23.87. "
+      "This is a bar chart. It shows Number of streams in millions for 10 number of Songss. ",
+      "The maximum Number of streams in millions 50.24 is found at Songs Dance Monkey - Tones and I and the minimum is found at Circles - Post Malone where Songs is 26.37. ",
+      "The highest Songs Dance Monkey - Tones and I has 23.87 more Number of streams in millions than the lowest Songs Circles - Post Malone. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing Songs in the x axis and Number of streams in millions in the y axis. ",
+      "The Number of streams in millions is appeared to be the highest at Songs Dance Monkey - Tones and I and lowest at Songs Circles - Post Malone. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Number of streams in millions for 10 number of Songss. ",
+      "The maximum Number of streams in millions 50.24 is found at Songs Dance Monkey - Tones and I and the minimum is found at Circles - Post Malone where Songs is 26.37. ",
+      "The highest Songs Dance Monkey - Tones and I has 23.87 more Number of streams in millions than the lowest Songs Circles - Post Malone. "
+   ],
+   "max_summary": [
+      "This bar chart has 10 columns on the x axis representing Songs, and Number of streams in millions in each Songs on the y axis. ",
+      "The maximum Number of streams in millions 50.24 is found at Songs Dance Monkey - Tones and I and the minimum is found at Circles - Post Malone where Songs is 26.37. ",
+      "The second highest Number of streams in millions is appeared to be the Songs Yummy - Justin Bieber. ",
+      "There is a difference of 23.87 between the maximum Songs Dance Monkey - Tones and I and minimum Songs Circles - Post Malone. ",
+      "The Songs Dance Monkey - Tones and I has the highest Number of streams in millions, followed by Yummy - Justin Bieber, and ROXANNE - Arizona Zervas. Down to the Songs Circles - Post Malone which is the lowest. ",
+      "Considered together, the average Number of streams in millions in all 10 Songss is roughly 32.06. "
    ],
    "trends": [
       {},

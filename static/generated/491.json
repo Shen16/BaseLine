@@ -1,38 +1,38 @@
 {
-   "title": "Test",
+   "title": "Youth unemployment rate in Ghana in 2019",
    "xAxis": "Year",
    "yAxis": "Youth unemployment rate",
    "columnType": "two",
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Youth unemployment rate, with a total of 21 data points.",
+      "This is a line chart with an x axis representing Year and a y axis representing Youth unemployment rate, containing a total of 21 data points.",
       " Overall Youth unemployment rate has decreased over the Year.",
-      "Youth unemployment rate is roughly constant from 1999 to 2000, rapidly decreasing from 2000 to 2006, roughly constant from 2006 to 2008, slightly increasing from 2008 to 2009, roughly constant from 2009 to 2010, slightly increasing from 2010 to 2013, and lastly roughly constant from 2013 to 2019.",
-      "The steepest decrease occurs in between the Year 2003 and 2004.",
-      "Max Youth unemployment rate about 16.26 was recorded at Year 2000",
-      "Min Youth unemployment rate about 9.31 was recorded at Year 2006",
-      "#########################################################################",
-      "This line chart has an x axis representing Year and a y axis representing Youth unemployment rate, with a total of 21 data points. The chart has 3 significant trends.",
-      " The longest trend is extremely increasing which exists from 2006 to 2015.",
-      " Likewise, the next significant trend is slightly decreasing which exists from 1999 to 2006.",
-      " Conversely, the next significant trend is moderately decreasing which exists from 2015 to 2019."
+      "The line significantly ",
+      "The most drastic decrease took place within the Year 2003 and 2004.",
+      "Maximum Youth unemployment rate, about 16.26 was reported at Year 2000",
+      "The lowest Youth unemployment rate, of value 9.31 was reported at Year 2006"
    ],
-   "trends": [
-      {},
-      {
-         "1": "4",
-         "12": "13"
-      },
-      {
-         "3": "13",
-         "14": "20"
-      },
-      {
-         "3": "0",
-         "14": "4"
-      }
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Youth unemployment rate. In total the number of data points it has is 21.",
+      " In general Youth unemployment rate has fallen over the Year."
    ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Youth unemployment rate, containing a total of 21 data points.",
+      " Overall Youth unemployment rate has decreased over the Year.",
+      "The most drastic decrease took place within the Year 2003 and 2004.",
+      "Maximum Youth unemployment rate, about 16.26 was reported at Year 2000",
+      "The lowest Youth unemployment rate, of value 9.31 was reported at Year 2006"
+   ],
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Youth unemployment rate. In total the number of data points it has is 21.",
+      " In general Youth unemployment rate has fallen over the Year.",
+      "The most drastic decrease took place within the Year 2003 and 2004.",
+      "Maximum Youth unemployment rate, about 16.26 was reported at Year 2000",
+      "The lowest Youth unemployment rate, of value 9.31 was reported at Year 2006",
+      "The line significantly "
+   ],
+   "trends": [],
    "data": [
       {
          "Year": "2019",

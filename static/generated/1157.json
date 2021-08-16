@@ -1,5 +1,5 @@
 {
-   "title": "Test",
+   "title": "Monsanto 's number of regular and temporary workers worldwide 2013 to 2017",
    "labels": [
       "Worker Type",
       "2013",
@@ -12,11 +12,31 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart has 2 categories of Worker Type on the x axis representing 5 groups: 2013, 2014, 2015, 2016, and 2017.",
-      " Averaging the 5 groups, the highest category is found for Worker Type Regular workers with a mean value of 21620.0.",
-      " The minimum category is found at Temporary workers with a mean value of 3600.0.",
-      " This represents a difference of 142.9%.",
-      " In case of Regular workers, 2013 shows more dominance than any other Worker Type with a value 21900.0 and it has the lowest value 4300.0 in Temporary workers.  However, 2014 is the second impactful group, and it has the highest value 22500.0 for Worker Type Regular workers and the lowest 3000.0 in case of Temporary workers. "
+      "This grouped bar chart represents 2 different Worker Types on X-axis for 5 groups 2013, 2014, 2015, 2016, and 2017. On the Y-axis it shows their corresponding SOME LABEL. ",
+      " In Worker Type Regular workers, 2015 had the highest SOME LABEL 22500.0 among the 5 groups and in Temporary workers, 2017 had the lowest SOME LABEL 2800.0. ",
+      " Among all the Worker Types, 2015 had the highest SOME LABEL in Worker Type Regular workers and lowest SOME LABEL in Worker Type Temporary workers. ",
+      "Worker Type Regular workers and Temporary workers had the biggest gap of 19500.0 between the highest and lowest SOME LABEL found for 2015. "
+   ],
+   "xAxis": "Worker Type",
+   "yAxis": "SOME LABEL",
+   "min_summary": [
+      "This grouped bar chart represents 2 different Worker Types on X-axis for 5 groups 2013, 2014, 2015, 2016, and 2017. On the Y-axis it shows their corresponding SOME LABEL. ",
+      " Out of all 5 groups, 2015 had the highest SOME LABEL in Worker Type Regular workers and 2017 had the lowest SOME LABEL in Worker Type Temporary workers. "
+   ],
+   "mid_summary": [
+      "This grouped bar chart represents 2 different Worker Types on X-axis for 5 groups 2013, 2014, 2015, 2016, and 2017. On the Y-axis it shows their corresponding SOME LABEL. ",
+      " In Worker Type Regular workers, 2015 had the highest SOME LABEL 22500.0 among the 5 groups and in Temporary workers, 2017 had the lowest SOME LABEL 2800.0. ",
+      " Among all the Worker Types, 2015 had the highest SOME LABEL in Worker Type Regular workers and lowest SOME LABEL in Worker Type Temporary workers. ",
+      "Worker Type Regular workers and Temporary workers had the biggest gap of 19500.0 between the highest and lowest SOME LABEL found for 2015. "
+   ],
+   "max_summary": [
+      "This grouped bar chart shows SOME LABEL on the Y-axis for 2 different Worker Types for 5 groups 2013, 2014, 2015, 2016, and 2017 that are presented on the X-axis. ",
+      " Out of all 5 groups, 2015 had the highest SOME LABEL in Worker Type Regular workers and 2017 had the lowest SOME LABEL in Worker Type Temporary workers. ",
+      " In Worker Type Regular workers, 2015 had the maximum SOME LABEL and it saw the lowest in Worker Type Temporary workers out of all 2 Worker Types. ",
+      " The maximum SOME LABEL for 2015 that was found in Worker Type Regular workers was 7.5 times larger than the minimum SOME LABEL observed in Worker Type Temporary workers. ",
+      " Among all 5 groups, 2015 had the gap of 19500.0 between the maximum and minimum SOME LABEL observed in Worker Type Regular workers and Temporary workers respectively. ",
+      " In Worker Type Regular workers, 2015 had the highest SOME LABEL 22500.0 among the 5 groups and in Temporary workers, 2017 had the lowest SOME LABEL 2800.0. The second highest SOME LABEL 20800.0 was observed for 2015 in Worker Type Regular workers. ",
+      "On average, the Worker Type Regular workers had the highest SOME LABEL for all 5 groups 2013, 2014, 2015, 2016, and 2017. Whereas Temporary workers had the lowest average SOME LABEL. "
    ],
    "trends": [
       {},

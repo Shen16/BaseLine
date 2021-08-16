@@ -1,16 +1,31 @@
 {
-   "title": "Test",
+   "title": "Leading IPOs in the U.S. 2019",
    "xAxis": "Company (Offer date)",
    "yAxis": "Deal size in million U.S. dollars",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 10 categories on the x axis representing Company (Offer date), and Deal size in million U.S. dollars in each Company (Offer date) on the y axis.",
-      "Uber Technologies (May 9) is higher than any other categories with value 8100.0, followed by , and Lyft (Mar 28). Down to category DouYu International Holdings (Jul 16) with the lowest value of 775.0. ",
-      " The highest value at Uber Technologies (May 9) is almost 10.45 times larger than the minimum value of DouYu International Holdings (Jul 16). ",
-      " The highest value at Uber Technologies (May 9) is almost 10.45 times larger than the minimum value of DouYu International Holdings (Jul 16). ",
-      " The difference between the max Company (Offer date) Uber Technologies (May 9) and min Company (Offer date) DouYu International Holdings (Jul 16) is 7325.0. "
+      "This is a bar chart. It shows Deal size in million U.S. dollars for 10 number of Company (Offer date)s. ",
+      "The Deal size in million U.S. dollars is highest at Company (Offer date) Uber Technologies (May 9) and lowest at Company (Offer date) DouYu International Holdings (Jul 16). ",
+      "The highest Company (Offer date) Uber Technologies (May 9) has 7325.0 more Deal size in million U.S. dollars than the lowest Company (Offer date) DouYu International Holdings (Jul 16). "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Deal size in million U.S. dollars for 10 number of Company (Offer date)s. ",
+      "The Deal size in million U.S. dollars is appeared to be the highest at Company (Offer date) Uber Technologies (May 9) and lowest at Company (Offer date) DouYu International Holdings (Jul 16). "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Deal size in million U.S. dollars for 10 number of Company (Offer date)s. ",
+      "The Deal size in million U.S. dollars is highest at Company (Offer date) Uber Technologies (May 9) and lowest at Company (Offer date) DouYu International Holdings (Jul 16). ",
+      "The highest Company (Offer date) Uber Technologies (May 9) has 7325.0 more Deal size in million U.S. dollars than the lowest Company (Offer date) DouYu International Holdings (Jul 16). "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Company (Offer date) in the x axis and Deal size in million U.S. dollars in the y axis. ",
+      "The maximum Deal size in million U.S. dollars 8100.0 is found at Company (Offer date) Uber Technologies (May 9) and the minimum is found at DouYu International Holdings (Jul 16) where Company (Offer date) is 775.0. ",
+      "Second maximum Deal size in million U.S. dollars is found at Company (Offer date) Avantor (May 16). ",
+      "The maximum Company (Offer date) Uber Technologies (May 9) has got 10.45 times higher Deal size in million U.S. dollars than the minimum Company (Offer date) DouYu International Holdings (Jul 16). ",
+      "Company (Offer date) Uber Technologies (May 9) is higher than any other Company (Offer date)s with value 8100.0, followed by Avantor (May 16), and Lyft (Mar 28). Down to Company (Offer date) DouYu International Holdings (Jul 16) with the lowest value 775.0. ",
+      "The Company (Offer date) Uber Technologies (May 9) has 3.66 times more Deal size in million U.S. dollars than average. "
    ],
    "trends": [
       {},

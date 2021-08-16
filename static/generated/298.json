@@ -1,48 +1,38 @@
 {
-   "title": "Test",
+   "title": "Number of births in Norway 2008 to 2018",
    "xAxis": "Year",
    "yAxis": "Number of live births",
    "columnType": "two",
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Number of live births, with a total of 11 data points.",
-      " Overall Number of live births has decreased over the Year.",
-      "Number of live births is slightly increasing from 2008 to 2009, roughly constant from 2009 to 2010, slightly decreasing from 2010 to 2011, roughly constant from 2011 to 2012, slightly decreasing from 2012 to 2013, roughly constant from 2013 to 2016, and lastly rapidly decreasing from 2016 to 2018.",
+      "This is a line chart with an x axis representing Year and a y axis representing Number of live births, containing a total of 11 data points.",
+      " In general Number of live births has fallen over the Year.",
+      "The line rapidly ",
+      "The most drastic decrease took place within the Year 2016 and 2017.",
+      "The highest Number of live births, of value 61807.0 was reached at Year 2009",
+      "Minimum Number of live births about 55120.0 was reached at Year 2018"
+   ],
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Number of live births, containing a total of 11 data points.",
+      " Overall Number of live births has decreased over the Year."
+   ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Number of live births, containing a total of 11 data points.",
+      " In general Number of live births has fallen over the Year.",
+      "The most drastic decrease took place within the Year 2016 and 2017.",
+      "The highest Number of live births, of value 61807.0 was reached at Year 2009",
+      "Minimum Number of live births about 55120.0 was reached at Year 2018"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Number of live births, containing a total of 11 data points.",
+      " In general Number of live births has fallen over the Year.",
       "The steepest decrease occurs in between the Year 2016 and 2017.",
-      "Max Number of live births about 61807.0 was recorded at Year 2009",
-      "Min Number of live births about 55120.0 was recorded at Year 2018",
-      "#########################################################################",
-      "This line chart has an x axis representing Year and a y axis representing Number of live births, with a total of 11 data points. The chart has 5 significant trends.",
-      " The longest trend is slightly decreasing which exists from 2014 to 2018.",
-      " Contrarily, the next significant trend is extremely decreasing which exists from 2008 to 2011.",
-      " On the contrary, the next significant trend is extremely increasing which exists from 2013 to 2014.",
-      " Additionally, the next significant trend is slightly decreasing which exists from 2012 to 2013.",
-      " Differently, the next significant trend is extremely increasing which exists from 2011 to 2012."
+      "The highest Number of live births, of value 61807.0 was reached at Year 2009",
+      "Minimum Number of live births about 55120.0 was reached at Year 2018",
+      "The line rapidly "
    ],
-   "trends": [
-      {},
-      {
-         "1": "0",
-         "12": "4"
-      },
-      {
-         "3": "7",
-         "14": "10"
-      },
-      {
-         "3": "4",
-         "14": "5"
-      },
-      {
-         "3": "5",
-         "14": "6"
-      },
-      {
-         "3": "6",
-         "14": "7"
-      }
-   ],
+   "trends": [],
    "data": [
       {
          "Year": "2018",

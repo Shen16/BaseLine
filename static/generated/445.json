@@ -1,5 +1,5 @@
 {
-   "title": "Test",
+   "title": "Monthly retail sales of beer , wine and liquor stores in Canada 2015 to 2019",
    "labels": [
       "Month",
       "2015",
@@ -12,12 +12,32 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart has 12 categories of Month on the x axis representing 5 groups: 2015, 2016, 2017, 2018, and 2019.",
-      " Averaging these 5 groups, the highest category is found for Month Feb with a mean value of 1.89.",
-      " Followed by Jan with a mean value of 1.87.",
-      " The lowest category is observed at Apr that has a mean value of 1.49",
-      " showing a difference of 23.3% with the maximum value.",
-      " In case of Aug, 2015 shows more dominance than any other Month and it has the lowest value in Jul. On the other hand, group 2019 is highest in case of Jan and has minimum impact for Month Dec. "
+      "This grouped bar chart represents Sales in billion CAD on the Y-axis. And, how the value changed throughout 12 Months for 2015, 2016, 2017, 2018, and 2019. ",
+      " Over the 12 Months, the Sales in billion CAD for both 2018 and 2017 have decreased. ",
+      " Out of all 5 groups, 2018 had the highest Sales in billion CAD in Month Aug and 2019 had the lowest Sales in billion CAD in Month Dec. ",
+      " In Month Aug, 2018 had the highest Sales in billion CAD among all 12 Months and it has the lowest Sales in billion CAD in Month Feb. "
+   ],
+   "xAxis": "Month",
+   "yAxis": "Sales in billion CAD",
+   "min_summary": [
+      "This is a grouped bar chart showing Sales in billion CAD on the Y-axis throughout 12 Months for 2015, 2016, 2017, 2018, and 2019 on the X-axis. ",
+      " Over the 12 Months, the Sales in billion CAD for both 2018 and 2017 have decreased. "
+   ],
+   "mid_summary": [
+      "This grouped bar chart represents Sales in billion CAD on the Y-axis. And, how the value changed throughout 12 Months for 2015, 2016, 2017, 2018, and 2019. ",
+      " Over the 12 Months, the Sales in billion CAD for both 2018 and 2017 have decreased. ",
+      " Out of all 5 groups, 2018 had the highest Sales in billion CAD in Month Aug and 2019 had the lowest Sales in billion CAD in Month Dec. ",
+      " In Month Aug, 2018 had the highest Sales in billion CAD among all 12 Months and it has the lowest Sales in billion CAD in Month Feb. "
+   ],
+   "max_summary": [
+      "This grouped bar chart represents Sales in billion CAD on the Y-axis. And, how the value changed throughout 12 Months for 2015, 2016, 2017, 2018, and 2019. ",
+      " All through the Months, similar trend was observed for 2018 and 2017. In both cases, the Sales in billion CAD have decreased. ",
+      " In Month Aug, 2018 had the highest Sales in billion CAD 202.0 among the 5 groups and in Dec, 2019 had the lowest Sales in billion CAD 0.0. ",
+      " Among all the Months, 2018 had the highest Sales in billion CAD in Month Aug and lowest Sales in billion CAD in Month Feb. ",
+      " There is a gap of 9.0 between the highest and lowest Sales in billion CAD found for 2018 in Month Aug and Feb. ",
+      " Among all 5 groups, 2017 had the gap of 175.0 between the maximum and minimum Sales in billion CAD observed in Month Dec and May respectively. ",
+      " 2018 had the maximum Sales in billion CAD out of all 5 groups in Month Aug followed by 2018 in Aug, and the minimum Sales in billion CAD is found for 2019 in Dec. ",
+      "Averaging all 5 groups 2015, 2016, 2017, 2018, and 2019, the Month Feb is the maximum Sales in billion CAD and Apr is the minimum Sales in billion CAD. "
    ],
    "trends": [
       {},

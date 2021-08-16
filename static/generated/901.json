@@ -1,16 +1,32 @@
 {
-   "title": "Test",
+   "title": "U.S. college students average study hours , by major 2011",
    "xAxis": "Month",
    "yAxis": "Number of hours spent studying per week",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 29 categories on the x axis representing Month, and Number of hours spent studying per week in each Month on the y axis.",
-      "Architecture is higher than any other categories with value 23.7, followed by , and Physics. Down to category Speech with the lowest value of 10.8. ",
-      " The highest value at Architecture is almost 2.19 times larger than the minimum value of Speech. ",
-      " The highest value at Architecture is almost 2.19 times larger than the minimum value of Speech. ",
-      " The difference between the max Month Architecture and min Month Speech is 12.899999999999999. "
+      "This is a bar chart representing Month in the x axis and Number of hours spent studying per week in the y axis. ",
+      "The Number of hours spent studying per week is appeared to be the highest at Month Architecture and lowest at Month Speech. ",
+      "The highest Month Architecture has 12.9 more Number of hours spent studying per week than the lowest Month Speech. "
+   ],
+   "min_summary": [
+      "This bar chart has 29 columns on the x axis representing Month, and Number of hours spent studying per week in each Month on the y axis. ",
+      "The maximum Number of hours spent studying per week 23.7 is found at Month Architecture and the minimum is found at Speech where Month is 10.8. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Month in the x axis and Number of hours spent studying per week in the y axis. ",
+      "The Number of hours spent studying per week is appeared to be the highest at Month Architecture and lowest at Month Speech. ",
+      "The highest Month Architecture has 12.9 more Number of hours spent studying per week than the lowest Month Speech. "
+   ],
+   "max_summary": [
+      "This bar chart has 29 columns on the x axis representing Month, and Number of hours spent studying per week in each Month on the y axis. ",
+      "The Number of hours spent studying per week is appeared to be the highest at Month Architecture and lowest at Month Speech. ",
+      "The highest Month Architecture has 12.9 more Number of hours spent studying per week than the lowest Month Speech. ",
+      "Month Architecture is higher than any other Months with value 23.7, followed by Chemical Engineering, and Physics. Down to Month Speech with the lowest value 10.8. ",
+      "Overall Number of hours spent studying per week has declined over the Months. ",
+      "Month Theater, and Anthropology share the same value 16.0. ",
+      "The Month Architecture has 1.53 times more Number of hours spent studying per week than average. "
    ],
    "trends": [
       {},

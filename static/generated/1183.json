@@ -1,16 +1,33 @@
 {
-   "title": "Test",
+   "title": "Growth of U.S. beauty product face mask online searches 2016",
    "xAxis": "Beauty Product",
    "yAxis": "Year-on-year growth of search phrase volume",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 33 categories on the x axis representing Beauty Product, and Year-on-year growth of search phrase volume in each Beauty Product on the y axis.",
-      "carbonated clay mask is higher than any other categories with value 5030.0, followed by , and bubble clay mask. Down to category face masks for acne with the lowest value of 1.0. ",
-      " The highest value at carbonated clay mask is almost 5030.0 times larger than the minimum value of face masks for acne. ",
-      " The highest value at carbonated clay mask is almost 5030.0 times larger than the minimum value of face masks for acne. ",
-      " The difference between the max Beauty Product carbonated clay mask and min Beauty Product face masks for acne is 5029.0. "
+      "This is a bar chart. It shows Year-on-year growth of search phrase volume for 33 number of Beauty Products. ",
+      "The Year-on-year growth of search phrase volume is appeared to be the highest at Beauty Product carbonated clay mask and lowest at Beauty Product face masks for acne. ",
+      "The highest Beauty Product carbonated clay mask has 5029.0 more Year-on-year growth of search phrase volume than the lowest Beauty Product face masks for acne. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Year-on-year growth of search phrase volume for 33 number of Beauty Products. ",
+      "The Year-on-year growth of search phrase volume is highest at Beauty Product carbonated clay mask and lowest at Beauty Product face masks for acne. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Year-on-year growth of search phrase volume for 33 number of Beauty Products. ",
+      "The Year-on-year growth of search phrase volume is appeared to be the highest at Beauty Product carbonated clay mask and lowest at Beauty Product face masks for acne. ",
+      "The highest Beauty Product carbonated clay mask has 5029.0 more Year-on-year growth of search phrase volume than the lowest Beauty Product face masks for acne. "
+   ],
+   "max_summary": [
+      "This bar chart has 33 columns on the x axis representing Beauty Product, and Year-on-year growth of search phrase volume in each Beauty Product on the y axis. ",
+      "The Year-on-year growth of search phrase volume is appeared to be the highest at Beauty Product carbonated clay mask and lowest at Beauty Product face masks for acne. ",
+      "The second highest Year-on-year growth of search phrase volume is appeared to be the Beauty Product carbonated bubble clay mask. ",
+      "The highest Beauty Product carbonated clay mask has 5029.0 more Year-on-year growth of search phrase volume than the lowest Beauty Product face masks for acne. ",
+      "The Beauty Product carbonated clay mask has the highest Year-on-year growth of search phrase volume, followed by carbonated bubble clay mask, and bubble clay mask. Down to the Beauty Product face masks for acne which is the lowest. ",
+      "Beauty Product baking soda face mask, and honey face mask have the same Year-on-year growth of search phrase volume. ",
+      "The Beauty Product carbonated clay mask has 13.85 times more Year-on-year growth of search phrase volume than average. ",
+      "Summing up the values of all Beauty Products, we get total 11988.0. "
    ],
    "trends": [
       {},

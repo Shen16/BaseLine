@@ -1,18 +1,33 @@
 {
-   "title": "Test",
+   "title": "UEFA Europa League most titles by club 2019",
    "xAxis": "Soccer Club",
    "yAxis": "Number of titles",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 28 categories on the x axis representing Soccer Club, and Number of titles in each Soccer Club on the y axis.",
-      " The highest category is found at Sevilla FC where Number of titles is 5.0.",
-      " Followed by 5.0 in .",
-      " The lowest category is found at Ipswich Town FC where Number of titles is 1.0.",
-      " The highest value at Sevilla FC is almost 5.0 times larger than the minimum value of Ipswich Town FC. ",
-      " The highest value at Sevilla FC is almost 5.0 times larger than the minimum value of Ipswich Town FC. ",
-      " The difference between the max Soccer Club Sevilla FC and min Soccer Club Ipswich Town FC is 4.0. "
+      "This is a bar chart. It shows Number of titles for 28 number of Soccer Clubs. ",
+      "The maximum Number of titles 5.0 is found at Soccer Club Sevilla FC and the minimum is found at Ipswich Town FC where Soccer Club is 1.0. ",
+      "There is a difference of 4.0 between the maximum Soccer Club Sevilla FC and minimum Soccer Club Ipswich Town FC. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing Soccer Club in the x axis and Number of titles in the y axis. ",
+      "The Number of titles is appeared to be the highest at Soccer Club Sevilla FC and lowest at Soccer Club Ipswich Town FC. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Number of titles for 28 number of Soccer Clubs. ",
+      "The maximum Number of titles 5.0 is found at Soccer Club Sevilla FC and the minimum is found at Ipswich Town FC where Soccer Club is 1.0. ",
+      "There is a difference of 4.0 between the maximum Soccer Club Sevilla FC and minimum Soccer Club Ipswich Town FC. "
+   ],
+   "max_summary": [
+      "This bar chart has 28 columns on the x axis representing Soccer Club, and Number of titles in each Soccer Club on the y axis. ",
+      "The maximum Number of titles 5.0 is found at Soccer Club Sevilla FC and the minimum is found at Ipswich Town FC where Soccer Club is 1.0. ",
+      "Soccer Club Juventus has the second highest value for Number of titles. ",
+      "There is a difference of 4.0 between the maximum Soccer Club Sevilla FC and minimum Soccer Club Ipswich Town FC. ",
+      "Number of titles at Soccer Club Sevilla FC is 5.0 , second place is Juventus at 3.0, and thirdly is Juventus at 3.0.",
+      "Similar Number of titles is found in Soccer Club Ipswich Town FC, FC Zenit, PSV Eindhoven, FC Bayern Munich, SSC Napoli, RSC Anderlecht, CSKA Moscow, Valencia CF, FC Schalke 04, Bayer 04 Leverkusen, Manchester United, AFC Ajax, FC Shakhtar Donetsk, Galatasaray AS, and Eintracht Frankfurt. ",
+      "The Soccer Club Ipswich Town FC has 2.92 times less Number of titles than average. ",
+      "Summing up the values of all Soccer Clubs, we get total 48.0. "
    ],
    "trends": [
       {},

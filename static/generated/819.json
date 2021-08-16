@@ -1,16 +1,32 @@
 {
-   "title": "Test",
+   "title": "Largest cities in Ukraine 2016",
    "xAxis": "Month",
    "yAxis": "Residents in millions",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 10 categories on the x axis representing Month, and Residents in millions in each Month on the y axis.",
-      "Ky\u00efv (Kiev) is higher than any other categories with value 2.91, followed by , and Od\u0117sa. Down to category Mariupol' with the lowest value of 0.45. ",
-      " The highest value at Ky\u00efv (Kiev) is almost 6.47 times larger than the minimum value of Mariupol'. ",
-      " The highest value at Ky\u00efv (Kiev) is almost 6.47 times larger than the minimum value of Mariupol'. ",
-      " The difference between the max Month Ky\u00efv (Kiev) and min Month Mariupol' is 2.46. "
+      "This bar chart has 10 columns on the x axis representing Month, and Residents in millions in each Month on the y axis. ",
+      "The Residents in millions is appeared to be the highest at Month Ky\u00efv (Kiev) and lowest at Month Mariupol'. ",
+      "There is a difference of 2.46 between the maximum Month Ky\u00efv (Kiev) and minimum Month Mariupol'. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing Month in the x axis and Residents in millions in the y axis. ",
+      "The Residents in millions is highest at Month Ky\u00efv (Kiev) and lowest at Month Mariupol'. "
+   ],
+   "mid_summary": [
+      "This bar chart has 10 columns on the x axis representing Month, and Residents in millions in each Month on the y axis. ",
+      "The Residents in millions is appeared to be the highest at Month Ky\u00efv (Kiev) and lowest at Month Mariupol'. ",
+      "There is a difference of 2.46 between the maximum Month Ky\u00efv (Kiev) and minimum Month Mariupol'. "
+   ],
+   "max_summary": [
+      "This bar chart has 10 columns on the x axis representing Month, and Residents in millions in each Month on the y axis. ",
+      "The maximum Residents in millions 2.91 is found at Month Ky\u00efv (Kiev) and the minimum is found at Mariupol' where Month is 0.45. ",
+      "The difference of Residents in millions between the highest and lowest Month is 2.46. ",
+      "The Month Ky\u00efv (Kiev) has the highest Residents in millions, followed by Charkiv, and Od\u0117sa. Down to the Month Mariupol' which is the lowest. ",
+      "Overall Residents in millions has reduced over the Months. ",
+      "The lowest value 0.45 at Mariupol' is almost 2.81 times smaller than the average value 1.03. ",
+      "The Residents in millions is 10.35 if we add up values of all Months. "
    ],
    "trends": [
       {},

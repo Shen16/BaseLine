@@ -1,38 +1,38 @@
 {
-   "title": "Test",
+   "title": "Book store sales in the U.S. 1992 to 2018",
    "xAxis": "Year",
    "yAxis": "Sales in billion U.S. dollars",
    "columnType": "two",
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Sales in billion U.S. dollars, with a total of 27 data points.",
+      "This is a line chart with an x axis representing Year and a y axis representing Sales in billion U.S. dollars, containing a total of 27 data points.",
       " Overall Sales in billion U.S. dollars has increased over the Year.",
-      "Sales in billion U.S. dollars is rapidly increasing from 1992 to 1999, roughly constant from 1999 to 2002, roughly increasing from 2002 to 2003, roughly constant from 2003 to 2008, slightly decreasing from 2008 to 2013, roughly constant from 2013 to 2016, roughly decreasing from 2016 to 2017, and lastly roughly constant from 2017 to 2018.",
+      "The line rapidly ",
       "The steepest decrease occurs in between the Year 2010 and 2011.",
-      "Max Sales in billion U.S. dollars about 17.17 was recorded at Year 2007",
-      "Min Sales in billion U.S. dollars about 8.33 was recorded at Year 1992",
-      "#########################################################################",
-      "This line chart has an x axis representing Year and a y axis representing Sales in billion U.S. dollars, with a total of 27 data points. The chart has 3 significant trends.",
-      " The longest trend is extremely increasing which exists from 1992 to 2007.",
-      " Likewise, the next significant trend is slightly decreasing which exists from 2007 to 2015.",
-      " But, the next significant trend is moderately increasing which exists from 2015 to 2018."
+      "The highest Sales in billion U.S. dollars, of value 17.17 was reached at Year 2007",
+      "Minimum Sales in billion U.S. dollars about 8.33 was reached at Year 1992"
    ],
-   "trends": [
-      {},
-      {
-         "1": "11",
-         "12": "26"
-      },
-      {
-         "3": "3",
-         "14": "11"
-      },
-      {
-         "3": "0",
-         "14": "3"
-      }
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Sales in billion U.S. dollars. In total the number of data points it has is 27.",
+      " Overall Sales in billion U.S. dollars has increased over the Year."
    ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Sales in billion U.S. dollars. In total the number of data points it has is 27.",
+      " Overall Sales in billion U.S. dollars has increased over the Year.",
+      "The most drastic decrease took place within the Year 2010 and 2011.",
+      "The highest Sales in billion U.S. dollars, of value 17.17 was reached at Year 2007",
+      "Minimum Sales in billion U.S. dollars about 8.33 was reached at Year 1992"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Sales in billion U.S. dollars, containing a total of 27 data points.",
+      " Overall Sales in billion U.S. dollars has increased over the Year.",
+      "The most drastic decrease took place within the Year 2010 and 2011.",
+      "The highest Sales in billion U.S. dollars, of value 17.17 was reached at Year 2007",
+      "Minimum Sales in billion U.S. dollars about 8.33 was reached at Year 1992",
+      "The line drastically "
+   ],
+   "trends": [],
    "data": [
       {
          "Year": "2018",

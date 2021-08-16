@@ -1,16 +1,32 @@
 {
-   "title": "Test",
+   "title": "Number of H-1B visas issued in U.S. , by countries with the most recipients 2011",
    "xAxis": "Country",
    "yAxis": "Number of visas issued",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 11 categories on the x axis representing Country, and Number of visas issued in each Country on the y axis.",
-      "India is higher than any other categories with value 72438.0, followed by , and China-mainland. Down to category Germany with the lowest value of 1627.0. ",
-      " The highest value at India is almost 44.52 times larger than the minimum value of Germany. ",
-      " The highest value at India is almost 44.52 times larger than the minimum value of Germany. ",
-      " The difference between the max Country India and min Country Germany is 70811.0. "
+      "This bar chart has 11 columns on the x axis representing Country, and Number of visas issued in each Country on the y axis. ",
+      "The Number of visas issued is appeared to be the highest at Country India and lowest at Country Germany. ",
+      "The highest Country India has 70811.0 more Number of visas issued than the lowest Country Germany. "
+   ],
+   "min_summary": [
+      "This bar chart has 11 columns on the x axis representing Country, and Number of visas issued in each Country on the y axis. ",
+      "The Number of visas issued is highest at Country India and lowest at Country Germany. "
+   ],
+   "mid_summary": [
+      "This bar chart has 11 columns on the x axis representing Country, and Number of visas issued in each Country on the y axis. ",
+      "The Number of visas issued is appeared to be the highest at Country India and lowest at Country Germany. ",
+      "The highest Country India has 70811.0 more Number of visas issued than the lowest Country Germany. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Country in the x axis and Number of visas issued in the y axis. ",
+      "Country India has the highest Number of visas issued and Germany has the lowest Number of visas issued. ",
+      "Second maximum Number of visas issued is found at Country Other. ",
+      "The highest Country India has 70811.0 more Number of visas issued than the lowest Country Germany. ",
+      "Country India is higher than any other Countrys with value 72438.0, followed by Other, and China-mainland. Down to Country Germany with the lowest value 1627.0. ",
+      "Considered together, the average Number of visas issued in all 11 Countrys is roughly 11739.45. ",
+      "Summing up the values of all Countrys, we get total 129134.0. "
    ],
    "trends": [
       {},

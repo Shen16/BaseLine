@@ -1,5 +1,5 @@
 {
-   "title": "Test",
+   "title": "Number of oncology practices in the U.S. by region and size 2013",
    "labels": [
       "Country",
       "1-2 physicians",
@@ -10,11 +10,31 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart has 4 categories of Country on the x axis representing 3 groups: 1-2 physicians, 3-6 physicians, and 7 or more physicians.",
-      " Averaging these 3 groups, the highest category is found for Country South with a mean value of 54.33.",
-      " The lowest category is observed at Northeast that has a mean value of 37.33",
-      " showing a difference of 37.1% with the maximum value.",
-      " In case of South, 1-2 physicians shows more dominance than any other Country with a value 59.0 and it has the lowest value 24.0 in West.  However, 7 or more physicians being the 2nd most important group, has the highest value 75.0 for Country South and the lowest 40.0 in case of Northeast. "
+      "This grouped bar chart represents 4 different Countrys on X-axis for 3 groups 1-2 physicians, 3-6 physicians, and 7 or more physicians. On the Y-axis it shows their corresponding Number of new patients. ",
+      " Out of all 3 groups, 7 or more physicians had the highest Number of new patients in Country South and 1-2 physicians had the lowest Number of new patients in Country West. ",
+      " Among all the Countrys, 1-2 physicians had the highest Number of new patients in Country South and lowest Number of new patients in Country West. ",
+      "Country South and West had the biggest gap of 35.0 between the highest and lowest Number of new patients found for 1-2 physicians. "
+   ],
+   "xAxis": "Country",
+   "yAxis": "Number of new patients",
+   "min_summary": [
+      "This grouped bar chart shows Number of new patients on the Y-axis for 4 different Countrys for 3 groups 1-2 physicians, 3-6 physicians, and 7 or more physicians that are presented on the X-axis. ",
+      " Out of all 3 groups, 7 or more physicians had the highest Number of new patients in Country South and 1-2 physicians had the lowest Number of new patients in Country West. "
+   ],
+   "mid_summary": [
+      "This grouped bar chart represents 4 different Countrys on X-axis for 3 groups 1-2 physicians, 3-6 physicians, and 7 or more physicians. On the Y-axis it shows their corresponding Number of new patients. ",
+      " Out of all 3 groups, 7 or more physicians had the highest Number of new patients in Country South and 1-2 physicians had the lowest Number of new patients in Country West. ",
+      " Among all the Countrys, 1-2 physicians had the highest Number of new patients in Country South and lowest Number of new patients in Country West. ",
+      "Country South and West had the biggest gap of 35.0 between the highest and lowest Number of new patients found for 1-2 physicians. "
+   ],
+   "max_summary": [
+      "This grouped bar chart represents 4 different Countrys on X-axis for 3 groups 1-2 physicians, 3-6 physicians, and 7 or more physicians. On the Y-axis it shows their corresponding Number of new patients. ",
+      " Country South had the maximum Number of new patients among all 3 groups, and it was for 7 or more physicians. The minimum Number of new patients was observed in Country West for 1-2 physicians. ",
+      " In Country South, 1-2 physicians had the highest Number of new patients among all 4 Countrys and it has the lowest Number of new patients in Country West. ",
+      "Country South and West had the biggest gap of 35.0 between the highest and lowest Number of new patients found for 1-2 physicians. ",
+      " Among the groups, 1-2 physicians had the biggest difference in Number of new patients. Where the maximum Number of new patients was 2.46 times larger than the minimum Number of new patients. ",
+      " 7 or more physicians had the maximum Number of new patients out of all 3 groups in Country South followed by 7 or more physicians in South, and the minimum Number of new patients is found for 1-2 physicians in West. ",
+      "Averaging all 3 groups 1-2 physicians, 3-6 physicians, and 7 or more physicians, the Country South is the maximum Number of new patients and Northeast is the minimum Number of new patients. "
    ],
    "trends": [
       {},

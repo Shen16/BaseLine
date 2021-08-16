@@ -1,16 +1,33 @@
 {
-   "title": "Test",
+   "title": "Type of tea most consumed in Great Britain 2014",
    "xAxis": "Type of tea",
    "yAxis": "Share of respondents",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 13 categories on the x axis representing Type of tea, and Share of respondents in each Type of tea on the y axis.",
-      "English breakfast is higher than any other categories with value 52.0, followed by , and Earl Grey. Down to category Chai with the lowest value of 7.0. ",
-      " The highest value at English breakfast is almost 7.43 times larger than the minimum value of Chai. ",
-      " The highest value at English breakfast is almost 7.43 times larger than the minimum value of Chai. ",
-      " The difference between the max Type of tea English breakfast and min Type of tea Chai is 45.0. "
+      "This is a bar chart. It shows Share of respondents for 13 number of Type of teas. ",
+      "Type of tea English breakfast has the highest Share of respondents and Chai has the lowest Share of respondents. ",
+      "The highest Type of tea English breakfast has 45.0 more Share of respondents than the lowest Type of tea Chai. "
+   ],
+   "min_summary": [
+      "This bar chart has 13 columns on the x axis representing Type of tea, and Share of respondents in each Type of tea on the y axis. ",
+      "The Share of respondents is appeared to be the highest at Type of tea English breakfast and lowest at Type of tea Chai. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Share of respondents for 13 number of Type of teas. ",
+      "Type of tea English breakfast has the highest Share of respondents and Chai has the lowest Share of respondents. ",
+      "The highest Type of tea English breakfast has 45.0 more Share of respondents than the lowest Type of tea Chai. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Share of respondents for 13 number of Type of teas. ",
+      "Type of tea English breakfast has the highest Share of respondents and Chai has the lowest Share of respondents. ",
+      "Type of tea Green has the second highest value for Share of respondents. ",
+      "The highest Type of tea English breakfast has 45.0 more Share of respondents than the lowest Type of tea Chai. ",
+      "Share of respondents at Type of tea English breakfast is 52.0 , second place is Green at 23.0, and thirdly is Earl Grey at 22.0.",
+      "Type of tea Peppermint, and Other have a similar Share of respondents that is 16.0. ",
+      "The Type of tea Chai has 2.99 times less Share of respondents than average. ",
+      "The Share of respondents is 226.0 if we add up values of all Type of teas. "
    ],
    "trends": [
       {},

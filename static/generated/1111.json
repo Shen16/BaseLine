@@ -1,16 +1,32 @@
 {
-   "title": "Test",
+   "title": "Countries with the highest proportion of soccer players 2010",
    "xAxis": "Country",
    "yAxis": "Proportion of soccer players",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 5 categories on the x axis representing Country, and Proportion of soccer players in each Country on the y axis.",
-      "Germany is higher than any other categories with value 19.8, followed by , and Paraguay. Down to category The Netherlands with the lowest value of 10.4. ",
-      " The highest value at Germany is almost 1.9 times larger than the minimum value of The Netherlands. ",
-      " The highest value at Germany is almost 1.9 times larger than the minimum value of The Netherlands. ",
-      " The difference between the max Country Germany and min Country The Netherlands is 9.4. "
+      "This is a bar chart. It shows Proportion of soccer players for 5 number of Countrys. ",
+      "The Proportion of soccer players is highest at Country Germany and lowest at Country The Netherlands. ",
+      "The highest Country Germany has 9.4 more Proportion of soccer players than the lowest Country The Netherlands. "
+   ],
+   "min_summary": [
+      "This bar chart has 5 columns on the x axis representing Country, and Proportion of soccer players in each Country on the y axis. ",
+      "The maximum Proportion of soccer players 19.8 is found at Country Germany and the minimum is found at The Netherlands where Country is 10.4. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Proportion of soccer players for 5 number of Countrys. ",
+      "The Proportion of soccer players is highest at Country Germany and lowest at Country The Netherlands. ",
+      "The highest Country Germany has 9.4 more Proportion of soccer players than the lowest Country The Netherlands. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Proportion of soccer players for 5 number of Countrys. ",
+      "The Proportion of soccer players is appeared to be the highest at Country Germany and lowest at Country The Netherlands. ",
+      "Second maximum Proportion of soccer players is found at Country Chile. ",
+      "The Proportion of soccer players of Country Germany is 1.9% larger than the minimum value at The Netherlands. ",
+      "Proportion of soccer players at Country Germany is 19.8 , second place is Chile at 15.7, and thirdly is Paraguay at 14.8.",
+      "The average Proportion of soccer players in all 5 Countrys is 14.42. ",
+      "The Proportion of soccer players is 72.1 if we add up values of all Countrys. "
    ],
    "trends": [
       {},

@@ -1,5 +1,5 @@
 {
-   "title": "Test",
+   "title": "World rankings of Men 's World Handball Championships 1938 to 2013",
    "labels": [
       "Year",
       "World Champion",
@@ -10,14 +10,40 @@
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This is a multi-line chart with 3 lines representing World Champion, 2nd, and 3rd. ",
-      "The line for 3rd has the highest values across Year with a mean value of 1.77, ",
-      "and it peaked at Sweden, and Yugoslavia with a value of 4.0.",
-      "Followed by 2nd, with a mean value of 1.8. ",
-      "This line peaked at Germany/GDR with a value of 4.0. ",
-      "World Champion mostly had the least y-axis name with a mean value of 1.77, ",
-      "which peaked at France, Romania, and Sweden with a value of 4.0. ",
-      "Overall 3rd is rapidly increasing, World Champion is gradually increasing, 2nd is roughly constant,  throughout the Year"
+      "The given chart is of multi-line type with 3 lines namely World Champion, 2nd, and 3rd. The y axis represents SOME LABEL and the x axis represents Year.",
+      "Overall 3rd is rapidly increasing, World Champion is gradually increasing, 2nd is roughly constant,  throughout the Year",
+      "The ranking of the lines from topmost to botommmost is as follows: 1. 3rd, 2. 2nd, and lastly, 3. World Champion. ",
+      "Throughout the period, 3rd generally had the highest SOME LABEL relative to others with an average of 1.77, and it reached its maximum at Sweden, and Yugoslavia with a value of 4.0.",
+      "Followed by 2nd which ranks as the second topmpost line , with an average of 1.8 SOME LABEL,reaching its highest point  at Germany/GDR with a value of 4.0. ",
+      "World Champion mostly had the least SOME LABEL with a mean value of 1.77, which peaked at France, Romania, and Sweden with a value of 4.0. ",
+      "3rd has increased by 39999999999900.0 percent."
+   ],
+   "xAxis": "Year",
+   "yAxis": "SOME LABEL",
+   "min_summary": [
+      "You are viewing a chart of multi-line type with 3 lines denoting World Champion, 2nd, and 3rd. The y axis indicates the SOME LABEL and the x axis indicates Year.",
+      "Overall 3rd is rapidly increasing, World Champion is gradually increasing, 2nd is roughly constant,  throughout the Year",
+      "Throughout the period, 3rd generally had the highest SOME LABEL relative to others with an average of 1.77, and it reached its maximum at Sweden, and Yugoslavia with a value of 4.0.",
+      "Followed by 2nd which ranks as the second topmpost line , with an average of 1.8 SOME LABEL,reaching its highest point  at Germany/GDR with a value of 4.0. ",
+      "World Champion mostly had the least SOME LABEL with a mean value of 1.77, which peaked at France, Romania, and Sweden with a value of 4.0. "
+   ],
+   "mid_summary": [
+      "You are viewing a chart of multi-line type with 3 lines denoting World Champion, 2nd, and 3rd. The y axis indicates the SOME LABEL and the x axis indicates Year.",
+      "Overall 3rd is rapidly increasing, World Champion is gradually increasing, 2nd is roughly constant,  throughout the Year",
+      "3rd has increased by 39999999999900.0 percent.",
+      "The ranking of the lines from topmost to botommmost is as follows: 1. 3rd, 2. 2nd, and lastly, 3. World Champion. ",
+      "Throughout the period, 3rd generally had the highest SOME LABEL relative to others with an average of 1.77, and it reached its maximum at Sweden, and Yugoslavia with a value of 4.0.",
+      "Followed by 2nd which ranks as the second topmpost line , with an average of 1.8 SOME LABEL,reaching its highest point  at Germany/GDR with a value of 4.0. ",
+      "World Champion mostly had the least SOME LABEL with a mean value of 1.77, which peaked at France, Romania, and Sweden with a value of 4.0. "
+   ],
+   "max_summary": [
+      "The given chart is of multi-line type with 3 lines namely World Champion, 2nd, and 3rd. The y axis represents SOME LABEL and the x axis represents Year.",
+      "Overall 3rd is rapidly increasing, World Champion is gradually increasing, 2nd is roughly constant,  throughout the Year",
+      "3rd has increased by 39999999999900.0 percent.",
+      "The lines ordered according to average values of SOME LABEL in descending order is: 1. 3rd, 2. 2nd, and lastly, 3. World Champion. ",
+      "Throughout the period, 3rd generally had the highest SOME LABEL relative to others with an average of 1.77, and it reached its maximum at Sweden, and Yugoslavia with a value of 4.0.",
+      "Followed by 2nd which ranks as the second topmpost line , with an average of 1.8 SOME LABEL,reaching its highest point  at Germany/GDR with a value of 4.0. ",
+      "World Champion mostly had the least SOME LABEL with a mean value of 1.77, which peaked at France, Romania, and Sweden with a value of 4.0. "
    ],
    "trends": [
       {},

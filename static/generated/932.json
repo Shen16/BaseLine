@@ -1,48 +1,42 @@
 {
-   "title": "Test",
+   "title": "Global revenue of Puma 2000 to 2019",
    "xAxis": "Year",
    "yAxis": "Revenue in billion euros",
    "columnType": "two",
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Revenue in billion euros, with a total of 20 data points.",
+      "This is a line chart with an x axis representing Year and a y axis representing Revenue in billion euros, containing a total of 20 data points.",
       " Overall Revenue in billion euros has increased over the Year.",
-      "Revenue in billion euros is rapidly increasing from 2000 to 2006, roughly constant from 2006 to 2009, roughly increasing from 2009 to 2010, roughly constant from 2010 to 2016, and lastly roughly increasing from 2016 to 2019.",
+      "Revenue in billion euros is rapidly increasing from 2000 to 2006, roughly constant from 2006 to 2009, roughly increasing from 2009 to 2010, roughly constant from 2010 to 2016, and finally roughly increasing from 2016 to 2019.",
+      "The line drastically ",
+      "The most drastic increase took place within the Year 2018 and 2019.",
+      "Maximum Revenue in billion euros, about 5.5 was reported at Year 2019",
+      "Minimum Revenue in billion euros about 0.46 was reached at Year 2000"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Revenue in billion euros. In total the number of data points it has is 20.",
+      " Overall Revenue in billion euros has increased over the Year.",
+      "Revenue in billion euros is rapidly increasing from 2000 to 2006, roughly constant from 2006 to 2009, roughly increasing from 2009 to 2010, roughly constant from 2010 to 2016, and finally roughly increasing from 2016 to 2019."
+   ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Revenue in billion euros. In total the number of data points it has is 20.",
+      " In general Revenue in billion euros has rose over the Year.",
+      "Revenue in billion euros is rapidly increasing from 2000 to 2006, roughly constant from 2006 to 2009, roughly increasing from 2009 to 2010, roughly constant from 2010 to 2016, and finally roughly increasing from 2016 to 2019.",
+      "The most drastic increase took place within the Year 2018 and 2019.",
+      "Maximum Revenue in billion euros, about 5.5 was reported at Year 2019",
+      "Minimum Revenue in billion euros about 0.46 was reached at Year 2000"
+   ],
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Revenue in billion euros. In total the number of data points it has is 20.",
+      " Overall Revenue in billion euros has increased over the Year.",
+      "Revenue in billion euros is rapidly increasing from 2000 to 2006, roughly constant from 2006 to 2009, roughly increasing from 2009 to 2010, roughly constant from 2010 to 2016, and finally roughly increasing from 2016 to 2019.",
       "The steepest increase occurs in between the Year 2018 and 2019.",
-      "Max Revenue in billion euros about 5.5 was recorded at Year 2019",
-      "Min Revenue in billion euros about 0.46 was recorded at Year 2000",
-      "#########################################################################",
-      "This line chart has an x axis representing Year and a y axis representing Revenue in billion euros, with a total of 20 data points. The chart has 5 significant trends.",
-      " The longest trend is moderately increasing which exists from 2000 to 2007.",
-      " Correspondingly, the next significant trend is extremely increasing which exists from 2014 to 2019.",
-      " Likewise, the next significant trend is moderately increasing which exists from 2009 to 2012.",
-      " Similarly, the next significant trend is slightly decreasing which exists from 2012 to 2014.",
-      " Conversely, the next significant trend is moderately increasing which exists from 2007 to 2009."
+      "Maximum Revenue in billion euros, about 5.5 was reported at Year 2019",
+      "Minimum Revenue in billion euros about 0.46 was reached at Year 2000",
+      "The line significantly "
    ],
-   "trends": [
-      {},
-      {
-         "1": "12",
-         "12": "19"
-      },
-      {
-         "3": "0",
-         "14": "5"
-      },
-      {
-         "3": "7",
-         "14": "10"
-      },
-      {
-         "3": "5",
-         "14": "7"
-      },
-      {
-         "3": "10",
-         "14": "12"
-      }
-   ],
+   "trends": [],
    "data": [
       {
          "Year": "2019",

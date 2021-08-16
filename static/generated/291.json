@@ -1,33 +1,42 @@
 {
-   "title": "Test",
+   "title": "BMW Group - shipments 2006 to 2018",
    "xAxis": "Year",
    "yAxis": "Automobile sales in units",
    "columnType": "two",
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Automobile sales in units, with a total of 13 data points.",
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Automobile sales in units. In total the number of data points it has is 13.",
       " Overall Automobile sales in units has increased over the Year.",
-      "Automobile sales in units is roughly constant from 2006 to 2008, roughly decreasing from 2008 to 2009, gradually increasing from 2009 to 2015, and lastly roughly constant from 2015 to 2018.",
+      "Automobile sales in units is roughly constant from 2006 to 2008, roughly decreasing from 2008 to 2009, gradually increasing from 2009 to 2015, and finally roughly constant from 2015 to 2018.",
+      "The line drastically ",
+      "The most drastic increase took place within the Year 2010 and 2011.",
+      "The highest Automobile sales in units, of value 2490664.0 was reached at Year 2018",
+      "Minimum Automobile sales in units about 1286310.0 was reached at Year 2009"
+   ],
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Automobile sales in units, containing a total of 13 data points.",
+      " Overall Automobile sales in units has increased over the Year.",
+      "Automobile sales in units is roughly constant from 2006 to 2008, roughly decreasing from 2008 to 2009, gradually increasing from 2009 to 2015, and finally roughly constant from 2015 to 2018."
+   ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Automobile sales in units, containing a total of 13 data points.",
+      " In general Automobile sales in units has rose over the Year.",
+      "Automobile sales in units is roughly constant from 2006 to 2008, roughly decreasing from 2008 to 2009, gradually increasing from 2009 to 2015, and finally roughly constant from 2015 to 2018.",
       "The steepest increase occurs in between the Year 2010 and 2011.",
-      "Max Automobile sales in units about 2490664.0 was recorded at Year 2018",
-      "Min Automobile sales in units about 1286310.0 was recorded at Year 2009",
-      "#########################################################################",
-      "This line chart has an x axis representing Year and a y axis representing Automobile sales in units, with a total of 13 data points. The chart has 2 significant trends.",
-      " The longest trend is extremely increasing which exists from 2009 to 2018.",
-      " Correspondingly, the next significant trend is slightly decreasing which exists from 2006 to 2009."
+      "The highest Automobile sales in units, of value 2490664.0 was reached at Year 2018",
+      "Minimum Automobile sales in units about 1286310.0 was reached at Year 2009"
    ],
-   "trends": [
-      {},
-      {
-         "1": "0",
-         "12": "9"
-      },
-      {
-         "3": "9",
-         "14": "12"
-      }
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Automobile sales in units. In total the number of data points it has is 13.",
+      " In general Automobile sales in units has rose over the Year.",
+      "Automobile sales in units is roughly constant from 2006 to 2008, roughly decreasing from 2008 to 2009, gradually increasing from 2009 to 2015, and finally roughly constant from 2015 to 2018.",
+      "The most drastic increase took place within the Year 2010 and 2011.",
+      "The highest Automobile sales in units, of value 2490664.0 was reached at Year 2018",
+      "Minimum Automobile sales in units about 1286310.0 was reached at Year 2009",
+      "The line significantly "
    ],
+   "trends": [],
    "data": [
       {
          "Year": "2018",

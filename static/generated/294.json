@@ -1,5 +1,5 @@
 {
-   "title": "Test",
+   "title": "Twitter : top mentioned hashtags of the Oscars 2017",
    "labels": [
       "Hashtags",
       "Tweets",
@@ -9,11 +9,30 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart has 10 categories of Hashtags on the x axis representing 2 groups: Tweets, and Retweets.",
-      " Averaging these 2 groups, the highest category is found for Hashtags #Oscars with a mean value of 1390832.0.",
-      " The lowest category is observed at #OSCARS that has a mean value of 16616.5",
-      " showing a difference of 195.3% with the maximum value.",
-      " In case of #Oscars, Tweets shows more dominance than any other Hashtags and it has the lowest value in #WinnerIsDJT. "
+      "This grouped bar chart represents 10 different Hashtagss on X-axis for 2 groups Tweets, and Retweets. On the Y-axis it shows their corresponding Number of mentions. ",
+      " Out of all 2 groups, Retweets had the highest Number of mentions in Hashtags #Oscars and Tweets had the lowest Number of mentions in Hashtags #WinnerIsDJT. ",
+      " Among all the Hashtagss, Retweets had the highest Number of mentions in Hashtags #Oscars and lowest Number of mentions in Hashtags #OSCARS. ",
+      " The maximum Number of mentions for Retweets that was found in Hashtags #Oscars was 74.09 times larger than the minimum Number of mentions observed in Hashtags #OSCARS. "
+   ],
+   "xAxis": "Hashtags",
+   "yAxis": "Number of mentions",
+   "min_summary": [
+      "This grouped bar chart represents 10 different Hashtagss on X-axis for 2 groups Tweets, and Retweets. On the Y-axis it shows their corresponding Number of mentions. ",
+      " Hashtags #Oscars had the maximum Number of mentions among all 2 groups, and it was for Retweets. The minimum Number of mentions was observed in Hashtags #WinnerIsDJT for Tweets. "
+   ],
+   "mid_summary": [
+      "This grouped bar chart represents 10 different Hashtagss on X-axis for 2 groups Tweets, and Retweets. On the Y-axis it shows their corresponding Number of mentions. ",
+      " Out of all 2 groups, Retweets had the highest Number of mentions in Hashtags #Oscars and Tweets had the lowest Number of mentions in Hashtags #WinnerIsDJT. ",
+      " Among all the Hashtagss, Retweets had the highest Number of mentions in Hashtags #Oscars and lowest Number of mentions in Hashtags #OSCARS. ",
+      " The maximum Number of mentions for Retweets that was found in Hashtags #Oscars was 74.09 times larger than the minimum Number of mentions observed in Hashtags #OSCARS. "
+   ],
+   "max_summary": [
+      "This grouped bar chart represents 10 different Hashtagss on X-axis for 2 groups Tweets, and Retweets. On the Y-axis it shows their corresponding Number of mentions. ",
+      " Out of all 2 groups, Retweets had the highest Number of mentions in Hashtags #Oscars and Tweets had the lowest Number of mentions in Hashtags #WinnerIsDJT. ",
+      " Among all the Hashtagss, Retweets had the highest Number of mentions 1987739.0 in Hashtags #Oscars and lowest value 26829.0 in Hashtags #OSCARS. ",
+      " The maximum Number of mentions for Retweets that was found in Hashtags #Oscars was 74.09 times larger than the minimum Number of mentions observed in Hashtags #OSCARS. ",
+      " Among all 2 groups, Tweets had the gap of 793070.0 between the maximum and minimum Number of mentions observed in Hashtags #Oscars and #WinnerIsDJT respectively. ",
+      "Averaging all 2 groups Tweets, and Retweets, the Hashtags #Oscars is the maximum Number of mentions and #OSCARS is the minimum Number of mentions. "
    ],
    "trends": [
       {},

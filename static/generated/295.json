@@ -1,16 +1,32 @@
 {
-   "title": "Test",
+   "title": "10 Countries in Asia Pacific with the largest number of Christians in 2010",
    "xAxis": "Country",
    "yAxis": "Estimated Christian population in millions",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 10 categories on the x axis representing Country, and Estimated Christian population in millions in each Country on the y axis.",
-      "Philippines is higher than any other categories with value 86.79, followed by , and India. Down to category Burma (Myanmar) with the lowest value of 3.79. ",
-      " The highest value at Philippines is almost 22.9 times larger than the minimum value of Burma (Myanmar). ",
-      " The highest value at Philippines is almost 22.9 times larger than the minimum value of Burma (Myanmar). ",
-      " The difference between the max Country Philippines and min Country Burma (Myanmar) is 83.0. "
+      "This is a bar chart representing Country in the x axis and Estimated Christian population in millions in the y axis. ",
+      "The Estimated Christian population in millions is highest at Country Philippines and lowest at Country Burma (Myanmar). ",
+      "The highest Country Philippines has 83.0 more Estimated Christian population in millions than the lowest Country Burma (Myanmar). "
+   ],
+   "min_summary": [
+      "This bar chart has 10 columns on the x axis representing Country, and Estimated Christian population in millions in each Country on the y axis. ",
+      "The maximum Estimated Christian population in millions 86.79 is found at Country Philippines and the minimum is found at Burma (Myanmar) where Country is 3.79. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Country in the x axis and Estimated Christian population in millions in the y axis. ",
+      "The Estimated Christian population in millions is highest at Country Philippines and lowest at Country Burma (Myanmar). ",
+      "The highest Country Philippines has 83.0 more Estimated Christian population in millions than the lowest Country Burma (Myanmar). "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Country in the x axis and Estimated Christian population in millions in the y axis. ",
+      "The Estimated Christian population in millions is appeared to be the highest at Country Philippines and lowest at Country Burma (Myanmar). ",
+      "The second highest Estimated Christian population in millions is appeared to be the Country China. ",
+      "There is a difference of 83.0 between the maximum Country Philippines and minimum Country Burma (Myanmar). ",
+      "Estimated Christian population in millions at Country Philippines is 86.79 , second place is China at 67.07, and thirdly is India at 31.85.",
+      "The Country Burma (Myanmar) tends to be 3.35 percent lower than average. ",
+      "The Estimated Christian population in millions is 258.81 if we add up values of all Countrys. "
    ],
    "trends": [
       {},

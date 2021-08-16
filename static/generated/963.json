@@ -1,16 +1,33 @@
 {
-   "title": "Test",
+   "title": "India 's petroleum imports by value 2010 to 2019",
    "xAxis": "Years",
    "yAxis": "Import value in billion Indian rupees",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 9 categories on the x axis representing Years, and Import value in billion Indian rupees in each Years on the y axis.",
-      "FY 2014 is higher than any other categories with value 9978.85, followed by , and FY 2013. Down to category FY 2011 with the lowest value of 4822.82. ",
-      " The highest value at FY 2014 is almost 2.07 times larger than the minimum value of FY 2011. ",
-      " The highest value at FY 2014 is almost 2.07 times larger than the minimum value of FY 2011. ",
-      " The difference between the max Years FY 2014 and min Years FY 2011 is 5156.030000000001. "
+      "This bar chart has 9 columns on the x axis representing Years, and Import value in billion Indian rupees in each Years on the y axis. ",
+      "The Import value in billion Indian rupees is appeared to be the highest at Years FY 2014 and lowest at Years FY 2011. ",
+      "There is a difference of 5156.03 between the maximum Years FY 2014 and minimum Years FY 2011. "
+   ],
+   "min_summary": [
+      "This bar chart has 9 columns on the x axis representing Years, and Import value in billion Indian rupees in each Years on the y axis. ",
+      "The Import value in billion Indian rupees is highest at Years FY 2014 and lowest at Years FY 2011. "
+   ],
+   "mid_summary": [
+      "This bar chart has 9 columns on the x axis representing Years, and Import value in billion Indian rupees in each Years on the y axis. ",
+      "The Import value in billion Indian rupees is appeared to be the highest at Years FY 2014 and lowest at Years FY 2011. ",
+      "There is a difference of 5156.03 between the maximum Years FY 2014 and minimum Years FY 2011. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Years in the x axis and Import value in billion Indian rupees in the y axis. ",
+      "Years FY 2014 has the highest Import value in billion Indian rupees and FY 2011 has the lowest Import value in billion Indian rupees. ",
+      "Years FY 2019 has the second highest value for Import value in billion Indian rupees. ",
+      "The highest value at Years FY 2014 is 2.07x times more than the lowest value at FY 2011. ",
+      "Years FY 2014 is higher than any other Yearss with value 9978.85, followed by FY 2019, and FY 2013. Down to Years FY 2011 with the lowest value 4822.82. ",
+      "Over the past 9 Yearss, the Import value in billion Indian rupees has lowered. ",
+      "Considered together, the average Import value in billion Indian rupees in all 9 Yearss is roughly 7520.05. ",
+      "Summing up the values of all Yearss, we get total 67680.47. "
    ],
    "trends": [
       {},

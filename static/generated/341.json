@@ -1,5 +1,5 @@
 {
-   "title": "Test",
+   "title": "High schools with girls athletics programs in the U.S. by sport 2009 to 2019",
    "labels": [
       "Year",
       "Basketball",
@@ -17,14 +17,34 @@
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This is a multi-line chart with 10 lines representing Basketball, Track and Field - Outdoor, Volleyball, Softball - Fast Pitch, Cross Country, Soccer, Tennis, Golf, Swimming and Diving, and Competitive Spirit Squads. ",
-      "The line for Basketball has the highest values across Year with a mean value of 17835.1, ",
-      "and it peaked at 2018/19 with a value of 18210.0.",
-      "Followed by Track and Field - Outdoor, with a mean value of 16371.3. ",
-      "This line peaked at 2018/19 with a value of 17012.0. ",
-      "Competitive Spirit Squads mostly had the least y-axis name with a mean value of 5524.9, ",
-      "which peaked at 2018/19 with a value of 7214.0. ",
-      "Overall Competitive Spirit Squads is gradually increasing, Basketball, Track and Field - Outdoor, Volleyball, Softball - Fast Pitch, Cross Country, Soccer, Tennis, Golf, and Swimming and Diving are roughly constant,  throughout the Year"
+      "You are viewing a chart of multi-line type with 10 lines denoting Basketball, Track and Field - Outdoor, Volleyball, Softball - Fast Pitch, Cross Country, Soccer, Tennis, Golf, Swimming and Diving, and Competitive Spirit Squads. The y axis indicates the Number of high schools and the x axis indicates Year.",
+      "Overall Track and Field - Outdoor, Volleyball, Cross Country, Soccer, and Competitive Spirit Squads are gradually increasing, Basketball, Softball - Fast Pitch, Tennis, Golf, and Swimming and Diving are roughly constant,  throughout the Year",
+      "Overall across the Year, Basketball mostly maintained the highest Number of high schools when compared to others with a mean value of 17835.1, and it peaked at 2018/19.",
+      "Followed by Track and Field - Outdoor which ranks as the second topmpost line , with an average of 16371.3 Number of high schools,reaching its highest point  at 2018/19 with a value of 17012.0. ",
+      "Competitive Spirit Squads mostly had the least Number of high schools with a mean value of 5524.9, which peaked at 2018/19 with a value of 7214.0. "
+   ],
+   "xAxis": "Year",
+   "yAxis": "Number of high schools",
+   "min_summary": [
+      "This is a multi-line chart with 10 lines representing Basketball, Track and Field - Outdoor, Volleyball, Softball - Fast Pitch, Cross Country, Soccer, Tennis, Golf, Swimming and Diving, and Competitive Spirit Squads. The y axis denotes Number of high schools and the x axis denotes Year.",
+      "Overall Track and Field - Outdoor, Volleyball, Cross Country, Soccer, and Competitive Spirit Squads are gradually increasing, Basketball, Softball - Fast Pitch, Tennis, Golf, and Swimming and Diving are roughly constant,  throughout the Year",
+      "Overall across the Year, Basketball mostly maintained the highest Number of high schools when compared to others with a mean value of 17835.1, and it peaked at 2018/19.",
+      "Followed by Track and Field - Outdoor which ranks as the second topmpost line , with an average of 16371.3 Number of high schools,reaching its highest point  at 2018/19 with a value of 17012.0. ",
+      "The botommost line, Competitive Spirit Squads,  has a mean of 5524.9, and peaked at 2018/19. "
+   ],
+   "mid_summary": [
+      "The given chart is of multi-line type with 10 lines namely Basketball, Track and Field - Outdoor, Volleyball, Softball - Fast Pitch, Cross Country, Soccer, Tennis, Golf, Swimming and Diving, and Competitive Spirit Squads. The y axis represents Number of high schools and the x axis represents Year.",
+      "Overall Track and Field - Outdoor, Volleyball, Cross Country, Soccer, and Competitive Spirit Squads are gradually increasing, Basketball, Softball - Fast Pitch, Tennis, Golf, and Swimming and Diving are roughly constant,  throughout the Year",
+      "Overall across the Year, Basketball mostly maintained the highest Number of high schools when compared to others with a mean value of 17835.1, and it peaked at 2018/19.",
+      "Followed by Track and Field - Outdoor which ranks as the second topmpost line , with an average of 16371.3 Number of high schools,reaching its highest point  at 2018/19 with a value of 17012.0. ",
+      "The botommost line, Competitive Spirit Squads,  has a mean of 5524.9, and peaked at 2018/19. "
+   ],
+   "max_summary": [
+      "The given chart is of multi-line type with 10 lines namely Basketball, Track and Field - Outdoor, Volleyball, Softball - Fast Pitch, Cross Country, Soccer, Tennis, Golf, Swimming and Diving, and Competitive Spirit Squads. The y axis represents Number of high schools and the x axis represents Year.",
+      "Overall Track and Field - Outdoor, Volleyball, Cross Country, Soccer, and Competitive Spirit Squads are gradually increasing, Basketball, Softball - Fast Pitch, Tennis, Golf, and Swimming and Diving are roughly constant,  throughout the Year",
+      "Overall across the Year, Basketball mostly maintained the highest Number of high schools when compared to others with a mean value of 17835.1, and it peaked at 2018/19.",
+      "Followed by Track and Field - Outdoor which ranks as the second topmpost line , with an average of 16371.3 Number of high schools,reaching its highest point  at 2018/19 with a value of 17012.0. ",
+      "The botommost line, Competitive Spirit Squads,  has a mean of 5524.9, and peaked at 2018/19. "
    ],
    "trends": [
       {},

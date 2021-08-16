@@ -1,5 +1,5 @@
 {
-   "title": "Test",
+   "title": "Quarterly average daily rate of hotels in Barcelona 2010 to 2017",
    "labels": [
       "Quarter",
       "2010",
@@ -15,12 +15,32 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart has 4 categories of Quarter on the x axis representing 8 groups: 2010, 2011, 2012, 2013, 2014, 2015, 2016, and 2017.",
-      " Averaging these 8 groups, the highest category is found for Quarter Q1 with a mean value of 140.12.",
-      " Followed by Q2 with a mean value of 138.12.",
-      " The lowest category is observed at Q4 that has a mean value of 127.38",
-      " showing a difference of 9.5% with the maximum value.",
-      " In case of Q2, 2010 shows more dominance than any other Quarter with a value 130.0 and it has the lowest value 116.0 in Q1.  However, 2017 being the 2nd most important group, has the highest value 163.0 for Quarter Q1 and the lowest 0.0 in case of Q4. "
+      "This grouped bar chart represents 4 different Quarters on X-axis for 8 groups 2010, 2011, 2012, 2013, 2014, 2015, 2016, and 2017. On the Y-axis it shows their corresponding SOME LABEL. ",
+      " Over the 4 Quarters, the SOME LABEL for 2012 have been grew whereas reduced for 2011. ",
+      " Out of all 8 groups, 2015 had the highest SOME LABEL in Quarter Q3 and 2017 had the lowest SOME LABEL in Quarter Q4. ",
+      " Among all the Quarters, 2012 had the highest SOME LABEL in Quarter Q2 and lowest SOME LABEL in Quarter Q4. "
+   ],
+   "xAxis": "Quarter",
+   "yAxis": "SOME LABEL",
+   "min_summary": [
+      "This grouped bar chart shows SOME LABEL on the Y-axis for 4 different Quarters for 8 groups 2010, 2011, 2012, 2013, 2014, 2015, 2016, and 2017 that are presented on the X-axis. ",
+      " All through the Quarters, the SOME LABEL for 2012 have grew. On the other hand, for 2011 the SOME LABEL have reduced. "
+   ],
+   "mid_summary": [
+      "This grouped bar chart represents 4 different Quarters on X-axis for 8 groups 2010, 2011, 2012, 2013, 2014, 2015, 2016, and 2017. On the Y-axis it shows their corresponding SOME LABEL. ",
+      " Over the 4 Quarters, the SOME LABEL for 2012 have been grew whereas reduced for 2011. ",
+      " Out of all 8 groups, 2015 had the highest SOME LABEL in Quarter Q3 and 2017 had the lowest SOME LABEL in Quarter Q4. ",
+      " Among all the Quarters, 2012 had the highest SOME LABEL in Quarter Q2 and lowest SOME LABEL in Quarter Q4. "
+   ],
+   "max_summary": [
+      "This grouped bar chart represents 4 different Quarters on X-axis for 8 groups 2010, 2011, 2012, 2013, 2014, 2015, 2016, and 2017. On the Y-axis it shows their corresponding SOME LABEL. ",
+      " Over the 4 Quarters, the SOME LABEL for 2012 have been grew whereas reduced for 2011. ",
+      " Out of all 8 groups, 2015 had the highest SOME LABEL in Quarter Q3 and 2017 had the lowest SOME LABEL in Quarter Q4. ",
+      " In Quarter Q2, 2012 had the highest SOME LABEL among all 4 Quarters and it has the lowest SOME LABEL in Quarter Q4. ",
+      " There is a gap of 21.0 between the highest and lowest SOME LABEL found for 2012 in Quarter Q2 and Q4. ",
+      " Out of all 8 groups, the highest gap between the maximum and minimum SOME LABEL was found in case of 2011. ",
+      " In Quarter Q3, 2015 had the highest SOME LABEL 182.0 among the 8 groups and in Q4, 2017 had the lowest SOME LABEL 0.0. The second highest SOME LABEL 135.0 was observed for 2015 in Quarter Q3. ",
+      "Averaging all 8 groups 2010, 2011, 2012, 2013, 2014, 2015, 2016, and 2017, the Quarter Q1 is the maximum SOME LABEL and Q4 is the minimum SOME LABEL. "
    ],
    "trends": [
       {},

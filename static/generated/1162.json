@@ -1,28 +1,42 @@
 {
-   "title": "Test",
+   "title": "FIFA World Cup winner 's prize money 2018",
    "xAxis": "Year",
    "yAxis": "Prize money in million U.S. dollars",
    "columnType": "two",
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Prize money in million U.S. dollars, with a total of 5 data points.",
+      "This is a line chart with an x axis representing Year and a y axis representing Prize money in million U.S. dollars, containing a total of 5 data points.",
+      " In general Prize money in million U.S. dollars has rose over the Year.",
+      "Prize money in million U.S. dollars is slightly increasing from 2002_(Korea_&_Japan) to 2006_(Germany), and finally roughly constant from 2006_(Germany) to 2018_(Russia).",
+      "The line significantly increased by 11.57 from Year 2002_(Korea_&_Japan) to 2006_(Germany).",
+      "The most drastic increase took place within the Year 2002_(Korea_&_Japan) and 2006_(Germany).",
+      "The highest Prize money in million U.S. dollars, of value 38.0 was reached at Year 2018_(Russia)",
+      "Minimum Prize money in million U.S. dollars about 7.99 was reached at Year 2002_(Korea_&_Japan)"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Prize money in million U.S. dollars. In total the number of data points it has is 5.",
+      " In general Prize money in million U.S. dollars has rose over the Year.",
+      "Prize money in million U.S. dollars is slightly increasing from 2002_(Korea_&_Japan) to 2006_(Germany), and finally roughly constant from 2006_(Germany) to 2018_(Russia)."
+   ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Prize money in million U.S. dollars, containing a total of 5 data points.",
+      " In general Prize money in million U.S. dollars has rose over the Year.",
+      "Prize money in million U.S. dollars is slightly increasing from 2002_(Korea_&_Japan) to 2006_(Germany), and finally roughly constant from 2006_(Germany) to 2018_(Russia).",
+      "The most drastic increase took place within the Year 2002_(Korea_&_Japan) and 2006_(Germany).",
+      "The highest Prize money in million U.S. dollars, of value 38.0 was reached at Year 2018_(Russia)",
+      "Minimum Prize money in million U.S. dollars about 7.99 was reached at Year 2002_(Korea_&_Japan)"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Prize money in million U.S. dollars, containing a total of 5 data points.",
       " Overall Prize money in million U.S. dollars has increased over the Year.",
-      "Prize money in million U.S. dollars is slightly increasing from 2002_(Korea_&_Japan) to 2006_(Germany), and lastly roughly constant from 2006_(Germany) to 2018_(Russia).",
+      "Prize money in million U.S. dollars is slightly increasing from 2002_(Korea_&_Japan) to 2006_(Germany), and finally roughly constant from 2006_(Germany) to 2018_(Russia).",
       "The steepest increase occurs in between the Year 2002_(Korea_&_Japan) and 2006_(Germany).",
-      "Max Prize money in million U.S. dollars about 38.0 was recorded at Year 2018_(Russia)",
-      "Min Prize money in million U.S. dollars about 7.99 was recorded at Year 2002_(Korea_&_Japan)",
-      "#########################################################################",
-      "This line chart has an x axis representing Year and a y axis representing Prize money in million U.S. dollars with a total of 5 data points. The chart has one significant trend.",
-      " This trend is increasing which exists from 2018_(Russia) to 2002_(Korea_&_Japan)."
+      "The highest Prize money in million U.S. dollars, of value 38.0 was reached at Year 2018_(Russia)",
+      "Minimum Prize money in million U.S. dollars about 7.99 was reached at Year 2002_(Korea_&_Japan)",
+      "The line significantly increased by 11.57 from Year 2002_(Korea_&_Japan) to 2006_(Germany)."
    ],
-   "trends": [
-      {},
-      {
-         "3": "0",
-         "14": "4"
-      }
-   ],
+   "trends": [],
    "data": [
       {
          "Year": "2018 (Russia)",

@@ -1,58 +1,42 @@
 {
-   "title": "Test",
+   "title": "Number of cats in the U.S. 2000 to 2017",
    "xAxis": "Year",
    "yAxis": "Number of cats in millions",
    "columnType": "two",
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Number of cats in millions, with a total of 9 data points.",
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of cats in millions. In total the number of data points it has is 9.",
+      " Overall Number of cats in millions has increased over the Year.",
+      "Number of cats in millions is gradually increasing from 2000 to 2004, roughly constant from 2004 to 2006, slightly decreasing from 2006 to 2008, and lastly roughly increasing from 2008 to 2017.",
+      "The line significantly ",
+      "The most drastic increase took place within the Year 2002 and 2004.",
+      "Maximum Number of cats in millions, about 95.6 was reported at Year 2013",
+      "Minimum Number of cats in millions about 73.0 was reached at Year 2000"
+   ],
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Number of cats in millions, containing a total of 9 data points.",
+      " Overall Number of cats in millions has increased over the Year.",
+      "Number of cats in millions is gradually increasing from 2000 to 2004, roughly constant from 2004 to 2006, slightly decreasing from 2006 to 2008, and lastly roughly increasing from 2008 to 2017."
+   ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of cats in millions. In total the number of data points it has is 9.",
       " Overall Number of cats in millions has increased over the Year.",
       "Number of cats in millions is gradually increasing from 2000 to 2004, roughly constant from 2004 to 2006, slightly decreasing from 2006 to 2008, and lastly roughly increasing from 2008 to 2017.",
       "The steepest increase occurs in between the Year 2002 and 2004.",
-      "Max Number of cats in millions about 95.6 was recorded at Year 2013",
-      "Min Number of cats in millions about 73.0 was recorded at Year 2000",
-      "#########################################################################",
-      "This line chart has an x axis representing Year and a y axis representing Number of cats in millions, with a total of 9 data points. The chart has 7 significant trends.",
-      " The longest trend is extremely increasing which exists from 2000 to 2004.",
-      " In a similar manner, the next significant trend is extremely increasing which exists from 2015 to 2017.",
-      " Correspondingly, the next significant trend is slightly decreasing which exists from 2013 to 2015.",
-      " Differently, the next significant trend is extremely increasing which exists from 2011 to 2013.",
-      " Correspondingly, the next significant trend is moderately decreasing which exists from 2008 to 2011.",
-      " On the other hand, the next significant trend is extremely increasing which exists from 2006 to 2008.",
-      " Correspondingly, the next significant trend is moderately decreasing which exists from 2004 to 2006."
+      "Maximum Number of cats in millions, about 95.6 was reported at Year 2013",
+      "Minimum Number of cats in millions about 73.0 was reached at Year 2000"
    ],
-   "trends": [
-      {},
-      {
-         "1": "6",
-         "12": "8"
-      },
-      {
-         "3": "0",
-         "14": "1"
-      },
-      {
-         "3": "1",
-         "14": "2"
-      },
-      {
-         "3": "2",
-         "14": "3"
-      },
-      {
-         "3": "3",
-         "14": "4"
-      },
-      {
-         "3": "4",
-         "14": "5"
-      },
-      {
-         "3": "5",
-         "14": "6"
-      }
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Number of cats in millions, containing a total of 9 data points.",
+      " Overall Number of cats in millions has increased over the Year.",
+      "Number of cats in millions is gradually increasing from 2000 to 2004, roughly constant from 2004 to 2006, slightly decreasing from 2006 to 2008, and lastly roughly increasing from 2008 to 2017.",
+      "The most drastic increase took place within the Year 2002 and 2004.",
+      "Maximum Number of cats in millions, about 95.6 was reported at Year 2013",
+      "Minimum Number of cats in millions about 73.0 was reached at Year 2000",
+      "The line drastically "
    ],
+   "trends": [],
    "data": [
       {
          "Year": "2017",

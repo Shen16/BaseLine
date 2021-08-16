@@ -1,16 +1,33 @@
 {
-   "title": "Test",
+   "title": "FIFA World Cup : Number of goals scored at each tournament 1930 to 2018",
    "xAxis": "Countries",
    "yAxis": "Number of goals scored",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 21 categories on the x axis representing Countries, and Number of goals scored in each Countries on the y axis.",
-      "Brazil 2014 is higher than any other categories with value 171.0, followed by , and Russia 2018. Down to category Italy 1934 with the lowest value of 70.0. ",
-      " The highest value at Brazil 2014 is almost 2.44 times larger than the minimum value of Italy 1934. ",
-      " The highest value at Brazil 2014 is almost 2.44 times larger than the minimum value of Italy 1934. ",
-      " The difference between the max Countries Brazil 2014 and min Countries Italy 1934 is 101.0. "
+      "This is a bar chart representing Countries in the x axis and Number of goals scored in the y axis. ",
+      "Countries Brazil 2014 has the highest Number of goals scored and Italy 1934 has the lowest Number of goals scored. ",
+      "The Number of goals scored of Countries Brazil 2014 is 2.44% larger than the minimum value at Italy 1934. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing Countries in the x axis and Number of goals scored in the y axis. ",
+      "Countries Brazil 2014 has the highest Number of goals scored and Italy 1934 has the lowest Number of goals scored. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Countries in the x axis and Number of goals scored in the y axis. ",
+      "Countries Brazil 2014 has the highest Number of goals scored and Italy 1934 has the lowest Number of goals scored. ",
+      "The Number of goals scored of Countries Brazil 2014 is 2.44% larger than the minimum value at Italy 1934. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Countries in the x axis and Number of goals scored in the y axis. ",
+      "The Number of goals scored is appeared to be the highest at Countries Brazil 2014 and lowest at Countries Italy 1934. ",
+      "Countries France 1998 has the second highest value for Number of goals scored. ",
+      "The highest Countries Brazil 2014 has 101.0 more Number of goals scored than the lowest Countries Italy 1934. ",
+      "Countries Brazil 2014 is higher than any other Countriess with value 171.0, followed by France 1998, and Russia 2018. Down to Countries Italy 1934 with the lowest value 70.0. ",
+      "Countries Brazil 2014, and France 1998 have the same Number of goals scored. ",
+      "The Countries Brazil 2014 tends to be 1.41 percent higher than average. ",
+      "The Number of goals scored is 2546.0 if we add up values of all Countriess. "
    ],
    "trends": [
       {},

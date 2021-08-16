@@ -1,5 +1,5 @@
 {
-   "title": "Test",
+   "title": "Population age structure in metropolitan areas in the U.S .",
    "labels": [
       "Area",
       "Under 18 years",
@@ -12,11 +12,31 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart has 10 categories of Area on the x axis representing 5 groups: Under 18 years, 18 to 44 years, 45 to 64 years, 65 to 74 years, and 75 years and over.",
-      " Averaging these 5 groups, the highest category is found for Area New York - Northern New Jersey - Long Island NY-NJ-PA with a mean value of 3813959.2.",
-      " The lowest category is observed at Boston - Cambridge - Quincy MA-NH that has a mean value of 917736.0",
-      " showing a difference of 122.4% with the maximum value.",
-      " In case of New York - Northern New Jersey - Long Island NY-NJ-PA, Under 18 years shows more dominance than any other Area with a value 4423734.0 and it has the lowest value 993673.0 in Boston - Cambridge - Quincy MA-NH.  However, 75 years and over being the 2nd most important group, has the highest value 1194134.0 for Area New York - Northern New Jersey - Long Island NY-NJ-PA and the lowest 195916.0 in case of Atlanta - Sandy Springs - Marietta GA. "
+      "This grouped bar chart shows Number of residents on the Y-axis for 10 different Areas for 5 groups Under 18 years, 18 to 44 years, 45 to 64 years, 65 to 74 years, and 75 years and over that are presented on the X-axis. ",
+      " Area New York - Northern New Jersey - Long Island NY-NJ-PA had the maximum Number of residents among all 5 groups, and it was for 18 to 44 years. The minimum Number of residents was observed in Area Atlanta - Sandy Springs - Marietta GA for 75 years and over. ",
+      " Among all the Areas, 18 to 44 years had the highest Number of residents 7135783.0 in Area New York - Northern New Jersey - Long Island NY-NJ-PA and lowest value 1758176.0 in Area Boston - Cambridge - Quincy MA-NH. ",
+      " The maximum Number of residents for 18 to 44 years that was found in Area New York - Northern New Jersey - Long Island NY-NJ-PA was 4.06 times larger than the minimum Number of residents observed in Area Boston - Cambridge - Quincy MA-NH. "
+   ],
+   "xAxis": "Area",
+   "yAxis": "Number of residents",
+   "min_summary": [
+      "This grouped bar chart represents 10 different Areas on X-axis for 5 groups Under 18 years, 18 to 44 years, 45 to 64 years, 65 to 74 years, and 75 years and over. On the Y-axis it shows their corresponding Number of residents. ",
+      " Out of all 5 groups, 18 to 44 years had the highest Number of residents in Area New York - Northern New Jersey - Long Island NY-NJ-PA and 75 years and over had the lowest Number of residents in Area Atlanta - Sandy Springs - Marietta GA. "
+   ],
+   "mid_summary": [
+      "This grouped bar chart shows Number of residents on the Y-axis for 10 different Areas for 5 groups Under 18 years, 18 to 44 years, 45 to 64 years, 65 to 74 years, and 75 years and over that are presented on the X-axis. ",
+      " Area New York - Northern New Jersey - Long Island NY-NJ-PA had the maximum Number of residents among all 5 groups, and it was for 18 to 44 years. The minimum Number of residents was observed in Area Atlanta - Sandy Springs - Marietta GA for 75 years and over. ",
+      " Among all the Areas, 18 to 44 years had the highest Number of residents 7135783.0 in Area New York - Northern New Jersey - Long Island NY-NJ-PA and lowest value 1758176.0 in Area Boston - Cambridge - Quincy MA-NH. ",
+      " The maximum Number of residents for 18 to 44 years that was found in Area New York - Northern New Jersey - Long Island NY-NJ-PA was 4.06 times larger than the minimum Number of residents observed in Area Boston - Cambridge - Quincy MA-NH. "
+   ],
+   "max_summary": [
+      "This grouped bar chart represents 10 different Areas on X-axis for 5 groups Under 18 years, 18 to 44 years, 45 to 64 years, 65 to 74 years, and 75 years and over. On the Y-axis it shows their corresponding Number of residents. ",
+      " In Area New York - Northern New Jersey - Long Island NY-NJ-PA, 18 to 44 years had the highest Number of residents 7135783.0 among the 5 groups and in Atlanta - Sandy Springs - Marietta GA, 75 years and over had the lowest Number of residents 195916.0. ",
+      " Among all the Areas, 18 to 44 years had the highest Number of residents in Area New York - Northern New Jersey - Long Island NY-NJ-PA and lowest Number of residents in Area Boston - Cambridge - Quincy MA-NH. ",
+      " The maximum Number of residents for 18 to 44 years that was found in Area New York - Northern New Jersey - Long Island NY-NJ-PA was 4.06 times larger than the minimum Number of residents observed in Area Boston - Cambridge - Quincy MA-NH. ",
+      " Among the groups, 18 to 44 years had the biggest difference in Number of residents. Where the maximum Number of residents was 4.06 times larger than the minimum Number of residents. ",
+      " 18 to 44 years had the maximum Number of residents out of all 5 groups in Area New York - Northern New Jersey - Long Island NY-NJ-PA followed by 18 to 44 years in New York - Northern New Jersey - Long Island NY-NJ-PA, and the minimum Number of residents is found for 75 years and over in Atlanta - Sandy Springs - Marietta GA. ",
+      "On average, the Area New York - Northern New Jersey - Long Island NY-NJ-PA had the highest Number of residents for all 5 groups Under 18 years, 18 to 44 years, 45 to 64 years, 65 to 74 years, and 75 years and over. Whereas Boston - Cambridge - Quincy MA-NH had the lowest average Number of residents. "
    ],
    "trends": [
       {},

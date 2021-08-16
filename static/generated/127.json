@@ -1,38 +1,42 @@
 {
-   "title": "Test",
+   "title": "R & D expenditure of BP 2010 to 2018",
    "xAxis": "Year",
    "yAxis": "Expenditure in million U.S. dollars",
    "columnType": "two",
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Expenditure in million U.S. dollars, with a total of 9 data points.",
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Expenditure in million U.S. dollars. In total the number of data points it has is 9.",
+      " In general Expenditure in million U.S. dollars has fallen over the Year.",
+      "Expenditure in million U.S. dollars is slightly decreasing from 2010 to 2011, roughly constant from 2011 to 2014, gradually decreasing from 2014 to 2015, roughly constant from 2015 to 2017, and finally slightly increasing from 2017 to 2018.",
+      "The line significantly ",
+      "The most drastic decrease took place within the Year 2014 and 2015.",
+      "The highest Expenditure in million U.S. dollars, of value 780.0 was reached at Year 2010",
+      "The lowest Expenditure in million U.S. dollars, of value 391.0 was reported at Year 2017"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Expenditure in million U.S. dollars. In total the number of data points it has is 9.",
       " Overall Expenditure in million U.S. dollars has decreased over the Year.",
-      "Expenditure in million U.S. dollars is slightly decreasing from 2010 to 2011, roughly constant from 2011 to 2014, gradually decreasing from 2014 to 2015, roughly constant from 2015 to 2017, and lastly slightly increasing from 2017 to 2018.",
+      "Expenditure in million U.S. dollars is slightly decreasing from 2010 to 2011, roughly constant from 2011 to 2014, gradually decreasing from 2014 to 2015, roughly constant from 2015 to 2017, and finally slightly increasing from 2017 to 2018."
+   ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Expenditure in million U.S. dollars. In total the number of data points it has is 9.",
+      " In general Expenditure in million U.S. dollars has fallen over the Year.",
+      "Expenditure in million U.S. dollars is slightly decreasing from 2010 to 2011, roughly constant from 2011 to 2014, gradually decreasing from 2014 to 2015, roughly constant from 2015 to 2017, and finally slightly increasing from 2017 to 2018.",
       "The steepest decrease occurs in between the Year 2014 and 2015.",
-      "Max Expenditure in million U.S. dollars about 780.0 was recorded at Year 2010",
-      "Min Expenditure in million U.S. dollars about 391.0 was recorded at Year 2017",
-      "#########################################################################",
-      "This line chart has an x axis representing Year and a y axis representing Expenditure in million U.S. dollars, with a total of 9 data points. The chart has 3 significant trends.",
-      " The longest trend is slightly decreasing which exists from 2013 to 2017.",
-      " Conversely, the next significant trend is moderately increasing which exists from 2010 to 2013.",
-      " Additionally, the next significant trend is extremely increasing which exists from 2017 to 2018."
+      "The highest Expenditure in million U.S. dollars, of value 780.0 was reached at Year 2010",
+      "The lowest Expenditure in million U.S. dollars, of value 391.0 was reported at Year 2017"
    ],
-   "trends": [
-      {},
-      {
-         "1": "1",
-         "12": "5"
-      },
-      {
-         "3": "5",
-         "14": "8"
-      },
-      {
-         "3": "0",
-         "14": "1"
-      }
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Expenditure in million U.S. dollars. In total the number of data points it has is 9.",
+      " Overall Expenditure in million U.S. dollars has decreased over the Year.",
+      "Expenditure in million U.S. dollars is slightly decreasing from 2010 to 2011, roughly constant from 2011 to 2014, gradually decreasing from 2014 to 2015, roughly constant from 2015 to 2017, and finally slightly increasing from 2017 to 2018.",
+      "The steepest decrease occurs in between the Year 2014 and 2015.",
+      "The highest Expenditure in million U.S. dollars, of value 780.0 was reached at Year 2010",
+      "The lowest Expenditure in million U.S. dollars, of value 391.0 was reported at Year 2017",
+      "The line drastically "
    ],
+   "trends": [],
    "data": [
       {
          "Year": "2018",

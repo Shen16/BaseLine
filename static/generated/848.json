@@ -1,16 +1,32 @@
 {
-   "title": "Test",
+   "title": "Twitter : quarterly revenue 2011 to 2019",
    "xAxis": "Quarter",
    "yAxis": "Revenue in million U.S. dollars",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 36 categories on the x axis representing Quarter, and Revenue in million U.S. dollars in each Quarter on the y axis.",
-      "Q4 '19 is higher than any other categories with value 1007.43, followed by , and Q2 '19. Down to category Q1 '11 with the lowest value of 17.91. ",
-      " The highest value at Q4 '19 is almost 56.25 times larger than the minimum value of Q1 '11. ",
-      " The highest value at Q4 '19 is almost 56.25 times larger than the minimum value of Q1 '11. ",
-      " The difference between the max Quarter Q4 '19 and min Quarter Q1 '11 is 989.52. "
+      "This is a bar chart representing Quarter in the x axis and Revenue in million U.S. dollars in the y axis. ",
+      "The Revenue in million U.S. dollars is appeared to be the highest at Quarter Q4 '19 and lowest at Quarter Q1 '11. ",
+      "The highest Quarter Q4 '19 has 989.52 more Revenue in million U.S. dollars than the lowest Quarter Q1 '11. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Revenue in million U.S. dollars for 36 number of Quarters. ",
+      "The Revenue in million U.S. dollars is appeared to be the highest at Quarter Q4 '19 and lowest at Quarter Q1 '11. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Quarter in the x axis and Revenue in million U.S. dollars in the y axis. ",
+      "The Revenue in million U.S. dollars is appeared to be the highest at Quarter Q4 '19 and lowest at Quarter Q1 '11. ",
+      "The highest Quarter Q4 '19 has 989.52 more Revenue in million U.S. dollars than the lowest Quarter Q1 '11. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Revenue in million U.S. dollars for 36 number of Quarters. ",
+      "Quarter Q4 '19 has the highest Revenue in million U.S. dollars and Q1 '11 has the lowest Revenue in million U.S. dollars. ",
+      "The second highest Revenue in million U.S. dollars is appeared to be the Quarter Q4 '18. ",
+      "There is a difference of 989.52 between the maximum Quarter Q4 '19 and minimum Quarter Q1 '11. ",
+      "Quarter Q4 '19 is higher than any other Quarters with value 1007.43, followed by Q4 '18, and Q2 '19. Down to Quarter Q1 '11 with the lowest value 17.91. ",
+      "Over the past 36 Quarters, the Revenue in million U.S. dollars has decreased. ",
+      "Considered together, the average Revenue in million U.S. dollars in all 36 Quarters is roughly 449.55. "
    ],
    "trends": [
       {},

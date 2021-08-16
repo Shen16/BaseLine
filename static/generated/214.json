@@ -1,33 +1,42 @@
 {
-   "title": "Test",
+   "title": "eBay Enterprise : annual net revenue 1999 to 2014",
    "xAxis": "Year",
    "yAxis": "Revenue in million U.S. dollars",
    "columnType": "two",
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Revenue in million U.S. dollars, with a total of 16 data points.",
-      " Overall Revenue in million U.S. dollars has decreased over the Year.",
-      "Revenue in million U.S. dollars is roughly constant from 2014 to 2012, slightly decreasing from 2012 to 2011, gradually increasing from 2011 to 2010, roughly constant from 2010 to 2004, and lastly slightly decreasing from 2004 to 1999.",
-      "The steepest increase occurs in between the Year 2011 and 2010.",
-      "Max Revenue in million U.S. dollars about 1358.0 was recorded at Year 2010",
-      "Min Revenue in million U.S. dollars about 5.5 was recorded at Year 1999",
-      "#########################################################################",
-      "This line chart has an x axis representing Year and a y axis representing Revenue in million U.S. dollars, with a total of 16 data points. The chart has 2 significant trends.",
-      " The longest trend is extremely decreasing which exists from 2010 to 1999.",
-      " Contrarily, the next significant trend is slightly decreasing which exists from 2014 to 2010."
+      "This is a line chart with an x axis representing Year and a y axis representing Revenue in million U.S. dollars, containing a total of 16 data points.",
+      " Overall Revenue in million U.S. dollars has increased over the Year.",
+      "Revenue in million U.S. dollars is gradually increasing from 1999 to 2001, roughly constant from 2001 to 2010, roughly increasing from 2010 to 2012, and lastly roughly constant from 2012 to 2014.",
+      "The line rapidly increased by 678.18% from Year 1999 to 2000,increased by 139.72% from Year 2000 to 2001, and lastly, increased by 112.77% from Year 2011 to 2012.",
+      "The steepest increase occurs in between the Year 2010 and 2011.",
+      "The highest Revenue in million U.S. dollars, of value 1358.0 was reached at Year 2010",
+      "The lowest Revenue in million U.S. dollars, of value 5.5 was reported at Year 1999"
    ],
-   "trends": [
-      {},
-      {
-         "1": "0",
-         "12": "11"
-      },
-      {
-         "3": "11",
-         "14": "15"
-      }
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Revenue in million U.S. dollars, containing a total of 16 data points.",
+      " Overall Revenue in million U.S. dollars has increased over the Year.",
+      "Revenue in million U.S. dollars is gradually increasing from 1999 to 2001, roughly constant from 2001 to 2010, roughly increasing from 2010 to 2012, and lastly roughly constant from 2012 to 2014."
    ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Revenue in million U.S. dollars. In total the number of data points it has is 16.",
+      " Overall Revenue in million U.S. dollars has increased over the Year.",
+      "Revenue in million U.S. dollars is gradually increasing from 1999 to 2001, roughly constant from 2001 to 2010, roughly increasing from 2010 to 2012, and lastly roughly constant from 2012 to 2014.",
+      "The steepest increase occurs in between the Year 2010 and 2011.",
+      "The highest Revenue in million U.S. dollars, of value 1358.0 was reached at Year 2010",
+      "The lowest Revenue in million U.S. dollars, of value 5.5 was reported at Year 1999"
+   ],
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Revenue in million U.S. dollars. In total the number of data points it has is 16.",
+      " Overall Revenue in million U.S. dollars has increased over the Year.",
+      "Revenue in million U.S. dollars is gradually increasing from 1999 to 2001, roughly constant from 2001 to 2010, roughly increasing from 2010 to 2012, and lastly roughly constant from 2012 to 2014.",
+      "The steepest increase occurs in between the Year 2010 and 2011.",
+      "The highest Revenue in million U.S. dollars, of value 1358.0 was reached at Year 2010",
+      "The lowest Revenue in million U.S. dollars, of value 5.5 was reported at Year 1999",
+      "The line significantly increased by 37.3 from Year 1999 to 2000,increased by 59.8 from Year 2000 to 2001, and lastly, increased by 574.0 from Year 2011 to 2012."
+   ],
+   "trends": [],
    "data": [
       {
          "Year": "1999",

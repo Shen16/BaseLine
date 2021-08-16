@@ -1,16 +1,32 @@
 {
-   "title": "Test",
+   "title": "Alibaba : quarterly gross merchandise volume Q2 2012-Q2 2016",
    "xAxis": "Quarter",
    "yAxis": "Total GMV in billion yuan",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 17 categories on the x axis representing Quarter, and Total GMV in billion yuan in each Quarter on the y axis.",
-      "Q4 '15 is higher than any other categories with value 964.0, followed by , and Q4 '14. Down to category Q2 '12 with the lowest value of 209.0. ",
-      " The highest value at Q4 '15 is almost 4.61 times larger than the minimum value of Q2 '12. ",
-      " The highest value at Q4 '15 is almost 4.61 times larger than the minimum value of Q2 '12. ",
-      " The difference between the max Quarter Q4 '15 and min Quarter Q2 '12 is 755.0. "
+      "This is a bar chart representing Quarter in the x axis and Total GMV in billion yuan in the y axis. ",
+      "The Total GMV in billion yuan is appeared to be the highest at Quarter Q4 '15 and lowest at Quarter Q2 '12. ",
+      "There is a difference of 755.0 between the maximum Quarter Q4 '15 and minimum Quarter Q2 '12. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Total GMV in billion yuan for 17 number of Quarters. ",
+      "The Total GMV in billion yuan is highest at Quarter Q4 '15 and lowest at Quarter Q2 '12. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Quarter in the x axis and Total GMV in billion yuan in the y axis. ",
+      "The Total GMV in billion yuan is appeared to be the highest at Quarter Q4 '15 and lowest at Quarter Q2 '12. ",
+      "There is a difference of 755.0 between the maximum Quarter Q4 '15 and minimum Quarter Q2 '12. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Total GMV in billion yuan for 17 number of Quarters. ",
+      "Quarter Q4 '15 has the highest Total GMV in billion yuan and Q2 '12 has the lowest Total GMV in billion yuan. ",
+      "The difference of Total GMV in billion yuan between the highest and lowest Quarter is 755.0. ",
+      "The Quarter Q4 '15 has the highest Total GMV in billion yuan, followed by Q2 '16, and Q4 '14. Down to the Quarter Q2 '12 which is the lowest. ",
+      "Over the past 17 Quarters, the Total GMV in billion yuan has lowered. ",
+      "The lowest value 209.0 at Q2 '12 is almost 1.8 times smaller than the average value 536.94. ",
+      "The Total GMV in billion yuan is 9127.94 if we add up values of all Quarters. "
    ],
    "trends": [
       {},

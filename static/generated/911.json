@@ -1,33 +1,42 @@
 {
-   "title": "Test",
+   "title": "Life expectancy of women in Mexico 2017",
    "xAxis": "Year",
    "yAxis": "Life expectancy at birth in years",
    "columnType": "two",
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Life expectancy at birth in years, with a total of 11 data points.",
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Life expectancy at birth in years. In total the number of data points it has is 11.",
       " Overall Life expectancy at birth in years has decreased over the Year.",
-      "Life expectancy at birth in years is roughly constant from 2007 to 2008, gradually decreasing from 2008 to 2014, and lastly roughly constant from 2014 to 2017.",
+      "Life expectancy at birth in years is roughly constant from 2007 to 2008, gradually decreasing from 2008 to 2014, and finally roughly constant from 2014 to 2017.",
+      "The line significantly ",
+      "The most drastic decrease took place within the Year 2008 and 2009.",
+      "The highest Life expectancy at birth in years, of value 78.04 was reached at Year 2007",
+      "Minimum Life expectancy at birth in years about 77.83 was reached at Year 2016, and 2017"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Life expectancy at birth in years. In total the number of data points it has is 11.",
+      " In general Life expectancy at birth in years has stayed the same over the Year.",
+      "Life expectancy at birth in years is roughly constant from 2007 to 2008, gradually decreasing from 2008 to 2014, and finally roughly constant from 2014 to 2017."
+   ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Life expectancy at birth in years, containing a total of 11 data points.",
+      " Overall Life expectancy at birth in years has decreased over the Year.",
+      "Life expectancy at birth in years is roughly constant from 2007 to 2008, gradually decreasing from 2008 to 2014, and finally roughly constant from 2014 to 2017.",
       "The steepest decrease occurs in between the Year 2008 and 2009.",
-      "Max Life expectancy at birth in years about 78.04 was recorded at Year 2007",
-      "Min Life expectancy at birth in years about 77.83 was recorded at Year 2016, and 2017",
-      "#########################################################################",
-      "This line chart has an x axis representing Year and a y axis representing Life expectancy at birth in years, with a total of 11 data points. The chart has 2 significant trends.",
-      " The longest trend is slightly decreasing which exists from 2007 to 2016.",
-      " Contrarily, the next significant trend is extremely constant which exists from 2016 to 2017."
+      "The highest Life expectancy at birth in years, of value 78.04 was reached at Year 2007",
+      "Minimum Life expectancy at birth in years about 77.83 was reached at Year 2016, and 2017"
    ],
-   "trends": [
-      {},
-      {
-         "1": "1",
-         "12": "10"
-      },
-      {
-         "3": "0",
-         "14": "1"
-      }
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Life expectancy at birth in years, containing a total of 11 data points.",
+      " In general Life expectancy at birth in years has stayed the same over the Year.",
+      "Life expectancy at birth in years is roughly constant from 2007 to 2008, gradually decreasing from 2008 to 2014, and finally roughly constant from 2014 to 2017.",
+      "The most drastic decrease took place within the Year 2008 and 2009.",
+      "The highest Life expectancy at birth in years, of value 78.04 was reached at Year 2007",
+      "Minimum Life expectancy at birth in years about 77.83 was reached at Year 2016, and 2017",
+      "The line rapidly "
    ],
+   "trends": [],
    "data": [
       {
          "Year": "2017",

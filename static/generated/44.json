@@ -1,5 +1,5 @@
 {
-   "title": "Test",
+   "title": "Facebook usage frequency in the United States 2018 , by ethnicity",
    "labels": [
       "Frequency",
       "White",
@@ -11,12 +11,31 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart has 7 categories of Frequency on the x axis representing 4 groups: White, Hispanic, Black, and Other.",
-      " Averaging these 4 groups, the highest category is found for Frequency At least once a day with a mean value of 55.5.",
-      " Followed by Never with a mean value of 14.0.",
-      " The lowest category is observed at Don't know/No opinion that has a mean value of 2.5",
-      " showing a difference of 182.8% with the maximum value.",
-      " In case of At least once a day, White shows more dominance than any other Frequency and it has the lowest value in Don't know/No opinion. On the other hand, group Other is highest in case of At least once a day and has minimum impact for Frequency Don't know/No opinion. "
+      "This grouped bar chart shows Share of respondents on the Y-axis for 7 different Frequencys for 4 groups White, Hispanic, Black, and Other that are presented on the X-axis. ",
+      " Frequency At least once a day had the maximum Share of respondents among all 4 groups, and it was for White. The minimum Share of respondents was observed in Frequency Don't know/No opinion for Hispanic. ",
+      " Among all the Frequencys, Other had the highest Share of respondents in Frequency At least once a day and lowest Share of respondents in Frequency Don't know/No opinion. ",
+      " The maximum Share of respondents for Other that was found in Frequency At least once a day was 24.5 times larger than the minimum Share of respondents observed in Frequency Don't know/No opinion. "
+   ],
+   "xAxis": "Frequency",
+   "yAxis": "Share of respondents",
+   "min_summary": [
+      "This grouped bar chart represents 7 different Frequencys on X-axis for 4 groups White, Hispanic, Black, and Other. On the Y-axis it shows their corresponding Share of respondents. ",
+      " In Frequency At least once a day, White had the highest Share of respondents 64.0 among the 4 groups and in Don't know/No opinion, Hispanic had the lowest Share of respondents 1.0. "
+   ],
+   "mid_summary": [
+      "This grouped bar chart shows Share of respondents on the Y-axis for 7 different Frequencys for 4 groups White, Hispanic, Black, and Other that are presented on the X-axis. ",
+      " Frequency At least once a day had the maximum Share of respondents among all 4 groups, and it was for White. The minimum Share of respondents was observed in Frequency Don't know/No opinion for Hispanic. ",
+      " Among all the Frequencys, Other had the highest Share of respondents in Frequency At least once a day and lowest Share of respondents in Frequency Don't know/No opinion. ",
+      " The maximum Share of respondents for Other that was found in Frequency At least once a day was 24.5 times larger than the minimum Share of respondents observed in Frequency Don't know/No opinion. "
+   ],
+   "max_summary": [
+      "This grouped bar chart shows Share of respondents on the Y-axis for 7 different Frequencys for 4 groups White, Hispanic, Black, and Other that are presented on the X-axis. ",
+      " Out of all 4 groups, White had the highest Share of respondents in Frequency At least once a day and Hispanic had the lowest Share of respondents in Frequency Don't know/No opinion. ",
+      " In Frequency At least once a day, Other had the highest Share of respondents among all 7 Frequencys and it has the lowest Share of respondents in Frequency Don't know/No opinion. ",
+      " There is a gap of 47.0 between the highest and lowest Share of respondents found for Other in Frequency At least once a day and Don't know/No opinion. ",
+      " Among the groups, White had the biggest difference in Share of respondents. Where the maximum Share of respondents was 32.0 times larger than the minimum Share of respondents. ",
+      " White had the maximum Share of respondents out of all 4 groups in Frequency At least once a day followed by White in At least once a day, and the minimum Share of respondents is found for Hispanic in Don't know/No opinion. ",
+      "Averaging all 4 groups White, Hispanic, Black, and Other, the Frequency At least once a day is the maximum Share of respondents and Don't know/No opinion is the minimum Share of respondents. "
    ],
    "trends": [
       {},

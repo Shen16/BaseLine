@@ -1,16 +1,32 @@
 {
-   "title": "Test",
+   "title": "Mexico : religion affiliation share 2018 , by type",
    "xAxis": "Response",
    "yAxis": "Share of respondents",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 14 categories on the x axis representing Response, and Share of respondents in each Response on the y axis.",
-      "Catholic is higher than any other categories with value 80.8, followed by , and Believer without formal affiliation to any religion. Down to category Baptist evangelist with the lowest value of 0.1. ",
-      " The highest value at Catholic is almost 808.0 times larger than the minimum value of Baptist evangelist. ",
-      " The highest value at Catholic is almost 808.0 times larger than the minimum value of Baptist evangelist. ",
-      " The difference between the max Response Catholic and min Response Baptist evangelist is 80.7. "
+      "This is a bar chart. It shows Share of respondents for 14 number of Responses. ",
+      "The Share of respondents is highest at Response Catholic and lowest at Response Baptist evangelist. ",
+      "The highest Response Catholic has 80.7 more Share of respondents than the lowest Response Baptist evangelist. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing Response in the x axis and Share of respondents in the y axis. ",
+      "The Share of respondents is appeared to be the highest at Response Catholic and lowest at Response Baptist evangelist. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Share of respondents for 14 number of Responses. ",
+      "The Share of respondents is highest at Response Catholic and lowest at Response Baptist evangelist. ",
+      "The highest Response Catholic has 80.7 more Share of respondents than the lowest Response Baptist evangelist. "
+   ],
+   "max_summary": [
+      "This bar chart has 14 columns on the x axis representing Response, and Share of respondents in each Response on the y axis. ",
+      "Response Catholic has the highest Share of respondents and Baptist evangelist has the lowest Share of respondents. ",
+      "Response None has the second highest value for Share of respondents. ",
+      "The Share of respondents of Response Baptist evangelist is 808.0% smaller than the maximum value at Catholic. ",
+      "The Response Catholic has the highest Share of respondents, followed by None, and Believer without formal affiliation to any religion. Down to the Response Baptist evangelist which is the lowest. ",
+      "Response Adventist, Mormon, Agnostic, and Atheist share the same value 0.2. ",
+      "The highest value 80.8 at Catholic is almost 11.31 times larger than the average value 7.14. "
    ],
    "trends": [
       {},

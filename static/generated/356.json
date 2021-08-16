@@ -1,18 +1,32 @@
 {
-   "title": "Test",
+   "title": "Maximum discipline for selected player offenses in the NFL 2011/2012",
    "xAxis": "Fine Types",
    "yAxis": "Maximum fine (in U.S. dollars)",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 9 categories on the x axis representing Fine Types, and Maximum fine (in U.S. dollars) in each Fine Types on the y axis.",
-      " The highest category is found at Unexcused late reporting foror absence from preseason training where Maximum fine (in U.S. dollars) is 30000.0.",
-      " Followed by 30000.0 in .",
-      " The lowest category is found at Being overweight (per lb.) where Maximum fine (in U.S. dollars) is 470.0.",
-      " The highest value at Unexcused late reporting foror absence from preseason training is almost 63.83 times larger than the minimum value of Being overweight (per lb.). ",
-      " The highest value at Unexcused late reporting foror absence from preseason training is almost 63.83 times larger than the minimum value of Being overweight (per lb.). ",
-      " The difference between the max Fine Types Unexcused late reporting foror absence from preseason training and min Fine Types Being overweight (per lb.) is 29530.0. "
+      "This is a bar chart representing Fine Types in the x axis and Maximum fine (in U.S. dollars) in the y axis. ",
+      "The Maximum fine (in U.S. dollars) is appeared to be the highest at Fine Types Unexcused late reporting foror absence from preseason training and lowest at Fine Types Being overweight (per lb.). ",
+      "The highest Fine Types Unexcused late reporting foror absence from preseason training has 29530.0 more Maximum fine (in U.S. dollars) than the lowest Fine Types Being overweight (per lb.). "
+   ],
+   "min_summary": [
+      "This is a bar chart representing Fine Types in the x axis and Maximum fine (in U.S. dollars) in the y axis. ",
+      "The Maximum fine (in U.S. dollars) is highest at Fine Types Unexcused late reporting foror absence from preseason training and lowest at Fine Types Being overweight (per lb.). "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Fine Types in the x axis and Maximum fine (in U.S. dollars) in the y axis. ",
+      "The Maximum fine (in U.S. dollars) is appeared to be the highest at Fine Types Unexcused late reporting foror absence from preseason training and lowest at Fine Types Being overweight (per lb.). ",
+      "The highest Fine Types Unexcused late reporting foror absence from preseason training has 29530.0 more Maximum fine (in U.S. dollars) than the lowest Fine Types Being overweight (per lb.). "
+   ],
+   "max_summary": [
+      "This bar chart has 9 columns on the x axis representing Fine Types, and Maximum fine (in U.S. dollars) in each Fine Types on the y axis. ",
+      "The Maximum fine (in U.S. dollars) is appeared to be the highest at Fine Types Unexcused late reporting foror absence from preseason training and lowest at Fine Types Being overweight (per lb.). ",
+      "Second maximum Maximum fine (in U.S. dollars) is found at Fine Types Ejection from game. ",
+      "The highest Fine Types Unexcused late reporting foror absence from preseason training has 29530.0 more Maximum fine (in U.S. dollars) than the lowest Fine Types Being overweight (per lb.). ",
+      "The Fine Types Unexcused late reporting foror absence from preseason training has the highest Maximum fine (in U.S. dollars), followed by Ejection from game, and Loss of playbook scouting reportor game plan. Down to the Fine Types Being overweight (per lb.) which is the lowest. ",
+      "Similar Maximum fine (in U.S. dollars) is found in Fine Types Throwing football into stands, Losing damaging or alteringClub-provided equipment, Failure to promptly report injury, and Unexcused late reportingfor team activity. ",
+      "The average Maximum fine (in U.S. dollars) in all 9 Fine Typess is 9047.78. "
    ],
    "trends": [
       {},

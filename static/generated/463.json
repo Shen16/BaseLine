@@ -1,53 +1,38 @@
 {
-   "title": "Test",
+   "title": "Consumer spending on clothing in France 2008 to 2017",
    "xAxis": "Year",
    "yAxis": "Final consumption expenditure in million euros",
    "columnType": "two",
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Final consumption expenditure in million euros, with a total of 10 data points.",
+      "This is a line chart with an x axis representing Year and a y axis representing Final consumption expenditure in million euros, containing a total of 10 data points.",
       " Overall Final consumption expenditure in million euros has decreased over the Year.",
-      "Final consumption expenditure in million euros is gradually decreasing from 2008 to 2009, roughly constant from 2009 to 2013, slightly increasing from 2013 to 2014, roughly constant from 2014 to 2015, slightly decreasing from 2015 to 2016, and lastly slightly increasing from 2016 to 2017.",
+      "The line significantly ",
+      "The most drastic decrease took place within the Year 2008 and 2009.",
+      "The highest Final consumption expenditure in million euros, of value 37494.0 was reached at Year 2008",
+      "Minimum Final consumption expenditure in million euros about 35574.0 was reached at Year 2011, and 2013"
+   ],
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Final consumption expenditure in million euros, containing a total of 10 data points.",
+      " Overall Final consumption expenditure in million euros has decreased over the Year."
+   ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Final consumption expenditure in million euros. In total the number of data points it has is 10.",
+      " Overall Final consumption expenditure in million euros has decreased over the Year.",
       "The steepest decrease occurs in between the Year 2008 and 2009.",
-      "Max Final consumption expenditure in million euros about 37494.0 was recorded at Year 2008",
-      "Min Final consumption expenditure in million euros about 35574.0 was recorded at Year 2011, and 2013",
-      "#########################################################################",
-      "This line chart has an x axis representing Year and a y axis representing Final consumption expenditure in million euros, with a total of 10 data points. The chart has 6 significant trends.",
-      " The longest trend is slightly decreasing which exists from 2008 to 2011.",
-      " On the other hand, the next significant trend is extremely increasing which exists from 2013 to 2015.",
-      " In a similar manner, the next significant trend is extremely increasing which exists from 2016 to 2017.",
-      " Similarly, the next significant trend is slightly decreasing which exists from 2015 to 2016.",
-      " Conversely, the next significant trend is moderately decreasing which exists from 2012 to 2013.",
-      " Contrarily, the next significant trend is moderately increasing which exists from 2011 to 2012."
+      "The highest Final consumption expenditure in million euros, of value 37494.0 was reached at Year 2008",
+      "Minimum Final consumption expenditure in million euros about 35574.0 was reached at Year 2011, and 2013"
    ],
-   "trends": [
-      {},
-      {
-         "1": "6",
-         "12": "9"
-      },
-      {
-         "3": "2",
-         "14": "4"
-      },
-      {
-         "3": "0",
-         "14": "1"
-      },
-      {
-         "3": "1",
-         "14": "2"
-      },
-      {
-         "3": "4",
-         "14": "5"
-      },
-      {
-         "3": "5",
-         "14": "6"
-      }
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Final consumption expenditure in million euros, containing a total of 10 data points.",
+      " In general Final consumption expenditure in million euros has stayed the same over the Year.",
+      "The steepest decrease occurs in between the Year 2008 and 2009.",
+      "The highest Final consumption expenditure in million euros, of value 37494.0 was reached at Year 2008",
+      "Minimum Final consumption expenditure in million euros about 35574.0 was reached at Year 2011, and 2013",
+      "The line significantly "
    ],
+   "trends": [],
    "data": [
       {
          "Year": "2017",

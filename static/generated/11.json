@@ -1,5 +1,5 @@
 {
-   "title": "Test",
+   "title": "U.S. Millennials : most popular social network 2016 , by age group",
    "labels": [
       "Platform",
       "18-24",
@@ -10,11 +10,31 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart has 7 categories of Platform on the x axis representing 3 groups: 18-24, 25-29, and 30-34.",
-      " Averaging these 3 groups, the highest category is found for Platform Facebook with a mean value of 42.33.",
-      " The lowest category is observed at Twitter that has a mean value of 2.0",
-      " showing a difference of 182.0% with the maximum value.",
-      " In case of Facebook, 18-24 shows more dominance than any other Platform with a value 36.0 and it has the lowest value 3.0 in Twitter.  However, 25-29 is the second impactful group, and it has the highest value 50.0 for Platform Facebook and the lowest 2.0 in case of Twitter. "
+      "This grouped bar chart represents 7 different Platforms on X-axis for 3 groups 18-24, 25-29, and 30-34. On the Y-axis it shows their corresponding Share of respondents. ",
+      " Platform Facebook had the maximum Share of respondents among all 3 groups, and it was for 30-34. The minimum Share of respondents was observed in Platform Twitter for 25-29. ",
+      " In Platform Facebook, 30-34 had the highest Share of respondents among all 7 Platforms and it has the lowest Share of respondents in Platform Twitter. ",
+      "Platform Facebook and Twitter had the biggest gap of 48.0 between the highest and lowest Share of respondents found for 30-34. "
+   ],
+   "xAxis": "Platform",
+   "yAxis": "Share of respondents",
+   "min_summary": [
+      "This grouped bar chart represents 7 different Platforms on X-axis for 3 groups 18-24, 25-29, and 30-34. On the Y-axis it shows their corresponding Share of respondents. ",
+      " In Platform Facebook, 30-34 had the highest Share of respondents 50.0 among the 3 groups and in Twitter, 25-29 had the lowest Share of respondents 1.0. "
+   ],
+   "mid_summary": [
+      "This grouped bar chart represents 7 different Platforms on X-axis for 3 groups 18-24, 25-29, and 30-34. On the Y-axis it shows their corresponding Share of respondents. ",
+      " Platform Facebook had the maximum Share of respondents among all 3 groups, and it was for 30-34. The minimum Share of respondents was observed in Platform Twitter for 25-29. ",
+      " In Platform Facebook, 30-34 had the highest Share of respondents among all 7 Platforms and it has the lowest Share of respondents in Platform Twitter. ",
+      "Platform Facebook and Twitter had the biggest gap of 48.0 between the highest and lowest Share of respondents found for 30-34. "
+   ],
+   "max_summary": [
+      "This grouped bar chart represents 7 different Platforms on X-axis for 3 groups 18-24, 25-29, and 30-34. On the Y-axis it shows their corresponding Share of respondents. ",
+      " Out of all 3 groups, 30-34 had the highest Share of respondents in Platform Facebook and 25-29 had the lowest Share of respondents in Platform Twitter. ",
+      " In Platform Facebook, 30-34 had the highest Share of respondents among all 7 Platforms and it has the lowest Share of respondents in Platform Twitter. ",
+      " The maximum Share of respondents for 30-34 that was found in Platform Facebook was 25.0 times larger than the minimum Share of respondents observed in Platform Twitter. ",
+      " Out of all 3 groups, the highest gap between the maximum and minimum Share of respondents was found in case of 25-29. ",
+      " In Platform Facebook, 30-34 had the highest Share of respondents 50.0 among the 3 groups and in Twitter, 25-29 had the lowest Share of respondents 1.0. The second highest Share of respondents 41.0 was observed for 30-34 in Platform Facebook. ",
+      "On average, the Platform Facebook had the highest Share of respondents for all 3 groups 18-24, 25-29, and 30-34. Whereas Twitter had the lowest average Share of respondents. "
    ],
    "trends": [
       {},

@@ -1,18 +1,29 @@
 {
-   "title": "Test",
+   "title": "Public opinions on gay marriage in Italy 2016",
    "xAxis": "Response",
    "yAxis": "Share of respondents",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 3 categories on the x axis representing Response, and Share of respondents in each Response on the y axis.",
-      " The highest category is found at Against where Share of respondents is 52.0.",
-      " Followed by 8.0 in .",
-      " The lowest category is found at I don\u00b4t know where Share of respondents is 8.0.",
-      " The highest value at Against is almost 6.5 times larger than the minimum value of I don\u00b4t know. ",
-      " The highest value at Against is almost 6.5 times larger than the minimum value of I don\u00b4t know. ",
-      " The difference between the max Response Against and min Response I don\u00b4t know is 44.0. "
+      "This bar chart has 3 columns on the x axis representing Response, and Share of respondents in each Response on the y axis. ",
+      "The maximum Share of respondents 52.0 is found at Response Against and the minimum is found at I don\u00b4t know where Response is 8.0. ",
+      "The minimum Response I don\u00b4t know has got 6.5 times less Share of respondents than the maximum Response Against. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Share of respondents for 3 number of Responses. ",
+      "Response Against has the highest Share of respondents and I don\u00b4t know has the lowest Share of respondents. "
+   ],
+   "mid_summary": [
+      "This bar chart has 3 columns on the x axis representing Response, and Share of respondents in each Response on the y axis. ",
+      "The maximum Share of respondents 52.0 is found at Response Against and the minimum is found at I don\u00b4t know where Response is 8.0. ",
+      "The minimum Response I don\u00b4t know has got 6.5 times less Share of respondents than the maximum Response Against. "
+   ],
+   "max_summary": [
+      "This bar chart has 3 columns on the x axis representing Response, and Share of respondents in each Response on the y axis. ",
+      "Response Against has the highest Share of respondents and I don\u00b4t know has the lowest Share of respondents. ",
+      "There is a difference of 44.0 between the maximum Response Against and minimum Response I don\u00b4t know. ",
+      "Considered together, the average Share of respondents in all 3 Responses is roughly 33.33. "
    ],
    "trends": [
       {},

@@ -1,16 +1,31 @@
 {
-   "title": "Test",
+   "title": "Hotel / restaurant industry : percentage of female employees by region 2010",
    "xAxis": "Country",
    "yAxis": "Female employees",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 6 categories on the x axis representing Country, and Female employees in each Country on the y axis.",
-      "Latin America is higher than any other categories with value 58.5, followed by , and Average. Down to category Asia with the lowest value of 35.4. ",
-      " The highest value at Latin America is almost 1.65 times larger than the minimum value of Asia. ",
-      " The highest value at Latin America is almost 1.65 times larger than the minimum value of Asia. ",
-      " The difference between the max Country Latin America and min Country Asia is 23.1. "
+      "This is a bar chart representing Country in the x axis and Female employees in the y axis. ",
+      "Country Latin America has the highest Female employees and Asia has the lowest Female employees. ",
+      "The highest Country Latin America has 23.1 more Female employees than the lowest Country Asia. "
+   ],
+   "min_summary": [
+      "This bar chart has 6 columns on the x axis representing Country, and Female employees in each Country on the y axis. ",
+      "The Female employees is appeared to be the highest at Country Latin America and lowest at Country Asia. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Country in the x axis and Female employees in the y axis. ",
+      "Country Latin America has the highest Female employees and Asia has the lowest Female employees. ",
+      "The highest Country Latin America has 23.1 more Female employees than the lowest Country Asia. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Country in the x axis and Female employees in the y axis. ",
+      "The Female employees is appeared to be the highest at Country Latin America and lowest at Country Asia. ",
+      "There is a difference of 23.1 between the maximum Country Latin America and minimum Country Asia. ",
+      "Country Latin America is higher than any other Countrys with value 58.5, followed by Caribbean, and Average. Down to Country Asia with the lowest value 35.4. ",
+      "The Country Latin America tends to be 1.2 percent higher than average. ",
+      "Summing up the values of all Countrys, we get total 291.72. "
    ],
    "trends": [
       {},

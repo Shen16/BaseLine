@@ -1,16 +1,32 @@
 {
-   "title": "Test",
+   "title": "Dentists : number practicing in Europe in 2017 , by country",
    "xAxis": "Country",
    "yAxis": "Number of employees",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 18 categories on the x axis representing Country, and Number of employees in each Country on the y axis.",
-      "Germany is higher than any other categories with value 70445.0, followed by , and France. Down to category Luxembourg with the lowest value of 581.0. ",
-      " The highest value at Germany is almost 121.25 times larger than the minimum value of Luxembourg. ",
-      " The highest value at Germany is almost 121.25 times larger than the minimum value of Luxembourg. ",
-      " The difference between the max Country Germany and min Country Luxembourg is 69864.0. "
+      "This bar chart has 18 columns on the x axis representing Country, and Number of employees in each Country on the y axis. ",
+      "The Number of employees is appeared to be the highest at Country Germany and lowest at Country Luxembourg. ",
+      "The highest Country Germany has 69864.0 more Number of employees than the lowest Country Luxembourg. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing Country in the x axis and Number of employees in the y axis. ",
+      "The Number of employees is appeared to be the highest at Country Germany and lowest at Country Luxembourg. "
+   ],
+   "mid_summary": [
+      "This bar chart has 18 columns on the x axis representing Country, and Number of employees in each Country on the y axis. ",
+      "The Number of employees is appeared to be the highest at Country Germany and lowest at Country Luxembourg. ",
+      "The highest Country Germany has 69864.0 more Number of employees than the lowest Country Luxembourg. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Number of employees for 18 number of Countrys. ",
+      "The Number of employees is highest at Country Germany and lowest at Country Luxembourg. ",
+      "The second highest Number of employees is appeared to be the Country Italy. ",
+      "The minimum Country Luxembourg has got 121.25 times less Number of employees than the maximum Country Germany. ",
+      "The Country Germany has the highest Number of employees, followed by Italy, and France. Down to the Country Luxembourg which is the lowest. ",
+      "The lowest value 581.0 at Luxembourg is almost 4.73 times smaller than the average value 14885.61. ",
+      "Summing up the values of all Countrys, we get total 267941.0. "
    ],
    "trends": [
       {},

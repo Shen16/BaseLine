@@ -1,16 +1,32 @@
 {
-   "title": "Test",
+   "title": "The largest lakes in the U.S. in 2003 , by area",
    "xAxis": "Lakes In The Us",
    "yAxis": "Area in square miles",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 20 categories on the x axis representing Lakes In The Us, and Area in square miles in each Lakes In The Us on the y axis.",
-      "Lake Superior is higher than any other categories with value 31700.0, followed by , and Lake Michigan. Down to category Rainy Lake with the lowest value of 345.0. ",
-      " The highest value at Lake Superior is almost 91.88 times larger than the minimum value of Rainy Lake. ",
-      " The highest value at Lake Superior is almost 91.88 times larger than the minimum value of Rainy Lake. ",
-      " The difference between the max Lakes In The Us Lake Superior and min Lakes In The Us Rainy Lake is 31355.0. "
+      "This is a bar chart. It shows Area in square miles for 20 number of Lakes In The Uss. ",
+      "The maximum Area in square miles 31700.0 is found at Lakes In The Us Lake Superior and the minimum is found at Rainy Lake where Lakes In The Us is 345.0. ",
+      "The difference of Area in square miles between the highest and lowest Lakes In The Us is 31355.0. "
+   ],
+   "min_summary": [
+      "This bar chart has 20 columns on the x axis representing Lakes In The Us, and Area in square miles in each Lakes In The Us on the y axis. ",
+      "The maximum Area in square miles 31700.0 is found at Lakes In The Us Lake Superior and the minimum is found at Rainy Lake where Lakes In The Us is 345.0. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Area in square miles for 20 number of Lakes In The Uss. ",
+      "The maximum Area in square miles 31700.0 is found at Lakes In The Us Lake Superior and the minimum is found at Rainy Lake where Lakes In The Us is 345.0. ",
+      "The difference of Area in square miles between the highest and lowest Lakes In The Us is 31355.0. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Lakes In The Us in the x axis and Area in square miles in the y axis. ",
+      "The maximum Area in square miles 31700.0 is found at Lakes In The Us Lake Superior and the minimum is found at Rainy Lake where Lakes In The Us is 345.0. ",
+      "Second maximum Area in square miles is found at Lakes In The Us Lake Huron. ",
+      "The highest value at Lakes In The Us Lake Superior is 91.88x times more than the lowest value at Rainy Lake. ",
+      "Area in square miles at Lakes In The Us Lake Superior is 31700.0 , second place is Lake Huron at 23000.0, and thirdly is Lake Michigan at 22300.0.",
+      "The lowest value 345.0 at Rainy Lake is almost 6.06 times smaller than the average value 5232.65. ",
+      "The Area in square miles is 104653.0 if we add up values of all Lakes In The Uss. "
    ],
    "trends": [
       {},

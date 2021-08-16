@@ -1,48 +1,38 @@
 {
-   "title": "Test",
+   "title": "Number of divorces in Sweden 2008 to 2018",
    "xAxis": "Year",
    "yAxis": "Number of divorces",
    "columnType": "two",
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Number of divorces, with a total of 11 data points.",
+      "This is a line chart with an x axis representing Year and a y axis representing Number of divorces, containing a total of 11 data points.",
       " Overall Number of divorces has increased over the Year.",
-      "Number of divorces is gradually increasing from 2008 to 2010, roughly constant from 2010 to 2012, slightly increasing from 2012 to 2013, slightly decreasing from 2013 to 2015, roughly constant from 2015 to 2017, and lastly roughly increasing from 2017 to 2018.",
+      "The line drastically ",
       "The steepest increase occurs in between the Year 2012 and 2013.",
-      "Max Number of divorces about 26933.0 was recorded at Year 2013",
-      "Min Number of divorces about 22580.0 was recorded at Year 2008",
-      "#########################################################################",
-      "This line chart has an x axis representing Year and a y axis representing Number of divorces, with a total of 11 data points. The chart has 5 significant trends.",
-      " The longest trend is slightly decreasing which exists from 2013 to 2017.",
-      " On the other hand, the next significant trend is extremely increasing which exists from 2011 to 2013.",
-      " In a similar manner, the next significant trend is extremely increasing which exists from 2008 to 2010.",
-      " Correspondingly, the next significant trend is moderately increasing which exists from 2017 to 2018.",
-      " In a similar manner, the next significant trend is slightly decreasing which exists from 2010 to 2011."
+      "Maximum Number of divorces, about 26933.0 was reported at Year 2013",
+      "Minimum Number of divorces about 22580.0 was reached at Year 2008"
    ],
-   "trends": [
-      {},
-      {
-         "1": "1",
-         "12": "5"
-      },
-      {
-         "3": "5",
-         "14": "7"
-      },
-      {
-         "3": "8",
-         "14": "10"
-      },
-      {
-         "3": "0",
-         "14": "1"
-      },
-      {
-         "3": "7",
-         "14": "8"
-      }
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of divorces. In total the number of data points it has is 11.",
+      " In general Number of divorces has rose over the Year."
    ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of divorces. In total the number of data points it has is 11.",
+      " In general Number of divorces has rose over the Year.",
+      "The steepest increase occurs in between the Year 2012 and 2013.",
+      "Maximum Number of divorces, about 26933.0 was reported at Year 2013",
+      "Minimum Number of divorces about 22580.0 was reached at Year 2008"
+   ],
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of divorces. In total the number of data points it has is 11.",
+      " In general Number of divorces has rose over the Year.",
+      "The most drastic increase took place within the Year 2012 and 2013.",
+      "Maximum Number of divorces, about 26933.0 was reported at Year 2013",
+      "Minimum Number of divorces about 22580.0 was reached at Year 2008",
+      "The line drastically "
+   ],
+   "trends": [],
    "data": [
       {
          "Year": "2018",

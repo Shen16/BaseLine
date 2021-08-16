@@ -1,18 +1,30 @@
 {
-   "title": "Test",
+   "title": "Revenue per employee of leading tech companies 2018",
    "xAxis": "Company",
    "yAxis": "Revenue per employee in U.S. dollars",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 8 categories on the x axis representing Company, and Revenue per employee in U.S. dollars in each Company on the y axis.",
-      " The highest category is found at Netflix where Revenue per employee in U.S. dollars is 2224555.0.",
-      " Followed by 2224555.0 in .",
-      " The lowest category is found at Amazon where Revenue per employee in U.S. dollars is 359671.0.",
-      " The highest value at Netflix is almost 6.18 times larger than the minimum value of Amazon. ",
-      " The highest value at Netflix is almost 6.18 times larger than the minimum value of Amazon. ",
-      " The difference between the max Company Netflix and min Company Amazon is 1864884.0. "
+      "This bar chart has 8 columns on the x axis representing Company, and Revenue per employee in U.S. dollars in each Company on the y axis. ",
+      "The Revenue per employee in U.S. dollars is highest at Company Netflix and lowest at Company Amazon. ",
+      "There is a difference of 1864884.0 between the maximum Company Netflix and minimum Company Amazon. "
+   ],
+   "min_summary": [
+      "This bar chart has 8 columns on the x axis representing Company, and Revenue per employee in U.S. dollars in each Company on the y axis. ",
+      "The Revenue per employee in U.S. dollars is highest at Company Netflix and lowest at Company Amazon. "
+   ],
+   "mid_summary": [
+      "This bar chart has 8 columns on the x axis representing Company, and Revenue per employee in U.S. dollars in each Company on the y axis. ",
+      "The Revenue per employee in U.S. dollars is highest at Company Netflix and lowest at Company Amazon. ",
+      "There is a difference of 1864884.0 between the maximum Company Netflix and minimum Company Amazon. "
+   ],
+   "max_summary": [
+      "This bar chart has 8 columns on the x axis representing Company, and Revenue per employee in U.S. dollars in each Company on the y axis. ",
+      "Company Netflix has the highest Revenue per employee in U.S. dollars and Amazon has the lowest Revenue per employee in U.S. dollars. ",
+      "The difference of Revenue per employee in U.S. dollars between the highest and lowest Company is 1864884.0. ",
+      "Company Netflix is higher than any other Companys with value 2224555.0, followed by Apple, and Facebook. Down to Company Amazon with the lowest value 359671.0. ",
+      "The average Revenue per employee in U.S. dollars in all 8 Companys is 1218917.25. "
    ],
    "trends": [
       {},

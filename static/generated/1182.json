@@ -1,48 +1,38 @@
 {
-   "title": "Test",
+   "title": "Number of homicide offences in England and Wales 2002 to 2019",
    "xAxis": "Year",
    "yAxis": "Number of homicides offences",
    "columnType": "two",
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Number of homicides offences, with a total of 17 data points.",
+      "This is a line chart with an x axis representing Year and a y axis representing Number of homicides offences, containing a total of 17 data points.",
       " Overall Number of homicides offences has decreased over the Year.",
-      "Number of homicides offences is slightly decreasing from 2002/03 to 2004/04, roughly constant from 2004/04 to 2004/05, slightly decreasing from 2004/05 to 2005/06, roughly constant from 2005/06 to 2007/08, slightly decreasing from 2007/08 to 2008/09, roughly constant from 2008/09 to 2010/11, slightly decreasing from 2010/11 to 2011/12, roughly constant from 2011/12 to 2014/15, rapidly increasing from 2014/15 to 2016/17, and lastly roughly constant from 2016/17 to 2018/19.",
+      "The line significantly ",
       "The steepest increase occurs in between the Year 2015/16 and 2016/17.",
-      "Max Number of homicides offences about 1047.0 was recorded at Year 2002/03",
-      "Min Number of homicides offences about 533.0 was recorded at Year 2013/14",
-      "#########################################################################",
-      "This line chart has an x axis representing Year and a y axis representing Number of homicides offences, with a total of 17 data points. The chart has 5 significant trends.",
-      " The longest trend is extremely increasing which exists from 2013/14 to 2018/19.",
-      " Likewise, the next significant trend is slightly decreasing which exists from 2002/03 to 2007/08.",
-      " Differently, the next significant trend is moderately increasing which exists from 2011/12 to 2013/14.",
-      " Correspondingly, the next significant trend is moderately increasing which exists from 2009/10 to 2011/12.",
-      " Additionally, the next significant trend is slightly decreasing which exists from 2007/08 to 2009/10."
+      "The highest Number of homicides offences, of value 1047.0 was reached at Year 2002/03",
+      "Minimum Number of homicides offences about 533.0 was reached at Year 2013/14"
    ],
-   "trends": [
-      {},
-      {
-         "1": "0",
-         "12": "5"
-      },
-      {
-         "3": "11",
-         "14": "16"
-      },
-      {
-         "3": "5",
-         "14": "7"
-      },
-      {
-         "3": "7",
-         "14": "9"
-      },
-      {
-         "3": "9",
-         "14": "11"
-      }
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Number of homicides offences, containing a total of 17 data points.",
+      " In general Number of homicides offences has fallen over the Year."
    ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Number of homicides offences, containing a total of 17 data points.",
+      " Overall Number of homicides offences has decreased over the Year.",
+      "The most drastic increase took place within the Year 2015/16 and 2016/17.",
+      "The highest Number of homicides offences, of value 1047.0 was reached at Year 2002/03",
+      "Minimum Number of homicides offences about 533.0 was reached at Year 2013/14"
+   ],
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of homicides offences. In total the number of data points it has is 17.",
+      " Overall Number of homicides offences has decreased over the Year.",
+      "The steepest increase occurs in between the Year 2015/16 and 2016/17.",
+      "The highest Number of homicides offences, of value 1047.0 was reached at Year 2002/03",
+      "Minimum Number of homicides offences about 533.0 was reached at Year 2013/14",
+      "The line significantly "
+   ],
+   "trends": [],
    "data": [
       {
          "Year": "2018/19",

@@ -1,16 +1,32 @@
 {
-   "title": "Test",
+   "title": "Share of global net sales of Luxottica by geographical area 2018",
    "xAxis": "Geographical area",
    "yAxis": "Share of net sales",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 5 categories on the x axis representing Geographical area, and Share of net sales in each Geographical area on the y axis.",
-      "North America is higher than any other categories with value 58.0, followed by , and Asia-Pacific. Down to category Rest of the world with the lowest value of 2.0. ",
-      " The highest value at North America is almost 29.0 times larger than the minimum value of Rest of the world. ",
-      " The highest value at North America is almost 29.0 times larger than the minimum value of Rest of the world. ",
-      " The difference between the max Geographical area North America and min Geographical area Rest of the world is 56.0. "
+      "This is a bar chart. It shows Share of net sales for 5 number of Geographical areas. ",
+      "The Share of net sales is highest at Geographical area North America and lowest at Geographical area Rest of the world. ",
+      "The difference of Share of net sales between the highest and lowest Geographical area is 56.0. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Share of net sales for 5 number of Geographical areas. ",
+      "The Share of net sales is highest at Geographical area North America and lowest at Geographical area Rest of the world. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Share of net sales for 5 number of Geographical areas. ",
+      "The Share of net sales is highest at Geographical area North America and lowest at Geographical area Rest of the world. ",
+      "The difference of Share of net sales between the highest and lowest Geographical area is 56.0. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Share of net sales for 5 number of Geographical areas. ",
+      "The Share of net sales is highest at Geographical area North America and lowest at Geographical area Rest of the world. ",
+      "Second maximum Share of net sales is found at Geographical area Europe. ",
+      "The difference of Share of net sales between the highest and lowest Geographical area is 56.0. ",
+      "Share of net sales at Geographical area North America is 58.0 , second place is Europe at 21.0, and thirdly is Asia-Pacific at 13.0.",
+      "The Geographical area Rest of the world has 2.9 times less Share of net sales than average. ",
+      "Summing up the values of all Geographical areas, we get total 100.0. "
    ],
    "trends": [
       {},

@@ -1,16 +1,32 @@
 {
-   "title": "Test",
+   "title": "Most googled hotel-related keywords in the United Kingdom ( UK ) in January 2016",
    "xAxis": "Hotel Related Keyword",
    "yAxis": "Searches in thousands",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 11 categories on the x axis representing Hotel Related Keyword, and Searches in thousands in each Hotel Related Keyword on the y axis.",
-      "Other related keywords is higher than any other categories with value 3059.58, followed by , and Hotels in London. Down to category Amsterdam hotels with the lowest value of 40.5. ",
-      " The highest value at Other related keywords is almost 75.55 times larger than the minimum value of Amsterdam hotels. ",
-      " The highest value at Other related keywords is almost 75.55 times larger than the minimum value of Amsterdam hotels. ",
-      " The difference between the max Hotel Related Keyword Other related keywords and min Hotel Related Keyword Amsterdam hotels is 3019.08. "
+      "This bar chart has 11 columns on the x axis representing Hotel Related Keyword, and Searches in thousands in each Hotel Related Keyword on the y axis. ",
+      "Hotel Related Keyword Other related keywords has the highest Searches in thousands and Amsterdam hotels has the lowest Searches in thousands. ",
+      "There is a difference of 3019.08 between the maximum Hotel Related Keyword Other related keywords and minimum Hotel Related Keyword Amsterdam hotels. "
+   ],
+   "min_summary": [
+      "This bar chart has 11 columns on the x axis representing Hotel Related Keyword, and Searches in thousands in each Hotel Related Keyword on the y axis. ",
+      "Hotel Related Keyword Other related keywords has the highest Searches in thousands and Amsterdam hotels has the lowest Searches in thousands. "
+   ],
+   "mid_summary": [
+      "This bar chart has 11 columns on the x axis representing Hotel Related Keyword, and Searches in thousands in each Hotel Related Keyword on the y axis. ",
+      "Hotel Related Keyword Other related keywords has the highest Searches in thousands and Amsterdam hotels has the lowest Searches in thousands. ",
+      "There is a difference of 3019.08 between the maximum Hotel Related Keyword Other related keywords and minimum Hotel Related Keyword Amsterdam hotels. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Hotel Related Keyword in the x axis and Searches in thousands in the y axis. ",
+      "The Searches in thousands is appeared to be the highest at Hotel Related Keyword Other related keywords and lowest at Hotel Related Keyword Amsterdam hotels. ",
+      "The maximum Hotel Related Keyword Other related keywords has got 75.55 times higher Searches in thousands than the minimum Hotel Related Keyword Amsterdam hotels. ",
+      "Searches in thousands at Hotel Related Keyword Other related keywords is 3059.58 , second place is Hotels at 201.0, and thirdly is Hotels in London at 90.5.",
+      "Hotel Related Keyword Amsterdam hotels, Hotels in Machester, Hotels in York, and Hoterls in Edinburgh share the same value 40.5. ",
+      "The Hotel Related Keyword Other related keywords tends to be 8.89 percent higher than average. ",
+      "The Searches in thousands is 3784.58 if we add up values of all Hotel Related Keywords. "
    ],
    "trends": [
       {},

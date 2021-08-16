@@ -1,16 +1,31 @@
 {
-   "title": "Test",
+   "title": "YouTube : most watched Latin artists ' music videos 2019",
    "xAxis": "Music Video",
    "yAxis": "Number of views in billions",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 8 categories on the x axis representing Music Video, and Number of views in billions in each Music Video on the y axis.",
-      "Luis Fonsi - Despacito ft. Daddy Yankee is higher than any other categories with value 6.33, followed by , and Shakira - Chantaje (Official Video) ft. Maluma. Down to category Nicky Jam x J. Balvin - X (EQUIS)  Video Oficial  Prod. Afro Bros & Jeon with the lowest value of 1.68. ",
-      " The highest value at Luis Fonsi - Despacito ft. Daddy Yankee is almost 3.77 times larger than the minimum value of Nicky Jam x J. Balvin - X (EQUIS)  Video Oficial  Prod. Afro Bros & Jeon. ",
-      " The highest value at Luis Fonsi - Despacito ft. Daddy Yankee is almost 3.77 times larger than the minimum value of Nicky Jam x J. Balvin - X (EQUIS)  Video Oficial  Prod. Afro Bros & Jeon. ",
-      " The difference between the max Music Video Luis Fonsi - Despacito ft. Daddy Yankee and min Music Video Nicky Jam x J. Balvin - X (EQUIS)  Video Oficial  Prod. Afro Bros & Jeon is 4.65. "
+      "This is a bar chart. It shows Number of views in billions for 8 number of Music Videos. ",
+      "The maximum Number of views in billions 6.33 is found at Music Video Luis Fonsi - Despacito ft. Daddy Yankee and the minimum is found at Nicky Jam x J. Balvin - X (EQUIS)  Video Oficial  Prod. Afro Bros & Jeon where Music Video is 1.68. ",
+      "There is a difference of 4.65 between the maximum Music Video Luis Fonsi - Despacito ft. Daddy Yankee and minimum Music Video Nicky Jam x J. Balvin - X (EQUIS)  Video Oficial  Prod. Afro Bros & Jeon. "
+   ],
+   "min_summary": [
+      "This bar chart has 8 columns on the x axis representing Music Video, and Number of views in billions in each Music Video on the y axis. ",
+      "The Number of views in billions is appeared to be the highest at Music Video Luis Fonsi - Despacito ft. Daddy Yankee and lowest at Music Video Nicky Jam x J. Balvin - X (EQUIS)  Video Oficial  Prod. Afro Bros & Jeon. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Number of views in billions for 8 number of Music Videos. ",
+      "The maximum Number of views in billions 6.33 is found at Music Video Luis Fonsi - Despacito ft. Daddy Yankee and the minimum is found at Nicky Jam x J. Balvin - X (EQUIS)  Video Oficial  Prod. Afro Bros & Jeon where Music Video is 1.68. ",
+      "There is a difference of 4.65 between the maximum Music Video Luis Fonsi - Despacito ft. Daddy Yankee and minimum Music Video Nicky Jam x J. Balvin - X (EQUIS)  Video Oficial  Prod. Afro Bros & Jeon. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Number of views in billions for 8 number of Music Videos. ",
+      "The Number of views in billions is appeared to be the highest at Music Video Luis Fonsi - Despacito ft. Daddy Yankee and lowest at Music Video Nicky Jam x J. Balvin - X (EQUIS)  Video Oficial  Prod. Afro Bros & Jeon. ",
+      "There is a difference of 4.65 between the maximum Music Video Luis Fonsi - Despacito ft. Daddy Yankee and minimum Music Video Nicky Jam x J. Balvin - X (EQUIS)  Video Oficial  Prod. Afro Bros & Jeon. ",
+      "Number of views in billions at Music Video Luis Fonsi - Despacito ft. Daddy Yankee is 6.33 , second place is J Balvin Willy William - Mi Gente (Official Video) at 2.44, and thirdly is Shakira - Chantaje (Official Video) ft. Maluma at 2.41.",
+      "The Music Video Luis Fonsi - Despacito ft. Daddy Yankee tends to be 2.44 percent higher than average. ",
+      "The Number of views in billions is 20.73 if we add up values of all Music Videos. "
    ],
    "trends": [
       {},

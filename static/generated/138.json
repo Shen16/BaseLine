@@ -1,18 +1,31 @@
 {
-   "title": "Test",
+   "title": "MSC - number of ships 2020",
    "xAxis": "Ship Type",
    "yAxis": "Number of ships",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 3 categories on the x axis representing Ship Type, and Number of ships in each Ship Type on the y axis.",
-      " The highest category is found at Chartered where Number of ships is 397.0.",
-      " Followed by 397.0 in .",
-      " The lowest category is found at Orderbook where Number of ships is 13.0.",
-      " The highest value at Chartered is almost 30.54 times larger than the minimum value of Orderbook. ",
-      " The highest value at Chartered is almost 30.54 times larger than the minimum value of Orderbook. ",
-      " The difference between the max Ship Type Chartered and min Ship Type Orderbook is 384.0. "
+      "This is a bar chart representing Ship Type in the x axis and Number of ships in the y axis. ",
+      "The maximum Number of ships 397.0 is found at Ship Type Chartered and the minimum is found at Orderbook where Ship Type is 13.0. ",
+      "The highest Ship Type Chartered has 384.0 more Number of ships than the lowest Ship Type Orderbook. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing Ship Type in the x axis and Number of ships in the y axis. ",
+      "The maximum Number of ships 397.0 is found at Ship Type Chartered and the minimum is found at Orderbook where Ship Type is 13.0. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Ship Type in the x axis and Number of ships in the y axis. ",
+      "The maximum Number of ships 397.0 is found at Ship Type Chartered and the minimum is found at Orderbook where Ship Type is 13.0. ",
+      "The highest Ship Type Chartered has 384.0 more Number of ships than the lowest Ship Type Orderbook. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Ship Type in the x axis and Number of ships in the y axis. ",
+      "The maximum Number of ships 397.0 is found at Ship Type Chartered and the minimum is found at Orderbook where Ship Type is 13.0. ",
+      "Ship Type Owned has the second highest value for Number of ships. ",
+      "The Number of ships of Ship Type Orderbook is 30.54% smaller than the maximum value at Chartered. ",
+      "Considered together, the average Number of ships in all 3 Ship Types is roughly 195.67. ",
+      "The Number of ships is 587.0 if we add up values of all Ship Types. "
    ],
    "trends": [
       {},

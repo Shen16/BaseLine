@@ -1,43 +1,38 @@
 {
-   "title": "Test",
+   "title": "U.S. passenger-miles : Intercity/Amtrak 2007 to 2018",
    "xAxis": "Year",
    "yAxis": "U.S. passenger-miles in millions",
    "columnType": "two",
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing U.S. passenger-miles in millions, with a total of 12 data points.",
-      " Overall U.S. passenger-miles in millions has increased over the Year.",
-      "U.S. passenger-miles in millions is slightly increasing from 2007 to 2010, roughly constant from 2010 to 2011, slightly increasing from 2011 to 2013, slightly decreasing from 2013 to 2014, roughly constant from 2014 to 2017, and lastly roughly decreasing from 2017 to 2018.",
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes U.S. passenger-miles in millions. In total the number of data points it has is 12.",
+      " In general U.S. passenger-miles in millions has rose over the Year.",
+      "The line significantly ",
       "The steepest decrease occurs in between the Year 2013 and 2014.",
-      "Max U.S. passenger-miles in millions about 7283.0 was recorded at Year 2013",
-      "Min U.S. passenger-miles in millions about 5784.0 was recorded at Year 2007",
-      "#########################################################################",
-      "This line chart has an x axis representing Year and a y axis representing U.S. passenger-miles in millions, with a total of 12 data points. The chart has 4 significant trends.",
-      " The longest trend is extremely increasing which exists from 2009 to 2013.",
-      " Correspondingly, the next significant trend is slightly decreasing which exists from 2013 to 2016.",
-      " Differently, the next significant trend is moderately increasing which exists from 2016 to 2018.",
-      " Similarly, the next significant trend is moderately decreasing which exists from 2007 to 2009."
+      "Maximum U.S. passenger-miles in millions, about 7283.0 was reported at Year 2013",
+      "Minimum U.S. passenger-miles in millions about 5784.0 was reached at Year 2007"
    ],
-   "trends": [
-      {},
-      {
-         "1": "5",
-         "12": "9"
-      },
-      {
-         "3": "2",
-         "14": "5"
-      },
-      {
-         "3": "0",
-         "14": "2"
-      },
-      {
-         "3": "9",
-         "14": "11"
-      }
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing U.S. passenger-miles in millions, containing a total of 12 data points.",
+      " Overall U.S. passenger-miles in millions has increased over the Year."
    ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes U.S. passenger-miles in millions. In total the number of data points it has is 12.",
+      " Overall U.S. passenger-miles in millions has increased over the Year.",
+      "The most drastic decrease took place within the Year 2013 and 2014.",
+      "Maximum U.S. passenger-miles in millions, about 7283.0 was reported at Year 2013",
+      "Minimum U.S. passenger-miles in millions about 5784.0 was reached at Year 2007"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing U.S. passenger-miles in millions, containing a total of 12 data points.",
+      " In general U.S. passenger-miles in millions has rose over the Year.",
+      "The most drastic decrease took place within the Year 2013 and 2014.",
+      "Maximum U.S. passenger-miles in millions, about 7283.0 was reported at Year 2013",
+      "Minimum U.S. passenger-miles in millions about 5784.0 was reached at Year 2007",
+      "The line drastically "
+   ],
+   "trends": [],
    "data": [
       {
          "Year": "2018",

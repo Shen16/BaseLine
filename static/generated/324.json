@@ -1,18 +1,33 @@
 {
-   "title": "Test",
+   "title": "Number of eSports games players worldwide 2017",
    "xAxis": "Sport",
    "yAxis": "Number of players in millions",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 9 categories on the x axis representing Sport, and Number of players in millions in each Sport on the y axis.",
-      " The highest category is found at League of Legends where Number of players in millions is 100.0.",
-      " Followed by 100.0 in .",
-      " The lowest category is found at StarCraft II where Number of players in millions is 2.4.",
-      " The highest value at League of Legends is almost 41.67 times larger than the minimum value of StarCraft II. ",
-      " The highest value at League of Legends is almost 41.67 times larger than the minimum value of StarCraft II. ",
-      " The difference between the max Sport League of Legends and min Sport StarCraft II is 97.6. "
+      "This is a bar chart representing Sport in the x axis and Number of players in millions in the y axis. ",
+      "The maximum Number of players in millions 100.0 is found at Sport League of Legends and the minimum is found at StarCraft II where Sport is 2.4. ",
+      "Sport StarCraft II has 41.67 times less Number of players in millions than Sport League of Legends which is the highest. "
+   ],
+   "min_summary": [
+      "This bar chart has 9 columns on the x axis representing Sport, and Number of players in millions in each Sport on the y axis. ",
+      "The Number of players in millions is appeared to be the highest at Sport League of Legends and lowest at Sport StarCraft II. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Sport in the x axis and Number of players in millions in the y axis. ",
+      "The maximum Number of players in millions 100.0 is found at Sport League of Legends and the minimum is found at StarCraft II where Sport is 2.4. ",
+      "Sport StarCraft II has 41.67 times less Number of players in millions than Sport League of Legends which is the highest. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Number of players in millions for 9 number of Sports. ",
+      "The Number of players in millions is appeared to be the highest at Sport League of Legends and lowest at Sport StarCraft II. ",
+      "Second maximum Number of players in millions is found at Sport Call of Duty. ",
+      "The highest Sport League of Legends has 97.6 more Number of players in millions than the lowest Sport StarCraft II. ",
+      "Sport League of Legends is higher than any other Sports with value 100.0, followed by Call of Duty, and Hearthstone. Down to Sport StarCraft II with the lowest value 2.4. ",
+      "Sport World of Tanks, and FIFA 17 have the same Number of players in millions. ",
+      "The Sport StarCraft II tends to be 4.28 percent lower than average. ",
+      "Summing up the values of all Sports, we get total 210.3. "
    ],
    "trends": [
       {},

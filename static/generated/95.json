@@ -1,18 +1,32 @@
 {
-   "title": "Test",
+   "title": "Top selling Nintendo Wii games worldwide in 2019",
    "xAxis": "Month",
    "yAxis": "Sales in million units",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 10 categories on the x axis representing Month, and Sales in million units in each Month on the y axis.",
-      " The highest category is found at Wii Sports where Sales in million units is 82.88.",
-      " Followed by 82.88 in .",
-      " The lowest category is found at Wii Party where Sales in million units is 9.34.",
-      " The highest value at Wii Sports is almost 8.87 times larger than the minimum value of Wii Party. ",
-      " The highest value at Wii Sports is almost 8.87 times larger than the minimum value of Wii Party. ",
-      " The difference between the max Month Wii Sports and min Month Wii Party is 73.53999999999999. "
+      "This bar chart has 10 columns on the x axis representing Month, and Sales in million units in each Month on the y axis. ",
+      "The maximum Sales in million units 82.88 is found at Month Wii Sports and the minimum is found at Wii Party where Month is 9.34. ",
+      "The highest Month Wii Sports has 73.54 more Sales in million units than the lowest Month Wii Party. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Sales in million units for 10 number of Months. ",
+      "Month Wii Sports has the highest Sales in million units and Wii Party has the lowest Sales in million units. "
+   ],
+   "mid_summary": [
+      "This bar chart has 10 columns on the x axis representing Month, and Sales in million units in each Month on the y axis. ",
+      "The maximum Sales in million units 82.88 is found at Month Wii Sports and the minimum is found at Wii Party where Month is 9.34. ",
+      "The highest Month Wii Sports has 73.54 more Sales in million units than the lowest Month Wii Party. "
+   ],
+   "max_summary": [
+      "This bar chart has 10 columns on the x axis representing Month, and Sales in million units in each Month on the y axis. ",
+      "Month Wii Sports has the highest Sales in million units and Wii Party has the lowest Sales in million units. ",
+      "Month Mario Kart Wii has the second highest value for Sales in million units. ",
+      "The maximum Month Wii Sports has got 8.87 times higher Sales in million units than the minimum Month Wii Party. ",
+      "The Month Wii Sports has the highest Sales in million units, followed by Mario Kart Wii, and Wii Sports Resort. Down to the Month Wii Party which is the lowest. ",
+      "Overall Sales in million units has lowered over the Months. ",
+      "The highest value 82.88 at Wii Sports is almost 2.85 times larger than the average value 29.08. "
    ],
    "trends": [
       {},

@@ -1,53 +1,38 @@
 {
-   "title": "Test",
+   "title": "Number of live births in the EU in 2018",
    "xAxis": "Year",
    "yAxis": "Number of live births in millions",
    "columnType": "two",
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Number of live births in millions, with a total of 11 data points.",
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of live births in millions. In total the number of data points it has is 11.",
       " Overall Number of live births in millions has decreased over the Year.",
-      "Number of live births in millions is roughly constant from 2008 to 2010, slightly decreasing from 2010 to 2011, roughly constant from 2011 to 2012, slightly decreasing from 2012 to 2013, roughly constant from 2013 to 2016, and lastly slightly decreasing from 2016 to 2018.",
+      "The line rapidly ",
       "The steepest decrease occurs in between the Year 2012 and 2013.",
-      "Max Number of live births in millions about 5.47 was recorded at Year 2008",
-      "Min Number of live births in millions about 4.96 was recorded at Year 2018",
-      "#########################################################################",
-      "This line chart has an x axis representing Year and a y axis representing Number of live births in millions, with a total of 11 data points. The chart has 6 significant trends.",
-      " The longest trend is slightly decreasing which exists from 2010 to 2013.",
-      " But, the next significant trend is slightly decreasing which exists from 2016 to 2018.",
-      " Contrarily, the next significant trend is moderately constant which exists from 2008 to 2010.",
-      " Conversely, the next significant trend is extremely increasing which exists from 2015 to 2016.",
-      " Additionally, the next significant trend is moderately decreasing which exists from 2014 to 2015.",
-      " Conversely, the next significant trend is extremely increasing which exists from 2013 to 2014."
+      "The highest Number of live births in millions, of value 5.47 was reached at Year 2008",
+      "The lowest Number of live births in millions, of value 4.96 was reported at Year 2018"
    ],
-   "trends": [
-      {},
-      {
-         "1": "5",
-         "12": "8"
-      },
-      {
-         "3": "0",
-         "14": "2"
-      },
-      {
-         "3": "8",
-         "14": "10"
-      },
-      {
-         "3": "2",
-         "14": "3"
-      },
-      {
-         "3": "3",
-         "14": "4"
-      },
-      {
-         "3": "4",
-         "14": "5"
-      }
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of live births in millions. In total the number of data points it has is 11.",
+      " In general Number of live births in millions has fallen over the Year."
    ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of live births in millions. In total the number of data points it has is 11.",
+      " In general Number of live births in millions has fallen over the Year.",
+      "The most drastic decrease took place within the Year 2012 and 2013.",
+      "The highest Number of live births in millions, of value 5.47 was reached at Year 2008",
+      "The lowest Number of live births in millions, of value 4.96 was reported at Year 2018"
+   ],
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of live births in millions. In total the number of data points it has is 11.",
+      " In general Number of live births in millions has fallen over the Year.",
+      "The steepest decrease occurs in between the Year 2012 and 2013.",
+      "The highest Number of live births in millions, of value 5.47 was reached at Year 2008",
+      "The lowest Number of live births in millions, of value 4.96 was reported at Year 2018",
+      "The line significantly "
+   ],
+   "trends": [],
    "data": [
       {
          "Year": "2018",

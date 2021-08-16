@@ -1,5 +1,5 @@
 {
-   "title": "Test",
+   "title": "Employment by economic sector in Iceland 2019",
    "labels": [
       "Year",
       "Agriculture",
@@ -10,15 +10,39 @@
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This is a multi-line chart with 3 lines representing Agriculture, Industry, and Services. ",
-      "The line for Services has the highest values across Year with a mean value of 77.39, ",
-      "and it peaked at 2019 with a value of 79.18.",
-      "Followed by Industry, with a mean value of 18.1. ",
-      "This line peaked at 2009 with a value of 19.5. ",
-      "Agriculture mostly had the least y-axis name with a mean value of 4.52, ",
-      "which peaked at 2010 with a value of 5.59. ",
-      "Agriculture reported the lowest y-axis name  about 3.69 in Year 2019",
-      "Overall Agriculture, Industry, and Services are roughly constant,  throughout the Year"
+      "You are viewing a chart of multi-line type with 3 lines denoting Agriculture, Industry, and Services. The y axis indicates the Share of total employment and the x axis indicates Year.",
+      "Overall Agriculture, Industry, and Services are roughly constant,  throughout the Year",
+      "The ranking of the lines from topmost to botommmost is as follows: 1. Services, 2. Industry, and lastly, 3. Agriculture. ",
+      "Throughout the period, Services generally had the highest Share of total employment relative to others with an average of 77.39, and it reached its maximum at 2019 with a value of 79.18.",
+      "Followed by Industry which ranks as the second topmpost line , with an average of 18.1 Share of total employment,reaching its highest point  at 2009 with a value of 19.5. ",
+      "The botommost line, Agriculture,  has a mean of 4.52, and peaked at 2010. ",
+      "Agriculture reported the lowest Share of total employment about 3.69 in Year 2019"
+   ],
+   "xAxis": "Year",
+   "yAxis": "Share of total employment",
+   "min_summary": [
+      "The given chart is of multi-line type with 3 lines namely Agriculture, Industry, and Services. The y axis represents Share of total employment and the x axis represents Year.",
+      "Overall Agriculture, Industry, and Services are roughly constant,  throughout the Year",
+      "Overall across the Year, Services mostly maintained the highest Share of total employment when compared to others with a mean value of 77.39, and it peaked at 2019.",
+      "Followed by Industry which ranks as the second topmpost line , with an average of 18.1 Share of total employment,reaching its highest point  at 2009 with a value of 19.5. ",
+      "Agriculture mostly had the least Share of total employment with a mean value of 4.52, which peaked at 2010 with a value of 5.59. "
+   ],
+   "mid_summary": [
+      "The given chart is of multi-line type with 3 lines namely Agriculture, Industry, and Services. The y axis represents Share of total employment and the x axis represents Year.",
+      "Overall Agriculture, Industry, and Services are roughly constant,  throughout the Year",
+      "The ranking of the lines from topmost to botommmost is as follows: 1. Services, 2. Industry, and lastly, 3. Agriculture. ",
+      "Throughout the period, Services generally had the highest Share of total employment relative to others with an average of 77.39, and it reached its maximum at 2019 with a value of 79.18.",
+      "Followed by Industry which ranks as the second topmpost line , with an average of 18.1 Share of total employment,reaching its highest point  at 2009 with a value of 19.5. ",
+      "The botommost line, Agriculture,  has a mean of 4.52, and peaked at 2010. "
+   ],
+   "max_summary": [
+      "You are viewing a chart of multi-line type with 3 lines denoting Agriculture, Industry, and Services. The y axis indicates the Share of total employment and the x axis indicates Year.",
+      "Overall Agriculture, Industry, and Services are roughly constant,  throughout the Year",
+      "The ranking of the lines from topmost to botommmost is as follows: 1. Services, 2. Industry, and lastly, 3. Agriculture. ",
+      "Overall across the Year, Services mostly maintained the highest Share of total employment when compared to others with a mean value of 77.39, and it peaked at 2019.",
+      "Followed by Industry which ranks as the second topmpost line , with an average of 18.1 Share of total employment,reaching its highest point  at 2009 with a value of 19.5. ",
+      "The botommost line, Agriculture,  has a mean of 4.52, and peaked at 2010. ",
+      "The minimum Share of total employment about 3.69, occured at 2019 by Agriculture."
    ],
    "trends": [
       {},

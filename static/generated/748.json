@@ -1,5 +1,5 @@
 {
-   "title": "Test",
+   "title": "Amount spent on smartphone accessories by U.S. consumers 2010",
    "labels": [
       "Response",
       "Under $50",
@@ -11,10 +11,31 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart has 3 categories of Response on the x axis representing 4 groups: Under $50, $50 - $100, $100 - $200, and $200 and up.",
-      " Averaging these 4 groups, the highest category is found for Response BlackBerry owners with a mean value of 23.5.",
-      " The lowest category is observed at Android owners that has a mean value of 23.25",
-      " In case of Android owners, Under $50 shows more dominance than any other Response with a value 60.0 and it has the lowest value 33.0 in iPhone owners.  However, $200 and up being the 2nd most important group, has the highest value 9.0 for Response iPhone owners and the lowest 1.0 in case of BlackBerry owners. "
+      "This grouped bar chart represents 3 different Responses on X-axis for 4 groups Under $50, $50 - $100, $100 - $200, and $200 and up. On the Y-axis it shows their corresponding SOME LABEL. ",
+      " In Response Android owners, Under $50 had the highest SOME LABEL 60.0 among the 4 groups and in BlackBerry owners, $200 and up had the lowest SOME LABEL 1.0. ",
+      " In Response iPhone owners, $50 - $100 had the highest SOME LABEL among all 3 Responses and it has the lowest SOME LABEL in Response Android owners. ",
+      "Response iPhone owners and Android owners had the biggest gap of 14.0 between the highest and lowest SOME LABEL found for $50 - $100. "
+   ],
+   "xAxis": "Response",
+   "yAxis": "SOME LABEL",
+   "min_summary": [
+      "This grouped bar chart represents 3 different Responses on X-axis for 4 groups Under $50, $50 - $100, $100 - $200, and $200 and up. On the Y-axis it shows their corresponding SOME LABEL. ",
+      " Out of all 4 groups, Under $50 had the highest SOME LABEL in Response Android owners and $200 and up had the lowest SOME LABEL in Response BlackBerry owners. "
+   ],
+   "mid_summary": [
+      "This grouped bar chart represents 3 different Responses on X-axis for 4 groups Under $50, $50 - $100, $100 - $200, and $200 and up. On the Y-axis it shows their corresponding SOME LABEL. ",
+      " In Response Android owners, Under $50 had the highest SOME LABEL 60.0 among the 4 groups and in BlackBerry owners, $200 and up had the lowest SOME LABEL 1.0. ",
+      " In Response iPhone owners, $50 - $100 had the highest SOME LABEL among all 3 Responses and it has the lowest SOME LABEL in Response Android owners. ",
+      "Response iPhone owners and Android owners had the biggest gap of 14.0 between the highest and lowest SOME LABEL found for $50 - $100. "
+   ],
+   "max_summary": [
+      "This grouped bar chart shows SOME LABEL on the Y-axis for 3 different Responses for 4 groups Under $50, $50 - $100, $100 - $200, and $200 and up that are presented on the X-axis. ",
+      " Response Android owners had the maximum SOME LABEL among all 4 groups, and it was for Under $50. The minimum SOME LABEL was observed in Response BlackBerry owners for $200 and up. ",
+      " Among all the Responses, $50 - $100 had the highest SOME LABEL in Response iPhone owners and lowest SOME LABEL in Response Android owners. ",
+      " There is a gap of 14.0 between the highest and lowest SOME LABEL found for $50 - $100 in Response iPhone owners and Android owners. ",
+      " Out of all 4 groups, the highest gap between the maximum and minimum SOME LABEL was found in case of Under $50. ",
+      " In Response Android owners, Under $50 had the highest SOME LABEL 60.0 among the 4 groups and in BlackBerry owners, $200 and up had the lowest SOME LABEL 1.0. The second highest SOME LABEL 19.0 was observed for Under $50 in Response Android owners. ",
+      "On average, the Response BlackBerry owners had the highest SOME LABEL for all 4 groups Under $50, $50 - $100, $100 - $200, and $200 and up. Whereas Android owners had the lowest average SOME LABEL. "
    ],
    "trends": [
       {},

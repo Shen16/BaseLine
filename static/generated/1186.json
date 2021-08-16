@@ -1,13 +1,32 @@
 {
-   "title": "Test",
+   "title": "United Kingdom ( UK ) : Live births 1931 to 1960",
    "xAxis": "Years 1931-1960",
    "yAxis": "Number of live births",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 30 categories on the x axis representing Years 1931-1960, and Number of live births in each Years 1931-1960 on the y axis.",
-      "'47 is higher than any other categories with value 1025427.0, followed by , and '60. Down to category '33 with the lowest value of 691560.0. "
+      "This is a bar chart. It shows Number of live births for 30 number of Years 1931-1960s. ",
+      "The maximum Number of live births 1025427.0 is found at Years 1931-1960 '47 and the minimum is found at '33 where Years 1931-1960 is 691560.0. ",
+      "The highest Years 1931-1960 '47 has 333867.0 more Number of live births than the lowest Years 1931-1960 '33. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing Years 1931-1960 in the x axis and Number of live births in the y axis. ",
+      "The Number of live births is appeared to be the highest at Years 1931-1960 '47 and lowest at Years 1931-1960 '33. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Number of live births for 30 number of Years 1931-1960s. ",
+      "The maximum Number of live births 1025427.0 is found at Years 1931-1960 '47 and the minimum is found at '33 where Years 1931-1960 is 691560.0. ",
+      "The highest Years 1931-1960 '47 has 333867.0 more Number of live births than the lowest Years 1931-1960 '33. "
+   ],
+   "max_summary": [
+      "This bar chart has 30 columns on the x axis representing Years 1931-1960, and Number of live births in each Years 1931-1960 on the y axis. ",
+      "The maximum Number of live births 1025427.0 is found at Years 1931-1960 '47 and the minimum is found at '33 where Years 1931-1960 is 691560.0. ",
+      "Second maximum Number of live births is found at Years 1931-1960 '46. ",
+      "The difference of Number of live births between the highest and lowest Years 1931-1960 is 333867.0. ",
+      "Number of live births at Years 1931-1960 '47 is 1025427.0 , second place is '46 at 955266.0, and thirdly is '60 at 918286.0.",
+      "The Years 1931-1960 '33 has 1.28 times less Number of live births than average. ",
+      "The Number of live births is 24036593.0 if we add up values of all Years 1931-1960s. "
    ],
    "trends": [
       {},

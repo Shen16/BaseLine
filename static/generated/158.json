@@ -1,16 +1,30 @@
 {
-   "title": "Test",
+   "title": "Number of married people in Canada , by age group 2018",
    "xAxis": "Age group",
    "yAxis": "Number of people",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 18 categories on the x axis representing Age group, and Number of people in each Age group on the y axis.",
-      "55 to 59 years is higher than any other categories with value 1623642.0, followed by , and 50 to 54 years. Down to category 100 years and over with the lowest value of 636.0. ",
-      " The highest value at 55 to 59 years is almost 2552.9 times larger than the minimum value of 100 years and over. ",
-      " The highest value at 55 to 59 years is almost 2552.9 times larger than the minimum value of 100 years and over. ",
-      " The difference between the max Age group 55 to 59 years and min Age group 100 years and over is 1623006.0. "
+      "This is a bar chart. It shows Number of people for 18 number of Age groups. ",
+      "Age group 55 to 59 years has the highest Number of people and 100 years and over has the lowest Number of people. ",
+      "The highest Age group 55 to 59 years has 1623006.0 more Number of people than the lowest Age group 100 years and over. "
+   ],
+   "min_summary": [
+      "This bar chart has 18 columns on the x axis representing Age group, and Number of people in each Age group on the y axis. ",
+      "Age group 55 to 59 years has the highest Number of people and 100 years and over has the lowest Number of people. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Number of people for 18 number of Age groups. ",
+      "Age group 55 to 59 years has the highest Number of people and 100 years and over has the lowest Number of people. ",
+      "The highest Age group 55 to 59 years has 1623006.0 more Number of people than the lowest Age group 100 years and over. "
+   ],
+   "max_summary": [
+      "This bar chart has 18 columns on the x axis representing Age group, and Number of people in each Age group on the y axis. ",
+      "The Number of people is highest at Age group 55 to 59 years and lowest at Age group 100 years and over. ",
+      "There is a difference of 1623006.0 between the maximum Age group 55 to 59 years and minimum Age group 100 years and over. ",
+      "The Age group 55 to 59 years has the highest Number of people, followed by 60 to 64 years, and 50 to 54 years. Down to the Age group 100 years and over which is the lowest. ",
+      "The Age group 55 to 59 years has 2.1 times more Number of people than average. "
    ],
    "trends": [
       {},

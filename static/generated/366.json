@@ -1,16 +1,32 @@
 {
-   "title": "Test",
+   "title": "NFL teams ranked by number of Super Bowl appearances all time 2020",
    "xAxis": "Team",
    "yAxis": "Number of Super Bowl appearances",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 28 categories on the x axis representing Team, and Number of Super Bowl appearances in each Team on the y axis.",
-      "New England Patriots is higher than any other categories with value 11.0, followed by , and Denver Broncos. Down to category New Orleans Saints with the lowest value of 1.0. ",
-      " The highest value at New England Patriots is almost 11.0 times larger than the minimum value of New Orleans Saints. ",
-      " The highest value at New England Patriots is almost 11.0 times larger than the minimum value of New Orleans Saints. ",
-      " The difference between the max Team New England Patriots and min Team New Orleans Saints is 10.0. "
+      "This bar chart has 28 columns on the x axis representing Team, and Number of Super Bowl appearances in each Team on the y axis. ",
+      "The maximum Number of Super Bowl appearances 11.0 is found at Team New England Patriots and the minimum is found at New Orleans Saints where Team is 1.0. ",
+      "The highest value at Team New England Patriots is 11.0x times more than the lowest value at New Orleans Saints. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing Team in the x axis and Number of Super Bowl appearances in the y axis. ",
+      "The Number of Super Bowl appearances is highest at Team New England Patriots and lowest at Team New Orleans Saints. "
+   ],
+   "mid_summary": [
+      "This bar chart has 28 columns on the x axis representing Team, and Number of Super Bowl appearances in each Team on the y axis. ",
+      "The maximum Number of Super Bowl appearances 11.0 is found at Team New England Patriots and the minimum is found at New Orleans Saints where Team is 1.0. ",
+      "The highest value at Team New England Patriots is 11.0x times more than the lowest value at New Orleans Saints. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Number of Super Bowl appearances for 28 number of Teams. ",
+      "Team New England Patriots has the highest Number of Super Bowl appearances and New Orleans Saints has the lowest Number of Super Bowl appearances. ",
+      "The difference of Number of Super Bowl appearances between the highest and lowest Team is 10.0. ",
+      "Team New England Patriots is higher than any other Teams with value 11.0, followed by Denver Broncos, and Denver Broncos. Down to Team New Orleans Saints with the lowest value 1.0. ",
+      "Team New Orleans Saints, Arizona Cardinals, Tennessee Titans, Tampa Bay Buccaneers, Los Angeles Chargers, and New York Jets have the same Number of Super Bowl appearances. ",
+      "The lowest value 1.0 at New Orleans Saints is almost 2.85 times smaller than the average value 3.86. ",
+      "Summing up the values of all Teams, we get total 108.0. "
    ],
    "trends": [
       {},

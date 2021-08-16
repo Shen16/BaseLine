@@ -1,5 +1,5 @@
 {
-   "title": "Test",
+   "title": "Vending machines : Market share of product categories in the U.S. 2010",
    "labels": [
       "Food Type",
       "2009",
@@ -9,12 +9,30 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart has 10 categories of Food Type on the x axis representing 2 groups: 2009, and 2010.",
-      " Averaging these 2 groups, the highest category is found for Food Type Packaged cold beverages with a mean value of 55.15.",
-      " Followed by Snacks confections pastry with a mean value of 22.75.",
-      " The lowest category is observed at Cigarettes & Cigars that has a mean value of 0.65",
-      " showing a difference of 195.3% with the maximum value.",
-      " In case of Packaged cold beverages, 2009 shows more dominance than any other Food Type with a value 542.0 and it has the lowest value 1.0 in Bulk vending. "
+      "This grouped bar chart represents 10 different Food Types on X-axis for 2 groups 2009, and 2010. On the Y-axis it shows their corresponding Market share. ",
+      " In Food Type Packaged cold beverages, 2010 had the highest Market share 561.0 among the 2 groups and in Bulk vending, 2009 had the lowest Market share 1.0. ",
+      " Among all the Food Types, 2009 had the highest Market share in Food Type Packaged cold beverages and lowest Market share in Food Type Bulk vending. ",
+      " There is a gap of 541.0 between the highest and lowest Market share found for 2009 in Food Type Packaged cold beverages and Bulk vending. "
+   ],
+   "xAxis": "Food Type",
+   "yAxis": "Market share",
+   "min_summary": [
+      "This grouped bar chart shows Market share on the Y-axis for 10 different Food Types for 2 groups 2009, and 2010 that are presented on the X-axis. ",
+      " Out of all 2 groups, 2010 had the highest Market share in Food Type Packaged cold beverages and 2009 had the lowest Market share in Food Type Bulk vending. "
+   ],
+   "mid_summary": [
+      "This grouped bar chart represents 10 different Food Types on X-axis for 2 groups 2009, and 2010. On the Y-axis it shows their corresponding Market share. ",
+      " In Food Type Packaged cold beverages, 2010 had the highest Market share 561.0 among the 2 groups and in Bulk vending, 2009 had the lowest Market share 1.0. ",
+      " Among all the Food Types, 2009 had the highest Market share in Food Type Packaged cold beverages and lowest Market share in Food Type Bulk vending. ",
+      " There is a gap of 541.0 between the highest and lowest Market share found for 2009 in Food Type Packaged cold beverages and Bulk vending. "
+   ],
+   "max_summary": [
+      "This grouped bar chart shows Market share on the Y-axis for 10 different Food Types for 2 groups 2009, and 2010 that are presented on the X-axis. ",
+      " In Food Type Packaged cold beverages, 2010 had the highest Market share 561.0 among the 2 groups and in Bulk vending, 2009 had the lowest Market share 1.0. ",
+      " Among all the Food Types, 2009 had the highest Market share in Food Type Packaged cold beverages and lowest Market share in Food Type Bulk vending. ",
+      "Food Type Packaged cold beverages and Bulk vending had the biggest gap of 541.0 between the highest and lowest Market share found for 2009. ",
+      " Among all 2 groups, 2009 had the gap of 541.0 between the maximum and minimum Market share observed in Food Type Packaged cold beverages and Bulk vending respectively. ",
+      "On average, the Food Type Packaged cold beverages had the highest Market share for all 2 groups 2009, and 2010. Whereas Cigarettes & Cigars had the lowest average Market share. "
    ],
    "trends": [
       {},

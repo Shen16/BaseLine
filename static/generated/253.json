@@ -1,16 +1,30 @@
 {
-   "title": "Test",
+   "title": "MSC - number of TEUs 2020",
    "xAxis": "Ownership Type",
    "yAxis": "Number of TEUs",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 3 categories on the x axis representing Ownership Type, and Number of TEUs in each Ownership Type on the y axis.",
-      "",
-      " The highest value at Chartered is almost 12.74 times larger than the minimum value of Orderbook. ",
-      " The highest value at Chartered is almost 12.74 times larger than the minimum value of Orderbook. ",
-      " The difference between the max Ownership Type Chartered and min Ownership Type Orderbook is 2554295.0. "
+      "This is a bar chart representing Ownership Type in the x axis and Number of TEUs in the y axis. ",
+      "The Number of TEUs is appeared to be the highest at Ownership Type Chartered and lowest at Ownership Type Orderbook. ",
+      "The difference of Number of TEUs between the highest and lowest Ownership Type is 2554295.0. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing Ownership Type in the x axis and Number of TEUs in the y axis. ",
+      "Ownership Type Chartered has the highest Number of TEUs and Orderbook has the lowest Number of TEUs. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Ownership Type in the x axis and Number of TEUs in the y axis. ",
+      "The Number of TEUs is appeared to be the highest at Ownership Type Chartered and lowest at Ownership Type Orderbook. ",
+      "The difference of Number of TEUs between the highest and lowest Ownership Type is 2554295.0. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Number of TEUs for 3 number of Ownership Types. ",
+      "Ownership Type Chartered has the highest Number of TEUs and Orderbook has the lowest Number of TEUs. ",
+      "Ownership Type Owned has the second highest value for Number of TEUs. ",
+      "The highest Ownership Type Chartered has 2554295.0 more Number of TEUs than the lowest Ownership Type Orderbook. ",
+      "Considered together, the average Number of TEUs in all 3 Ownership Types is roughly 1344698.33. "
    ],
    "trends": [
       {},

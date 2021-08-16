@@ -1,15 +1,32 @@
 {
-   "title": "Test",
+   "title": "Home mortgage debt of households and nonprofit organizations in the U.S. 2012 to 2019",
    "xAxis": "Quarter",
    "yAxis": "Debt in trillion U.S. dollars",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 31 categories on the x axis representing Quarter, and Debt in trillion U.S. dollars in each Quarter on the y axis.",
-      " The highest category is found at Q3 2019 where Debt in trillion U.S. dollars is 10.52.",
-      " Followed by 10.52 in .",
-      " The lowest category is found at Q3 2014 where Debt in trillion U.S. dollars is 9.44."
+      "This is a bar chart representing Quarter in the x axis and Debt in trillion U.S. dollars in the y axis. ",
+      "The maximum Debt in trillion U.S. dollars 10.52 is found at Quarter Q3 2019 and the minimum is found at Q3 2014 where Quarter is 9.44. ",
+      "The difference of Debt in trillion U.S. dollars between the highest and lowest Quarter is 1.08. "
+   ],
+   "min_summary": [
+      "This bar chart has 31 columns on the x axis representing Quarter, and Debt in trillion U.S. dollars in each Quarter on the y axis. ",
+      "The Debt in trillion U.S. dollars is appeared to be the highest at Quarter Q3 2019 and lowest at Quarter Q3 2014. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Quarter in the x axis and Debt in trillion U.S. dollars in the y axis. ",
+      "The maximum Debt in trillion U.S. dollars 10.52 is found at Quarter Q3 2019 and the minimum is found at Q3 2014 where Quarter is 9.44. ",
+      "The difference of Debt in trillion U.S. dollars between the highest and lowest Quarter is 1.08. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Debt in trillion U.S. dollars for 31 number of Quarters. ",
+      "Quarter Q3 2019 has the highest Debt in trillion U.S. dollars and Q3 2014 has the lowest Debt in trillion U.S. dollars. ",
+      "There is a difference of 1.08 between the maximum Quarter Q3 2019 and minimum Quarter Q3 2014. ",
+      "Quarter Q3 2019 is higher than any other Quarters with value 10.52, followed by Q2 2019, and Q1 2019. Down to Quarter Q3 2014 with the lowest value 9.44. ",
+      "Over the past 31 Quarters, the Debt in trillion U.S. dollars has lowered. ",
+      "Quarter Q2 2015, Q3 2013, and Q2 2013 have a similar Debt in trillion U.S. dollars that is 9.49. ",
+      "The average Debt in trillion U.S. dollars in all 31 Quarters is 9.78. "
    ],
    "trends": [
       {},

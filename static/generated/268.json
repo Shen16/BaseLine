@@ -1,5 +1,5 @@
 {
-   "title": "Test",
+   "title": "Average retail price for ground beef in Canada 2015 to 2019",
    "labels": [
       "Month",
       "2015",
@@ -12,11 +12,32 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart has 12 categories of Month on the x axis representing 5 groups: 2015, 2016, 2017, 2018, and 2019.",
-      " Averaging these 5 groups, the highest category is found for Month Apr with a mean value of 12.29.",
-      " The lowest category is observed at Dec that has a mean value of 9.68",
-      " showing a difference of 23.8% with the maximum value.",
-      " In case of Oct, 2015 shows more dominance than any other Month with a value 1323.0 and it has the lowest value 128.0 in Dec.  However, 2016 is the second impactful group, and it has the highest value 1245.0 for Month Sep and the lowest 122.0 in case of Jun. "
+      "This grouped bar chart represents Average retail price in CAD on the Y-axis. And, its value throughout 12 Months for 2015, 2016, 2017, 2018, and 2019. ",
+      " Over the 12 Months, the Average retail price in CAD for both 2015 and Month have grew. ",
+      " Out of all 5 groups, 2015 had the highest Average retail price in CAD in Month Oct and 2019 had the lowest Average retail price in CAD in Month Dec. ",
+      " In Month Oct, 2015 had the maximum Average retail price in CAD and it saw the lowest in Month Dec out of all 12 Months. "
+   ],
+   "xAxis": "Month",
+   "yAxis": "Average retail price in CAD",
+   "min_summary": [
+      "This is a grouped bar chart showing Average retail price in CAD on the Y-axis throughout 12 Months for 2015, 2016, 2017, 2018, and 2019 on the X-axis. ",
+      " All through the Months, similar trend was observed for 2015 and Month. In both cases, the Average retail price in CAD have grew. "
+   ],
+   "mid_summary": [
+      "This grouped bar chart represents Average retail price in CAD on the Y-axis. And, its value throughout 12 Months for 2015, 2016, 2017, 2018, and 2019. ",
+      " Over the 12 Months, the Average retail price in CAD for both 2015 and Month have grew. ",
+      " Out of all 5 groups, 2015 had the highest Average retail price in CAD in Month Oct and 2019 had the lowest Average retail price in CAD in Month Dec. ",
+      " In Month Oct, 2015 had the maximum Average retail price in CAD and it saw the lowest in Month Dec out of all 12 Months. "
+   ],
+   "max_summary": [
+      "This is a grouped bar chart showing Average retail price in CAD on the Y-axis throughout 12 Months for 2015, 2016, 2017, 2018, and 2019 on the X-axis. ",
+      " All through the Months, similar trend was observed for 2015 and Month. In both cases, the Average retail price in CAD have grew. ",
+      " In Month Oct, 2015 had the highest Average retail price in CAD 1323.0 among the 5 groups and in Dec, 2019 had the lowest Average retail price in CAD 0.0. ",
+      " In Month Oct, 2015 had the highest Average retail price in CAD among all 12 Months and it has the lowest Average retail price in CAD in Month Dec. ",
+      " The maximum Average retail price in CAD for 2015 that was found in Month Oct was 10.34 times larger than the minimum Average retail price in CAD observed in Month Dec. ",
+      " Out of all 5 groups, the highest gap between the maximum and minimum Average retail price in CAD was found in case of 2015. ",
+      " In Month Oct, 2015 had the highest Average retail price in CAD 1323.0 among the 5 groups and in Dec, 2019 had the lowest Average retail price in CAD 0.0. The second highest Average retail price in CAD 1245.0 was observed for 2015 in Month Oct. ",
+      "On average, the Month Apr had the highest Average retail price in CAD for all 5 groups 2015, 2016, 2017, 2018, and 2019. Whereas Dec had the lowest average Average retail price in CAD. "
    ],
    "trends": [
       {},

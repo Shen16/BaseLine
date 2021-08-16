@@ -1,33 +1,42 @@
 {
-   "title": "Test",
+   "title": "Volume of bottled water in the U.S. 2010 to 2018",
    "xAxis": "Year",
    "yAxis": "Sales volume in billion dollars",
    "columnType": "two",
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Sales volume in billion dollars, with a total of 13 data points.",
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Sales volume in billion dollars. In total the number of data points it has is 13.",
+      " Overall Sales volume in billion dollars has increased over the Year.",
+      "Sales volume in billion dollars is roughly increasing from 2006 to 2007, roughly constant from 2007 to 2009, and lastly gradually increasing from 2009 to 2018.",
+      "The line significantly ",
+      "The most drastic increase took place within the Year 2015 and 2016.",
+      "The highest Sales volume in billion dollars, of value 13.85 was reached at Year 2018",
+      "The lowest Sales volume in billion dollars, of value 8.25 was reported at Year 2006"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Sales volume in billion dollars. In total the number of data points it has is 13.",
+      " In general Sales volume in billion dollars has rose over the Year.",
+      "Sales volume in billion dollars is roughly increasing from 2006 to 2007, roughly constant from 2007 to 2009, and lastly gradually increasing from 2009 to 2018."
+   ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Sales volume in billion dollars. In total the number of data points it has is 13.",
+      " Overall Sales volume in billion dollars has increased over the Year.",
+      "Sales volume in billion dollars is roughly increasing from 2006 to 2007, roughly constant from 2007 to 2009, and lastly gradually increasing from 2009 to 2018.",
+      "The most drastic increase took place within the Year 2015 and 2016.",
+      "The highest Sales volume in billion dollars, of value 13.85 was reached at Year 2018",
+      "The lowest Sales volume in billion dollars, of value 8.25 was reported at Year 2006"
+   ],
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Sales volume in billion dollars. In total the number of data points it has is 13.",
       " Overall Sales volume in billion dollars has increased over the Year.",
       "Sales volume in billion dollars is roughly increasing from 2006 to 2007, roughly constant from 2007 to 2009, and lastly gradually increasing from 2009 to 2018.",
       "The steepest increase occurs in between the Year 2015 and 2016.",
-      "Max Sales volume in billion dollars about 13.85 was recorded at Year 2018",
-      "Min Sales volume in billion dollars about 8.25 was recorded at Year 2006",
-      "#########################################################################",
-      "This line chart has an x axis representing Year and a y axis representing Sales volume in billion dollars, with a total of 13 data points. The chart has 2 significant trends.",
-      " The longest trend is extremely increasing which exists from 2009 to 2018.",
-      " Likewise, the next significant trend is slightly decreasing which exists from 2006 to 2009."
+      "The highest Sales volume in billion dollars, of value 13.85 was reached at Year 2018",
+      "The lowest Sales volume in billion dollars, of value 8.25 was reported at Year 2006",
+      "The line rapidly "
    ],
-   "trends": [
-      {},
-      {
-         "1": "0",
-         "12": "9"
-      },
-      {
-         "3": "9",
-         "14": "12"
-      }
-   ],
+   "trends": [],
    "data": [
       {
          "Year": "2018",

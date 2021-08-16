@@ -1,18 +1,30 @@
 {
-   "title": "Test",
+   "title": "Distribution of Instagram.com traffic 2019 , by country",
    "xAxis": "Country",
    "yAxis": "Share of desktop traffic",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 5 categories on the x axis representing Country, and Share of desktop traffic in each Country on the y axis.",
-      " The highest category is found at United States where Share of desktop traffic is 17.77.",
-      " Followed by 17.77 in .",
-      " The lowest category is found at Turkey where Share of desktop traffic is 3.24.",
-      " The highest value at United States is almost 5.48 times larger than the minimum value of Turkey. ",
-      " The highest value at United States is almost 5.48 times larger than the minimum value of Turkey. ",
-      " The difference between the max Country United States and min Country Turkey is 14.53. "
+      "This is a bar chart representing Country in the x axis and Share of desktop traffic in the y axis. ",
+      "The Share of desktop traffic is appeared to be the highest at Country United States and lowest at Country Turkey. ",
+      "There is a difference of 14.53 between the maximum Country United States and minimum Country Turkey. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Share of desktop traffic for 5 number of Countrys. ",
+      "The maximum Share of desktop traffic 17.77 is found at Country United States and the minimum is found at Turkey where Country is 3.24. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Country in the x axis and Share of desktop traffic in the y axis. ",
+      "The Share of desktop traffic is appeared to be the highest at Country United States and lowest at Country Turkey. ",
+      "There is a difference of 14.53 between the maximum Country United States and minimum Country Turkey. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Country in the x axis and Share of desktop traffic in the y axis. ",
+      "The maximum Share of desktop traffic 17.77 is found at Country United States and the minimum is found at Turkey where Country is 3.24. ",
+      "The maximum Country United States has got 5.48 times higher Share of desktop traffic than the minimum Country Turkey. ",
+      "Country United States is higher than any other Countrys with value 17.77, followed by Brazil, and Russia. Down to Country Turkey with the lowest value 3.24. ",
+      "The average Share of desktop traffic in all 5 Countrys is 7.98. "
    ],
    "trends": [
       {},

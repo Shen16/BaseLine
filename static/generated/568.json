@@ -1,16 +1,32 @@
 {
-   "title": "Test",
+   "title": "Population of regions in England in 2018",
    "xAxis": "Region",
    "yAxis": "Number of inhabitants (in millions)",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 9 categories on the x axis representing Region, and Number of inhabitants (in millions) in each Region on the y axis.",
-      "South East is higher than any other categories with value 9.13, followed by , and North West. Down to category North East with the lowest value of 2.66. ",
-      " The highest value at South East is almost 3.43 times larger than the minimum value of North East. ",
-      " The highest value at South East is almost 3.43 times larger than the minimum value of North East. ",
-      " The difference between the max Region South East and min Region North East is 6.470000000000001. "
+      "This is a bar chart. It shows Number of inhabitants (in millions) for 9 number of Regions. ",
+      "Region South East has the highest Number of inhabitants (in millions) and North East has the lowest Number of inhabitants (in millions). ",
+      "The difference of Number of inhabitants (in millions) between the highest and lowest Region is 6.47. "
+   ],
+   "min_summary": [
+      "This bar chart has 9 columns on the x axis representing Region, and Number of inhabitants (in millions) in each Region on the y axis. ",
+      "Region South East has the highest Number of inhabitants (in millions) and North East has the lowest Number of inhabitants (in millions). "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Number of inhabitants (in millions) for 9 number of Regions. ",
+      "Region South East has the highest Number of inhabitants (in millions) and North East has the lowest Number of inhabitants (in millions). ",
+      "The difference of Number of inhabitants (in millions) between the highest and lowest Region is 6.47. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Region in the x axis and Number of inhabitants (in millions) in the y axis. ",
+      "Region South East has the highest Number of inhabitants (in millions) and North East has the lowest Number of inhabitants (in millions). ",
+      "Second maximum Number of inhabitants (in millions) is found at Region London. ",
+      "The difference of Number of inhabitants (in millions) between the highest and lowest Region is 6.47. ",
+      "Number of inhabitants (in millions) at Region South East is 9.13 , second place is London at 8.9, and thirdly is North West at 7.29.",
+      "The Region North East has 1.47 times less Number of inhabitants (in millions) than average. ",
+      "Summing up the values of all Regions, we get total 55.92. "
    ],
    "trends": [
       {},

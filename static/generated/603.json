@@ -1,33 +1,42 @@
 {
-   "title": "Test",
+   "title": "Median age of the population in Hong Kong 2015",
    "xAxis": "Year",
    "yAxis": "Median age in years",
    "columnType": "two",
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Median age in years, with a total of 21 data points.",
-      " Overall Median age in years has increased over the Year.",
+      "This is a line chart with an x axis representing Year and a y axis representing Median age in years, containing a total of 21 data points.",
+      " In general Median age in years has rose over the Year.",
+      "Median age in years is roughly constant from 1950 to 1960, roughly decreasing from 1960 to 1965, roughly constant from 1965 to 1970, rapidly increasing from 1970 to 2020, and lastly roughly constant from 2020 to 2050.",
+      "The line rapidly ",
+      "The most drastic increase took place within the Year 1990 and 1995.",
+      "Maximum Median age in years, about 53.4 was reported at Year 2050",
+      "Minimum Median age in years about 21.3 was reached at Year 1965"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Median age in years. In total the number of data points it has is 21.",
+      " In general Median age in years has rose over the Year.",
+      "Median age in years is roughly constant from 1950 to 1960, roughly decreasing from 1960 to 1965, roughly constant from 1965 to 1970, rapidly increasing from 1970 to 2020, and lastly roughly constant from 2020 to 2050."
+   ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Median age in years, containing a total of 21 data points.",
+      " In general Median age in years has rose over the Year.",
       "Median age in years is roughly constant from 1950 to 1960, roughly decreasing from 1960 to 1965, roughly constant from 1965 to 1970, rapidly increasing from 1970 to 2020, and lastly roughly constant from 2020 to 2050.",
       "The steepest increase occurs in between the Year 1990 and 1995.",
-      "Max Median age in years about 53.4 was recorded at Year 2050",
-      "Min Median age in years about 21.3 was recorded at Year 1965",
-      "#########################################################################",
-      "This line chart has an x axis representing Year and a y axis representing Median age in years, with a total of 21 data points. The chart has 2 significant trends.",
-      " The longest trend is extremely increasing which exists from 1965 to 2050.",
-      " Also, the next significant trend is slightly decreasing which exists from 1950 to 1965."
+      "Maximum Median age in years, about 53.4 was reported at Year 2050",
+      "Minimum Median age in years about 21.3 was reached at Year 1965"
    ],
-   "trends": [
-      {},
-      {
-         "1": "0",
-         "12": "17"
-      },
-      {
-         "3": "17",
-         "14": "20"
-      }
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Median age in years, containing a total of 21 data points.",
+      " In general Median age in years has rose over the Year.",
+      "Median age in years is roughly constant from 1950 to 1960, roughly decreasing from 1960 to 1965, roughly constant from 1965 to 1970, rapidly increasing from 1970 to 2020, and lastly roughly constant from 2020 to 2050.",
+      "The most drastic increase took place within the Year 1990 and 1995.",
+      "Maximum Median age in years, about 53.4 was reported at Year 2050",
+      "Minimum Median age in years about 21.3 was reached at Year 1965",
+      "The line rapidly "
    ],
+   "trends": [],
    "data": [
       {
          "Year": "2050",

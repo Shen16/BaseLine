@@ -1,63 +1,38 @@
 {
-   "title": "Test",
+   "title": "World ranking of Faroe Islands ' national football team 1993 to 2019",
    "xAxis": "Year",
    "yAxis": "FIFA World Ranking position",
    "columnType": "two",
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing FIFA World Ranking position, with a total of 27 data points.",
-      " Overall FIFA World Ranking position has increased over the Year.",
-      "FIFA World Ranking position is roughly constant from 2019 to 2017, roughly increasing from 2017 to 2015, roughly constant from 2015 to 2014, rapidly increasing from 2014 to 2013, slightly decreasing from 2013 to 2011, gradually increasing from 2011 to 2008, roughly constant from 2008 to 2006, slightly decreasing from 2006 to 2005, roughly constant from 2005 to 1997, slightly decreasing from 1997 to 1996, roughly increasing from 1996 to 1995, and lastly roughly decreasing from 1995 to 1993.",
-      "The steepest increase occurs in between the Year 2009 and 2008.",
-      "Max FIFA World Ranking position about 194.0 was recorded at Year 2007",
-      "Min FIFA World Ranking position about 83.0 was recorded at Year 2016",
-      "#########################################################################",
-      "This line chart has an x axis representing Year and a y axis representing FIFA World Ranking position, with a total of 27 data points. The chart has 8 significant trends.",
-      " The longest trend is extremely decreasing which exists from 2007 to 2002.",
-      " On the other hand, the next significant trend is moderately decreasing which exists from 1996 to 1993.",
-      " Differently, the next significant trend is moderately increasing which exists from 1999 to 1996.",
-      " Additionally, the next significant trend is moderately increasing which exists from 2002 to 1999.",
-      " Additionally, the next significant trend is slightly decreasing which exists from 2010 to 2007.",
-      " Contrarily, the next significant trend is extremely decreasing which exists from 2013 to 2010.",
-      " On the contrary, the next significant trend is slightly increasing which exists from 2016 to 2013.",
-      " Correspondingly, the next significant trend is extremely decreasing which exists from 2019 to 2016."
+      "This is a line chart with an x axis representing Year and a y axis representing FIFA World Ranking position, containing a total of 27 data points.",
+      " Overall FIFA World Ranking position has decreased over the Year.",
+      "The line drastically ",
+      "The most drastic decrease took place within the Year 2008 and 2009.",
+      "The highest FIFA World Ranking position, of value 194.0 was reached at Year 2007",
+      "The lowest FIFA World Ranking position, of value 83.0 was reported at Year 2016"
    ],
-   "trends": [
-      {},
-      {
-         "1": "9",
-         "12": "14"
-      },
-      {
-         "3": "0",
-         "14": "3"
-      },
-      {
-         "3": "3",
-         "14": "6"
-      },
-      {
-         "3": "6",
-         "14": "9"
-      },
-      {
-         "3": "14",
-         "14": "17"
-      },
-      {
-         "3": "17",
-         "14": "20"
-      },
-      {
-         "3": "20",
-         "14": "23"
-      },
-      {
-         "3": "23",
-         "14": "26"
-      }
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing FIFA World Ranking position, containing a total of 27 data points.",
+      " In general FIFA World Ranking position has fallen over the Year."
    ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes FIFA World Ranking position. In total the number of data points it has is 27.",
+      " Overall FIFA World Ranking position has decreased over the Year.",
+      "The steepest decrease occurs in between the Year 2008 and 2009.",
+      "The highest FIFA World Ranking position, of value 194.0 was reached at Year 2007",
+      "The lowest FIFA World Ranking position, of value 83.0 was reported at Year 2016"
+   ],
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes FIFA World Ranking position. In total the number of data points it has is 27.",
+      " Overall FIFA World Ranking position has decreased over the Year.",
+      "The steepest decrease occurs in between the Year 2008 and 2009.",
+      "The highest FIFA World Ranking position, of value 194.0 was reached at Year 2007",
+      "The lowest FIFA World Ranking position, of value 83.0 was reported at Year 2016",
+      "The line significantly "
+   ],
+   "trends": [],
    "data": [
       {
          "Year": "1993",

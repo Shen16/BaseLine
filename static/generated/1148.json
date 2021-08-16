@@ -1,43 +1,42 @@
 {
-   "title": "Test",
+   "title": "Global mine production of asbestos 2007 to 2019",
    "xAxis": "Year",
    "yAxis": "Production in thousand metric tons",
    "columnType": "two",
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Production in thousand metric tons, with a total of 13 data points.",
+      "This is a line chart with an x axis representing Year and a y axis representing Production in thousand metric tons, containing a total of 13 data points.",
       " Overall Production in thousand metric tons has decreased over the Year.",
-      "Production in thousand metric tons is roughly constant from 2007 to 2015, gradually decreasing from 2015 to 2017, roughly constant from 2017 to 2018, and lastly roughly decreasing from 2018 to 2019.",
+      "Production in thousand metric tons is roughly constant from 2007 to 2015, gradually decreasing from 2015 to 2017, roughly constant from 2017 to 2018, and finally roughly decreasing from 2018 to 2019.",
+      "The line significantly ",
+      "The most drastic decrease took place within the Year 2015 and 2016.",
+      "Maximum Production in thousand metric tons, about 2200.0 was reported at Year 2007",
+      "The lowest Production in thousand metric tons, of value 1100.0 was reported at Year 2019"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Production in thousand metric tons. In total the number of data points it has is 13.",
+      " Overall Production in thousand metric tons has decreased over the Year.",
+      "Production in thousand metric tons is roughly constant from 2007 to 2015, gradually decreasing from 2015 to 2017, roughly constant from 2017 to 2018, and finally roughly decreasing from 2018 to 2019."
+   ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Production in thousand metric tons. In total the number of data points it has is 13.",
+      " Overall Production in thousand metric tons has decreased over the Year.",
+      "Production in thousand metric tons is roughly constant from 2007 to 2015, gradually decreasing from 2015 to 2017, roughly constant from 2017 to 2018, and finally roughly decreasing from 2018 to 2019.",
       "The steepest decrease occurs in between the Year 2015 and 2016.",
-      "Max Production in thousand metric tons about 2200.0 was recorded at Year 2007",
-      "Min Production in thousand metric tons about 1100.0 was recorded at Year 2019",
-      "#########################################################################",
-      "This line chart has an x axis representing Year and a y axis representing Production in thousand metric tons, with a total of 13 data points. The chart has 4 significant trends.",
-      " The longest trend is slightly decreasing which exists from 2014 to 2019.",
-      " Differently, the next significant trend is moderately decreasing which exists from 2007 to 2010.",
-      " On the other hand, the next significant trend is extremely increasing which exists from 2012 to 2014.",
-      " Also, the next significant trend is extremely increasing which exists from 2010 to 2012."
+      "Maximum Production in thousand metric tons, about 2200.0 was reported at Year 2007",
+      "The lowest Production in thousand metric tons, of value 1100.0 was reported at Year 2019"
    ],
-   "trends": [
-      {},
-      {
-         "1": "0",
-         "12": "5"
-      },
-      {
-         "3": "9",
-         "14": "12"
-      },
-      {
-         "3": "5",
-         "14": "7"
-      },
-      {
-         "3": "7",
-         "14": "9"
-      }
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Production in thousand metric tons, containing a total of 13 data points.",
+      " Overall Production in thousand metric tons has decreased over the Year.",
+      "Production in thousand metric tons is roughly constant from 2007 to 2015, gradually decreasing from 2015 to 2017, roughly constant from 2017 to 2018, and finally roughly decreasing from 2018 to 2019.",
+      "The most drastic decrease took place within the Year 2015 and 2016.",
+      "Maximum Production in thousand metric tons, about 2200.0 was reported at Year 2007",
+      "The lowest Production in thousand metric tons, of value 1100.0 was reported at Year 2019",
+      "The line drastically "
    ],
+   "trends": [],
    "data": [
       {
          "Year": "2019",

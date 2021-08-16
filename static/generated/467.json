@@ -1,18 +1,32 @@
 {
-   "title": "Test",
+   "title": "Leading Youtubers from the Netherlands based on subscribers 2018",
    "xAxis": "Month",
    "yAxis": "Number of subscribers in thousands",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 10 categories on the x axis representing Month, and Number of subscribers in thousands in each Month on the y axis.",
-      " The highest category is found at Trap City where Number of subscribers in thousands is 9333.53.",
-      " Followed by 9333.53 in .",
-      " The lowest category is found at Ti\u00ebsto where Number of subscribers in thousands is 2485.82.",
-      " The highest value at Trap City is almost 3.75 times larger than the minimum value of Ti\u00ebsto. ",
-      " The highest value at Trap City is almost 3.75 times larger than the minimum value of Ti\u00ebsto. ",
-      " The difference between the max Month Trap City and min Month Ti\u00ebsto is 6847.710000000001. "
+      "This is a bar chart. It shows Number of subscribers in thousands for 10 number of Months. ",
+      "The maximum Number of subscribers in thousands 9333.53 is found at Month Trap City and the minimum is found at Ti\u00ebsto where Month is 2485.82. ",
+      "The difference of Number of subscribers in thousands between the highest and lowest Month is 6847.71. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Number of subscribers in thousands for 10 number of Months. ",
+      "Month Trap City has the highest Number of subscribers in thousands and Ti\u00ebsto has the lowest Number of subscribers in thousands. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Number of subscribers in thousands for 10 number of Months. ",
+      "The maximum Number of subscribers in thousands 9333.53 is found at Month Trap City and the minimum is found at Ti\u00ebsto where Month is 2485.82. ",
+      "The difference of Number of subscribers in thousands between the highest and lowest Month is 6847.71. "
+   ],
+   "max_summary": [
+      "This bar chart has 10 columns on the x axis representing Month, and Number of subscribers in thousands in each Month on the y axis. ",
+      "Month Trap City has the highest Number of subscribers in thousands and Ti\u00ebsto has the lowest Number of subscribers in thousands. ",
+      "The highest Month Trap City has 6847.71 more Number of subscribers in thousands than the lowest Month Ti\u00ebsto. ",
+      "The Month Trap City has the highest Number of subscribers in thousands, followed by NikkieTutorials, and Martin Garrix. Down to the Month Ti\u00ebsto which is the lowest. ",
+      "Overall Number of subscribers in thousands has lowered over the Months. ",
+      "The lowest value 2485.82 at Ti\u00ebsto is almost 1.63 times smaller than the average value 5734.78. ",
+      "The Number of subscribers in thousands is 57347.76 if we add up values of all Months. "
    ],
    "trends": [
       {},

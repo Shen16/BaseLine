@@ -1,16 +1,33 @@
 {
-   "title": "Test",
+   "title": "Tour de France : Spanish winners until 2018",
    "xAxis": "Cyclists",
    "yAxis": "Number of victories",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 7 categories on the x axis representing Cyclists, and Number of victories in each Cyclists on the y axis.",
-      "Miguel Indur\u00e1in (1991 1992 1993 1994 and 1995) is higher than any other categories with value 5.0, followed by , and Federico Mart\u00edn Bahamontes (1959). Down to category Carlos Sastre (2008) with the lowest value of 1.0. ",
-      " The highest value at Miguel Indur\u00e1in (1991 1992 1993 1994 and 1995) is almost 5.0 times larger than the minimum value of Carlos Sastre (2008). ",
-      " The highest value at Miguel Indur\u00e1in (1991 1992 1993 1994 and 1995) is almost 5.0 times larger than the minimum value of Carlos Sastre (2008). ",
-      " The difference between the max Cyclists Miguel Indur\u00e1in (1991 1992 1993 1994 and 1995) and min Cyclists Carlos Sastre (2008) is 4.0. "
+      "This bar chart has 7 columns on the x axis representing Cyclists, and Number of victories in each Cyclists on the y axis. ",
+      "The Number of victories is highest at Cyclists Miguel Indur\u00e1in (1991 1992 1993 1994 and 1995) and lowest at Cyclists Carlos Sastre (2008). ",
+      "There is a difference of 4.0 between the maximum Cyclists Miguel Indur\u00e1in (1991 1992 1993 1994 and 1995) and minimum Cyclists Carlos Sastre (2008). "
+   ],
+   "min_summary": [
+      "This bar chart has 7 columns on the x axis representing Cyclists, and Number of victories in each Cyclists on the y axis. ",
+      "The Number of victories is appeared to be the highest at Cyclists Miguel Indur\u00e1in (1991 1992 1993 1994 and 1995) and lowest at Cyclists Carlos Sastre (2008). "
+   ],
+   "mid_summary": [
+      "This bar chart has 7 columns on the x axis representing Cyclists, and Number of victories in each Cyclists on the y axis. ",
+      "The Number of victories is highest at Cyclists Miguel Indur\u00e1in (1991 1992 1993 1994 and 1995) and lowest at Cyclists Carlos Sastre (2008). ",
+      "There is a difference of 4.0 between the maximum Cyclists Miguel Indur\u00e1in (1991 1992 1993 1994 and 1995) and minimum Cyclists Carlos Sastre (2008). "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Cyclists in the x axis and Number of victories in the y axis. ",
+      "Cyclists Miguel Indur\u00e1in (1991 1992 1993 1994 and 1995) has the highest Number of victories and Carlos Sastre (2008) has the lowest Number of victories. ",
+      "Cyclists Alberto Contador (2007 and 2009) has the second highest value for Number of victories. ",
+      "The highest Cyclists Miguel Indur\u00e1in (1991 1992 1993 1994 and 1995) has 4.0 more Number of victories than the lowest Cyclists Carlos Sastre (2008). ",
+      "Cyclists Miguel Indur\u00e1in (1991 1992 1993 1994 and 1995) is higher than any other Cyclistss with value 5.0, followed by Alberto Contador (2007 and 2009), and Federico Mart\u00edn Bahamontes (1959). Down to Cyclists Carlos Sastre (2008) with the lowest value 1.0. ",
+      "Cyclists Carlos Sastre (2008), \u00d3scar Pereiro (2006), Perico Delgado (1988), Luis Oca\u00f1a (1973), and Federico Mart\u00edn Bahamontes (1959) have the same Number of victories. ",
+      "The Cyclists Carlos Sastre (2008) has 2.92 times less Number of victories than average. ",
+      "Summing up the values of all Cyclistss, we get total 12.0. "
    ],
    "trends": [
       {},

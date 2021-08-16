@@ -1,16 +1,33 @@
 {
-   "title": "Test",
+   "title": "Most popular social network sites in Asian countries in 2013",
    "xAxis": "Country and Platform",
    "yAxis": "Number of registered users (in millions)",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 15 categories on the x axis representing Country and Platform, and Number of registered users (in millions) in each Country and Platform on the y axis.",
-      "China (QZone) is higher than any other categories with value 598.0, followed by , and Indonesia (Facebook). Down to category Sri Lanka (Facebook) with the lowest value of 1.6. ",
-      " The highest value at China (QZone) is almost 373.75 times larger than the minimum value of Sri Lanka (Facebook). ",
-      " The highest value at China (QZone) is almost 373.75 times larger than the minimum value of Sri Lanka (Facebook). ",
-      " The difference between the max Country and Platform China (QZone) and min Country and Platform Sri Lanka (Facebook) is 596.4. "
+      "This is a bar chart. It shows Number of registered users (in millions) for 15 number of Country and Platforms. ",
+      "The Number of registered users (in millions) is appeared to be the highest at Country and Platform China (QZone) and lowest at Country and Platform Sri Lanka (Facebook). ",
+      "The difference of Number of registered users (in millions) between the highest and lowest Country and Platform is 596.4. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Number of registered users (in millions) for 15 number of Country and Platforms. ",
+      "The Number of registered users (in millions) is highest at Country and Platform China (QZone) and lowest at Country and Platform Sri Lanka (Facebook). "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Number of registered users (in millions) for 15 number of Country and Platforms. ",
+      "The Number of registered users (in millions) is appeared to be the highest at Country and Platform China (QZone) and lowest at Country and Platform Sri Lanka (Facebook). ",
+      "The difference of Number of registered users (in millions) between the highest and lowest Country and Platform is 596.4. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Country and Platform in the x axis and Number of registered users (in millions) in the y axis. ",
+      "Country and Platform China (QZone) has the highest Number of registered users (in millions) and Sri Lanka (Facebook) has the lowest Number of registered users (in millions). ",
+      "The second highest Number of registered users (in millions) is appeared to be the Country and Platform India (Facebook). ",
+      "There is a difference of 596.4 between the maximum Country and Platform China (QZone) and minimum Country and Platform Sri Lanka (Facebook). ",
+      "Country and Platform China (QZone) is higher than any other Country and Platforms with value 598.0, followed by India (Facebook), and Indonesia (Facebook). Down to Country and Platform Sri Lanka (Facebook) with the lowest value 1.6. ",
+      "Similar Number of registered users (in millions) is found in Country and Platform Taiwan (Facebook), and Malaysia (Facebook). ",
+      "The Country and Platform China (QZone) has 10.32 times more Number of registered users (in millions) than average. ",
+      "The Number of registered users (in millions) is 869.4 if we add up values of all Country and Platforms. "
    ],
    "trends": [
       {},

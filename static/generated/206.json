@@ -1,18 +1,31 @@
 {
-   "title": "Test",
+   "title": "Canadian snowmobile registrations by province 2018",
    "xAxis": "Province",
    "yAxis": "Number of registrations",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 13 categories on the x axis representing Province, and Number of registrations in each Province on the y axis.",
-      " The highest category is found at Quebec where Number of registrations is 201732.0.",
-      " Followed by 201732.0 in .",
-      " The lowest category is found at Yukon where Number of registrations is 1805.0.",
-      " The highest value at Quebec is almost 111.76 times larger than the minimum value of Yukon. ",
-      " The highest value at Quebec is almost 111.76 times larger than the minimum value of Yukon. ",
-      " The difference between the max Province Quebec and min Province Yukon is 199927.0. "
+      "This bar chart has 13 columns on the x axis representing Province, and Number of registrations in each Province on the y axis. ",
+      "The maximum Number of registrations 201732.0 is found at Province Quebec and the minimum is found at Yukon where Province is 1805.0. ",
+      "The minimum Province Yukon has got 111.76 times less Number of registrations than the maximum Province Quebec. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing Province in the x axis and Number of registrations in the y axis. ",
+      "The Number of registrations is highest at Province Quebec and lowest at Province Yukon. "
+   ],
+   "mid_summary": [
+      "This bar chart has 13 columns on the x axis representing Province, and Number of registrations in each Province on the y axis. ",
+      "The maximum Number of registrations 201732.0 is found at Province Quebec and the minimum is found at Yukon where Province is 1805.0. ",
+      "The minimum Province Yukon has got 111.76 times less Number of registrations than the maximum Province Quebec. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Province in the x axis and Number of registrations in the y axis. ",
+      "The Number of registrations is appeared to be the highest at Province Quebec and lowest at Province Yukon. ",
+      "There is a difference of 199927.0 between the maximum Province Quebec and minimum Province Yukon. ",
+      "The Province Quebec has the highest Number of registrations, followed by Ontario, and Alberta. Down to the Province Yukon which is the lowest. ",
+      "The Province Quebec has 4.1 times more Number of registrations than average. ",
+      "The Number of registrations is 639196.0 if we add up values of all Provinces. "
    ],
    "trends": [
       {},

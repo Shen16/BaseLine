@@ -1,16 +1,31 @@
 {
-   "title": "Test",
+   "title": "Denso - global revenue 2008 to 2019",
    "xAxis": "Fiscal year",
    "yAxis": "Net sales in million Japanese yen",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 12 categories on the x axis representing Fiscal year, and Net sales in million Japanese yen in each Fiscal year on the y axis.",
-      "2019 is higher than any other categories with value 5362772.0, followed by , and 2017. Down to category 2010 with the lowest value of 2976709.0. ",
-      " The highest value at 2019 is almost 1.8 times larger than the minimum value of 2010. ",
-      " The highest value at 2019 is almost 1.8 times larger than the minimum value of 2010. ",
-      " The difference between the max Fiscal year 2019 and min Fiscal year 2010 is 2386063.0. "
+      "This bar chart has 12 columns on the x axis representing Fiscal year, and Net sales in million Japanese yen in each Fiscal year on the y axis. ",
+      "The maximum Net sales in million Japanese yen 5362772.0 is found at Fiscal year 2019 and the minimum is found at 2010 where Fiscal year is 2976709.0. ",
+      "There is a difference of 2386063.0 between the maximum Fiscal year 2019 and minimum Fiscal year 2010. "
+   ],
+   "min_summary": [
+      "This bar chart has 12 columns on the x axis representing Fiscal year, and Net sales in million Japanese yen in each Fiscal year on the y axis. ",
+      "The maximum Net sales in million Japanese yen 5362772.0 is found at Fiscal year 2019 and the minimum is found at 2010 where Fiscal year is 2976709.0. "
+   ],
+   "mid_summary": [
+      "This bar chart has 12 columns on the x axis representing Fiscal year, and Net sales in million Japanese yen in each Fiscal year on the y axis. ",
+      "The maximum Net sales in million Japanese yen 5362772.0 is found at Fiscal year 2019 and the minimum is found at 2010 where Fiscal year is 2976709.0. ",
+      "There is a difference of 2386063.0 between the maximum Fiscal year 2019 and minimum Fiscal year 2010. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Net sales in million Japanese yen for 12 number of Fiscal years. ",
+      "Fiscal year 2019 has the highest Net sales in million Japanese yen and 2010 has the lowest Net sales in million Japanese yen. ",
+      "The second highest Net sales in million Japanese yen is appeared to be the Fiscal year 2018. ",
+      "The difference of Net sales in million Japanese yen between the highest and lowest Fiscal year is 2386063.0. ",
+      "Net sales in million Japanese yen at Fiscal year 2019 is 5362772.0 , second place is 2018 at 5108291.0, and thirdly is 2017 at 4527148.0.",
+      "The Fiscal year 2010 has 1.34 times less Net sales in million Japanese yen than average. "
    ],
    "trends": [
       {},

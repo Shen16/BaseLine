@@ -1,18 +1,31 @@
 {
-   "title": "Test",
+   "title": "Leading deodorant brands ranked by sales value in the United Kingdom ( UK ) 2014",
    "xAxis": "Brand",
    "yAxis": "Sales in million GBP",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 3 categories on the x axis representing Brand, and Sales in million GBP in each Brand on the y axis.",
-      " The highest category is found at Male Lynx where Sales in million GBP is 98.0.",
-      " Followed by 98.0 in .",
-      " The lowest category is found at Female Dove where Sales in million GBP is 57.6.",
-      " The highest value at Male Lynx is almost 1.7 times larger than the minimum value of Female Dove. ",
-      " The highest value at Male Lynx is almost 1.7 times larger than the minimum value of Female Dove. ",
-      " The difference between the max Brand Male Lynx and min Brand Female Dove is 40.4. "
+      "This is a bar chart. It shows Sales in million GBP for 3 number of Brands. ",
+      "The Sales in million GBP is highest at Brand Male Lynx and lowest at Brand Female Dove. ",
+      "There is a difference of 40.4 between the maximum Brand Male Lynx and minimum Brand Female Dove. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing Brand in the x axis and Sales in million GBP in the y axis. ",
+      "The maximum Sales in million GBP 98.0 is found at Brand Male Lynx and the minimum is found at Female Dove where Brand is 57.6. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Sales in million GBP for 3 number of Brands. ",
+      "The Sales in million GBP is highest at Brand Male Lynx and lowest at Brand Female Dove. ",
+      "There is a difference of 40.4 between the maximum Brand Male Lynx and minimum Brand Female Dove. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Sales in million GBP for 3 number of Brands. ",
+      "The Sales in million GBP is appeared to be the highest at Brand Male Lynx and lowest at Brand Female Dove. ",
+      "The second highest Sales in million GBP is appeared to be the Brand Female Sure. ",
+      "The highest Brand Male Lynx has 40.4 more Sales in million GBP than the lowest Brand Female Dove. ",
+      "The lowest value 57.6 at Female Dove is almost 1.28 times smaller than the average value 76.4. ",
+      "Summing up the values of all Brands, we get total 229.2. "
    ],
    "trends": [
       {},

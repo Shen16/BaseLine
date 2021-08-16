@@ -1,18 +1,33 @@
 {
-   "title": "Test",
+   "title": "Forbes ranking of the 10 richest people in Italy 2019",
    "xAxis": "Month",
    "yAxis": "Wealth in billion U.S. dollars",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 10 categories on the x axis representing Month, and Wealth in billion U.S. dollars in each Month on the y axis.",
-      " The highest category is found at Leonardo Del Vecchio where Wealth in billion U.S. dollars is 24.4.",
-      " Followed by 24.4 in .",
-      " The lowest category is found at Ennio Doris where Wealth in billion U.S. dollars is 3.3.",
-      " The highest value at Leonardo Del Vecchio is almost 7.39 times larger than the minimum value of Ennio Doris. ",
-      " The highest value at Leonardo Del Vecchio is almost 7.39 times larger than the minimum value of Ennio Doris. ",
-      " The difference between the max Month Leonardo Del Vecchio and min Month Ennio Doris is 21.099999999999998. "
+      "This is a bar chart. It shows Wealth in billion U.S. dollars for 10 number of Months. ",
+      "Month Leonardo Del Vecchio has the highest Wealth in billion U.S. dollars and Ennio Doris has the lowest Wealth in billion U.S. dollars. ",
+      "There is a difference of 21.1 between the maximum Month Leonardo Del Vecchio and minimum Month Ennio Doris. "
+   ],
+   "min_summary": [
+      "This bar chart has 10 columns on the x axis representing Month, and Wealth in billion U.S. dollars in each Month on the y axis. ",
+      "The maximum Wealth in billion U.S. dollars 24.4 is found at Month Leonardo Del Vecchio and the minimum is found at Ennio Doris where Month is 3.3. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Wealth in billion U.S. dollars for 10 number of Months. ",
+      "Month Leonardo Del Vecchio has the highest Wealth in billion U.S. dollars and Ennio Doris has the lowest Wealth in billion U.S. dollars. ",
+      "There is a difference of 21.1 between the maximum Month Leonardo Del Vecchio and minimum Month Ennio Doris. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Wealth in billion U.S. dollars for 10 number of Months. ",
+      "The maximum Wealth in billion U.S. dollars 24.4 is found at Month Leonardo Del Vecchio and the minimum is found at Ennio Doris where Month is 3.3. ",
+      "The second highest Wealth in billion U.S. dollars is appeared to be the Month Giovanni Ferrero. ",
+      "There is a difference of 21.1 between the maximum Month Leonardo Del Vecchio and minimum Month Ennio Doris. ",
+      "Wealth in billion U.S. dollars at Month Leonardo Del Vecchio is 24.4 , second place is Giovanni Ferrero at 21.9, and thirdly is Giorgio Armani at 11.2.",
+      "Over the past 10 Months, the Wealth in billion U.S. dollars has reduced. ",
+      "The Month Leonardo Del Vecchio has 2.43 times more Wealth in billion U.S. dollars than average. ",
+      "The Wealth in billion U.S. dollars is 100.3 if we add up values of all Months. "
    ],
    "trends": [
       {},

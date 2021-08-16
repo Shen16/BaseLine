@@ -1,5 +1,5 @@
 {
-   "title": "Test",
+   "title": "Public opinion on U.S. use of drone strikes , by country 2014",
    "labels": [
       "Country",
       "Disapprove",
@@ -9,12 +9,30 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart has 44 categories of Country on the x axis representing 2 groups: Disapprove, and Approve.",
-      " Averaging these 2 groups, the highest category is found for Country France with a mean value of 49.5.",
-      " Followed by South Korea with a mean value of 49.0.",
-      " The lowest category is observed at India that has a mean value of 32.0",
-      " showing a difference of 42.9% with the maximum value.",
-      " In case of Venezuela, Disapprove shows more dominance than any other Country and it has the lowest value in Israel. "
+      "This grouped bar chart represents 44 different Countrys on X-axis for 2 groups Disapprove, and Approve. On the Y-axis it shows their corresponding Share of respondents. ",
+      " In Country Venezuela, Disapprove had the highest Share of respondents 92.0 among the 2 groups and in Pakistan, Approve had the lowest Share of respondents 3.0. ",
+      " In Country Venezuela, Disapprove had the highest Share of respondents among all 44 Countrys and it has the lowest Share of respondents in Country Israel. ",
+      "Country Venezuela and Israel had the biggest gap of 65.0 between the highest and lowest Share of respondents found for Disapprove. "
+   ],
+   "xAxis": "Country",
+   "yAxis": "Share of respondents",
+   "min_summary": [
+      "This grouped bar chart shows Share of respondents on the Y-axis for 44 different Countrys for 2 groups Disapprove, and Approve that are presented on the X-axis. ",
+      " Out of all 2 groups, Disapprove had the highest Share of respondents in Country Venezuela and Approve had the lowest Share of respondents in Country Pakistan. "
+   ],
+   "mid_summary": [
+      "This grouped bar chart represents 44 different Countrys on X-axis for 2 groups Disapprove, and Approve. On the Y-axis it shows their corresponding Share of respondents. ",
+      " In Country Venezuela, Disapprove had the highest Share of respondents 92.0 among the 2 groups and in Pakistan, Approve had the lowest Share of respondents 3.0. ",
+      " In Country Venezuela, Disapprove had the highest Share of respondents among all 44 Countrys and it has the lowest Share of respondents in Country Israel. ",
+      "Country Venezuela and Israel had the biggest gap of 65.0 between the highest and lowest Share of respondents found for Disapprove. "
+   ],
+   "max_summary": [
+      "This grouped bar chart represents 44 different Countrys on X-axis for 2 groups Disapprove, and Approve. On the Y-axis it shows their corresponding Share of respondents. ",
+      " Country Venezuela had the maximum Share of respondents among all 2 groups, and it was for Disapprove. The minimum Share of respondents was observed in Country Pakistan for Approve. ",
+      " Among all the Countrys, Disapprove had the highest Share of respondents in Country Venezuela and lowest Share of respondents in Country Israel. ",
+      " The maximum Share of respondents for Disapprove that was found in Country Venezuela was 3.41 times larger than the minimum Share of respondents observed in Country Israel. ",
+      " Among all 2 groups, Disapprove had the gap of 65.0 between the maximum and minimum Share of respondents observed in Country Venezuela and Israel respectively. ",
+      "On average, the Country France had the highest Share of respondents for all 2 groups Disapprove, and Approve. Whereas India had the lowest average Share of respondents. "
    ],
    "trends": [
       {},

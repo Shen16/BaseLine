@@ -1,13 +1,33 @@
 {
-   "title": "Test",
+   "title": "Countries with the lowest fertility rate globally 2050 to 2055",
    "xAxis": "Country",
    "yAxis": "Average number of children per woman",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 25 categories on the x axis representing Country, and Average number of children per woman in each Country on the y axis.",
-      "Brunei Darussalam is higher than any other categories with value 1.59, followed by , and Canada. Down to category Singapore with the lowest value of 1.38. "
+      "This bar chart has 25 columns on the x axis representing Country, and Average number of children per woman in each Country on the y axis. ",
+      "Country Brunei Darussalam has the highest Average number of children per woman and Singapore has the lowest Average number of children per woman. ",
+      "There is a difference of 0.21 between the maximum Country Brunei Darussalam and minimum Country Singapore. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing Country in the x axis and Average number of children per woman in the y axis. ",
+      "The maximum Average number of children per woman 1.59 is found at Country Brunei Darussalam and the minimum is found at Singapore where Country is 1.38. "
+   ],
+   "mid_summary": [
+      "This bar chart has 25 columns on the x axis representing Country, and Average number of children per woman in each Country on the y axis. ",
+      "Country Brunei Darussalam has the highest Average number of children per woman and Singapore has the lowest Average number of children per woman. ",
+      "There is a difference of 0.21 between the maximum Country Brunei Darussalam and minimum Country Singapore. "
+   ],
+   "max_summary": [
+      "This bar chart has 25 columns on the x axis representing Country, and Average number of children per woman in each Country on the y axis. ",
+      "Country Brunei Darussalam has the highest Average number of children per woman and Singapore has the lowest Average number of children per woman. ",
+      "Second maximum Average number of children per woman is found at Country Canada. ",
+      "There is a difference of 0.21 between the maximum Country Brunei Darussalam and minimum Country Singapore. ",
+      "The Country Brunei Darussalam has the highest Average number of children per woman, followed by Canada, and Canada. Down to the Country Singapore which is the lowest. ",
+      "Country Brunei Darussalam, Portugal, Spain, and Canada have the same Average number of children per woman. ",
+      "The highest value 1.59 at Brunei Darussalam is almost 1.04 times larger than the average value 1.53. ",
+      "Summing up the values of all Countrys, we get total 38.19. "
    ],
    "trends": [
       {},

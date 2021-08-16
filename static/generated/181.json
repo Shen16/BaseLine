@@ -1,43 +1,42 @@
 {
-   "title": "Test",
+   "title": "French households savings rate 2010 to 2017",
    "xAxis": "Year",
    "yAxis": "Savings rate",
    "columnType": "two",
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Savings rate, with a total of 8 data points.",
-      " Overall Savings rate has decreased over the Year.",
-      "Savings rate is roughly constant from 2010 to 2011, gradually decreasing from 2011 to 2013, roughly constant from 2013 to 2015, slightly decreasing from 2015 to 2016, and lastly slightly increasing from 2016 to 2017.",
+      "This is a line chart with an x axis representing Year and a y axis representing Savings rate, containing a total of 8 data points.",
+      " In general Savings rate has fallen over the Year.",
+      "Savings rate is roughly constant from 2010 to 2011, gradually decreasing from 2011 to 2013, roughly constant from 2013 to 2015, slightly decreasing from 2015 to 2016, and finally slightly increasing from 2016 to 2017.",
+      "The line rapidly ",
       "The steepest decrease occurs in between the Year 2012 and 2013.",
-      "Max Savings rate about 15.8 was recorded at Year 2010",
-      "Min Savings rate about 14.0 was recorded at Year 2016",
-      "#########################################################################",
-      "This line chart has an x axis representing Year and a y axis representing Savings rate, with a total of 8 data points. The chart has 4 significant trends.",
-      " The longest trend is slightly decreasing which exists from 2010 to 2013.",
-      " But, the next significant trend is moderately increasing which exists from 2013 to 2015.",
-      " Also, the next significant trend is extremely increasing which exists from 2016 to 2017.",
-      " In a similar manner, the next significant trend is slightly decreasing which exists from 2015 to 2016."
+      "Maximum Savings rate, about 15.8 was reported at Year 2010",
+      "Minimum Savings rate about 14.0 was reached at Year 2016"
    ],
-   "trends": [
-      {},
-      {
-         "1": "4",
-         "12": "7"
-      },
-      {
-         "3": "2",
-         "14": "4"
-      },
-      {
-         "3": "0",
-         "14": "1"
-      },
-      {
-         "3": "1",
-         "14": "2"
-      }
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Savings rate. In total the number of data points it has is 8.",
+      " In general Savings rate has fallen over the Year.",
+      "Savings rate is roughly constant from 2010 to 2011, gradually decreasing from 2011 to 2013, roughly constant from 2013 to 2015, slightly decreasing from 2015 to 2016, and finally slightly increasing from 2016 to 2017."
    ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Savings rate. In total the number of data points it has is 8.",
+      " Overall Savings rate has decreased over the Year.",
+      "Savings rate is roughly constant from 2010 to 2011, gradually decreasing from 2011 to 2013, roughly constant from 2013 to 2015, slightly decreasing from 2015 to 2016, and finally slightly increasing from 2016 to 2017.",
+      "The steepest decrease occurs in between the Year 2012 and 2013.",
+      "Maximum Savings rate, about 15.8 was reported at Year 2010",
+      "Minimum Savings rate about 14.0 was reached at Year 2016"
+   ],
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Savings rate. In total the number of data points it has is 8.",
+      " Overall Savings rate has decreased over the Year.",
+      "Savings rate is roughly constant from 2010 to 2011, gradually decreasing from 2011 to 2013, roughly constant from 2013 to 2015, slightly decreasing from 2015 to 2016, and finally slightly increasing from 2016 to 2017.",
+      "The most drastic decrease took place within the Year 2012 and 2013.",
+      "Maximum Savings rate, about 15.8 was reported at Year 2010",
+      "Minimum Savings rate about 14.0 was reached at Year 2016",
+      "The line rapidly "
+   ],
+   "trends": [],
    "data": [
       {
          "Year": "2017",

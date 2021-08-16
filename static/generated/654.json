@@ -1,16 +1,32 @@
 {
-   "title": "Test",
+   "title": "Personal goals of health/fitness club members 2014",
    "xAxis": "Reasons to Reasons for joining",
    "yAxis": "Percentage of respondents",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 13 categories on the x axis representing Reasons to Reasons for joining, and Percentage of respondents in each Reasons to Reasons for joining on the y axis.",
-      "To stay healthy is higher than any other categories with value 64.0, followed by , and To stay in shape. Down to category To gain weight with the lowest value of 3.0. ",
-      " The highest value at To stay healthy is almost 21.33 times larger than the minimum value of To gain weight. ",
-      " The highest value at To stay healthy is almost 21.33 times larger than the minimum value of To gain weight. ",
-      " The difference between the max Reasons to Reasons for joining To stay healthy and min Reasons to Reasons for joining To gain weight is 61.0. "
+      "This is a bar chart representing Reasons to Reasons for joining in the x axis and Percentage of respondents in the y axis. ",
+      "The maximum Percentage of respondents 64.0 is found at Reasons to Reasons for joining To stay healthy and the minimum is found at To gain weight where Reasons to Reasons for joining is 3.0. ",
+      "The highest Reasons to Reasons for joining To stay healthy has 61.0 more Percentage of respondents than the lowest Reasons to Reasons for joining To gain weight. "
+   ],
+   "min_summary": [
+      "This bar chart has 13 columns on the x axis representing Reasons to Reasons for joining, and Percentage of respondents in each Reasons to Reasons for joining on the y axis. ",
+      "Reasons to Reasons for joining To stay healthy has the highest Percentage of respondents and To gain weight has the lowest Percentage of respondents. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Reasons to Reasons for joining in the x axis and Percentage of respondents in the y axis. ",
+      "The maximum Percentage of respondents 64.0 is found at Reasons to Reasons for joining To stay healthy and the minimum is found at To gain weight where Reasons to Reasons for joining is 3.0. ",
+      "The highest Reasons to Reasons for joining To stay healthy has 61.0 more Percentage of respondents than the lowest Reasons to Reasons for joining To gain weight. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Percentage of respondents for 13 number of Reasons to Reasons for joinings. ",
+      "The Percentage of respondents is appeared to be the highest at Reasons to Reasons for joining To stay healthy and lowest at Reasons to Reasons for joining To gain weight. ",
+      "The second highest Percentage of respondents is appeared to be the Reasons to Reasons for joining To feel better about myself. ",
+      "The highest Reasons to Reasons for joining To stay healthy has 61.0 more Percentage of respondents than the lowest Reasons to Reasons for joining To gain weight. ",
+      "Reasons to Reasons for joining To stay healthy is higher than any other Reasons to Reasons for joinings with value 64.0, followed by To feel better about myself, and To stay in shape. Down to Reasons to Reasons for joining To gain weight with the lowest value 3.0. ",
+      "Similar Percentage of respondents is found in Reasons to Reasons for joining To look better, and To lose weight. ",
+      "The Reasons to Reasons for joining To gain weight tends to be 1.78 percent lower than average. "
    ],
    "trends": [
       {},

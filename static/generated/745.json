@@ -1,16 +1,31 @@
 {
-   "title": "Test",
+   "title": "Number of professionals at the leading accounting firms in the U.S. 2019",
    "xAxis": "Accounting firm",
    "yAxis": "Number of professionals",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 25 categories on the x axis representing Accounting firm, and Number of professionals in each Accounting firm on the y axis.",
-      "Deloitte is higher than any other categories with value 73855.0, followed by , and Ernst & Young. Down to category Mazars USA with the lowest value of 601.0. ",
-      " The highest value at Deloitte is almost 122.89 times larger than the minimum value of Mazars USA. ",
-      " The highest value at Deloitte is almost 122.89 times larger than the minimum value of Mazars USA. ",
-      " The difference between the max Accounting firm Deloitte and min Accounting firm Mazars USA is 73254.0. "
+      "This is a bar chart representing Accounting firm in the x axis and Number of professionals in the y axis. ",
+      "Accounting firm Deloitte has the highest Number of professionals and Mazars USA has the lowest Number of professionals. ",
+      "There is a difference of 73254.0 between the maximum Accounting firm Deloitte and minimum Accounting firm Mazars USA. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Number of professionals for 25 number of Accounting firms. ",
+      "The maximum Number of professionals 73855.0 is found at Accounting firm Deloitte and the minimum is found at Mazars USA where Accounting firm is 601.0. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Accounting firm in the x axis and Number of professionals in the y axis. ",
+      "Accounting firm Deloitte has the highest Number of professionals and Mazars USA has the lowest Number of professionals. ",
+      "There is a difference of 73254.0 between the maximum Accounting firm Deloitte and minimum Accounting firm Mazars USA. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Accounting firm in the x axis and Number of professionals in the y axis. ",
+      "The Number of professionals is highest at Accounting firm Deloitte and lowest at Accounting firm Mazars USA. ",
+      "The second highest Number of professionals is appeared to be the Accounting firm PwC. ",
+      "The lowest value at Accounting firm Mazars USA is 122.89x times less than the highest value at Deloitte. ",
+      "Accounting firm Deloitte is higher than any other Accounting firms with value 73855.0, followed by PwC, and Ernst & Young. Down to Accounting firm Mazars USA with the lowest value 601.0. ",
+      "The Accounting firm Deloitte has 8.46 times more Number of professionals than average. "
    ],
    "trends": [
       {},

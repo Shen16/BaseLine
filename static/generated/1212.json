@@ -1,18 +1,31 @@
 {
-   "title": "Test",
+   "title": "Most important export partner countries for Bangladesh in 2017",
    "xAxis": "Country",
    "yAxis": "Share in total export",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 6 categories on the x axis representing Country, and Share in total export in each Country on the y axis.",
-      " The highest category is found at Germany where Share in total export is 12.9.",
-      " Followed by 12.9 in .",
-      " The lowest category is found at Italy where Share in total export is 4.1.",
-      " The highest value at Germany is almost 3.15 times larger than the minimum value of Italy. ",
-      " The highest value at Germany is almost 3.15 times larger than the minimum value of Italy. ",
-      " The difference between the max Country Germany and min Country Italy is 8.8. "
+      "This bar chart has 6 columns on the x axis representing Country, and Share in total export in each Country on the y axis. ",
+      "The maximum Share in total export 12.9 is found at Country Germany and the minimum is found at Italy where Country is 4.1. ",
+      "The lowest value at Country Italy is 3.15x times less than the highest value at Germany. "
+   ],
+   "min_summary": [
+      "This bar chart has 6 columns on the x axis representing Country, and Share in total export in each Country on the y axis. ",
+      "The Share in total export is appeared to be the highest at Country Germany and lowest at Country Italy. "
+   ],
+   "mid_summary": [
+      "This bar chart has 6 columns on the x axis representing Country, and Share in total export in each Country on the y axis. ",
+      "The maximum Share in total export 12.9 is found at Country Germany and the minimum is found at Italy where Country is 4.1. ",
+      "The lowest value at Country Italy is 3.15x times less than the highest value at Germany. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Country in the x axis and Share in total export in the y axis. ",
+      "The Share in total export is highest at Country Germany and lowest at Country Italy. ",
+      "Country United States has the second highest value for Share in total export. ",
+      "The highest Country Germany has 8.8 more Share in total export than the lowest Country Italy. ",
+      "The Country Germany has the highest Share in total export, followed by United States, and United Kingdom. Down to the Country Italy which is the lowest. ",
+      "The Country Germany has 1.6 times more Share in total export than average. "
    ],
    "trends": [
       {},

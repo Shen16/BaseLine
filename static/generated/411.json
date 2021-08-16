@@ -1,18 +1,31 @@
 {
-   "title": "Test",
+   "title": "Number of sexual partners worldwide by country",
    "xAxis": "Country",
    "yAxis": "Average number of partners",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 42 categories on the x axis representing Country, and Average number of partners in each Country on the y axis.",
-      " The highest category is found at Turkey where Average number of partners is 14.5.",
-      " Followed by 9.0 in .",
-      " The lowest category is found at India where Average number of partners is 3.0.",
-      " The highest value at Turkey is almost 4.83 times larger than the minimum value of India. ",
-      " The highest value at Turkey is almost 4.83 times larger than the minimum value of India. ",
-      " The difference between the max Country Turkey and min Country India is 11.5. "
+      "This is a bar chart representing Country in the x axis and Average number of partners in the y axis. ",
+      "The Average number of partners is appeared to be the highest at Country Turkey and lowest at Country India. ",
+      "There is a difference of 11.5 between the maximum Country Turkey and minimum Country India. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Average number of partners for 42 number of Countrys. ",
+      "The maximum Average number of partners 14.5 is found at Country Turkey and the minimum is found at India where Country is 3.0. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Country in the x axis and Average number of partners in the y axis. ",
+      "The Average number of partners is appeared to be the highest at Country Turkey and lowest at Country India. ",
+      "There is a difference of 11.5 between the maximum Country Turkey and minimum Country India. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Average number of partners for 42 number of Countrys. ",
+      "Country Turkey has the highest Average number of partners and India has the lowest Average number of partners. ",
+      "There is a difference of 11.5 between the maximum Country Turkey and minimum Country India. ",
+      "Country Turkey is higher than any other Countrys with value 14.5, followed by Australia, and New Zealand. Down to Country India with the lowest value 3.0. ",
+      "Country Greece, Israel, and Thailand have a similar Average number of partners that is 10.6. ",
+      "The Country India tends to be 1.63 percent lower than average. "
    ],
    "trends": [
       {},

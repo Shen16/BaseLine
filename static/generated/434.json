@@ -1,16 +1,32 @@
 {
-   "title": "Test",
+   "title": "Leading chemical drugs dispensed in England 2018 , by items",
    "xAxis": "Item",
    "yAxis": "Number of items dispensed in millions",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 20 categories on the x axis representing Item, and Number of items dispensed in millions in each Item on the y axis.",
-      "Atorvastatin is higher than any other categories with value 41.8, followed by , and Omeprazole. Down to category Bendroflumethiazide with the lowest value of 10.0. ",
-      " The highest value at Atorvastatin is almost 4.18 times larger than the minimum value of Bendroflumethiazide. ",
-      " The highest value at Atorvastatin is almost 4.18 times larger than the minimum value of Bendroflumethiazide. ",
-      " The difference between the max Item Atorvastatin and min Item Bendroflumethiazide is 31.799999999999997. "
+      "This is a bar chart representing Item in the x axis and Number of items dispensed in millions in the y axis. ",
+      "The Number of items dispensed in millions is highest at Item Atorvastatin and lowest at Item Bendroflumethiazide. ",
+      "The difference of Number of items dispensed in millions between the highest and lowest Item is 31.8. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Number of items dispensed in millions for 20 number of Items. ",
+      "The Number of items dispensed in millions is highest at Item Atorvastatin and lowest at Item Bendroflumethiazide. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Item in the x axis and Number of items dispensed in millions in the y axis. ",
+      "The Number of items dispensed in millions is highest at Item Atorvastatin and lowest at Item Bendroflumethiazide. ",
+      "The difference of Number of items dispensed in millions between the highest and lowest Item is 31.8. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Number of items dispensed in millions for 20 number of Items. ",
+      "The Number of items dispensed in millions is highest at Item Atorvastatin and lowest at Item Bendroflumethiazide. ",
+      "Item Levothyroxine Sodium has the second highest value for Number of items dispensed in millions. ",
+      "There is a difference of 31.8 between the maximum Item Atorvastatin and minimum Item Bendroflumethiazide. ",
+      "Number of items dispensed in millions at Item Atorvastatin is 41.8 , second place is Levothyroxine Sodium at 32.2, and thirdly is Omeprazole at 31.0.",
+      "Similar Number of items dispensed in millions is found in Item Bisoprolol Fumarate, and Colecalciferol. ",
+      "The lowest value 10.0 at Bendroflumethiazide is almost 1.92 times smaller than the average value 21.74. "
    ],
    "trends": [
       {},

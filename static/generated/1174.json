@@ -1,57 +1,39 @@
 {
-   "title": "Test",
+   "title": "Inflation rate in Saint Lucia 2024",
    "xAxis": "Year",
    "yAxis": "Inflation rate compared to previous year",
    "columnType": "two",
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Inflation rate compared to previous year, with a total of 41 data points.",
+      "This is a line chart with an x axis representing Year and a y axis representing Inflation rate compared to previous year, containing a total of 41 data points.",
+      " In general Inflation rate compared to previous year has stayed the same over the Year.",
+      "The chart generally has many fluctuations.",
+      "The line significantly remained stable by 1.55 from Year 1984 to 1985,remained stable by 1.67 from Year 1985 to 1986,remained stable by 4.87 from Year 1986 to 1987,remained stable by 6.21 from Year 1987 to 1988,remained stable by 3.57 from Year 1988 to 1989,remained stable by 4.88 from Year 1992 to 1993,remained stable by 1.88 from Year 1993 to 1994,remained stable by 3.2 from Year 1994 to 1995,remained stable by 4.93 from Year 1995 to 1996,remained stable by 0.92 from Year 1996 to 1997,increased by 3.19 from Year 1997 to 1998,remained stable by 2.43 from Year 1999 to 2000,remained stable by 5.01 from Year 2001 to 2002,remained stable by 0.77 from Year 2002 to 2003,remained stable by 2.45 from Year 2004 to 2005,remained stable by 2.73 from Year 2007 to 2008,remained stable by 5.39 from Year 2008 to 2009,increased by 3.09 from Year 2009 to 2010,remained stable by 2.05 from Year 2013 to 2014,remained stable by 2.54 from Year 2014 to 2015,remained stable by 2.1 from Year 2015 to 2016,remained stable by 2.97 from Year 2016 to 2017, and lastly, increased by 1.88 from Year 2017 to 2018.",
+      "The highest Inflation rate compared to previous year, of value 7.04 was reached at Year 1987",
+      "The lowest Inflation rate compared to previous year, of value 0.01 was reported at Year 1997"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Inflation rate compared to previous year. In total the number of data points it has is 41.",
+      " In general Inflation rate compared to previous year has stayed the same over the Year."
+   ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Inflation rate compared to previous year. In total the number of data points it has is 41.",
+      " In general Inflation rate compared to previous year has stayed the same over the Year.",
+      "The highest Inflation rate compared to previous year, of value 7.04 was reached at Year 1987",
+      "The lowest Inflation rate compared to previous year, of value 0.01 was reported at Year 1997"
+   ],
+   "max_summary": [
+      "The chart in general has a zig-zag shape.",
+      "The chart in general has a zig-zag shape.",
+      "This is a line chart with an x axis representing Year and a y axis representing Inflation rate compared to previous year, containing a total of 41 data points.",
       " Overall Inflation rate compared to previous year has decreased over the Year.",
-      "Inflation rate compared to previous year is roughly constant from 1984 to 1997, rapidly increasing from 1997 to 1998, roughly constant from 1998 to 2009, roughly increasing from 2009 to 2010, roughly constant from 2010 to 2017, roughly increasing from 2017 to 2018, and lastly roughly constant from 2018 to 2024.",
-      "Max Inflation rate compared to previous year about 7.04 was recorded at Year 1987",
-      "Min Inflation rate compared to previous year about 0.01 was recorded at Year 1997",
-      "#########################################################################",
-      "This line chart has an x axis representing Year and a y axis representing Inflation rate compared to previous year, with a total of 41 data points. The chart has 7 significant trends.",
-      " The longest trend is moderately increasing which exists from 2017 to 2024.",
-      " Additionally, the next significant trend is slightly decreasing which exists from 2012 to 2017.",
-      " Conversely, the next significant trend is moderately increasing which exists from 2007 to 2012.",
-      " In a similar manner, the next significant trend is extremely increasing which exists from 2002 to 2007.",
-      " Similarly, the next significant trend is moderately increasing which exists from 1997 to 2002.",
-      " Likewise, the next significant trend is slightly decreasing which exists from 1992 to 1997.",
-      " Conversely, the next significant trend is moderately decreasing which exists from 1987 to 1992."
+      "The chart in general has a zig-zag shape.",
+      "The highest Inflation rate compared to previous year, of value 7.04 was reached at Year 1987",
+      "The lowest Inflation rate compared to previous year, of value 0.01 was reported at Year 1997",
+      "The line significantly remained stable by 1.55 from Year 1984 to 1985,remained stable by 1.67 from Year 1985 to 1986,remained stable by 4.87 from Year 1986 to 1987,remained stable by 6.21 from Year 1987 to 1988,remained stable by 3.57 from Year 1988 to 1989,remained stable by 4.88 from Year 1992 to 1993,remained stable by 1.88 from Year 1993 to 1994,remained stable by 3.2 from Year 1994 to 1995,remained stable by 4.93 from Year 1995 to 1996,remained stable by 0.92 from Year 1996 to 1997,increased by 3.19 from Year 1997 to 1998,remained stable by 2.43 from Year 1999 to 2000,remained stable by 5.01 from Year 2001 to 2002,remained stable by 0.77 from Year 2002 to 2003,remained stable by 2.45 from Year 2004 to 2005,remained stable by 2.73 from Year 2007 to 2008,remained stable by 5.39 from Year 2008 to 2009,increased by 3.09 from Year 2009 to 2010,remained stable by 2.05 from Year 2013 to 2014,remained stable by 2.54 from Year 2014 to 2015,remained stable by 2.1 from Year 2015 to 2016,remained stable by 2.97 from Year 2016 to 2017, and lastly, increased by 1.88 from Year 2017 to 2018."
    ],
-   "trends": [
-      {},
-      {
-         "1": "0",
-         "12": "7"
-      },
-      {
-         "3": "7",
-         "14": "12"
-      },
-      {
-         "3": "12",
-         "14": "17"
-      },
-      {
-         "3": "17",
-         "14": "22"
-      },
-      {
-         "3": "22",
-         "14": "27"
-      },
-      {
-         "3": "27",
-         "14": "32"
-      },
-      {
-         "3": "32",
-         "14": "37"
-      }
-   ],
+   "trends": [],
    "data": [
       {
          "Year": "2024",

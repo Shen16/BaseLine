@@ -1,33 +1,42 @@
 {
-   "title": "Test",
+   "title": "Snap worldwide net income 2015 to 2019",
    "xAxis": "Year",
    "yAxis": "Income/ loss in million U.S. dollars",
    "columnType": "two",
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Income/ loss in million U.S. dollars, with a total of 5 data points.",
+      "This is a line chart with an x axis representing Year and a y axis representing Income/ loss in million U.S. dollars, containing a total of 5 data points.",
+      " Overall Income/ loss in million U.S. dollars has increased over the Year.",
+      "Income/ loss in million U.S. dollars is roughly constant from 2015 to 2016, gradually increasing from 2016 to 2017, and lastly roughly constant from 2017 to 2019.",
+      "The line rapidly increased by 569.41% from Year 2016 to 2017.",
+      "The steepest increase occurs in between the Year 2016 and 2017.",
+      "The highest Income/ loss in million U.S. dollars, of value 3445.07 was reached at Year 2017",
+      "Minimum Income/ loss in million U.S. dollars about 372.89 was reached at Year 2015"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Income/ loss in million U.S. dollars. In total the number of data points it has is 5.",
+      " Overall Income/ loss in million U.S. dollars has increased over the Year.",
+      "Income/ loss in million U.S. dollars is roughly constant from 2015 to 2016, gradually increasing from 2016 to 2017, and lastly roughly constant from 2017 to 2019."
+   ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Income/ loss in million U.S. dollars. In total the number of data points it has is 5.",
+      " In general Income/ loss in million U.S. dollars has rose over the Year.",
+      "Income/ loss in million U.S. dollars is roughly constant from 2015 to 2016, gradually increasing from 2016 to 2017, and lastly roughly constant from 2017 to 2019.",
+      "The most drastic increase took place within the Year 2016 and 2017.",
+      "The highest Income/ loss in million U.S. dollars, of value 3445.07 was reached at Year 2017",
+      "Minimum Income/ loss in million U.S. dollars about 372.89 was reached at Year 2015"
+   ],
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Income/ loss in million U.S. dollars. In total the number of data points it has is 5.",
       " Overall Income/ loss in million U.S. dollars has increased over the Year.",
       "Income/ loss in million U.S. dollars is roughly constant from 2015 to 2016, gradually increasing from 2016 to 2017, and lastly roughly constant from 2017 to 2019.",
       "The steepest increase occurs in between the Year 2016 and 2017.",
-      "Max Income/ loss in million U.S. dollars about 3445.07 was recorded at Year 2017",
-      "Min Income/ loss in million U.S. dollars about 372.89 was recorded at Year 2015",
-      "#########################################################################",
-      "This line chart has an x axis representing Year and a y axis representing Income/ loss in million U.S. dollars, with a total of 5 data points. The chart has 2 significant trends.",
-      " The longest trend is slightly decreasing which exists from 2017 to 2019.",
-      " On the other hand, the next significant trend is extremely increasing which exists from 2015 to 2017."
+      "The highest Income/ loss in million U.S. dollars, of value 3445.07 was reached at Year 2017",
+      "Minimum Income/ loss in million U.S. dollars about 372.89 was reached at Year 2015",
+      "The line significantly increased by 2930.43 from Year 2016 to 2017."
    ],
-   "trends": [
-      {},
-      {
-         "1": "0",
-         "12": "2"
-      },
-      {
-         "3": "2",
-         "14": "4"
-      }
-   ],
+   "trends": [],
    "data": [
       {
          "Year": "2019",

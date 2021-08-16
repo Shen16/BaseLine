@@ -1,5 +1,5 @@
 {
-   "title": "Test",
+   "title": "Nuclear energy - global market size by segment through 2030",
    "labels": [
       "Power Type",
       "2011",
@@ -9,11 +9,30 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart has 6 categories of Power Type on the x axis representing 2 groups: 2011, and 2030.",
-      " Averaging these 2 groups, the highest category is found for Power Type Nuclear generation with a mean value of 216.5.",
-      " The lowest category is observed at Spent nuclear fuel reprocessing and secondary fuel that has a mean value of 6.0",
-      " showing a difference of 189.2% with the maximum value.",
-      " In case of Nuclear generation, 2011 shows more dominance than any other Power Type and it has the lowest value in Spent nuclear fuel reprocessing and secondary fuel. "
+      "This grouped bar chart shows Market size in billion USD on the Y-axis for 6 different Power Types for 2 groups 2011, and 2030 that are presented on the X-axis. ",
+      " Out of all 2 groups, 2030 had the highest Market size in billion USD in Power Type Nuclear generation and 2011 had the lowest Market size in billion USD in Power Type Spent nuclear fuel reprocessing and secondary fuel. ",
+      " Among all the Power Types, 2030 had the highest Market size in billion USD 300.0 in Power Type Nuclear generation and lowest value 9.0 in Power Type Spent nuclear fuel reprocessing and secondary fuel. ",
+      " There is a gap of 291.0 between the highest and lowest Market size in billion USD found for 2030 in Power Type Nuclear generation and Spent nuclear fuel reprocessing and secondary fuel. "
+   ],
+   "xAxis": "Power Type",
+   "yAxis": "Market size in billion USD",
+   "min_summary": [
+      "This grouped bar chart shows Market size in billion USD on the Y-axis for 6 different Power Types for 2 groups 2011, and 2030 that are presented on the X-axis. ",
+      " Power Type Nuclear generation had the maximum Market size in billion USD among all 2 groups, and it was for 2030. The minimum Market size in billion USD was observed in Power Type Spent nuclear fuel reprocessing and secondary fuel for 2011. "
+   ],
+   "mid_summary": [
+      "This grouped bar chart shows Market size in billion USD on the Y-axis for 6 different Power Types for 2 groups 2011, and 2030 that are presented on the X-axis. ",
+      " Out of all 2 groups, 2030 had the highest Market size in billion USD in Power Type Nuclear generation and 2011 had the lowest Market size in billion USD in Power Type Spent nuclear fuel reprocessing and secondary fuel. ",
+      " Among all the Power Types, 2030 had the highest Market size in billion USD 300.0 in Power Type Nuclear generation and lowest value 9.0 in Power Type Spent nuclear fuel reprocessing and secondary fuel. ",
+      " There is a gap of 291.0 between the highest and lowest Market size in billion USD found for 2030 in Power Type Nuclear generation and Spent nuclear fuel reprocessing and secondary fuel. "
+   ],
+   "max_summary": [
+      "This grouped bar chart represents 6 different Power Types on X-axis for 2 groups 2011, and 2030. On the Y-axis it shows their corresponding Market size in billion USD. ",
+      " Out of all 2 groups, 2030 had the highest Market size in billion USD in Power Type Nuclear generation and 2011 had the lowest Market size in billion USD in Power Type Spent nuclear fuel reprocessing and secondary fuel. ",
+      " Among all the Power Types, 2030 had the highest Market size in billion USD in Power Type Nuclear generation and lowest Market size in billion USD in Power Type Spent nuclear fuel reprocessing and secondary fuel. ",
+      "Power Type Nuclear generation and Spent nuclear fuel reprocessing and secondary fuel had the biggest gap of 291.0 between the highest and lowest Market size in billion USD found for 2030. ",
+      " Among the groups, 2011 had the biggest difference in Market size in billion USD. Where the maximum Market size in billion USD was 44.33 times larger than the minimum Market size in billion USD. ",
+      "On average, the Power Type Nuclear generation had the highest Market size in billion USD for all 2 groups 2011, and 2030. Whereas Spent nuclear fuel reprocessing and secondary fuel had the lowest average Market size in billion USD. "
    ],
    "trends": [
       {},

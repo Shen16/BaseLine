@@ -1,5 +1,5 @@
 {
-   "title": "Test",
+   "title": "Most popular online dating services in selected countries as of February 2014",
    "labels": [
       "Country",
       "Facebook",
@@ -13,12 +13,31 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart has 9 categories of Country on the x axis representing 6 groups: Facebook, Twitter, MySpace, Shaadi, Match, and Badoo.",
-      " Averaging these 6 groups, the highest category is found for Country Indonesia with a mean value of 22.17.",
-      " Followed by Vietnam with a mean value of 20.5.",
-      " The lowest category is observed at Brazil that has a mean value of 11.17",
-      " showing a difference of 66.0% with the maximum value.",
-      " In case of Vietnam, Facebook shows more dominance than any other Country and it has the lowest value in Brazil. On the other hand, group Badoo is highest in case of Nigeria and has minimum impact for Country India. "
+      "This grouped bar chart represents 9 different Countrys on X-axis for 6 groups Facebook, Twitter, MySpace, Shaadi, Match, and Badoo. On the Y-axis it shows their corresponding Percentage of respondents. ",
+      " In Country Vietnam, Facebook had the highest Percentage of respondents 85.0 among the 6 groups and in India, MySpace had the lowest Percentage of respondents 0.0. ",
+      " Among all the Countrys, Badoo had the highest Percentage of respondents 17.0 in Country Nigeria and lowest value 0.0 in Country India. ",
+      " The maximum Percentage of respondents for Badoo that was found in Country Nigeria was 0 times larger than the minimum Percentage of respondents observed in Country India. "
+   ],
+   "xAxis": "Country",
+   "yAxis": "Percentage of respondents",
+   "min_summary": [
+      "This grouped bar chart shows Percentage of respondents on the Y-axis for 9 different Countrys for 6 groups Facebook, Twitter, MySpace, Shaadi, Match, and Badoo that are presented on the X-axis. ",
+      " In Country Vietnam, Facebook had the highest Percentage of respondents 85.0 among the 6 groups and in India, MySpace had the lowest Percentage of respondents 0.0. "
+   ],
+   "mid_summary": [
+      "This grouped bar chart represents 9 different Countrys on X-axis for 6 groups Facebook, Twitter, MySpace, Shaadi, Match, and Badoo. On the Y-axis it shows their corresponding Percentage of respondents. ",
+      " In Country Vietnam, Facebook had the highest Percentage of respondents 85.0 among the 6 groups and in India, MySpace had the lowest Percentage of respondents 0.0. ",
+      " Among all the Countrys, Badoo had the highest Percentage of respondents 17.0 in Country Nigeria and lowest value 0.0 in Country India. ",
+      " The maximum Percentage of respondents for Badoo that was found in Country Nigeria was 0 times larger than the minimum Percentage of respondents observed in Country India. "
+   ],
+   "max_summary": [
+      "This grouped bar chart shows Percentage of respondents on the Y-axis for 9 different Countrys for 6 groups Facebook, Twitter, MySpace, Shaadi, Match, and Badoo that are presented on the X-axis. ",
+      " Country Vietnam had the maximum Percentage of respondents among all 6 groups, and it was for Facebook. The minimum Percentage of respondents was observed in Country India for MySpace. ",
+      " In Country Nigeria, Badoo had the maximum Percentage of respondents and it saw the lowest in Country India out of all 9 Countrys. ",
+      "Country Nigeria and India had the biggest gap of 17.0 between the highest and lowest Percentage of respondents found for Badoo. ",
+      " Among all 6 groups, Facebook had the gap of 36.0 between the maximum and minimum Percentage of respondents observed in Country Vietnam and Brazil respectively. ",
+      " Facebook had the maximum Percentage of respondents out of all 6 groups in Country Vietnam followed by Facebook in Vietnam, and the minimum Percentage of respondents is found for MySpace in India. ",
+      "Averaging all 6 groups Facebook, Twitter, MySpace, Shaadi, Match, and Badoo, the Country Indonesia is the maximum Percentage of respondents and Brazil is the minimum Percentage of respondents. "
    ],
    "trends": [
       {},

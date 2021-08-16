@@ -1,16 +1,33 @@
 {
-   "title": "Test",
+   "title": "Subaru car sales in the United Kingdom ( UK ) 2016 to 2019",
    "xAxis": "Month",
    "yAxis": "Units sold",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 42 categories on the x axis representing Month, and Units sold in each Month on the y axis.",
-      "Sep 18 is higher than any other categories with value 829.0, followed by , and Mar 18. Down to category Aug 17 with the lowest value of 44.0. ",
-      " The highest value at Sep 18 is almost 18.84 times larger than the minimum value of Aug 17. ",
-      " The highest value at Sep 18 is almost 18.84 times larger than the minimum value of Aug 17. ",
-      " The difference between the max Month Sep 18 and min Month Aug 17 is 785.0. "
+      "This is a bar chart. It shows Units sold for 42 number of Months. ",
+      "Month Sep 18 has the highest Units sold and Aug 17 has the lowest Units sold. ",
+      "The highest Month Sep 18 has 785.0 more Units sold than the lowest Month Aug 17. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing Month in the x axis and Units sold in the y axis. ",
+      "The Units sold is highest at Month Sep 18 and lowest at Month Aug 17. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Units sold for 42 number of Months. ",
+      "Month Sep 18 has the highest Units sold and Aug 17 has the lowest Units sold. ",
+      "The highest Month Sep 18 has 785.0 more Units sold than the lowest Month Aug 17. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Month in the x axis and Units sold in the y axis. ",
+      "The Units sold is highest at Month Sep 18 and lowest at Month Aug 17. ",
+      "Month Sep 16 has the second highest value for Units sold. ",
+      "There is a difference of 785.0 between the maximum Month Sep 18 and minimum Month Aug 17. ",
+      "The Month Sep 18 has the highest Units sold, followed by Sep 16, and Mar 18. Down to the Month Aug 17 which is the lowest. ",
+      "Overall Units sold has decreased over the Months. ",
+      "Month Jan 18, and May 17 have the same Units sold. ",
+      "The Month Sep 18 has 3.28 times more Units sold than average. "
    ],
    "trends": [
       {},

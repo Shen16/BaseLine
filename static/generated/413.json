@@ -1,5 +1,5 @@
 {
-   "title": "Test",
+   "title": "Anthracite coal imports to the United Kingdom ( UK ) 2008 - 2018 , by country",
    "labels": [
       "Year",
       "EU",
@@ -15,14 +15,34 @@
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This is a multi-line chart with 8 lines representing EU, Australia, China, Colombia, South Africa, Russia, USA, and Other countries. ",
-      "The line for EU has the highest values across Year with a mean value of 62.45, ",
-      "and it peaked at 2013 with a value of 109.0.",
-      "Followed by Russia, with a mean value of 25.4. ",
-      "This line peaked at 2018 with a value of 52.0. ",
-      "Australia mostly had the least y-axis name with a mean value of 1.09, ",
-      "which peaked at 2010 with a value of 12.0. ",
-      "Overall EU, and Russia are gradually increasing, China, South Africa, and USA are gradually decreasing, Australia, Colombia, and Other countries are roughly constant,  throughout the Year"
+      "The given chart is of multi-line type with 8 lines namely EU, Australia, China, Colombia, South Africa, Russia, USA, and Other countries. The y axis represents Import volume in thousand metric tons and the x axis represents Year.",
+      "Overall EU, and Russia are gradually increasing, China, South Africa, and USA are gradually decreasing, Australia, Colombia, and Other countries are roughly constant,  throughout the Year",
+      "Throughout the period, EU generally had the highest Import volume in thousand metric tons relative to others with an average of 62.45, and it reached its maximum at 2013 with a value of 109.0.",
+      "Followed by Russia which ranks as the second topmpost line , with an average of 25.4 Import volume in thousand metric tons,reaching its highest point  at 2018 with a value of 52.0. ",
+      "Australia mostly had the least Import volume in thousand metric tons with a mean value of 1.09, which peaked at 2010 with a value of 12.0. "
+   ],
+   "xAxis": "Year",
+   "yAxis": "Import volume in thousand metric tons",
+   "min_summary": [
+      "This is a multi-line chart with 8 lines representing EU, Australia, China, Colombia, South Africa, Russia, USA, and Other countries. The y axis denotes Import volume in thousand metric tons and the x axis denotes Year.",
+      "Overall EU, and Russia are gradually increasing, China, South Africa, and USA are gradually decreasing, Australia, Colombia, and Other countries are roughly constant,  throughout the Year",
+      "Overall across the Year, EU mostly maintained the highest Import volume in thousand metric tons when compared to others with a mean value of 62.45, and it peaked at 2013.",
+      "Followed by Russia which ranks as the second topmpost line , with an average of 25.4 Import volume in thousand metric tons,reaching its highest point  at 2018 with a value of 52.0. ",
+      "The botommost line, Australia,  has a mean of 1.09, and peaked at 2010. "
+   ],
+   "mid_summary": [
+      "This is a multi-line chart with 8 lines representing EU, Australia, China, Colombia, South Africa, Russia, USA, and Other countries. The y axis denotes Import volume in thousand metric tons and the x axis denotes Year.",
+      "Overall EU, and Russia are gradually increasing, China, South Africa, and USA are gradually decreasing, Australia, Colombia, and Other countries are roughly constant,  throughout the Year",
+      "Throughout the period, EU generally had the highest Import volume in thousand metric tons relative to others with an average of 62.45, and it reached its maximum at 2013 with a value of 109.0.",
+      "Followed by Russia which ranks as the second topmpost line , with an average of 25.4 Import volume in thousand metric tons,reaching its highest point  at 2018 with a value of 52.0. ",
+      "The botommost line, Australia,  has a mean of 1.09, and peaked at 2010. "
+   ],
+   "max_summary": [
+      "This is a multi-line chart with 8 lines representing EU, Australia, China, Colombia, South Africa, Russia, USA, and Other countries. The y axis denotes Import volume in thousand metric tons and the x axis denotes Year.",
+      "Overall EU, and Russia are gradually increasing, China, South Africa, and USA are gradually decreasing, Australia, Colombia, and Other countries are roughly constant,  throughout the Year",
+      "Overall across the Year, EU mostly maintained the highest Import volume in thousand metric tons when compared to others with a mean value of 62.45, and it peaked at 2013.",
+      "After EU, Russia overall has the second highest values , with a mean value of 25.4, peaking at 2018. ",
+      "Australia mostly had the least Import volume in thousand metric tons with a mean value of 1.09, which peaked at 2010 with a value of 12.0. "
    ],
    "trends": [
       {},

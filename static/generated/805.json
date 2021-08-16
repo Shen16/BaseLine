@@ -1,16 +1,31 @@
 {
-   "title": "Test",
+   "title": "Share of U.S. travelers who have had items stolen or lost 2015",
    "xAxis": "Response",
    "yAxis": "Share of respondents",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 5 categories on the x axis representing Response, and Share of respondents in each Response on the y axis.",
-      "Smartphone is higher than any other categories with value 10.0, followed by , and Debit card. Down to category Passport with the lowest value of 4.0. ",
-      " The highest value at Smartphone is almost 2.5 times larger than the minimum value of Passport. ",
-      " The highest value at Smartphone is almost 2.5 times larger than the minimum value of Passport. ",
-      " The difference between the max Response Smartphone and min Response Passport is 6.0. "
+      "This is a bar chart representing Response in the x axis and Share of respondents in the y axis. ",
+      "The Share of respondents is appeared to be the highest at Response Smartphone and lowest at Response Passport. ",
+      "The highest value at Response Smartphone is 2.5x times more than the lowest value at Passport. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing Response in the x axis and Share of respondents in the y axis. ",
+      "The maximum Share of respondents 10.0 is found at Response Smartphone and the minimum is found at Passport where Response is 4.0. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Response in the x axis and Share of respondents in the y axis. ",
+      "The Share of respondents is appeared to be the highest at Response Smartphone and lowest at Response Passport. ",
+      "The highest value at Response Smartphone is 2.5x times more than the lowest value at Passport. "
+   ],
+   "max_summary": [
+      "This bar chart has 5 columns on the x axis representing Response, and Share of respondents in each Response on the y axis. ",
+      "Response Smartphone has the highest Share of respondents and Passport has the lowest Share of respondents. ",
+      "Response Passport has 2.5 times less Share of respondents than Response Smartphone which is the highest. ",
+      "The Response Smartphone has the highest Share of respondents, followed by Credit card, and Debit card. Down to the Response Passport which is the lowest. ",
+      "The Response Passport has 1.35 times less Share of respondents than average. ",
+      "The Share of respondents is 37.0 if we add up values of all Responses. "
    ],
    "trends": [
       {},

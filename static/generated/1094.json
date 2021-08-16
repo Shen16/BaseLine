@@ -1,5 +1,5 @@
 {
-   "title": "Test",
+   "title": "Dallas Mavericks concession stand prices ( beer , soft drink , hot dog ) 2010 to 2016",
    "labels": [
       "Year",
       "Beer",
@@ -10,14 +10,37 @@
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This is a multi-line chart with 3 lines representing Beer, Soft drink, and Hot dog. ",
-      "The line for Beer has the highest values across Year with a mean value of 5.83, ",
-      "and it peaked at 2010/11, 2011/12, 2012/13, 2013/14, and 2014/15 with a value of 6.0.",
-      "Followed by Hot dog, with a mean value of 3.9. ",
-      "This line peaked at 2014/15 with a value of 4.0. ",
-      "Soft drink mostly had the least y-axis name with a mean value of 3.83, ",
-      "which peaked at 2010/11, 2011/12, 2012/13, 2013/14, and 2014/15 with a value of 4.0. ",
-      "Overall Beer, and Soft drink are gradually decreasing, Hot dog is roughly constant,  throughout the Year"
+      "The given chart is of multi-line type with 3 lines namely Beer, Soft drink, and Hot dog. The y axis represents SOME LABEL and the x axis represents Year.",
+      "Overall Beer, Soft drink, and Hot dog are gradually decreasing,  throughout the Year",
+      "The ranking of the lines from topmost to botommmost is as follows: 1. Beer, 2. Hot dog, and lastly, 3. Soft drink. ",
+      "Overall across the Year, Beer mostly maintained the highest SOME LABEL when compared to others with a mean value of 5.83, and it peaked at 2010/11, 2011/12, 2012/13, 2013/14, and 2014/15.",
+      "After Beer, Hot dog overall has the second highest values , with a mean value of 3.9, peaking at 2014/15. ",
+      "Soft drink mostly had the least SOME LABEL with a mean value of 3.83, which peaked at 2010/11, 2011/12, 2012/13, 2013/14, and 2014/15 with a value of 4.0. "
+   ],
+   "xAxis": "Year",
+   "yAxis": "SOME LABEL",
+   "min_summary": [
+      "You are viewing a chart of multi-line type with 3 lines denoting Beer, Soft drink, and Hot dog. The y axis indicates the SOME LABEL and the x axis indicates Year.",
+      "Overall Beer, Soft drink, and Hot dog are gradually decreasing,  throughout the Year",
+      "Throughout the period, Beer generally had the highest SOME LABEL relative to others with an average of 5.83, and it reached its maximum at 2010/11, 2011/12, 2012/13, 2013/14, and 2014/15 with a value of 6.0.",
+      "After Beer, Hot dog overall has the second highest values , with a mean value of 3.9, peaking at 2014/15. ",
+      "Soft drink mostly had the least SOME LABEL with a mean value of 3.83, which peaked at 2010/11, 2011/12, 2012/13, 2013/14, and 2014/15 with a value of 4.0. "
+   ],
+   "mid_summary": [
+      "This is a multi-line chart with 3 lines representing Beer, Soft drink, and Hot dog. The y axis denotes SOME LABEL and the x axis denotes Year.",
+      "Overall Beer, Soft drink, and Hot dog are gradually decreasing,  throughout the Year",
+      "The ranking of the lines from topmost to botommmost is as follows: 1. Beer, 2. Hot dog, and lastly, 3. Soft drink. ",
+      "Throughout the period, Beer generally had the highest SOME LABEL relative to others with an average of 5.83, and it reached its maximum at 2010/11, 2011/12, 2012/13, 2013/14, and 2014/15 with a value of 6.0.",
+      "After Beer, Hot dog overall has the second highest values , with a mean value of 3.9, peaking at 2014/15. ",
+      "Soft drink mostly had the least SOME LABEL with a mean value of 3.83, which peaked at 2010/11, 2011/12, 2012/13, 2013/14, and 2014/15 with a value of 4.0. "
+   ],
+   "max_summary": [
+      "This is a multi-line chart with 3 lines representing Beer, Soft drink, and Hot dog. The y axis denotes SOME LABEL and the x axis denotes Year.",
+      "Overall Beer, Soft drink, and Hot dog are gradually decreasing,  throughout the Year",
+      "The ranking of the lines from topmost to botommmost is as follows: 1. Beer, 2. Hot dog, and lastly, 3. Soft drink. ",
+      "Overall across the Year, Beer mostly maintained the highest SOME LABEL when compared to others with a mean value of 5.83, and it peaked at 2010/11, 2011/12, 2012/13, 2013/14, and 2014/15.",
+      "After Beer, Hot dog overall has the second highest values , with a mean value of 3.9, peaking at 2014/15. ",
+      "The botommost line, Soft drink,  has a mean of 3.83, and peaked at 2010/11, 2011/12, 2012/13, 2013/14, and 2014/15. "
    ],
    "trends": [
       {},

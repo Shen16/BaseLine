@@ -1,5 +1,5 @@
 {
-   "title": "Test",
+   "title": "Recovery from an eating disorder in the United Kingdom ( UK ) 2015 , by disorder",
    "labels": [
       "Category",
       "Anorexia nervosa",
@@ -9,12 +9,30 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart has 3 categories of Category on the x axis representing 2 groups: Anorexia nervosa, and Bulimia nervosa.",
-      " Averaging these 2 groups, the highest category is found for Category Full recovery with a mean value of 45.5.",
-      " Followed by Improvement with a mean value of 30.0.",
-      " The lowest category is observed at Chronically ill that has a mean value of 21.5",
-      " showing a difference of 71.6% with the maximum value.",
-      " In case of Full recovery, Anorexia nervosa shows more dominance than any other Category and it has the lowest value in Chronically ill. "
+      "This grouped bar chart shows Share of individuals on the Y-axis for 3 different Categorys for 2 groups Anorexia nervosa, and Bulimia nervosa that are presented on the X-axis. ",
+      " In Category Full recovery, Anorexia nervosa had the highest Share of individuals 46.0 among the 2 groups and in Chronically ill, Anorexia nervosa had the lowest Share of individuals 20.0. ",
+      " In Category Full recovery, Anorexia nervosa had the maximum Share of individuals and it saw the lowest in Category Chronically ill out of all 3 Categorys. ",
+      " The maximum Share of individuals for Anorexia nervosa that was found in Category Full recovery was 2.3 times larger than the minimum Share of individuals observed in Category Chronically ill. "
+   ],
+   "xAxis": "Category",
+   "yAxis": "Share of individuals",
+   "min_summary": [
+      "This grouped bar chart shows Share of individuals on the Y-axis for 3 different Categorys for 2 groups Anorexia nervosa, and Bulimia nervosa that are presented on the X-axis. ",
+      " Out of all 2 groups, Anorexia nervosa had the highest Share of individuals in Category Full recovery and Anorexia nervosa had the lowest Share of individuals in Category Chronically ill. "
+   ],
+   "mid_summary": [
+      "This grouped bar chart shows Share of individuals on the Y-axis for 3 different Categorys for 2 groups Anorexia nervosa, and Bulimia nervosa that are presented on the X-axis. ",
+      " In Category Full recovery, Anorexia nervosa had the highest Share of individuals 46.0 among the 2 groups and in Chronically ill, Anorexia nervosa had the lowest Share of individuals 20.0. ",
+      " In Category Full recovery, Anorexia nervosa had the maximum Share of individuals and it saw the lowest in Category Chronically ill out of all 3 Categorys. ",
+      " The maximum Share of individuals for Anorexia nervosa that was found in Category Full recovery was 2.3 times larger than the minimum Share of individuals observed in Category Chronically ill. "
+   ],
+   "max_summary": [
+      "This grouped bar chart shows Share of individuals on the Y-axis for 3 different Categorys for 2 groups Anorexia nervosa, and Bulimia nervosa that are presented on the X-axis. ",
+      " In Category Full recovery, Anorexia nervosa had the highest Share of individuals 46.0 among the 2 groups and in Chronically ill, Anorexia nervosa had the lowest Share of individuals 20.0. ",
+      " In Category Full recovery, Anorexia nervosa had the maximum Share of individuals and it saw the lowest in Category Chronically ill out of all 3 Categorys. ",
+      " There is a gap of 26.0 between the highest and lowest Share of individuals found for Anorexia nervosa in Category Full recovery and Chronically ill. ",
+      " Among the groups, Anorexia nervosa had the biggest difference in Share of individuals. Where the maximum Share of individuals was 2.3 times larger than the minimum Share of individuals. ",
+      "On average, the Category Full recovery had the highest Share of individuals for all 2 groups Anorexia nervosa, and Bulimia nervosa. Whereas Chronically ill had the lowest average Share of individuals. "
    ],
    "trends": [
       {},

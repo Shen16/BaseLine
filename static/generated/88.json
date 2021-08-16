@@ -1,5 +1,5 @@
 {
-   "title": "Test",
+   "title": "Celgene 's top product revenues 2013 to 2018",
    "labels": [
       "Product Name",
       "2013",
@@ -13,12 +13,31 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart has 5 categories of Product Name on the x axis representing 6 groups: 2013, 2014, 2015, 2016, 2017, and 2018.",
-      " Averaging these 6 groups, the highest category is found for Product Name Revlimid (cancer) with a mean value of 6651.17.",
-      " Followed by Pomalyst/Imnovid (cancer) with a mean value of 1155.52.",
-      " The lowest category is observed at Other that has a mean value of 295.17",
-      " showing a difference of 183.0% with the maximum value.",
-      " In case of Revlimid (cancer), 2013 shows more dominance than any other Product Name and it has the lowest value in Otezla (psoriasis). On the other hand, group 2014 is the second impactful group in this chart, and it's highest in case of Revlimid (cancer) and has the minimum dominance for Product Name Other. "
+      "This grouped bar chart shows Revenue in million USD on the Y-axis for 5 different Product Names for 6 groups 2013, 2014, 2015, 2016, 2017, and 2018 that are presented on the X-axis. ",
+      " Out of all 6 groups, 2016 had the highest Revenue in million USD in Product Name Revlimid (cancer) and 2013 had the lowest Revenue in million USD in Product Name Otezla (psoriasis). ",
+      " Among all the Product Names, 2016 had the highest Revenue in million USD 69736.0 in Product Name Revlimid (cancer) and lowest value 0.0 in Product Name Other. ",
+      " There is a gap of 69735.0 between the highest and lowest Revenue in million USD found for 2016 in Product Name Revlimid (cancer) and Other. "
+   ],
+   "xAxis": "Product Name",
+   "yAxis": "Revenue in million USD",
+   "min_summary": [
+      "This grouped bar chart shows Revenue in million USD on the Y-axis for 5 different Product Names for 6 groups 2013, 2014, 2015, 2016, 2017, and 2018 that are presented on the X-axis. ",
+      " Out of all 6 groups, 2016 had the highest Revenue in million USD in Product Name Revlimid (cancer) and 2013 had the lowest Revenue in million USD in Product Name Otezla (psoriasis). "
+   ],
+   "mid_summary": [
+      "This grouped bar chart shows Revenue in million USD on the Y-axis for 5 different Product Names for 6 groups 2013, 2014, 2015, 2016, 2017, and 2018 that are presented on the X-axis. ",
+      " Out of all 6 groups, 2016 had the highest Revenue in million USD in Product Name Revlimid (cancer) and 2013 had the lowest Revenue in million USD in Product Name Otezla (psoriasis). ",
+      " Among all the Product Names, 2016 had the highest Revenue in million USD 69736.0 in Product Name Revlimid (cancer) and lowest value 0.0 in Product Name Other. ",
+      " There is a gap of 69735.0 between the highest and lowest Revenue in million USD found for 2016 in Product Name Revlimid (cancer) and Other. "
+   ],
+   "max_summary": [
+      "This grouped bar chart represents 5 different Product Names on X-axis for 6 groups 2013, 2014, 2015, 2016, 2017, and 2018. On the Y-axis it shows their corresponding Revenue in million USD. ",
+      " Out of all 6 groups, 2016 had the highest Revenue in million USD in Product Name Revlimid (cancer) and 2013 had the lowest Revenue in million USD in Product Name Otezla (psoriasis). ",
+      " In Product Name Revlimid (cancer), 2016 had the maximum Revenue in million USD and it saw the lowest in Product Name Other out of all 5 Product Names. ",
+      "Product Name Revlimid (cancer) and Other had the biggest gap of 69735.0 between the highest and lowest Revenue in million USD found for 2016. ",
+      " Among the groups, 2016 had the biggest difference in Revenue in million USD. Where the maximum Revenue in million USD was 69736.0 times larger than the minimum Revenue in million USD. ",
+      " 2016 had the maximum Revenue in million USD out of all 6 groups in Product Name Revlimid (cancer) followed by 2016 in Revlimid (cancer), and the minimum Revenue in million USD is found for 2013 in Otezla (psoriasis). ",
+      "Averaging all 6 groups 2013, 2014, 2015, 2016, 2017, and 2018, the Product Name Revlimid (cancer) is the maximum Revenue in million USD and Other is the minimum Revenue in million USD. "
    ],
    "trends": [
       {},

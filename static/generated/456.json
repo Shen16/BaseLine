@@ -1,16 +1,33 @@
 {
-   "title": "Test",
+   "title": "Alibaba : cumulative active online buyers Q4 2014-Q4 2019",
    "xAxis": "Quarter",
    "yAxis": "Active Alibaba online buyers in millions",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 21 categories on the x axis representing Quarter, and Active Alibaba online buyers in millions in each Quarter on the y axis.",
-      "Q4 '19 is higher than any other categories with value 711.0, followed by , and Q2 '19. Down to category Q4 '14 with the lowest value of 334.0. ",
-      " The highest value at Q4 '19 is almost 2.13 times larger than the minimum value of Q4 '14. ",
-      " The highest value at Q4 '19 is almost 2.13 times larger than the minimum value of Q4 '14. ",
-      " The difference between the max Quarter Q4 '19 and min Quarter Q4 '14 is 377.0. "
+      "This is a bar chart representing Quarter in the x axis and Active Alibaba online buyers in millions in the y axis. ",
+      "The Active Alibaba online buyers in millions is appeared to be the highest at Quarter Q4 '19 and lowest at Quarter Q4 '14. ",
+      "The difference of Active Alibaba online buyers in millions between the highest and lowest Quarter is 377.0. "
+   ],
+   "min_summary": [
+      "This bar chart has 21 columns on the x axis representing Quarter, and Active Alibaba online buyers in millions in each Quarter on the y axis. ",
+      "The Active Alibaba online buyers in millions is highest at Quarter Q4 '19 and lowest at Quarter Q4 '14. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Quarter in the x axis and Active Alibaba online buyers in millions in the y axis. ",
+      "The Active Alibaba online buyers in millions is appeared to be the highest at Quarter Q4 '19 and lowest at Quarter Q4 '14. ",
+      "The difference of Active Alibaba online buyers in millions between the highest and lowest Quarter is 377.0. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Active Alibaba online buyers in millions for 21 number of Quarters. ",
+      "Quarter Q4 '19 has the highest Active Alibaba online buyers in millions and Q4 '14 has the lowest Active Alibaba online buyers in millions. ",
+      "Quarter Q3 '19 has the second highest value for Active Alibaba online buyers in millions. ",
+      "There is a difference of 377.0 between the maximum Quarter Q4 '19 and minimum Quarter Q4 '14. ",
+      "Quarter Q4 '19 is higher than any other Quarters with value 711.0, followed by Q3 '19, and Q2 '19. Down to Quarter Q4 '14 with the lowest value 334.0. ",
+      "Overall Active Alibaba online buyers in millions has lowered over the Quarters. ",
+      "Considered together, the average Active Alibaba online buyers in millions in all 21 Quarters is roughly 504.9. ",
+      "Summing up the values of all Quarters, we get total 10603.0. "
    ],
    "trends": [
       {},

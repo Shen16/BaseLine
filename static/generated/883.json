@@ -1,16 +1,32 @@
 {
-   "title": "Test",
+   "title": "Spotify 's premium subscribers 2015 to 2019",
    "xAxis": "Quarter",
    "yAxis": "Paying subscribers in millions",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 20 categories on the x axis representing Quarter, and Paying subscribers in millions in each Quarter on the y axis.",
-      "Q4 2019 is higher than any other categories with value 124.0, followed by , and Q2 2019. Down to category Q1 2015 with the lowest value of 18.0. ",
-      " The highest value at Q4 2019 is almost 6.89 times larger than the minimum value of Q1 2015. ",
-      " The highest value at Q4 2019 is almost 6.89 times larger than the minimum value of Q1 2015. ",
-      " The difference between the max Quarter Q4 2019 and min Quarter Q1 2015 is 106.0. "
+      "This is a bar chart. It shows Paying subscribers in millions for 20 number of Quarters. ",
+      "The maximum Paying subscribers in millions 124.0 is found at Quarter Q4 2019 and the minimum is found at Q1 2015 where Quarter is 18.0. ",
+      "The minimum Quarter Q1 2015 has got 6.89 times less Paying subscribers in millions than the maximum Quarter Q4 2019. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing Quarter in the x axis and Paying subscribers in millions in the y axis. ",
+      "The Paying subscribers in millions is appeared to be the highest at Quarter Q4 2019 and lowest at Quarter Q1 2015. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Paying subscribers in millions for 20 number of Quarters. ",
+      "The maximum Paying subscribers in millions 124.0 is found at Quarter Q4 2019 and the minimum is found at Q1 2015 where Quarter is 18.0. ",
+      "The minimum Quarter Q1 2015 has got 6.89 times less Paying subscribers in millions than the maximum Quarter Q4 2019. "
+   ],
+   "max_summary": [
+      "This bar chart has 20 columns on the x axis representing Quarter, and Paying subscribers in millions in each Quarter on the y axis. ",
+      "Quarter Q4 2019 has the highest Paying subscribers in millions and Q1 2015 has the lowest Paying subscribers in millions. ",
+      "The second highest Paying subscribers in millions is appeared to be the Quarter Q3 2019. ",
+      "There is a difference of 106.0 between the maximum Quarter Q4 2019 and minimum Quarter Q1 2015. ",
+      "Quarter Q4 2019 is higher than any other Quarters with value 124.0, followed by Q3 2019, and Q2 2019. Down to Quarter Q1 2015 with the lowest value 18.0. ",
+      "Overall Paying subscribers in millions has declined over the Quarters. ",
+      "Considered together, the average Paying subscribers in millions in all 20 Quarters is roughly 63.8. "
    ],
    "trends": [
       {},

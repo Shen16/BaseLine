@@ -1,16 +1,31 @@
 {
-   "title": "Test",
+   "title": "Value of National Basketball Association franchises 2020",
    "xAxis": "Nba Team",
    "yAxis": "Franchise value in million U.S. dollars",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 30 categories on the x axis representing Nba Team, and Franchise value in million U.S. dollars in each Nba Team on the y axis.",
-      "New York Knicks is higher than any other categories with value 4600.0, followed by , and Golden State Warriors. Down to category Memphis Grizzlies with the lowest value of 1300.0. ",
-      " The highest value at New York Knicks is almost 3.54 times larger than the minimum value of Memphis Grizzlies. ",
-      " The highest value at New York Knicks is almost 3.54 times larger than the minimum value of Memphis Grizzlies. ",
-      " The difference between the max Nba Team New York Knicks and min Nba Team Memphis Grizzlies is 3300.0. "
+      "This bar chart has 30 columns on the x axis representing Nba Team, and Franchise value in million U.S. dollars in each Nba Team on the y axis. ",
+      "The Franchise value in million U.S. dollars is appeared to be the highest at Nba Team New York Knicks and lowest at Nba Team Memphis Grizzlies. ",
+      "The difference of Franchise value in million U.S. dollars between the highest and lowest Nba Team is 3300.0. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing Nba Team in the x axis and Franchise value in million U.S. dollars in the y axis. ",
+      "The Franchise value in million U.S. dollars is appeared to be the highest at Nba Team New York Knicks and lowest at Nba Team Memphis Grizzlies. "
+   ],
+   "mid_summary": [
+      "This bar chart has 30 columns on the x axis representing Nba Team, and Franchise value in million U.S. dollars in each Nba Team on the y axis. ",
+      "The Franchise value in million U.S. dollars is appeared to be the highest at Nba Team New York Knicks and lowest at Nba Team Memphis Grizzlies. ",
+      "The difference of Franchise value in million U.S. dollars between the highest and lowest Nba Team is 3300.0. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Nba Team in the x axis and Franchise value in million U.S. dollars in the y axis. ",
+      "The Franchise value in million U.S. dollars is highest at Nba Team New York Knicks and lowest at Nba Team Memphis Grizzlies. ",
+      "There is a difference of 3300.0 between the maximum Nba Team New York Knicks and minimum Nba Team Memphis Grizzlies. ",
+      "Franchise value in million U.S. dollars at Nba Team New York Knicks is 4600.0 , second place is Los Angeles Lakers at 4400.0, and thirdly is Golden State Warriors at 4300.0.",
+      "The lowest value 1300.0 at Memphis Grizzlies is almost 2.17 times smaller than the average value 2123.0. ",
+      "The Franchise value in million U.S. dollars is 63690.0 if we add up values of all Nba Teams. "
    ],
    "trends": [
       {},

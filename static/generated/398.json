@@ -1,13 +1,32 @@
 {
-   "title": "Test",
+   "title": "Urbanization in Cameroon 2008 to 2018",
    "xAxis": "Share of total population",
    "yAxis": "Unnamed: 1",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 11 categories on the x axis representing Share of total population, and Unnamed: 1 in each Share of total population on the y axis.",
-      "2018 is higher than any other categories with value 56.37, followed by , and 2016. Down to category 2008 with the lowest value of 50.35. "
+      "This bar chart has 11 columns on the x axis representing Share of total population, and Unnamed: 1 in each Share of total population on the y axis. ",
+      "The maximum Unnamed: 1 56.37 is found at Share of total population 2018 and the minimum is found at 2008 where Share of total population is 50.35. ",
+      "The Unnamed: 1 of Share of total population 2018 is 1.12% larger than the minimum value at 2008. "
+   ],
+   "min_summary": [
+      "This bar chart has 11 columns on the x axis representing Share of total population, and Unnamed: 1 in each Share of total population on the y axis. ",
+      "The Unnamed: 1 is appeared to be the highest at Share of total population 2018 and lowest at Share of total population 2008. "
+   ],
+   "mid_summary": [
+      "This bar chart has 11 columns on the x axis representing Share of total population, and Unnamed: 1 in each Share of total population on the y axis. ",
+      "The maximum Unnamed: 1 56.37 is found at Share of total population 2018 and the minimum is found at 2008 where Share of total population is 50.35. ",
+      "The Unnamed: 1 of Share of total population 2018 is 1.12% larger than the minimum value at 2008. "
+   ],
+   "max_summary": [
+      "This bar chart has 11 columns on the x axis representing Share of total population, and Unnamed: 1 in each Share of total population on the y axis. ",
+      "The maximum Unnamed: 1 56.37 is found at Share of total population 2018 and the minimum is found at 2008 where Share of total population is 50.35. ",
+      "Share of total population 2017 has the second highest value for Unnamed: 1. ",
+      "The lowest value at Share of total population 2008 is 1.12x times less than the highest value at 2018. ",
+      "The Share of total population 2018 has the highest Unnamed: 1, followed by 2017, and 2016. Down to the Share of total population 2008 which is the lowest. ",
+      "The lowest value 50.35 at 2008 is almost 1.06 times smaller than the average value 53.37. ",
+      "Summing up the values of all Share of total populations, we get total 587.05. "
    ],
    "trends": [
       {},

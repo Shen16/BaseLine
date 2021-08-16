@@ -1,18 +1,33 @@
 {
-   "title": "Test",
+   "title": "Number of retail chains in Poland 2019 , by sector",
    "xAxis": "Retail Categories",
    "yAxis": "Number of retail chains",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 18 categories on the x axis representing Retail Categories, and Number of retail chains in each Retail Categories on the y axis.",
-      " The highest category is found at Fashion & Clothing where Number of retail chains is 57.0.",
-      " Followed by 57.0 in .",
-      " The lowest category is found at Pet Care where Number of retail chains is 5.0.",
-      " The highest value at Fashion & Clothing is almost 11.4 times larger than the minimum value of Pet Care. ",
-      " The highest value at Fashion & Clothing is almost 11.4 times larger than the minimum value of Pet Care. ",
-      " The difference between the max Retail Categories Fashion & Clothing and min Retail Categories Pet Care is 52.0. "
+      "This is a bar chart. It shows Number of retail chains for 18 number of Retail Categoriess. ",
+      "The Number of retail chains is appeared to be the highest at Retail Categories Fashion & Clothing and lowest at Retail Categories Pet Care. ",
+      "There is a difference of 52.0 between the maximum Retail Categories Fashion & Clothing and minimum Retail Categories Pet Care. "
+   ],
+   "min_summary": [
+      "This bar chart has 18 columns on the x axis representing Retail Categories, and Number of retail chains in each Retail Categories on the y axis. ",
+      "The Number of retail chains is highest at Retail Categories Fashion & Clothing and lowest at Retail Categories Pet Care. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Number of retail chains for 18 number of Retail Categoriess. ",
+      "The Number of retail chains is appeared to be the highest at Retail Categories Fashion & Clothing and lowest at Retail Categories Pet Care. ",
+      "There is a difference of 52.0 between the maximum Retail Categories Fashion & Clothing and minimum Retail Categories Pet Care. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Number of retail chains for 18 number of Retail Categoriess. ",
+      "The maximum Number of retail chains 57.0 is found at Retail Categories Fashion & Clothing and the minimum is found at Pet Care where Retail Categories is 5.0. ",
+      "Retail Categories Footwear & Leather has the second highest value for Number of retail chains. ",
+      "The highest Retail Categories Fashion & Clothing has 52.0 more Number of retail chains than the lowest Retail Categories Pet Care. ",
+      "Retail Categories Fashion & Clothing is higher than any other Retail Categoriess with value 57.0, followed by Footwear & Leather, and Footwear & Leather. Down to Retail Categories Pet Care with the lowest value 5.0. ",
+      "Retail Categories Toys & Games, Petrol, and Jewelry & Watches have a similar Number of retail chains that is 12.0. ",
+      "The Retail Categories Pet Care tends to be 3.18 percent lower than average. ",
+      "The Number of retail chains is 323.0 if we add up values of all Retail Categoriess. "
    ],
    "trends": [
       {},

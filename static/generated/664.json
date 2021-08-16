@@ -1,18 +1,31 @@
 {
-   "title": "Test",
+   "title": "Deaths per day in West African countries with 2014 Ebola outbreak by disease",
    "xAxis": "Diseases",
    "yAxis": "Number of deaths per day",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 6 categories on the x axis representing Diseases, and Number of deaths per day in each Diseases on the y axis.",
-      " The highest category is found at HIV/AIDS where Number of deaths per day is 685.0.",
-      " Followed by 4.0 in .",
-      " The lowest category is found at Ebola where Number of deaths per day is 4.0.",
-      " The highest value at HIV/AIDS is almost 171.25 times larger than the minimum value of Ebola. ",
-      " The highest value at HIV/AIDS is almost 171.25 times larger than the minimum value of Ebola. ",
-      " The difference between the max Diseases HIV/AIDS and min Diseases Ebola is 681.0. "
+      "This is a bar chart. It shows Number of deaths per day for 6 number of Diseasess. ",
+      "The Number of deaths per day is appeared to be the highest at Diseases HIV/AIDS and lowest at Diseases Ebola. ",
+      "The difference of Number of deaths per day between the highest and lowest Diseases is 681.0. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Number of deaths per day for 6 number of Diseasess. ",
+      "The maximum Number of deaths per day 685.0 is found at Diseases HIV/AIDS and the minimum is found at Ebola where Diseases is 4.0. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Number of deaths per day for 6 number of Diseasess. ",
+      "The Number of deaths per day is appeared to be the highest at Diseases HIV/AIDS and lowest at Diseases Ebola. ",
+      "The difference of Number of deaths per day between the highest and lowest Diseases is 681.0. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Diseases in the x axis and Number of deaths per day in the y axis. ",
+      "Diseases HIV/AIDS has the highest Number of deaths per day and Ebola has the lowest Number of deaths per day. ",
+      "Second maximum Number of deaths per day is found at Diseases Malaria. ",
+      "The highest Diseases HIV/AIDS has 681.0 more Number of deaths per day than the lowest Diseases Ebola. ",
+      "Number of deaths per day at Diseases HIV/AIDS is 685.0 , second place is Malaria at 552.0, and thirdly is Diarrhoea at 404.0.",
+      "The lowest value 4.0 at Ebola is almost 2.32 times smaller than the average value 294.83. "
    ],
    "trends": [
       {},

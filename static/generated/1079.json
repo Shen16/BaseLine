@@ -1,16 +1,32 @@
 {
-   "title": "Test",
+   "title": "Number of available apps in the Apple App Store 2008 to 2017",
    "xAxis": "Month",
    "yAxis": "Number of available apps",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 24 categories on the x axis representing Month, and Number of available apps in each Month on the y axis.",
-      "Jan '17 is higher than any other categories with value 2200000.0, followed by , and Jun '15. Down to category Jul '08 with the lowest value of 800.0. ",
-      " The highest value at Jan '17 is almost 2750.0 times larger than the minimum value of Jul '08. ",
-      " The highest value at Jan '17 is almost 2750.0 times larger than the minimum value of Jul '08. ",
-      " The difference between the max Month Jan '17 and min Month Jul '08 is 2199200.0. "
+      "This is a bar chart. It shows Number of available apps for 24 number of Months. ",
+      "The Number of available apps is highest at Month Jan '17 and lowest at Month Jul '08. ",
+      "The difference of Number of available apps between the highest and lowest Month is 2199200.0. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing Month in the x axis and Number of available apps in the y axis. ",
+      "The maximum Number of available apps 2200000.0 is found at Month Jan '17 and the minimum is found at Jul '08 where Month is 800.0. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Number of available apps for 24 number of Months. ",
+      "The Number of available apps is highest at Month Jan '17 and lowest at Month Jul '08. ",
+      "The difference of Number of available apps between the highest and lowest Month is 2199200.0. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Month in the x axis and Number of available apps in the y axis. ",
+      "The Number of available apps is appeared to be the highest at Month Jan '17 and lowest at Month Jul '08. ",
+      "Month Jun '16 has the second highest value for Number of available apps. ",
+      "The highest Month Jan '17 has 2199200.0 more Number of available apps than the lowest Month Jul '08. ",
+      "The Month Jan '17 has the highest Number of available apps, followed by Jun '16, and Jun '15. Down to the Month Jul '08 which is the lowest. ",
+      "Over the past 24 Months, the Number of available apps has reduced. ",
+      "The Month Jul '08 has 3.06 times less Number of available apps than average. "
    ],
    "trends": [
       {},

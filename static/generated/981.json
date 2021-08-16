@@ -1,33 +1,42 @@
 {
-   "title": "Test",
+   "title": "Assets under supervision at Goldman Sachs 2009 to 2018",
    "xAxis": "Year",
    "yAxis": "Assets under supervision in billion U.S. dollars",
    "columnType": "two",
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Assets under supervision in billion U.S. dollars, with a total of 10 data points.",
+      "This is a line chart with an x axis representing Year and a y axis representing Assets under supervision in billion U.S. dollars, containing a total of 10 data points.",
+      " In general Assets under supervision in billion U.S. dollars has rose over the Year.",
+      "Assets under supervision in billion U.S. dollars is roughly constant from 2009 to 2011, gradually increasing from 2011 to 2016, and lastly roughly constant from 2016 to 2018.",
+      "The line drastically ",
+      "The most drastic increase took place within the Year 2013 and 2014.",
+      "Maximum Assets under supervision in billion U.S. dollars, about 1542.0 was reported at Year 2018",
+      "The lowest Assets under supervision in billion U.S. dollars, of value 871.0 was reported at Year 2009"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Assets under supervision in billion U.S. dollars. In total the number of data points it has is 10.",
+      " Overall Assets under supervision in billion U.S. dollars has increased over the Year.",
+      "Assets under supervision in billion U.S. dollars is roughly constant from 2009 to 2011, gradually increasing from 2011 to 2016, and lastly roughly constant from 2016 to 2018."
+   ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Assets under supervision in billion U.S. dollars. In total the number of data points it has is 10.",
       " Overall Assets under supervision in billion U.S. dollars has increased over the Year.",
       "Assets under supervision in billion U.S. dollars is roughly constant from 2009 to 2011, gradually increasing from 2011 to 2016, and lastly roughly constant from 2016 to 2018.",
       "The steepest increase occurs in between the Year 2013 and 2014.",
-      "Max Assets under supervision in billion U.S. dollars about 1542.0 was recorded at Year 2018",
-      "Min Assets under supervision in billion U.S. dollars about 871.0 was recorded at Year 2009",
-      "#########################################################################",
-      "This line chart has an x axis representing Year and a y axis representing Assets under supervision in billion U.S. dollars, with a total of 10 data points. The chart has 2 significant trends.",
-      " The longest trend is extremely increasing which exists from 2011 to 2018.",
-      " In a similar manner, the next significant trend is slightly decreasing which exists from 2009 to 2011."
+      "Maximum Assets under supervision in billion U.S. dollars, about 1542.0 was reported at Year 2018",
+      "The lowest Assets under supervision in billion U.S. dollars, of value 871.0 was reported at Year 2009"
    ],
-   "trends": [
-      {},
-      {
-         "1": "0",
-         "12": "7"
-      },
-      {
-         "3": "7",
-         "14": "9"
-      }
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Assets under supervision in billion U.S. dollars, containing a total of 10 data points.",
+      " Overall Assets under supervision in billion U.S. dollars has increased over the Year.",
+      "Assets under supervision in billion U.S. dollars is roughly constant from 2009 to 2011, gradually increasing from 2011 to 2016, and lastly roughly constant from 2016 to 2018.",
+      "The most drastic increase took place within the Year 2013 and 2014.",
+      "Maximum Assets under supervision in billion U.S. dollars, about 1542.0 was reported at Year 2018",
+      "The lowest Assets under supervision in billion U.S. dollars, of value 871.0 was reported at Year 2009",
+      "The line significantly "
    ],
+   "trends": [],
    "data": [
       {
          "Year": "2018",

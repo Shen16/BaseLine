@@ -1,16 +1,33 @@
 {
-   "title": "Test",
+   "title": "Countries with the highest rates of autism among children worldwide as of 2018",
    "xAxis": "Country",
    "yAxis": "Number of children with autism per 10,000 children studied",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 10 categories on the x axis representing Country, and Number of children with autism per 10,000 children studied in each Country on the y axis.",
-      "United States is higher than any other categories with value 168.0, followed by , and Canada. Down to category Portugal with the lowest value of 9.2. ",
-      " The highest value at United States is almost 18.26 times larger than the minimum value of Portugal. ",
-      " The highest value at United States is almost 18.26 times larger than the minimum value of Portugal. ",
-      " The difference between the max Country United States and min Country Portugal is 158.8. "
+      "This is a bar chart representing Country in the x axis and Number of children with autism per 10,000 children studied in the y axis. ",
+      "The Number of children with autism per 10,000 children studied is highest at Country United States and lowest at Country Portugal. ",
+      "Country United States has 18.26 times more Number of children with autism per 10,000 children studied than Country Portugal which is has the lowest. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing Country in the x axis and Number of children with autism per 10,000 children studied in the y axis. ",
+      "Country United States has the highest Number of children with autism per 10,000 children studied and Portugal has the lowest Number of children with autism per 10,000 children studied. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Country in the x axis and Number of children with autism per 10,000 children studied in the y axis. ",
+      "The Number of children with autism per 10,000 children studied is highest at Country United States and lowest at Country Portugal. ",
+      "Country United States has 18.26 times more Number of children with autism per 10,000 children studied than Country Portugal which is has the lowest. "
+   ],
+   "max_summary": [
+      "This bar chart has 10 columns on the x axis representing Country, and Number of children with autism per 10,000 children studied in each Country on the y axis. ",
+      "The Number of children with autism per 10,000 children studied is appeared to be the highest at Country United States and lowest at Country Portugal. ",
+      "Second maximum Number of children with autism per 10,000 children studied is found at Country Japan. ",
+      "The highest Country United States has 158.8 more Number of children with autism per 10,000 children studied than the lowest Country Portugal. ",
+      "Country United States is higher than any other Countrys with value 168.0, followed by Japan, and Canada. Down to Country Portugal with the lowest value 9.2. ",
+      "Country United Kingdom, and Ireland have a similar Number of children with autism per 10,000 children studied that is 100.0. ",
+      "Considered together, the average Number of children with autism per 10,000 children studied in all 10 Countrys is roughly 90.22. ",
+      "Summing up the values of all Countrys, we get total 902.2. "
    ],
    "trends": [
       {},

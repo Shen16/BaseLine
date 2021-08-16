@@ -1,15 +1,32 @@
 {
-   "title": "Test",
+   "title": "Share of IT budgets spent on IT security FY2005-FY2016",
    "xAxis": "Fiscal Year",
    "yAxis": "Share of total IT budget",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 13 categories on the x axis representing Fiscal Year, and Share of total IT budget in each Fiscal Year on the y axis.",
-      " The highest category is found at FY2017 where Share of total IT budget is 10.6.",
-      " Followed by 7.5 in .",
-      " The lowest category is found at FY2006 where Share of total IT budget is 7.2."
+      "This is a bar chart representing Fiscal Year in the x axis and Share of total IT budget in the y axis. ",
+      "Fiscal Year FY2017 has the highest Share of total IT budget and FY2006 has the lowest Share of total IT budget. ",
+      "There is a difference of 3.4 between the maximum Fiscal Year FY2017 and minimum Fiscal Year FY2006. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing Fiscal Year in the x axis and Share of total IT budget in the y axis. ",
+      "The Share of total IT budget is highest at Fiscal Year FY2017 and lowest at Fiscal Year FY2006. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Fiscal Year in the x axis and Share of total IT budget in the y axis. ",
+      "Fiscal Year FY2017 has the highest Share of total IT budget and FY2006 has the lowest Share of total IT budget. ",
+      "There is a difference of 3.4 between the maximum Fiscal Year FY2017 and minimum Fiscal Year FY2006. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Fiscal Year in the x axis and Share of total IT budget in the y axis. ",
+      "Fiscal Year FY2017 has the highest Share of total IT budget and FY2006 has the lowest Share of total IT budget. ",
+      "There is a difference of 3.4 between the maximum Fiscal Year FY2017 and minimum Fiscal Year FY2006. ",
+      "Fiscal Year FY2017 is higher than any other Fiscal Years with value 10.6, followed by FY2016, and FY2015. Down to Fiscal Year FY2006 with the lowest value 7.2. ",
+      "Fiscal Year FY2005, and FY2007 have a similar Share of total IT budget that is 7.5. ",
+      "The highest value 10.6 at FY2017 is almost 1.19 times larger than the average value 8.89. ",
+      "Summing up the values of all Fiscal Years, we get total 115.6. "
    ],
    "trends": [
       {},

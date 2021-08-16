@@ -1,16 +1,33 @@
 {
-   "title": "Test",
+   "title": "Payroll taxes in EU countries 2018",
    "xAxis": "Country",
    "yAxis": "Payroll taxes of 100 euros gross earnings",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 30 categories on the x axis representing Country, and Payroll taxes of 100 euros gross earnings in each Country on the y axis.",
-      "Sweden is higher than any other categories with value 48.0, followed by , and Lithuania. Down to category Romania with the lowest value of 0.0. ",
-      " The highest value at Sweden is almost 4800000000000.0 times larger than the minimum value of Romania. ",
-      " The highest value at Sweden is almost 4800000000000.0 times larger than the minimum value of Romania. ",
-      " The difference between the max Country Sweden and min Country Romania is 48.0. "
+      "This is a bar chart representing Country in the x axis and Payroll taxes of 100 euros gross earnings in the y axis. ",
+      "The Payroll taxes of 100 euros gross earnings is highest at Country Sweden and lowest at Country Romania. ",
+      "The highest Country Sweden has 48.0 more Payroll taxes of 100 euros gross earnings than the lowest Country Romania. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing Country in the x axis and Payroll taxes of 100 euros gross earnings in the y axis. ",
+      "Country Sweden has the highest Payroll taxes of 100 euros gross earnings and Romania has the lowest Payroll taxes of 100 euros gross earnings. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Country in the x axis and Payroll taxes of 100 euros gross earnings in the y axis. ",
+      "The Payroll taxes of 100 euros gross earnings is highest at Country Sweden and lowest at Country Romania. ",
+      "The highest Country Sweden has 48.0 more Payroll taxes of 100 euros gross earnings than the lowest Country Romania. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Payroll taxes of 100 euros gross earnings for 30 number of Countrys. ",
+      "Country Sweden has the highest Payroll taxes of 100 euros gross earnings and Romania has the lowest Payroll taxes of 100 euros gross earnings. ",
+      "Country France has the second highest value for Payroll taxes of 100 euros gross earnings. ",
+      "The highest Country Sweden has 48.0 more Payroll taxes of 100 euros gross earnings than the lowest Country Romania. ",
+      "The Country Sweden has the highest Payroll taxes of 100 euros gross earnings, followed by France, and Lithuania. Down to the Country Romania which is the lowest. ",
+      "Similar Payroll taxes of 100 euros gross earnings is found in Country Czech Republic, Belgium, and Slowakia. ",
+      "The average Payroll taxes of 100 euros gross earnings in all 30 Countrys is 27.47. ",
+      "Summing up the values of all Countrys, we get total 824.0. "
    ],
    "trends": [
       {},

@@ -1,16 +1,34 @@
 {
-   "title": "Test",
+   "title": "Monthly number of rain days in the United Kingdom ( UK ) 2014 to 2019",
    "xAxis": "Month",
    "yAxis": "Number of days",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 72 categories on the x axis representing Month, and Number of days in each Month on the y axis.",
-      "Jan '14 is higher than any other categories with value 23.4, followed by , and Nov '15. Down to category Sep '14 with the lowest value of 4.9. ",
-      " The highest value at Jan '14 is almost 4.78 times larger than the minimum value of Sep '14. ",
-      " The highest value at Jan '14 is almost 4.78 times larger than the minimum value of Sep '14. ",
-      " The difference between the max Month Jan '14 and min Month Sep '14 is 18.5. "
+      "This is a bar chart. It shows Number of days for 72 number of Months. ",
+      "The Number of days is appeared to be the highest at Month Jan '14 and lowest at Month Sep '14. ",
+      "The highest Month Jan '14 has 18.5 more Number of days than the lowest Month Sep '14. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing Month in the x axis and Number of days in the y axis. ",
+      "The Number of days is highest at Month Jan '14 and lowest at Month Sep '14. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Number of days for 72 number of Months. ",
+      "The Number of days is appeared to be the highest at Month Jan '14 and lowest at Month Sep '14. ",
+      "The highest Month Jan '14 has 18.5 more Number of days than the lowest Month Sep '14. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Month in the x axis and Number of days in the y axis. ",
+      "The Number of days is appeared to be the highest at Month Jan '14 and lowest at Month Sep '14. ",
+      "Second maximum Number of days is found at Month Dec '15. ",
+      "The highest Month Jan '14 has 18.5 more Number of days than the lowest Month Sep '14. ",
+      "Month Jan '14 is higher than any other Months with value 23.4, followed by Dec '15, and Nov '15. Down to Month Sep '14 with the lowest value 4.9. ",
+      "The Number of days has climbed over the past 72 Months. ",
+      "Month Nov '16, Jul '16, and Mar '15 have a similar Number of days that is 13.0. ",
+      "The Month Sep '14 tends to be 1.73 percent lower than average. ",
+      "Summing up the values of all Months, we get total 975.3. "
    ],
    "trends": [
       {},

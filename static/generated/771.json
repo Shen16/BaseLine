@@ -1,16 +1,29 @@
 {
-   "title": "Test",
+   "title": "Population of Greece 2016 , by gender",
    "xAxis": "Gender",
    "yAxis": "Total population",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 3 categories on the x axis representing Gender, and Total population in each Gender on the y axis.",
-      "",
-      " The highest value at Total is almost 2.06 times larger than the minimum value of Males. ",
-      " The highest value at Total is almost 2.06 times larger than the minimum value of Males. ",
-      " The difference between the max Gender Total and min Gender Males is 5559538.0. "
+      "This is a bar chart representing Gender in the x axis and Total population in the y axis. ",
+      "Gender Total has the highest Total population and Males has the lowest Total population. ",
+      "The minimum Gender Males has got 2.06 times less Total population than the maximum Gender Total. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Total population for 3 number of Genders. ",
+      "The Total population is appeared to be the highest at Gender Total and lowest at Gender Males. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Gender in the x axis and Total population in the y axis. ",
+      "Gender Total has the highest Total population and Males has the lowest Total population. ",
+      "The minimum Gender Males has got 2.06 times less Total population than the maximum Gender Total. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Total population for 3 number of Genders. ",
+      "Gender Total has the highest Total population and Males has the lowest Total population. ",
+      "There is a difference of 5559538.0 between the maximum Gender Total and minimum Gender Males. ",
+      "The average Total population in all 3 Genders is 7189165.33. "
    ],
    "trends": [
       {},

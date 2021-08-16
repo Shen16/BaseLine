@@ -1,48 +1,38 @@
 {
-   "title": "Test",
+   "title": "Dallas Mavericks ' revenue 2001 to 2019",
    "xAxis": "Year",
    "yAxis": "Revenue in million U.S. dollars",
    "columnType": "two",
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Revenue in million U.S. dollars, with a total of 18 data points.",
+      "This is a line chart with an x axis representing Year and a y axis representing Revenue in million U.S. dollars, containing a total of 18 data points.",
+      " In general Revenue in million U.S. dollars has rose over the Year.",
+      "The line rapidly ",
+      "The most drastic increase took place within the Year 2016/17 and 2017/18.",
+      "The highest Revenue in million U.S. dollars, of value 307.0 was reached at Year 2018/19",
+      "The lowest Revenue in million U.S. dollars, of value 105.0 was reported at Year 2001/02"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Revenue in million U.S. dollars. In total the number of data points it has is 18.",
+      " Overall Revenue in million U.S. dollars has increased over the Year."
+   ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Revenue in million U.S. dollars, containing a total of 18 data points.",
       " Overall Revenue in million U.S. dollars has increased over the Year.",
-      "Revenue in million U.S. dollars is roughly constant from 2001/02 to 2003/04, slightly increasing from 2003/04 to 2005/06, roughly constant from 2005/06 to 2009/10, slightly increasing from 2009/10 to 2010/11, slightly decreasing from 2010/11 to 2011/12, slightly increasing from 2011/12 to 2012/13, roughly constant from 2012/13 to 2014/15, and lastly rapidly increasing from 2014/15 to 2018/19.",
-      "The steepest increase occurs in between the Year 2016/17 and 2017/18.",
-      "Max Revenue in million U.S. dollars about 307.0 was recorded at Year 2018/19",
-      "Min Revenue in million U.S. dollars about 105.0 was recorded at Year 2001/02",
-      "#########################################################################",
-      "This line chart has an x axis representing Year and a y axis representing Revenue in million U.S. dollars, with a total of 18 data points. The chart has 5 significant trends.",
-      " The longest trend is extremely increasing which exists from 2011/12 to 2018/19.",
-      " In a similar manner, the next significant trend is slightly increasing which exists from 2006/07 to 2009/10.",
-      " In a similar manner, the next significant trend is moderately increasing which exists from 2003/04 to 2006/07.",
-      " Likewise, the next significant trend is slightly increasing which exists from 2009/10 to 2011/12.",
-      " Additionally, the next significant trend is moderately constant which exists from 2001/02 to 2003/04."
+      "The most drastic increase took place within the Year 2016/17 and 2017/18.",
+      "The highest Revenue in million U.S. dollars, of value 307.0 was reached at Year 2018/19",
+      "The lowest Revenue in million U.S. dollars, of value 105.0 was reported at Year 2001/02"
    ],
-   "trends": [
-      {},
-      {
-         "1": "0",
-         "12": "7"
-      },
-      {
-         "3": "9",
-         "14": "12"
-      },
-      {
-         "3": "12",
-         "14": "15"
-      },
-      {
-         "3": "7",
-         "14": "9"
-      },
-      {
-         "3": "15",
-         "14": "17"
-      }
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Revenue in million U.S. dollars, containing a total of 18 data points.",
+      " In general Revenue in million U.S. dollars has rose over the Year.",
+      "The most drastic increase took place within the Year 2016/17 and 2017/18.",
+      "The highest Revenue in million U.S. dollars, of value 307.0 was reached at Year 2018/19",
+      "The lowest Revenue in million U.S. dollars, of value 105.0 was reported at Year 2001/02",
+      "The line drastically "
    ],
+   "trends": [],
    "data": [
       {
          "Year": "2018/19",

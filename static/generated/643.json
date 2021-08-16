@@ -1,43 +1,38 @@
 {
-   "title": "Test",
+   "title": "Franchise value of the Cleveland Cavaliers ( NBA ) 2003 to 2020",
    "xAxis": "Year",
    "yAxis": "Franchise value in million U.S. dollars",
    "columnType": "two",
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Franchise value in million U.S. dollars, with a total of 18 data points.",
+      "This is a line chart with an x axis representing Year and a y axis representing Franchise value in million U.S. dollars, containing a total of 18 data points.",
       " Overall Franchise value in million U.S. dollars has increased over the Year.",
-      "Franchise value in million U.S. dollars is slightly increasing from 2003 to 2005, roughly constant from 2005 to 2010, roughly decreasing from 2010 to 2011, roughly constant from 2011 to 2012, rapidly increasing from 2012 to 2015, roughly constant from 2015 to 2019, and lastly roughly increasing from 2019 to 2020.",
+      "The line drastically increased by 1.8 times from Year 2014 to 2015.",
       "The steepest increase occurs in between the Year 2014 and 2015.",
-      "Max Franchise value in million U.S. dollars about 1510.0 was recorded at Year 2020",
-      "Min Franchise value in million U.S. dollars about 222.0 was recorded at Year 2003",
-      "#########################################################################",
-      "This line chart has an x axis representing Year and a y axis representing Franchise value in million U.S. dollars, with a total of 18 data points. The chart has 4 significant trends.",
-      " The longest trend is extremely increasing which exists from 2012 to 2018.",
-      " Correspondingly, the next significant trend is moderately increasing which exists from 2003 to 2009.",
-      " Additionally, the next significant trend is slightly decreasing which exists from 2009 to 2012.",
-      " But, the next significant trend is moderately decreasing which exists from 2018 to 2020."
+      "Maximum Franchise value in million U.S. dollars, about 1510.0 was reported at Year 2020",
+      "The lowest Franchise value in million U.S. dollars, of value 222.0 was reported at Year 2003"
    ],
-   "trends": [
-      {},
-      {
-         "1": "2",
-         "12": "8"
-      },
-      {
-         "3": "11",
-         "14": "17"
-      },
-      {
-         "3": "8",
-         "14": "11"
-      },
-      {
-         "3": "0",
-         "14": "2"
-      }
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Franchise value in million U.S. dollars, containing a total of 18 data points.",
+      " In general Franchise value in million U.S. dollars has rose over the Year."
    ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Franchise value in million U.S. dollars. In total the number of data points it has is 18.",
+      " Overall Franchise value in million U.S. dollars has increased over the Year.",
+      "The most drastic increase took place within the Year 2014 and 2015.",
+      "Maximum Franchise value in million U.S. dollars, about 1510.0 was reported at Year 2020",
+      "The lowest Franchise value in million U.S. dollars, of value 222.0 was reported at Year 2003"
+   ],
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Franchise value in million U.S. dollars. In total the number of data points it has is 18.",
+      " Overall Franchise value in million U.S. dollars has increased over the Year.",
+      "The most drastic increase took place within the Year 2014 and 2015.",
+      "Maximum Franchise value in million U.S. dollars, about 1510.0 was reported at Year 2020",
+      "The lowest Franchise value in million U.S. dollars, of value 222.0 was reported at Year 2003",
+      "The line drastically increased by 1.8 times from Year 2014 to 2015."
+   ],
+   "trends": [],
    "data": [
       {
          "Year": "2020",

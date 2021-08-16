@@ -1,16 +1,32 @@
 {
-   "title": "Test",
+   "title": "BASF 's planned capital expenditure by region 2020 to 2024",
    "xAxis": "Region",
    "yAxis": "Share of capital expenditure",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 5 categories on the x axis representing Region, and Share of capital expenditure in each Region on the y axis.",
-      "Asia Pacific is higher than any other categories with value 41.0, followed by , and North America. Down to category South America Africa Middle East with the lowest value of 1.0. ",
-      " The highest value at Asia Pacific is almost 41.0 times larger than the minimum value of South America Africa Middle East. ",
-      " The highest value at Asia Pacific is almost 41.0 times larger than the minimum value of South America Africa Middle East. ",
-      " The difference between the max Region Asia Pacific and min Region South America Africa Middle East is 40.0. "
+      "This bar chart has 5 columns on the x axis representing Region, and Share of capital expenditure in each Region on the y axis. ",
+      "Region Asia Pacific has the highest Share of capital expenditure and South America Africa Middle East has the lowest Share of capital expenditure. ",
+      "The highest Region Asia Pacific has 40.0 more Share of capital expenditure than the lowest Region South America Africa Middle East. "
+   ],
+   "min_summary": [
+      "This bar chart has 5 columns on the x axis representing Region, and Share of capital expenditure in each Region on the y axis. ",
+      "The Share of capital expenditure is appeared to be the highest at Region Asia Pacific and lowest at Region South America Africa Middle East. "
+   ],
+   "mid_summary": [
+      "This bar chart has 5 columns on the x axis representing Region, and Share of capital expenditure in each Region on the y axis. ",
+      "Region Asia Pacific has the highest Share of capital expenditure and South America Africa Middle East has the lowest Share of capital expenditure. ",
+      "The highest Region Asia Pacific has 40.0 more Share of capital expenditure than the lowest Region South America Africa Middle East. "
+   ],
+   "max_summary": [
+      "This bar chart has 5 columns on the x axis representing Region, and Share of capital expenditure in each Region on the y axis. ",
+      "Region Asia Pacific has the highest Share of capital expenditure and South America Africa Middle East has the lowest Share of capital expenditure. ",
+      "The second highest Share of capital expenditure is appeared to be the Region Europe. ",
+      "There is a difference of 40.0 between the maximum Region Asia Pacific and minimum Region South America Africa Middle East. ",
+      "Region Asia Pacific is higher than any other Regions with value 41.0, followed by Europe, and North America. Down to Region South America Africa Middle East with the lowest value 1.0. ",
+      "The Region Asia Pacific tends to be 2.05 percent higher than average. ",
+      "The Share of capital expenditure is 100.0 if we add up values of all Regions. "
    ],
    "trends": [
       {},

@@ -1,5 +1,5 @@
 {
-   "title": "Test",
+   "title": "Prescription for glasses or contact lenses in the UK 2014 , by country",
    "labels": [
       "Country",
       "Yes",
@@ -9,10 +9,30 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart has 5 categories of Country on the x axis representing 2 groups: Yes, and No.",
-      " Averaging these 2 groups, the highest category is found for Country Northern Ireland with a mean value of 50.0.",
-      " The lowest category is observed at Wales that has a mean value of 49.5",
-      " In case of Scotland, Yes shows more dominance than any other Country with a value 84.0 and it has the lowest value 66.0 in Wales. "
+      "This grouped bar chart represents 5 different Countrys on X-axis for 2 groups Yes, and No. On the Y-axis it shows their corresponding Share of respondents. ",
+      " Country Scotland had the maximum Share of respondents among all 2 groups, and it was for Yes. The minimum Share of respondents was observed in Country Scotland for No. ",
+      " In Country Scotland, Yes had the maximum Share of respondents and it saw the lowest in Country Wales out of all 5 Countrys. ",
+      " There is a gap of 18.0 between the highest and lowest Share of respondents found for Yes in Country Scotland and Wales. "
+   ],
+   "xAxis": "Country",
+   "yAxis": "Share of respondents",
+   "min_summary": [
+      "This grouped bar chart shows Share of respondents on the Y-axis for 5 different Countrys for 2 groups Yes, and No that are presented on the X-axis. ",
+      " Country Scotland had the maximum Share of respondents among all 2 groups, and it was for Yes. The minimum Share of respondents was observed in Country Scotland for No. "
+   ],
+   "mid_summary": [
+      "This grouped bar chart represents 5 different Countrys on X-axis for 2 groups Yes, and No. On the Y-axis it shows their corresponding Share of respondents. ",
+      " Country Scotland had the maximum Share of respondents among all 2 groups, and it was for Yes. The minimum Share of respondents was observed in Country Scotland for No. ",
+      " In Country Scotland, Yes had the maximum Share of respondents and it saw the lowest in Country Wales out of all 5 Countrys. ",
+      " There is a gap of 18.0 between the highest and lowest Share of respondents found for Yes in Country Scotland and Wales. "
+   ],
+   "max_summary": [
+      "This grouped bar chart shows Share of respondents on the Y-axis for 5 different Countrys for 2 groups Yes, and No that are presented on the X-axis. ",
+      " Out of all 2 groups, Yes had the highest Share of respondents in Country Scotland and No had the lowest Share of respondents in Country Scotland. ",
+      " In Country Scotland, Yes had the maximum Share of respondents and it saw the lowest in Country Wales out of all 5 Countrys. ",
+      " There is a gap of 18.0 between the highest and lowest Share of respondents found for Yes in Country Scotland and Wales. ",
+      " Out of all 2 groups, the highest gap between the maximum and minimum Share of respondents was found in case of Yes. ",
+      "Averaging all 2 groups Yes, and No, the Country Northern Ireland is the maximum Share of respondents and Wales is the minimum Share of respondents. "
    ],
    "trends": [
       {},

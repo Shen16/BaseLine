@@ -1,18 +1,31 @@
 {
-   "title": "Test",
+   "title": "Most popular social media apps in the U.S. 2019 , by audience",
    "xAxis": "Platform",
    "yAxis": "Million unique visitors",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 21 categories on the x axis representing Platform, and Million unique visitors in each Platform on the y axis.",
-      " The highest category is found at Facebook (main) where Million unique visitors is 169.76.",
-      " Followed by 169.76 in .",
-      " The lowest category is found at WeChat where Million unique visitors is 1.48.",
-      " The highest value at Facebook (main) is almost 114.7 times larger than the minimum value of WeChat. ",
-      " The highest value at Facebook (main) is almost 114.7 times larger than the minimum value of WeChat. ",
-      " The difference between the max Platform Facebook (main) and min Platform WeChat is 168.28. "
+      "This is a bar chart representing Platform in the x axis and Million unique visitors in the y axis. ",
+      "The maximum Million unique visitors 169.76 is found at Platform Facebook (main) and the minimum is found at WeChat where Platform is 1.48. ",
+      "The difference of Million unique visitors between the highest and lowest Platform is 168.28. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing Platform in the x axis and Million unique visitors in the y axis. ",
+      "The Million unique visitors is appeared to be the highest at Platform Facebook (main) and lowest at Platform WeChat. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Platform in the x axis and Million unique visitors in the y axis. ",
+      "The maximum Million unique visitors 169.76 is found at Platform Facebook (main) and the minimum is found at WeChat where Platform is 1.48. ",
+      "The difference of Million unique visitors between the highest and lowest Platform is 168.28. "
+   ],
+   "max_summary": [
+      "This bar chart has 21 columns on the x axis representing Platform, and Million unique visitors in each Platform on the y axis. ",
+      "The Million unique visitors is highest at Platform Facebook (main) and lowest at Platform WeChat. ",
+      "Platform Instagram (main) has the second highest value for Million unique visitors. ",
+      "The highest Platform Facebook (main) has 168.28 more Million unique visitors than the lowest Platform WeChat. ",
+      "Million unique visitors at Platform Facebook (main) is 169.76 , second place is Instagram (main) at 121.23, and thirdly is Facebook Messenger at 106.4.",
+      "The Platform WeChat has 4.61 times less Million unique visitors than average. "
    ],
    "trends": [
       {},

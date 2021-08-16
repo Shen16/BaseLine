@@ -1,5 +1,5 @@
 {
-   "title": "Test",
+   "title": "Cars of the future - expectations",
    "labels": [
       "Race",
       "I mostly agree",
@@ -9,12 +9,30 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart has 7 categories of Race on the x axis representing 2 groups: I mostly agree, and I totally agree.",
-      " Averaging these 2 groups, the highest category is found for Race Maximal safety with a mean value of 46.3.",
-      " Followed by Economic mobility with a mean value of 44.4.",
-      " The lowest category is observed at Reflecting my socialstatus/my self-image that has a mean value of 17.45",
-      " showing a difference of 90.5% with the maximum value.",
-      " In case of That it is mainly functional, I mostly agree shows more dominance than any other Race with a value 371.0 and it has the lowest value 35.0 in Driving enjoyment -Driving should be fun. "
+      "This grouped bar chart represents 7 different Races on X-axis for 2 groups I mostly agree, and I totally agree. On the Y-axis it shows their corresponding SOME LABEL. ",
+      " Out of all 2 groups, I totally agree had the highest SOME LABEL in Race Maximal safety and I mostly agree had the lowest SOME LABEL in Race Driving enjoyment -Driving should be fun. ",
+      " In Race Maximal safety, I totally agree had the highest SOME LABEL among all 7 Races and it has the lowest SOME LABEL in Race Driving enjoyment -Driving should be fun. ",
+      "Race Maximal safety and Driving enjoyment -Driving should be fun had the biggest gap of 713.0 between the highest and lowest SOME LABEL found for I totally agree. "
+   ],
+   "xAxis": "Race",
+   "yAxis": "SOME LABEL",
+   "min_summary": [
+      "This grouped bar chart represents 7 different Races on X-axis for 2 groups I mostly agree, and I totally agree. On the Y-axis it shows their corresponding SOME LABEL. ",
+      " Race Maximal safety had the maximum SOME LABEL among all 2 groups, and it was for I totally agree. The minimum SOME LABEL was observed in Race Driving enjoyment -Driving should be fun for I mostly agree. "
+   ],
+   "mid_summary": [
+      "This grouped bar chart represents 7 different Races on X-axis for 2 groups I mostly agree, and I totally agree. On the Y-axis it shows their corresponding SOME LABEL. ",
+      " Out of all 2 groups, I totally agree had the highest SOME LABEL in Race Maximal safety and I mostly agree had the lowest SOME LABEL in Race Driving enjoyment -Driving should be fun. ",
+      " In Race Maximal safety, I totally agree had the highest SOME LABEL among all 7 Races and it has the lowest SOME LABEL in Race Driving enjoyment -Driving should be fun. ",
+      "Race Maximal safety and Driving enjoyment -Driving should be fun had the biggest gap of 713.0 between the highest and lowest SOME LABEL found for I totally agree. "
+   ],
+   "max_summary": [
+      "This grouped bar chart represents 7 different Races on X-axis for 2 groups I mostly agree, and I totally agree. On the Y-axis it shows their corresponding SOME LABEL. ",
+      " Out of all 2 groups, I totally agree had the highest SOME LABEL in Race Maximal safety and I mostly agree had the lowest SOME LABEL in Race Driving enjoyment -Driving should be fun. ",
+      " Among all the Races, I totally agree had the highest SOME LABEL 753.0 in Race Maximal safety and lowest value 40.0 in Race Driving enjoyment -Driving should be fun. ",
+      " There is a gap of 713.0 between the highest and lowest SOME LABEL found for I totally agree in Race Maximal safety and Driving enjoyment -Driving should be fun. ",
+      " Among the groups, I mostly agree had the biggest difference in SOME LABEL. Where the maximum SOME LABEL was 10.6 times larger than the minimum SOME LABEL. ",
+      "On average, the Race Maximal safety had the highest SOME LABEL for all 2 groups I mostly agree, and I totally agree. Whereas Reflecting my socialstatus/my self-image had the lowest average SOME LABEL. "
    ],
    "trends": [
       {},

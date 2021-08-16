@@ -1,27 +1,39 @@
 {
-   "title": "Test",
+   "title": "BTS album total sales in South Korea 2013 to 2017",
    "xAxis": "Year",
    "yAxis": "Number of sold albums in thousand copies",
    "columnType": "two",
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Number of sold albums in thousand copies, with a total of 5 data points.",
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of sold albums in thousand copies. In total the number of data points it has is 5.",
       " Overall Number of sold albums in thousand copies has increased over the Year.",
       "Number of sold albums in thousand copies is slightly increasing from 2013 to 2015, and lastly roughly constant from 2015 to 2017.",
-      "Max Number of sold albums in thousand copies about 2723.0 was recorded at Year 2017",
-      "Min Number of sold albums in thousand copies about 58.0 was recorded at Year 2013",
-      "#########################################################################",
-      "This line chart has an x axis representing Year and a y axis representing Number of sold albums in thousand copies with a total of 5 data points. The chart has one significant trend.",
-      " This trend is increasing which exists from 2017 to 2013."
+      "The line drastically increased by 3.8 times from Year 2013 to 2014,increased by 2.6 times from Year 2014 to 2015,increased by 2.6 times from Year 2015 to 2016, and lastly, remained stable by 1.9 times from Year 2016 to 2017.",
+      "The highest Number of sold albums in thousand copies, of value 2723.0 was reached at Year 2017",
+      "Minimum Number of sold albums in thousand copies about 58.0 was reached at Year 2013"
    ],
-   "trends": [
-      {},
-      {
-         "3": "0",
-         "14": "4"
-      }
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Number of sold albums in thousand copies, containing a total of 5 data points.",
+      " Overall Number of sold albums in thousand copies has increased over the Year.",
+      "Number of sold albums in thousand copies is slightly increasing from 2013 to 2015, and lastly roughly constant from 2015 to 2017."
    ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of sold albums in thousand copies. In total the number of data points it has is 5.",
+      " Overall Number of sold albums in thousand copies has increased over the Year.",
+      "Number of sold albums in thousand copies is slightly increasing from 2013 to 2015, and lastly roughly constant from 2015 to 2017.",
+      "The highest Number of sold albums in thousand copies, of value 2723.0 was reached at Year 2017",
+      "Minimum Number of sold albums in thousand copies about 58.0 was reached at Year 2013"
+   ],
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of sold albums in thousand copies. In total the number of data points it has is 5.",
+      " In general Number of sold albums in thousand copies has rose over the Year.",
+      "Number of sold albums in thousand copies is slightly increasing from 2013 to 2015, and lastly roughly constant from 2015 to 2017.",
+      "The highest Number of sold albums in thousand copies, of value 2723.0 was reached at Year 2017",
+      "Minimum Number of sold albums in thousand copies about 58.0 was reached at Year 2013",
+      "The line significantly increased by 160.0 from Year 2013 to 2014,increased by 345.0 from Year 2014 to 2015,increased by 896.0 from Year 2015 to 2016, and lastly, remained stable by 1264.0 from Year 2016 to 2017."
+   ],
+   "trends": [],
    "data": [
       {
          "Year": "2017",

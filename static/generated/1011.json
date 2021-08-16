@@ -1,5 +1,5 @@
 {
-   "title": "Test",
+   "title": "U.S. and European natural gas price 1980 to 2030",
    "labels": [
       "Year",
       "Europe",
@@ -9,15 +9,37 @@
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This is a multi-line chart with 2 lines representing Europe, and U.S.. ",
-      "The line for Europe has the highest values across Year with a mean value of 6.44, ",
-      "and it peaked at 2013 with a value of 11.1.",
-      "U.S. mostly had the least y-axis name with a mean value of 3.09, ",
-      "which peaked at 2000 with a value of 4.8. ",
-      "U.S. reported the lowest y-axis name  about 1.8 in Year 1990",
+      "This is a multi-line chart with 2 lines representing Europe, and U.S.. The y axis denotes SOME LABEL and the x axis denotes Year.",
       "Overall Europe, and U.S. are gradually increasing,  throughout the Year",
-      "The difference of y_axis name between Europe and U.S. is smaller at Year 2030 compared to the Year 1980.",
-      "The greatest difference of y_axis name between Europe and U.S. occurs at Year 2013 and the smallest difference occurs at 2000."
+      "The ranking of the lines from topmost to botommmost is as follows: 1. Europe, and lastly, 2. U.S.. ",
+      "Throughout the period, Europe generally had the highest SOME LABEL relative to others with an average of 6.44, and it reached its maximum at 2013 with a value of 11.1.",
+      "The botommost line, U.S.,  has a mean of 3.09, and peaked at 2000. ",
+      "The minimum SOME LABEL about 1.8, occured at 1990 by U.S..",
+      "The difference of SOME LABEL between Europe and U.S. is smaller at Year 2030 compared to the Year 1980."
+   ],
+   "xAxis": "Year",
+   "yAxis": "SOME LABEL",
+   "min_summary": [
+      "The given chart is of multi-line type with 2 lines namely Europe, and U.S.. The y axis represents SOME LABEL and the x axis represents Year.",
+      "Overall Europe, and U.S. are gradually increasing,  throughout the Year",
+      "Overall across the Year, Europe mostly maintained the highest SOME LABEL when compared to others with a mean value of 6.44, and it peaked at 2013.",
+      "U.S. mostly had the least SOME LABEL with a mean value of 3.09, which peaked at 2000 with a value of 4.8. "
+   ],
+   "mid_summary": [
+      "This is a multi-line chart with 2 lines representing Europe, and U.S.. The y axis denotes SOME LABEL and the x axis denotes Year.",
+      "Overall Europe, and U.S. are gradually increasing,  throughout the Year",
+      "The ranking of the lines from topmost to botommmost is as follows: 1. Europe, and lastly, 2. U.S.. ",
+      "Overall across the Year, Europe mostly maintained the highest SOME LABEL when compared to others with a mean value of 6.44, and it peaked at 2013.",
+      "The botommost line, U.S.,  has a mean of 3.09, and peaked at 2000. "
+   ],
+   "max_summary": [
+      "This is a multi-line chart with 2 lines representing Europe, and U.S.. The y axis denotes SOME LABEL and the x axis denotes Year.",
+      "Overall Europe, and U.S. are gradually increasing,  throughout the Year",
+      "The ranking of the lines from topmost to botommmost is as follows: 1. Europe, and lastly, 2. U.S.. ",
+      "Overall across the Year, Europe mostly maintained the highest SOME LABEL when compared to others with a mean value of 6.44, and it peaked at 2013.",
+      "U.S. mostly had the least SOME LABEL with a mean value of 3.09, which peaked at 2000 with a value of 4.8. ",
+      "U.S. reported the lowest SOME LABEL about 1.8 in Year 1990",
+      "The greatest difference of SOME LABEL between Europe and U.S. occurs at Year 2013 and the smallest difference occurs at 2000."
    ],
    "trends": [
       {},

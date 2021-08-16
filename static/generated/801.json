@@ -1,18 +1,30 @@
 {
-   "title": "Test",
+   "title": "Top media publishers in the U.S. 2017 , by online traffic",
    "xAxis": "Media Publisher",
    "yAxis": "Page views in millions",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 20 categories on the x axis representing Media Publisher, and Page views in millions in each Media Publisher on the y axis.",
-      " The highest category is found at msn.com where Page views in millions is 1810.3.",
-      " Followed by 1810.3 in .",
-      " The lowest category is found at news.yahoo.com where Page views in millions is 185.1.",
-      " The highest value at msn.com is almost 9.78 times larger than the minimum value of news.yahoo.com. ",
-      " The highest value at msn.com is almost 9.78 times larger than the minimum value of news.yahoo.com. ",
-      " The difference between the max Media Publisher msn.com and min Media Publisher news.yahoo.com is 1625.2. "
+      "This bar chart has 20 columns on the x axis representing Media Publisher, and Page views in millions in each Media Publisher on the y axis. ",
+      "The Page views in millions is highest at Media Publisher msn.com and lowest at Media Publisher news.yahoo.com. ",
+      "There is a difference of 1625.2 between the maximum Media Publisher msn.com and minimum Media Publisher news.yahoo.com. "
+   ],
+   "min_summary": [
+      "This bar chart has 20 columns on the x axis representing Media Publisher, and Page views in millions in each Media Publisher on the y axis. ",
+      "The Page views in millions is appeared to be the highest at Media Publisher msn.com and lowest at Media Publisher news.yahoo.com. "
+   ],
+   "mid_summary": [
+      "This bar chart has 20 columns on the x axis representing Media Publisher, and Page views in millions in each Media Publisher on the y axis. ",
+      "The Page views in millions is highest at Media Publisher msn.com and lowest at Media Publisher news.yahoo.com. ",
+      "There is a difference of 1625.2 between the maximum Media Publisher msn.com and minimum Media Publisher news.yahoo.com. "
+   ],
+   "max_summary": [
+      "This bar chart has 20 columns on the x axis representing Media Publisher, and Page views in millions in each Media Publisher on the y axis. ",
+      "The maximum Page views in millions 1810.3 is found at Media Publisher msn.com and the minimum is found at news.yahoo.com where Media Publisher is 185.1. ",
+      "There is a difference of 1625.2 between the maximum Media Publisher msn.com and minimum Media Publisher news.yahoo.com. ",
+      "The Media Publisher msn.com has the highest Page views in millions, followed by drudgereport.com, and news.google.com. Down to the Media Publisher news.yahoo.com which is the lowest. ",
+      "The Media Publisher news.yahoo.com tends to be 2.94 percent lower than average. "
    ],
    "trends": [
       {},

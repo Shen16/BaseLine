@@ -1,48 +1,42 @@
 {
-   "title": "Test",
+   "title": "Inflation rate in Malawi 2024",
    "xAxis": "Year",
    "yAxis": "Inflation rate compared to previous year",
    "columnType": "two",
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Inflation rate compared to previous year, with a total of 41 data points.",
-      " Overall Inflation rate compared to previous year has decreased over the Year.",
-      "Inflation rate compared to previous year is roughly increasing from 1984 to 1987, roughly decreasing from 1987 to 1989, roughly constant from 1989 to 1990, slightly increasing from 1990 to 1992, roughly constant from 1992 to 1993, gradually increasing from 1993 to 1995, slightly decreasing from 1995 to 1997, rapidly increasing from 1997 to 1999, slightly decreasing from 1999 to 2001, roughly constant from 2001 to 2011, slightly increasing from 2011 to 2012, and lastly roughly constant from 2012 to 2024.",
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Inflation rate compared to previous year. In total the number of data points it has is 41.",
+      " In general Inflation rate compared to previous year has fallen over the Year.",
+      "The chart in general has a zig-zag shape.",
+      "The line drastically increased by 1.8 times from Year 1986 to 1987,increased by 2.8 times from Year 1991 to 1992,increased by 2.4 times from Year 1994 to 1995,decreased by 4.1 times from Year 1996 to 1997,increased by 3.3 times from Year 1997 to 1998,decreased by 3.9 times from Year 2000 to 2001, and lastly, increased by 2.8 times from Year 2011 to 2012.",
+      "The most drastic increase took place within the Year 1994 and 1995.",
+      "Maximum Inflation rate compared to previous year, about 83.15 was reported at Year 1995",
+      "Minimum Inflation rate compared to previous year about 5.05 was reached at Year 2024"
+   ],
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Inflation rate compared to previous year, containing a total of 41 data points.",
+      " Overall Inflation rate compared to previous year has decreased over the Year."
+   ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Inflation rate compared to previous year, containing a total of 41 data points.",
+      " In general Inflation rate compared to previous year has fallen over the Year.",
+      "The most drastic increase took place within the Year 1994 and 1995.",
+      "Maximum Inflation rate compared to previous year, about 83.15 was reported at Year 1995",
+      "Minimum Inflation rate compared to previous year about 5.05 was reached at Year 2024"
+   ],
+   "max_summary": [
+      "The chart generally has many fluctuations.",
+      "The chart in general has a zig-zag shape.",
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Inflation rate compared to previous year. In total the number of data points it has is 41.",
+      " In general Inflation rate compared to previous year has fallen over the Year.",
+      "The chart generally has many fluctuations.",
       "The steepest increase occurs in between the Year 1994 and 1995.",
-      "Max Inflation rate compared to previous year about 83.15 was recorded at Year 1995",
-      "Min Inflation rate compared to previous year about 5.05 was recorded at Year 2024",
-      "#########################################################################",
-      "This line chart has an x axis representing Year and a y axis representing Inflation rate compared to previous year, with a total of 41 data points. The chart has 5 significant trends.",
-      " The longest trend is moderately decreasing which exists from 2013 to 2024.",
-      " But, the next significant trend is moderately increasing which exists from 2001 to 2008.",
-      " Similarly, the next significant trend is extremely decreasing which exists from 1988 to 1995.",
-      " But, the next significant trend is slightly decreasing which exists from 1995 to 2001.",
-      " On the contrary, the next significant trend is extremely decreasing which exists from 2008 to 2013."
+      "Maximum Inflation rate compared to previous year, about 83.15 was reported at Year 1995",
+      "Minimum Inflation rate compared to previous year about 5.05 was reached at Year 2024",
+      "The line rapidly increased by 76.66% from Year 1986 to 1987,increased by 182.38% from Year 1991 to 1992,increased by 139.9% from Year 1994 to 1995,decreased by 75.78% from Year 1996 to 1997,increased by 225.82% from Year 1997 to 1998,decreased by 74.19% from Year 2000 to 2001, and lastly, increased by 179.53% from Year 2011 to 2012."
    ],
-   "trends": [
-      {},
-      {
-         "1": "0",
-         "12": "11"
-      },
-      {
-         "3": "16",
-         "14": "23"
-      },
-      {
-         "3": "29",
-         "14": "36"
-      },
-      {
-         "3": "23",
-         "14": "29"
-      },
-      {
-         "3": "11",
-         "14": "16"
-      }
-   ],
+   "trends": [],
    "data": [
       {
          "Year": "2024",

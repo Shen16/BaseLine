@@ -1,18 +1,32 @@
 {
-   "title": "Test",
+   "title": "Per capita consumption of chewing gum in selected countries worldwide 2009 to 2012",
    "xAxis": "Country",
    "yAxis": "Index value",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 11 categories on the x axis representing Country, and Index value in each Country on the y axis.",
-      " The highest category is found at United States where Index value is 152.0.",
-      " Followed by 152.0 in .",
-      " The lowest category is found at India where Index value is 10.0.",
-      " The highest value at United States is almost 15.2 times larger than the minimum value of India. ",
-      " The highest value at United States is almost 15.2 times larger than the minimum value of India. ",
-      " The difference between the max Country United States and min Country India is 142.0. "
+      "This is a bar chart. It shows Index value for 11 number of Countrys. ",
+      "The Index value is appeared to be the highest at Country United States and lowest at Country India. ",
+      "There is a difference of 142.0 between the maximum Country United States and minimum Country India. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Index value for 11 number of Countrys. ",
+      "The maximum Index value 152.0 is found at Country United States and the minimum is found at India where Country is 10.0. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Index value for 11 number of Countrys. ",
+      "The Index value is appeared to be the highest at Country United States and lowest at Country India. ",
+      "There is a difference of 142.0 between the maximum Country United States and minimum Country India. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Index value for 11 number of Countrys. ",
+      "The Index value is highest at Country United States and lowest at Country India. ",
+      "Second maximum Index value is found at Country Austria. ",
+      "There is a difference of 142.0 between the maximum Country United States and minimum Country India. ",
+      "The Country United States has the highest Index value, followed by Austria, and Belgium. Down to the Country India which is the lowest. ",
+      "The Country India has 1.77 times less Index value than average. ",
+      "Summing up the values of all Countrys, we get total 943.0. "
    ],
    "trends": [
       {},

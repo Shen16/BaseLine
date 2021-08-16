@@ -1,58 +1,38 @@
 {
-   "title": "Test",
+   "title": "Electricity prices for households in Denmark 2010 - 2019 , semi-annually",
    "xAxis": "Year",
    "yAxis": "Euro cents per kilowatt-hour",
    "columnType": "two",
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Euro cents per kilowatt-hour, with a total of 19 data points.",
-      " Overall Euro cents per kilowatt-hour has increased over the Year.",
-      "Euro cents per kilowatt-hour is rapidly increasing from 2010_S1 to 2011_S2, roughly constant from 2011_S2 to 2013_S1, roughly increasing from 2013_S1 to 2014_S1, roughly constant from 2014_S1 to 2016_S2, roughly decreasing from 2016_S2 to 2017_S1, slightly increasing from 2017_S1 to 2018_S1, roughly constant from 2018_S1 to 2018_S2, and lastly slightly decreasing from 2018_S2 to 2019_S1.",
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Euro cents per kilowatt-hour. In total the number of data points it has is 19.",
+      " In general Euro cents per kilowatt-hour has rose over the Year.",
+      "The line drastically ",
       "The steepest increase occurs in between the Year 2010_S2 and 2011_S1.",
-      "Max Euro cents per kilowatt-hour about 31.26 was recorded at Year 2018_S1",
-      "Min Euro cents per kilowatt-hour about 26.7 was recorded at Year 2010_S1",
-      "#########################################################################",
-      "This line chart has an x axis representing Year and a y axis representing Euro cents per kilowatt-hour, with a total of 19 data points. The chart has 7 significant trends.",
-      " The longest trend is moderately decreasing which exists from 2016_S1 to 2018_S1.",
-      " But, the next significant trend is extremely increasing which exists from 2010_S1 to 2012_S1.",
-      " Similarly, the next significant trend is slightly decreasing which exists from 2018_S1 to 2019_S1.",
-      " On the other hand, the next significant trend is moderately decreasing which exists from 2015_S1 to 2016_S1.",
-      " But, the next significant trend is moderately decreasing which exists from 2014_S1 to 2015_S1.",
-      " On the contrary, the next significant trend is moderately decreasing which exists from 2013_S1 to 2014_S1.",
-      " On the contrary, the next significant trend is moderately decreasing which exists from 2012_S1 to 2013_S1."
+      "Maximum Euro cents per kilowatt-hour, about 31.26 was reported at Year 2018_S1",
+      "The lowest Euro cents per kilowatt-hour, of value 26.7 was reported at Year 2010_S1"
    ],
-   "trends": [
-      {},
-      {
-         "1": "2",
-         "12": "6"
-      },
-      {
-         "3": "14",
-         "14": "18"
-      },
-      {
-         "3": "0",
-         "14": "2"
-      },
-      {
-         "3": "6",
-         "14": "8"
-      },
-      {
-         "3": "8",
-         "14": "10"
-      },
-      {
-         "3": "10",
-         "14": "12"
-      },
-      {
-         "3": "12",
-         "14": "14"
-      }
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Euro cents per kilowatt-hour. In total the number of data points it has is 19.",
+      " In general Euro cents per kilowatt-hour has rose over the Year."
    ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Euro cents per kilowatt-hour. In total the number of data points it has is 19.",
+      " Overall Euro cents per kilowatt-hour has increased over the Year.",
+      "The most drastic increase took place within the Year 2010_S2 and 2011_S1.",
+      "Maximum Euro cents per kilowatt-hour, about 31.26 was reported at Year 2018_S1",
+      "The lowest Euro cents per kilowatt-hour, of value 26.7 was reported at Year 2010_S1"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Euro cents per kilowatt-hour, containing a total of 19 data points.",
+      " In general Euro cents per kilowatt-hour has rose over the Year.",
+      "The most drastic increase took place within the Year 2010_S2 and 2011_S1.",
+      "Maximum Euro cents per kilowatt-hour, about 31.26 was reported at Year 2018_S1",
+      "The lowest Euro cents per kilowatt-hour, of value 26.7 was reported at Year 2010_S1",
+      "The line rapidly "
+   ],
+   "trends": [],
    "data": [
       {
          "Year": "2019 S1",

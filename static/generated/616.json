@@ -1,5 +1,5 @@
 {
-   "title": "Test",
+   "title": "adidas Group - revenue from H1 2017 to H1 2019 , by region",
    "labels": [
       "Half",
       "Asia-Pacific",
@@ -13,12 +13,31 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart has 3 categories of Half on the x axis representing 6 groups: Asia-Pacific, Europe, North America, Latin America, Emerging Markets, and Russia/CIS.",
-      " Averaging these 6 groups, the highest category is found for Half 1st half 2019 with a mean value of 1841.67.",
-      " Followed by 1st half 2018 with a mean value of 1738.5.",
-      " The lowest category is observed at 1st half 2017 that has a mean value of 1681.67",
-      " showing a difference of 9.1% with the maximum value.",
-      " In case of 1st half 2019, Asia-Pacific shows more dominance than any other Half and it has the lowest value in 1st half 2017. On the other hand, group Europe is the second impactful group in this chart, and it's highest in case of 1st half 2019 and has the minimum dominance for Half 1st half 2017. "
+      "This grouped bar chart shows SOME LABEL on the Y-axis for 3 different Halfs for 6 groups Asia-Pacific, Europe, North America, Latin America, Emerging Markets, and Russia/CIS that are presented on the X-axis. ",
+      " Out of all 6 groups, Asia-Pacific had the highest SOME LABEL in Half 1st half 2019 and Russia/CIS had the lowest SOME LABEL in Half 1st half 2018. ",
+      " In Half 1st half 2017, Emerging Markets had the highest SOME LABEL among all 3 Halfs and it has the lowest SOME LABEL in Half 1st half 2018. ",
+      " The maximum SOME LABEL for Emerging Markets that was found in Half 1st half 2017 was 1.15 times larger than the minimum SOME LABEL observed in Half 1st half 2018. "
+   ],
+   "xAxis": "Half",
+   "yAxis": "SOME LABEL",
+   "min_summary": [
+      "This grouped bar chart represents 3 different Halfs on X-axis for 6 groups Asia-Pacific, Europe, North America, Latin America, Emerging Markets, and Russia/CIS. On the Y-axis it shows their corresponding SOME LABEL. ",
+      " Out of all 6 groups, Asia-Pacific had the highest SOME LABEL in Half 1st half 2019 and Russia/CIS had the lowest SOME LABEL in Half 1st half 2018. "
+   ],
+   "mid_summary": [
+      "This grouped bar chart shows SOME LABEL on the Y-axis for 3 different Halfs for 6 groups Asia-Pacific, Europe, North America, Latin America, Emerging Markets, and Russia/CIS that are presented on the X-axis. ",
+      " Out of all 6 groups, Asia-Pacific had the highest SOME LABEL in Half 1st half 2019 and Russia/CIS had the lowest SOME LABEL in Half 1st half 2018. ",
+      " In Half 1st half 2017, Emerging Markets had the highest SOME LABEL among all 3 Halfs and it has the lowest SOME LABEL in Half 1st half 2018. ",
+      " The maximum SOME LABEL for Emerging Markets that was found in Half 1st half 2017 was 1.15 times larger than the minimum SOME LABEL observed in Half 1st half 2018. "
+   ],
+   "max_summary": [
+      "This grouped bar chart shows SOME LABEL on the Y-axis for 3 different Halfs for 6 groups Asia-Pacific, Europe, North America, Latin America, Emerging Markets, and Russia/CIS that are presented on the X-axis. ",
+      " In Half 1st half 2019, Asia-Pacific had the highest SOME LABEL 4011.0 among the 6 groups and in 1st half 2018, Russia/CIS had the lowest SOME LABEL 297.0. ",
+      " In Half 1st half 2017, Emerging Markets had the highest SOME LABEL among all 3 Halfs and it has the lowest SOME LABEL in Half 1st half 2018. ",
+      "Half 1st half 2017 and 1st half 2018 had the biggest gap of 84.0 between the highest and lowest SOME LABEL found for Emerging Markets. ",
+      " Among all 6 groups, Asia-Pacific had the gap of 771.0 between the maximum and minimum SOME LABEL observed in Half 1st half 2019 and 1st half 2017 respectively. ",
+      " In Half 1st half 2019, Asia-Pacific had the highest SOME LABEL 4011.0 among the 6 groups and in 1st half 2018, Russia/CIS had the lowest SOME LABEL 297.0. The second highest SOME LABEL 644.0 was observed for Asia-Pacific in Half 1st half 2019. ",
+      "Averaging all 6 groups Asia-Pacific, Europe, North America, Latin America, Emerging Markets, and Russia/CIS, the Half 1st half 2019 is the maximum SOME LABEL and 1st half 2017 is the minimum SOME LABEL. "
    ],
    "trends": [
       {},

@@ -1,16 +1,32 @@
 {
-   "title": "Test",
+   "title": "Leading primetime TV programming genres viewed in the U.S. 2015",
    "xAxis": "Response",
    "yAxis": "Share of respondents",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 15 categories on the x axis representing Response, and Share of respondents in each Response on the y axis.",
-      "Sitcoms or comedy is higher than any other categories with value 48.0, followed by , and Drama. Down to category Soap operas with the lowest value of 4.0. ",
-      " The highest value at Sitcoms or comedy is almost 12.0 times larger than the minimum value of Soap operas. ",
-      " The highest value at Sitcoms or comedy is almost 12.0 times larger than the minimum value of Soap operas. ",
-      " The difference between the max Response Sitcoms or comedy and min Response Soap operas is 44.0. "
+      "This is a bar chart. It shows Share of respondents for 15 number of Responses. ",
+      "The Share of respondents is appeared to be the highest at Response Sitcoms or comedy and lowest at Response Soap operas. ",
+      "The difference of Share of respondents between the highest and lowest Response is 44.0. "
+   ],
+   "min_summary": [
+      "This bar chart has 15 columns on the x axis representing Response, and Share of respondents in each Response on the y axis. ",
+      "The Share of respondents is appeared to be the highest at Response Sitcoms or comedy and lowest at Response Soap operas. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Share of respondents for 15 number of Responses. ",
+      "The Share of respondents is appeared to be the highest at Response Sitcoms or comedy and lowest at Response Soap operas. ",
+      "The difference of Share of respondents between the highest and lowest Response is 44.0. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Response in the x axis and Share of respondents in the y axis. ",
+      "The Share of respondents is highest at Response Sitcoms or comedy and lowest at Response Soap operas. ",
+      "The difference of Share of respondents between the highest and lowest Response is 44.0. ",
+      "Share of respondents at Response Sitcoms or comedy is 48.0 , second place is Movies at 43.0, and thirdly is Drama at 42.0.",
+      "Response Children's, and Other type not listed have the same Share of respondents. ",
+      "The lowest value 4.0 at Soap operas is almost 2.13 times smaller than the average value 22.53. ",
+      "The Share of respondents is 338.0 if we add up values of all Responses. "
    ],
    "trends": [
       {},

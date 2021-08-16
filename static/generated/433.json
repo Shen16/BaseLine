@@ -1,5 +1,5 @@
 {
-   "title": "Test",
+   "title": "Luxury goods market worldwide by segment share in 2007 and 2012",
    "labels": [
       "Race",
       "2007",
@@ -9,11 +9,30 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart has 5 categories of Race on the x axis representing 2 groups: 2007, and 2012.",
-      " Averaging these 2 groups, the highest category is found for Race Fashion / Apparel with a mean value of 43.1.",
-      " The lowest category is observed at Other that has a mean value of 10.05",
-      " showing a difference of 124.4% with the maximum value.",
-      " In case of Fashion / Apparel, 2007 shows more dominance than any other Race with a value 443.0 and it has the lowest value 10.0 in Other. "
+      "This grouped bar chart represents 5 different Races on X-axis for 2 groups 2007, and 2012. On the Y-axis it shows their corresponding Segment share. ",
+      " In Race Fashion / Apparel, 2007 had the highest Segment share 443.0 among the 2 groups and in Other, 2007 had the lowest Segment share 10.0. ",
+      " In Race Fashion / Apparel, 2007 had the maximum Segment share and it saw the lowest in Race Other out of all 5 Races. ",
+      "Race Fashion / Apparel and Other had the biggest gap of 433.0 between the highest and lowest Segment share found for 2007. "
+   ],
+   "xAxis": "Race",
+   "yAxis": "Segment share",
+   "min_summary": [
+      "This grouped bar chart shows Segment share on the Y-axis for 5 different Races for 2 groups 2007, and 2012 that are presented on the X-axis. ",
+      " In Race Fashion / Apparel, 2007 had the highest Segment share 443.0 among the 2 groups and in Other, 2007 had the lowest Segment share 10.0. "
+   ],
+   "mid_summary": [
+      "This grouped bar chart represents 5 different Races on X-axis for 2 groups 2007, and 2012. On the Y-axis it shows their corresponding Segment share. ",
+      " In Race Fashion / Apparel, 2007 had the highest Segment share 443.0 among the 2 groups and in Other, 2007 had the lowest Segment share 10.0. ",
+      " In Race Fashion / Apparel, 2007 had the maximum Segment share and it saw the lowest in Race Other out of all 5 Races. ",
+      "Race Fashion / Apparel and Other had the biggest gap of 433.0 between the highest and lowest Segment share found for 2007. "
+   ],
+   "max_summary": [
+      "This grouped bar chart shows Segment share on the Y-axis for 5 different Races for 2 groups 2007, and 2012 that are presented on the X-axis. ",
+      " Race Fashion / Apparel had the maximum Segment share among all 2 groups, and it was for 2007. The minimum Segment share was observed in Race Other for 2007. ",
+      " Among all the Races, 2007 had the highest Segment share in Race Fashion / Apparel and lowest Segment share in Race Other. ",
+      " There is a gap of 433.0 between the highest and lowest Segment share found for 2007 in Race Fashion / Apparel and Other. ",
+      " Among the groups, 2007 had the biggest difference in Segment share. Where the maximum Segment share was 44.3 times larger than the minimum Segment share. ",
+      "On average, the Race Fashion / Apparel had the highest Segment share for all 2 groups 2007, and 2012. Whereas Other had the lowest average Segment share. "
    ],
    "trends": [
       {},

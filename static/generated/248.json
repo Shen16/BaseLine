@@ -1,18 +1,31 @@
 {
-   "title": "Test",
+   "title": "Average price for properties for sale in Rome , Italy 2019 , by area",
    "xAxis": "Area",
    "yAxis": "Price in euros per square meter",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 12 categories on the x axis representing Area, and Price in euros per square meter in each Area on the y axis.",
-      " The highest category is found at Centro Storico where Price in euros per square meter is 7817.0.",
-      " Followed by 7817.0 in .",
-      " The lowest category is found at Gregorio VII Baldo degli Ubaldi where Price in euros per square meter is 3972.0.",
-      " The highest value at Centro Storico is almost 1.97 times larger than the minimum value of Gregorio VII Baldo degli Ubaldi. ",
-      " The highest value at Centro Storico is almost 1.97 times larger than the minimum value of Gregorio VII Baldo degli Ubaldi. ",
-      " The difference between the max Area Centro Storico and min Area Gregorio VII Baldo degli Ubaldi is 3845.0. "
+      "This bar chart has 12 columns on the x axis representing Area, and Price in euros per square meter in each Area on the y axis. ",
+      "The maximum Price in euros per square meter 7817.0 is found at Area Centro Storico and the minimum is found at Gregorio VII Baldo degli Ubaldi where Area is 3972.0. ",
+      "The minimum Area Gregorio VII Baldo degli Ubaldi has got 1.97 times less Price in euros per square meter than the maximum Area Centro Storico. "
+   ],
+   "min_summary": [
+      "This bar chart has 12 columns on the x axis representing Area, and Price in euros per square meter in each Area on the y axis. ",
+      "The maximum Price in euros per square meter 7817.0 is found at Area Centro Storico and the minimum is found at Gregorio VII Baldo degli Ubaldi where Area is 3972.0. "
+   ],
+   "mid_summary": [
+      "This bar chart has 12 columns on the x axis representing Area, and Price in euros per square meter in each Area on the y axis. ",
+      "The maximum Price in euros per square meter 7817.0 is found at Area Centro Storico and the minimum is found at Gregorio VII Baldo degli Ubaldi where Area is 3972.0. ",
+      "The minimum Area Gregorio VII Baldo degli Ubaldi has got 1.97 times less Price in euros per square meter than the maximum Area Centro Storico. "
+   ],
+   "max_summary": [
+      "This bar chart has 12 columns on the x axis representing Area, and Price in euros per square meter in each Area on the y axis. ",
+      "Area Centro Storico has the highest Price in euros per square meter and Gregorio VII Baldo degli Ubaldi has the lowest Price in euros per square meter. ",
+      "Second maximum Price in euros per square meter is found at Area Aventino San Saba Caracalla. ",
+      "The Price in euros per square meter of Area Centro Storico is 1.97% larger than the minimum value at Gregorio VII Baldo degli Ubaldi. ",
+      "Price in euros per square meter at Area Centro Storico is 7817.0 , second place is Aventino San Saba Caracalla at 6910.0, and thirdly is Parioli Flaminio at 5622.0.",
+      "The lowest value 3972.0 at Gregorio VII Baldo degli Ubaldi is almost 1.54 times smaller than the average value 5066.92. "
    ],
    "trends": [
       {},

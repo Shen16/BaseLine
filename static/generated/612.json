@@ -1,28 +1,42 @@
 {
-   "title": "Test",
+   "title": "Number of Starwood Hotels and Resorts hotels worldwide 2009 to 2015",
    "xAxis": "Year",
    "yAxis": "Number of hotels",
    "columnType": "two",
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Number of hotels, with a total of 7 data points.",
-      " Overall Number of hotels has decreased over the Year.",
-      "Number of hotels is slightly decreasing from 2015 to 2009.",
-      "The steepest decrease occurs in between the Year 2011 and 2010.",
-      "Max Number of hotels about 1207.0 was recorded at Year 2015",
-      "Min Number of hotels about 942.0 was recorded at Year 2009",
-      "#########################################################################",
-      "This line chart has an x axis representing Year and a y axis representing Number of hotels with a total of 7 data points. The chart has one significant trend.",
-      " This trend is decreasing which exists from 2009 to 2015."
+      "This is a line chart with an x axis representing Year and a y axis representing Number of hotels, containing a total of 7 data points.",
+      " Overall Number of hotels has increased over the Year.",
+      "Number of hotels is slightly increasing from 2009 to 2015.",
+      "The line drastically ",
+      "The most drastic increase took place within the Year 2010 and 2011.",
+      "The highest Number of hotels, of value 1207.0 was reached at Year 2015",
+      "Minimum Number of hotels about 942.0 was reached at Year 2009"
    ],
-   "trends": [
-      {},
-      {
-         "3": "0",
-         "14": "6"
-      }
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Number of hotels, containing a total of 7 data points.",
+      " In general Number of hotels has rose over the Year.",
+      "Number of hotels is slightly increasing from 2009 to 2015."
    ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Number of hotels, containing a total of 7 data points.",
+      " In general Number of hotels has rose over the Year.",
+      "Number of hotels is slightly increasing from 2009 to 2015.",
+      "The steepest increase occurs in between the Year 2010 and 2011.",
+      "The highest Number of hotels, of value 1207.0 was reached at Year 2015",
+      "Minimum Number of hotels about 942.0 was reached at Year 2009"
+   ],
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of hotels. In total the number of data points it has is 7.",
+      " Overall Number of hotels has increased over the Year.",
+      "Number of hotels is slightly increasing from 2009 to 2015.",
+      "The most drastic increase took place within the Year 2010 and 2011.",
+      "The highest Number of hotels, of value 1207.0 was reached at Year 2015",
+      "Minimum Number of hotels about 942.0 was reached at Year 2009",
+      "The line drastically "
+   ],
+   "trends": [],
    "data": [
       {
          "Year": "2009",

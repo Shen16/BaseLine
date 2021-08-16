@@ -1,18 +1,33 @@
 {
-   "title": "Test",
+   "title": "Net sales share of Est\u00e9e Lauder worldwide 2017 , by distribution channel",
    "xAxis": "Distribution channel",
    "yAxis": "Net sales share",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 8 categories on the x axis representing Distribution channel, and Net sales share in each Distribution channel on the y axis.",
-      " The highest category is found at Department stores where Net sales share is 42.0.",
-      " Followed by 42.0 in .",
-      " The lowest category is found at Salon and spa where Net sales share is 3.0.",
-      " The highest value at Department stores is almost 14.0 times larger than the minimum value of Salon and spa. ",
-      " The highest value at Department stores is almost 14.0 times larger than the minimum value of Salon and spa. ",
-      " The difference between the max Distribution channel Department stores and min Distribution channel Salon and spa is 39.0. "
+      "This is a bar chart. It shows Net sales share for 8 number of Distribution channels. ",
+      "Distribution channel Department stores has the highest Net sales share and Salon and spa has the lowest Net sales share. ",
+      "The difference of Net sales share between the highest and lowest Distribution channel is 39.0. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Net sales share for 8 number of Distribution channels. ",
+      "The Net sales share is appeared to be the highest at Distribution channel Department stores and lowest at Distribution channel Salon and spa. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Net sales share for 8 number of Distribution channels. ",
+      "Distribution channel Department stores has the highest Net sales share and Salon and spa has the lowest Net sales share. ",
+      "The difference of Net sales share between the highest and lowest Distribution channel is 39.0. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Net sales share for 8 number of Distribution channels. ",
+      "The maximum Net sales share 42.0 is found at Distribution channel Department stores and the minimum is found at Salon and spa where Distribution channel is 3.0. ",
+      "Second maximum Net sales share is found at Distribution channel Travel retail. ",
+      "The difference of Net sales share between the highest and lowest Distribution channel is 39.0. ",
+      "The Distribution channel Department stores has the highest Net sales share, followed by Travel retail, and Specialty-multi. Down to the Distribution channel Salon and spa which is the lowest. ",
+      "Distribution channel Freestanding retail stores, and Specialty-multi have a similar Net sales share that is 11.0. ",
+      "The average Net sales share in all 8 Distribution channels is 12.5. ",
+      "Summing up the values of all Distribution channels, we get total 100.0. "
    ],
    "trends": [
       {},

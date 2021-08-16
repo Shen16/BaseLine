@@ -1,28 +1,42 @@
 {
-   "title": "Test",
+   "title": "International tourism spending in Portugal 2012 to 2028",
    "xAxis": "Year",
    "yAxis": "Spending in billion euros",
    "columnType": "two",
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Spending in billion euros, with a total of 8 data points.",
+      "This is a line chart with an x axis representing Year and a y axis representing Spending in billion euros, containing a total of 8 data points.",
       " Overall Spending in billion euros has increased over the Year.",
       "Spending in billion euros is roughly constant from 2012 to 2015, slightly increasing from 2015 to 2017, roughly constant from 2017 to 2018, and lastly slightly increasing from 2018 to 2028.",
+      "The line significantly ",
       "The steepest increase occurs in between the Year 2018 and 2028.",
-      "Max Spending in billion euros about 26.4 was recorded at Year 2028",
-      "Min Spending in billion euros about 12.2 was recorded at Year 2012",
-      "#########################################################################",
-      "This line chart has an x axis representing Year and a y axis representing Spending in billion euros with a total of 8 data points. The chart has one significant trend.",
-      " This trend is increasing which exists from 2028 to 2012."
+      "Maximum Spending in billion euros, about 26.4 was reported at Year 2028",
+      "Minimum Spending in billion euros about 12.2 was reached at Year 2012"
    ],
-   "trends": [
-      {},
-      {
-         "3": "0",
-         "14": "7"
-      }
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Spending in billion euros. In total the number of data points it has is 8.",
+      " Overall Spending in billion euros has increased over the Year.",
+      "Spending in billion euros is roughly constant from 2012 to 2015, slightly increasing from 2015 to 2017, roughly constant from 2017 to 2018, and lastly slightly increasing from 2018 to 2028."
    ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Spending in billion euros, containing a total of 8 data points.",
+      " Overall Spending in billion euros has increased over the Year.",
+      "Spending in billion euros is roughly constant from 2012 to 2015, slightly increasing from 2015 to 2017, roughly constant from 2017 to 2018, and lastly slightly increasing from 2018 to 2028.",
+      "The most drastic increase took place within the Year 2018 and 2028.",
+      "Maximum Spending in billion euros, about 26.4 was reported at Year 2028",
+      "Minimum Spending in billion euros about 12.2 was reached at Year 2012"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Spending in billion euros, containing a total of 8 data points.",
+      " Overall Spending in billion euros has increased over the Year.",
+      "Spending in billion euros is roughly constant from 2012 to 2015, slightly increasing from 2015 to 2017, roughly constant from 2017 to 2018, and lastly slightly increasing from 2018 to 2028.",
+      "The most drastic increase took place within the Year 2018 and 2028.",
+      "Maximum Spending in billion euros, about 26.4 was reported at Year 2028",
+      "Minimum Spending in billion euros about 12.2 was reached at Year 2012",
+      "The line rapidly "
+   ],
+   "trends": [],
    "data": [
       {
          "Year": "2028",

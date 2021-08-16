@@ -1,18 +1,30 @@
 {
-   "title": "Test",
+   "title": "Estimated decrease of GDP in Japan due to earthquake and tsunami 2011",
    "xAxis": "Category Of Gdp",
    "yAxis": "Decrease in billion euros",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 6 categories on the x axis representing Category Of Gdp, and Decrease in billion euros in each Category Of Gdp on the y axis.",
-      " The highest category is found at Total where Decrease in billion euros is 70.0.",
-      " Followed by 70.0 in .",
-      " The lowest category is found at Exports where Decrease in billion euros is 1.4.",
-      " The highest value at Total is almost 50.0 times larger than the minimum value of Exports. ",
-      " The highest value at Total is almost 50.0 times larger than the minimum value of Exports. ",
-      " The difference between the max Category Of Gdp Total and min Category Of Gdp Exports is 68.6. "
+      "This bar chart has 6 columns on the x axis representing Category Of Gdp, and Decrease in billion euros in each Category Of Gdp on the y axis. ",
+      "Category Of Gdp Total has the highest Decrease in billion euros and Exports has the lowest Decrease in billion euros. ",
+      "The difference of Decrease in billion euros between the highest and lowest Category Of Gdp is 68.6. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Decrease in billion euros for 6 number of Category Of Gdps. ",
+      "Category Of Gdp Total has the highest Decrease in billion euros and Exports has the lowest Decrease in billion euros. "
+   ],
+   "mid_summary": [
+      "This bar chart has 6 columns on the x axis representing Category Of Gdp, and Decrease in billion euros in each Category Of Gdp on the y axis. ",
+      "Category Of Gdp Total has the highest Decrease in billion euros and Exports has the lowest Decrease in billion euros. ",
+      "The difference of Decrease in billion euros between the highest and lowest Category Of Gdp is 68.6. "
+   ],
+   "max_summary": [
+      "This bar chart has 6 columns on the x axis representing Category Of Gdp, and Decrease in billion euros in each Category Of Gdp on the y axis. ",
+      "The Decrease in billion euros is appeared to be the highest at Category Of Gdp Total and lowest at Category Of Gdp Exports. ",
+      "The difference of Decrease in billion euros between the highest and lowest Category Of Gdp is 68.6. ",
+      "The Category Of Gdp Total has the highest Decrease in billion euros, followed by Production, and Private consumption. Down to the Category Of Gdp Exports which is the lowest. ",
+      "The average Decrease in billion euros in all 6 Category Of Gdps is 23.28. "
    ],
    "trends": [
       {},

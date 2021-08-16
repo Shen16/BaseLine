@@ -1,16 +1,31 @@
 {
-   "title": "Test",
+   "title": "Leading telecommunication companies in Norway 2019 , by turnover",
    "xAxis": "Telecom Name",
    "yAxis": "Turnover in million NOK",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 20 categories on the x axis representing Telecom Name, and Turnover in million NOK in each Telecom Name on the y axis.",
-      "Telenor ASA is higher than any other categories with value 124756.0, followed by , and Telia Norge AS. Down to category Netel AS with the lowest value of 486.0. ",
-      " The highest value at Telenor ASA is almost 256.7 times larger than the minimum value of Netel AS. ",
-      " The highest value at Telenor ASA is almost 256.7 times larger than the minimum value of Netel AS. ",
-      " The difference between the max Telecom Name Telenor ASA and min Telecom Name Netel AS is 124270.0. "
+      "This is a bar chart. It shows Turnover in million NOK for 20 number of Telecom Names. ",
+      "The Turnover in million NOK is appeared to be the highest at Telecom Name Telenor ASA and lowest at Telecom Name Netel AS. ",
+      "The difference of Turnover in million NOK between the highest and lowest Telecom Name is 124270.0. "
+   ],
+   "min_summary": [
+      "This bar chart has 20 columns on the x axis representing Telecom Name, and Turnover in million NOK in each Telecom Name on the y axis. ",
+      "Telecom Name Telenor ASA has the highest Turnover in million NOK and Netel AS has the lowest Turnover in million NOK. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Turnover in million NOK for 20 number of Telecom Names. ",
+      "The Turnover in million NOK is appeared to be the highest at Telecom Name Telenor ASA and lowest at Telecom Name Netel AS. ",
+      "The difference of Turnover in million NOK between the highest and lowest Telecom Name is 124270.0. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Telecom Name in the x axis and Turnover in million NOK in the y axis. ",
+      "Telecom Name Telenor ASA has the highest Turnover in million NOK and Netel AS has the lowest Turnover in million NOK. ",
+      "The second highest Turnover in million NOK is appeared to be the Telecom Name Telenor Norge AS. ",
+      "The highest Telecom Name Telenor ASA has 124270.0 more Turnover in million NOK than the lowest Telecom Name Netel AS. ",
+      "The Telecom Name Telenor ASA has the highest Turnover in million NOK, followed by Telenor Norge AS, and Telia Norge AS. Down to the Telecom Name Netel AS which is the lowest. ",
+      "Considered together, the average Turnover in million NOK in all 20 Telecom Names is roughly 9109.45. "
    ],
    "trends": [
       {},

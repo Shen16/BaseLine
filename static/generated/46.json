@@ -1,16 +1,32 @@
 {
-   "title": "Test",
+   "title": "Leading life insurance companies in the U.S. 2018 , by assets",
    "xAxis": "Insurers",
    "yAxis": "Total assets in billion U.S. dollars",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 25 categories on the x axis representing Insurers, and Total assets in billion U.S. dollars in each Insurers on the y axis.",
-      "Prudential Financial is higher than any other categories with value 577.91, followed by , and New York Life. Down to category Guardian with the lowest value of 75.59. ",
-      " The highest value at Prudential Financial is almost 7.65 times larger than the minimum value of Guardian. ",
-      " The highest value at Prudential Financial is almost 7.65 times larger than the minimum value of Guardian. ",
-      " The difference between the max Insurers Prudential Financial and min Insurers Guardian is 502.31999999999994. "
+      "This is a bar chart representing Insurers in the x axis and Total assets in billion U.S. dollars in the y axis. ",
+      "Insurers Prudential Financial has the highest Total assets in billion U.S. dollars and Guardian has the lowest Total assets in billion U.S. dollars. ",
+      "The Total assets in billion U.S. dollars of Insurers Prudential Financial is 7.65% larger than the minimum value at Guardian. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Total assets in billion U.S. dollars for 25 number of Insurerss. ",
+      "The Total assets in billion U.S. dollars is highest at Insurers Prudential Financial and lowest at Insurers Guardian. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Insurers in the x axis and Total assets in billion U.S. dollars in the y axis. ",
+      "Insurers Prudential Financial has the highest Total assets in billion U.S. dollars and Guardian has the lowest Total assets in billion U.S. dollars. ",
+      "The Total assets in billion U.S. dollars of Insurers Prudential Financial is 7.65% larger than the minimum value at Guardian. "
+   ],
+   "max_summary": [
+      "This bar chart has 25 columns on the x axis representing Insurers, and Total assets in billion U.S. dollars in each Insurers on the y axis. ",
+      "The Total assets in billion U.S. dollars is highest at Insurers Prudential Financial and lowest at Insurers Guardian. ",
+      "Insurers MetLife Inc. has the second highest value for Total assets in billion U.S. dollars. ",
+      "The difference of Total assets in billion U.S. dollars between the highest and lowest Insurers is 502.32. ",
+      "The Insurers Prudential Financial has the highest Total assets in billion U.S. dollars, followed by MetLife Inc., and New York Life. Down to the Insurers Guardian which is the lowest. ",
+      "The Insurers Prudential Financial tends to be 2.77 percent higher than average. ",
+      "The Total assets in billion U.S. dollars is 5220.66 if we add up values of all Insurerss. "
    ],
    "trends": [
       {},

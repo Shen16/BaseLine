@@ -1,38 +1,38 @@
 {
-   "title": "Test",
+   "title": "U.S. - Infant mortality rate 1990 to 2018",
    "xAxis": "Year",
    "yAxis": "Infant mortality rate per thousand live births",
    "columnType": "two",
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Infant mortality rate per thousand live births, with a total of 29 data points.",
+      "This is a line chart with an x axis representing Year and a y axis representing Infant mortality rate per thousand live births, containing a total of 29 data points.",
       " Overall Infant mortality rate per thousand live births has decreased over the Year.",
-      "Infant mortality rate per thousand live births is rapidly decreasing from 1990 to 2001, roughly constant from 2001 to 2004, slightly decreasing from 2004 to 2010, roughly constant from 2010 to 2012, slightly decreasing from 2012 to 2015, roughly constant from 2015 to 2017, and lastly roughly decreasing from 2017 to 2018.",
+      "The line drastically ",
       "The steepest decrease occurs in between the Year 1990 and 1991.",
-      "Max Infant mortality rate per thousand live births about 9.4 was recorded at Year 1990",
-      "Min Infant mortality rate per thousand live births about 5.6 was recorded at Year 2018",
-      "#########################################################################",
-      "This line chart has an x axis representing Year and a y axis representing Infant mortality rate per thousand live births, with a total of 29 data points. The chart has 3 significant trends.",
-      " The longest trend is slightly decreasing which exists from 1990 to 2004.",
-      " Contrarily, the next significant trend is moderately decreasing which exists from 2004 to 2012.",
-      " On the other hand, the next significant trend is extremely decreasing which exists from 2012 to 2018."
+      "Maximum Infant mortality rate per thousand live births, about 9.4 was reported at Year 1990",
+      "The lowest Infant mortality rate per thousand live births, of value 5.6 was reported at Year 2018"
    ],
-   "trends": [
-      {},
-      {
-         "1": "14",
-         "12": "28"
-      },
-      {
-         "3": "6",
-         "14": "14"
-      },
-      {
-         "3": "0",
-         "14": "6"
-      }
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Infant mortality rate per thousand live births. In total the number of data points it has is 29.",
+      " Overall Infant mortality rate per thousand live births has decreased over the Year."
    ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Infant mortality rate per thousand live births. In total the number of data points it has is 29.",
+      " Overall Infant mortality rate per thousand live births has decreased over the Year.",
+      "The most drastic decrease took place within the Year 1990 and 1991.",
+      "Maximum Infant mortality rate per thousand live births, about 9.4 was reported at Year 1990",
+      "The lowest Infant mortality rate per thousand live births, of value 5.6 was reported at Year 2018"
+   ],
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Infant mortality rate per thousand live births. In total the number of data points it has is 29.",
+      " In general Infant mortality rate per thousand live births has fallen over the Year.",
+      "The steepest decrease occurs in between the Year 1990 and 1991.",
+      "Maximum Infant mortality rate per thousand live births, about 9.4 was reported at Year 1990",
+      "The lowest Infant mortality rate per thousand live births, of value 5.6 was reported at Year 2018",
+      "The line drastically "
+   ],
+   "trends": [],
    "data": [
       {
          "Year": "2018",

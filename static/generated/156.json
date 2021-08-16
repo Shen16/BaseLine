@@ -1,28 +1,42 @@
 {
-   "title": "Test",
+   "title": "Health/Fitness club companies - Fitness First UK revenue 2012 to 2015",
    "xAxis": "Year",
    "yAxis": "Revenue in million U.S. dollars",
    "columnType": "two",
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Revenue in million U.S. dollars, with a total of 4 data points.",
+      "This is a line chart with an x axis representing Year and a y axis representing Revenue in million U.S. dollars, containing a total of 4 data points.",
       " Overall Revenue in million U.S. dollars has decreased over the Year.",
       "Revenue in million U.S. dollars is slightly decreasing from 2012 to 2015.",
+      "The line drastically ",
       "The steepest decrease occurs in between the Year 2014 and 2015.",
-      "Max Revenue in million U.S. dollars about 919.98 was recorded at Year 2012",
-      "Min Revenue in million U.S. dollars about 676.52 was recorded at Year 2015",
-      "#########################################################################",
-      "This line chart has an x axis representing Year and a y axis representing Revenue in million U.S. dollars with a total of 4 data points. The chart has one significant trend.",
-      " This trend is decreasing which exists from 2015 to 2012."
+      "The highest Revenue in million U.S. dollars, of value 919.98 was reached at Year 2012",
+      "Minimum Revenue in million U.S. dollars about 676.52 was reached at Year 2015"
    ],
-   "trends": [
-      {},
-      {
-         "3": "0",
-         "14": "3"
-      }
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Revenue in million U.S. dollars. In total the number of data points it has is 4.",
+      " Overall Revenue in million U.S. dollars has decreased over the Year.",
+      "Revenue in million U.S. dollars is slightly decreasing from 2012 to 2015."
    ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Revenue in million U.S. dollars, containing a total of 4 data points.",
+      " In general Revenue in million U.S. dollars has fallen over the Year.",
+      "Revenue in million U.S. dollars is slightly decreasing from 2012 to 2015.",
+      "The most drastic decrease took place within the Year 2014 and 2015.",
+      "The highest Revenue in million U.S. dollars, of value 919.98 was reached at Year 2012",
+      "Minimum Revenue in million U.S. dollars about 676.52 was reached at Year 2015"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Revenue in million U.S. dollars, containing a total of 4 data points.",
+      " In general Revenue in million U.S. dollars has fallen over the Year.",
+      "Revenue in million U.S. dollars is slightly decreasing from 2012 to 2015.",
+      "The most drastic decrease took place within the Year 2014 and 2015.",
+      "The highest Revenue in million U.S. dollars, of value 919.98 was reached at Year 2012",
+      "Minimum Revenue in million U.S. dollars about 676.52 was reached at Year 2015",
+      "The line rapidly "
+   ],
+   "trends": [],
    "data": [
       {
          "Year": "2015",

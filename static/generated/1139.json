@@ -1,33 +1,42 @@
 {
-   "title": "Test",
+   "title": "Gross domestic product ( GDP ) per capita in the United States 2024",
    "xAxis": "Year",
    "yAxis": "GDP per capita in U.S. dollars",
    "columnType": "two",
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing GDP per capita in U.S. dollars, with a total of 41 data points.",
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes GDP per capita in U.S. dollars. In total the number of data points it has is 41.",
       " Overall GDP per capita in U.S. dollars has increased over the Year.",
-      "GDP per capita in U.S. dollars is slightly increasing from 1984 to 1989, roughly constant from 1989 to 1991, gradually increasing from 1991 to 2000, roughly constant from 2000 to 2002, slightly increasing from 2002 to 2006, roughly constant from 2006 to 2008, slightly increasing from 2008 to 2014, roughly constant from 2014 to 2016, and lastly slightly increasing from 2016 to 2024.",
+      "The chart generally has many fluctuations.",
+      "The line rapidly ",
       "The steepest increase occurs in between the Year 2017 and 2018.",
-      "Max GDP per capita in U.S. dollars about 76252.11 was recorded at Year 2024",
-      "Min GDP per capita in U.S. dollars about 17086.44 was recorded at Year 1984",
-      "#########################################################################",
-      "This line chart has an x axis representing Year and a y axis representing GDP per capita in U.S. dollars, with a total of 41 data points. The chart has 2 significant trends.",
-      " The longest trend is slightly increasing which exists from 1984 to 2009.",
-      " Similarly, the next significant trend is extremely increasing which exists from 2009 to 2024."
+      "Maximum GDP per capita in U.S. dollars, about 76252.11 was reported at Year 2024",
+      "Minimum GDP per capita in U.S. dollars about 17086.44 was reached at Year 1984"
    ],
-   "trends": [
-      {},
-      {
-         "1": "15",
-         "12": "40"
-      },
-      {
-         "3": "0",
-         "14": "15"
-      }
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes GDP per capita in U.S. dollars. In total the number of data points it has is 41.",
+      " Overall GDP per capita in U.S. dollars has increased over the Year."
    ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes GDP per capita in U.S. dollars. In total the number of data points it has is 41.",
+      " Overall GDP per capita in U.S. dollars has increased over the Year.",
+      "The most drastic increase took place within the Year 2017 and 2018.",
+      "Maximum GDP per capita in U.S. dollars, about 76252.11 was reported at Year 2024",
+      "Minimum GDP per capita in U.S. dollars about 17086.44 was reached at Year 1984"
+   ],
+   "max_summary": [
+      "The chart generally has many fluctuations.",
+      "The chart generally has many fluctuations.",
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes GDP per capita in U.S. dollars. In total the number of data points it has is 41.",
+      " Overall GDP per capita in U.S. dollars has increased over the Year.",
+      "The chart in general has a zig-zag shape.",
+      "The steepest increase occurs in between the Year 2017 and 2018.",
+      "Maximum GDP per capita in U.S. dollars, about 76252.11 was reported at Year 2024",
+      "Minimum GDP per capita in U.S. dollars about 17086.44 was reached at Year 1984",
+      "The line rapidly "
+   ],
+   "trends": [],
    "data": [
       {
          "Year": "2024",
