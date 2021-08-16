@@ -1,0 +1,138 @@
+{
+   "title": "United States : light vehicle sales by manufacturer 2017/18",
+   "labels": [
+      "Car Manufacturer",
+      "2017",
+      "2018"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This grouped bar chart shows SOME LABEL on the Y-axis for 15 different Car Manufacturers for 2 groups 2017, and 2018 that are presented on the X-axis. ",
+      " Out of all 2 groups, 2017 had the highest SOME LABEL in Car Manufacturer General Motors and 2017 had the lowest SOME LABEL in Car Manufacturer Tesla Motors. ",
+      " Among all the Car Manufacturers, 2017 had the highest SOME LABEL 2986737.0 in Car Manufacturer General Motors and lowest value 50067.0 in Car Manufacturer Tesla Motors. ",
+      " The maximum SOME LABEL for 2017 that was found in Car Manufacturer General Motors was 59.65 times larger than the minimum SOME LABEL observed in Car Manufacturer Tesla Motors. "
+   ],
+   "xAxis": "Car Manufacturer",
+   "yAxis": "SOME LABEL",
+   "min_summary": [
+      "This grouped bar chart shows SOME LABEL on the Y-axis for 15 different Car Manufacturers for 2 groups 2017, and 2018 that are presented on the X-axis. ",
+      " In Car Manufacturer General Motors, 2017 had the highest SOME LABEL 2986737.0 among the 2 groups and in Tesla Motors, 2017 had the lowest SOME LABEL 50067.0. "
+   ],
+   "mid_summary": [
+      "This grouped bar chart shows SOME LABEL on the Y-axis for 15 different Car Manufacturers for 2 groups 2017, and 2018 that are presented on the X-axis. ",
+      " Out of all 2 groups, 2017 had the highest SOME LABEL in Car Manufacturer General Motors and 2017 had the lowest SOME LABEL in Car Manufacturer Tesla Motors. ",
+      " Among all the Car Manufacturers, 2017 had the highest SOME LABEL 2986737.0 in Car Manufacturer General Motors and lowest value 50067.0 in Car Manufacturer Tesla Motors. ",
+      " The maximum SOME LABEL for 2017 that was found in Car Manufacturer General Motors was 59.65 times larger than the minimum SOME LABEL observed in Car Manufacturer Tesla Motors. "
+   ],
+   "max_summary": [
+      "This grouped bar chart shows SOME LABEL on the Y-axis for 15 different Car Manufacturers for 2 groups 2017, and 2018 that are presented on the X-axis. ",
+      " In Car Manufacturer General Motors, 2017 had the highest SOME LABEL 2986737.0 among the 2 groups and in Tesla Motors, 2017 had the lowest SOME LABEL 50067.0. ",
+      " Among all the Car Manufacturers, 2017 had the highest SOME LABEL 2986737.0 in Car Manufacturer General Motors and lowest value 50067.0 in Car Manufacturer Tesla Motors. ",
+      " There is a gap of 2936670.0 between the highest and lowest SOME LABEL found for 2017 in Car Manufacturer General Motors and Tesla Motors. ",
+      " Among the groups, 2017 had the biggest difference in SOME LABEL. Where the maximum SOME LABEL was 59.65 times larger than the minimum SOME LABEL. ",
+      "Averaging all 2 groups 2017, and 2018, the Car Manufacturer General Motors is the maximum SOME LABEL and Volvo Cars North America is the minimum SOME LABEL. "
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "13": [
+            "2",
+            "0"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "14": [
+            "2",
+            "1"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Car Manufacturer": "General Motors",
+         "2017": "2986737",
+         "2018": "2934742"
+      },
+      {
+         "Car Manufacturer": "Ford Motor Company",
+         "2017": "2575200",
+         "2018": "2490175"
+      },
+      {
+         "Car Manufacturer": "Toyota Motor Sales U.S.A.",
+         "2017": "2433749",
+         "2018": "2426646"
+      },
+      {
+         "Car Manufacturer": "FCA",
+         "2017": "2073147",
+         "2018": "2238307"
+      },
+      {
+         "Car Manufacturer": "Nissan North America",
+         "2017": "1697150",
+         "2018": "1611951"
+      },
+      {
+         "Car Manufacturer": "Honda",
+         "2017": "1639352",
+         "2018": "1604561"
+      },
+      {
+         "Car Manufacturer": "Hyundai Kia Auto Group",
+         "2017": "1275222",
+         "2018": "1278740"
+      },
+      {
+         "Car Manufacturer": "Subaru of America",
+         "2017": "647956",
+         "2018": "680135"
+      },
+      {
+         "Car Manufacturer": "Volkswagen Group of America",
+         "2017": "620772",
+         "2018": "634509"
+      },
+      {
+         "Car Manufacturer": "BMW of North America",
+         "2017": "352787",
+         "2018": "354698"
+      },
+      {
+         "Car Manufacturer": "Daimler",
+         "2017": "375311",
+         "2018": "350360"
+      },
+      {
+         "Car Manufacturer": "Mazda Motor of America",
+         "2017": "289469",
+         "2018": "300325"
+      },
+      {
+         "Car Manufacturer": "Tesla Motors",
+         "2017": "50067",
+         "2018": "197517"
+      },
+      {
+         "Car Manufacturer": "Jaguar Land Rover N. A.",
+         "2017": "114212",
+         "2018": "122397"
+      },
+      {
+         "Car Manufacturer": "Volvo Cars North America",
+         "2017": "81434",
+         "2018": "98786"
+      }
+   ]
+}

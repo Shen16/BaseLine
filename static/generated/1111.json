@@ -1,0 +1,63 @@
+{
+   "title": "Countries with the highest proportion of soccer players 2010",
+   "xAxis": "Country",
+   "yAxis": "Proportion of soccer players",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 5 columns on the x axis representing Country, and Proportion of soccer players in each Country on the y axis. ",
+      "The Proportion of soccer players is highest at Country Germany and lowest at Country The Netherlands. ",
+      "The minimum Country The Netherlands has got 1.9 times less Proportion of soccer players than the maximum Country Germany. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing Country in the x axis and Proportion of soccer players in the y axis. ",
+      "The Proportion of soccer players is appeared to be the highest at Country Germany and lowest at Country The Netherlands. "
+   ],
+   "mid_summary": [
+      "This bar chart has 5 columns on the x axis representing Country, and Proportion of soccer players in each Country on the y axis. ",
+      "The Proportion of soccer players is highest at Country Germany and lowest at Country The Netherlands. ",
+      "The minimum Country The Netherlands has got 1.9 times less Proportion of soccer players than the maximum Country Germany. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Proportion of soccer players for 5 number of Countrys. ",
+      "Country Germany has the highest Proportion of soccer players and The Netherlands has the lowest Proportion of soccer players. ",
+      "The highest Country Germany has 9.4 more Proportion of soccer players than the lowest Country The Netherlands. ",
+      "Proportion of soccer players at Country Germany is 19.8 , second place is Chile at 15.7, and thirdly is Paraguay at 14.8.",
+      "The average Proportion of soccer players in all 5 Countrys is 14.42. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 4,
+         "12": 4
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Country": "Germany",
+         "Proportion of soccer players": 19.8
+      },
+      {
+         "Country": "Chile",
+         "Proportion of soccer players": 15.7
+      },
+      {
+         "Country": "Paraguay",
+         "Proportion of soccer players": 14.8
+      },
+      {
+         "Country": "Slovakia",
+         "Proportion of soccer players": 11.4
+      },
+      {
+         "Country": "The Netherlands",
+         "Proportion of soccer players": 10.4
+      }
+   ]
+}

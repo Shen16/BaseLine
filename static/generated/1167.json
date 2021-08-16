@@ -1,0 +1,83 @@
+{
+   "title": "2012 election : support for Romney and Obama , by ethnic group",
+   "labels": [
+      "Race",
+      "Obama",
+      "Romney"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This grouped bar chart shows SOME LABEL on the Y-axis for 4 different Races for 2 groups Obama, and Romney that are presented on the X-axis. ",
+      " Out of all 2 groups, Obama had the highest SOME LABEL in Race Black and Romney had the lowest SOME LABEL in Race Black. ",
+      " In Race Black, Obama had the maximum SOME LABEL and it saw the lowest in Race White (non-Hispanic) out of all 4 Races. ",
+      "Race Black and White (non-Hispanic) had the biggest gap of 53.0 between the highest and lowest SOME LABEL found for Obama. "
+   ],
+   "xAxis": "Race",
+   "yAxis": "SOME LABEL",
+   "min_summary": [
+      "This grouped bar chart shows SOME LABEL on the Y-axis for 4 different Races for 2 groups Obama, and Romney that are presented on the X-axis. ",
+      " Out of all 2 groups, Obama had the highest SOME LABEL in Race Black and Romney had the lowest SOME LABEL in Race Black. "
+   ],
+   "mid_summary": [
+      "This grouped bar chart shows SOME LABEL on the Y-axis for 4 different Races for 2 groups Obama, and Romney that are presented on the X-axis. ",
+      " Out of all 2 groups, Obama had the highest SOME LABEL in Race Black and Romney had the lowest SOME LABEL in Race Black. ",
+      " In Race Black, Obama had the maximum SOME LABEL and it saw the lowest in Race White (non-Hispanic) out of all 4 Races. ",
+      "Race Black and White (non-Hispanic) had the biggest gap of 53.0 between the highest and lowest SOME LABEL found for Obama. "
+   ],
+   "max_summary": [
+      "This grouped bar chart represents 4 different Races on X-axis for 2 groups Obama, and Romney. On the Y-axis it shows their corresponding SOME LABEL. ",
+      " Race Black had the maximum SOME LABEL among all 2 groups, and it was for Obama. The minimum SOME LABEL was observed in Race Black for Romney. ",
+      " In Race Black, Obama had the maximum SOME LABEL and it saw the lowest in Race White (non-Hispanic) out of all 4 Races. ",
+      "Race Black and White (non-Hispanic) had the biggest gap of 53.0 between the highest and lowest SOME LABEL found for Obama. ",
+      " Out of all 2 groups, the highest gap between the maximum and minimum SOME LABEL was found in case of Obama. ",
+      "On average, the Race White (non-Hispanic) had the highest SOME LABEL for all 2 groups Obama, and Romney. Whereas Nonwhite had the lowest average SOME LABEL. "
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "13": [
+            "2",
+            "0"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "2"
+         ],
+         "14": [
+            "2",
+            "2"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Race": "White (non-Hispanic)",
+         "Obama": "37",
+         "Romney": "59"
+      },
+      {
+         "Race": "Nonwhite",
+         "Obama": "79",
+         "Romney": "15"
+      },
+      {
+         "Race": "Black",
+         "Obama": "90",
+         "Romney": "5"
+      },
+      {
+         "Race": "Hispanic",
+         "Obama": "69",
+         "Romney": "25"
+      }
+   ]
+}

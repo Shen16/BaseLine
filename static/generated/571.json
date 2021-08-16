@@ -1,0 +1,51 @@
+{
+   "title": "Number of U.S. Pinterest users 2017 , by gender",
+   "xAxis": "Sex",
+   "yAxis": "Number of users in millions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart. It shows Number of users in millions for 2 number of Sexs. ",
+      "The Number of users in millions is appeared to be the highest at Sex Female and lowest at Sex Male. ",
+      "There is a difference of 26.3 between the maximum Sex Female and minimum Sex Male. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Number of users in millions for 2 number of Sexs. ",
+      "The Number of users in millions is highest at Sex Female and lowest at Sex Male. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Number of users in millions for 2 number of Sexs. ",
+      "The Number of users in millions is appeared to be the highest at Sex Female and lowest at Sex Male. ",
+      "There is a difference of 26.3 between the maximum Sex Female and minimum Sex Male. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Sex in the x axis and Number of users in millions in the y axis. ",
+      "The Number of users in millions is highest at Sex Female and lowest at Sex Male. ",
+      "The highest Sex Female has 26.3 more Number of users in millions than the lowest Sex Male. ",
+      "The average Number of users in millions in all 2 Sexs is 45.75. ",
+      "The Number of users in millions is 91.5 if we add up values of all Sexs. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 1,
+         "12": 1
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Sex": "Female",
+         "Number of users in millions": 58.9
+      },
+      {
+         "Sex": "Male",
+         "Number of users in millions": 32.6
+      }
+   ]
+}

@@ -1,0 +1,75 @@
+{
+   "title": "Number of cigarettes smoked daily in the United Kingdom ( UK ) 2015",
+   "xAxis": "Number of cigarettes",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart. It shows Share of respondents for 8 number of Number of cigarettess. ",
+      "The maximum Share of respondents 24.0 is found at Number of cigarettes 6 to 10 and the minimum is found at 31 to 50 where Number of cigarettes is 2.0. ",
+      "Number of cigarettes 6 to 10 has 12.0 times more Share of respondents than Number of cigarettes 31 to 50 which is has the lowest. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Share of respondents for 8 number of Number of cigarettess. ",
+      "The maximum Share of respondents 24.0 is found at Number of cigarettes 6 to 10 and the minimum is found at 31 to 50 where Number of cigarettes is 2.0. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Share of respondents for 8 number of Number of cigarettess. ",
+      "The maximum Share of respondents 24.0 is found at Number of cigarettes 6 to 10 and the minimum is found at 31 to 50 where Number of cigarettes is 2.0. ",
+      "Number of cigarettes 6 to 10 has 12.0 times more Share of respondents than Number of cigarettes 31 to 50 which is has the lowest. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Number of cigarettes in the x axis and Share of respondents in the y axis. ",
+      "The Share of respondents is appeared to be the highest at Number of cigarettes 6 to 10 and lowest at Number of cigarettes 31 to 50. ",
+      "Number of cigarettes 31 to 50 has 12.0 times less Share of respondents than Number of cigarettes 6 to 10 which is the highest. ",
+      "The Number of cigarettes 6 to 10 has the highest Share of respondents, followed by 1 to 5, and 11 to 15. Down to the Number of cigarettes 31 to 50 which is the lowest. ",
+      "The lowest value 2.0 at 31 to 50 is almost 1.86 times smaller than the average value 12.88. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 1,
+         "12": 1
+      },
+      {
+         "7": 6,
+         "12": 6
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Number of cigarettes": "1 to 5",
+         "Share of respondents": 23.0
+      },
+      {
+         "Number of cigarettes": "6 to 10",
+         "Share of respondents": 24.0
+      },
+      {
+         "Number of cigarettes": "11 to 15",
+         "Share of respondents": 22.0
+      },
+      {
+         "Number of cigarettes": "16 to 20",
+         "Share of respondents": 19.0
+      },
+      {
+         "Number of cigarettes": "21 to 25",
+         "Share of respondents": 6.0
+      },
+      {
+         "Number of cigarettes": "26 to 30",
+         "Share of respondents": 4.0
+      },
+      {
+         "Number of cigarettes": "31 to 50",
+         "Share of respondents": 2.0
+      },
+      {
+         "Number of cigarettes": "51 and over",
+         "Share of respondents": 3.0
+      }
+   ]
+}

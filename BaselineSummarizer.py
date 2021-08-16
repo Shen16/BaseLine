@@ -173,7 +173,10 @@ s_rate = 1.2 #1.2
 g_rate = 2 #2
 r_rate = 3 #3
 
-def directionTrend(new, old):
+
+zigZagNum= 30 # The number of y values there needs for chart to be considered zig zag
+
+def directionTrend(new, old, constant_rate):
     difference = new - old
     if (old != 0):
         percentageChange = ((new - old) / old) * 100
@@ -305,6 +308,14 @@ def increaseDecrease(x):
         return "decrease"
     else:
         return "stays the same"
+    
+def increasedDecreased(x):
+    if (x == "increasing"):
+        return "increased"
+    elif (x == "decreasing"):
+        return "decreased"
+    else:
+        return "remained stable"
 
 
 def get_indexes_max_value(l):
@@ -325,8 +336,14 @@ def stringToFloat(str):
         list.append(num)
     return list
 
+def floatToStr(x):
+    for i in range(0, len(x)):
+        x[i]=str(x[i])
+    return x
+
 
 def commaAnd(arr):
+    # arr= str(arr)
     if (len(arr)<2):
         arr=arr[0]
     else:
@@ -397,7 +414,7 @@ def summarize(data, all_y_label, name, title):
         valueArr = [[] for i in range(columnCount)]
         cleanValArr = [[] for i in range(columnCount)]
 
-        print("columnCount -> " + str(columnCount))
+        # print("columnCount -> " + str(columnCount))
 
         # columnCount : how many grouped bars
         # stringLabels : label of X-axis and the individual groups
@@ -812,7 +829,7 @@ def summarize(data, all_y_label, name, title):
             # oneFile.writelines(''.join(summaryArray)+'\n')
 
         ## for multi line charts
-        elif (chartType == "line"):
+        elif (chartType == "line"): #MULTI LINE
             # clean data
             intData = []
             # print(valueArr)
@@ -840,6 +857,7 @@ def summarize(data, all_y_label, name, title):
             # print(stringLabels[1:])
             # print("intData")
             # print(intData)
+            x_label = str(stringLabels[0])
 
             assert len(stringLabels[1:]) == len(
                 intData)  # tests if a condition is true. If a condition is false, the program will stop with an optional message
@@ -849,7 +867,7 @@ def summarize(data, all_y_label, name, title):
                 # print(x)
                 meanLineVals.append(x)
             sortedLines = sorted(meanLineVals, key=itemgetter(1))
-            print(sortedLines)  # Ranks all the lines from bottomost to topmost using mean values
+            # print(sortedLines)  # Ranks all the lines from bottomost to topmost using mean values
             # if more than 2 lines
             lineCount = len(labelArr) - 1  # no of categories
 
@@ -884,6 +902,8 @@ def summarize(data, all_y_label, name, title):
                     line_names += stringLabels[i + 1] + ", "
                 else:
                     line_names += "and " + stringLabels[i + 1]
+            print(line_names)
+                    
 
             ## New Summary Template-shehnaz
             valueArrMatrix = np.array(valueArr)
@@ -981,10 +1001,10 @@ def summarize(data, all_y_label, name, title):
 
             ###### Order/Rank of all lines
 
-            print(sortedLines)
+            # print(sortedLines)
 
             sortedLines_descending = sortedLines[len(sortedLines)::-1]
-            print(sortedLines_descending)
+            # print(sortedLines_descending)
 
             ###### Topmost Line
             # print(maxLine[0])
@@ -1219,6 +1239,11 @@ def summarize(data, all_y_label, name, title):
             lineNames_decreasing_g = []
 
             lineNames_constant_c = []
+            
+            
+            
+
+                
 
             for i in range(0, len(direction)):
                 if (direction[i] == "increasing"):
@@ -1234,13 +1259,34 @@ def summarize(data, all_y_label, name, title):
                 else:
                     lineNames_constant_c.append(lineNames[i])
 
-            print(direction)
+            # print(direction)
 
-            print(lineNames_increasing_r)
-            print(lineNames_increasing_g)
-            print(lineNames_decreasing_r)
-            print(lineNames_decreasing_g)
-            print(lineNames_constant_c)
+            # print("lineNames_increasing_r" + str(lineNames_increasing_r))
+            # print("lineNames_increasing_g" + str(lineNames_increasing_g))
+            # print("lineNames_decreasing_r" + str(lineNames_decreasing_r))
+            # print("lineNames_decreasing_g" + str(lineNames_decreasing_g))
+            # print("lineNames_constant_c" + str(lineNames_constant_c))
+            
+            
+            #Zig zag
+            zig_zagLines= []
+            if (len(lineNames_increasing_r)!=0):
+                zig_zagLines.append(lineNames_increasing_r)
+            if (len(lineNames_increasing_g)!=0):
+                zig_zagLines.append(lineNames_increasing_g)
+            if (len(lineNames_decreasing_r)!=0):
+                zig_zagLines.append(lineNames_decreasing_r)
+            if (len(lineNames_decreasing_g)!=0):
+                zig_zagLines.append(lineNames_decreasing_g)
+            
+            zig_zagLineNames=[]
+            for i in range(0, len(zig_zagLines)):
+                for j in range(0, len(zig_zagLines[i])):
+                    zig_zagLineNames.append(zig_zagLines[i][j])
+            # print("zig_zagLineNames" + str(zig_zagLineNames))
+                
+
+            
 
             # For rapidly incresing lines report percentage increase or factor of increase
             percentChng_in = []
@@ -1251,14 +1297,28 @@ def summarize(data, all_y_label, name, title):
                     indx = lineNames.index(lineNames_increasing_r[i])
                     n = float(yVals_sorted[indx][len(yVals_sorted[indx]) - 1])
                     o = float(yVals_sorted[indx][0])
-
+                    if (o == 0):
+                        o = 0.00000000001
+                        
+                    if (n == 0):
+                        n = 0.00000000001
+                   
+                        
                     p = abs(percentChnageFunc(n, o))
-                    f = round(n / o, 1)
+                    
+                    #Factor 
+                    if (n != 0.00000000001 and o != 0.00000000001):
+                        if (n>o):
+                            f = round(n / o, 1)
+                        else:
+                            f = round(o / n, 1)
+                        factorChng_in.append(f)
+                        
                     percentChng_in.append(p)
-                    factorChng_in.append(f)
 
-            print(percentChng_in)
-            print(factorChng_in)
+
+            # print("percentChng_in:   " + str(percentChng_in))
+            # print("factorChng_in:   " + str(factorChng_in))
 
             # For rapidly decreasing lines report percentage decrease or factor of decrease
             percentChng_de = []
@@ -1269,143 +1329,100 @@ def summarize(data, all_y_label, name, title):
                     indx = lineNames.index(lineNames_decreasing_r[i])
                     n = float(yVals_sorted[indx][len(yVals_sorted[indx]) - 1])
                     o = float(yVals_sorted[indx][0])
-
+                    
+                    if (o == 0):
+                        o = 0.00000000001
+                    if (n == 0):
+                        n = 0.00000000001
+    
                     p = abs(percentChnageFunc(n, o))
-                    f = round(n / o, 1)
+                    
+                    #Factor 
+                    if (n != 0.00000000001 and o != 0.00000000001):
+                        if (n>o):
+                            f = round(n / o, 1)
+                        else:
+                            f = round(o / n, 1)
+                        factorChng_in.append(f)
+                        
+                        
                     percentChng_de.append(p)
-                    factorChng_de.append(f)
 
-            print(percentChng_de)
-            print(factorChng_de)
+
+            # print(percentChng_de)
+            # print(factorChng_de)
 
             percentChngSumm = ""
             factorChngSumm = ""
+            
+            # print("percentChng_in:     " + str(percentChng_in))
+            print(percentChng_in)
+            print(factorChng_in)
+            
+            # for i in range(0, len(percentChng_in)):
+            #     percentChng_in[i]= str(percentChng_in[i])
+            # print(percentChng_in)
+            
+            percentChng_in= floatToStr(percentChng_in)
+            if(bool(factorChng_in)):
+                factorChng_in=  floatToStr(factorChng_in)
+            percentChng_de= floatToStr(percentChng_de)
+            if(bool(factorChng_de)):
+                factorChng_de=  floatToStr(factorChng_de)
+                
+            print(percentChng_in)
+            print(factorChng_in)
 
             # Line that are rapidly increasing
             if (len(lineNames_increasing_r) > 1):
-                percentChngSumm += commaAnd(lineNames_increasing_r) + " has increased by " + str(
-                    commaAnd(percentChng_in)) + " percent respectively."
-                factorChngSumm += commaAnd(lineNames_increasing_r) + " has increased by " + str(
-                    commaAnd(factorChng_in)) + " times respectively."
-                # globalTrendRate_summary.append(summary_increasing_r)
+                percentChngSumm += commaAnd(lineNames_increasing_r) + " has increased by " + commaAnd(percentChng_in) + " percent respectively."
+                if (len(factorChng_in)!=0):
+                    factorChngSumm += commaAnd(lineNames_increasing_r) + " has increased by " + commaAnd(factorChng_in) + " times respectively." # globalTrendRate_summary.append(summary_increasing_r)
             elif (len(lineNames_increasing_r) == 1):
-                percentChngSumm += commaAnd(lineNames_increasing_r) + " has increased by " + str(
-                    commaAnd(percentChng_in)) + " percent."
-                factorChngSumm += commaAnd(lineNames_increasing_r) + " has increased by " + str(
-                    commaAnd(factorChng_in)) + " times."
+                percentChngSumm += commaAnd(lineNames_increasing_r) + " has increased by " + commaAnd(percentChng_in) + " percent."
+                if (len(factorChng_in)!=0):
+                    factorChngSumm += commaAnd(lineNames_increasing_r) + " has increased by " + commaAnd(factorChng_in) + " times."
                 # globalTrendRate_summary.append(summary_increasing_r)
 
             # Line that are rapidly decreasing
             if (len(lineNames_decreasing_r) > 1):
-                percentChngSumm += commaAnd(lineNames_decreasing_r) + " has increased by " + str(
-                    commaAnd(percentChng_de)) + " percent respectively."
-                factorChngSumm += commaAnd(lineNames_decreasing_r) + " has increased by " + str(
-                    commaAnd(factorChng_de)) + " times respectively."
+                percentChngSumm += commaAnd(lineNames_decreasing_r) + " has decreased by " + commaAnd(percentChng_de) + " percent respectively."
+                if (len(factorChng_de)!=0):
+                    factorChngSumm += commaAnd(lineNames_decreasing_r) + " has decreased by " + commaAnd(factorChng_de) + " times respectively."
                 # globalTrendRate_summary.append(summary_increasing_r)
             elif (len(lineNames_decreasing_r) == 1):
-                percentChngSumm += commaAnd(lineNames_decreasing_r) + " has increased by " + str(
-                    commaAnd(percentChng_de)) + " percent."
-                factorChngSumm += commaAnd(lineNames_decreasing_r) + " has increased by " + str(
-                    commaAnd(factorChng_de)) + " times."
+                percentChngSumm += commaAnd(lineNames_decreasing_r) + " has decreased by " + commaAnd(percentChng_de) + " percent."
+                if (len(factorChng_de)!=0):
+                    factorChngSumm += commaAnd(lineNames_decreasing_r) + " has decreased by " + commaAnd(factorChng_de) + " times."
                 # globalTrendRate_summary.append(summary_increasing_r)
 
-            print(percentChngSumm)
-            print(factorChngSumm)
+            # print("percentChngSumm: " + str(percentChngSumm))
+            # print("factorChngSumm: ", str(factorChngSumm))
 
-            chnageFactor = [percentChngSumm, factorChngSumm]
-            selectedChange = random.choice(chnageFactor)
-            # print(selectedChange)
+            
+            if (len(factorChngSumm)==0 ):
+                selectedChange = percentChngSumm
+            else:
+                chnageFactor = [percentChngSumm, factorChngSumm]
+                selectedChange = random.choice(chnageFactor)
+            # print("selectedChange:   " + str(selectedChange))
 
-            # Done by jason
+
+
+            # PRINT SUMMARY
+            
+            # Done by Shehnaz
             summaryArr = []
-
-            summary1 = "This is a multi-line chart with " + str(lineCount) + " lines representing " + line_names + ". "
+            summary1=[]
+            summary1.append("This is a multi-line chart with " + str(lineCount) + " lines representing " + line_names + ". " + "The y axis denotes " + y_label + " and the x axis denotes " + x_label + ".")
+            summary1.append("The given chart is of multi-line type with " + str(lineCount) + " lines namely " + line_names + ". " + "The y axis represents " + y_label + " and the x axis represents " + x_label + ".")
+            summary1.append("You are viewing a chart of multi-line type with " + str(lineCount) + " lines denoting " + line_names + ". " + "The y axis indicates the " + y_label + " and the x axis indicates " + x_label + ".")
             # summary2 = "The line for " + str(maxLine[0]) + " has the highest values across " + str(
             #     stringLabels[0]) + " with a mean value of " + str(maxLine[1]) + ", "
-            summaryArr.append(summary1)
-
-            #### Order/Ranking of all lines given total no of lines is < 5
-            if (len(sortedLines_descending) < 5):  # Given there are no more than 5 lines
-                summary_rank = "The ranking of the lines from topmost to botommmost is as follows: "
-                for i in range(0, len(sortedLines_descending) - 1):
-                    summary_rank += str(i + 1) + ". " + sortedLines_descending[i][0] + ", "
-                summary_rank += "and lastly, " + str(len(sortedLines_descending)) + ". " + \
-                                sortedLines_descending[len(sortedLines_descending) - 1][0] + ". "
-                summaryArr.append(summary_rank)
-
-            ## Talks about the topmost line
-            summary2 = "Throughout the period, " + str(maxLine[
-                                                           0]) + " mostly maintained the highest " + "y-axis name" + " when compared to others" + " with a mean value of " + str(
-                meanOfTopmost) + ", "
-            # summary3 = "and it peaked at " + str(maxXValue) + " with a value of " + str(maxLineData) + "."
-            summary3 = "and it peaked at " + str(max_xVal_ofTopmost) + " with a value of " + str(
-                max_yVal_ofTopmost) + "."  # revised
-
-            summaryArr.append(summary2)
-            summaryArr.append(summary3)
-
-            ## Talks about the second topmost line
-            if lineCount > 2:
-                summary4 = "After " + str(maxLine[0]) + ", " + str(
-                    secondLine[0]) + " overall has the second highest values " + ", with a mean value of " + str(
-                    secondLine[1]) + ", "
-                summary5 = "peaking at " + str(secondXValue) + " with a value of " + str(secondLineData) + ". "
-                summaryArr.append(summary4)
-                summaryArr.append(summary5)
-
-            ## Talks about the bottomost line
-            summary6 = str(minLine[0]) + " mostly had the least" + " y-axis name" + " with a mean value of " + str(
-                meanOfBotommost) + ", "
-            summary7 = "which peaked at " + str(max_xVal_ofBotommost) + " with a value of " + str(
-                max_yVal_ofBotommost) + ". "
-            summaryArr.append(summary6)
-            summaryArr.append(summary7)
-
-            # Additional summaries -shehnaz
-
-            # Global Max
-            if (max_yVal_ofTopmost != max(maxLocal_array) and len(maxLine_xVals) < 5):
-                summary8 = maxLineNames + " reported the highest " + "y-axis name " + " about " + str(
-                    max(maxLocal_array)) + " in " + stringLabels[0] + " " + maxLine_xVals
-                summaryArr.append(summary8)
-
-            # Global Min
-            if (len(minLine_xVals) < 5):  # given no more than 5 x values are reported
-                summary9 = minLineNames + " reported the lowest " + "y-axis name " + " about " + str(
-                    min(minLocal_array)) + " in " + stringLabels[0] + " " + minLine_xVals
-                summaryArr.append(summary9)
-
-            #### Global Trend without rate
-
-            # #Lines that increase
-            # summary_increasing= "Overall "
-            # if (len(lineNames_increasing)>1):
-            #     summary_increasing+= commaAnd(lineNames_increasing) + " are increasing throughout the " + stringLabels[0]
-            #     summaryArr.append(summary_increasing)
-            # elif(len(lineNames_increasing)==1):
-            #     summary_increasing+= commaAnd(lineNames_increasing) + "is increasing throughout the " + stringLabels[0]
-            #     summaryArr.append(summary_increasing)
-
-            # #Lines that decrease
-            # summary_decreasing= "Overall "
-            # if (len(lineNames_decreasing)>1):
-            #     summary_decreasing+= commaAnd(lineNames_decreasing) + " are decreasing throughout the " + stringLabels[0]
-            #     summaryArr.append(summary_decreasing)
-            # elif(len(lineNames_decreasing)==1):
-            #     summary_decreasing+= commaAnd(lineNames_decreasing) + "is decreasing throughout the " + stringLabels[0]
-            #     summaryArr.append(summary_decreasing)
-
-            # # Lines that stay constant
-            # summary_constant= "Overall "
-            # if (len(lineNames_constant)>1):
-            #     summary_constant+= commaAnd(lineNames_constant) + " are roughly constant throughout the " + stringLabels[0]
-            #     summaryArr.append(summary_constant)
-            # elif(len(lineNames_constant)==1):
-            #     summary_constant+= commaAnd(lineNames_constant) + "is roughly constant throughout the " + stringLabels[0]
-            #     summaryArr.append(summary_constant)
-
+            summaryArr.append(random.choice(summary1))
+            
+            
             ###### Global Trends with Rate of chnage
-
             globalTrendRate_summary = "Overall "
 
             # Lines that rapidly increase
@@ -1455,23 +1472,239 @@ def summarize(data, all_y_label, name, title):
 
             globalTrendRate_summary += " throughout the " + stringLabels[0]
             summaryArr.append(globalTrendRate_summary)
+            
+            
+            ##Zig Zag
+            ## If >zigZagNum points and lines not constant then they are considered zig zag
+            sum_zigzag_arr=[]
+            if (len(yVals_sorted[0])> zigZagNum and len(zig_zagLineNames)!= 0):
+                sum_zigzag=  str(commaAnd(zig_zagLineNames)) + " has in general many fluctuations."
+                sum_zigzag_arr.append(sum_zigzag)
+                sum_zigzag= "The lines" + str(commaAnd(zig_zagLineNames)) + " in general has a zig zag shape."
+                sum_zigzag_arr.append(sum_zigzag)
+                summaryArr.append(random.choice(sum_zigzag_arr))
+            
 
+            #### Order/Ranking of all lines given total no of lines is < 5
+            sum_rank_arr= []
+            if (len(sortedLines_descending) < 5):  # Given there are no more than 5 lines
+                summary_rank1 = "The ranking of the lines from topmost to botommmost is as follows: "
+                for i in range(0, len(sortedLines_descending) - 1):
+                    summary_rank1 += str(i + 1) + ". " + sortedLines_descending[i][0] + ", "
+                summary_rank1 += "and lastly, " + str(len(sortedLines_descending)) + ". " + \
+                                sortedLines_descending[len(sortedLines_descending) - 1][0] + ". "
+                sum_rank_arr.append(summary_rank1)
+                
+                # 2nd Version of wording the sentence
+                summary_rank2 = "The lines ordered according to average values of " + y_label+  " in descending order is: "
+                for i in range(0, len(sortedLines_descending) - 1):
+                    summary_rank2 += str(i + 1) + ". " + sortedLines_descending[i][0] + ", "
+                summary_rank2 += "and lastly, " + str(len(sortedLines_descending)) + ". " + \
+                                sortedLines_descending[len(sortedLines_descending) - 1][0] + ". "
+                
+                sum_rank_arr.append(summary_rank2)
+                #Choose randomly between 2 versions
+                summaryArr.append(random.choice(sum_rank_arr))     
+            
+            
+
+            ## Talks about the topmost line
+            summary2=[]
+            summary2.append("Throughout the period, " + str(maxLine[
+                                                           0]) + " generally had the highest " + y_label + " relative to others" + " with an average of " + str(
+                meanOfTopmost) + ", and it reached its maximum at " + str(max_xVal_ofTopmost) + " with a value of " + str(
+                max_yVal_ofTopmost) + ".")  # revised
+            
+            #Version 2
+            summary2.append("Overall across the "+ stringLabels[0]+ ", " + str(maxLine[
+                                                           0]) + " mostly maintained the highest " + y_label+ " when compared to others" + " with a mean value of " + str(
+                meanOfTopmost) + ", and it peaked at " + str(max_xVal_ofTopmost)+ ".") 
+                
+
+            summaryArr.append(random.choice(summary2))
+           
+
+            ## Talks about the second topmost line
+            summ_2top_arr=[]
+            if lineCount > 2:
+                summary4 = "After " + str(maxLine[0]) + ", " + str(
+                    secondLine[0]) + " overall has the second highest values " + ", with a mean value of " + str(
+                    secondLine[1]) + ", peaking at " + str(secondXValue) + ". "
+                summ_2top_arr.append(summary4)
+                
+                #Version 2
+                summary4 = "Followed by " + str(
+                    secondLine[0]) + " which ranks as the second topmpost line " + ", with an average of " + str(
+                    secondLine[1])+ " "+ y_label + ",reaching its highest point  at " + str(secondXValue) + " with a value of " + str(secondLineData) + ". "
+                summ_2top_arr.append(summary4)
+                
+                summaryArr.append(random.choice(summ_2top_arr))
+
+            ## Talks about the bottomost line
+            sum_bottom_arr=[]
+            summary6 = str(minLine[0]) + " mostly had the least " + y_label + " with a mean value of " + str(
+                meanOfBotommost) + ", which peaked at " + str(max_xVal_ofBotommost) + " with a value of " + str(
+                max_yVal_ofBotommost) + ". "
+            sum_bottom_arr.append(summary6)
+            
+            #2nd version
+            summary6 = "The botommost line, " + str(minLine[0]) + ", " + " has a mean of " + str(
+                meanOfBotommost) + ", and peaked at " + str(max_xVal_ofBotommost) + ". "
+            sum_bottom_arr.append(summary6)
+            
+            summaryArr.append(random.choice(sum_bottom_arr))
+
+
+            # Additional summaries -shehnaz
+
+            # Global Max
+            sum_max_arr=[]
+            if (max_yVal_ofTopmost != max(maxLocal_array) and len(maxLine_xVals) < 5):
+                summary8 = maxLineNames + " reported the highest " + y_label + " about " + str(
+                    max(maxLocal_array)) + " in " + stringLabels[0] + " " + maxLine_xVals
+                sum_max_arr.append(summary8)
+                
+                #2nd Version
+                summary8 = "The maximum "+ y_label + " about " +str(max(maxLocal_array)) + "," + " occured at " + maxLine_xVals + " by " + maxLineNames + "."
+                sum_max_arr.append(summary8)
+                
+                summaryArr.append(random.choice(sum_max_arr))
+
+            # Global Min
+            sum_min_arr=[]
+            if (len(minLine_xVals) < 5):  # given no more than 5 x values are reported
+                summary9 = minLineNames + " reported the lowest " +  y_label + " about " + str(
+                    min(minLocal_array)) + " in " + stringLabels[0] + " " + minLine_xVals
+                sum_min_arr.append(summary9)
+                
+                #Version 2
+                summary9 = "The minimum "+ y_label + " about " + str(
+                    min(minLocal_array)) +  "," + " occured at " +  minLine_xVals + " by " + minLineNames + "."
+                sum_min_arr.append(summary9)
+                
+                summaryArr.append(random.choice(sum_min_arr))
+
+            #### Global Trend without rate
+
+            # #Lines that increase
+            # summary_increasing= "Overall "
+            # if (len(lineNames_increasing)>1):
+            #     summary_increasing+= commaAnd(lineNames_increasing) + " are increasing throughout the " + stringLabels[0]
+            #     summaryArr.append(summary_increasing)
+            # elif(len(lineNames_increasing)==1):
+            #     summary_increasing+= commaAnd(lineNames_increasing) + "is increasing throughout the " + stringLabels[0]
+            #     summaryArr.append(summary_increasing)
+
+            # #Lines that decrease
+            # summary_decreasing= "Overall "
+            # if (len(lineNames_decreasing)>1):
+            #     summary_decreasing+= commaAnd(lineNames_decreasing) + " are decreasing throughout the " + stringLabels[0]
+            #     summaryArr.append(summary_decreasing)
+            # elif(len(lineNames_decreasing)==1):
+            #     summary_decreasing+= commaAnd(lineNames_decreasing) + "is decreasing throughout the " + stringLabels[0]
+            #     summaryArr.append(summary_decreasing)
+
+            # # Lines that stay constant
+            # summary_constant= "Overall "
+            # if (len(lineNames_constant)>1):
+            #     summary_constant+= commaAnd(lineNames_constant) + " are roughly constant throughout the " + stringLabels[0]
+            #     summaryArr.append(summary_constant)
+            # elif(len(lineNames_constant)==1):
+            #     summary_constant+= commaAnd(lineNames_constant) + "is roughly constant throughout the " + stringLabels[0]
+            #     summaryArr.append(summary_constant)
+
+            
+            
+            
+            #Comparison
+            
+            # Randomly picking abosolute vs relative comparison
             # Append randomly the factor of chnage given the chnage was rapid
             if (len(lineNames_increasing_r) != 0 or len(lineNames_decreasing_r) != 0):
                 summaryArr.append(selectedChange)
-
+                
+            #Gap
+            
             ###### The gap between two lines
+            summary_Gap =[]
             if (len(lineNames) == 2):
-                summary10 = "The difference of " + "y_axis name" + " between " + lineNames[0] + " and " + lineNames[
+                summary10 ="The difference of " + y_label + " between " + lineNames[0] + " and " + lineNames[
                     1] + " is " + diff_direction + " at " + stringLabels[0] + " " + xVal_sorted[
                                 -1] + " compared to the " + stringLabels[0] + " " + xVal_sorted[0] + "."
-                summaryArr.append(summary10)
+                summary_Gap.append(summary10)
 
-                summary11 = "The greatest difference of " + "y_axis name" + " between " + lineNames[0] + " and " + \
+                summary11 = "The greatest difference of " + y_label + " between " + lineNames[0] + " and " + \
                             lineNames[1] + " occurs at " + stringLabels[0] + " " + str(
                     xVal_sorted[max_diff_indx[0]]) + " and the smallest difference occurs at " + str(
                     xVal_sorted[min_diff_indx[0]]) + "."  # Assumes there is only one max and min gap or difference
-                summaryArr.append(summary11)
+                summary_Gap.append(summary11)
+                
+                summaryArr.append(random.choice(summary_Gap))
+                
+            # print("summary_Gap" + str(summary_Gap))
+                
+                
+            ####### Min, Mid, Max Summaries
+            
+            # Minimum Summary
+            min_summary = [] # Minimum length summary
+            mid_summary = [] # Medium length summary
+            max_summary = [] # Maximum length summary
+
+            min_summary.append(random.choice(summary1)) #intro
+            min_summary.append(globalTrendRate_summary) # Global Trend
+            min_summary.append(random.choice(summary2)) #Topmost
+            if (len(summ_2top_arr)!=0):
+                min_summary.append(random.choice(summ_2top_arr)) # Second Topmost
+            min_summary.append(random.choice(sum_bottom_arr)) # Botommost
+            if (len(sum_zigzag_arr)!=0):
+                min_summary.append(random.choice(sum_zigzag_arr)) # Zig Zag 
+            
+            # print( "min_summary" + str(min_summary) + "/n")
+            
+            # Medium Summary
+            mid_summary.append(random.choice(summary1)) #intro
+            mid_summary.append(globalTrendRate_summary) # Global Trend
+            if (len(lineNames_increasing_r) != 0 or len(lineNames_decreasing_r) != 0):
+                mid_summary.append(selectedChange) # Comparison
+            if (len(sum_rank_arr)!=0):
+                mid_summary.append(random.choice(sum_rank_arr))  #Order/Rank  
+            mid_summary.append(random.choice(summary2)) #Topmost
+            if (len(summ_2top_arr)!=0):
+                mid_summary.append(random.choice(summ_2top_arr)) #Second Topmost
+            mid_summary.append(random.choice(sum_bottom_arr)) # Botommost
+            if (len(sum_zigzag_arr)!=0):
+                mid_summary.append(random.choice(sum_zigzag_arr)) # Zig Zag 
+            
+            
+            # print( "mid_summary" + str(mid_summary) + "/n")
+            
+            # Maximum Summary
+            max_summary.append(random.choice(summary1)) #intro
+            max_summary.append(globalTrendRate_summary) # Global Trend
+            if (len(lineNames_increasing_r) != 0 or len(lineNames_decreasing_r) != 0):
+                max_summary.append(selectedChange) # Comparison 
+            if (len(sum_rank_arr)!=0):
+                max_summary.append(random.choice(sum_rank_arr))  #Order/Rank  
+            max_summary.append(random.choice(summary2)) #Topmost
+            if (len(summ_2top_arr)!=0):
+                max_summary.append(random.choice(summ_2top_arr)) #Second Topmost
+            max_summary.append(random.choice(sum_bottom_arr)) # Botommost
+            if (len(sum_max_arr)!=0):
+                max_summary.append(random.choice(sum_max_arr)) # Global Max
+            if (len(sum_min_arr)!=0):
+                max_summary.append(random.choice(sum_min_arr)) # Global Min
+            if (len(sum_zigzag_arr)!=0):
+                max_summary.append(random.choice(sum_zigzag_arr)) # Zig Zag 
+            if (len(summary_Gap)!=0):
+                max_summary.append(random.choice(summary_Gap)) # Gap (if 2 lines only )
+            
+            
+            print( "max_summary" + str(max_summary) + "/n")
+                
+                
+                
+            
 
             trendsArray = [{},
                            {"2": ["0", str(index1)], "16": [str(rowCount - 1), str(index1)]},
@@ -1479,13 +1712,19 @@ def summarize(data, all_y_label, name, title):
                            {"2": ["0", str(index2)], "15": [str(rowCount - 1), str(index2)]},
                            {"1": [str(rowIndex2), str(index2)], "10": [str(rowIndex2), str(index2)]}
                            ]
-            websiteInput = {"title": title.strip(), "labels": [' '.join(label) for label in labelArr],
+            websiteInput = {"title": title.strip(), 
+                            "labels": [' '.join(label) for label in labelArr],
                             "columnType": "multi",
                             "graphType": chartType, "summaryType": "baseline", "summary": summaryArr,
+                            "xAxis": x_label,
+                            "yAxis": y_label,
+                            "min_summary": min_summary,
+                            "mid_summary": mid_summary,
+                            "max_summary": max_summary,
                             "trends": trendsArray,
                             "data": dataJson}
 
-            print(summaryArr)
+            # print(summaryArr)
 
             with open(f'{websitePath}/{name}.json', 'w', encoding='utf-8') as websiteFile:
                 json.dump(websiteInput, websiteFile, indent=3)
@@ -1816,7 +2055,7 @@ def summarize(data, all_y_label, name, title):
 
         ## for single line charts
         # run line  
-        elif (chartType == "line"):
+        elif (chartType == "line"): # Single Line
             trendArray = []
             numericXValueArr = []
             for xVal, index in zip(xValueArr, range(
@@ -1837,7 +2076,7 @@ def summarize(data, all_y_label, name, title):
             # print(xValueArr)
             # print(yValueArr)
 
-            ##For json's smoothing
+            ##For jason's smoothing
             while i < (len(yValueArr)):
                 variance1 = float(yValueArr[i]) - float(yValueArr[
                                                             i - 1])  # 2nd yVal- Prev yVal # Note that xValueArr and yValueArr are ordered such that the start values are written at the end of the array
@@ -1849,7 +2088,7 @@ def summarize(data, all_y_label, name, title):
                     type1 = "constant"  # Stays the same
                 trendArray.append(type1)
                 i = i + 1
-            #####
+            ##### end of jason code
 
             ##Finding the direction of trend -shehnaz
 
@@ -1942,24 +2181,7 @@ def summarize(data, all_y_label, name, title):
             # print(direction)
             # end
 
-            localTrendSentence1 = "This line chart has an x axis representing " + xLabel + " and a y axis representing " + yLabel + ", with a total of " + str(
-                len(yValueArrCorrectOrder)) \
-                                  + " data points."
-            summaryArray.append(localTrendSentence1)
-
-            summary2 = " Overall " + yLabel + " has "
-
-            if globalPercentChange > 0:
-                summary2 += "increased"
-            elif globalPercentChange < 0:
-                summary2 += "decreased"
-            else:
-                summary2 += "constant"
-
-            # summary2 +=direction
-
-            summary2 += " over the " + xLabel + "."
-            summaryArray.append(summary2)
+            
 
             ############# LocalTrend ##############
             varianceArray = []
@@ -1989,7 +2211,7 @@ def summarize(data, all_y_label, name, title):
                 i = i + 1
 
             # print(varianceArray)
-            print(percentArray)
+            # print(percentArray)
             # print(directionArray)
 
             # print(varianceArray)
@@ -2073,7 +2295,7 @@ def summarize(data, all_y_label, name, title):
             abs_percentArrayCorrectOrder = [abs(number) for number in percentArrayCorrectOrder]  # neww
             # print(abs_percentArrayCorrectOrder)
             mean_percentArray = mean(abs_percentArrayCorrectOrder)  # mean of abosulte values of percentArray
-            print(mean_percentArray)
+            # print(mean_percentArray)
             # sd_percentArray= stdev(abs_percentArrayCorrectOrder)
             # print(sd_percentArray)
 
@@ -2101,8 +2323,8 @@ def summarize(data, all_y_label, name, title):
                                    constant_rate)  # direction e.g. increase, decrease or constant
                 directionArray.append(d)
                 i = i + 1
-            print("Orginal Direction Trend:")
-            print(directionArray)
+            # print("Orginal Direction Trend:")
+            # print(directionArray)
 
             ### Previously indexs reported for only increasing and decresing trends
             # trendChangeIdx = []
@@ -2127,8 +2349,8 @@ def summarize(data, all_y_label, name, title):
                     directionArraySmoothed.append(directionArray[idx])
             directionArraySmoothed.append(directionArray[len(
                 percentArrayCorrectOrder) - 1])  # neww # The last value doesn't have a succesive interval so it will be appended as is
-            print("Smoothed Direction Trend:")
-            print(directionArraySmoothed)
+            #print("Smoothed Direction Trend:")
+            #print(directionArraySmoothed)
 
             # constant_rate = meanSlope- 1*(sdSlope)
             # significant_rate = meanSlope
@@ -2309,9 +2531,84 @@ def summarize(data, all_y_label, name, title):
             # print(significant_rate)
             # print(gradually_rate)
             # print(rapidly_rate)
+            
+            
 
+
+            ############# Steepest Slope ##############
+
+            # Absolute value of varianceArrayCorrectOrder elements
+            absoluteVariance = [abs(ele) for ele in varianceArrayCorrectOrder]
+
+            max_value = max(absoluteVariance)
+            max_index = absoluteVariance.index(max_value)
+
+            # print(absoluteVariance)
+            # print(max_value)
+            # print(max_index)
+            # print(directionArraySmoothed)
+
+
+
+            
+            
             ##### Print the summary
+            ###### Print all summaries for single line chart: #########
+                
+            
+            #####  INTRO
+            summary1=[] 
+            localTrendSentence1 = "This is a line chart with an x axis representing " + xLabel + " and a y axis representing " + yLabel + ", containing a total of " + str(
+                len(yValueArrCorrectOrder)) \
+                                  + " data points."
+            summary1.append(localTrendSentence1)
+            
+            # Version 2
+            localTrendSentence1 = "The chart at hand is a line chart where the x axis denotes " + xLabel + " and a y axis denotes " + yLabel + ". In total the number of data points it has is " + str(
+                len(yValueArrCorrectOrder)) \
+                                  + "."
+            summary1.append(localTrendSentence1)
+            
+            summaryArray.append(random.choice(summary1))
+            
+            
+            
+            #### GLOBAL TREND
+            summary2_arr= []
+            summary2 = " Overall " + yLabel + " has "
 
+            if globalPercentChange > 0:
+                summary2 += "increased"
+            elif globalPercentChange < 0:
+                summary2 += "decreased"
+            else:
+                summary2 += "constant"
+
+            # summary2 +=direction
+
+            summary2 += " over the " + xLabel + "."
+            summary2_arr.append(summary2)
+            
+            # Version 2
+            summary2 = " In general " + yLabel + " has "
+
+            if globalPercentChange > 0 and abs(globalPercentChange)> constant:
+                summary2 += "rose"
+            elif globalPercentChange < 0 and abs(globalPercentChange)> constant:
+                summary2 += "fallen"
+            else:
+                summary2 += "stayed the same"
+
+            # summary2 +=direction
+
+            summary2 += " over the " + xLabel + "."
+            summary2_arr.append(summary2)
+            
+            summaryArray.append(random.choice(summary2_arr))
+            
+            
+            
+            # LOCAL TREND
             summary3 = yLabel
             rateOfchange_array = []
             # rateOfchange_num_array= []
@@ -2351,8 +2648,12 @@ def summarize(data, all_y_label, name, title):
                 rateOfChange = rateOfChnage(refinedPercentChnage_array[x], directionArraySmoothed[-1], constant_rate,
                                             gradually_rate, rapidly_rate)
                 rateOfchange_array.append(rateOfChange)
+                
+                synonym= ["lastly", "finally"]
+                word= random.choice(synonym)
+                
 
-                summary3 += "and lastly " + rateOfChange + " " + \
+                summary3 += "and "+ str(word) + " " + rateOfChange + " " + \
                             directionArraySmoothed[-1] + " from " + str(xValueArrCorrectOrder[
                                                                             trendChangeIdx[-1] + 1]) + " to " + str(
                     xValueArrCorrectOrder[-1]) + "."
@@ -2367,180 +2668,356 @@ def summarize(data, all_y_label, name, title):
                 summary3 += " is " + rateOfChange + " " + \
                             directionArraySmoothed[-1] + " from " + str(xValueArrCorrectOrder[0]) + " to " + \
                             str(xValueArrCorrectOrder[-1]) + "."
-
+            
+            sum_zigzag_arr=[] #for ZIG Zag
+            
             if (len(trendChangeIdx) < 5):
                 summaryArray.append(summary3)
+                
+            # ZIG ZAG
+            elif(len(yValueArrCorrectOrder)>zigZagNum):
+                sum_zigzag= "The chart in general has a zig-zag shape."
+                sum_zigzag_arr.append(sum_zigzag)
+                sum_zigzag= "The chart generally has many fluctuations."
+                sum_zigzag_arr.append(sum_zigzag)
+                summaryArray.append(random.choice(sum_zigzag_arr))
 
-            print(rateOfchange_array)
             # print(rateOfchange_num_array)
-
-            ############# Steepest Slope ##############
-
-            # Absolute value of varianceArrayCorrectOrder elements
-            absoluteVariance = [abs(ele) for ele in varianceArrayCorrectOrder]
-
-            max_value = max(absoluteVariance)
-            max_index = absoluteVariance.index(max_value)
-
-            # print(absoluteVariance)
-            # print(max_value)
-            # print(max_index)
-            # print(directionArraySmoothed)
-
+            
+            #print("percentArrayCorrectOrder:     " + str(percentArrayCorrectOrder))
+            #print("directionArray:     " + str(directionArray))
+            
+            
+            
+            # COMPARISON
+            
+            summ_Comp=[]
+            summ_Comp1="The line rapidly "
+            summ_Comp2="The line drastically "
+            summ_Comp3="The line significantly "
+            i=0
+            #print(rapid)
+            
+            
+            # To find the number of rapid trends
+            x=0
+            for i in range(0, len(percentArrayCorrectOrder)):
+                if (abs(percentArrayCorrectOrder[i])>rapid ):
+                    x=x+1
+                    
+            m=0 
+            for i in range(0, len(percentArrayCorrectOrder)):
+                if (abs(percentArrayCorrectOrder[i])>rapid ):
+                    m=m+1
+                    
+                    n = float(yValueArrCorrectOrder[i+1])
+                    o = float(yValueArrCorrectOrder[i])
+                    print(n)
+                    print(o)
+                    if (o == 0):
+                        o = 0.00000000001
+                    if (n == 0):
+                        n = 0.00000000001
+                    #percentage chnage  
+                    p = abs(percentChnageFunc(n, o))
+                    
+                    #Factor 
+                    f=""
+                    if (n != 0.00000000001 and o != 0.00000000001):
+                        if (n>o):
+                            f = round(n / o, 1)
+                        else:
+                            f = round(o / n, 1)
+                        
+                    
+                    # Absolue difference
+                    absolute_diff= abs(n-o)
+                    
+                    end= ","
+                    conjucntion=""
+                    if (m == x):  # It is the last line to be printed and it is not only 1 line
+                        end= "." 
+                        if (x!=1):
+                            conjucntion=" and lastly, "
+        
+                    
+                    #Version1
+                    summ_Comp1+= conjucntion+ str(increasedDecreased(directionArray[i])) + " by " + str(round(p,2)) + "% from " + str(xLabel) + " "+ str(xValueArrCorrectOrder[i])+ " to " + str(xValueArrCorrectOrder[i+1])  + end 
+                    
+                    #Version 2
+                    if (bool(f)):
+                        summ_Comp2+= conjucntion+ str(increasedDecreased(directionArray[i])) + " by " + str(f) + " times from " + str(xLabel) + " "+ str(xValueArrCorrectOrder[i])+ " to " + str(xValueArrCorrectOrder[i+1]) + end
+                    
+                    #Version 3
+                    summ_Comp3+= conjucntion+ str(increasedDecreased(directionArray[i])) + " by " + str(round(absolute_diff,2)) + " from " + str(xLabel) + " "+ str(xValueArrCorrectOrder[i])+ " to " + str(xValueArrCorrectOrder[i+1]) + end
+                    
+            summ_Comp.append(summ_Comp1)
+            if (len(summ_Comp2)!=0):
+                summ_Comp.append(summ_Comp2)
+            summ_Comp.append(summ_Comp3)
+                
+            summaryArray.append(random.choice(summ_Comp))
+                    
+            
+            
+            
+            # STEEPEST SLOPE
+            summary4_arr=[]
             if increaseDecrease(directionArraySmoothed[max_index]) != "stays the same":
                 summary4 = "The steepest " + increaseDecrease(
                     directionArraySmoothed[max_index]) + " occurs in between the " + xLabel + " " + str(
                     xValueArrCorrectOrder[
                         max_index]) + " and " + str(xValueArrCorrectOrder[max_index + 1]) + "."
-                summaryArray.append(summary4)
-
-            ############# Extrema Max ##############
+                summary4_arr.append(summary4)
+                
+                #Version 2
+                summary4 = "The most drastic " + increaseDecrease(
+                    directionArraySmoothed[max_index]) + " took place within the " + xLabel + " " + str(
+                    xValueArrCorrectOrder[
+                        max_index]) + " and " + str(xValueArrCorrectOrder[max_index + 1]) + "."
+                summary4_arr.append(summary4)
+                summaryArray.append(random.choice(summary4_arr))
+                
+                
+            # EXTREMA MAX
             # print(yValueArrCorrectOrder)
 
             max_index = get_indexes_max_value(yValueArrCorrectOrder)
             # print(max_index)
             # print(len(max_index))
-
-            summary5 = "Max " + yLabel + " about " + str(
-                yValueArrCorrectOrder[max_index[0]]) + " was recorded at " + xLabel
+            
+            summ_max_arr=[]
+            #version 1
+            summary_v1 = "Maximum " + yLabel + ", about " + str(
+                yValueArrCorrectOrder[max_index[0]]) + " was reported at " + xLabel
+            summ_max_arr.append(summary_v1)
+            
+            #version2
+            summary_v2 = "The highest " + yLabel + ", of value " + str(
+                yValueArrCorrectOrder[max_index[0]]) + " was reached at " + xLabel
+            summ_max_arr.append(summary_v2)
+            
+            chosen_max= random.choice(summ_max_arr)
 
             if len(max_index) > 1:
                 i = 0
                 while i < (len(max_index) - 1):
-                    summary5 += " " + str(xValueArrCorrectOrder[max_index[i]]) + ", "
+                    chosen_max += " " + str(xValueArrCorrectOrder[max_index[i]]) + ", "
                     i = i + 1
-                summary5 += "and " + str(xValueArrCorrectOrder[max_index[-1]])
+                chosen_max += "and " + str(xValueArrCorrectOrder[max_index[-1]])
             else:
-                summary5 += " " + str(xValueArrCorrectOrder[max_index[0]])
+                chosen_max += " " + str(xValueArrCorrectOrder[max_index[0]])
 
-            summaryArray.append(summary5)
+            summaryArray.append(chosen_max)
 
-            ############# Extrema Min ##############
+
+
+
+            ## EXTREMA MIN
             # print(yValueArrCorrectOrder)
 
             min_index = get_indexes_min_value(yValueArrCorrectOrder)
             # print(min_index)
             # print(len(min_index))
-
-            summary5 = "Min " + yLabel + " about " + str(
-                yValueArrCorrectOrder[min_index[0]]) + " was recorded at " + xLabel
+            
+            summ_min_arr=[]
+            
+            #version 1
+            summ_v1 = "Minimum " + yLabel + " about " + str(
+                yValueArrCorrectOrder[min_index[0]]) + " was reached at " + xLabel
+            summ_min_arr.append(summ_v1)
+            
+            #version 2
+            summ_v2 = "The lowest " + yLabel + ", of value " + str(
+                yValueArrCorrectOrder[min_index[0]]) + " was reported at " + xLabel
+            summ_min_arr.append(summ_v2)
+            
+            chosen_min= random.choice(summ_min_arr)
 
             if len(min_index) > 1:
                 i = 0
                 while i < (len(min_index) - 1):
-                    summary5 += " " + str(xValueArrCorrectOrder[min_index[i]]) + ", "
+                    chosen_min += " " + str(xValueArrCorrectOrder[min_index[i]]) + ", "
                     i = i + 1
-                summary5 += "and " + str(xValueArrCorrectOrder[min_index[-1]])
+                chosen_min += "and " + str(xValueArrCorrectOrder[min_index[-1]])
             else:
-                summary5 += " " + str(xValueArrCorrectOrder[min_index[0]])
+                chosen_min += " " + str(xValueArrCorrectOrder[min_index[0]])
 
-            summaryArray.append(summary5)
+            summaryArray.append(chosen_min)
+                
+                
+            
+            
+            ####### Min, Mid, Max Summaries
+            
+            # Minimum Summary
+            min_summary = [] # Minimum length summary
+            mid_summary = [] # Medium length summary
+            max_summary = [] # Maximum length summary
 
-            newLine = "#########################################################################"
-            summaryArray.append(newLine)
+            min_summary.append(random.choice(summary1)) #intro
+            min_summary.append(random.choice(summary2_arr)) # Global Trend
+            if(len(yValueArrCorrectOrder)>zigZagNum and len(sum_zigzag_arr)!=0):
+                max_summary.append(random.choice(sum_zigzag_arr)) # Zig zag
+            if (len(trendChangeIdx) < 5): 
+                min_summary.append(summary3)  # Local Trends
 
-            ##########################################################
-            # iterate through the variances and check for trends
-            startIndex = 0
-            trendLen = len(trendArray)
-            # creates dictionary containing the trend length, direction, start and end indices, and the linear regression of the trend
-            significanceRange = round(len(yValueArr) / 8)  ## Why divide by 8??
-            significantTrendCount = 0
-            significantTrendArray = []
-            for n in range(trendLen):  # 0 to 10 (exclusive)
-                currentVal = trendArray[
-                    n - 1]  ## Traversing through the array backwards (from end to start == start to end for the chart)
-                nextVal = trendArray[n]
-                if (currentVal != nextVal or (currentVal == nextVal and n == (trendLen - 1))):
-                    if (n == (trendLen - 1)):
-                        endIndex = n + 1
-                    else:
-                        endIndex = n
-                    trendLength = endIndex - startIndex + 1
-                    if trendLength > significanceRange:
-                        xRange = pd.Series(numericXValueArr).loc[startIndex:endIndex]
-                        yRange = pd.Series(yValueArr).loc[startIndex:endIndex]
-                        result = linregress(xRange, yRange)
-                        intercept = round(result[1], 2)
-                        slope = round(result[0], 2)
-                        trendRange = {"Length": (endIndex - startIndex + 1), "direction": currentVal,
-                                      "start": startIndex, "end": endIndex, "slope": slope, "intercept": intercept}
-                        significantTrendArray.append(trendRange)
-                        significantTrendCount += 1
-                        startIndex = n
-            # sort the trend dictionaries by length
-            if (significantTrendCount > 1):
-                # normalize trend slopes to get magnitudes for multi-trend charts
-                slopes = np.array([trend['slope'] for trend in significantTrendArray]).reshape(-1, 1)
-                scaler = preprocessing.MinMaxScaler()
-                scaler.fit(slopes)
-                scaledSlopes = scaler.transform(slopes)
-                # print(significantTrendArray)
-                for trend, normalizedSlope in zip(significantTrendArray, scaledSlopes):
-                    trend['magnitude'] = getMagnitude(normalizedSlope[0])
-                # print(significantTrendArray)
+            print( "min_summary:   " + str(min_summary) + "/n")
+            
+            
+            # Medium Summary
+            mid_summary.append(random.choice(summary1)) #intro
+            mid_summary.append(random.choice(summary2_arr)) # Global Trend
+            if(len(yValueArrCorrectOrder)>zigZagNum and len(sum_zigzag_arr)!=0):
+                max_summary.append(random.choice(sum_zigzag_arr)) # Zig zag
+            if (len(trendChangeIdx) < 5): 
+                mid_summary.append(summary3)  # Local Trends
+            if (len(summary4_arr)!= 0):
+                mid_summary.append(random.choice(summary4_arr)) # Steepest Slope
+            mid_summary.append(chosen_max)  #Extrema max
+            mid_summary.append(chosen_min) # Extrema Min
+ 
+            print( "mid_summary:   " + str(mid_summary) + "/n")
+            
+            
+            # Maximum Summary
+            max_summary.append(random.choice(summary1)) #intro
+            max_summary.append(random.choice(summary2_arr)) # Global Trend
+            if(len(yValueArrCorrectOrder)>zigZagNum and len(sum_zigzag_arr)!=0):
+                max_summary.append(random.choice(sum_zigzag_arr)) # Zig zag
+            if (len(trendChangeIdx) < 5): 
+                max_summary.append(summary3)  # Local Trends
+            if (len(summary4_arr)!= 0):
+                max_summary.append(random.choice(summary4_arr)) # Steepest Slope
+            max_summary.append(chosen_max)  #Extrema max
+            max_summary.append(chosen_min) # Extrema Min
+            if (len(summ_Comp)!=0):
+                max_summary.append(random.choice(summ_Comp))  #Comparison
+            
+            
+            print( "max_summary:   " + str(max_summary) + "/n")
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            ##### Jason method for summarizing Line charts ##### 
 
-            sortedTrends = sorted(significantTrendArray, key=lambda i: i['Length'], reverse=True)
-            # generate the textual summary from the significant trend dictionary array at m
-            if (significantTrendCount > 0):
-                startVal = str(xValueArr[(sortedTrends[0]['start'])])
-                endVal = str(xValueArr[(sortedTrends[0]['end'])])
-                direction = str(sortedTrends[0]['direction'])
-                if (significantTrendCount > 1):
-                    magnitude = str(sortedTrends[0]['magnitude'])
-                    m = 1
-                    # execute here if more than 1 significant trend
-                    similarSynonyms = ["Similarly", "Correspondingly", "Likewise", "Additionally", "Also",
-                                       "In a similar manner"]
-                    contrarySynonyms = ["Contrarily", "Differently", "On the other hand", "Conversely",
-                                        "On the contrary",
-                                        "But"]
-                    extraTrends = ""
-                    localTrendSentence1 = "This line chart has an x axis representing " + xLabel + " and a y axis representing " + yLabel + ", with a total of " + str(
-                        len(yValueArr)) \
-                                          + " data points. The chart has " + str(
-                        significantTrendCount) + " significant trends."
-                    summaryArray.append(localTrendSentence1)
-                    graphTrendArray.append({})
-                    localTrendSummary = " The longest trend is " + magnitude + " " + direction + " which exists from " + endVal + " to " + startVal + "."
-                    summaryArray.append(localTrendSummary)
-                    graphTrendArray.append({"1": str(xValueArr.index(startVal)), "12": str(xValueArr.index(endVal))})
+            # newLine = "#########################################################################"
+            # summaryArray.append(newLine)
 
-                    while (m < significantTrendCount):
-                        # append conjunction between significant trends
-                        if (direction == "increasing"):
-                            length = len(similarSynonyms)
-                            random_lbl = randint(0, length - 1)
-                            synonym = similarSynonyms[random_lbl]
-                            conjunction = synonym + ","
-                        elif (
-                                direction == "decreasing" or direction == "constant"):  # new #chnaged due to error of 'conjunction' referenced before assignmnet
-                            length = len(contrarySynonyms)
-                            random_lbl = randint(0, length - 1)
-                            synonym = contrarySynonyms[random_lbl]
-                            conjunction = synonym + ","
-                        startVal = str(xValueArr[(sortedTrends[m]['start'])])
-                        endVal = str(xValueArr[(sortedTrends[m]['end'])])
-                        direction = str(sortedTrends[m]['direction'])
-                        magnitude = str(sortedTrends[m]['magnitude'])
-                        extraTrends = " " + conjunction + " the next significant trend is " + magnitude + " " + direction + " which exists from " + endVal + " to " + startVal + "."
-                        summaryArray.append(extraTrends)
-                        graphTrendArray.append(
-                            {"3": str(xValueArr.index(startVal)), "14": str(xValueArr.index(endVal))})
-                        m = m + 1
-                # execute here if only 1 significant trend
-                else:
-                    localTrendSentence1 = "This line chart has an x axis representing " + xLabel + " and a y axis representing " + yLabel + " with a total of " + str(
-                        len(yValueArr)) + " data points. The chart has one significant trend."
-                    summaryArray.append(localTrendSentence1)
-                    graphTrendArray.append({})
-                    localTrendSummary = " This trend is " + direction + " which exists from " + startVal + " to " + endVal + "."
-                    summaryArray.append(localTrendSummary)
-                    graphTrendArray.append({"3": str(xValueArr.index(startVal)), "14": str(xValueArr.index(endVal))})
+            # ##########################################################
+            # # iterate through the variances and check for trends
+            # startIndex = 0
+            # trendLen = len(trendArray)
+            # # creates dictionary containing the trend length, direction, start and end indices, and the linear regression of the trend
+            # significanceRange = round(len(yValueArr) / 8)  ## Why divide by 8??
+            # significantTrendCount = 0
+            # significantTrendArray = []
+            # for n in range(trendLen):  # 0 to 10 (exclusive)
+            #     currentVal = trendArray[
+            #         n - 1]  ## Traversing through the array backwards (from end to start == start to end for the chart)
+            #     nextVal = trendArray[n]
+            #     if (currentVal != nextVal or (currentVal == nextVal and n == (trendLen - 1))):
+            #         if (n == (trendLen - 1)):
+            #             endIndex = n + 1
+            #         else:
+            #             endIndex = n
+            #         trendLength = endIndex - startIndex + 1
+            #         if trendLength > significanceRange:
+            #             xRange = pd.Series(numericXValueArr).loc[startIndex:endIndex]
+            #             yRange = pd.Series(yValueArr).loc[startIndex:endIndex]
+            #             result = linregress(xRange, yRange)
+            #             intercept = round(result[1], 2)
+            #             slope = round(result[0], 2)
+            #             trendRange = {"Length": (endIndex - startIndex + 1), "direction": currentVal,
+            #                           "start": startIndex, "end": endIndex, "slope": slope, "intercept": intercept}
+            #             significantTrendArray.append(trendRange)
+            #             significantTrendCount += 1
+            #             startIndex = n
+            # # sort the trend dictionaries by length
+            # if (significantTrendCount > 1):
+            #     # normalize trend slopes to get magnitudes for multi-trend charts
+            #     slopes = np.array([trend['slope'] for trend in significantTrendArray]).reshape(-1, 1)
+            #     scaler = preprocessing.MinMaxScaler()
+            #     scaler.fit(slopes)
+            #     scaledSlopes = scaler.transform(slopes)
+            #     # print(significantTrendArray)
+            #     for trend, normalizedSlope in zip(significantTrendArray, scaledSlopes):
+            #         trend['magnitude'] = getMagnitude(normalizedSlope[0])
+            #     # print(significantTrendArray)
+
+            # sortedTrends = sorted(significantTrendArray, key=lambda i: i['Length'], reverse=True)
+            # # generate the textual summary from the significant trend dictionary array at m
+            # if (significantTrendCount > 0):
+            #     startVal = str(xValueArr[(sortedTrends[0]['start'])])
+            #     endVal = str(xValueArr[(sortedTrends[0]['end'])])
+            #     direction = str(sortedTrends[0]['direction'])
+            #     if (significantTrendCount > 1):
+            #         magnitude = str(sortedTrends[0]['magnitude'])
+            #         m = 1
+            #         # execute here if more than 1 significant trend
+            #         similarSynonyms = ["Similarly", "Correspondingly", "Likewise", "Additionally", "Also",
+            #                            "In a similar manner"]
+            #         contrarySynonyms = ["Contrarily", "Differently", "On the other hand", "Conversely",
+            #                             "On the contrary",
+            #                             "But"]
+            #         extraTrends = ""
+            #         localTrendSentence1 = "This line chart has an x axis representing " + xLabel + " and a y axis representing " + yLabel + ", with a total of " + str(
+            #             len(yValueArr)) \
+            #                               + " data points. The chart has " + str(
+            #             significantTrendCount) + " significant trends."
+            #         summaryArray.append(localTrendSentence1)
+            #         graphTrendArray.append({})
+            #         localTrendSummary = " The longest trend is " + magnitude + " " + direction + " which exists from " + endVal + " to " + startVal + "."
+            #         summaryArray.append(localTrendSummary)
+            #         graphTrendArray.append({"1": str(xValueArr.index(startVal)), "12": str(xValueArr.index(endVal))})
+
+            #         while (m < significantTrendCount):
+            #             # append conjunction between significant trends
+            #             if (direction == "increasing"):
+            #                 length = len(similarSynonyms)
+            #                 random_lbl = randint(0, length - 1)
+            #                 synonym = similarSynonyms[random_lbl]
+            #                 conjunction = synonym + ","
+            #             elif (
+            #                     direction == "decreasing" or direction == "constant"):  # new #chnaged due to error of 'conjunction' referenced before assignmnet
+            #                 length = len(contrarySynonyms)
+            #                 random_lbl = randint(0, length - 1)
+            #                 synonym = contrarySynonyms[random_lbl]
+            #                 conjunction = synonym + ","
+            #             startVal = str(xValueArr[(sortedTrends[m]['start'])])
+            #             endVal = str(xValueArr[(sortedTrends[m]['end'])])
+            #             direction = str(sortedTrends[m]['direction'])
+            #             magnitude = str(sortedTrends[m]['magnitude'])
+            #             extraTrends = " " + conjunction + " the next significant trend is " + magnitude + " " + direction + " which exists from " + endVal + " to " + startVal + "."
+            #             summaryArray.append(extraTrends)
+            #             graphTrendArray.append(
+            #                 {"3": str(xValueArr.index(startVal)), "14": str(xValueArr.index(endVal))})
+            #             m = m + 1
+            #     # execute here if only 1 significant trend
+            #     else:
+            #         localTrendSentence1 = "This line chart has an x axis representing " + xLabel + " and a y axis representing " + yLabel + " with a total of " + str(
+            #             len(yValueArr)) + " data points. The chart has one significant trend."
+            #         summaryArray.append(localTrendSentence1)
+            #         graphTrendArray.append({})
+            #         localTrendSummary = " This trend is " + direction + " which exists from " + startVal + " to " + endVal + "."
+            #         summaryArray.append(localTrendSummary)
+            #         graphTrendArray.append({"3": str(xValueArr.index(startVal)), "14": str(xValueArr.index(endVal))})
+            
+            
             dataJson = [{xLabel: xVal, yLabel: yVal} for xVal, yVal in zip(cleanXArr, cleanYArr)]
             websiteInput = {"title": title, "xAxis": xLabel, "yAxis": yLabel,
                             "columnType": "two",
                             "graphType": chartType, "summaryType": "baseline", "summary": summaryArray,
+                            "min_summary": min_summary,
+                            "mid_summary": mid_summary,
+                            "max_summary": max_summary,
                             "trends": graphTrendArray,
                             "data": dataJson}
             with open(f'{websitePath}/{name}.json', 'w', encoding='utf-8') as websiteFile:
@@ -2562,14 +3039,14 @@ grp_bar_title = "Average retail price for white sugar in Canada 2015 to 2019"
 
 
 
-# single_line_data = "Year|2024|x|line_chart GDP_per_capita_in_U.S._dollars|265.58|y|line_chart Year|2023|x|line_chart GDP_per_capita_in_U.S._dollars|270.37|y|line_chart Year|2022|x|line_chart GDP_per_capita_in_U.S._dollars|278.36|y|line_chart Year|2021|x|line_chart GDP_per_capita_in_U.S._dollars|244.0|y|line_chart Year|2020|x|line_chart GDP_per_capita_in_U.S._dollars|243.27|y|line_chart Year|2019|x|line_chart GDP_per_capita_in_U.S._dollars|275.18|y|line_chart Year|2018|x|line_chart GDP_per_capita_in_U.S._dollars|353.17|y|line_chart Year|2017|x|line_chart GDP_per_capita_in_U.S._dollars|273.14|y|line_chart Year|2016|x|line_chart GDP_per_capita_in_U.S._dollars|281.51|y|line_chart Year|2015|x|line_chart GDP_per_capita_in_U.S._dollars|1225.19|y|line_chart Year|2014|x|line_chart GDP_per_capita_in_U.S._dollars|1309.95|y|line_chart "
+single_line_data = "Year|2024|x|line_chart GDP_per_capita_in_U.S._dollars|265.58|y|line_chart Year|2023|x|line_chart GDP_per_capita_in_U.S._dollars|270.37|y|line_chart Year|2022|x|line_chart GDP_per_capita_in_U.S._dollars|278.36|y|line_chart Year|2021|x|line_chart GDP_per_capita_in_U.S._dollars|244.0|y|line_chart Year|2020|x|line_chart GDP_per_capita_in_U.S._dollars|243.27|y|line_chart Year|2019|x|line_chart GDP_per_capita_in_U.S._dollars|275.18|y|line_chart Year|2018|x|line_chart GDP_per_capita_in_U.S._dollars|353.17|y|line_chart Year|2017|x|line_chart GDP_per_capita_in_U.S._dollars|273.14|y|line_chart Year|2016|x|line_chart GDP_per_capita_in_U.S._dollars|281.51|y|line_chart Year|2015|x|line_chart GDP_per_capita_in_U.S._dollars|1225.19|y|line_chart Year|2014|x|line_chart GDP_per_capita_in_U.S._dollars|1309.95|y|line_chart "
 multi_line_data = "Year|2018|0|line_chart Export|55968.7|1|line_chart Import|108775.3|2|line_chart Year|2017|0|line_chart Export|45622.2|1|line_chart Import|94101.9|2|line_chart Year|2016|0|line_chart Export|48752.7|1|line_chart Import|78531.7|2|line_chart Year|2015|0|line_chart Export|71404.6|1|line_chart Import|88653.6|2|line_chart Year|2014|0|line_chart Export|43256.4|1|line_chart Import|69174.6|2|line_chart Year|2013|0|line_chart Export|91886.1|1|line_chart Import|103475.2|2|line_chart Year|2012|0|line_chart Export|55652.9|1|line_chart Import|72623.0|2|line_chart Year|2011|0|line_chart Export|65749.5|1|line_chart Import|75092.9|2|line_chart Year|2010|0|line_chart Export|48278.3|1|line_chart Import|57152.3|2|line_chart Year|2009|0|line_chart Export|29452.8|1|line_chart Import|44580.8|2|line_chart Year|2008|0|line_chart Export|42525.4|1|line_chart Import|62685.1|2|line_chart Year|2007|0|line_chart Export|38762.0|1|line_chart Import|59961.2|2|line_chart Year|2006|0|line_chart Export|28678.0|1|line_chart Import|42992.7|2|line_chart Year|2005|0|line_chart Export|24045.7|1|line_chart Import|37427.3|2|line_chart "
-single_line_data = "Year|2013|x|line_chart Amount_spent_in_U.S._dollars|46.58|y|line_chart Year|2014|x|line_chart Amount_spent_in_U.S._dollars|47.39|y|line_chart Year|2015|x|line_chart Amount_spent_in_U.S._dollars|51.52|y|line_chart Year|2016|x|line_chart Amount_spent_in_U.S._dollars|56.15|y|line_chart "
+# single_line_data = "Year|2013|x|line_chart Amount_spent_in_U.S._dollars|46.58|y|line_chart Year|2014|x|line_chart Amount_spent_in_U.S._dollars|47.39|y|line_chart Year|2015|x|line_chart Amount_spent_in_U.S._dollars|51.52|y|line_chart Year|2016|x|line_chart Amount_spent_in_U.S._dollars|56.15|y|line_chart "
 
-# summarize(data=bar_data, name="bar_data", title="Test")
-# summarize(data = group_bar_data, name = "group_bar_data", title="Test")
-# summarize(data = single_line_data, name = "single_line_data", title="Test")
-# summarize(data = multi_line_data, name = "multi_line_data", title="Test")
+# summarize(data=bar_data, all_y_label="TEST", name="bar_data", title="Test")
+# summarize(data = group_bar_data,all_y_label="TEST", name = "group_bar_data", title="Test")
+# summarize(data = single_line_data, all_y_label="TEST", name = "single_line_data", title="Test")
+# summarize(data = multi_line_data,all_y_label="TEST", name = "multi_line_data", title="Test")
 
 # summarize(data=group_bar_data, all_y_label=grp_bar_y_label.rstrip('\n'), name=grp_bar_title, title=grp_bar_title.rstrip('\n'))
 
@@ -2588,49 +3065,49 @@ single_line_data = "Year|2013|x|line_chart Amount_spent_in_U.S._dollars|46.58|y|
 
 # Single Line Charts
 
-# print("\nChart 2")
-# single_line_chart_7 = "Year|2018|x|line_chart Number_of_employees|12239|y|line_chart Year|2017|x|line_chart Number_of_employees|11886|y|line_chart Year|2016|x|line_chart Number_of_employees|11865|y|line_chart Year|2015|x|line_chart Number_of_employees|10997|y|line_chart Year|2014|x|line_chart Number_of_employees|10410|y|line_chart Year|2013|x|line_chart Number_of_employees|9694|y|line_chart Year|2012|x|line_chart Number_of_employees|8966|y|line_chart Year|2011|x|line_chart Number_of_employees|8294|y|line_chart"
-# summarize(data = single_line_chart_7, name = "single_line_chart_7", title="Test")
+print("\nChart 2")
+single_line_chart_7 = "Year|2018|x|line_chart Number_of_employees|12239|y|line_chart Year|2017|x|line_chart Number_of_employees|11886|y|line_chart Year|2016|x|line_chart Number_of_employees|11865|y|line_chart Year|2015|x|line_chart Number_of_employees|10997|y|line_chart Year|2014|x|line_chart Number_of_employees|10410|y|line_chart Year|2013|x|line_chart Number_of_employees|9694|y|line_chart Year|2012|x|line_chart Number_of_employees|8966|y|line_chart Year|2011|x|line_chart Number_of_employees|8294|y|line_chart"
+summarize(data = single_line_chart_7,all_y_label="TEST", name = "single_line_chart_7", title="Test")
 
 # print("\nChart 3")
 # single_line_chart_9 = "Year|2019|x|line_chart Average_attendance|67431|y|line_chart Year|2018|x|line_chart Average_attendance|65765|y|line_chart Year|2017|x|line_chart Average_attendance|63882|y|line_chart Year|2016|x|line_chart Average_attendance|64311|y|line_chart Year|2015|x|line_chart Average_attendance|66186|y|line_chart Year|2014|x|line_chart Average_attendance|67425|y|line_chart Year|2013|x|line_chart Average_attendance|71242|y|line_chart Year|2012|x|line_chart Average_attendance|66632|y|line_chart Year|2011|x|line_chart Average_attendance|65859|y|line_chart Year|2010|x|line_chart Average_attendance|66116|y|line_chart Year|2009|x|line_chart Average_attendance|68888|y|line_chart Year|2008|x|line_chart Average_attendance|72778|y|line_chart "
-# summarize(data = single_line_chart_9, name = "single_line_chart_9", title="Test")
+# summarize(data = single_line_chart_9,all_y_label="TEST", name = "single_line_chart_9", title="Test")
 
-# # print("\nChart 4")
-# # single_line_chart_15 = "Year|2018|x|line_chart Production_in_billion_cubic_meters|831.8|y|line_chart Year|2017|x|line_chart Production_in_billion_cubic_meters|745.8|y|line_chart Year|2016|x|line_chart Production_in_billion_cubic_meters|727.4|y|line_chart Year|2015|x|line_chart Production_in_billion_cubic_meters|740.3|y|line_chart Year|2014|x|line_chart Production_in_billion_cubic_meters|704.7|y|line_chart Year|2013|x|line_chart Production_in_billion_cubic_meters|655.7|y|line_chart Year|2012|x|line_chart Production_in_billion_cubic_meters|649.1|y|line_chart Year|2011|x|line_chart Production_in_billion_cubic_meters|617.4|y|line_chart Year|2010|x|line_chart Production_in_billion_cubic_meters|575.2|y|line_chart Year|2009|x|line_chart Production_in_billion_cubic_meters|557.6|y|line_chart Year|2008|x|line_chart Production_in_billion_cubic_meters|546.1|y|line_chart Year|2007|x|line_chart Production_in_billion_cubic_meters|521.9|y|line_chart Year|2006|x|line_chart Production_in_billion_cubic_meters|524.0|y|line_chart Year|2005|x|line_chart Production_in_billion_cubic_meters|511.1|y|line_chart Year|2004|x|line_chart Production_in_billion_cubic_meters|526.4|y|line_chart Year|2003|x|line_chart Production_in_billion_cubic_meters|540.8|y|line_chart Year|2002|x|line_chart Production_in_billion_cubic_meters|536.0|y|line_chart Year|2001|x|line_chart Production_in_billion_cubic_meters|555.5|y|line_chart Year|2000|x|line_chart Production_in_billion_cubic_meters|543.2|y|line_chart Year|1998|x|line_chart Production_in_billion_cubic_meters|538.7|y|line_chart "
-# # summarize(data = single_line_chart_15, name = "single_line_chart_15", title="Test")
+# print("\nChart 4")
+# single_line_chart_15 = "Year|2018|x|line_chart Production_in_billion_cubic_meters|831.8|y|line_chart Year|2017|x|line_chart Production_in_billion_cubic_meters|745.8|y|line_chart Year|2016|x|line_chart Production_in_billion_cubic_meters|727.4|y|line_chart Year|2015|x|line_chart Production_in_billion_cubic_meters|740.3|y|line_chart Year|2014|x|line_chart Production_in_billion_cubic_meters|704.7|y|line_chart Year|2013|x|line_chart Production_in_billion_cubic_meters|655.7|y|line_chart Year|2012|x|line_chart Production_in_billion_cubic_meters|649.1|y|line_chart Year|2011|x|line_chart Production_in_billion_cubic_meters|617.4|y|line_chart Year|2010|x|line_chart Production_in_billion_cubic_meters|575.2|y|line_chart Year|2009|x|line_chart Production_in_billion_cubic_meters|557.6|y|line_chart Year|2008|x|line_chart Production_in_billion_cubic_meters|546.1|y|line_chart Year|2007|x|line_chart Production_in_billion_cubic_meters|521.9|y|line_chart Year|2006|x|line_chart Production_in_billion_cubic_meters|524.0|y|line_chart Year|2005|x|line_chart Production_in_billion_cubic_meters|511.1|y|line_chart Year|2004|x|line_chart Production_in_billion_cubic_meters|526.4|y|line_chart Year|2003|x|line_chart Production_in_billion_cubic_meters|540.8|y|line_chart Year|2002|x|line_chart Production_in_billion_cubic_meters|536.0|y|line_chart Year|2001|x|line_chart Production_in_billion_cubic_meters|555.5|y|line_chart Year|2000|x|line_chart Production_in_billion_cubic_meters|543.2|y|line_chart Year|1998|x|line_chart Production_in_billion_cubic_meters|538.7|y|line_chart "
+# summarize(data = single_line_chart_15, all_y_label="TEST",name = "single_line_chart_15", title="Test")
 
-# print("\nChart 5")
-# single_line_chart_19 = "Year|2024|x|line_chart Inflation_rate_compared_to_previous_year|3.97|y|line_chart Year|2023|x|line_chart Inflation_rate_compared_to_previous_year|3.98|y|line_chart Year|2022|x|line_chart Inflation_rate_compared_to_previous_year|4.05|y|line_chart Year|2021|x|line_chart Inflation_rate_compared_to_previous_year|4.07|y|line_chart Year|2020|x|line_chart Inflation_rate_compared_to_previous_year|4.09|y|line_chart Year|2019|x|line_chart Inflation_rate_compared_to_previous_year|3.44|y|line_chart Year|2018|x|line_chart Inflation_rate_compared_to_previous_year|3.43|y|line_chart Year|2017|x|line_chart Inflation_rate_compared_to_previous_year|3.6|y|line_chart Year|2016|x|line_chart Inflation_rate_compared_to_previous_year|4.5|y|line_chart Year|2015|x|line_chart Inflation_rate_compared_to_previous_year|4.9|y|line_chart Year|2014|x|line_chart Inflation_rate_compared_to_previous_year|5.8|y|line_chart Year|2013|x|line_chart Inflation_rate_compared_to_previous_year|9.4|y|line_chart Year|2012|x|line_chart Inflation_rate_compared_to_previous_year|10|y|line_chart Year|2011|x|line_chart Inflation_rate_compared_to_previous_year|9.5|y|line_chart Year|2010|x|line_chart Inflation_rate_compared_to_previous_year|10.53|y|line_chart Year|2009|x|line_chart Inflation_rate_compared_to_previous_year|12.31|y|line_chart Year|2008|x|line_chart Inflation_rate_compared_to_previous_year|9.09|y|line_chart Year|2007|x|line_chart Inflation_rate_compared_to_previous_year|6.2|y|line_chart Year|2006|x|line_chart Inflation_rate_compared_to_previous_year|6.7|y|line_chart Year|2005|x|line_chart Inflation_rate_compared_to_previous_year|4.4|y|line_chart Year|2004|x|line_chart Inflation_rate_compared_to_previous_year|3.82|y|line_chart Year|2003|x|line_chart Inflation_rate_compared_to_previous_year|3.86|y|line_chart Year|2002|x|line_chart Inflation_rate_compared_to_previous_year|3.98|y|line_chart Year|2001|x|line_chart Inflation_rate_compared_to_previous_year|4.31|y|line_chart Year|2000|x|line_chart Inflation_rate_compared_to_previous_year|3.83|y|line_chart Year|1999|x|line_chart Inflation_rate_compared_to_previous_year|5.7|y|line_chart Year|1998|x|line_chart Inflation_rate_compared_to_previous_year|13.13|y|line_chart Year|1997|x|line_chart Inflation_rate_compared_to_previous_year|6.84|y|line_chart Year|1996|x|line_chart Inflation_rate_compared_to_previous_year|9.43|y|line_chart Year|1995|x|line_chart Inflation_rate_compared_to_previous_year|9.96|y|line_chart Year|1994|x|line_chart Inflation_rate_compared_to_previous_year|10.28|y|line_chart Year|1993|x|line_chart Inflation_rate_compared_to_previous_year|7.28|y|line_chart Year|1992|x|line_chart Inflation_rate_compared_to_previous_year|9.86|y|line_chart Year|1991|x|line_chart Inflation_rate_compared_to_previous_year|13.48|y|line_chart Year|1990|x|line_chart Inflation_rate_compared_to_previous_year|11.2|y|line_chart Year|1989|x|line_chart Inflation_rate_compared_to_previous_year|4.57|y|line_chart Year|1988|x|line_chart Inflation_rate_compared_to_previous_year|7.21|y|line_chart Year|1987|x|line_chart Inflation_rate_compared_to_previous_year|9.06|y|line_chart Year|1986|x|line_chart Inflation_rate_compared_to_previous_year|8.89|y|line_chart Year|1985|x|line_chart Inflation_rate_compared_to_previous_year|6.25|y|line_chart Year|1984|x|line_chart Inflation_rate_compared_to_previous_year|6.52|y|line_chart "
-# summarize(data = single_line_chart_19, name = "single_line_chart_19", title="Test")
+print("\nChart 5")
+single_line_chart_19 = "Year|2024|x|line_chart Inflation_rate_compared_to_previous_year|3.97|y|line_chart Year|2023|x|line_chart Inflation_rate_compared_to_previous_year|3.98|y|line_chart Year|2022|x|line_chart Inflation_rate_compared_to_previous_year|4.05|y|line_chart Year|2021|x|line_chart Inflation_rate_compared_to_previous_year|4.07|y|line_chart Year|2020|x|line_chart Inflation_rate_compared_to_previous_year|4.09|y|line_chart Year|2019|x|line_chart Inflation_rate_compared_to_previous_year|3.44|y|line_chart Year|2018|x|line_chart Inflation_rate_compared_to_previous_year|3.43|y|line_chart Year|2017|x|line_chart Inflation_rate_compared_to_previous_year|3.6|y|line_chart Year|2016|x|line_chart Inflation_rate_compared_to_previous_year|4.5|y|line_chart Year|2015|x|line_chart Inflation_rate_compared_to_previous_year|4.9|y|line_chart Year|2014|x|line_chart Inflation_rate_compared_to_previous_year|5.8|y|line_chart Year|2013|x|line_chart Inflation_rate_compared_to_previous_year|9.4|y|line_chart Year|2012|x|line_chart Inflation_rate_compared_to_previous_year|10|y|line_chart Year|2011|x|line_chart Inflation_rate_compared_to_previous_year|9.5|y|line_chart Year|2010|x|line_chart Inflation_rate_compared_to_previous_year|10.53|y|line_chart Year|2009|x|line_chart Inflation_rate_compared_to_previous_year|12.31|y|line_chart Year|2008|x|line_chart Inflation_rate_compared_to_previous_year|9.09|y|line_chart Year|2007|x|line_chart Inflation_rate_compared_to_previous_year|6.2|y|line_chart Year|2006|x|line_chart Inflation_rate_compared_to_previous_year|6.7|y|line_chart Year|2005|x|line_chart Inflation_rate_compared_to_previous_year|4.4|y|line_chart Year|2004|x|line_chart Inflation_rate_compared_to_previous_year|3.82|y|line_chart Year|2003|x|line_chart Inflation_rate_compared_to_previous_year|3.86|y|line_chart Year|2002|x|line_chart Inflation_rate_compared_to_previous_year|3.98|y|line_chart Year|2001|x|line_chart Inflation_rate_compared_to_previous_year|4.31|y|line_chart Year|2000|x|line_chart Inflation_rate_compared_to_previous_year|3.83|y|line_chart Year|1999|x|line_chart Inflation_rate_compared_to_previous_year|5.7|y|line_chart Year|1998|x|line_chart Inflation_rate_compared_to_previous_year|13.13|y|line_chart Year|1997|x|line_chart Inflation_rate_compared_to_previous_year|6.84|y|line_chart Year|1996|x|line_chart Inflation_rate_compared_to_previous_year|9.43|y|line_chart Year|1995|x|line_chart Inflation_rate_compared_to_previous_year|9.96|y|line_chart Year|1994|x|line_chart Inflation_rate_compared_to_previous_year|10.28|y|line_chart Year|1993|x|line_chart Inflation_rate_compared_to_previous_year|7.28|y|line_chart Year|1992|x|line_chart Inflation_rate_compared_to_previous_year|9.86|y|line_chart Year|1991|x|line_chart Inflation_rate_compared_to_previous_year|13.48|y|line_chart Year|1990|x|line_chart Inflation_rate_compared_to_previous_year|11.2|y|line_chart Year|1989|x|line_chart Inflation_rate_compared_to_previous_year|4.57|y|line_chart Year|1988|x|line_chart Inflation_rate_compared_to_previous_year|7.21|y|line_chart Year|1987|x|line_chart Inflation_rate_compared_to_previous_year|9.06|y|line_chart Year|1986|x|line_chart Inflation_rate_compared_to_previous_year|8.89|y|line_chart Year|1985|x|line_chart Inflation_rate_compared_to_previous_year|6.25|y|line_chart Year|1984|x|line_chart Inflation_rate_compared_to_previous_year|6.52|y|line_chart "
+summarize(data = single_line_chart_19,all_y_label="TEST", name = "single_line_chart_19", title="Test")
 
 # print("\nChart 6")
 # single_line_chart_24= "Year|2024|x|line_chart Gross_domestic_product_in_billion_U.S._dollars|90.56|y|line_chart Year|2023|x|line_chart Gross_domestic_product_in_billion_U.S._dollars|87.02|y|line_chart Year|2022|x|line_chart Gross_domestic_product_in_billion_U.S._dollars|84.05|y|line_chart Year|2021|x|line_chart Gross_domestic_product_in_billion_U.S._dollars|81.9|y|line_chart Year|2020|x|line_chart Gross_domestic_product_in_billion_U.S._dollars|78.66|y|line_chart Year|2019|x|line_chart Gross_domestic_product_in_billion_U.S._dollars|76.61|y|line_chart Year|2018|x|line_chart Gross_domestic_product_in_billion_U.S._dollars|79.28|y|line_chart Year|2017|x|line_chart Gross_domestic_product_in_billion_U.S._dollars|70.6|y|line_chart Year|2016|x|line_chart Gross_domestic_product_in_billion_U.S._dollars|65.48|y|line_chart Year|2015|x|line_chart Gross_domestic_product_in_billion_U.S._dollars|68.92|y|line_chart Year|2014|x|line_chart Gross_domestic_product_in_billion_U.S._dollars|81.08|y|line_chart Year|2013|x|line_chart Gross_domestic_product_in_billion_U.S._dollars|78.78|y|line_chart Year|2012|x|line_chart Gross_domestic_product_in_billion_U.S._dollars|76.62|y|line_chart Year|2011|x|line_chart Gross_domestic_product_in_billion_U.S._dollars|68.02|y|line_chart Year|2010|x|line_chart Gross_domestic_product_in_billion_U.S._dollars|57.05|y|line_chart Year|2009|x|line_chart Gross_domestic_product_in_billion_U.S._dollars|48.39|y|line_chart Year|2008|x|line_chart Gross_domestic_product_in_billion_U.S._dollars|60.91|y|line_chart Year|2007|x|line_chart Gross_domestic_product_in_billion_U.S._dollars|42.09|y|line_chart Year|2006|x|line_chart Gross_domestic_product_in_billion_U.S._dollars|37.22|y|line_chart Year|2005|x|line_chart Gross_domestic_product_in_billion_U.S._dollars|31.08|y|line_chart Year|2004|x|line_chart Gross_domestic_product_in_billion_U.S._dollars|24.76|y|line_chart Year|2003|x|line_chart Gross_domestic_product_in_billion_U.S._dollars|21.63|y|line_chart Year|2002|x|line_chart Gross_domestic_product_in_billion_U.S._dollars|20.14|y|line_chart Year|2001|x|line_chart Gross_domestic_product_in_billion_U.S._dollars|19.45|y|line_chart Year|2000|x|line_chart Gross_domestic_product_in_billion_U.S._dollars|19.51|y|line_chart Year|1999|x|line_chart Gross_domestic_product_in_billion_U.S._dollars|15.59|y|line_chart Year|1998|x|line_chart Gross_domestic_product_in_billion_U.S._dollars|14.0|y|line_chart Year|1997|x|line_chart Gross_domestic_product_in_billion_U.S._dollars|15.84|y|line_chart Year|1996|x|line_chart Gross_domestic_product_in_billion_U.S._dollars|15.28|y|line_chart Year|1995|x|line_chart Gross_domestic_product_in_billion_U.S._dollars|13.8|y|line_chart Year|1994|x|line_chart Gross_domestic_product_in_billion_U.S._dollars|12.92|y|line_chart Year|1993|x|line_chart Gross_domestic_product_in_billion_U.S._dollars|12.49|y|line_chart Year|1992|x|line_chart Gross_domestic_product_in_billion_U.S._dollars|12.45|y|line_chart Year|1991|x|line_chart Gross_domestic_product_in_billion_U.S._dollars|11.34|y|line_chart Year|1990|x|line_chart Gross_domestic_product_in_billion_U.S._dollars|11.69|y|line_chart Year|1989|x|line_chart Gross_domestic_product_in_billion_U.S._dollars|9.37|y|line_chart Year|1988|x|line_chart Gross_domestic_product_in_billion_U.S._dollars|8.39|y|line_chart Year|1987|x|line_chart Gross_domestic_product_in_billion_U.S._dollars|8.63|y|line_chart Year|1986|x|line_chart Gross_domestic_product_in_billion_U.S._dollars|8.23|y|line_chart Year|1985|x|line_chart Gross_domestic_product_in_billion_U.S._dollars|10.4|y|line_chart Year|1984|x|line_chart Gross_domestic_product_in_billion_U.S._dollars|9.36|y|line_chart "
-# summarize(data = single_line_chart_24, name = "single_line_chart_24", title="Test")
+# summarize(data = single_line_chart_24, all_y_label="TEST",name = "single_line_chart_24", title="Test")
 
 # print("\nChart 7")
 # single_line_chart_27= "Year|2018|x|line_chart Average_annual_wages_in_euros|29601|y|line_chart Year|2017|x|line_chart Average_annual_wages_in_euros|29558|y|line_chart Year|2016|x|line_chart Average_annual_wages_in_euros|29843|y|line_chart Year|2015|x|line_chart Average_annual_wages_in_euros|29634|y|line_chart Year|2014|x|line_chart Average_annual_wages_in_euros|29390|y|line_chart Year|2013|x|line_chart Average_annual_wages_in_euros|29277|y|line_chart Year|2012|x|line_chart Average_annual_wages_in_euros|29231|y|line_chart Year|2011|x|line_chart Average_annual_wages_in_euros|30140|y|line_chart Year|2010|x|line_chart Average_annual_wages_in_euros|30620|y|line_chart Year|2009|x|line_chart Average_annual_wages_in_euros|30330|y|line_chart Year|2008|x|line_chart Average_annual_wages_in_euros|30179|y|line_chart Year|2007|x|line_chart Average_annual_wages_in_euros|30148|y|line_chart Year|2006|x|line_chart Average_annual_wages_in_euros|30176|y|line_chart Year|2005|x|line_chart Average_annual_wages_in_euros|29970|y|line_chart Year|2004|x|line_chart Average_annual_wages_in_euros|29636|y|line_chart Year|2003|x|line_chart Average_annual_wages_in_euros|29042|y|line_chart Year|2002|x|line_chart Average_annual_wages_in_euros|29073|y|line_chart Year|2001|x|line_chart Average_annual_wages_in_euros|29272|y|line_chart Year|2000|x|line_chart Average_annual_wages_in_euros|29125|y|line_chart "
-# summarize(data = single_line_chart_27, name = "single_line_chart_27", title="Test")
+# summarize(data = single_line_chart_27, all_y_label="TEST",name = "single_line_chart_27", title="Test")
 
 # print("\nChart 8")
 # single_line_chart_28= "Year|2022|x|line_chart Net_revenue_in_billion_U.S._dollars|356$|y|line_chart Year|2021|x|line_chart Net_revenue_in_billion_U.S._dollars|316$|y|line_chart Year|2020|x|line_chart Net_revenue_in_billion_U.S._dollars|276$|y|line_chart Year|2019|x|line_chart Net_revenue_in_billion_U.S._dollars|238$|y|line_chart Year|2018|x|line_chart Net_revenue_in_billion_U.S._dollars|201$|y|line_chart Year|2017|x|line_chart Net_revenue_in_billion_U.S._dollars|166$|y|line_chart Year|2016|x|line_chart Net_revenue_in_billion_U.S._dollars|136$|y|line_chart Year|2015|x|line_chart Net_revenue_in_billion_U.S._dollars|107$|y|line_chart Year|2014|x|line_chart Net_revenue_in_billion_U.S._dollars|89$|y|line_chart Year|2013|x|line_chart Net_revenue_in_billion_U.S._dollars|74$|y|line_chart Year|2012|x|line_chart Net_revenue_in_billion_U.S._dollars|61$|y|line_chart Year|2011|x|line_chart Net_revenue_in_billion_U.S._dollars|48$|y|line_chart Year|2010|x|line_chart Net_revenue_in_billion_U.S._dollars|34$|y|line_chart Year|2009|x|line_chart Net_revenue_in_billion_U.S._dollars|25$|y|line_chart Year|2008|x|line_chart Net_revenue_in_billion_U.S._dollars|19$|y|line_chart Year|2007|x|line_chart Net_revenue_in_billion_U.S._dollars|15$|y|line_chart Year|2006|x|line_chart Net_revenue_in_billion_U.S._dollars|11$|y|line_chart Year|2005|x|line_chart Net_revenue_in_billion_U.S._dollars|8$|y|line_chart Year|2004|x|line_chart Net_revenue_in_billion_U.S._dollars|7$|y|line_chart Year|2003|x|line_chart Net_revenue_in_billion_U.S._dollars|5$|y|line_chart Year|2002|x|line_chart Net_revenue_in_billion_U.S._dollars|4$|y|line_chart "
-# summarize(data = single_line_chart_28, name = "single_line_chart_28", title="Test")
+# summarize(data = single_line_chart_28,all_y_label="TEST", name = "single_line_chart_28", title="Test")
 
 # print("\nChart 9")
 # single_line_chart_31= "Year|2000|x|line_chart Unemployment_rate|6.8|y|line_chart Year|2001|x|line_chart Unemployment_rate|6.4|y|line_chart Year|2002|x|line_chart Unemployment_rate|6.3|y|line_chart Year|2003|x|line_chart Unemployment_rate|5.7|y|line_chart Year|2004|x|line_chart Unemployment_rate|5.7|y|line_chart Year|2005|x|line_chart Unemployment_rate|5.4|y|line_chart Year|2006|x|line_chart Unemployment_rate|5.3|y|line_chart Year|2007|x|line_chart Unemployment_rate|4.8|y|line_chart Year|2008|x|line_chart Unemployment_rate|4.7|y|line_chart Year|2009|x|line_chart Unemployment_rate|7|y|line_chart Year|2010|x|line_chart Unemployment_rate|8.2|y|line_chart Year|2011|x|line_chart Unemployment_rate|8.1|y|line_chart Year|2012|x|line_chart Unemployment_rate|8|y|line_chart Year|2013|x|line_chart Unemployment_rate|7.3|y|line_chart Year|2014|x|line_chart Unemployment_rate|6|y|line_chart Year|2015|x|line_chart Unemployment_rate|5.8|y|line_chart Year|2016|x|line_chart Unemployment_rate|5.2|y|line_chart Year|2017|x|line_chart Unemployment_rate|4.2|y|line_chart Year|2018|x|line_chart Unemployment_rate|3.9|y|line_chart Year|2019|x|line_chart Unemployment_rate|3.6|y|line_chart "
-# summarize(data = single_line_chart_31, name = "single_line_chart_31", title="Test")
+# summarize(data = single_line_chart_31, all_y_label="TEST",name = "single_line_chart_31", title="Test")
 
 # print("\nChart 10")
 # single_line_chart_36= "Year|2024|x|line_chart Inflation_rate_compared_to_previous_year|2|y|line_chart Year|2023|x|line_chart Inflation_rate_compared_to_previous_year|1.9|y|line_chart Year|2022|x|line_chart Inflation_rate_compared_to_previous_year|1.8|y|line_chart Year|2021|x|line_chart Inflation_rate_compared_to_previous_year|1.4|y|line_chart Year|2020|x|line_chart Inflation_rate_compared_to_previous_year|0.89|y|line_chart Year|2019|x|line_chart Inflation_rate_compared_to_previous_year|0.46|y|line_chart Year|2018|x|line_chart Inflation_rate_compared_to_previous_year|1.48|y|line_chart Year|2017|x|line_chart Inflation_rate_compared_to_previous_year|1.94|y|line_chart Year|2016|x|line_chart Inflation_rate_compared_to_previous_year|0.97|y|line_chart Year|2015|x|line_chart Inflation_rate_compared_to_previous_year|0.71|y|line_chart Year|2014|x|line_chart Inflation_rate_compared_to_previous_year|1.28|y|line_chart Year|2013|x|line_chart Inflation_rate_compared_to_previous_year|1.3|y|line_chart Year|2012|x|line_chart Inflation_rate_compared_to_previous_year|2.19|y|line_chart Year|2011|x|line_chart Inflation_rate_compared_to_previous_year|4.03|y|line_chart Year|2010|x|line_chart Inflation_rate_compared_to_previous_year|2.94|y|line_chart Year|2009|x|line_chart Inflation_rate_compared_to_previous_year|2.76|y|line_chart Year|2008|x|line_chart Inflation_rate_compared_to_previous_year|4.67|y|line_chart Year|2007|x|line_chart Inflation_rate_compared_to_previous_year|2.54|y|line_chart Year|2006|x|line_chart Inflation_rate_compared_to_previous_year|2.24|y|line_chart Year|2005|x|line_chart Inflation_rate_compared_to_previous_year|2.75|y|line_chart Year|2004|x|line_chart Inflation_rate_compared_to_previous_year|3.59|y|line_chart Year|2003|x|line_chart Inflation_rate_compared_to_previous_year|3.52|y|line_chart Year|2002|x|line_chart Inflation_rate_compared_to_previous_year|2.76|y|line_chart Year|2001|x|line_chart Inflation_rate_compared_to_previous_year|4.07|y|line_chart Year|2000|x|line_chart Inflation_rate_compared_to_previous_year|2.26|y|line_chart Year|1999|x|line_chart Inflation_rate_compared_to_previous_year|0.81|y|line_chart Year|1998|x|line_chart Inflation_rate_compared_to_previous_year|7.51|y|line_chart Year|1997|x|line_chart Inflation_rate_compared_to_previous_year|4.44|y|line_chart Year|1996|x|line_chart Inflation_rate_compared_to_previous_year|4.93|y|line_chart Year|1995|x|line_chart Inflation_rate_compared_to_previous_year|4.48|y|line_chart Year|1994|x|line_chart Inflation_rate_compared_to_previous_year|6.27|y|line_chart Year|1993|x|line_chart Inflation_rate_compared_to_previous_year|4.8|y|line_chart Year|1992|x|line_chart Inflation_rate_compared_to_previous_year|6.21|y|line_chart Year|1991|x|line_chart Inflation_rate_compared_to_previous_year|9.33|y|line_chart Year|1990|x|line_chart Inflation_rate_compared_to_previous_year|8.57|y|line_chart Year|1989|x|line_chart Inflation_rate_compared_to_previous_year|5.7|y|line_chart Year|1988|x|line_chart Inflation_rate_compared_to_previous_year|7.15|y|line_chart Year|1987|x|line_chart Inflation_rate_compared_to_previous_year|3.05|y|line_chart Year|1986|x|line_chart Inflation_rate_compared_to_previous_year|2.75|y|line_chart Year|1985|x|line_chart Inflation_rate_compared_to_previous_year|2.46|y|line_chart Year|1984|x|line_chart Inflation_rate_compared_to_previous_year|2.27|y|line_chart "
-# summarize(data = single_line_chart_36, name = "single_line_chart_36", title="Test")
+# summarize(data = single_line_chart_36, all_y_label="TEST",name = "single_line_chart_36", title="Test")
 
 # print("\nChart 11")
 # single_line_chart_50 ="Year|2019|x|line_chart Dividend_per_share_in_euros|0.9|y|line_chart Year|2018|x|line_chart Dividend_per_share_in_euros|3.25|y|line_chart Year|2017|x|line_chart Dividend_per_share_in_euros|3.65|y|line_chart Year|2016|x|line_chart Dividend_per_share_in_euros|3.25|y|line_chart Year|2015|x|line_chart Dividend_per_share_in_euros|3.25|y|line_chart Year|2014|x|line_chart Dividend_per_share_in_euros|2.45|y|line_chart Year|2013|x|line_chart Dividend_per_share_in_euros|2.25|y|line_chart Year|2012|x|line_chart Dividend_per_share_in_euros|2.2|y|line_chart Year|2011|x|line_chart Dividend_per_share_in_euros|2.2|y|line_chart Year|2010|x|line_chart Dividend_per_share_in_euros|1.85|y|line_chart Year|2009|x|line_chart Dividend_per_share_in_euros|0.0|y|line_chart Year|2008|x|line_chart Dividend_per_share_in_euros|0.6|y|line_chart Year|2007|x|line_chart Dividend_per_share_in_euros|2.0|y|line_chart Year|2006|x|line_chart Dividend_per_share_in_euros|1.5|y|line_chart "
-# summarize(data = single_line_chart_50, name = "single_line_chart_50", title="Test")
+# summarize(data = single_line_chart_50, all_y_label="TEST",name = "single_line_chart_50", title="Test")
 
 # print("\nChart 12")
 # single_line_chart_89= "Year|2024|x|line_chart Inflation_rate_compared_to_previous_year|4|y|line_chart Year|2023|x|line_chart Inflation_rate_compared_to_previous_year|4|y|line_chart Year|2022|x|line_chart Inflation_rate_compared_to_previous_year|4|y|line_chart Year|2021|x|line_chart Inflation_rate_compared_to_previous_year|3.9|y|line_chart Year|2020|x|line_chart Inflation_rate_compared_to_previous_year|3.52|y|line_chart Year|2019|x|line_chart Inflation_rate_compared_to_previous_year|4.68|y|line_chart Year|2018|x|line_chart Inflation_rate_compared_to_previous_year|2.88|y|line_chart Year|2017|x|line_chart Inflation_rate_compared_to_previous_year|3.68|y|line_chart Year|2016|x|line_chart Inflation_rate_compared_to_previous_year|7.04|y|line_chart Year|2015|x|line_chart Inflation_rate_compared_to_previous_year|15.53|y|line_chart Year|2014|x|line_chart Inflation_rate_compared_to_previous_year|7.82|y|line_chart Year|2013|x|line_chart Inflation_rate_compared_to_previous_year|6.76|y|line_chart Year|2012|x|line_chart Inflation_rate_compared_to_previous_year|5.07|y|line_chart Year|2011|x|line_chart Inflation_rate_compared_to_previous_year|8.44|y|line_chart Year|2010|x|line_chart Inflation_rate_compared_to_previous_year|6.85|y|line_chart Year|2009|x|line_chart Inflation_rate_compared_to_previous_year|11.65|y|line_chart Year|2008|x|line_chart Inflation_rate_compared_to_previous_year|14.11|y|line_chart Year|2007|x|line_chart Inflation_rate_compared_to_previous_year|9.01|y|line_chart Year|2006|x|line_chart Inflation_rate_compared_to_previous_year|9.68|y|line_chart Year|2005|x|line_chart Inflation_rate_compared_to_previous_year|12.68|y|line_chart Year|2004|x|line_chart Inflation_rate_compared_to_previous_year|10.89|y|line_chart Year|2003|x|line_chart Inflation_rate_compared_to_previous_year|13.67|y|line_chart Year|2002|x|line_chart Inflation_rate_compared_to_previous_year|15.78|y|line_chart Year|2001|x|line_chart Inflation_rate_compared_to_previous_year|21.46|y|line_chart Year|2000|x|line_chart Inflation_rate_compared_to_previous_year|20.78|y|line_chart Year|1999|x|line_chart Inflation_rate_compared_to_previous_year|85.74|y|line_chart Year|1998|x|line_chart Inflation_rate_compared_to_previous_year|27.68|y|line_chart Year|1997|x|line_chart Inflation_rate_compared_to_previous_year|14.77|y|line_chart Year|1996|x|line_chart Inflation_rate_compared_to_previous_year|47.74|y|line_chart Year|1995|x|line_chart Inflation_rate_compared_to_previous_year|197.47|y|line_chart Year|1994|x|line_chart Inflation_rate_compared_to_previous_year|307.63|y|line_chart "
-# summarize(data = single_line_chart_89, name = "single_line_chart_89", title="Test")
+# summarize(data = single_line_chart_89, all_y_label="TEST",name = "single_line_chart_89", title="Test")
 
 
 
@@ -2641,33 +3118,34 @@ single_line_data = "Year|2013|x|line_chart Amount_spent_in_U.S._dollars|46.58|y|
 
 # print("\nChart 2")
 # multi_line_chart_32= "Year|2002|0|line_chart Male|10.4|1|line_chart Female|4.7|2|line_chart Year|2012|0|line_chart Male|10.6|1|line_chart Female|5.1|2|line_chart Year|2016|0|line_chart Male|10.9|1|line_chart Female|5.2|2|line_chart"
-# summarize(data = multi_line_chart_32, name = "multi_line_chart_32", title="Test")
+# summarize(data = multi_line_chart_32, all_y_label="TEST",name = "multi_line_chart_32", title="Test")
 
 # print("\nChart 3")
 # multi_line_chart_85= "Year|2006|0|line_chart Establishments|7.6|1|line_chart Employees|156|2|line_chart Year|2007|0|line_chart Establishments|9.3|1|line_chart Employees|184|2|line_chart Year|2008|0|line_chart Establishments|4.5|1|line_chart Employees|137|2|line_chart Year|2009|0|line_chart Establishments|4.9|1|line_chart Employees|115|2|line_chart "
-# summarize(data = multi_line_chart_85, name = "multi_line_chart_85", title="Test")
+# summarize(data = multi_line_chart_85, all_y_label="TEST",name = "multi_line_chart_85", title="Test")
 
 
 # print("\nChart 4")
 # multi_line_chart_96= "Year|2019|0|line_chart Agriculture|1.79|1|line_chart Industry|17.81|2|line_chart Services|80.39|3|line_chart Year|2018|0|line_chart Agriculture|1.81|1|line_chart Industry|17.98|2|line_chart Services|80.21|3|line_chart Year|2017|0|line_chart Agriculture|1.83|1|line_chart Industry|18.17|2|line_chart Services|80.01|3|line_chart Year|2016|0|line_chart Agriculture|1.89|1|line_chart Industry|18.2|2|line_chart Services|79.91|3|line_chart Year|2015|0|line_chart Agriculture|2.04|1|line_chart Industry|18.29|2|line_chart Services|79.68|3|line_chart Year|2014|0|line_chart Agriculture|1.97|1|line_chart Industry|18.6|2|line_chart Services|79.42|3|line_chart Year|2013|0|line_chart Agriculture|2.03|1|line_chart Industry|19.16|2|line_chart Services|78.81|3|line_chart Year|2012|0|line_chart Agriculture|2.06|1|line_chart Industry|19.61|2|line_chart Services|78.33|3|line_chart Year|2011|0|line_chart Agriculture|1.99|1|line_chart Industry|19.93|2|line_chart Services|78.08|3|line_chart Year|2010|0|line_chart Agriculture|2.1|1|line_chart Industry|19.88|2|line_chart Services|78.02|3|line_chart Year|2009|0|line_chart Agriculture|2.18|1|line_chart Industry|20.16|2|line_chart Services|77.67|3|line_chart "
-# summarize(data = multi_line_chart_96, name = "multi_line_chart_96", title="Test")
+# summarize(data = multi_line_chart_96,all_y_label="TEST", name = "multi_line_chart_96", title="Test")
 
-print("\nChart 5")
-multi_line_chart_112= "Year|2016|0|line_chart Research_and_development|27169|1|line_chart Sales_and_marketing|20902|2|line_chart General_and_administrative|9695|3|line_chart Operations|14287|4|line_chart Year|2015|0|line_chart Research_and_development|23336|1|line_chart Sales_and_marketing|19082|2|line_chart General_and_administrative|8452|3|line_chart Operations|10944|4|line_chart Year|2014|0|line_chart Research_and_development|20832|1|line_chart Sales_and_marketing|17621|2|line_chart General_and_administrative|7510|3|line_chart Operations|7637|4|line_chart Year|2013|0|line_chart Research_and_development|18593|1|line_chart Sales_and_marketing|15348|2|line_chart General_and_administrative|6563|3|line_chart Operations|7252|4|line_chart Year|2012|0|line_chart Research_and_development|19746|1|line_chart Sales_and_marketing|15306|2|line_chart General_and_administrative|6214|3|line_chart Operations|12595|4|line_chart Year|2011|0|line_chart Research_and_development|11665|1|line_chart Sales_and_marketing|11933|2|line_chart General_and_administrative|4651|3|line_chart Operations|4218|4|line_chart Year|2010|0|line_chart Research_and_development|9508|1|line_chart Sales_and_marketing|8778|2|line_chart General_and_administrative|3346|3|line_chart Operations|2768|4|line_chart Year|2009|0|line_chart Research_and_development|7443|1|line_chart Sales_and_marketing|7338|2|line_chart General_and_administrative|2941|3|line_chart Operations|2113|4|line_chart Year|2008|0|line_chart Research_and_development|7254|1|line_chart Sales_and_marketing|8002|2|line_chart General_and_administrative|3109|3|line_chart Operations|1857|4|line_chart"
-summarize(data = multi_line_chart_112, all_y_label="TEST", name = "multi_line_chart_112", title="Test")
+# print("\nChart 5")
+# multi_line_chart_112= "Year|2016|0|line_chart Research_and_development|27169|1|line_chart Sales_and_marketing|20902|2|line_chart General_and_administrative|9695|3|line_chart Operations|14287|4|line_chart Year|2015|0|line_chart Research_and_development|23336|1|line_chart Sales_and_marketing|19082|2|line_chart General_and_administrative|8452|3|line_chart Operations|10944|4|line_chart Year|2014|0|line_chart Research_and_development|20832|1|line_chart Sales_and_marketing|17621|2|line_chart General_and_administrative|7510|3|line_chart Operations|7637|4|line_chart Year|2013|0|line_chart Research_and_development|18593|1|line_chart Sales_and_marketing|15348|2|line_chart General_and_administrative|6563|3|line_chart Operations|7252|4|line_chart Year|2012|0|line_chart Research_and_development|19746|1|line_chart Sales_and_marketing|15306|2|line_chart General_and_administrative|6214|3|line_chart Operations|12595|4|line_chart Year|2011|0|line_chart Research_and_development|11665|1|line_chart Sales_and_marketing|11933|2|line_chart General_and_administrative|4651|3|line_chart Operations|4218|4|line_chart Year|2010|0|line_chart Research_and_development|9508|1|line_chart Sales_and_marketing|8778|2|line_chart General_and_administrative|3346|3|line_chart Operations|2768|4|line_chart Year|2009|0|line_chart Research_and_development|7443|1|line_chart Sales_and_marketing|7338|2|line_chart General_and_administrative|2941|3|line_chart Operations|2113|4|line_chart Year|2008|0|line_chart Research_and_development|7254|1|line_chart Sales_and_marketing|8002|2|line_chart General_and_administrative|3109|3|line_chart Operations|1857|4|line_chart"
+# summarize(data = multi_line_chart_112, all_y_label="TEST", name = "multi_line_chart_112", title="Test")
 
 # print("\nChart 6")
 # multi_line_chart_117="Year|2010|0|line_chart Anthracite_and_bituminous|404762|1|line_chart Sub-bituminous_and_lignite|456176|2|line_chart Year|2012|0|line_chart Anthracite_and_bituminous|404762|1|line_chart Sub-bituminous_and_lignite|456176|2|line_chart Year|2014|0|line_chart Anthracite_and_bituminous|403199|1|line_chart Sub-bituminous_and_lignite|488332|2|line_chart Year|2016|0|line_chart Anthracite_and_bituminous|816214|1|line_chart Sub-bituminous_and_lignite|323117|2|line_chart Year|2018|0|line_chart Anthracite_and_bituminous|734903|1|line_chart Sub-bituminous_and_lignite|319879|2|line_chart "
-# summarize(data = multi_line_chart_117, name = "multi_line_chart_117", title="Test")
+# summarize(data = multi_line_chart_117, all_y_label="TEST",name = "multi_line_chart_117", title="Test")
 
 # print("\nChart 7")
 # multi_line_chart_128="Year|2012|0|line_chart Taste|87|1|line_chart Price|73|2|line_chart Healthfulness|61|3|line_chart Convenience|53|4|line_chart Sustainability|35|5|line_chart Year|2013|0|line_chart Taste|89|1|line_chart Price|71|2|line_chart Healthfulness|64|3|line_chart Convenience|56|4|line_chart Sustainability|36|5|line_chart Year|2014|0|line_chart Taste|90|1|line_chart Price|73|2|line_chart Healthfulness|71|3|line_chart Convenience|51|4|line_chart Sustainability|38|5|line_chart Year|2015|0|line_chart Taste|83|1|line_chart Price|68|2|line_chart Healthfulness|60|3|line_chart Convenience|52|4|line_chart Sustainability|35|5|line_chart Year|2016|0|line_chart Taste|84|1|line_chart Price|71|2|line_chart Healthfulness|64|3|line_chart Convenience|52|4|line_chart Sustainability|41|5|line_chart "
-# summarize(data = multi_line_chart_128, name = "multi_line_chart_128", title="Test")
+# summarize(data = multi_line_chart_128, all_y_label="TEST",name = "multi_line_chart_128", title="Test")
 
 # print("\nChart 8")
 # multi_line_chart_140= "Year|2019|0|line_chart EMA|12.89|1|line_chart Americas|11.72|2|line_chart Asia_Pacific|5.14|3|line_chart Year|2018|0|line_chart EMA|12.98|1|line_chart Americas|11.1|2|line_chart Asia_Pacific|4.88|3|line_chart Year|2017|0|line_chart EMA|11.5|1|line_chart Americas|10.48|2|line_chart Asia_Pacific|4.42|3|line_chart Year|2016|0|line_chart EMA|11.34|1|line_chart Americas|10.02|2|line_chart Asia_Pacific|4.06|3|line_chart Year|2015|0|line_chart EMA|11.31|1|line_chart Americas|9.34|2|line_chart Asia_Pacific|3.79|3|line_chart Year|2014|0|line_chart EMA|12.45|1|line_chart Americas|8.51|2|line_chart Asia_Pacific|3.86|3|line_chart Year|2013|0|line_chart EMA|11.64|1|line_chart Americas|7.88|2|line_chart Asia_Pacific|3.9|3|line_chart Year|2012|0|line_chart EMA|11.51|1|line_chart Americas|7.45|2|line_chart Asia_Pacific|4.07|3|line_chart Year|2011|0|line_chart EMA|11.66|1|line_chart Americas|7.05|2|line_chart Asia_Pacific|4.0|3|line_chart Year|2010|0|line_chart EMA|10.83|1|line_chart Americas|6.37|2|line_chart Asia_Pacific|3.43|3|line_chart "
-# summarize(data = multi_line_chart_140, name = "multi_line_chart_140", title="Test")
+# summarize(data = multi_line_chart_140, all_y_label="TEST", name = "multi_line_chart_140", title="Test")
 
 # print("\nChart 9")
 # multi_line_chart_274= "Year|2019|0|line_chart Jan|11.3|1|line_chart Feb|8.6|2|line_chart Mar|7.6|3|line_chart Apr|6.4|4|line_chart May|0|5|line_chart Jun|0|6|line_chart Jul|0|7|line_chart Aug|0|8|line_chart Sep|0|9|line_chart Oct|0|10|line_chart Nov|0|11|line_chart Dec|0|12|line_chart Year|2018|0|line_chart Jan|10.2|1|line_chart Feb|12.4|2|line_chart Mar|10.6|3|line_chart Apr|6.0|4|line_chart May|2.8|5|line_chart Jun|0.5|6|line_chart Jul|0|7|line_chart Aug|0.5|8|line_chart Sep|2.1|9|line_chart Oct|4.9|10|line_chart Nov|7.3|11|line_chart Dec|8.7|12|line_chart Year|2017|0|line_chart Jan|11.2|1|line_chart Feb|9.3|2|line_chart Mar|7.0|3|line_chart Apr|6.5|4|line_chart May|2.9|5|line_chart Jun|0.7|6|line_chart Jul|0.1|7|line_chart Aug|0.5|8|line_chart Sep|2.1|9|line_chart Oct|3.2|10|line_chart Nov|8.5|11|line_chart Dec|10.4|12|line_chart Year|2016|0|line_chart Jan|9.8|1|line_chart Feb|10.4|2|line_chart Mar|9.4|3|line_chart Apr|8.0|4|line_chart May|3.4|5|line_chart Jun|0.9|6|line_chart Jul|0.4|7|line_chart Aug|0.1|8|line_chart Sep|0.7|9|line_chart Oct|4.6|10|line_chart Nov|9.7|11|line_chart Dec|9|12|line_chart Year|2015|0|line_chart Jan|10.7|1|line_chart Feb|11.2|2|line_chart Mar|9.2|3|line_chart Apr|6.4|4|line_chart May|4.6|5|line_chart Jun|1.9|6|line_chart Jul|0.7|7|line_chart Aug|0.4|8|line_chart Sep|2.8|9|line_chart Oct|4.6|10|line_chart Nov|6|11|line_chart Dec|6|12|line_chart Year|2014|0|line_chart Jan|9.9|1|line_chart Feb|9.2|2|line_chart Mar|7.9|3|line_chart Apr|5.4|4|line_chart May|3.3|5|line_chart Jun|0.6|6|line_chart Jul|0.1|7|line_chart Aug|0.8|8|line_chart Sep|0.9|9|line_chart Oct|3.3|10|line_chart Nov|7.1|11|line_chart Dec|10|12|line_chart "
-# summarize(data = multi_line_chart_274, name = "multi_line_chart_274", title="Test")
+# summarize(data = multi_line_chart_274, all_y_label="TEST", name = "multi_line_chart_274", title="Test")
+

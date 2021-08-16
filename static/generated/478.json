@@ -1,0 +1,100 @@
+{
+   "title": "Mexico : religion affiliation share 2018 , by type",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 14 columns on the x axis representing Response, and Share of respondents in each Response on the y axis. ",
+      "The Share of respondents is highest at Response Catholic and lowest at Response Baptist evangelist. ",
+      "The highest value at Response Catholic is 808.0x times more than the lowest value at Baptist evangelist. "
+   ],
+   "min_summary": [
+      "This bar chart has 14 columns on the x axis representing Response, and Share of respondents in each Response on the y axis. ",
+      "The maximum Share of respondents 80.8 is found at Response Catholic and the minimum is found at Baptist evangelist where Response is 0.1. "
+   ],
+   "mid_summary": [
+      "This bar chart has 14 columns on the x axis representing Response, and Share of respondents in each Response on the y axis. ",
+      "The Share of respondents is highest at Response Catholic and lowest at Response Baptist evangelist. ",
+      "The highest value at Response Catholic is 808.0x times more than the lowest value at Baptist evangelist. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Response in the x axis and Share of respondents in the y axis. ",
+      "The maximum Share of respondents 80.8 is found at Response Catholic and the minimum is found at Baptist evangelist where Response is 0.1. ",
+      "The highest Response Catholic has 80.7 more Share of respondents than the lowest Response Baptist evangelist. ",
+      "The Response Catholic has the highest Share of respondents, followed by None, and Believer without formal affiliation to any religion. Down to the Response Baptist evangelist which is the lowest. ",
+      "Response Adventist, Mormon, Agnostic, and Atheist share the same value 0.2. ",
+      "The Response Catholic has 11.31 times more Share of respondents than average. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 6,
+         "12": 6
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Response": "Catholic",
+         "Share of respondents": 80.8
+      },
+      {
+         "Response": "Evangelist (unspecified)",
+         "Share of respondents": 1.3
+      },
+      {
+         "Response": "Jehova's witness",
+         "Share of respondents": 1.2
+      },
+      {
+         "Response": "Pentecostal evangelist",
+         "Share of respondents": 0.8
+      },
+      {
+         "Response": "Adventist",
+         "Share of respondents": 0.2
+      },
+      {
+         "Response": "Mormon",
+         "Share of respondents": 0.2
+      },
+      {
+         "Response": "Baptist evangelist",
+         "Share of respondents": 0.1
+      },
+      {
+         "Response": "None",
+         "Share of respondents": 10.6
+      },
+      {
+         "Response": "Believer without formal affiliation to any religion",
+         "Share of respondents": 2.8
+      },
+      {
+         "Response": "Other",
+         "Share of respondents": 0.8
+      },
+      {
+         "Response": "Do not know",
+         "Share of respondents": 0.5
+      },
+      {
+         "Response": "Do not answer",
+         "Share of respondents": 0.3
+      },
+      {
+         "Response": "Agnostic",
+         "Share of respondents": 0.2
+      },
+      {
+         "Response": "Atheist",
+         "Share of respondents": 0.2
+      }
+   ]
+}

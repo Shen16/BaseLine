@@ -1,0 +1,85 @@
+{
+   "title": "Ranking of the largest web shops in Sweden 2018 , by revenue",
+   "xAxis": "Web Shops",
+   "yAxis": "Revenue in thousand SEK",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart. It shows Revenue in thousand SEK for 10 number of Web Shopss. ",
+      "The Revenue in thousand SEK is highest at Web Shops Dustin / Dustin home and lowest at Web Shops Bygghemma.se. ",
+      "The highest Web Shops Dustin / Dustin home has 7761839.0 more Revenue in thousand SEK than the lowest Web Shops Bygghemma.se. "
+   ],
+   "min_summary": [
+      "This bar chart has 10 columns on the x axis representing Web Shops, and Revenue in thousand SEK in each Web Shops on the y axis. ",
+      "Web Shops Dustin / Dustin home has the highest Revenue in thousand SEK and Bygghemma.se has the lowest Revenue in thousand SEK. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Revenue in thousand SEK for 10 number of Web Shopss. ",
+      "The Revenue in thousand SEK is highest at Web Shops Dustin / Dustin home and lowest at Web Shops Bygghemma.se. ",
+      "The highest Web Shops Dustin / Dustin home has 7761839.0 more Revenue in thousand SEK than the lowest Web Shops Bygghemma.se. "
+   ],
+   "max_summary": [
+      "This bar chart has 10 columns on the x axis representing Web Shops, and Revenue in thousand SEK in each Web Shops on the y axis. ",
+      "Web Shops Dustin / Dustin home has the highest Revenue in thousand SEK and Bygghemma.se has the lowest Revenue in thousand SEK. ",
+      "Web Shops Cdon.com has the second highest value for Revenue in thousand SEK. ",
+      "The highest Web Shops Dustin / Dustin home has 7761839.0 more Revenue in thousand SEK than the lowest Web Shops Bygghemma.se. ",
+      "Web Shops Dustin / Dustin home is higher than any other Web Shopss with value 8689669.0, followed by Cdon.com, and Ellos. Down to Web Shops Bygghemma.se with the lowest value 927830.0. ",
+      "Considered together, the average Revenue in thousand SEK in all 10 Web Shopss is roughly 2004886.7. ",
+      "The Revenue in thousand SEK is 20048867.0 if we add up values of all Web Shopss. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 9,
+         "12": 9
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Web Shops": "Dustin / Dustin home",
+         "Revenue in thousand SEK": 8689669.0
+      },
+      {
+         "Web Shops": "Cdon.com",
+         "Revenue in thousand SEK": 1721072.0
+      },
+      {
+         "Web Shops": "Ellos",
+         "Revenue in thousand SEK": 1619359.0
+      },
+      {
+         "Web Shops": "Adlibris",
+         "Revenue in thousand SEK": 1449069.0
+      },
+      {
+         "Web Shops": "Boozt.com",
+         "Revenue in thousand SEK": 1407400.0
+      },
+      {
+         "Web Shops": "Nelly.com / NLY Man",
+         "Revenue in thousand SEK": 1195213.0
+      },
+      {
+         "Web Shops": "Komplett.se",
+         "Revenue in thousand SEK": 1110272.0
+      },
+      {
+         "Web Shops": "Apotea / Vitaminvaruhuset.se",
+         "Revenue in thousand SEK": 967620.0
+      },
+      {
+         "Web Shops": "MatHem",
+         "Revenue in thousand SEK": 961363.0
+      },
+      {
+         "Web Shops": "Bygghemma.se",
+         "Revenue in thousand SEK": 927830.0
+      }
+   ]
+}

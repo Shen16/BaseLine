@@ -1,0 +1,50 @@
+{
+   "title": "Distribution of global animal health care market by species 2018",
+   "xAxis": "Animal Type",
+   "yAxis": "Distribution of animal health care market volume",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart. It shows Distribution of animal health care market volume for 2 number of Animal Types. ",
+      "Animal Type Food animal has the highest Distribution of animal health care market volume and Companion animal has the lowest Distribution of animal health care market volume. ",
+      "There is a difference of 24.0 between the maximum Animal Type Food animal and minimum Animal Type Companion animal. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing Animal Type in the x axis and Distribution of animal health care market volume in the y axis. ",
+      "The maximum Distribution of animal health care market volume 62.0 is found at Animal Type Food animal and the minimum is found at Companion animal where Animal Type is 38.0. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Distribution of animal health care market volume for 2 number of Animal Types. ",
+      "Animal Type Food animal has the highest Distribution of animal health care market volume and Companion animal has the lowest Distribution of animal health care market volume. ",
+      "There is a difference of 24.0 between the maximum Animal Type Food animal and minimum Animal Type Companion animal. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Animal Type in the x axis and Distribution of animal health care market volume in the y axis. ",
+      "The Distribution of animal health care market volume is appeared to be the highest at Animal Type Food animal and lowest at Animal Type Companion animal. ",
+      "The difference of Distribution of animal health care market volume between the highest and lowest Animal Type is 24.0. ",
+      "The Animal Type Food animal has 1.24 times more Distribution of animal health care market volume than average. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 1,
+         "12": 1
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Animal Type": "Food animal",
+         "Distribution of animal health care market volume": 62.0
+      },
+      {
+         "Animal Type": "Companion animal",
+         "Distribution of animal health care market volume": 38.0
+      }
+   ]
+}

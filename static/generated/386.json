@@ -1,0 +1,65 @@
+{
+   "title": "BASF 's planned capital expenditure by region 2020 to 2024",
+   "xAxis": "Region",
+   "yAxis": "Share of capital expenditure",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart. It shows Share of capital expenditure for 5 number of Regions. ",
+      "The Share of capital expenditure is highest at Region Asia Pacific and lowest at Region South America Africa Middle East. ",
+      "There is a difference of 40.0 between the maximum Region Asia Pacific and minimum Region South America Africa Middle East. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing Region in the x axis and Share of capital expenditure in the y axis. ",
+      "The Share of capital expenditure is appeared to be the highest at Region Asia Pacific and lowest at Region South America Africa Middle East. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Share of capital expenditure for 5 number of Regions. ",
+      "The Share of capital expenditure is highest at Region Asia Pacific and lowest at Region South America Africa Middle East. ",
+      "There is a difference of 40.0 between the maximum Region Asia Pacific and minimum Region South America Africa Middle East. "
+   ],
+   "max_summary": [
+      "This bar chart has 5 columns on the x axis representing Region, and Share of capital expenditure in each Region on the y axis. ",
+      "The Share of capital expenditure is appeared to be the highest at Region Asia Pacific and lowest at Region South America Africa Middle East. ",
+      "Region Europe has the second highest value for Share of capital expenditure. ",
+      "The Share of capital expenditure of Region Asia Pacific is 41.0% larger than the minimum value at South America Africa Middle East. ",
+      "The Region Asia Pacific has the highest Share of capital expenditure, followed by Europe, and North America. Down to the Region South America Africa Middle East which is the lowest. ",
+      "The lowest value 1.0 at South America Africa Middle East is almost 2.05 times smaller than the average value 20.0. ",
+      "The Share of capital expenditure is 100.0 if we add up values of all Regions. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 3,
+         "12": 3
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Region": "Asia Pacific",
+         "Share of capital expenditure": 41.0
+      },
+      {
+         "Region": "Europe",
+         "Share of capital expenditure": 34.0
+      },
+      {
+         "Region": "North America",
+         "Share of capital expenditure": 19.0
+      },
+      {
+         "Region": "South America Africa Middle East",
+         "Share of capital expenditure": 1.0
+      },
+      {
+         "Region": "Site alternatives currently being investigated",
+         "Share of capital expenditure": 5.0
+      }
+   ]
+}

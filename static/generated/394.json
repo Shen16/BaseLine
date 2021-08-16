@@ -1,0 +1,61 @@
+{
+   "title": "Market share of soft drink companies in South Africa 2010",
+   "xAxis": "Company",
+   "yAxis": "Market share in South Africa",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart representing Company in the x axis and Market share in South Africa in the y axis. ",
+      "Company The Coca-Cola Co has the highest Market share in South Africa and PepsiCo Inc has the lowest Market share in South Africa. ",
+      "The difference of Market share in South Africa between the highest and lowest Company is 44.3. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing Company in the x axis and Market share in South Africa in the y axis. ",
+      "The Market share in South Africa is highest at Company The Coca-Cola Co and lowest at Company PepsiCo Inc. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Company in the x axis and Market share in South Africa in the y axis. ",
+      "Company The Coca-Cola Co has the highest Market share in South Africa and PepsiCo Inc has the lowest Market share in South Africa. ",
+      "The difference of Market share in South Africa between the highest and lowest Company is 44.3. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Market share in South Africa for 4 number of Companys. ",
+      "The Market share in South Africa is appeared to be the highest at Company The Coca-Cola Co and lowest at Company PepsiCo Inc. ",
+      "Second maximum Market share in South Africa is found at Company Other. ",
+      "The highest Company The Coca-Cola Co has 44.3 more Market share in South Africa than the lowest Company PepsiCo Inc. ",
+      "Market share in South Africa at Company The Coca-Cola Co is 49.8 , second place is Other at 35.3, and thirdly is Tiger Brands Ltd at 9.4.",
+      "The lowest value 5.5 at PepsiCo Inc is almost 1.99 times smaller than the average value 25.0. ",
+      "The Market share in South Africa is 100.0 if we add up values of all Companys. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 3,
+         "12": 3
+      },
+      {
+         "7": 0,
+         "12": 0
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Company": "PepsiCo Inc",
+         "Market share in South Africa": 5.5
+      },
+      {
+         "Company": "Tiger Brands Ltd",
+         "Market share in South Africa": 9.4
+      },
+      {
+         "Company": "Other",
+         "Market share in South Africa": 35.3
+      },
+      {
+         "Company": "The Coca-Cola Co",
+         "Market share in South Africa": 49.8
+      }
+   ]
+}

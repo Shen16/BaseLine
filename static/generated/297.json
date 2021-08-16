@@ -1,0 +1,50 @@
+{
+   "title": "Facebook user share in the United States 2019 , by gender",
+   "xAxis": "Sex",
+   "yAxis": "Percentage of users",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 2 columns on the x axis representing Sex, and Percentage of users in each Sex on the y axis. ",
+      "The Percentage of users is highest at Sex Female and lowest at Sex Male. ",
+      "The highest Sex Female has 7.4 more Percentage of users than the lowest Sex Male. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Percentage of users for 2 number of Sexs. ",
+      "The maximum Percentage of users 53.7 is found at Sex Female and the minimum is found at Male where Sex is 46.3. "
+   ],
+   "mid_summary": [
+      "This bar chart has 2 columns on the x axis representing Sex, and Percentage of users in each Sex on the y axis. ",
+      "The Percentage of users is highest at Sex Female and lowest at Sex Male. ",
+      "The highest Sex Female has 7.4 more Percentage of users than the lowest Sex Male. "
+   ],
+   "max_summary": [
+      "This bar chart has 2 columns on the x axis representing Sex, and Percentage of users in each Sex on the y axis. ",
+      "The maximum Percentage of users 53.7 is found at Sex Female and the minimum is found at Male where Sex is 46.3. ",
+      "The highest Sex Female has 7.4 more Percentage of users than the lowest Sex Male. ",
+      "The lowest value 46.3 at Male is almost 1.07 times smaller than the average value 50.0. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 1,
+         "12": 1
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Sex": "Female",
+         "Percentage of users": 53.7
+      },
+      {
+         "Sex": "Male",
+         "Percentage of users": 46.3
+      }
+   ]
+}

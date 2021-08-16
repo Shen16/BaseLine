@@ -1,0 +1,61 @@
+{
+   "title": "Number of outbound trips from China to Europe in 2018 , by region of destination",
+   "xAxis": "Europe European Union",
+   "yAxis": "Arrivals in millions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart representing Europe European Union in the x axis and Arrivals in millions in the y axis. ",
+      "The Arrivals in millions is appeared to be the highest at Europe European Union Central/Eastern Europe and lowest at Europe European Union Southern/Mediterranean Europe. ",
+      "The highest Europe European Union Central/Eastern Europe has 4.81 more Arrivals in millions than the lowest Europe European Union Southern/Mediterranean Europe. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing Europe European Union in the x axis and Arrivals in millions in the y axis. ",
+      "Europe European Union Central/Eastern Europe has the highest Arrivals in millions and Southern/Mediterranean Europe has the lowest Arrivals in millions. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Europe European Union in the x axis and Arrivals in millions in the y axis. ",
+      "The Arrivals in millions is appeared to be the highest at Europe European Union Central/Eastern Europe and lowest at Europe European Union Southern/Mediterranean Europe. ",
+      "The highest Europe European Union Central/Eastern Europe has 4.81 more Arrivals in millions than the lowest Europe European Union Southern/Mediterranean Europe. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Arrivals in millions for 4 number of Europe European Unions. ",
+      "The Arrivals in millions is appeared to be the highest at Europe European Union Central/Eastern Europe and lowest at Europe European Union Southern/Mediterranean Europe. ",
+      "The second highest Arrivals in millions is appeared to be the Europe European Union Western Europe. ",
+      "The highest Europe European Union Central/Eastern Europe has 4.81 more Arrivals in millions than the lowest Europe European Union Southern/Mediterranean Europe. ",
+      "Arrivals in millions at Europe European Union Central/Eastern Europe is 5.93 , second place is Western Europe at 5.9, and thirdly is Northern Europe at 1.15.",
+      "The Europe European Union Southern/Mediterranean Europe tends to be 1.68 percent lower than average. ",
+      "Summing up the values of all Europe European Unions, we get total 14.1. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 3,
+         "12": 3
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Europe European Union": "Central/Eastern Europe",
+         "Arrivals in millions": 5.93
+      },
+      {
+         "Europe European Union": "Western Europe",
+         "Arrivals in millions": 5.9
+      },
+      {
+         "Europe European Union": "Northern Europe",
+         "Arrivals in millions": 1.15
+      },
+      {
+         "Europe European Union": "Southern/Mediterranean Europe",
+         "Arrivals in millions": 1.12
+      }
+   ]
+}

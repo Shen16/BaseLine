@@ -1,0 +1,119 @@
+{
+   "title": "IT skill shortages facing IT leaders worldwide 2017 to 2019",
+   "labels": [
+      "IT category",
+      "2017",
+      "2018",
+      "2019"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This grouped bar chart represents 9 different IT categorys on X-axis for 3 groups 2017, 2018, and 2019. On the Y-axis it shows their corresponding SOME LABEL. ",
+      " Out of all 3 groups, 2018 had the highest SOME LABEL in IT category Big data / analytics and 2017 had the lowest SOME LABEL in IT category Artificial intelligence. ",
+      " Among all the IT categorys, 2017 had the highest SOME LABEL in IT category Big data / analytics and lowest SOME LABEL in IT category Artificial intelligence. ",
+      " The maximum SOME LABEL for 2017 that was found in IT category Big data / analytics was 42.0 times larger than the minimum SOME LABEL observed in IT category Artificial intelligence. "
+   ],
+   "xAxis": "IT category",
+   "yAxis": "SOME LABEL",
+   "min_summary": [
+      "This grouped bar chart represents 9 different IT categorys on X-axis for 3 groups 2017, 2018, and 2019. On the Y-axis it shows their corresponding SOME LABEL. ",
+      " IT category Big data / analytics had the maximum SOME LABEL among all 3 groups, and it was for 2018. The minimum SOME LABEL was observed in IT category Artificial intelligence for 2017. "
+   ],
+   "mid_summary": [
+      "This grouped bar chart represents 9 different IT categorys on X-axis for 3 groups 2017, 2018, and 2019. On the Y-axis it shows their corresponding SOME LABEL. ",
+      " Out of all 3 groups, 2018 had the highest SOME LABEL in IT category Big data / analytics and 2017 had the lowest SOME LABEL in IT category Artificial intelligence. ",
+      " Among all the IT categorys, 2017 had the highest SOME LABEL in IT category Big data / analytics and lowest SOME LABEL in IT category Artificial intelligence. ",
+      " The maximum SOME LABEL for 2017 that was found in IT category Big data / analytics was 42.0 times larger than the minimum SOME LABEL observed in IT category Artificial intelligence. "
+   ],
+   "max_summary": [
+      "This grouped bar chart shows SOME LABEL on the Y-axis for 9 different IT categorys for 3 groups 2017, 2018, and 2019 that are presented on the X-axis. ",
+      " IT category Big data / analytics had the maximum SOME LABEL among all 3 groups, and it was for 2018. The minimum SOME LABEL was observed in IT category Artificial intelligence for 2017. ",
+      " In IT category Big data / analytics, 2017 had the maximum SOME LABEL and it saw the lowest in IT category Artificial intelligence out of all 9 IT categorys. ",
+      " There is a gap of 41.0 between the highest and lowest SOME LABEL found for 2017 in IT category Big data / analytics and Artificial intelligence. ",
+      " Among all 3 groups, 2018 had the gap of 46.0 between the maximum and minimum SOME LABEL observed in IT category Big data / analytics and Artificial intelligence respectively. ",
+      " 2018 had the maximum SOME LABEL out of all 3 groups in IT category Big data / analytics followed by 2018 in Big data / analytics, and the minimum SOME LABEL is found for 2017 in Artificial intelligence. ",
+      "Averaging all 3 groups 2017, 2018, and 2019, the IT category Big data / analytics is the maximum SOME LABEL and Artificial intelligence is the minimum SOME LABEL. "
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "13": [
+            "3",
+            "0"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "3"
+         ],
+         "14": [
+            "3",
+            "3"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "IT category": "Big data / analytics",
+         "2017": "42",
+         "2018": "46",
+         "2019": "44"
+      },
+      {
+         "IT category": "Artificial intelligence",
+         "2017": "0",
+         "2018": "0",
+         "2019": "39"
+      },
+      {
+         "IT category": "Cyber security",
+         "2017": "0",
+         "2018": "0",
+         "2019": "39"
+      },
+      {
+         "IT category": "Enterprise architecture",
+         "2017": "34",
+         "2018": "35",
+         "2019": "34"
+      },
+      {
+         "IT category": "Business analysis",
+         "2017": "34",
+         "2018": "31",
+         "2019": "31"
+      },
+      {
+         "IT category": "Development",
+         "2017": "25",
+         "2018": "24",
+         "2019": "0"
+      },
+      {
+         "IT category": "Project management",
+         "2017": "26",
+         "2018": "25",
+         "2019": "0"
+      },
+      {
+         "IT category": "Technical architecture",
+         "2017": "32",
+         "2018": "36",
+         "2019": "0"
+      },
+      {
+         "IT category": "Security and resilience",
+         "2017": "28",
+         "2018": "35",
+         "2019": "0"
+      }
+   ]
+}

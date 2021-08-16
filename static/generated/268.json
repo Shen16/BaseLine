@@ -1,0 +1,164 @@
+{
+   "title": "Average retail price for ground beef in Canada 2015 to 2019",
+   "labels": [
+      "Month",
+      "2015",
+      "2016",
+      "2017",
+      "2018",
+      "2019"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a grouped bar chart showing Average retail price in CAD on the Y-axis throughout 12 Months for 2015, 2016, 2017, 2018, and 2019 on the X-axis. ",
+      " All through the Months, the Average retail price in CAD for 2018 have risen. On the other hand, for 2017 the Average retail price in CAD have decreased. ",
+      " In Month Oct, 2015 had the highest Average retail price in CAD 1323.0 among the 5 groups and in Dec, 2019 had the lowest Average retail price in CAD 0.0. ",
+      " Among all the Months, 2018 had the highest Average retail price in CAD in Month Apr and lowest Average retail price in CAD in Month Mar. "
+   ],
+   "xAxis": "Month",
+   "yAxis": "Average retail price in CAD",
+   "min_summary": [
+      "This grouped bar chart represents Average retail price in CAD on the Y-axis. And, its value throughout 12 Months for 2015, 2016, 2017, 2018, and 2019. ",
+      " Over the 12 Months, the Average retail price in CAD for 2018 have been risen whereas decreased for 2017. "
+   ],
+   "mid_summary": [
+      "This is a grouped bar chart showing Average retail price in CAD on the Y-axis throughout 12 Months for 2015, 2016, 2017, 2018, and 2019 on the X-axis. ",
+      " All through the Months, the Average retail price in CAD for 2018 have risen. On the other hand, for 2017 the Average retail price in CAD have decreased. ",
+      " In Month Oct, 2015 had the highest Average retail price in CAD 1323.0 among the 5 groups and in Dec, 2019 had the lowest Average retail price in CAD 0.0. ",
+      " Among all the Months, 2018 had the highest Average retail price in CAD in Month Apr and lowest Average retail price in CAD in Month Mar. "
+   ],
+   "max_summary": [
+      "This grouped bar chart represents Average retail price in CAD on the Y-axis. And, how the value changed throughout 12 Months for 2015, 2016, 2017, 2018, and 2019. ",
+      " All through the Months, the Average retail price in CAD for 2018 have risen. On the other hand, for 2017 the Average retail price in CAD have decreased. ",
+      " In Month Oct, 2015 had the highest Average retail price in CAD 1323.0 among the 5 groups and in Dec, 2019 had the lowest Average retail price in CAD 0.0. ",
+      " In Month Apr, 2018 had the highest Average retail price in CAD among all 12 Months and it has the lowest Average retail price in CAD in Month Mar. ",
+      " There is a gap of 1132.0 between the highest and lowest Average retail price in CAD found for 2018 in Month Apr and Mar. ",
+      " Among the groups, 2015 had the biggest difference in Average retail price in CAD. Where the maximum Average retail price in CAD was 10.34 times larger than the minimum Average retail price in CAD. ",
+      " In Month Oct, 2015 had the highest Average retail price in CAD 1323.0 among the 5 groups and in Dec, 2019 had the lowest Average retail price in CAD 0.0. The second highest Average retail price in CAD 1245.0 was observed for 2015 in Month Oct. ",
+      "On average, the Month Apr had the highest Average retail price in CAD for all 5 groups 2015, 2016, 2017, 2018, and 2019. Whereas Dec had the lowest average Average retail price in CAD. "
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "8"
+         ],
+         "13": [
+            "5",
+            "8"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "3"
+         ],
+         "14": [
+            "5",
+            "3"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Month": "Dec",
+         "2015": "12.8",
+         "2016": "11.91",
+         "2017": "12.21",
+         "2018": "11.47",
+         "2019": "0"
+      },
+      {
+         "Month": "Nov",
+         "2015": "12.86",
+         "2016": "12.04",
+         "2017": "12.35",
+         "2018": "11.96",
+         "2019": "11.69"
+      },
+      {
+         "Month": "Oct",
+         "2015": "13.23",
+         "2016": "12.36",
+         "2017": "12.11",
+         "2018": "11.94",
+         "2019": "11.54"
+      },
+      {
+         "Month": "Sep",
+         "2015": "12.96",
+         "2016": "12.4",
+         "2017": "12.45",
+         "2018": "11.95",
+         "2019": "11.67"
+      },
+      {
+         "Month": "Aug",
+         "2015": "12.66",
+         "2016": "12.19",
+         "2017": "12.41",
+         "2018": "12.18",
+         "2019": "11.23"
+      },
+      {
+         "Month": "Jul",
+         "2015": "12.57",
+         "2016": "12.25",
+         "2017": "12.19",
+         "2018": "11.71",
+         "2019": "10.86"
+      },
+      {
+         "Month": "Jun",
+         "2015": "12.75",
+         "2016": "12.29",
+         "2017": "12.2",
+         "2018": "12.15",
+         "2019": "11.41"
+      },
+      {
+         "Month": "May",
+         "2015": "12.64",
+         "2016": "12.71",
+         "2017": "12.38",
+         "2018": "12.05",
+         "2019": "11.3"
+      },
+      {
+         "Month": "Apr",
+         "2015": "12.59",
+         "2016": "12.78",
+         "2017": "12.36",
+         "2018": "12.53",
+         "2019": "11.19"
+      },
+      {
+         "Month": "Mar",
+         "2015": "12.43",
+         "2016": "13.11",
+         "2017": "12.21",
+         "2018": "12.1",
+         "2019": "11.29"
+      },
+      {
+         "Month": "Feb",
+         "2015": "12.29",
+         "2016": "12.62",
+         "2017": "12.02",
+         "2018": "12.11",
+         "2019": "11.41"
+      },
+      {
+         "Month": "Jan",
+         "2015": "11.99",
+         "2016": "12.75",
+         "2017": "11.93",
+         "2018": "12.19",
+         "2019": "11.55"
+      }
+   ]
+}

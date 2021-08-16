@@ -1,0 +1,104 @@
+{
+   "title": "Tea market : major importing countries worldwide 2018",
+   "xAxis": "Country",
+   "yAxis": "Trade value in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart representing Country in the x axis and Trade value in million U.S. dollars in the y axis. ",
+      "Country Pakistan has the highest Trade value in million U.S. dollars and Canada has the lowest Trade value in million U.S. dollars. ",
+      "There is a difference of 425.78 between the maximum Country Pakistan and minimum Country Canada. "
+   ],
+   "min_summary": [
+      "This bar chart has 15 columns on the x axis representing Country, and Trade value in million U.S. dollars in each Country on the y axis. ",
+      "Country Pakistan has the highest Trade value in million U.S. dollars and Canada has the lowest Trade value in million U.S. dollars. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Country in the x axis and Trade value in million U.S. dollars in the y axis. ",
+      "Country Pakistan has the highest Trade value in million U.S. dollars and Canada has the lowest Trade value in million U.S. dollars. ",
+      "There is a difference of 425.78 between the maximum Country Pakistan and minimum Country Canada. "
+   ],
+   "max_summary": [
+      "This bar chart has 15 columns on the x axis representing Country, and Trade value in million U.S. dollars in each Country on the y axis. ",
+      "Country Pakistan has the highest Trade value in million U.S. dollars and Canada has the lowest Trade value in million U.S. dollars. ",
+      "The difference of Trade value in million U.S. dollars between the highest and lowest Country is 425.78. ",
+      "The Country Pakistan has the highest Trade value in million U.S. dollars, followed by Russian Federation, and USA. Down to the Country Canada which is the lowest. ",
+      "The Country Canada tends to be 2.0 percent lower than average. ",
+      "The Trade value in million U.S. dollars is 4289.19 if we add up values of all Countrys. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 14,
+         "12": 14
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Country": "Pakistan",
+         "Trade value in million U.S. dollars": 571.33
+      },
+      {
+         "Country": "Russian Federation",
+         "Trade value in million U.S. dollars": 497.07
+      },
+      {
+         "Country": "USA",
+         "Trade value in million U.S. dollars": 487.29
+      },
+      {
+         "Country": "United Kingdom",
+         "Trade value in million U.S. dollars": 397.68
+      },
+      {
+         "Country": "United Arab Emirates",
+         "Trade value in million U.S. dollars": 323.16
+      },
+      {
+         "Country": "Egypt",
+         "Trade value in million U.S. dollars": 318.11
+      },
+      {
+         "Country": "Saudi Arabia",
+         "Trade value in million U.S. dollars": 252.52
+      },
+      {
+         "Country": "Germany",
+         "Trade value in million U.S. dollars": 237.39
+      },
+      {
+         "Country": "Morocco",
+         "Trade value in million U.S. dollars": 220.28
+      },
+      {
+         "Country": "Japan",
+         "Trade value in million U.S. dollars": 182.18
+      },
+      {
+         "Country": "France",
+         "Trade value in million U.S. dollars": 180.85
+      },
+      {
+         "Country": "China",
+         "Trade value in million U.S. dollars": 177.82
+      },
+      {
+         "Country": "China Hong Kong SAR",
+         "Trade value in million U.S. dollars": 151.85
+      },
+      {
+         "Country": "Afghanistan",
+         "Trade value in million U.S. dollars": 146.11
+      },
+      {
+         "Country": "Canada",
+         "Trade value in million U.S. dollars": 145.55
+      }
+   ]
+}

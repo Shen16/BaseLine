@@ -1,0 +1,83 @@
+{
+   "title": "Monsanto 's number of regular and temporary workers worldwide 2013 to 2017",
+   "labels": [
+      "Worker Type",
+      "2013",
+      "2014",
+      "2015",
+      "2016",
+      "2017"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This grouped bar chart shows SOME LABEL on the Y-axis for 2 different Worker Types for 5 groups 2013, 2014, 2015, 2016, and 2017 that are presented on the X-axis. ",
+      " In Worker Type Regular workers, 2015 had the highest SOME LABEL 22500.0 among the 5 groups and in Temporary workers, 2017 had the lowest SOME LABEL 2800.0. ",
+      " In Worker Type Regular workers, 2016 had the maximum SOME LABEL and it saw the lowest in Worker Type Temporary workers out of all 2 Worker Types. ",
+      " There is a gap of 17500.0 between the highest and lowest SOME LABEL found for 2016 in Worker Type Regular workers and Temporary workers. "
+   ],
+   "xAxis": "Worker Type",
+   "yAxis": "SOME LABEL",
+   "min_summary": [
+      "This grouped bar chart shows SOME LABEL on the Y-axis for 2 different Worker Types for 5 groups 2013, 2014, 2015, 2016, and 2017 that are presented on the X-axis. ",
+      " In Worker Type Regular workers, 2015 had the highest SOME LABEL 22500.0 among the 5 groups and in Temporary workers, 2017 had the lowest SOME LABEL 2800.0. "
+   ],
+   "mid_summary": [
+      "This grouped bar chart shows SOME LABEL on the Y-axis for 2 different Worker Types for 5 groups 2013, 2014, 2015, 2016, and 2017 that are presented on the X-axis. ",
+      " In Worker Type Regular workers, 2015 had the highest SOME LABEL 22500.0 among the 5 groups and in Temporary workers, 2017 had the lowest SOME LABEL 2800.0. ",
+      " In Worker Type Regular workers, 2016 had the maximum SOME LABEL and it saw the lowest in Worker Type Temporary workers out of all 2 Worker Types. ",
+      " There is a gap of 17500.0 between the highest and lowest SOME LABEL found for 2016 in Worker Type Regular workers and Temporary workers. "
+   ],
+   "max_summary": [
+      "This grouped bar chart represents 2 different Worker Types on X-axis for 5 groups 2013, 2014, 2015, 2016, and 2017. On the Y-axis it shows their corresponding SOME LABEL. ",
+      " In Worker Type Regular workers, 2015 had the highest SOME LABEL 22500.0 among the 5 groups and in Temporary workers, 2017 had the lowest SOME LABEL 2800.0. ",
+      " Among all the Worker Types, 2016 had the highest SOME LABEL in Worker Type Regular workers and lowest SOME LABEL in Worker Type Temporary workers. ",
+      " The maximum SOME LABEL for 2016 that was found in Worker Type Regular workers was 6.3 times larger than the minimum SOME LABEL observed in Worker Type Temporary workers. ",
+      " Among all 5 groups, 2015 had the gap of 19500.0 between the maximum and minimum SOME LABEL observed in Worker Type Regular workers and Temporary workers respectively. ",
+      " In Worker Type Regular workers, 2015 had the highest SOME LABEL 22500.0 among the 5 groups and in Temporary workers, 2017 had the lowest SOME LABEL 2800.0. The second highest SOME LABEL 20800.0 was observed for 2015 in Worker Type Regular workers. ",
+      "On average, the Worker Type Regular workers had the highest SOME LABEL for all 5 groups 2013, 2014, 2015, 2016, and 2017. Whereas Temporary workers had the lowest average SOME LABEL. "
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "13": [
+            "5",
+            "0"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "14": [
+            "5",
+            "1"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Worker Type": "Regular workers",
+         "2013": "21900",
+         "2014": "22400",
+         "2015": "22500",
+         "2016": "20800",
+         "2017": "20500"
+      },
+      {
+         "Worker Type": "Temporary workers",
+         "2013": "4300",
+         "2014": "4600",
+         "2015": "3000",
+         "2016": "3300",
+         "2017": "2800"
+      }
+   ]
+}

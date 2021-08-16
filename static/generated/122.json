@@ -1,0 +1,84 @@
+{
+   "title": "Global pineapple production by leading countries 2018",
+   "xAxis": "Country",
+   "yAxis": "Production in thousand metric tons",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart representing Country in the x axis and Production in thousand metric tons in the y axis. ",
+      "Country Costa Rica has the highest Production in thousand metric tons and Colombia has the lowest Production in thousand metric tons. ",
+      "There is a difference of 2517.76 between the maximum Country Costa Rica and minimum Country Colombia. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing Country in the x axis and Production in thousand metric tons in the y axis. ",
+      "The Production in thousand metric tons is appeared to be the highest at Country Costa Rica and lowest at Country Colombia. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Country in the x axis and Production in thousand metric tons in the y axis. ",
+      "Country Costa Rica has the highest Production in thousand metric tons and Colombia has the lowest Production in thousand metric tons. ",
+      "There is a difference of 2517.76 between the maximum Country Costa Rica and minimum Country Colombia. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Country in the x axis and Production in thousand metric tons in the y axis. ",
+      "Country Costa Rica has the highest Production in thousand metric tons and Colombia has the lowest Production in thousand metric tons. ",
+      "The highest value at Country Costa Rica is 3.8x times more than the lowest value at Colombia. ",
+      "The Country Costa Rica has the highest Production in thousand metric tons, followed by Philippines, and Brazil. Down to the Country Colombia which is the lowest. ",
+      "The Country Costa Rica tends to be 1.75 percent higher than average. ",
+      "Summing up the values of all Countrys, we get total 19562.49. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 9,
+         "12": 9
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Country": "Costa Rica",
+         "Production in thousand metric tons": 3418.16
+      },
+      {
+         "Country": "Philippines",
+         "Production in thousand metric tons": 2730.99
+      },
+      {
+         "Country": "Brazil",
+         "Production in thousand metric tons": 2650.48
+      },
+      {
+         "Country": "Thailand",
+         "Production in thousand metric tons": 2113.38
+      },
+      {
+         "Country": "Indonesia",
+         "Production in thousand metric tons": 1805.51
+      },
+      {
+         "Country": "India",
+         "Production in thousand metric tons": 1706.0
+      },
+      {
+         "Country": "Nigeria",
+         "Production in thousand metric tons": 1664.51
+      },
+      {
+         "Country": "China mainland",
+         "Production in thousand metric tons": 1573.47
+      },
+      {
+         "Country": "Mexico",
+         "Production in thousand metric tons": 999.59
+      },
+      {
+         "Country": "Colombia",
+         "Production in thousand metric tons": 900.4
+      }
+   ]
+}

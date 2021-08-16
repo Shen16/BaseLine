@@ -1,0 +1,90 @@
+{
+   "title": "Cement consumption volume in India 2008 to 2019",
+   "xAxis": "Fiscal Annually",
+   "yAxis": "Consumption in million metric tons",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 11 columns on the x axis representing Fiscal Annually, and Consumption in million metric tons in each Fiscal Annually on the y axis. ",
+      "The Consumption in million metric tons is highest at Fiscal Annually FY 2019 and lowest at Fiscal Annually FY 2011. ",
+      "The lowest value at Fiscal Annually FY 2011 is 1.98x times less than the highest value at FY 2019. "
+   ],
+   "min_summary": [
+      "This bar chart has 11 columns on the x axis representing Fiscal Annually, and Consumption in million metric tons in each Fiscal Annually on the y axis. ",
+      "The Consumption in million metric tons is highest at Fiscal Annually FY 2019 and lowest at Fiscal Annually FY 2011. "
+   ],
+   "mid_summary": [
+      "This bar chart has 11 columns on the x axis representing Fiscal Annually, and Consumption in million metric tons in each Fiscal Annually on the y axis. ",
+      "The Consumption in million metric tons is highest at Fiscal Annually FY 2019 and lowest at Fiscal Annually FY 2011. ",
+      "The lowest value at Fiscal Annually FY 2011 is 1.98x times less than the highest value at FY 2019. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Consumption in million metric tons for 11 number of Fiscal Annuallys. ",
+      "The Consumption in million metric tons is highest at Fiscal Annually FY 2019 and lowest at Fiscal Annually FY 2011. ",
+      "Second maximum Consumption in million metric tons is found at Fiscal Annually FY 2017. ",
+      "The Consumption in million metric tons of Fiscal Annually FY 2011 is 1.98% smaller than the maximum value at FY 2019. ",
+      "Fiscal Annually FY 2019 is higher than any other Fiscal Annuallys with value 328.0, followed by FY 2017, and FY 2016. Down to Fiscal Annually FY 2011 with the lowest value 166.0. ",
+      "Fiscal Annually FY 2018, and FY 2016 have the same Consumption in million metric tons. ",
+      "The Fiscal Annually FY 2019 tends to be 1.35 percent higher than average. ",
+      "Summing up the values of all Fiscal Annuallys, we get total 2664.0. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 8,
+         "12": 8
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Fiscal Annually": "FY 2019",
+         "Consumption in million metric tons": 328.0
+      },
+      {
+         "Fiscal Annually": "FY 2018",
+         "Consumption in million metric tons": 269.0
+      },
+      {
+         "Fiscal Annually": "FY 2017",
+         "Consumption in million metric tons": 272.0
+      },
+      {
+         "Fiscal Annually": "FY 2016",
+         "Consumption in million metric tons": 269.0
+      },
+      {
+         "Fiscal Annually": "FY 2015",
+         "Consumption in million metric tons": 256.0
+      },
+      {
+         "Fiscal Annually": "FY 2014",
+         "Consumption in million metric tons": 245.0
+      },
+      {
+         "Fiscal Annually": "FY 2013",
+         "Consumption in million metric tons": 239.0
+      },
+      {
+         "Fiscal Annually": "FY 2012",
+         "Consumption in million metric tons": 221.0
+      },
+      {
+         "Fiscal Annually": "FY 2011",
+         "Consumption in million metric tons": 166.0
+      },
+      {
+         "Fiscal Annually": "FY 2010",
+         "Consumption in million metric tons": 206.0
+      },
+      {
+         "Fiscal Annually": "FY 2009",
+         "Consumption in million metric tons": 193.0
+      }
+   ]
+}

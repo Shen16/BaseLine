@@ -1,0 +1,93 @@
+{
+   "title": "Global internet usage rate 2019 , by gender and region",
+   "labels": [
+      "Country",
+      "Male",
+      "Female"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This grouped bar chart represents 6 different Countrys on X-axis for 2 groups Male, and Female. On the Y-axis it shows their corresponding Share of population. ",
+      " Out of all 2 groups, Male had the highest Share of population in Country Europe and Female had the lowest Share of population in Country CIS. ",
+      " In Country Europe, Female had the maximum Share of population and it saw the lowest in Country CIS out of all 6 Countrys. ",
+      " There is a gap of 732.0 between the highest and lowest Share of population found for Female in Country Europe and CIS. "
+   ],
+   "xAxis": "Country",
+   "yAxis": "Share of population",
+   "min_summary": [
+      "This grouped bar chart represents 6 different Countrys on X-axis for 2 groups Male, and Female. On the Y-axis it shows their corresponding Share of population. ",
+      " Country Europe had the maximum Share of population among all 2 groups, and it was for Male. The minimum Share of population was observed in Country CIS for Female. "
+   ],
+   "mid_summary": [
+      "This grouped bar chart represents 6 different Countrys on X-axis for 2 groups Male, and Female. On the Y-axis it shows their corresponding Share of population. ",
+      " Out of all 2 groups, Male had the highest Share of population in Country Europe and Female had the lowest Share of population in Country CIS. ",
+      " In Country Europe, Female had the maximum Share of population and it saw the lowest in Country CIS out of all 6 Countrys. ",
+      " There is a gap of 732.0 between the highest and lowest Share of population found for Female in Country Europe and CIS. "
+   ],
+   "max_summary": [
+      "This grouped bar chart represents 6 different Countrys on X-axis for 2 groups Male, and Female. On the Y-axis it shows their corresponding Share of population. ",
+      " Country Europe had the maximum Share of population among all 2 groups, and it was for Male. The minimum Share of population was observed in Country CIS for Female. ",
+      " In Country Europe, Female had the highest Share of population among all 6 Countrys and it has the lowest Share of population in Country CIS. ",
+      "Country Europe and CIS had the biggest gap of 732.0 between the highest and lowest Share of population found for Female. ",
+      " Among the groups, Male had the biggest difference in Share of population. Where the maximum Share of population was 2.51 times larger than the minimum Share of population. ",
+      "On average, the Country Europe had the highest Share of population for all 2 groups Male, and Female. Whereas Africa had the lowest average Share of population. "
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "13": [
+            "2",
+            "0"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "14": [
+            "2",
+            "1"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Country": "Europe",
+         "Male": "84.9",
+         "Female": "80.3"
+      },
+      {
+         "Country": "The Americas",
+         "Male": "77.6",
+         "Female": "76.8"
+      },
+      {
+         "Country": "CIS",
+         "Male": "73.6",
+         "Female": "71"
+      },
+      {
+         "Country": "Arab States",
+         "Male": "58.5",
+         "Female": "44.2"
+      },
+      {
+         "Country": "Asia Pacific",
+         "Male": "54.6",
+         "Female": "41.3"
+      },
+      {
+         "Country": "Africa",
+         "Male": "33.8",
+         "Female": "22.6"
+      }
+   ]
+}

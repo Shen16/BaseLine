@@ -1,0 +1,60 @@
+{
+   "title": "Organ donation rate in the United Kingdom 2018/19 , by country",
+   "xAxis": "Country",
+   "yAxis": "Rate of donation per million population",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart representing Country in the x axis and Rate of donation per million population in the y axis. ",
+      "The Rate of donation per million population is appeared to be the highest at Country Wales and lowest at Country Scotland. ",
+      "There is a difference of 12.8 between the maximum Country Wales and minimum Country Scotland. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing Country in the x axis and Rate of donation per million population in the y axis. ",
+      "The Rate of donation per million population is appeared to be the highest at Country Wales and lowest at Country Scotland. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Country in the x axis and Rate of donation per million population in the y axis. ",
+      "The Rate of donation per million population is appeared to be the highest at Country Wales and lowest at Country Scotland. ",
+      "There is a difference of 12.8 between the maximum Country Wales and minimum Country Scotland. "
+   ],
+   "max_summary": [
+      "This bar chart has 4 columns on the x axis representing Country, and Rate of donation per million population in each Country on the y axis. ",
+      "The maximum Rate of donation per million population 30.7 is found at Country Wales and the minimum is found at Scotland where Country is 17.9. ",
+      "The maximum Country Wales has got 1.72 times higher Rate of donation per million population than the minimum Country Scotland. ",
+      "The Country Wales has the highest Rate of donation per million population, followed by England, and Northern Ireland. Down to the Country Scotland which is the lowest. ",
+      "The lowest value 17.9 at Scotland is almost 1.28 times smaller than the average value 24.03. ",
+      "Summing up the values of all Countrys, we get total 96.1. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 3,
+         "12": 3
+      },
+      {
+         "7": 0,
+         "12": 0
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Country": "Scotland",
+         "Rate of donation per million population": 17.9
+      },
+      {
+         "Country": "Northern Ireland",
+         "Rate of donation per million population": 23.0
+      },
+      {
+         "Country": "England",
+         "Rate of donation per million population": 24.5
+      },
+      {
+         "Country": "Wales",
+         "Rate of donation per million population": 30.7
+      }
+   ]
+}

@@ -1,0 +1,50 @@
+{
+   "title": "Clash of Clans and Clash Royale mobile revenue 2018",
+   "xAxis": "Game",
+   "yAxis": "Revenue in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 2 columns on the x axis representing Game, and Revenue in million U.S. dollars in each Game on the y axis. ",
+      "The Revenue in million U.S. dollars is highest at Game Clash Royale and lowest at Game Clash of Clans. ",
+      "The highest Game Clash Royale has 30.0 more Revenue in million U.S. dollars than the lowest Game Clash of Clans. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Revenue in million U.S. dollars for 2 number of Games. ",
+      "The maximum Revenue in million U.S. dollars 597.0 is found at Game Clash Royale and the minimum is found at Clash of Clans where Game is 567.0. "
+   ],
+   "mid_summary": [
+      "This bar chart has 2 columns on the x axis representing Game, and Revenue in million U.S. dollars in each Game on the y axis. ",
+      "The Revenue in million U.S. dollars is highest at Game Clash Royale and lowest at Game Clash of Clans. ",
+      "The highest Game Clash Royale has 30.0 more Revenue in million U.S. dollars than the lowest Game Clash of Clans. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Revenue in million U.S. dollars for 2 number of Games. ",
+      "The maximum Revenue in million U.S. dollars 597.0 is found at Game Clash Royale and the minimum is found at Clash of Clans where Game is 567.0. ",
+      "The difference of Revenue in million U.S. dollars between the highest and lowest Game is 30.0. ",
+      "The Game Clash Royale tends to be 1.03 percent higher than average. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 1,
+         "12": 1
+      },
+      {
+         "7": 0,
+         "12": 0
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Game": "Clash of Clans",
+         "Revenue in million U.S. dollars": 567.0
+      },
+      {
+         "Game": "Clash Royale",
+         "Revenue in million U.S. dollars": 597.0
+      }
+   ]
+}

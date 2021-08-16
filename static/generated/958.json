@@ -1,0 +1,85 @@
+{
+   "title": "Volcanic eruptions - people affected worldwide up to 2016",
+   "xAxis": "Location and Date",
+   "yAxis": "Number of victims",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart. It shows Number of victims for 10 number of Location and Dates. ",
+      "The Number of victims is appeared to be the highest at Location and Date Volcanic eruption in the Philippines (June 9 1991) and lowest at Location and Date Volcanic eruption in Indonesia (October 24 2002). ",
+      "There is a difference of 898925.0 between the maximum Location and Date Volcanic eruption in the Philippines (June 9 1991) and minimum Location and Date Volcanic eruption in Indonesia (October 24 2002). "
+   ],
+   "min_summary": [
+      "This bar chart has 10 columns on the x axis representing Location and Date, and Number of victims in each Location and Date on the y axis. ",
+      "Location and Date Volcanic eruption in the Philippines (June 9 1991) has the highest Number of victims and Volcanic eruption in Indonesia (October 24 2002) has the lowest Number of victims. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Number of victims for 10 number of Location and Dates. ",
+      "The Number of victims is appeared to be the highest at Location and Date Volcanic eruption in the Philippines (June 9 1991) and lowest at Location and Date Volcanic eruption in Indonesia (October 24 2002). ",
+      "There is a difference of 898925.0 between the maximum Location and Date Volcanic eruption in the Philippines (June 9 1991) and minimum Location and Date Volcanic eruption in Indonesia (October 24 2002). "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Location and Date in the x axis and Number of victims in the y axis. ",
+      "Location and Date Volcanic eruption in the Philippines (June 9 1991) has the highest Number of victims and Volcanic eruption in Indonesia (October 24 2002) has the lowest Number of victims. ",
+      "The second highest Number of victims is appeared to be the Location and Date Volcano eruption in Ecuador (August 14 2015). ",
+      "The difference of Number of victims between the highest and lowest Location and Date is 898925.0. ",
+      "Location and Date Volcanic eruption in the Philippines (June 9 1991) is higher than any other Location and Dates with value 1036065.0, followed by Volcano eruption in Ecuador (August 14 2015), and Volcanic eruption in Nicaragua (April 9 1992). Down to Location and Date Volcanic eruption in Indonesia (October 24 2002) with the lowest value 137140.0. ",
+      "The Location and Date Volcanic eruption in the Philippines (June 9 1991) tends to be 2.81 percent higher than average. ",
+      "Summing up the values of all Location and Dates, we get total 3685304.0. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 9,
+         "12": 9
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Location and Date": "Volcanic eruption in the Philippines (June 9 1991)",
+         "Number of victims": 1036065.0
+      },
+      {
+         "Location and Date": "Volcano eruption in Ecuador (August 14 2015)",
+         "Number of victims": 800000.0
+      },
+      {
+         "Location and Date": "Volcanic eruption in Nicaragua (April 9 1992)",
+         "Number of victims": 300075.0
+      },
+      {
+         "Location and Date": "Volcano eruption in Ecuador (August 14 2006)",
+         "Number of victims": 300013.0
+      },
+      {
+         "Location and Date": "Volcano eruption in Indonesia (April 5 1982)",
+         "Number of victims": 300000.0
+      },
+      {
+         "Location and Date": "Volcano eruption in Indonesia (1969)",
+         "Number of victims": 250000.0
+      },
+      {
+         "Location and Date": "Volcanic eruption in Comoros (November 24 2005)",
+         "Number of victims": 245000.0
+      },
+      {
+         "Location and Date": "Volcanic eruption in the Philippines (Feb. 6 1993)",
+         "Number of victims": 165009.0
+      },
+      {
+         "Location and Date": "Volcanic eruption in Papua New Guinea (September 19 1994)",
+         "Number of victims": 152002.0
+      },
+      {
+         "Location and Date": "Volcanic eruption in Indonesia (October 24 2002)",
+         "Number of victims": 137140.0
+      }
+   ]
+}

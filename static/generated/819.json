@@ -1,0 +1,85 @@
+{
+   "title": "Largest cities in Ukraine 2016",
+   "xAxis": "Month",
+   "yAxis": "Residents in millions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart representing Month in the x axis and Residents in millions in the y axis. ",
+      "Month Ky\u00efv (Kiev) has the highest Residents in millions and Mariupol' has the lowest Residents in millions. ",
+      "The difference of Residents in millions between the highest and lowest Month is 2.46. "
+   ],
+   "min_summary": [
+      "This bar chart has 10 columns on the x axis representing Month, and Residents in millions in each Month on the y axis. ",
+      "The maximum Residents in millions 2.91 is found at Month Ky\u00efv (Kiev) and the minimum is found at Mariupol' where Month is 0.45. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Month in the x axis and Residents in millions in the y axis. ",
+      "Month Ky\u00efv (Kiev) has the highest Residents in millions and Mariupol' has the lowest Residents in millions. ",
+      "The difference of Residents in millions between the highest and lowest Month is 2.46. "
+   ],
+   "max_summary": [
+      "This bar chart has 10 columns on the x axis representing Month, and Residents in millions in each Month on the y axis. ",
+      "The maximum Residents in millions 2.91 is found at Month Ky\u00efv (Kiev) and the minimum is found at Mariupol' where Month is 0.45. ",
+      "The second highest Residents in millions is appeared to be the Month Charkiv. ",
+      "The difference of Residents in millions between the highest and lowest Month is 2.46. ",
+      "Residents in millions at Month Ky\u00efv (Kiev) is 2.91 , second place is Charkiv at 1.45, and thirdly is Od\u0117sa at 1.01.",
+      "The Residents in millions has declined over the past 10 Months. ",
+      "The average Residents in millions in all 10 Months is 1.03. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 9,
+         "12": 9
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Month": "Ky\u00efv (Kiev)",
+         "Residents in millions": 2.91
+      },
+      {
+         "Month": "Charkiv",
+         "Residents in millions": 1.45
+      },
+      {
+         "Month": "Od\u0117sa",
+         "Residents in millions": 1.01
+      },
+      {
+         "Month": "Dniprop\u0117trovs'k",
+         "Residents in millions": 0.98
+      },
+      {
+         "Month": "Don\u0117c'k",
+         "Residents in millions": 0.93
+      },
+      {
+         "Month": "Zapori\u017e\u017eija",
+         "Residents in millions": 0.76
+      },
+      {
+         "Month": "L'viv",
+         "Residents in millions": 0.73
+      },
+      {
+         "Month": "Kryvyj Rih",
+         "Residents in millions": 0.64
+      },
+      {
+         "Month": "Mykola\u00efv",
+         "Residents in millions": 0.49
+      },
+      {
+         "Month": "Mariupol'",
+         "Residents in millions": 0.45
+      }
+   ]
+}

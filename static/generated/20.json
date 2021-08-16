@@ -1,0 +1,86 @@
+{
+   "title": "Top hashtags used by U.S. Congress Democrats in 2019",
+   "xAxis": "Hashtag",
+   "yAxis": "Total number of mentions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart. It shows Total number of mentions for 10 number of Hashtags. ",
+      "The maximum Total number of mentions 6961.0 is found at Hashtag #forthepeople and the minimum is found at #hr1 where Hashtag is 1683.0. ",
+      "The difference of Total number of mentions between the highest and lowest Hashtag is 5278.0. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing Hashtag in the x axis and Total number of mentions in the y axis. ",
+      "The Total number of mentions is highest at Hashtag #forthepeople and lowest at Hashtag #hr1. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Total number of mentions for 10 number of Hashtags. ",
+      "The maximum Total number of mentions 6961.0 is found at Hashtag #forthepeople and the minimum is found at #hr1 where Hashtag is 1683.0. ",
+      "The difference of Total number of mentions between the highest and lowest Hashtag is 5278.0. "
+   ],
+   "max_summary": [
+      "This bar chart has 10 columns on the x axis representing Hashtag, and Total number of mentions in each Hashtag on the y axis. ",
+      "The Total number of mentions is highest at Hashtag #forthepeople and lowest at Hashtag #hr1. ",
+      "The second highest Total number of mentions is appeared to be the Hashtag #trumpshutdown. ",
+      "The difference of Total number of mentions between the highest and lowest Hashtag is 5278.0. ",
+      "Total number of mentions at Hashtag #forthepeople is 6961.0 , second place is #trumpshutdown at 3992.0, and thirdly is #protectourcare at 2810.0.",
+      "Hashtag #hr8, and #actonclimate have the same Total number of mentions. ",
+      "The Hashtag #forthepeople has 2.54 times more Total number of mentions than average. ",
+      "Summing up the values of all Hashtags, we get total 27456.0. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 9,
+         "12": 9
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Hashtag": "#forthepeople",
+         "Total number of mentions": 6961.0
+      },
+      {
+         "Hashtag": "#trumpshutdown",
+         "Total number of mentions": 3992.0
+      },
+      {
+         "Hashtag": "#protectourcare",
+         "Total number of mentions": 2810.0
+      },
+      {
+         "Hashtag": "#endgunviolence",
+         "Total number of mentions": 2342.0
+      },
+      {
+         "Hashtag": "#hr8",
+         "Total number of mentions": 2206.0
+      },
+      {
+         "Hashtag": "#actonclimate",
+         "Total number of mentions": 2206.0
+      },
+      {
+         "Hashtag": "#endtheshutdown",
+         "Total number of mentions": 1769.0
+      },
+      {
+         "Hashtag": "#sotu",
+         "Total number of mentions": 1767.0
+      },
+      {
+         "Hashtag": "#equalityact",
+         "Total number of mentions": 1720.0
+      },
+      {
+         "Hashtag": "#hr1",
+         "Total number of mentions": 1683.0
+      }
+   ]
+}

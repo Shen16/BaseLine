@@ -1,0 +1,245 @@
+{
+   "title": "Winter Olympic Games in PyeongChang 2018 final medal tally",
+   "labels": [
+      "Country",
+      "Gold",
+      "Silver",
+      "Bronze"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This grouped bar chart shows Number of medals on the Y-axis for 30 different Countrys for 3 groups Gold, Silver, and Bronze that are presented on the X-axis. ",
+      " Out of all 3 groups, Gold had the highest Number of medals in Country Norway and Gold had the lowest Number of medals in Country Liechtenstein. ",
+      " Among all the Countrys, Silver had the highest Number of medals in Country Norway and lowest Number of medals in Country Liechtenstein. ",
+      " There is a gap of 14.0 between the highest and lowest Number of medals found for Silver in Country Norway and Liechtenstein. "
+   ],
+   "xAxis": "Country",
+   "yAxis": "Number of medals",
+   "min_summary": [
+      "This grouped bar chart represents 30 different Countrys on X-axis for 3 groups Gold, Silver, and Bronze. On the Y-axis it shows their corresponding Number of medals. ",
+      " Country Norway had the maximum Number of medals among all 3 groups, and it was for Gold. The minimum Number of medals was observed in Country Liechtenstein for Gold. "
+   ],
+   "mid_summary": [
+      "This grouped bar chart shows Number of medals on the Y-axis for 30 different Countrys for 3 groups Gold, Silver, and Bronze that are presented on the X-axis. ",
+      " Out of all 3 groups, Gold had the highest Number of medals in Country Norway and Gold had the lowest Number of medals in Country Liechtenstein. ",
+      " Among all the Countrys, Silver had the highest Number of medals in Country Norway and lowest Number of medals in Country Liechtenstein. ",
+      " There is a gap of 14.0 between the highest and lowest Number of medals found for Silver in Country Norway and Liechtenstein. "
+   ],
+   "max_summary": [
+      "This grouped bar chart represents 30 different Countrys on X-axis for 3 groups Gold, Silver, and Bronze. On the Y-axis it shows their corresponding Number of medals. ",
+      " Country Norway had the maximum Number of medals among all 3 groups, and it was for Gold. The minimum Number of medals was observed in Country Liechtenstein for Gold. ",
+      " Among all the Countrys, Silver had the highest Number of medals 14.0 in Country Norway and lowest value 0.0 in Country Liechtenstein. ",
+      "Country Norway and Liechtenstein had the biggest gap of 14.0 between the highest and lowest Number of medals found for Silver. ",
+      " Among the groups, Gold had the biggest difference in Number of medals. Where the maximum Number of medals was 14.0 times larger than the minimum Number of medals. ",
+      " Gold had the maximum Number of medals out of all 3 groups in Country Norway followed by Gold in Norway, and the minimum Number of medals is found for Gold in Liechtenstein. ",
+      "On average, the Country Norway had the highest Number of medals for all 3 groups Gold, Silver, and Bronze. Whereas Hungary had the lowest average Number of medals. "
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "13": [
+            "3",
+            "0"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "14": [
+            "3",
+            "1"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Country": "Norway",
+         "Gold": "14",
+         "Silver": "14",
+         "Bronze": "11"
+      },
+      {
+         "Country": "Germany",
+         "Gold": "14",
+         "Silver": "10",
+         "Bronze": "7"
+      },
+      {
+         "Country": "Canada",
+         "Gold": "11",
+         "Silver": "8",
+         "Bronze": "10"
+      },
+      {
+         "Country": "United States",
+         "Gold": "9",
+         "Silver": "8",
+         "Bronze": "6"
+      },
+      {
+         "Country": "Netherlands",
+         "Gold": "8",
+         "Silver": "6",
+         "Bronze": "6"
+      },
+      {
+         "Country": "South Korea",
+         "Gold": "5",
+         "Silver": "8",
+         "Bronze": "4"
+      },
+      {
+         "Country": "Olympic Athletes from Russia",
+         "Gold": "2",
+         "Silver": "6",
+         "Bronze": "9"
+      },
+      {
+         "Country": "Switzerland",
+         "Gold": "5",
+         "Silver": "6",
+         "Bronze": "4"
+      },
+      {
+         "Country": "France",
+         "Gold": "5",
+         "Silver": "4",
+         "Bronze": "6"
+      },
+      {
+         "Country": "Sweden",
+         "Gold": "7",
+         "Silver": "6",
+         "Bronze": "1"
+      },
+      {
+         "Country": "Austria",
+         "Gold": "5",
+         "Silver": "3",
+         "Bronze": "6"
+      },
+      {
+         "Country": "Japan",
+         "Gold": "4",
+         "Silver": "5",
+         "Bronze": "4"
+      },
+      {
+         "Country": "Italy",
+         "Gold": "3",
+         "Silver": "2",
+         "Bronze": "5"
+      },
+      {
+         "Country": "China",
+         "Gold": "1",
+         "Silver": "6",
+         "Bronze": "2"
+      },
+      {
+         "Country": "Czech Republic",
+         "Gold": "2",
+         "Silver": "2",
+         "Bronze": "3"
+      },
+      {
+         "Country": "Finland",
+         "Gold": "1",
+         "Silver": "1",
+         "Bronze": "4"
+      },
+      {
+         "Country": "Great Britain",
+         "Gold": "1",
+         "Silver": "0",
+         "Bronze": "4"
+      },
+      {
+         "Country": "Belarus",
+         "Gold": "2",
+         "Silver": "1",
+         "Bronze": "0"
+      },
+      {
+         "Country": "Slovakia",
+         "Gold": "1",
+         "Silver": "2",
+         "Bronze": "0"
+      },
+      {
+         "Country": "Australia",
+         "Gold": "0",
+         "Silver": "2",
+         "Bronze": "1"
+      },
+      {
+         "Country": "Poland",
+         "Gold": "1",
+         "Silver": "0",
+         "Bronze": "1"
+      },
+      {
+         "Country": "Slovenia",
+         "Gold": "0",
+         "Silver": "1",
+         "Bronze": "1"
+      },
+      {
+         "Country": "Spain",
+         "Gold": "0",
+         "Silver": "0",
+         "Bronze": "2"
+      },
+      {
+         "Country": "New Zealand",
+         "Gold": "0",
+         "Silver": "0",
+         "Bronze": "2"
+      },
+      {
+         "Country": "Hungary",
+         "Gold": "1",
+         "Silver": "0",
+         "Bronze": "0"
+      },
+      {
+         "Country": "Ukraine",
+         "Gold": "1",
+         "Silver": "0",
+         "Bronze": "0"
+      },
+      {
+         "Country": "Belgium",
+         "Gold": "0",
+         "Silver": "1",
+         "Bronze": "0"
+      },
+      {
+         "Country": "Kazakhstan",
+         "Gold": "0",
+         "Silver": "0",
+         "Bronze": "1"
+      },
+      {
+         "Country": "Latvia",
+         "Gold": "0",
+         "Silver": "0",
+         "Bronze": "1"
+      },
+      {
+         "Country": "Liechtenstein",
+         "Gold": "0",
+         "Silver": "0",
+         "Bronze": "1"
+      }
+   ]
+}

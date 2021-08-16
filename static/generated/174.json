@@ -1,0 +1,66 @@
+{
+   "title": "Religious diversity in Middle East/North Africa in 2010 , by religion",
+   "xAxis": "Religion",
+   "yAxis": "Percentage of population",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart representing Religion in the x axis and Percentage of population in the y axis. ",
+      "The Percentage of population is highest at Religion Muslims and lowest at Religion Unaffiliated. ",
+      "The highest Religion Muslims has 92.0 more Percentage of population than the lowest Religion Unaffiliated. "
+   ],
+   "min_summary": [
+      "This bar chart has 5 columns on the x axis representing Religion, and Percentage of population in each Religion on the y axis. ",
+      "The Percentage of population is appeared to be the highest at Religion Muslims and lowest at Religion Unaffiliated. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Religion in the x axis and Percentage of population in the y axis. ",
+      "The Percentage of population is highest at Religion Muslims and lowest at Religion Unaffiliated. ",
+      "The highest Religion Muslims has 92.0 more Percentage of population than the lowest Religion Unaffiliated. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Percentage of population for 5 number of Religions. ",
+      "Religion Muslims has the highest Percentage of population and Unaffiliated has the lowest Percentage of population. ",
+      "Religion Christians has the second highest value for Percentage of population. ",
+      "The highest Religion Muslims has 92.0 more Percentage of population than the lowest Religion Unaffiliated. ",
+      "Religion Muslims is higher than any other Religions with value 93.0, followed by Christians, and Jews. Down to Religion Unaffiliated with the lowest value 1.0. ",
+      "Similar Percentage of population is found in Religion Unaffiliated, and Hindus. ",
+      "The Religion Muslims has 4.6 times more Percentage of population than average. ",
+      "The Percentage of population is 101.0 if we add up values of all Religions. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 3,
+         "12": 3
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Religion": "Muslims",
+         "Percentage of population": 93.0
+      },
+      {
+         "Religion": "Christians",
+         "Percentage of population": 4.0
+      },
+      {
+         "Religion": "Jews",
+         "Percentage of population": 2.0
+      },
+      {
+         "Religion": "Unaffiliated",
+         "Percentage of population": 1.0
+      },
+      {
+         "Religion": "Hindus",
+         "Percentage of population": 1.0
+      }
+   ]
+}

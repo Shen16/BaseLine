@@ -1,0 +1,164 @@
+{
+   "title": "Average retail price for white sugar in Canada 2015 to 2019",
+   "labels": [
+      "Month",
+      "2015",
+      "2016",
+      "2017",
+      "2018",
+      "2019"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a grouped bar chart showing Average retail price in CAD on the Y-axis throughout 12 Months for 2015, 2016, 2017, 2018, and 2019 on the X-axis. ",
+      " All through the Months, the Average retail price in CAD for 2019 have increased. On the other hand, for 2018 the Average retail price in CAD have lowered. ",
+      " Month May had the maximum Average retail price in CAD among all 5 groups, and it was for 2017. The minimum Average retail price in CAD was observed in Month Jul for 2019. ",
+      " Among all the Months, 2019 had the highest Average retail price in CAD in Month Jan and lowest Average retail price in CAD in Month Jul. "
+   ],
+   "xAxis": "Month",
+   "yAxis": "Average retail price in CAD",
+   "min_summary": [
+      "This is a grouped bar chart showing Average retail price in CAD on the Y-axis throughout 12 Months for 2015, 2016, 2017, 2018, and 2019 on the X-axis. ",
+      " All through the Months, the Average retail price in CAD for 2019 have increased. On the other hand, for 2018 the Average retail price in CAD have lowered. "
+   ],
+   "mid_summary": [
+      "This is a grouped bar chart showing Average retail price in CAD on the Y-axis throughout 12 Months for 2015, 2016, 2017, 2018, and 2019 on the X-axis. ",
+      " All through the Months, the Average retail price in CAD for 2019 have increased. On the other hand, for 2018 the Average retail price in CAD have lowered. ",
+      " Month May had the maximum Average retail price in CAD among all 5 groups, and it was for 2017. The minimum Average retail price in CAD was observed in Month Jul for 2019. ",
+      " Among all the Months, 2019 had the highest Average retail price in CAD in Month Jan and lowest Average retail price in CAD in Month Jul. "
+   ],
+   "max_summary": [
+      "This is a grouped bar chart showing Average retail price in CAD on the Y-axis throughout 12 Months for 2015, 2016, 2017, 2018, and 2019 on the X-axis. ",
+      " Over the 12 Months, the Average retail price in CAD for 2019 have been increased whereas lowered for 2018. ",
+      " Out of all 5 groups, 2017 had the highest Average retail price in CAD in Month May and 2019 had the lowest Average retail price in CAD in Month Jul. ",
+      " In Month Jan, 2019 had the maximum Average retail price in CAD and it saw the lowest in Month Jul out of all 12 Months. ",
+      "Month Jan and Jul had the biggest gap of 236.0 between the highest and lowest Average retail price in CAD found for 2019. ",
+      " Among all 5 groups, 2016 had the gap of 260.0 between the maximum and minimum Average retail price in CAD observed in Month Aug and Sep respectively. ",
+      " In Month May, 2017 had the highest Average retail price in CAD 294.0 among the 5 groups and in Jul, 2019 had the lowest Average retail price in CAD 25.0. The second highest Average retail price in CAD 271.0 was observed for 2017 in Month May. ",
+      "On average, the Month Jan had the highest Average retail price in CAD for all 5 groups 2015, 2016, 2017, 2018, and 2019. Whereas Dec had the lowest average Average retail price in CAD. "
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "11"
+         ],
+         "13": [
+            "5",
+            "11"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "7"
+         ],
+         "14": [
+            "5",
+            "7"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Month": "Dec",
+         "2015": "2.57",
+         "2016": "2.64",
+         "2017": "2.69",
+         "2018": "2.56",
+         "2019": "2.41"
+      },
+      {
+         "Month": "Nov",
+         "2015": "2.76",
+         "2016": "2.68",
+         "2017": "2.66",
+         "2018": "2.55",
+         "2019": "2.45"
+      },
+      {
+         "Month": "Oct",
+         "2015": "2.77",
+         "2016": "2.72",
+         "2017": "2.68",
+         "2018": "2.67",
+         "2019": "2.44"
+      },
+      {
+         "Month": "Sep",
+         "2015": "2.83",
+         "2016": "2.8",
+         "2017": "2.74",
+         "2018": "2.61",
+         "2019": "2.52"
+      },
+      {
+         "Month": "Aug",
+         "2015": "2.81",
+         "2016": "2.88",
+         "2017": "2.76",
+         "2018": "2.7",
+         "2019": "2.49"
+      },
+      {
+         "Month": "Jul",
+         "2015": "2.81",
+         "2016": "2.84",
+         "2017": "2.79",
+         "2018": "2.67",
+         "2019": "2.5"
+      },
+      {
+         "Month": "Jun",
+         "2015": "2.79",
+         "2016": "2.75",
+         "2017": "2.77",
+         "2018": "2.58",
+         "2019": "2.5"
+      },
+      {
+         "Month": "May",
+         "2015": "2.81",
+         "2016": "2.76",
+         "2017": "2.94",
+         "2018": "2.71",
+         "2019": "2.56"
+      },
+      {
+         "Month": "Apr",
+         "2015": "2.78",
+         "2016": "2.78",
+         "2017": "2.78",
+         "2018": "2.71",
+         "2019": "2.53"
+      },
+      {
+         "Month": "Mar",
+         "2015": "2.81",
+         "2016": "2.69",
+         "2017": "2.83",
+         "2018": "2.58",
+         "2019": "2.59"
+      },
+      {
+         "Month": "Feb",
+         "2015": "2.81",
+         "2016": "2.73",
+         "2017": "2.75",
+         "2018": "2.69",
+         "2019": "2.48"
+      },
+      {
+         "Month": "Jan",
+         "2015": "2.88",
+         "2016": "2.77",
+         "2017": "2.82",
+         "2018": "2.7",
+         "2019": "2.61"
+      }
+   ]
+}

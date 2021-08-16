@@ -1,0 +1,111 @@
+{
+   "title": "Chemical fibers global production 2000 to 2018",
+   "labels": [
+      "Fiber Type",
+      "2000",
+      "2010",
+      "2011",
+      "2012",
+      "2013",
+      "2014",
+      "2015",
+      "2016",
+      "2017",
+      "2018"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This grouped bar chart represents 3 different Fiber Types on X-axis for 10 groups 2000, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, and 2018. On the Y-axis it shows their corresponding SOME LABEL. ",
+      " Fiber Type Total had the maximum SOME LABEL among all 10 groups, and it was for 2018. The minimum SOME LABEL was observed in Fiber Type Cellulose fibers for 2000. ",
+      " Among all the Fiber Types, 2017 had the highest SOME LABEL 71600.0 in Fiber Type Total and lowest value 6700.0 in Fiber Type Cellulose fibers. ",
+      "Fiber Type Total and Cellulose fibers had the biggest gap of 64900.0 between the highest and lowest SOME LABEL found for 2017. "
+   ],
+   "xAxis": "Fiber Type",
+   "yAxis": "SOME LABEL",
+   "min_summary": [
+      "This grouped bar chart represents 3 different Fiber Types on X-axis for 10 groups 2000, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, and 2018. On the Y-axis it shows their corresponding SOME LABEL. ",
+      " Fiber Type Total had the maximum SOME LABEL among all 10 groups, and it was for 2018. The minimum SOME LABEL was observed in Fiber Type Cellulose fibers for 2000. "
+   ],
+   "mid_summary": [
+      "This grouped bar chart represents 3 different Fiber Types on X-axis for 10 groups 2000, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, and 2018. On the Y-axis it shows their corresponding SOME LABEL. ",
+      " Fiber Type Total had the maximum SOME LABEL among all 10 groups, and it was for 2018. The minimum SOME LABEL was observed in Fiber Type Cellulose fibers for 2000. ",
+      " Among all the Fiber Types, 2017 had the highest SOME LABEL 71600.0 in Fiber Type Total and lowest value 6700.0 in Fiber Type Cellulose fibers. ",
+      "Fiber Type Total and Cellulose fibers had the biggest gap of 64900.0 between the highest and lowest SOME LABEL found for 2017. "
+   ],
+   "max_summary": [
+      "This grouped bar chart shows SOME LABEL on the Y-axis for 3 different Fiber Types for 10 groups 2000, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, and 2018 that are presented on the X-axis. ",
+      " In Fiber Type Total, 2018 had the highest SOME LABEL 73400.0 among the 10 groups and in Cellulose fibers, 2000 had the lowest SOME LABEL 2640.0. ",
+      " In Fiber Type Total, 2017 had the maximum SOME LABEL and it saw the lowest in Fiber Type Cellulose fibers out of all 3 Fiber Types. ",
+      " There is a gap of 64900.0 between the highest and lowest SOME LABEL found for 2017 in Fiber Type Total and Cellulose fibers. ",
+      " Among the groups, 2017 had the biggest difference in SOME LABEL. Where the maximum SOME LABEL was 10.69 times larger than the minimum SOME LABEL. ",
+      " 2018 had the maximum SOME LABEL out of all 10 groups in Fiber Type Total followed by 2018 in Total, and the minimum SOME LABEL is found for 2000 in Cellulose fibers. ",
+      "Averaging all 10 groups 2000, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, and 2018, the Fiber Type Total is the maximum SOME LABEL and Cellulose fibers is the minimum SOME LABEL. "
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "2"
+         ],
+         "13": [
+            "10",
+            "2"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "14": [
+            "10",
+            "1"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Fiber Type": "Cellulose fibers",
+         "2000": "2640",
+         "2010": "4400",
+         "2011": "4743",
+         "2012": "5040",
+         "2013": "5900",
+         "2014": "6200",
+         "2015": "6100",
+         "2016": "6400",
+         "2017": "6700",
+         "2018": "6800"
+      },
+      {
+         "Fiber Type": "Synthetic fibers",
+         "2000": "28400",
+         "2010": "45200",
+         "2011": "47957",
+         "2012": "50960",
+         "2013": "54400",
+         "2014": "57100",
+         "2015": "60700",
+         "2016": "64800",
+         "2017": "64900",
+         "2018": "66600"
+      },
+      {
+         "Fiber Type": "Total",
+         "2000": "31040",
+         "2010": "49600",
+         "2011": "52700",
+         "2012": "56000",
+         "2013": "60300",
+         "2014": "63300",
+         "2015": "66800",
+         "2016": "71200",
+         "2017": "71600",
+         "2018": "73400"
+      }
+   ]
+}

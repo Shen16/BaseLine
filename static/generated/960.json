@@ -1,0 +1,124 @@
+{
+   "title": "Canada : Gross Domestic Product ( GDP ) by industry December 2019",
+   "xAxis": "Industry",
+   "yAxis": "GDP in million chained 2012 Canadian dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart. It shows GDP in million chained 2012 Canadian dollars for 20 number of Industrys. ",
+      "The maximum GDP in million chained 2012 Canadian dollars 254294.0 is found at Industry Real estate and rental and leasing and the minimum is found at Management of companies and enterprises where Industry is 9303.0. ",
+      "The difference of GDP in million chained 2012 Canadian dollars between the highest and lowest Industry is 244991.0. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows GDP in million chained 2012 Canadian dollars for 20 number of Industrys. ",
+      "Industry Real estate and rental and leasing has the highest GDP in million chained 2012 Canadian dollars and Management of companies and enterprises has the lowest GDP in million chained 2012 Canadian dollars. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows GDP in million chained 2012 Canadian dollars for 20 number of Industrys. ",
+      "The maximum GDP in million chained 2012 Canadian dollars 254294.0 is found at Industry Real estate and rental and leasing and the minimum is found at Management of companies and enterprises where Industry is 9303.0. ",
+      "The difference of GDP in million chained 2012 Canadian dollars between the highest and lowest Industry is 244991.0. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Industry in the x axis and GDP in million chained 2012 Canadian dollars in the y axis. ",
+      "Industry Real estate and rental and leasing has the highest GDP in million chained 2012 Canadian dollars and Management of companies and enterprises has the lowest GDP in million chained 2012 Canadian dollars. ",
+      "There is a difference of 244991.0 between the maximum Industry Real estate and rental and leasing and minimum Industry Management of companies and enterprises. ",
+      "Industry Real estate and rental and leasing is higher than any other Industrys with value 254294.0, followed by Manufacturing, and Mining quarrying and oil and gas extraction. Down to Industry Management of companies and enterprises with the lowest value 9303.0. ",
+      "The highest value 254294.0 at Real estate and rental and leasing is almost 2.57 times larger than the average value 99092.1. ",
+      "Summing up the values of all Industrys, we get total 1981842.0. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 19,
+         "12": 19
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Industry": "Real estate and rental and leasing",
+         "GDP in million chained 2012 Canadian dollars": 254294.0
+      },
+      {
+         "Industry": "Manufacturing",
+         "GDP in million chained 2012 Canadian dollars": 199234.0
+      },
+      {
+         "Industry": "Mining quarrying and oil and gas extraction",
+         "GDP in million chained 2012 Canadian dollars": 145909.0
+      },
+      {
+         "Industry": "Construction",
+         "GDP in million chained 2012 Canadian dollars": 142530.0
+      },
+      {
+         "Industry": "Health care and social assistance",
+         "GDP in million chained 2012 Canadian dollars": 142028.0
+      },
+      {
+         "Industry": "Public administration",
+         "GDP in million chained 2012 Canadian dollars": 134370.0
+      },
+      {
+         "Industry": "Finance and insurance",
+         "GDP in million chained 2012 Canadian dollars": 133599.0
+      },
+      {
+         "Industry": "Professional scientific and technical services",
+         "GDP in million chained 2012 Canadian dollars": 120820.0
+      },
+      {
+         "Industry": "Educational services",
+         "GDP in million chained 2012 Canadian dollars": 104771.0
+      },
+      {
+         "Industry": "Wholesale trade",
+         "GDP in million chained 2012 Canadian dollars": 103082.0
+      },
+      {
+         "Industry": "Retail trade",
+         "GDP in million chained 2012 Canadian dollars": 102619.0
+      },
+      {
+         "Industry": "Transportation and warehousing",
+         "GDP in million chained 2012 Canadian dollars": 89599.0
+      },
+      {
+         "Industry": "Information and cultural industries",
+         "GDP in million chained 2012 Canadian dollars": 64323.0
+      },
+      {
+         "Industry": "Administrative and support waste management and remediation services",
+         "GDP in million chained 2012 Canadian dollars": 52649.0
+      },
+      {
+         "Industry": "Accommodation and food services",
+         "GDP in million chained 2012 Canadian dollars": 45160.0
+      },
+      {
+         "Industry": "Utilities",
+         "GDP in million chained 2012 Canadian dollars": 43668.0
+      },
+      {
+         "Industry": "Agriculture forestry fishing and hunting",
+         "GDP in million chained 2012 Canadian dollars": 40058.0
+      },
+      {
+         "Industry": "Other services (except public administration)",
+         "GDP in million chained 2012 Canadian dollars": 38127.0
+      },
+      {
+         "Industry": "Arts entertainment and recreation",
+         "GDP in million chained 2012 Canadian dollars": 15699.0
+      },
+      {
+         "Industry": "Management of companies and enterprises",
+         "GDP in million chained 2012 Canadian dollars": 9303.0
+      }
+   ]
+}

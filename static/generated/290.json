@@ -1,0 +1,69 @@
+{
+   "title": "Inner London ( UK ) : population 2011 , by ethnic group",
+   "xAxis": "Ethnic Groups",
+   "yAxis": "Share of population",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart. It shows Share of population for 6 number of Ethnic Groupss. ",
+      "The Share of population is appeared to be the highest at Ethnic Groups White and lowest at Ethnic Groups Gypsy/Traveller/Irish traveller. ",
+      "There is a difference of 57.2 between the maximum Ethnic Groups White and minimum Ethnic Groups Gypsy/Traveller/Irish traveller. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Share of population for 6 number of Ethnic Groupss. ",
+      "The Share of population is appeared to be the highest at Ethnic Groups White and lowest at Ethnic Groups Gypsy/Traveller/Irish traveller. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Share of population for 6 number of Ethnic Groupss. ",
+      "The Share of population is appeared to be the highest at Ethnic Groups White and lowest at Ethnic Groups Gypsy/Traveller/Irish traveller. ",
+      "There is a difference of 57.2 between the maximum Ethnic Groups White and minimum Ethnic Groups Gypsy/Traveller/Irish traveller. "
+   ],
+   "max_summary": [
+      "This bar chart has 6 columns on the x axis representing Ethnic Groups, and Share of population in each Ethnic Groups on the y axis. ",
+      "The Share of population is appeared to be the highest at Ethnic Groups White and lowest at Ethnic Groups Gypsy/Traveller/Irish traveller. ",
+      "Ethnic Groups Black / African / Caribbean / Black British has the second highest value for Share of population. ",
+      "There is a difference of 57.2 between the maximum Ethnic Groups White and minimum Ethnic Groups Gypsy/Traveller/Irish traveller. ",
+      "Ethnic Groups White is higher than any other Ethnic Groupss with value 57.3, followed by Black / African / Caribbean / Black British, and Asian / Asian British. Down to Ethnic Groups Gypsy/Traveller/Irish traveller with the lowest value 0.1. ",
+      "Considered together, the average Share of population in all 6 Ethnic Groupss is roughly 16.72. ",
+      "Summing up the values of all Ethnic Groupss, we get total 100.3. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 5,
+         "12": 5
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Ethnic Groups": "White",
+         "Share of population": 57.3
+      },
+      {
+         "Ethnic Groups": "Black / African / Caribbean / Black British",
+         "Share of population": 16.8
+      },
+      {
+         "Ethnic Groups": "Asian / Asian British",
+         "Share of population": 16.0
+      },
+      {
+         "Ethnic Groups": "Mixed / Multiple ethnic groups",
+         "Share of population": 5.9
+      },
+      {
+         "Ethnic Groups": "Other",
+         "Share of population": 4.2
+      },
+      {
+         "Ethnic Groups": "Gypsy/Traveller/Irish traveller",
+         "Share of population": 0.1
+      }
+   ]
+}

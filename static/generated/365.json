@@ -1,0 +1,88 @@
+{
+   "title": "The Jurassic Park franchise : domestic and global box office revenue 2018",
+   "labels": [
+      "Movie",
+      "North America",
+      "Worldwide"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This grouped bar chart represents 5 different Movies on X-axis for 2 groups North America, and Worldwide. On the Y-axis it shows their corresponding Box office gross in million USD. ",
+      " In Movie Jurassic World, North America had the highest Box office gross in million USD 65227.0 among the 2 groups and in Jurassic Park III, Worldwide had the lowest Box office gross in million USD 3688.0. ",
+      " Among all the Movies, North America had the highest Box office gross in million USD in Movie Jurassic World and lowest Box office gross in million USD in Movie Jurassic Park III. ",
+      " There is a gap of 47110.0 between the highest and lowest Box office gross in million USD found for North America in Movie Jurassic World and Jurassic Park III. "
+   ],
+   "xAxis": "Movie",
+   "yAxis": "Box office gross in million USD",
+   "min_summary": [
+      "This grouped bar chart represents 5 different Movies on X-axis for 2 groups North America, and Worldwide. On the Y-axis it shows their corresponding Box office gross in million USD. ",
+      " Movie Jurassic World had the maximum Box office gross in million USD among all 2 groups, and it was for North America. The minimum Box office gross in million USD was observed in Movie Jurassic Park III for Worldwide. "
+   ],
+   "mid_summary": [
+      "This grouped bar chart represents 5 different Movies on X-axis for 2 groups North America, and Worldwide. On the Y-axis it shows their corresponding Box office gross in million USD. ",
+      " In Movie Jurassic World, North America had the highest Box office gross in million USD 65227.0 among the 2 groups and in Jurassic Park III, Worldwide had the lowest Box office gross in million USD 3688.0. ",
+      " Among all the Movies, North America had the highest Box office gross in million USD in Movie Jurassic World and lowest Box office gross in million USD in Movie Jurassic Park III. ",
+      " There is a gap of 47110.0 between the highest and lowest Box office gross in million USD found for North America in Movie Jurassic World and Jurassic Park III. "
+   ],
+   "max_summary": [
+      "This grouped bar chart shows Box office gross in million USD on the Y-axis for 5 different Movies for 2 groups North America, and Worldwide that are presented on the X-axis. ",
+      " Out of all 2 groups, North America had the highest Box office gross in million USD in Movie Jurassic World and Worldwide had the lowest Box office gross in million USD in Movie Jurassic Park III. ",
+      " In Movie Jurassic World, North America had the maximum Box office gross in million USD and it saw the lowest in Movie Jurassic Park III out of all 5 Movies. ",
+      "Movie Jurassic World and Jurassic Park III had the biggest gap of 47110.0 between the highest and lowest Box office gross in million USD found for North America. ",
+      " Among all 2 groups, North America had the gap of 47110.0 between the maximum and minimum Box office gross in million USD observed in Movie Jurassic World and Jurassic Park III respectively. ",
+      "Averaging all 2 groups North America, and Worldwide, the Movie Jurassic World is the maximum Box office gross in million USD and Jurassic Park III is the minimum Box office gross in million USD. "
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "13": [
+            "2",
+            "0"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "4"
+         ],
+         "14": [
+            "2",
+            "4"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Movie": "Jurassic World",
+         "North America": "652.27",
+         "Worldwide": "1671.7"
+      },
+      {
+         "Movie": "Jurassic Park",
+         "North America": "357.07",
+         "Worldwide": "983.8"
+      },
+      {
+         "Movie": "The Lost World: Jurassic Park",
+         "North America": "229.09",
+         "Worldwide": "618.6"
+      },
+      {
+         "Movie": "Jurassic Park III",
+         "North America": "181.17",
+         "Worldwide": "368.8"
+      },
+      {
+         "Movie": "Jurassic World: Fallen Kingdom",
+         "North America": "416.77",
+         "Worldwide": "1304.8"
+      }
+   ]
+}

@@ -1,0 +1,65 @@
+{
+   "title": "Number of missing persons files in the U.S. by race 2019",
+   "xAxis": "Race",
+   "yAxis": "Number of missing persons",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart representing Race in the x axis and Number of missing persons in the y axis. ",
+      "The Number of missing persons is appeared to be the highest at Race White and lowest at Race Indian. ",
+      "The Number of missing persons of Race White is 34.44% larger than the minimum value at Indian. "
+   ],
+   "min_summary": [
+      "This bar chart has 5 columns on the x axis representing Race, and Number of missing persons in each Race on the y axis. ",
+      "The Number of missing persons is highest at Race White and lowest at Race Indian. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Race in the x axis and Number of missing persons in the y axis. ",
+      "The Number of missing persons is appeared to be the highest at Race White and lowest at Race Indian. ",
+      "The Number of missing persons of Race White is 34.44% larger than the minimum value at Indian. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Race in the x axis and Number of missing persons in the y axis. ",
+      "The maximum Number of missing persons 359768.0 is found at Race White and the minimum is found at Indian where Race is 10447.0. ",
+      "Race Black has the second highest value for Number of missing persons. ",
+      "The maximum Race White has got 34.44 times higher Number of missing persons than the minimum Race Indian. ",
+      "The Race White has the highest Number of missing persons, followed by Black, and Unknown. Down to the Race Indian which is the lowest. ",
+      "The average Number of missing persons in all 5 Races is 121855.0. ",
+      "The Number of missing persons is 609275.0 if we add up values of all Races. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 4,
+         "12": 4
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Race": "White",
+         "Number of missing persons": 359768.0
+      },
+      {
+         "Race": "Black",
+         "Number of missing persons": 205802.0
+      },
+      {
+         "Race": "Unknown",
+         "Number of missing persons": 20587.0
+      },
+      {
+         "Race": "Asian",
+         "Number of missing persons": 12671.0
+      },
+      {
+         "Race": "Indian",
+         "Number of missing persons": 10447.0
+      }
+   ]
+}

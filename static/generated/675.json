@@ -1,0 +1,65 @@
+{
+   "title": "Opinion on novel coronavirus COVID-19 as a health issue India 2020",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart. It shows Share of respondents for 5 number of Responses. ",
+      "Response Staying alert and taking precautions has the highest Share of respondents and Don't know much about coronavirus has the lowest Share of respondents. ",
+      "The difference of Share of respondents between the highest and lowest Response is 69.0. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing Response in the x axis and Share of respondents in the y axis. ",
+      "The maximum Share of respondents 72.0 is found at Response Staying alert and taking precautions and the minimum is found at Don't know much about coronavirus where Response is 3.0. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Share of respondents for 5 number of Responses. ",
+      "Response Staying alert and taking precautions has the highest Share of respondents and Don't know much about coronavirus has the lowest Share of respondents. ",
+      "The difference of Share of respondents between the highest and lowest Response is 69.0. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Share of respondents for 5 number of Responses. ",
+      "Response Staying alert and taking precautions has the highest Share of respondents and Don't know much about coronavirus has the lowest Share of respondents. ",
+      "The highest Response Staying alert and taking precautions has 69.0 more Share of respondents than the lowest Response Don't know much about coronavirus. ",
+      "Response Staying alert and taking precautions is higher than any other Responses with value 72.0, followed by Don't believe it can impact us or Indians at large, and Can't say. Down to Response Don't know much about coronavirus with the lowest value 3.0. ",
+      "Response Don't know much about coronavirus, and Don't believe it can impact us share the same value 3.0. ",
+      "The lowest value 3.0 at Don't know much about coronavirus is almost 3.6 times smaller than the average value 20.0. ",
+      "Summing up the values of all Responses, we get total 100.0. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 3,
+         "12": 3
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Response": "Staying alert and taking precautions",
+         "Share of respondents": 72.0
+      },
+      {
+         "Response": "Don't believe it can impact us or Indians at large",
+         "Share of respondents": 16.0
+      },
+      {
+         "Response": "Can't say",
+         "Share of respondents": 6.0
+      },
+      {
+         "Response": "Don't know much about coronavirus",
+         "Share of respondents": 3.0
+      },
+      {
+         "Response": "Don't believe it can impact us",
+         "Share of respondents": 3.0
+      }
+   ]
+}

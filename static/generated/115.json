@@ -1,0 +1,69 @@
+{
+   "title": "Pet population in Europe 2018 , by animal type",
+   "xAxis": "Pet Type",
+   "yAxis": "Number of pets in thousands",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 6 columns on the x axis representing Pet Type, and Number of pets in thousands in each Pet Type on the y axis. ",
+      "The maximum Number of pets in thousands 103828.0 is found at Pet Type Cat and the minimum is found at Reptiles where Pet Type is 7848.0. ",
+      "The highest Pet Type Cat has 95980.0 more Number of pets in thousands than the lowest Pet Type Reptiles. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Number of pets in thousands for 6 number of Pet Types. ",
+      "The Number of pets in thousands is appeared to be the highest at Pet Type Cat and lowest at Pet Type Reptiles. "
+   ],
+   "mid_summary": [
+      "This bar chart has 6 columns on the x axis representing Pet Type, and Number of pets in thousands in each Pet Type on the y axis. ",
+      "The maximum Number of pets in thousands 103828.0 is found at Pet Type Cat and the minimum is found at Reptiles where Pet Type is 7848.0. ",
+      "The highest Pet Type Cat has 95980.0 more Number of pets in thousands than the lowest Pet Type Reptiles. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Number of pets in thousands for 6 number of Pet Types. ",
+      "The maximum Number of pets in thousands 103828.0 is found at Pet Type Cat and the minimum is found at Reptiles where Pet Type is 7848.0. ",
+      "Second maximum Number of pets in thousands is found at Pet Type Dog. ",
+      "The highest Pet Type Cat has 95980.0 more Number of pets in thousands than the lowest Pet Type Reptiles. ",
+      "Number of pets in thousands at Pet Type Cat is 103828.0 , second place is Dog at 85184.0, and thirdly is Ornamental bird at 50212.0.",
+      "The highest value 103828.0 at Cat is almost 2.15 times larger than the average value 48226.5. ",
+      "The Number of pets in thousands is 289359.0 if we add up values of all Pet Types. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 5,
+         "12": 5
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Pet Type": "Cat",
+         "Number of pets in thousands": 103828.0
+      },
+      {
+         "Pet Type": "Dog",
+         "Number of pets in thousands": 85184.0
+      },
+      {
+         "Pet Type": "Ornamental bird",
+         "Number of pets in thousands": 50212.0
+      },
+      {
+         "Pet Type": "Small mammal",
+         "Number of pets in thousands": 26794.0
+      },
+      {
+         "Pet Type": "Aquaria",
+         "Number of pets in thousands": 15493.0
+      },
+      {
+         "Pet Type": "Reptiles",
+         "Number of pets in thousands": 7848.0
+      }
+   ]
+}

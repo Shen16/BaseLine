@@ -1,0 +1,81 @@
+{
+   "title": "Main export partners of Germany 2017",
+   "xAxis": "Country",
+   "yAxis": "Share in total exports",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 9 columns on the x axis representing Country, and Share in total exports in each Country on the y axis. ",
+      "The maximum Share in total exports 8.8 is found at Country United States and the minimum is found at Switzerland where Country is 4.2. ",
+      "The Share in total exports of Country United States is 2.1% larger than the minimum value at Switzerland. "
+   ],
+   "min_summary": [
+      "This bar chart has 9 columns on the x axis representing Country, and Share in total exports in each Country on the y axis. ",
+      "Country United States has the highest Share in total exports and Switzerland has the lowest Share in total exports. "
+   ],
+   "mid_summary": [
+      "This bar chart has 9 columns on the x axis representing Country, and Share in total exports in each Country on the y axis. ",
+      "The maximum Share in total exports 8.8 is found at Country United States and the minimum is found at Switzerland where Country is 4.2. ",
+      "The Share in total exports of Country United States is 2.1% larger than the minimum value at Switzerland. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Share in total exports for 9 number of Countrys. ",
+      "The Share in total exports is appeared to be the highest at Country United States and lowest at Country Switzerland. ",
+      "The second highest Share in total exports is appeared to be the Country France. ",
+      "The highest Country United States has 4.6 more Share in total exports than the lowest Country Switzerland. ",
+      "Country United States is higher than any other Countrys with value 8.8, followed by France, and China. Down to Country Switzerland with the lowest value 4.2. ",
+      "The lowest value 4.2 at Switzerland is almost 1.41 times smaller than the average value 6.22. ",
+      "Summing up the values of all Countrys, we get total 56.0. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 8,
+         "12": 8
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Country": "United States",
+         "Share in total exports": 8.8
+      },
+      {
+         "Country": "France",
+         "Share in total exports": 8.2
+      },
+      {
+         "Country": "China",
+         "Share in total exports": 6.8
+      },
+      {
+         "Country": "Netherlands",
+         "Share in total exports": 6.7
+      },
+      {
+         "Country": "United Kingdom",
+         "Share in total exports": 6.6
+      },
+      {
+         "Country": "Italy",
+         "Share in total exports": 5.1
+      },
+      {
+         "Country": "Austria",
+         "Share in total exports": 4.9
+      },
+      {
+         "Country": "Poland",
+         "Share in total exports": 4.7
+      },
+      {
+         "Country": "Switzerland",
+         "Share in total exports": 4.2
+      }
+   ]
+}

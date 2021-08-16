@@ -1,0 +1,64 @@
+{
+   "title": "Most popular Canadian product categories purchased by consumers in Canada 2015",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart. It shows Share of respondents for 5 number of Responses. ",
+      "The maximum Share of respondents 87.0 is found at Response Food and the minimum is found at Wine where Response is 34.0. ",
+      "The highest value at Response Food is 2.56x times more than the lowest value at Wine. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Share of respondents for 5 number of Responses. ",
+      "The Share of respondents is highest at Response Food and lowest at Response Wine. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Share of respondents for 5 number of Responses. ",
+      "The maximum Share of respondents 87.0 is found at Response Food and the minimum is found at Wine where Response is 34.0. ",
+      "The highest value at Response Food is 2.56x times more than the lowest value at Wine. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Response in the x axis and Share of respondents in the y axis. ",
+      "The maximum Share of respondents 87.0 is found at Response Food and the minimum is found at Wine where Response is 34.0. ",
+      "Response Beer has the second highest value for Share of respondents. ",
+      "There is a difference of 53.0 between the maximum Response Food and minimum Response Wine. ",
+      "The Response Food has the highest Share of respondents, followed by Beer, and Clothing. Down to the Response Wine which is the lowest. ",
+      "The lowest value 34.0 at Wine is almost 1.74 times smaller than the average value 50.0. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 4,
+         "12": 4
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Response": "Food",
+         "Share of respondents": 87.0
+      },
+      {
+         "Response": "Beer",
+         "Share of respondents": 46.0
+      },
+      {
+         "Response": "Clothing",
+         "Share of respondents": 45.0
+      },
+      {
+         "Response": "Furniture",
+         "Share of respondents": 38.0
+      },
+      {
+         "Response": "Wine",
+         "Share of respondents": 34.0
+      }
+   ]
+}

@@ -1,0 +1,93 @@
+{
+   "title": "Lead reserves worldwide by country 2019",
+   "xAxis": "Country",
+   "yAxis": "Reserves in million metric tons",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 12 columns on the x axis representing Country, and Reserves in million metric tons in each Country on the y axis. ",
+      "Country Australia has the highest Reserves in million metric tons and Other countries has the lowest Reserves in million metric tons. ",
+      "There is a difference of 36.0 between the maximum Country Australia and minimum Country Other countries. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing Country in the x axis and Reserves in million metric tons in the y axis. ",
+      "Country Australia has the highest Reserves in million metric tons and Other countries has the lowest Reserves in million metric tons. "
+   ],
+   "mid_summary": [
+      "This bar chart has 12 columns on the x axis representing Country, and Reserves in million metric tons in each Country on the y axis. ",
+      "Country Australia has the highest Reserves in million metric tons and Other countries has the lowest Reserves in million metric tons. ",
+      "There is a difference of 36.0 between the maximum Country Australia and minimum Country Other countries. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Reserves in million metric tons for 12 number of Countrys. ",
+      "The Reserves in million metric tons is appeared to be the highest at Country Australia and lowest at Country Other countries. ",
+      "The second highest Reserves in million metric tons is appeared to be the Country China. ",
+      "There is a difference of 36.0 between the maximum Country Australia and minimum Country Other countries. ",
+      "Reserves in million metric tons at Country Australia is 36.0 , second place is China at 18.0, and thirdly is Russia at 6.4.",
+      "The average Reserves in million metric tons in all 12 Countrys is 7.11. ",
+      "The Reserves in million metric tons is 85.36 if we add up values of all Countrys. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 11,
+         "12": 11
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Country": "Australia",
+         "Reserves in million metric tons": 36.0
+      },
+      {
+         "Country": "China",
+         "Reserves in million metric tons": 18.0
+      },
+      {
+         "Country": "Russia",
+         "Reserves in million metric tons": 6.4
+      },
+      {
+         "Country": "Peru",
+         "Reserves in million metric tons": 6.3
+      },
+      {
+         "Country": "Mexico",
+         "Reserves in million metric tons": 5.6
+      },
+      {
+         "Country": "United States",
+         "Reserves in million metric tons": 5.0
+      },
+      {
+         "Country": "India",
+         "Reserves in million metric tons": 2.5
+      },
+      {
+         "Country": "Kazakhstan",
+         "Reserves in million metric tons": 2.0
+      },
+      {
+         "Country": "Bolivia",
+         "Reserves in million metric tons": 1.6
+      },
+      {
+         "Country": "Sweden",
+         "Reserves in million metric tons": 1.1
+      },
+      {
+         "Country": "Turkey",
+         "Reserves in million metric tons": 0.86
+      },
+      {
+         "Country": "Other countries",
+         "Reserves in million metric tons": 0.0
+      }
+   ]
+}

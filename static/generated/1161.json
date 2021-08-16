@@ -1,0 +1,92 @@
+{
+   "title": "IT services : Major vendors , by revenue per employee",
+   "xAxis": "It Services Vendor",
+   "yAxis": "Revenue per employee in U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart. It shows Revenue per employee in U.S. dollars for 12 number of It Services Vendors. ",
+      "It Services Vendor IBM has the highest Revenue per employee in U.S. dollars and TCS has the lowest Revenue per employee in U.S. dollars. ",
+      "The difference of Revenue per employee in U.S. dollars between the highest and lowest It Services Vendor is 253124.0. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing It Services Vendor in the x axis and Revenue per employee in U.S. dollars in the y axis. ",
+      "The Revenue per employee in U.S. dollars is highest at It Services Vendor IBM and lowest at It Services Vendor TCS. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Revenue per employee in U.S. dollars for 12 number of It Services Vendors. ",
+      "It Services Vendor IBM has the highest Revenue per employee in U.S. dollars and TCS has the lowest Revenue per employee in U.S. dollars. ",
+      "The difference of Revenue per employee in U.S. dollars between the highest and lowest It Services Vendor is 253124.0. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing It Services Vendor in the x axis and Revenue per employee in U.S. dollars in the y axis. ",
+      "The maximum Revenue per employee in U.S. dollars 289474.0 is found at It Services Vendor IBM and the minimum is found at TCS where It Services Vendor is 36350.0. ",
+      "The difference of Revenue per employee in U.S. dollars between the highest and lowest It Services Vendor is 253124.0. ",
+      "It Services Vendor IBM is higher than any other It Services Vendors with value 289474.0, followed by ACN, and Dell. Down to It Services Vendor TCS with the lowest value 36350.0. ",
+      "The It Services Vendor TCS tends to be 2.23 percent lower than average. ",
+      "Summing up the values of all It Services Vendors, we get total 1554506.0. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 11,
+         "12": 11
+      },
+      {}
+   ],
+   "data": [
+      {
+         "It Services Vendor": "IBM",
+         "Revenue per employee in U.S. dollars": 289474.0
+      },
+      {
+         "It Services Vendor": "ACN",
+         "Revenue per employee in U.S. dollars": 185784.0
+      },
+      {
+         "It Services Vendor": "Dell",
+         "Revenue per employee in U.S. dollars": 177953.0
+      },
+      {
+         "It Services Vendor": "CSC",
+         "Revenue per employee in U.S. dollars": 171628.0
+      },
+      {
+         "It Services Vendor": "HP",
+         "Revenue per employee in U.S. dollars": 165205.0
+      },
+      {
+         "It Services Vendor": "Atos Origin",
+         "Revenue per employee in U.S. dollars": 136838.0
+      },
+      {
+         "It Services Vendor": "XRX/ACS",
+         "Revenue per employee in U.S. dollars": 130230.0
+      },
+      {
+         "It Services Vendor": "Capgemini",
+         "Revenue per employee in U.S. dollars": 120911.0
+      },
+      {
+         "It Services Vendor": "Wipro",
+         "Revenue per employee in U.S. dollars": 54702.0
+      },
+      {
+         "It Services Vendor": "INFY",
+         "Revenue per employee in U.S. dollars": 43946.0
+      },
+      {
+         "It Services Vendor": "CTSH",
+         "Revenue per employee in U.S. dollars": 41485.0
+      },
+      {
+         "It Services Vendor": "TCS",
+         "Revenue per employee in U.S. dollars": 36350.0
+      }
+   ]
+}

@@ -1,0 +1,86 @@
+{
+   "title": "Facebook : number of followers of popular beauty brands 2020",
+   "xAxis": "Month",
+   "yAxis": "Brand fans in millions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart. It shows Brand fans in millions for 10 number of Months. ",
+      "The maximum Brand fans in millions 9.8 is found at Month Bath & Body Works and the minimum is found at Embelleze where Month is 4.01. ",
+      "The difference of Brand fans in millions between the highest and lowest Month is 5.79. "
+   ],
+   "min_summary": [
+      "This bar chart has 10 columns on the x axis representing Month, and Brand fans in millions in each Month on the y axis. ",
+      "The maximum Brand fans in millions 9.8 is found at Month Bath & Body Works and the minimum is found at Embelleze where Month is 4.01. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Brand fans in millions for 10 number of Months. ",
+      "The maximum Brand fans in millions 9.8 is found at Month Bath & Body Works and the minimum is found at Embelleze where Month is 4.01. ",
+      "The difference of Brand fans in millions between the highest and lowest Month is 5.79. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Brand fans in millions for 10 number of Months. ",
+      "The Brand fans in millions is appeared to be the highest at Month Bath & Body Works and lowest at Month Embelleze. ",
+      "Month Risqu\u00e9 has the second highest value for Brand fans in millions. ",
+      "The difference of Brand fans in millions between the highest and lowest Month is 5.79. ",
+      "Month Bath & Body Works is higher than any other Months with value 9.8, followed by Risqu\u00e9, and Mary Kay Brasil. Down to Month Embelleze with the lowest value 4.01. ",
+      "Over the past 10 Months, the Brand fans in millions has lowered. ",
+      "Considered together, the average Brand fans in millions in all 10 Months is roughly 5.64. ",
+      "The Brand fans in millions is 56.38 if we add up values of all Months. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 9,
+         "12": 9
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Month": "Bath & Body Works",
+         "Brand fans in millions": 9.8
+      },
+      {
+         "Month": "Risqu\u00e9",
+         "Brand fans in millions": 7.23
+      },
+      {
+         "Month": "Mary Kay Brasil",
+         "Brand fans in millions": 6.26
+      },
+      {
+         "Month": "Eudora",
+         "Brand fans in millions": 5.56
+      },
+      {
+         "Month": "Pantene Brasil",
+         "Brand fans in millions": 4.92
+      },
+      {
+         "Month": "Doce Pel\u00edcula",
+         "Brand fans in millions": 4.88
+      },
+      {
+         "Month": "Nature Republic Myanmar",
+         "Brand fans in millions": 4.87
+      },
+      {
+         "Month": "COVERGIRL",
+         "Brand fans in millions": 4.64
+      },
+      {
+         "Month": "Dailus",
+         "Brand fans in millions": 4.21
+      },
+      {
+         "Month": "Embelleze",
+         "Brand fans in millions": 4.01
+      }
+   ]
+}

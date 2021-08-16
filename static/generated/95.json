@@ -1,0 +1,84 @@
+{
+   "title": "Top selling Nintendo Wii games worldwide in 2019",
+   "xAxis": "Month",
+   "yAxis": "Sales in million units",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart. It shows Sales in million units for 10 number of Months. ",
+      "The Sales in million units is highest at Month Wii Sports and lowest at Month Wii Party. ",
+      "The maximum Month Wii Sports has got 8.87 times higher Sales in million units than the minimum Month Wii Party. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing Month in the x axis and Sales in million units in the y axis. ",
+      "Month Wii Sports has the highest Sales in million units and Wii Party has the lowest Sales in million units. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Sales in million units for 10 number of Months. ",
+      "The Sales in million units is highest at Month Wii Sports and lowest at Month Wii Party. ",
+      "The maximum Month Wii Sports has got 8.87 times higher Sales in million units than the minimum Month Wii Party. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Month in the x axis and Sales in million units in the y axis. ",
+      "Month Wii Sports has the highest Sales in million units and Wii Party has the lowest Sales in million units. ",
+      "The difference of Sales in million units between the highest and lowest Month is 73.54. ",
+      "Sales in million units at Month Wii Sports is 82.88 , second place is Mario Kart Wii at 37.24, and thirdly is Wii Sports Resort at 33.11.",
+      "Over the past 10 Months, the Sales in million units has reduced. ",
+      "The Month Wii Party tends to be 2.85 percent lower than average. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 9,
+         "12": 9
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Month": "Wii Sports",
+         "Sales in million units": 82.88
+      },
+      {
+         "Month": "Mario Kart Wii",
+         "Sales in million units": 37.24
+      },
+      {
+         "Month": "Wii Sports Resort",
+         "Sales in million units": 33.11
+      },
+      {
+         "Month": "New Super Mario Bros. Wii",
+         "Sales in million units": 30.28
+      },
+      {
+         "Month": "Wii Play",
+         "Sales in million units": 28.02
+      },
+      {
+         "Month": "Wii Fit",
+         "Sales in million units": 22.67
+      },
+      {
+         "Month": "Wii Fit Plus",
+         "Sales in million units": 21.13
+      },
+      {
+         "Month": "Super Smash Bros. Brawl",
+         "Sales in million units": 13.3
+      },
+      {
+         "Month": "Super Mario Galaxy",
+         "Sales in million units": 12.79
+      },
+      {
+         "Month": "Wii Party",
+         "Sales in million units": 9.34
+      }
+   ]
+}

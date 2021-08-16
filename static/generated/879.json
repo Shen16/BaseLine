@@ -1,0 +1,81 @@
+{
+   "title": "Important features of music streaming services in the U.S. 2018",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart representing Response in the x axis and Share of respondents in the y axis. ",
+      "Response The variety of music available has the highest Share of respondents and Artist exclusives has the lowest Share of respondents. ",
+      "The highest Response The variety of music available has 35.0 more Share of respondents than the lowest Response Artist exclusives. "
+   ],
+   "min_summary": [
+      "This bar chart has 9 columns on the x axis representing Response, and Share of respondents in each Response on the y axis. ",
+      "The Share of respondents is highest at Response The variety of music available and lowest at Response Artist exclusives. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Response in the x axis and Share of respondents in the y axis. ",
+      "Response The variety of music available has the highest Share of respondents and Artist exclusives has the lowest Share of respondents. ",
+      "The highest Response The variety of music available has 35.0 more Share of respondents than the lowest Response Artist exclusives. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Response in the x axis and Share of respondents in the y axis. ",
+      "The Share of respondents is appeared to be the highest at Response The variety of music available and lowest at Response Artist exclusives. ",
+      "The second highest Share of respondents is appeared to be the Response Low price point. ",
+      "The difference of Share of respondents between the highest and lowest Response is 35.0. ",
+      "Share of respondents at Response The variety of music available is 81.0 , second place is Low price point at 80.0, and thirdly is The ability to listen on multiple divices at 68.0.",
+      "The Response Artist exclusives tends to be 1.27 percent lower than average. ",
+      "The Share of respondents is 572.0 if we add up values of all Responses. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 8,
+         "12": 8
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Response": "The variety of music available",
+         "Share of respondents": 81.0
+      },
+      {
+         "Response": "Low price point",
+         "Share of respondents": 80.0
+      },
+      {
+         "Response": "The ability to listen on multiple divices",
+         "Share of respondents": 68.0
+      },
+      {
+         "Response": "Clean user interface",
+         "Share of respondents": 66.0
+      },
+      {
+         "Response": "Good algorithms to find new music",
+         "Share of respondents": 58.0
+      },
+      {
+         "Response": "The ability to combine your music library with your streaming service library",
+         "Share of respondents": 64.0
+      },
+      {
+         "Response": "The ability to stream on smart home devices",
+         "Share of respondents": 57.0
+      },
+      {
+         "Response": "Curated playlists",
+         "Share of respondents": 52.0
+      },
+      {
+         "Response": "Artist exclusives",
+         "Share of respondents": 46.0
+      }
+   ]
+}

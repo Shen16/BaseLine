@@ -1,0 +1,174 @@
+{
+   "title": "Average player age of participating national teams at the 2018 World Cup in Russia",
+   "xAxis": "Country",
+   "yAxis": "Average player age in years",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart. It shows Average player age in years for 32 number of Countrys. ",
+      "Country Costa Rica has the highest Average player age in years and Nigeria has the lowest Average player age in years. ",
+      "The minimum Country Nigeria has got 1.14 times less Average player age in years than the maximum Country Costa Rica. "
+   ],
+   "min_summary": [
+      "This bar chart has 32 columns on the x axis representing Country, and Average player age in years in each Country on the y axis. ",
+      "Country Costa Rica has the highest Average player age in years and Nigeria has the lowest Average player age in years. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Average player age in years for 32 number of Countrys. ",
+      "Country Costa Rica has the highest Average player age in years and Nigeria has the lowest Average player age in years. ",
+      "The minimum Country Nigeria has got 1.14 times less Average player age in years than the maximum Country Costa Rica. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Country in the x axis and Average player age in years in the y axis. ",
+      "The Average player age in years is highest at Country Costa Rica and lowest at Country Nigeria. ",
+      "Second maximum Average player age in years is found at Country Mexico. ",
+      "The difference of Average player age in years between the highest and lowest Country is 3.7. ",
+      "Country Costa Rica is higher than any other Countrys with value 29.6, followed by Mexico, and Argentina. Down to Country Nigeria with the lowest value 25.9. ",
+      "Country Sweden, Uruguay, Colombia, and Australia have a similar Average player age in years that is 28.1. ",
+      "The Country Nigeria tends to be 1.06 percent lower than average. ",
+      "Summing up the values of all Countrys, we get total 891.6. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 31,
+         "12": 31
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Country": "Costa Rica",
+         "Average player age in years": 29.6
+      },
+      {
+         "Country": "Mexico",
+         "Average player age in years": 29.4
+      },
+      {
+         "Country": "Argentina",
+         "Average player age in years": 29.3
+      },
+      {
+         "Country": "Egypt",
+         "Average player age in years": 29.0
+      },
+      {
+         "Country": "Panama",
+         "Average player age in years": 28.9
+      },
+      {
+         "Country": "Russia",
+         "Average player age in years": 28.8
+      },
+      {
+         "Country": "Saudi Arabia",
+         "Average player age in years": 28.7
+      },
+      {
+         "Country": "Brazil",
+         "Average player age in years": 28.6
+      },
+      {
+         "Country": "Iceland",
+         "Average player age in years": 28.6
+      },
+      {
+         "Country": "Japan",
+         "Average player age in years": 28.5
+      },
+      {
+         "Country": "Spain",
+         "Average player age in years": 28.4
+      },
+      {
+         "Country": "Portugal",
+         "Average player age in years": 28.3
+      },
+      {
+         "Country": "Poland",
+         "Average player age in years": 28.2
+      },
+      {
+         "Country": "Sweden",
+         "Average player age in years": 28.1
+      },
+      {
+         "Country": "Uruguay",
+         "Average player age in years": 28.1
+      },
+      {
+         "Country": "Colombia",
+         "Average player age in years": 28.1
+      },
+      {
+         "Country": "Australia",
+         "Average player age in years": 28.1
+      },
+      {
+         "Country": "Croatia",
+         "Average player age in years": 27.9
+      },
+      {
+         "Country": "South Korea",
+         "Average player age in years": 27.8
+      },
+      {
+         "Country": "Belgium",
+         "Average player age in years": 27.6
+      },
+      {
+         "Country": "Peru",
+         "Average player age in years": 27.4
+      },
+      {
+         "Country": "Senegal",
+         "Average player age in years": 27.2
+      },
+      {
+         "Country": "Switzerland",
+         "Average player age in years": 27.2
+      },
+      {
+         "Country": "Morocco",
+         "Average player age in years": 27.2
+      },
+      {
+         "Country": "Iran",
+         "Average player age in years": 27.2
+      },
+      {
+         "Country": "Germany",
+         "Average player age in years": 27.1
+      },
+      {
+         "Country": "Denmark",
+         "Average player age in years": 27.1
+      },
+      {
+         "Country": "Serbia",
+         "Average player age in years": 26.8
+      },
+      {
+         "Country": "Tunisia",
+         "Average player age in years": 26.5
+      },
+      {
+         "Country": "France",
+         "Average player age in years": 26.0
+      },
+      {
+         "Country": "England",
+         "Average player age in years": 26.0
+      },
+      {
+         "Country": "Nigeria",
+         "Average player age in years": 25.9
+      }
+   ]
+}

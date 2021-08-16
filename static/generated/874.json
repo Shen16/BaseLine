@@ -1,0 +1,61 @@
+{
+   "title": "Uber users in the United States 2017 , by device",
+   "xAxis": "Device",
+   "yAxis": "Number of visits",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart representing Device in the x axis and Number of visits in the y axis. ",
+      "The Number of visits is highest at Device Smartphone and lowest at Device Tablet. ",
+      "The highest Device Smartphone has 16.5 more Number of visits than the lowest Device Tablet. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing Device in the x axis and Number of visits in the y axis. ",
+      "The Number of visits is highest at Device Smartphone and lowest at Device Tablet. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Device in the x axis and Number of visits in the y axis. ",
+      "The Number of visits is highest at Device Smartphone and lowest at Device Tablet. ",
+      "The highest Device Smartphone has 16.5 more Number of visits than the lowest Device Tablet. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Number of visits for 4 number of Devices. ",
+      "The Number of visits is highest at Device Smartphone and lowest at Device Tablet. ",
+      "Device Mobile-only has the second highest value for Number of visits. ",
+      "There is a difference of 16.5 between the maximum Device Smartphone and minimum Device Tablet. ",
+      "Number of visits at Device Smartphone is 17.7 , second place is Mobile-only at 16.6, and thirdly is Desktop at 6.8.",
+      "The Device Tablet tends to be 1.67 percent lower than average. ",
+      "The Number of visits is 42.3 if we add up values of all Devices. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 1,
+         "12": 1
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Device": "Smartphone",
+         "Number of visits": 17.7
+      },
+      {
+         "Device": "Tablet",
+         "Number of visits": 1.2
+      },
+      {
+         "Device": "Desktop",
+         "Number of visits": 6.8
+      },
+      {
+         "Device": "Mobile-only",
+         "Number of visits": 16.6
+      }
+   ]
+}

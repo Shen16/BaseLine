@@ -1,0 +1,84 @@
+{
+   "title": "Countries with the largest number of cosmetic procedures 2018",
+   "xAxis": "Country",
+   "yAxis": "Number of procedures",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 10 columns on the x axis representing Country, and Number of procedures in each Country on the y axis. ",
+      "The maximum Number of procedures 4361867.0 is found at Country United States and the minimum is found at Thailand where Country is 140123.0. ",
+      "The highest Country United States has 4221744.0 more Number of procedures than the lowest Country Thailand. "
+   ],
+   "min_summary": [
+      "This bar chart has 10 columns on the x axis representing Country, and Number of procedures in each Country on the y axis. ",
+      "The Number of procedures is appeared to be the highest at Country United States and lowest at Country Thailand. "
+   ],
+   "mid_summary": [
+      "This bar chart has 10 columns on the x axis representing Country, and Number of procedures in each Country on the y axis. ",
+      "The maximum Number of procedures 4361867.0 is found at Country United States and the minimum is found at Thailand where Country is 140123.0. ",
+      "The highest Country United States has 4221744.0 more Number of procedures than the lowest Country Thailand. "
+   ],
+   "max_summary": [
+      "This bar chart has 10 columns on the x axis representing Country, and Number of procedures in each Country on the y axis. ",
+      "The Number of procedures is highest at Country United States and lowest at Country Thailand. ",
+      "Second maximum Number of procedures is found at Country Brazil. ",
+      "The maximum Country United States has got 31.13 times higher Number of procedures than the minimum Country Thailand. ",
+      "The Country United States has the highest Number of procedures, followed by Brazil, and Mexico. Down to the Country Thailand which is the lowest. ",
+      "Considered together, the average Number of procedures in all 10 Countrys is roughly 1170519.3. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 9,
+         "12": 9
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Country": "United States",
+         "Number of procedures": 4361867.0
+      },
+      {
+         "Country": "Brazil",
+         "Number of procedures": 2267405.0
+      },
+      {
+         "Country": "Mexico",
+         "Number of procedures": 1043247.0
+      },
+      {
+         "Country": "Germany",
+         "Number of procedures": 922056.0
+      },
+      {
+         "Country": "India",
+         "Number of procedures": 895896.0
+      },
+      {
+         "Country": "Italy",
+         "Number of procedures": 854208.0
+      },
+      {
+         "Country": "Argentina",
+         "Number of procedures": 608960.0
+      },
+      {
+         "Country": "Colombia",
+         "Number of procedures": 408789.0
+      },
+      {
+         "Country": "Australia",
+         "Number of procedures": 202642.0
+      },
+      {
+         "Country": "Thailand",
+         "Number of procedures": 140123.0
+      }
+   ]
+}

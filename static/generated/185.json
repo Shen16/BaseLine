@@ -1,0 +1,89 @@
+{
+   "title": "Number of oncology practices in the U.S. by region and size 2013",
+   "labels": [
+      "Country",
+      "1-2 physicians",
+      "3-6 physicians",
+      "7 or more physicians"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This grouped bar chart represents 4 different Countrys on X-axis for 3 groups 1-2 physicians, 3-6 physicians, and 7 or more physicians. On the Y-axis it shows their corresponding Number of new patients. ",
+      " Country South had the maximum Number of new patients among all 3 groups, and it was for 7 or more physicians. The minimum Number of new patients was observed in Country West for 1-2 physicians. ",
+      " Among all the Countrys, 7 or more physicians had the highest Number of new patients in Country South and lowest Number of new patients in Country Northeast. ",
+      " There is a gap of 35.0 between the highest and lowest Number of new patients found for 7 or more physicians in Country South and Northeast. "
+   ],
+   "xAxis": "Country",
+   "yAxis": "Number of new patients",
+   "min_summary": [
+      "This grouped bar chart represents 4 different Countrys on X-axis for 3 groups 1-2 physicians, 3-6 physicians, and 7 or more physicians. On the Y-axis it shows their corresponding Number of new patients. ",
+      " Out of all 3 groups, 7 or more physicians had the highest Number of new patients in Country South and 1-2 physicians had the lowest Number of new patients in Country West. "
+   ],
+   "mid_summary": [
+      "This grouped bar chart represents 4 different Countrys on X-axis for 3 groups 1-2 physicians, 3-6 physicians, and 7 or more physicians. On the Y-axis it shows their corresponding Number of new patients. ",
+      " Country South had the maximum Number of new patients among all 3 groups, and it was for 7 or more physicians. The minimum Number of new patients was observed in Country West for 1-2 physicians. ",
+      " Among all the Countrys, 7 or more physicians had the highest Number of new patients in Country South and lowest Number of new patients in Country Northeast. ",
+      " There is a gap of 35.0 between the highest and lowest Number of new patients found for 7 or more physicians in Country South and Northeast. "
+   ],
+   "max_summary": [
+      "This grouped bar chart represents 4 different Countrys on X-axis for 3 groups 1-2 physicians, 3-6 physicians, and 7 or more physicians. On the Y-axis it shows their corresponding Number of new patients. ",
+      " Country South had the maximum Number of new patients among all 3 groups, and it was for 7 or more physicians. The minimum Number of new patients was observed in Country West for 1-2 physicians. ",
+      " In Country South, 7 or more physicians had the highest Number of new patients among all 4 Countrys and it has the lowest Number of new patients in Country Northeast. ",
+      "Country South and Northeast had the biggest gap of 35.0 between the highest and lowest Number of new patients found for 7 or more physicians. ",
+      " Among the groups, 1-2 physicians had the biggest difference in Number of new patients. Where the maximum Number of new patients was 2.46 times larger than the minimum Number of new patients. ",
+      " 7 or more physicians had the maximum Number of new patients out of all 3 groups in Country South followed by 7 or more physicians in South, and the minimum Number of new patients is found for 1-2 physicians in West. ",
+      "On average, the Country South had the highest Number of new patients for all 3 groups 1-2 physicians, 3-6 physicians, and 7 or more physicians. Whereas Northeast had the lowest average Number of new patients. "
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "2"
+         ],
+         "13": [
+            "3",
+            "2"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "14": [
+            "3",
+            "0"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Country": "Midwest",
+         "1-2 physicians": "33",
+         "3-6 physicians": "41",
+         "7 or more physicians": "55"
+      },
+      {
+         "Country": "Northeast",
+         "1-2 physicians": "31",
+         "3-6 physicians": "41",
+         "7 or more physicians": "40"
+      },
+      {
+         "Country": "South",
+         "1-2 physicians": "59",
+         "3-6 physicians": "29",
+         "7 or more physicians": "75"
+      },
+      {
+         "Country": "West",
+         "1-2 physicians": "24",
+         "3-6 physicians": "46",
+         "7 or more physicians": "52"
+      }
+   ]
+}

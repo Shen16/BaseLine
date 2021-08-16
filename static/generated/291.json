@@ -1,0 +1,94 @@
+{
+   "title": "BMW Group - shipments 2006 to 2018",
+   "xAxis": "Year",
+   "yAxis": "Automobile sales in units",
+   "columnType": "two",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Automobile sales in units. In total the number of data points it has is 13.",
+      " Overall Automobile sales in units has increased over the Year.",
+      "Automobile sales in units is roughly constant from 2006 to 2008, roughly decreasing from 2008 to 2009, gradually increasing from 2009 to 2015, and finally roughly constant from 2015 to 2018.",
+      "The line significantly ",
+      "The steepest increase occurs in between the Year 2010 and 2011.",
+      "Maximum Automobile sales in units, about 2490664.0 was reported at Year 2018",
+      "The lowest Automobile sales in units, of value 1286310.0 was reported at Year 2009"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Automobile sales in units. In total the number of data points it has is 13.",
+      " In general Automobile sales in units has rose over the Year.",
+      "Automobile sales in units is roughly constant from 2006 to 2008, roughly decreasing from 2008 to 2009, gradually increasing from 2009 to 2015, and finally roughly constant from 2015 to 2018."
+   ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Automobile sales in units. In total the number of data points it has is 13.",
+      " In general Automobile sales in units has rose over the Year.",
+      "Automobile sales in units is roughly constant from 2006 to 2008, roughly decreasing from 2008 to 2009, gradually increasing from 2009 to 2015, and finally roughly constant from 2015 to 2018.",
+      "The steepest increase occurs in between the Year 2010 and 2011.",
+      "Maximum Automobile sales in units, about 2490664.0 was reported at Year 2018",
+      "The lowest Automobile sales in units, of value 1286310.0 was reported at Year 2009"
+   ],
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Automobile sales in units. In total the number of data points it has is 13.",
+      " Overall Automobile sales in units has increased over the Year.",
+      "Automobile sales in units is roughly constant from 2006 to 2008, roughly decreasing from 2008 to 2009, gradually increasing from 2009 to 2015, and finally roughly constant from 2015 to 2018.",
+      "The steepest increase occurs in between the Year 2010 and 2011.",
+      "Maximum Automobile sales in units, about 2490664.0 was reported at Year 2018",
+      "The lowest Automobile sales in units, of value 1286310.0 was reported at Year 2009",
+      "The line rapidly "
+   ],
+   "trends": [],
+   "data": [
+      {
+         "Year": "2018",
+         "Automobile sales in units": 2490664.0
+      },
+      {
+         "Year": "2017",
+         "Automobile sales in units": 2463526.0
+      },
+      {
+         "Year": "2016",
+         "Automobile sales in units": 2367603.0
+      },
+      {
+         "Year": "2015",
+         "Automobile sales in units": 2247485.0
+      },
+      {
+         "Year": "2014",
+         "Automobile sales in units": 2117965.0
+      },
+      {
+         "Year": "2013",
+         "Automobile sales in units": 1963798.0
+      },
+      {
+         "Year": "2012",
+         "Automobile sales in units": 1845186.0
+      },
+      {
+         "Year": "2011",
+         "Automobile sales in units": 1668982.0
+      },
+      {
+         "Year": "2010",
+         "Automobile sales in units": 1461166.0
+      },
+      {
+         "Year": "2009",
+         "Automobile sales in units": 1286310.0
+      },
+      {
+         "Year": "2008",
+         "Automobile sales in units": 1435876.0
+      },
+      {
+         "Year": "2007",
+         "Automobile sales in units": 1500678.0
+      },
+      {
+         "Year": "2006",
+         "Automobile sales in units": 1373970.0
+      }
+   ]
+}

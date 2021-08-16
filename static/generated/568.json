@@ -1,0 +1,81 @@
+{
+   "title": "Population of regions in England in 2018",
+   "xAxis": "Region",
+   "yAxis": "Number of inhabitants (in millions)",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart representing Region in the x axis and Number of inhabitants (in millions) in the y axis. ",
+      "The maximum Number of inhabitants (in millions) 9.13 is found at Region South East and the minimum is found at North East where Region is 2.66. ",
+      "The highest Region South East has 6.47 more Number of inhabitants (in millions) than the lowest Region North East. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Number of inhabitants (in millions) for 9 number of Regions. ",
+      "The Number of inhabitants (in millions) is appeared to be the highest at Region South East and lowest at Region North East. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Region in the x axis and Number of inhabitants (in millions) in the y axis. ",
+      "The maximum Number of inhabitants (in millions) 9.13 is found at Region South East and the minimum is found at North East where Region is 2.66. ",
+      "The highest Region South East has 6.47 more Number of inhabitants (in millions) than the lowest Region North East. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Number of inhabitants (in millions) for 9 number of Regions. ",
+      "The Number of inhabitants (in millions) is appeared to be the highest at Region South East and lowest at Region North East. ",
+      "The second highest Number of inhabitants (in millions) is appeared to be the Region London. ",
+      "The highest Region South East has 6.47 more Number of inhabitants (in millions) than the lowest Region North East. ",
+      "Region South East is higher than any other Regions with value 9.13, followed by London, and North West. Down to Region North East with the lowest value 2.66. ",
+      "The average Number of inhabitants (in millions) in all 9 Regions is 6.21. ",
+      "The Number of inhabitants (in millions) is 55.92 if we add up values of all Regions. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 8,
+         "12": 8
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Region": "South East",
+         "Number of inhabitants (in millions)": 9.13
+      },
+      {
+         "Region": "London",
+         "Number of inhabitants (in millions)": 8.9
+      },
+      {
+         "Region": "North West",
+         "Number of inhabitants (in millions)": 7.29
+      },
+      {
+         "Region": "East",
+         "Number of inhabitants (in millions)": 6.2
+      },
+      {
+         "Region": "West Midlands",
+         "Number of inhabitants (in millions)": 5.9
+      },
+      {
+         "Region": "South West",
+         "Number of inhabitants (in millions)": 5.56
+      },
+      {
+         "Region": "Yorkshire And The Humber",
+         "Number of inhabitants (in millions)": 5.48
+      },
+      {
+         "Region": "East Midlands",
+         "Number of inhabitants (in millions)": 4.8
+      },
+      {
+         "Region": "North East",
+         "Number of inhabitants (in millions)": 2.66
+      }
+   ]
+}

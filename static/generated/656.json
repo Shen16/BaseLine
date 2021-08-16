@@ -1,0 +1,125 @@
+{
+   "title": "Top U.S. states based on milk production 2016 to 2018",
+   "labels": [
+      "State",
+      "2016",
+      "2017",
+      "2018"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This grouped bar chart shows SOME LABEL on the Y-axis for 10 different States for 3 groups 2016, 2017, and 2018 that are presented on the X-axis. ",
+      " Out of all 3 groups, 2016 had the highest SOME LABEL in State California and 2017 had the lowest SOME LABEL in State Washington. ",
+      " Among all the States, 2017 had the highest SOME LABEL 39798.0 in State California and lowest value 6526.0 in State Washington. ",
+      "State California and Washington had the biggest gap of 33272.0 between the highest and lowest SOME LABEL found for 2017. "
+   ],
+   "xAxis": "State",
+   "yAxis": "SOME LABEL",
+   "min_summary": [
+      "This grouped bar chart represents 10 different States on X-axis for 3 groups 2016, 2017, and 2018. On the Y-axis it shows their corresponding SOME LABEL. ",
+      " Out of all 3 groups, 2016 had the highest SOME LABEL in State California and 2017 had the lowest SOME LABEL in State Washington. "
+   ],
+   "mid_summary": [
+      "This grouped bar chart shows SOME LABEL on the Y-axis for 10 different States for 3 groups 2016, 2017, and 2018 that are presented on the X-axis. ",
+      " Out of all 3 groups, 2016 had the highest SOME LABEL in State California and 2017 had the lowest SOME LABEL in State Washington. ",
+      " Among all the States, 2017 had the highest SOME LABEL 39798.0 in State California and lowest value 6526.0 in State Washington. ",
+      "State California and Washington had the biggest gap of 33272.0 between the highest and lowest SOME LABEL found for 2017. "
+   ],
+   "max_summary": [
+      "This grouped bar chart represents 10 different States on X-axis for 3 groups 2016, 2017, and 2018. On the Y-axis it shows their corresponding SOME LABEL. ",
+      " In State California, 2016 had the highest SOME LABEL 40469.0 among the 3 groups and in Washington, 2017 had the lowest SOME LABEL 6526.0. ",
+      " In State California, 2017 had the maximum SOME LABEL and it saw the lowest in State Washington out of all 10 States. ",
+      "State California and Washington had the biggest gap of 33272.0 between the highest and lowest SOME LABEL found for 2017. ",
+      " Among all 3 groups, 2016 had the gap of 33819.0 between the maximum and minimum SOME LABEL observed in State California and Washington respectively. ",
+      " In State California, 2016 had the highest SOME LABEL 40469.0 among the 3 groups and in Washington, 2017 had the lowest SOME LABEL 6526.0. The second highest SOME LABEL 40413.0 was observed for 2016 in State California. ",
+      "Averaging all 3 groups 2016, 2017, and 2018, the State California is the maximum SOME LABEL and Washington is the minimum SOME LABEL. "
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "13": [
+            "3",
+            "0"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "14": [
+            "3",
+            "1"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "State": "California",
+         "2016": "40469",
+         "2017": "39798",
+         "2018": "40413"
+      },
+      {
+         "State": "Wisconsin",
+         "2016": "30123",
+         "2017": "30320",
+         "2018": "30579"
+      },
+      {
+         "State": "Idaho",
+         "2016": "14665",
+         "2017": "14627",
+         "2018": "15149"
+      },
+      {
+         "State": "New York",
+         "2016": "14765",
+         "2017": "14912",
+         "2018": "14882"
+      },
+      {
+         "State": "Texas",
+         "2016": "10773",
+         "2017": "12054",
+         "2018": "12852"
+      },
+      {
+         "State": "Michigan",
+         "2016": "10876",
+         "2017": "11231",
+         "2018": "11168"
+      },
+      {
+         "State": "Pennsylvania",
+         "2016": "10820",
+         "2017": "10938",
+         "2018": "10665"
+      },
+      {
+         "State": "Minnesota",
+         "2016": "9666",
+         "2017": "9864",
+         "2018": "9868"
+      },
+      {
+         "State": "New Mexico",
+         "2016": "7711",
+         "2017": "8212",
+         "2018": "8285"
+      },
+      {
+         "State": "Washington",
+         "2016": "6650",
+         "2017": "6526",
+         "2018": "6736"
+      }
+   ]
+}

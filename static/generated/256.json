@@ -1,0 +1,85 @@
+{
+   "title": "Market share of the global luggage market 2015 , by company",
+   "xAxis": "Company",
+   "yAxis": "Market share",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart representing Company in the x axis and Market share in the y axis. ",
+      "The maximum Market share 17.3 is found at Company Samsonite International SA and the minimum is found at Shanghai Taifeng Cases Co Ltd where Company is 0.6. ",
+      "There is a difference of 16.7 between the maximum Company Samsonite International SA and minimum Company Shanghai Taifeng Cases Co Ltd. "
+   ],
+   "min_summary": [
+      "This bar chart has 10 columns on the x axis representing Company, and Market share in each Company on the y axis. ",
+      "Company Samsonite International SA has the highest Market share and Shanghai Taifeng Cases Co Ltd has the lowest Market share. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Company in the x axis and Market share in the y axis. ",
+      "The maximum Market share 17.3 is found at Company Samsonite International SA and the minimum is found at Shanghai Taifeng Cases Co Ltd where Company is 0.6. ",
+      "There is a difference of 16.7 between the maximum Company Samsonite International SA and minimum Company Shanghai Taifeng Cases Co Ltd. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Company in the x axis and Market share in the y axis. ",
+      "The Market share is appeared to be the highest at Company Samsonite International SA and lowest at Company Shanghai Taifeng Cases Co Ltd. ",
+      "There is a difference of 16.7 between the maximum Company Samsonite International SA and minimum Company Shanghai Taifeng Cases Co Ltd. ",
+      "Company Samsonite International SA is higher than any other Companys with value 17.3, followed by LVMH Mo\u00ebt Hennessy Louis Vuitton SA, and Delsey SA. Down to Company Shanghai Taifeng Cases Co Ltd with the lowest value 0.6. ",
+      "Company VF Corp, and Tumi Holdings Inc share the same value 1.3. ",
+      "The lowest value 0.6 at Shanghai Taifeng Cases Co Ltd is almost 5.34 times smaller than the average value 3.24. ",
+      "The Market share is 32.4 if we add up values of all Companys. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 9,
+         "12": 9
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Company": "Samsonite International SA",
+         "Market share": 17.3
+      },
+      {
+         "Company": "LVMH Mo\u00ebt Hennessy Louis Vuitton SA",
+         "Market share": 5.0
+      },
+      {
+         "Company": "Delsey SA",
+         "Market share": 2.0
+      },
+      {
+         "Company": "Rimowa GmbH",
+         "Market share": 1.8
+      },
+      {
+         "Company": "VF Corp",
+         "Market share": 1.3
+      },
+      {
+         "Company": "Tumi Holdings Inc",
+         "Market share": 1.3
+      },
+      {
+         "Company": "VIP Industries Ltd",
+         "Market share": 1.2
+      },
+      {
+         "Company": "Kering SA",
+         "Market share": 1.0
+      },
+      {
+         "Company": "Herm\u00e8s International SCA",
+         "Market share": 0.9
+      },
+      {
+         "Company": "Shanghai Taifeng Cases Co Ltd",
+         "Market share": 0.6
+      }
+   ]
+}

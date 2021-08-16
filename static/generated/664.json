@@ -1,0 +1,68 @@
+{
+   "title": "Deaths per day in West African countries with 2014 Ebola outbreak by disease",
+   "xAxis": "Diseases",
+   "yAxis": "Number of deaths per day",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart representing Diseases in the x axis and Number of deaths per day in the y axis. ",
+      "The Number of deaths per day is highest at Diseases HIV/AIDS and lowest at Diseases Ebola. ",
+      "Diseases HIV/AIDS has 171.25 times more Number of deaths per day than Diseases Ebola which is has the lowest. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Number of deaths per day for 6 number of Diseasess. ",
+      "Diseases HIV/AIDS has the highest Number of deaths per day and Ebola has the lowest Number of deaths per day. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Diseases in the x axis and Number of deaths per day in the y axis. ",
+      "The Number of deaths per day is highest at Diseases HIV/AIDS and lowest at Diseases Ebola. ",
+      "Diseases HIV/AIDS has 171.25 times more Number of deaths per day than Diseases Ebola which is has the lowest. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Number of deaths per day for 6 number of Diseasess. ",
+      "Diseases HIV/AIDS has the highest Number of deaths per day and Ebola has the lowest Number of deaths per day. ",
+      "Diseases Malaria has the second highest value for Number of deaths per day. ",
+      "The minimum Diseases Ebola has got 171.25 times less Number of deaths per day than the maximum Diseases HIV/AIDS. ",
+      "Number of deaths per day at Diseases HIV/AIDS is 685.0 , second place is Malaria at 552.0, and thirdly is Diarrhoea at 404.0.",
+      "The Diseases HIV/AIDS tends to be 2.32 percent higher than average. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 5,
+         "12": 5
+      },
+      {
+         "7": 0,
+         "12": 0
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Diseases": "Ebola",
+         "Number of deaths per day": 4.0
+      },
+      {
+         "Diseases": "Lassa fever",
+         "Number of deaths per day": 14.0
+      },
+      {
+         "Diseases": "Tuberculosis",
+         "Number of deaths per day": 110.0
+      },
+      {
+         "Diseases": "Diarrhoea",
+         "Number of deaths per day": 404.0
+      },
+      {
+         "Diseases": "Malaria",
+         "Number of deaths per day": 552.0
+      },
+      {
+         "Diseases": "HIV/AIDS",
+         "Number of deaths per day": 685.0
+      }
+   ]
+}

@@ -1,0 +1,54 @@
+{
+   "title": "Global distribution systems : company revenues 2017",
+   "xAxis": "Company",
+   "yAxis": "Revenue in billion U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart representing Company in the x axis and Revenue in billion U.S. dollars in the y axis. ",
+      "The Revenue in billion U.S. dollars is highest at Company Amadeus and lowest at Company Travelport. ",
+      "The highest value at Company Amadeus is 2.37x times more than the lowest value at Travelport. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Revenue in billion U.S. dollars for 3 number of Companys. ",
+      "The Revenue in billion U.S. dollars is appeared to be the highest at Company Amadeus and lowest at Company Travelport. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Company in the x axis and Revenue in billion U.S. dollars in the y axis. ",
+      "The Revenue in billion U.S. dollars is highest at Company Amadeus and lowest at Company Travelport. ",
+      "The highest value at Company Amadeus is 2.37x times more than the lowest value at Travelport. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Revenue in billion U.S. dollars for 3 number of Companys. ",
+      "The maximum Revenue in billion U.S. dollars 5.81 is found at Company Amadeus and the minimum is found at Travelport where Company is 2.45. ",
+      "The difference of Revenue in billion U.S. dollars between the highest and lowest Company is 3.36. ",
+      "The Company Amadeus has 1.47 times more Revenue in billion U.S. dollars than average. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 2,
+         "12": 2
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Company": "Amadeus",
+         "Revenue in billion U.S. dollars": 5.81
+      },
+      {
+         "Company": "Sabre",
+         "Revenue in billion U.S. dollars": 3.6
+      },
+      {
+         "Company": "Travelport",
+         "Revenue in billion U.S. dollars": 2.45
+      }
+   ]
+}

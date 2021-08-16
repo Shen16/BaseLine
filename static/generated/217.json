@@ -1,0 +1,87 @@
+{
+   "title": "U.S. students who have used hallucinogenic drugs 2017",
+   "labels": [
+      "Sex",
+      "All races / ethnicities",
+      "White (non-Hispanic)",
+      "Black (non-Hispanic)",
+      "Hispanic"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This grouped bar chart represents 3 different Sexs on X-axis for 4 groups All races / ethnicities, White (non-Hispanic), Black (non-Hispanic), and Hispanic. On the Y-axis it shows their corresponding Share of students. ",
+      " In Sex Male, Hispanic had the highest Share of students 82.0 among the 4 groups and in Female, Black (non-Hispanic) had the lowest Share of students 14.0. ",
+      " Among all the Sexs, Hispanic had the highest Share of students 82.0 in Sex Male and lowest value 58.0 in Sex Female. ",
+      "Sex Male and Female had the biggest gap of 24.0 between the highest and lowest Share of students found for Hispanic. "
+   ],
+   "xAxis": "Sex",
+   "yAxis": "Share of students",
+   "min_summary": [
+      "This grouped bar chart represents 3 different Sexs on X-axis for 4 groups All races / ethnicities, White (non-Hispanic), Black (non-Hispanic), and Hispanic. On the Y-axis it shows their corresponding Share of students. ",
+      " In Sex Male, Hispanic had the highest Share of students 82.0 among the 4 groups and in Female, Black (non-Hispanic) had the lowest Share of students 14.0. "
+   ],
+   "mid_summary": [
+      "This grouped bar chart represents 3 different Sexs on X-axis for 4 groups All races / ethnicities, White (non-Hispanic), Black (non-Hispanic), and Hispanic. On the Y-axis it shows their corresponding Share of students. ",
+      " In Sex Male, Hispanic had the highest Share of students 82.0 among the 4 groups and in Female, Black (non-Hispanic) had the lowest Share of students 14.0. ",
+      " Among all the Sexs, Hispanic had the highest Share of students 82.0 in Sex Male and lowest value 58.0 in Sex Female. ",
+      "Sex Male and Female had the biggest gap of 24.0 between the highest and lowest Share of students found for Hispanic. "
+   ],
+   "max_summary": [
+      "This grouped bar chart represents 3 different Sexs on X-axis for 4 groups All races / ethnicities, White (non-Hispanic), Black (non-Hispanic), and Hispanic. On the Y-axis it shows their corresponding Share of students. ",
+      " Sex Male had the maximum Share of students among all 4 groups, and it was for Hispanic. The minimum Share of students was observed in Sex Female for Black (non-Hispanic). ",
+      " Among all the Sexs, Hispanic had the highest Share of students 82.0 in Sex Male and lowest value 58.0 in Sex Female. ",
+      " The maximum Share of students for Hispanic that was found in Sex Male was 1.41 times larger than the minimum Share of students observed in Sex Female. ",
+      " Among the groups, Black (non-Hispanic) had the biggest difference in Share of students. Where the maximum Share of students was 3.43 times larger than the minimum Share of students. ",
+      " Hispanic had the maximum Share of students out of all 4 groups in Sex Male followed by Hispanic in Male, and the minimum Share of students is found for Black (non-Hispanic) in Female. ",
+      "On average, the Sex Male had the highest Share of students for all 4 groups All races / ethnicities, White (non-Hispanic), Black (non-Hispanic), and Hispanic. Whereas Female had the lowest average Share of students. "
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "13": [
+            "4",
+            "1"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "2"
+         ],
+         "14": [
+            "4",
+            "2"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Sex": "Female",
+         "All races / ethnicities": "5.5",
+         "White (non-Hispanic)": "6.4",
+         "Black (non-Hispanic)": "1.4",
+         "Hispanic": "5.8"
+      },
+      {
+         "Sex": "Male",
+         "All races / ethnicities": "7.6",
+         "White (non-Hispanic)": "7.9",
+         "Black (non-Hispanic)": "4.8",
+         "Hispanic": "8.2"
+      },
+      {
+         "Sex": "Total",
+         "All races / ethnicities": "6.6",
+         "White (non-Hispanic)": "7.2",
+         "Black (non-Hispanic)": "3.3",
+         "Hispanic": "7.1"
+      }
+   ]
+}

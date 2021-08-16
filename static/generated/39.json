@@ -1,0 +1,77 @@
+{
+   "title": "Most popular cheese brands in the United Kingdom ( UK ) 2013",
+   "xAxis": "Cheese Brands",
+   "yAxis": "Share of respondents currently purchasing",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart. It shows Share of respondents currently purchasing for 8 number of Cheese Brandss. ",
+      "The Share of respondents currently purchasing is highest at Cheese Brands Cathedral City and lowest at Cheese Brands Babybel. ",
+      "The difference of Share of respondents currently purchasing between the highest and lowest Cheese Brands is 34.0. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing Cheese Brands in the x axis and Share of respondents currently purchasing in the y axis. ",
+      "The Share of respondents currently purchasing is highest at Cheese Brands Cathedral City and lowest at Cheese Brands Babybel. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Share of respondents currently purchasing for 8 number of Cheese Brandss. ",
+      "The Share of respondents currently purchasing is highest at Cheese Brands Cathedral City and lowest at Cheese Brands Babybel. ",
+      "The difference of Share of respondents currently purchasing between the highest and lowest Cheese Brands is 34.0. "
+   ],
+   "max_summary": [
+      "This bar chart has 8 columns on the x axis representing Cheese Brands, and Share of respondents currently purchasing in each Cheese Brands on the y axis. ",
+      "Cheese Brands Cathedral City has the highest Share of respondents currently purchasing and Babybel has the lowest Share of respondents currently purchasing. ",
+      "Cheese Brands Supermarket own label cheese has the second highest value for Share of respondents currently purchasing. ",
+      "The minimum Cheese Brands Babybel has got 3.0 times less Share of respondents currently purchasing than the maximum Cheese Brands Cathedral City. ",
+      "Cheese Brands Cathedral City is higher than any other Cheese Brandss with value 51.0, followed by Supermarket own label cheese, and Philadelphia. Down to Cheese Brands Babybel with the lowest value 17.0. ",
+      "The Cheese Brands Cathedral City has 1.77 times more Share of respondents currently purchasing than average. ",
+      "Summing up the values of all Cheese Brandss, we get total 231.0. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 7,
+         "12": 7
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Cheese Brands": "Cathedral City",
+         "Share of respondents currently purchasing": 51.0
+      },
+      {
+         "Cheese Brands": "Supermarket own label cheese",
+         "Share of respondents currently purchasing": 42.0
+      },
+      {
+         "Cheese Brands": "Philadelphia",
+         "Share of respondents currently purchasing": 27.0
+      },
+      {
+         "Cheese Brands": "Pilgrims Choice",
+         "Share of respondents currently purchasing": 26.0
+      },
+      {
+         "Cheese Brands": "Dairylea",
+         "Share of respondents currently purchasing": 25.0
+      },
+      {
+         "Cheese Brands": "Philadelphia Light",
+         "Share of respondents currently purchasing": 23.0
+      },
+      {
+         "Cheese Brands": "Seriously Strong Cheddar",
+         "Share of respondents currently purchasing": 20.0
+      },
+      {
+         "Cheese Brands": "Babybel",
+         "Share of respondents currently purchasing": 17.0
+      }
+   ]
+}

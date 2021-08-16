@@ -1,0 +1,77 @@
+{
+   "title": "FIFA World Cup 2014 Brazil total costs",
+   "xAxis": "Breakdown of Project",
+   "yAxis": "Costs in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart. It shows Costs in million U.S. dollars for 8 number of Breakdown of Projects. ",
+      "The Costs in million U.S. dollars is appeared to be the highest at Breakdown of Project Stadium construction & renovation and lowest at Breakdown of Project Tourism infrastructure projects. ",
+      "The highest Breakdown of Project Stadium construction & renovation has 3524.0 more Costs in million U.S. dollars than the lowest Breakdown of Project Tourism infrastructure projects. "
+   ],
+   "min_summary": [
+      "This bar chart has 8 columns on the x axis representing Breakdown of Project, and Costs in million U.S. dollars in each Breakdown of Project on the y axis. ",
+      "The Costs in million U.S. dollars is appeared to be the highest at Breakdown of Project Stadium construction & renovation and lowest at Breakdown of Project Tourism infrastructure projects. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Costs in million U.S. dollars for 8 number of Breakdown of Projects. ",
+      "The Costs in million U.S. dollars is appeared to be the highest at Breakdown of Project Stadium construction & renovation and lowest at Breakdown of Project Tourism infrastructure projects. ",
+      "The highest Breakdown of Project Stadium construction & renovation has 3524.0 more Costs in million U.S. dollars than the lowest Breakdown of Project Tourism infrastructure projects. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Costs in million U.S. dollars for 8 number of Breakdown of Projects. ",
+      "The Costs in million U.S. dollars is highest at Breakdown of Project Stadium construction & renovation and lowest at Breakdown of Project Tourism infrastructure projects. ",
+      "Second maximum Costs in million U.S. dollars is found at Breakdown of Project Urban mobility projects. ",
+      "The minimum Breakdown of Project Tourism infrastructure projects has got 47.37 times less Costs in million U.S. dollars than the maximum Breakdown of Project Stadium construction & renovation. ",
+      "Breakdown of Project Stadium construction & renovation is higher than any other Breakdown of Projects with value 3600.0, followed by Urban mobility projects, and Upgrades at airports. Down to Breakdown of Project Tourism infrastructure projects with the lowest value 76.0. ",
+      "The highest value 3600.0 at Stadium construction & renovation is almost 2.62 times larger than the average value 1372.62. ",
+      "Summing up the values of all Breakdown of Projects, we get total 10981.0. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 7,
+         "12": 7
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Breakdown of Project": "Stadium construction & renovation",
+         "Costs in million U.S. dollars": 3600.0
+      },
+      {
+         "Breakdown of Project": "Urban mobility projects",
+         "Costs in million U.S. dollars": 3400.0
+      },
+      {
+         "Breakdown of Project": "Upgrades at airports",
+         "Costs in million U.S. dollars": 2600.0
+      },
+      {
+         "Breakdown of Project": "Public security & military defence forces",
+         "Costs in million U.S. dollars": 797.0
+      },
+      {
+         "Breakdown of Project": "Port infrastructure",
+         "Costs in million U.S. dollars": 249.0
+      },
+      {
+         "Breakdown of Project": "Telecommunications networks & services",
+         "Costs in million U.S. dollars": 171.0
+      },
+      {
+         "Breakdown of Project": "Complementary work for Confederations Cup",
+         "Costs in million U.S. dollars": 88.0
+      },
+      {
+         "Breakdown of Project": "Tourism infrastructure projects",
+         "Costs in million U.S. dollars": 76.0
+      }
+   ]
+}

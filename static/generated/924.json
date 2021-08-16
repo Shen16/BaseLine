@@ -1,0 +1,165 @@
+{
+   "title": "Payroll taxes in EU countries 2018",
+   "xAxis": "Country",
+   "yAxis": "Payroll taxes of 100 euros gross earnings",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart. It shows Payroll taxes of 100 euros gross earnings for 30 number of Countrys. ",
+      "The Payroll taxes of 100 euros gross earnings is highest at Country Sweden and lowest at Country Romania. ",
+      "The difference of Payroll taxes of 100 euros gross earnings between the highest and lowest Country is 48.0. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Payroll taxes of 100 euros gross earnings for 30 number of Countrys. ",
+      "The maximum Payroll taxes of 100 euros gross earnings 48.0 is found at Country Sweden and the minimum is found at Romania where Country is 0.0. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Payroll taxes of 100 euros gross earnings for 30 number of Countrys. ",
+      "The Payroll taxes of 100 euros gross earnings is highest at Country Sweden and lowest at Country Romania. ",
+      "The difference of Payroll taxes of 100 euros gross earnings between the highest and lowest Country is 48.0. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Payroll taxes of 100 euros gross earnings for 30 number of Countrys. ",
+      "Country Sweden has the highest Payroll taxes of 100 euros gross earnings and Romania has the lowest Payroll taxes of 100 euros gross earnings. ",
+      "The second highest Payroll taxes of 100 euros gross earnings is appeared to be the Country France. ",
+      "Country Sweden has 4800000000000.0 times more Payroll taxes of 100 euros gross earnings than Country Romania which is has the lowest. ",
+      "The Country Sweden has the highest Payroll taxes of 100 euros gross earnings, followed by France, and Lithuania. Down to the Country Romania which is the lowest. ",
+      "Country Czech Republic, Belgium, and Slowakia have the same Payroll taxes of 100 euros gross earnings. ",
+      "The Country Sweden tends to be 1.75 percent higher than average. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 29,
+         "12": 29
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Country": "Sweden",
+         "Payroll taxes of 100 euros gross earnings": 48.0
+      },
+      {
+         "Country": "France",
+         "Payroll taxes of 100 euros gross earnings": 45.0
+      },
+      {
+         "Country": "Lithuania",
+         "Payroll taxes of 100 euros gross earnings": 43.0
+      },
+      {
+         "Country": "Italy",
+         "Payroll taxes of 100 euros gross earnings": 40.0
+      },
+      {
+         "Country": "Austria",
+         "Payroll taxes of 100 euros gross earnings": 38.0
+      },
+      {
+         "Country": "Czech Republic",
+         "Payroll taxes of 100 euros gross earnings": 37.0
+      },
+      {
+         "Country": "Belgium",
+         "Payroll taxes of 100 euros gross earnings": 37.0
+      },
+      {
+         "Country": "Slowakia",
+         "Payroll taxes of 100 euros gross earnings": 37.0
+      },
+      {
+         "Country": "Estonia",
+         "Payroll taxes of 100 euros gross earnings": 35.0
+      },
+      {
+         "Country": "Spain",
+         "Payroll taxes of 100 euros gross earnings": 35.0
+      },
+      {
+         "Country": "Euro area",
+         "Payroll taxes of 100 euros gross earnings": 34.0
+      },
+      {
+         "Country": "Greece",
+         "Payroll taxes of 100 euros gross earnings": 33.0
+      },
+      {
+         "Country": "Netherlands",
+         "Payroll taxes of 100 euros gross earnings": 30.0
+      },
+      {
+         "Country": "EU",
+         "Payroll taxes of 100 euros gross earnings": 30.0
+      },
+      {
+         "Country": "Latvia",
+         "Payroll taxes of 100 euros gross earnings": 29.0
+      },
+      {
+         "Country": "Germany",
+         "Payroll taxes of 100 euros gross earnings": 27.0
+      },
+      {
+         "Country": "Portugal",
+         "Payroll taxes of 100 euros gross earnings": 26.0
+      },
+      {
+         "Country": "Finland",
+         "Payroll taxes of 100 euros gross earnings": 25.0
+      },
+      {
+         "Country": "Hungary",
+         "Payroll taxes of 100 euros gross earnings": 25.0
+      },
+      {
+         "Country": "Poland",
+         "Payroll taxes of 100 euros gross earnings": 22.0
+      },
+      {
+         "Country": "United Kingdom",
+         "Payroll taxes of 100 euros gross earnings": 20.0
+      },
+      {
+         "Country": "Slovenia",
+         "Payroll taxes of 100 euros gross earnings": 19.0
+      },
+      {
+         "Country": "Croatia",
+         "Payroll taxes of 100 euros gross earnings": 19.0
+      },
+      {
+         "Country": "Bulgaria",
+         "Payroll taxes of 100 euros gross earnings": 19.0
+      },
+      {
+         "Country": "Ireland",
+         "Payroll taxes of 100 euros gross earnings": 18.0
+      },
+      {
+         "Country": "Cyprus",
+         "Payroll taxes of 100 euros gross earnings": 16.0
+      },
+      {
+         "Country": "Denmark",
+         "Payroll taxes of 100 euros gross earnings": 16.0
+      },
+      {
+         "Country": "Luxembourg",
+         "Payroll taxes of 100 euros gross earnings": 13.0
+      },
+      {
+         "Country": "Malta",
+         "Payroll taxes of 100 euros gross earnings": 8.0
+      },
+      {
+         "Country": "Romania",
+         "Payroll taxes of 100 euros gross earnings": 0.0
+      }
+   ]
+}

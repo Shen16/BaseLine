@@ -1,0 +1,56 @@
+{
+   "title": "Leading bar soap brands ranked by sales value in the United Kingdom ( UK ) 2014",
+   "xAxis": "Soap Bar Brand",
+   "yAxis": "Sales in million GBP",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart. It shows Sales in million GBP for 3 number of Soap Bar Brands. ",
+      "The Sales in million GBP is highest at Soap Bar Brand Dove and lowest at Soap Bar Brand Simple. ",
+      "There is a difference of 21.0 between the maximum Soap Bar Brand Dove and minimum Soap Bar Brand Simple. "
+   ],
+   "min_summary": [
+      "This bar chart has 3 columns on the x axis representing Soap Bar Brand, and Sales in million GBP in each Soap Bar Brand on the y axis. ",
+      "Soap Bar Brand Dove has the highest Sales in million GBP and Simple has the lowest Sales in million GBP. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Sales in million GBP for 3 number of Soap Bar Brands. ",
+      "The Sales in million GBP is highest at Soap Bar Brand Dove and lowest at Soap Bar Brand Simple. ",
+      "There is a difference of 21.0 between the maximum Soap Bar Brand Dove and minimum Soap Bar Brand Simple. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Sales in million GBP for 3 number of Soap Bar Brands. ",
+      "The maximum Sales in million GBP 26.8 is found at Soap Bar Brand Dove and the minimum is found at Simple where Soap Bar Brand is 5.8. ",
+      "Second maximum Sales in million GBP is found at Soap Bar Brand Imperial Leather. ",
+      "The highest value at Soap Bar Brand Dove is 4.62x times more than the lowest value at Simple. ",
+      "The Soap Bar Brand Dove tends to be 1.84 percent higher than average. ",
+      "Summing up the values of all Soap Bar Brands, we get total 43.7. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 2,
+         "12": 2
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Soap Bar Brand": "Dove",
+         "Sales in million GBP": 26.8
+      },
+      {
+         "Soap Bar Brand": "Imperial Leather",
+         "Sales in million GBP": 11.1
+      },
+      {
+         "Soap Bar Brand": "Simple",
+         "Sales in million GBP": 5.8
+      }
+   ]
+}

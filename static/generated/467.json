@@ -1,0 +1,86 @@
+{
+   "title": "Leading Youtubers from the Netherlands based on subscribers 2018",
+   "xAxis": "Month",
+   "yAxis": "Number of subscribers in thousands",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart. It shows Number of subscribers in thousands for 10 number of Months. ",
+      "Month Trap City has the highest Number of subscribers in thousands and Ti\u00ebsto has the lowest Number of subscribers in thousands. ",
+      "The maximum Month Trap City has got 3.75 times higher Number of subscribers in thousands than the minimum Month Ti\u00ebsto. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Number of subscribers in thousands for 10 number of Months. ",
+      "Month Trap City has the highest Number of subscribers in thousands and Ti\u00ebsto has the lowest Number of subscribers in thousands. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Number of subscribers in thousands for 10 number of Months. ",
+      "Month Trap City has the highest Number of subscribers in thousands and Ti\u00ebsto has the lowest Number of subscribers in thousands. ",
+      "The maximum Month Trap City has got 3.75 times higher Number of subscribers in thousands than the minimum Month Ti\u00ebsto. "
+   ],
+   "max_summary": [
+      "This bar chart has 10 columns on the x axis representing Month, and Number of subscribers in thousands in each Month on the y axis. ",
+      "The Number of subscribers in thousands is highest at Month Trap City and lowest at Month Ti\u00ebsto. ",
+      "Month NikkieTutorials has the second highest value for Number of subscribers in thousands. ",
+      "The lowest value at Month Ti\u00ebsto is 3.75x times less than the highest value at Trap City. ",
+      "Month Trap City is higher than any other Months with value 9333.53, followed by NikkieTutorials, and Martin Garrix. Down to Month Ti\u00ebsto with the lowest value 2485.82. ",
+      "The Number of subscribers in thousands has decreased over the past 10 Months. ",
+      "The lowest value 2485.82 at Ti\u00ebsto is almost 1.63 times smaller than the average value 5734.78. ",
+      "Summing up the values of all Months, we get total 57347.76. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 9,
+         "12": 9
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Month": "Trap City",
+         "Number of subscribers in thousands": 9333.53
+      },
+      {
+         "Month": "NikkieTutorials",
+         "Number of subscribers in thousands": 8883.0
+      },
+      {
+         "Month": "Martin Garrix",
+         "Number of subscribers in thousands": 8102.89
+      },
+      {
+         "Month": "Kwebbelkop",
+         "Number of subscribers in thousands": 7898.74
+      },
+      {
+         "Month": "Jelly",
+         "Number of subscribers in thousands": 7643.67
+      },
+      {
+         "Month": "Hardwell",
+         "Number of subscribers in thousands": 4084.03
+      },
+      {
+         "Month": "Armada Music",
+         "Number of subscribers in thousands": 3261.56
+      },
+      {
+         "Month": "saskiasdansschool",
+         "Number of subscribers in thousands": 3032.43
+      },
+      {
+         "Month": "NiceNienke",
+         "Number of subscribers in thousands": 2622.09
+      },
+      {
+         "Month": "Ti\u00ebsto",
+         "Number of subscribers in thousands": 2485.82
+      }
+   ]
+}

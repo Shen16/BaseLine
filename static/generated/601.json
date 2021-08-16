@@ -1,0 +1,133 @@
+{
+   "title": "Household rent to income ratio in the United Kingdom ( UK ) 2018 - 2019 , by region",
+   "labels": [
+      "Region",
+      "Oct' 18",
+      "Oct '19"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This grouped bar chart shows SOME LABEL on the Y-axis for 14 different Regions for 2 groups Oct' 18, and Oct '19 that are presented on the X-axis. ",
+      " In Region London, Oct' 18 had the highest SOME LABEL 366.0 among the 2 groups and in Yorkshire & Humber, Oct' 18 had the lowest SOME LABEL 26.0. ",
+      " Among all the Regions, Oct '19 had the highest SOME LABEL 356.0 in Region London and lowest value 27.0 in Region Scotland. ",
+      " The maximum SOME LABEL for Oct '19 that was found in Region London was 13.19 times larger than the minimum SOME LABEL observed in Region Scotland. "
+   ],
+   "xAxis": "Region",
+   "yAxis": "SOME LABEL",
+   "min_summary": [
+      "This grouped bar chart shows SOME LABEL on the Y-axis for 14 different Regions for 2 groups Oct' 18, and Oct '19 that are presented on the X-axis. ",
+      " In Region London, Oct' 18 had the highest SOME LABEL 366.0 among the 2 groups and in Yorkshire & Humber, Oct' 18 had the lowest SOME LABEL 26.0. "
+   ],
+   "mid_summary": [
+      "This grouped bar chart shows SOME LABEL on the Y-axis for 14 different Regions for 2 groups Oct' 18, and Oct '19 that are presented on the X-axis. ",
+      " In Region London, Oct' 18 had the highest SOME LABEL 366.0 among the 2 groups and in Yorkshire & Humber, Oct' 18 had the lowest SOME LABEL 26.0. ",
+      " Among all the Regions, Oct '19 had the highest SOME LABEL 356.0 in Region London and lowest value 27.0 in Region Scotland. ",
+      " The maximum SOME LABEL for Oct '19 that was found in Region London was 13.19 times larger than the minimum SOME LABEL observed in Region Scotland. "
+   ],
+   "max_summary": [
+      "This grouped bar chart represents 14 different Regions on X-axis for 2 groups Oct' 18, and Oct '19. On the Y-axis it shows their corresponding SOME LABEL. ",
+      " In Region London, Oct' 18 had the highest SOME LABEL 366.0 among the 2 groups and in Yorkshire & Humber, Oct' 18 had the lowest SOME LABEL 26.0. ",
+      " Among all the Regions, Oct '19 had the highest SOME LABEL 356.0 in Region London and lowest value 27.0 in Region Scotland. ",
+      "Region London and Scotland had the biggest gap of 329.0 between the highest and lowest SOME LABEL found for Oct '19. ",
+      " Among the groups, Oct' 18 had the biggest difference in SOME LABEL. Where the maximum SOME LABEL was 14.08 times larger than the minimum SOME LABEL. ",
+      "On average, the Region London had the highest SOME LABEL for all 2 groups Oct' 18, and Oct '19. Whereas North East had the lowest average SOME LABEL. "
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "13": [
+            "2",
+            "0"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "14": [
+            "2",
+            "1"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Region": "London",
+         "Oct' 18": "36.6",
+         "Oct '19": "35.6"
+      },
+      {
+         "Region": "South West",
+         "Oct' 18": "32.8",
+         "Oct '19": "31.5"
+      },
+      {
+         "Region": "South East",
+         "Oct' 18": "31.6",
+         "Oct '19": "31.6"
+      },
+      {
+         "Region": "UK Average",
+         "Oct' 18": "31",
+         "Oct '19": "30.6"
+      },
+      {
+         "Region": "East England",
+         "Oct' 18": "30.3",
+         "Oct '19": "30.3"
+      },
+      {
+         "Region": "UK Average (Excluding London)",
+         "Oct' 18": "29.4",
+         "Oct '19": "29.2"
+      },
+      {
+         "Region": "Wales",
+         "Oct' 18": "29",
+         "Oct '19": "29.3"
+      },
+      {
+         "Region": "East Midlands",
+         "Oct' 18": "28.7",
+         "Oct '19": "28.8"
+      },
+      {
+         "Region": "North West",
+         "Oct' 18": "28.6",
+         "Oct '19": "27.1"
+      },
+      {
+         "Region": "West Midlands",
+         "Oct' 18": "28.5",
+         "Oct '19": "29.2"
+      },
+      {
+         "Region": "Scotland",
+         "Oct' 18": "27.5",
+         "Oct '19": "27"
+      },
+      {
+         "Region": "Northern Ireland",
+         "Oct' 18": "26.6",
+         "Oct '19": "25.9"
+      },
+      {
+         "Region": "Yorkshire & Humber",
+         "Oct' 18": "26",
+         "Oct '19": "26.3"
+      },
+      {
+         "Region": "North East",
+         "Oct' 18": "24.4",
+         "Oct '19": "23.7"
+      }
+   ]
+}

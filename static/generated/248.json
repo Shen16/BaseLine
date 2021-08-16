@@ -1,0 +1,91 @@
+{
+   "title": "Average price for properties for sale in Rome , Italy 2019 , by area",
+   "xAxis": "Area",
+   "yAxis": "Price in euros per square meter",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 12 columns on the x axis representing Area, and Price in euros per square meter in each Area on the y axis. ",
+      "The maximum Price in euros per square meter 7817.0 is found at Area Centro Storico and the minimum is found at Gregorio VII Baldo degli Ubaldi where Area is 3972.0. ",
+      "There is a difference of 3845.0 between the maximum Area Centro Storico and minimum Area Gregorio VII Baldo degli Ubaldi. "
+   ],
+   "min_summary": [
+      "This bar chart has 12 columns on the x axis representing Area, and Price in euros per square meter in each Area on the y axis. ",
+      "The maximum Price in euros per square meter 7817.0 is found at Area Centro Storico and the minimum is found at Gregorio VII Baldo degli Ubaldi where Area is 3972.0. "
+   ],
+   "mid_summary": [
+      "This bar chart has 12 columns on the x axis representing Area, and Price in euros per square meter in each Area on the y axis. ",
+      "The maximum Price in euros per square meter 7817.0 is found at Area Centro Storico and the minimum is found at Gregorio VII Baldo degli Ubaldi where Area is 3972.0. ",
+      "There is a difference of 3845.0 between the maximum Area Centro Storico and minimum Area Gregorio VII Baldo degli Ubaldi. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Area in the x axis and Price in euros per square meter in the y axis. ",
+      "The Price in euros per square meter is highest at Area Centro Storico and lowest at Area Gregorio VII Baldo degli Ubaldi. ",
+      "The difference of Price in euros per square meter between the highest and lowest Area is 3845.0. ",
+      "The Area Centro Storico has the highest Price in euros per square meter, followed by Aventino San Saba Caracalla, and Parioli Flaminio. Down to the Area Gregorio VII Baldo degli Ubaldi which is the lowest. ",
+      "The Area Centro Storico tends to be 1.54 percent higher than average. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 11,
+         "12": 11
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Area": "Centro Storico",
+         "Price in euros per square meter": 7817.0
+      },
+      {
+         "Area": "Aventino San Saba Caracalla",
+         "Price in euros per square meter": 6910.0
+      },
+      {
+         "Area": "Parioli Flaminio",
+         "Price in euros per square meter": 5622.0
+      },
+      {
+         "Area": "Testaccio Trastevere",
+         "Price in euros per square meter": 5435.0
+      },
+      {
+         "Area": "Prati Borgo Mazzini Delle Vittorie",
+         "Price in euros per square meter": 5137.0
+      },
+      {
+         "Area": "Salario Trieste",
+         "Price in euros per square meter": 4884.0
+      },
+      {
+         "Area": "Bologna Policlinico",
+         "Price in euros per square meter": 4531.0
+      },
+      {
+         "Area": "Corso Francia Vigna Clara Fleming Ponte Milvio",
+         "Price in euros per square meter": 4289.0
+      },
+      {
+         "Area": "Termini Repubblica",
+         "Price in euros per square meter": 4107.0
+      },
+      {
+         "Area": "Camilluccia Cortina d'Ampezzo",
+         "Price in euros per square meter": 4099.0
+      },
+      {
+         "Area": "Balduina Medaglie d'Oro Degli Eroi",
+         "Price in euros per square meter": 4000.0
+      },
+      {
+         "Area": "Gregorio VII Baldo degli Ubaldi",
+         "Price in euros per square meter": 3972.0
+      }
+   ]
+}

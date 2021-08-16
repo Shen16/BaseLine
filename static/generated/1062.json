@@ -1,0 +1,122 @@
+{
+   "title": "Average monthly salary in Sweden 2018 , by industry",
+   "xAxis": "Industry",
+   "yAxis": "Average salary in SEK",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart representing Industry in the x axis and Average salary in SEK in the y axis. ",
+      "The Average salary in SEK is highest at Industry Financial institutions and insurance companies and lowest at Industry Hotels and restaurants. ",
+      "The maximum Industry Financial institutions and insurance companies has got 1.98 times higher Average salary in SEK than the minimum Industry Hotels and restaurants. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing Industry in the x axis and Average salary in SEK in the y axis. ",
+      "The Average salary in SEK is highest at Industry Financial institutions and insurance companies and lowest at Industry Hotels and restaurants. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Industry in the x axis and Average salary in SEK in the y axis. ",
+      "The Average salary in SEK is highest at Industry Financial institutions and insurance companies and lowest at Industry Hotels and restaurants. ",
+      "The maximum Industry Financial institutions and insurance companies has got 1.98 times higher Average salary in SEK than the minimum Industry Hotels and restaurants. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Average salary in SEK for 19 number of Industrys. ",
+      "The maximum Average salary in SEK 51700.0 is found at Industry Financial institutions and insurance companies and the minimum is found at Hotels and restaurants where Industry is 26100.0. ",
+      "Industry Information and communication companies has the second highest value for Average salary in SEK. ",
+      "The lowest value at Industry Hotels and restaurants is 1.98x times less than the highest value at Financial institutions and insurance companies. ",
+      "Average salary in SEK at Industry Financial institutions and insurance companies is 51700.0 , second place is Information and communication companies at 45100.0, and thirdly is Professional scientific and technical companies at 42800.0.",
+      "Similar Average salary in SEK is found in Industry Human health and social work establishments, and Educational establishments. ",
+      "The Industry Hotels and restaurants tends to be 1.45 percent lower than average. ",
+      "The Average salary in SEK is 677600.0 if we add up values of all Industrys. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 18,
+         "12": 18
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Industry": "Financial institutions and insurance companies",
+         "Average salary in SEK": 51700.0
+      },
+      {
+         "Industry": "Information and communication companies",
+         "Average salary in SEK": 45100.0
+      },
+      {
+         "Industry": "Professional scientific and technical companies",
+         "Average salary in SEK": 42800.0
+      },
+      {
+         "Industry": "Electricity gas steam and hot water plants",
+         "Average salary in SEK": 42600.0
+      },
+      {
+         "Industry": "Mines and quarries",
+         "Average salary in SEK": 39900.0
+      },
+      {
+         "Industry": "Real estate companies",
+         "Average salary in SEK": 37200.0
+      },
+      {
+         "Industry": "Public authorities and national defence",
+         "Average salary in SEK": 37000.0
+      },
+      {
+         "Industry": "Manufacturing industry",
+         "Average salary in SEK": 36600.0
+      },
+      {
+         "Industry": "Construction industry",
+         "Average salary in SEK": 35500.0
+      },
+      {
+         "Industry": "Trade; repair establishments for motor vehicles and motorcycles",
+         "Average salary in SEK": 34100.0
+      },
+      {
+         "Industry": "Water works; sewage plants waste-disposal plants",
+         "Average salary in SEK": 33800.0
+      },
+      {
+         "Industry": "Other service companies",
+         "Average salary in SEK": 32200.0
+      },
+      {
+         "Industry": "Human health and social work establishments",
+         "Average salary in SEK": 31800.0
+      },
+      {
+         "Industry": "Educational establishments",
+         "Average salary in SEK": 31800.0
+      },
+      {
+         "Industry": "Transport and storage companies",
+         "Average salary in SEK": 31300.0
+      },
+      {
+         "Industry": "Administrative and support service companies",
+         "Average salary in SEK": 30100.0
+      },
+      {
+         "Industry": "Establishments for culture entertainment and recreation",
+         "Average salary in SEK": 29800.0
+      },
+      {
+         "Industry": "Companies in agriculture forestry and fishing",
+         "Average salary in SEK": 28200.0
+      },
+      {
+         "Industry": "Hotels and restaurants",
+         "Average salary in SEK": 26100.0
+      }
+   ]
+}

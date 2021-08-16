@@ -1,0 +1,73 @@
+{
+   "title": "Most popular crisps and savoury snack brands in the United Kingdom ( UK ) 2013",
+   "xAxis": "Snack Brand",
+   "yAxis": "Share of respondents currently purchasing",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart. It shows Share of respondents currently purchasing for 7 number of Snack Brands. ",
+      "Snack Brand Walkers has the highest Share of respondents currently purchasing and KP nuts has the lowest Share of respondents currently purchasing. ",
+      "The difference of Share of respondents currently purchasing between the highest and lowest Snack Brand is 20.0. "
+   ],
+   "min_summary": [
+      "This bar chart has 7 columns on the x axis representing Snack Brand, and Share of respondents currently purchasing in each Snack Brand on the y axis. ",
+      "The maximum Share of respondents currently purchasing 42.0 is found at Snack Brand Walkers and the minimum is found at KP nuts where Snack Brand is 22.0. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Share of respondents currently purchasing for 7 number of Snack Brands. ",
+      "Snack Brand Walkers has the highest Share of respondents currently purchasing and KP nuts has the lowest Share of respondents currently purchasing. ",
+      "The difference of Share of respondents currently purchasing between the highest and lowest Snack Brand is 20.0. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Snack Brand in the x axis and Share of respondents currently purchasing in the y axis. ",
+      "The maximum Share of respondents currently purchasing 42.0 is found at Snack Brand Walkers and the minimum is found at KP nuts where Snack Brand is 22.0. ",
+      "The second highest Share of respondents currently purchasing is appeared to be the Snack Brand Doritos. ",
+      "The Share of respondents currently purchasing of Snack Brand Walkers is 1.91% larger than the minimum value at KP nuts. ",
+      "The Snack Brand Walkers has the highest Share of respondents currently purchasing, followed by Doritos, and Pringles. Down to the Snack Brand KP nuts which is the lowest. ",
+      "Snack Brand Hula Hoops, and Pringles have the same Share of respondents currently purchasing. ",
+      "The average Share of respondents currently purchasing in all 7 Snack Brands is 28.14. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 6,
+         "12": 6
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Snack Brand": "Walkers",
+         "Share of respondents currently purchasing": 42.0
+      },
+      {
+         "Snack Brand": "Doritos",
+         "Share of respondents currently purchasing": 32.0
+      },
+      {
+         "Snack Brand": "Hula Hoops",
+         "Share of respondents currently purchasing": 26.0
+      },
+      {
+         "Snack Brand": "Pringles",
+         "Share of respondents currently purchasing": 26.0
+      },
+      {
+         "Snack Brand": "McCoys",
+         "Share of respondents currently purchasing": 25.0
+      },
+      {
+         "Snack Brand": "Own brand crisps",
+         "Share of respondents currently purchasing": 24.0
+      },
+      {
+         "Snack Brand": "KP nuts",
+         "Share of respondents currently purchasing": 22.0
+      }
+   ]
+}

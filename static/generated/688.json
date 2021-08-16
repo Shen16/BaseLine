@@ -1,0 +1,129 @@
+{
+   "title": "UEFA Champions League most games played by club 2019",
+   "xAxis": "Uefa Club",
+   "yAxis": "Games played",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 21 columns on the x axis representing Uefa Club, and Games played in each Uefa Club on the y axis. ",
+      "The Games played is highest at Uefa Club Real Madrid CF and lowest at Uefa Club Panathinaikos FC. ",
+      "There is a difference of 274.0 between the maximum Uefa Club Real Madrid CF and minimum Uefa Club Panathinaikos FC. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Games played for 21 number of Uefa Clubs. ",
+      "The Games played is appeared to be the highest at Uefa Club Real Madrid CF and lowest at Uefa Club Panathinaikos FC. "
+   ],
+   "mid_summary": [
+      "This bar chart has 21 columns on the x axis representing Uefa Club, and Games played in each Uefa Club on the y axis. ",
+      "The Games played is highest at Uefa Club Real Madrid CF and lowest at Uefa Club Panathinaikos FC. ",
+      "There is a difference of 274.0 between the maximum Uefa Club Real Madrid CF and minimum Uefa Club Panathinaikos FC. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Games played for 21 number of Uefa Clubs. ",
+      "The maximum Games played 431.0 is found at Uefa Club Real Madrid CF and the minimum is found at Panathinaikos FC where Uefa Club is 157.0. ",
+      "Uefa Club FC Bayern M\u00fcnchen has the second highest value for Games played. ",
+      "The difference of Games played between the highest and lowest Uefa Club is 274.0. ",
+      "Uefa Club Real Madrid CF is higher than any other Uefa Clubs with value 431.0, followed by FC Bayern M\u00fcnchen, and FC Barcelona. Down to Uefa Club Panathinaikos FC with the lowest value 157.0. ",
+      "Uefa Club Chelsea FC, and Olympiacos FC have the same Games played. ",
+      "The Uefa Club Panathinaikos FC tends to be 1.89 percent lower than average. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 20,
+         "12": 20
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Uefa Club": "Real Madrid CF",
+         "Games played": 431.0
+      },
+      {
+         "Uefa Club": "FC Bayern M\u00fcnchen",
+         "Games played": 341.0
+      },
+      {
+         "Uefa Club": "FC Barcelona",
+         "Games played": 310.0
+      },
+      {
+         "Uefa Club": "Manchester United FC",
+         "Games played": 279.0
+      },
+      {
+         "Uefa Club": "Juventus",
+         "Games played": 271.0
+      },
+      {
+         "Uefa Club": "SL Benfica",
+         "Games played": 252.0
+      },
+      {
+         "Uefa Club": "AC Milan",
+         "Games played": 249.0
+      },
+      {
+         "Uefa Club": "FC Porto",
+         "Games played": 243.0
+      },
+      {
+         "Uefa Club": "FC Dynamo Kyiv",
+         "Games played": 231.0
+      },
+      {
+         "Uefa Club": "AFC Ajax",
+         "Games played": 217.0
+      },
+      {
+         "Uefa Club": "Liverpool FC",
+         "Games played": 209.0
+      },
+      {
+         "Uefa Club": "Celtic FC",
+         "Games played": 206.0
+      },
+      {
+         "Uefa Club": "Arsenal FC",
+         "Games played": 201.0
+      },
+      {
+         "Uefa Club": "RSC Anderlecht",
+         "Games played": 200.0
+      },
+      {
+         "Uefa Club": "PSV Eindhoven",
+         "Games played": 175.0
+      },
+      {
+         "Uefa Club": "FC Internazionale Milano",
+         "Games played": 172.0
+      },
+      {
+         "Uefa Club": "Galatasaray A\u015e",
+         "Games played": 169.0
+      },
+      {
+         "Uefa Club": "Rangers FC",
+         "Games played": 161.0
+      },
+      {
+         "Uefa Club": "Chelsea FC",
+         "Games played": 160.0
+      },
+      {
+         "Uefa Club": "Olympiacos FC",
+         "Games played": 160.0
+      },
+      {
+         "Uefa Club": "Panathinaikos FC",
+         "Games played": 157.0
+      }
+   ]
+}

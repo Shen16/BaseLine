@@ -1,0 +1,81 @@
+{
+   "title": "Job creation by U.S. president from Eisenhower to Obama",
+   "xAxis": "American Presidents",
+   "yAxis": "Monthly average change in private sector jobs in thousand",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart. It shows Monthly average change in private sector jobs in thousand for 9 number of American Presidentss. ",
+      "The maximum Monthly average change in private sector jobs in thousand 214.0 is found at American Presidents Bill Clinton and the minimum is found at George W. Bush where American Presidents is 6.0. ",
+      "The highest American Presidents Bill Clinton has 208.0 more Monthly average change in private sector jobs in thousand than the lowest American Presidents George W. Bush. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Monthly average change in private sector jobs in thousand for 9 number of American Presidentss. ",
+      "The Monthly average change in private sector jobs in thousand is highest at American Presidents Bill Clinton and lowest at American Presidents George W. Bush. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Monthly average change in private sector jobs in thousand for 9 number of American Presidentss. ",
+      "The maximum Monthly average change in private sector jobs in thousand 214.0 is found at American Presidents Bill Clinton and the minimum is found at George W. Bush where American Presidents is 6.0. ",
+      "The highest American Presidents Bill Clinton has 208.0 more Monthly average change in private sector jobs in thousand than the lowest American Presidents George W. Bush. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing American Presidents in the x axis and Monthly average change in private sector jobs in thousand in the y axis. ",
+      "The Monthly average change in private sector jobs in thousand is appeared to be the highest at American Presidents Bill Clinton and lowest at American Presidents George W. Bush. ",
+      "American Presidents Jimmy Carter has the second highest value for Monthly average change in private sector jobs in thousand. ",
+      "The difference of Monthly average change in private sector jobs in thousand between the highest and lowest American Presidents is 208.0. ",
+      "The American Presidents Bill Clinton has the highest Monthly average change in private sector jobs in thousand, followed by Jimmy Carter, and Ronald Reagan. Down to the American Presidents George W. Bush which is the lowest. ",
+      "The highest value 214.0 at Bill Clinton is almost 2.17 times larger than the average value 98.56. ",
+      "The Monthly average change in private sector jobs in thousand is 887.0 if we add up values of all American Presidentss. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 8,
+         "12": 8
+      },
+      {}
+   ],
+   "data": [
+      {
+         "American Presidents": "Bill Clinton",
+         "Monthly average change in private sector jobs in thousand": 214.0
+      },
+      {
+         "American Presidents": "Jimmy Carter",
+         "Monthly average change in private sector jobs in thousand": 188.0
+      },
+      {
+         "American Presidents": "Ronald Reagan",
+         "Monthly average change in private sector jobs in thousand": 151.0
+      },
+      {
+         "American Presidents": "JFK / LBJ",
+         "Monthly average change in private sector jobs in thousand": 125.0
+      },
+      {
+         "American Presidents": "Richard Nixon / Gerald Ford",
+         "Monthly average change in private sector jobs in thousand": 86.0
+      },
+      {
+         "American Presidents": "Barack Obama (thru June 2012)",
+         "Monthly average change in private sector jobs in thousand": 76.0
+      },
+      {
+         "American Presidents": "George H.W. Bush",
+         "Monthly average change in private sector jobs in thousand": 25.0
+      },
+      {
+         "American Presidents": "Dwight Eisenhower",
+         "Monthly average change in private sector jobs in thousand": 16.0
+      },
+      {
+         "American Presidents": "George W. Bush",
+         "Monthly average change in private sector jobs in thousand": 6.0
+      }
+   ]
+}

@@ -1,0 +1,99 @@
+{
+   "title": "Real GDP of New York , by industry 2018",
+   "xAxis": "Industry",
+   "yAxis": "Real value added in billion chained (2012) U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart. It shows Real value added in billion chained (2012) U.S. dollars for 14 number of Industrys. ",
+      "Industry Finance insurance real estate rental and leasing has the highest Real value added in billion chained (2012) U.S. dollars and Mining quarrying and oil and gas extraction has the lowest Real value added in billion chained (2012) U.S. dollars. ",
+      "The highest Industry Finance insurance real estate rental and leasing has 417.67 more Real value added in billion chained (2012) U.S. dollars than the lowest Industry Mining quarrying and oil and gas extraction. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing Industry in the x axis and Real value added in billion chained (2012) U.S. dollars in the y axis. ",
+      "The maximum Real value added in billion chained (2012) U.S. dollars 418.87 is found at Industry Finance insurance real estate rental and leasing and the minimum is found at Mining quarrying and oil and gas extraction where Industry is 1.2. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Real value added in billion chained (2012) U.S. dollars for 14 number of Industrys. ",
+      "Industry Finance insurance real estate rental and leasing has the highest Real value added in billion chained (2012) U.S. dollars and Mining quarrying and oil and gas extraction has the lowest Real value added in billion chained (2012) U.S. dollars. ",
+      "The highest Industry Finance insurance real estate rental and leasing has 417.67 more Real value added in billion chained (2012) U.S. dollars than the lowest Industry Mining quarrying and oil and gas extraction. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Industry in the x axis and Real value added in billion chained (2012) U.S. dollars in the y axis. ",
+      "The maximum Real value added in billion chained (2012) U.S. dollars 418.87 is found at Industry Finance insurance real estate rental and leasing and the minimum is found at Mining quarrying and oil and gas extraction where Industry is 1.2. ",
+      "The highest Industry Finance insurance real estate rental and leasing has 417.67 more Real value added in billion chained (2012) U.S. dollars than the lowest Industry Mining quarrying and oil and gas extraction. ",
+      "The Industry Finance insurance real estate rental and leasing has the highest Real value added in billion chained (2012) U.S. dollars, followed by Professional and business services, and Government and government enterprises. Down to the Industry Mining quarrying and oil and gas extraction which is the lowest. ",
+      "The Industry Mining quarrying and oil and gas extraction tends to be 4.14 percent lower than average. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 13,
+         "12": 13
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Industry": "Finance insurance real estate rental and leasing",
+         "Real value added in billion chained (2012) U.S. dollars": 418.87
+      },
+      {
+         "Industry": "Professional and business services",
+         "Real value added in billion chained (2012) U.S. dollars": 200.09
+      },
+      {
+         "Industry": "Government and government enterprises",
+         "Real value added in billion chained (2012) U.S. dollars": 151.94
+      },
+      {
+         "Industry": "Information",
+         "Real value added in billion chained (2012) U.S. dollars": 143.64
+      },
+      {
+         "Industry": "Educational services health care and social assistance",
+         "Real value added in billion chained (2012) U.S. dollars": 141.49
+      },
+      {
+         "Industry": "Wholesale trade",
+         "Real value added in billion chained (2012) U.S. dollars": 70.45
+      },
+      {
+         "Industry": "Retail trade",
+         "Real value added in billion chained (2012) U.S. dollars": 69.22
+      },
+      {
+         "Industry": "Manufacturing",
+         "Real value added in billion chained (2012) U.S. dollars": 65.79
+      },
+      {
+         "Industry": "Arts entertainment recreation accommodation and food services",
+         "Real value added in billion chained (2012) U.S. dollars": 61.7
+      },
+      {
+         "Industry": "Construction",
+         "Real value added in billion chained (2012) U.S. dollars": 39.87
+      },
+      {
+         "Industry": "Transportation and warehousing",
+         "Real value added in billion chained (2012) U.S. dollars": 28.29
+      },
+      {
+         "Industry": "Utilities",
+         "Real value added in billion chained (2012) U.S. dollars": 20.17
+      },
+      {
+         "Industry": "Agriculture forestry fishing and hunting",
+         "Real value added in billion chained (2012) U.S. dollars": 3.3
+      },
+      {
+         "Industry": "Mining quarrying and oil and gas extraction",
+         "Real value added in billion chained (2012) U.S. dollars": 1.2
+      }
+   ]
+}

@@ -1,0 +1,68 @@
+{
+   "title": "Estimated decrease of GDP in Japan due to earthquake and tsunami 2011",
+   "xAxis": "Category Of Gdp",
+   "yAxis": "Decrease in billion euros",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart. It shows Decrease in billion euros for 6 number of Category Of Gdps. ",
+      "Category Of Gdp Total has the highest Decrease in billion euros and Exports has the lowest Decrease in billion euros. ",
+      "The Decrease in billion euros of Category Of Gdp Exports is 50.0% smaller than the maximum value at Total. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Decrease in billion euros for 6 number of Category Of Gdps. ",
+      "Category Of Gdp Total has the highest Decrease in billion euros and Exports has the lowest Decrease in billion euros. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Decrease in billion euros for 6 number of Category Of Gdps. ",
+      "Category Of Gdp Total has the highest Decrease in billion euros and Exports has the lowest Decrease in billion euros. ",
+      "The Decrease in billion euros of Category Of Gdp Exports is 50.0% smaller than the maximum value at Total. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Category Of Gdp in the x axis and Decrease in billion euros in the y axis. ",
+      "The maximum Decrease in billion euros 70.0 is found at Category Of Gdp Total and the minimum is found at Exports where Category Of Gdp is 1.4. ",
+      "There is a difference of 68.6 between the maximum Category Of Gdp Total and minimum Category Of Gdp Exports. ",
+      "The Category Of Gdp Total has the highest Decrease in billion euros, followed by Production, and Private consumption. Down to the Category Of Gdp Exports which is the lowest. ",
+      "The Category Of Gdp Exports tends to be 3.01 percent lower than average. ",
+      "The Decrease in billion euros is 139.7 if we add up values of all Category Of Gdps. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 5,
+         "12": 5
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Category Of Gdp": "Total",
+         "Decrease in billion euros": 70.0
+      },
+      {
+         "Category Of Gdp": "Production",
+         "Decrease in billion euros": 45.4
+      },
+      {
+         "Category Of Gdp": "Private consumption",
+         "Decrease in billion euros": 18.2
+      },
+      {
+         "Category Of Gdp": "Power generation",
+         "Decrease in billion euros": 2.7
+      },
+      {
+         "Category Of Gdp": "Imports",
+         "Decrease in billion euros": 2.0
+      },
+      {
+         "Category Of Gdp": "Exports",
+         "Decrease in billion euros": 1.4
+      }
+   ]
+}

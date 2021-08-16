@@ -1,0 +1,148 @@
+{
+   "title": "Leading smartphone and tablet activities 2017 , by device",
+   "labels": [
+      "Response",
+      "Tablet",
+      "Smartphone"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This grouped bar chart shows SOME LABEL on the Y-axis for 17 different Responses for 2 groups Tablet, and Smartphone that are presented on the X-axis. ",
+      " In Response E-mail, Smartphone had the highest SOME LABEL 59.0 among the 2 groups and in Trading securities/shares online, Tablet had the lowest SOME LABEL 4.0. ",
+      " In Response Watching movies/videos online, Tablet had the highest SOME LABEL among all 17 Responses and it has the lowest SOME LABEL in Response Trading securities/shares online. ",
+      " The maximum SOME LABEL for Tablet that was found in Response Watching movies/videos online was 5.75 times larger than the minimum SOME LABEL observed in Response Trading securities/shares online. "
+   ],
+   "xAxis": "Response",
+   "yAxis": "SOME LABEL",
+   "min_summary": [
+      "This grouped bar chart represents 17 different Responses on X-axis for 2 groups Tablet, and Smartphone. On the Y-axis it shows their corresponding SOME LABEL. ",
+      " Out of all 2 groups, Smartphone had the highest SOME LABEL in Response E-mail and Tablet had the lowest SOME LABEL in Response Trading securities/shares online. "
+   ],
+   "mid_summary": [
+      "This grouped bar chart shows SOME LABEL on the Y-axis for 17 different Responses for 2 groups Tablet, and Smartphone that are presented on the X-axis. ",
+      " In Response E-mail, Smartphone had the highest SOME LABEL 59.0 among the 2 groups and in Trading securities/shares online, Tablet had the lowest SOME LABEL 4.0. ",
+      " In Response Watching movies/videos online, Tablet had the highest SOME LABEL among all 17 Responses and it has the lowest SOME LABEL in Response Trading securities/shares online. ",
+      " The maximum SOME LABEL for Tablet that was found in Response Watching movies/videos online was 5.75 times larger than the minimum SOME LABEL observed in Response Trading securities/shares online. "
+   ],
+   "max_summary": [
+      "This grouped bar chart represents 17 different Responses on X-axis for 2 groups Tablet, and Smartphone. On the Y-axis it shows their corresponding SOME LABEL. ",
+      " Out of all 2 groups, Smartphone had the highest SOME LABEL in Response E-mail and Tablet had the lowest SOME LABEL in Response Trading securities/shares online. ",
+      " In Response Watching movies/videos online, Tablet had the maximum SOME LABEL and it saw the lowest in Response Trading securities/shares online out of all 17 Responses. ",
+      "Response Watching movies/videos online and Trading securities/shares online had the biggest gap of 19.0 between the highest and lowest SOME LABEL found for Tablet. ",
+      " Out of all 2 groups, the highest gap between the maximum and minimum SOME LABEL was found in case of Tablet. ",
+      "On average, the Response E-mail had the highest SOME LABEL for all 2 groups Tablet, and Smartphone. Whereas Trading securities/shares online had the lowest average SOME LABEL. "
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "13": [
+            "2",
+            "1"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "14": [
+            "2",
+            "0"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Response": "Watching movies/videos online",
+         "Tablet": "23",
+         "Smartphone": "52"
+      },
+      {
+         "Response": "E-mail",
+         "Tablet": "22",
+         "Smartphone": "59"
+      },
+      {
+         "Response": "Using social media sites",
+         "Tablet": "19",
+         "Smartphone": "54"
+      },
+      {
+         "Response": "Reading news",
+         "Tablet": "19",
+         "Smartphone": "48"
+      },
+      {
+         "Response": "Online shopping",
+         "Tablet": "18",
+         "Smartphone": "43"
+      },
+      {
+         "Response": "Downloading software/applications",
+         "Tablet": "16",
+         "Smartphone": "42"
+      },
+      {
+         "Response": "Listening to streaming music/radio",
+         "Tablet": "12",
+         "Smartphone": "38"
+      },
+      {
+         "Response": "Instant messaging/video calling",
+         "Tablet": "12",
+         "Smartphone": "43"
+      },
+      {
+         "Response": "Uploading/sharing content",
+         "Tablet": "11",
+         "Smartphone": "39"
+      },
+      {
+         "Response": "Online banking",
+         "Tablet": "11",
+         "Smartphone": "36"
+      },
+      {
+         "Response": "Online gaming",
+         "Tablet": "11",
+         "Smartphone": "28"
+      },
+      {
+         "Response": "Using online payment systems/wallets",
+         "Tablet": "10",
+         "Smartphone": "30"
+      },
+      {
+         "Response": "Online data storage",
+         "Tablet": "10",
+         "Smartphone": "29"
+      },
+      {
+         "Response": "Visiting adult websites",
+         "Tablet": "6",
+         "Smartphone": "17"
+      },
+      {
+         "Response": "Visiting online dating websites/services or apps",
+         "Tablet": "6",
+         "Smartphone": "18"
+      },
+      {
+         "Response": "Online gambling/betting",
+         "Tablet": "5",
+         "Smartphone": "10"
+      },
+      {
+         "Response": "Trading securities/shares online",
+         "Tablet": "4",
+         "Smartphone": "9"
+      }
+   ]
+}

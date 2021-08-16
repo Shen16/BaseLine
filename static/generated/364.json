@@ -1,0 +1,69 @@
+{
+   "title": "U.S. opinion poll : sexiest musical instrument 2014",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart. It shows Share of respondents for 6 number of Responses. ",
+      "The Share of respondents is highest at Response Guitar and lowest at Response Flute. ",
+      "There is a difference of 21.0 between the maximum Response Guitar and minimum Response Flute. "
+   ],
+   "min_summary": [
+      "This bar chart has 6 columns on the x axis representing Response, and Share of respondents in each Response on the y axis. ",
+      "The Share of respondents is highest at Response Guitar and lowest at Response Flute. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Share of respondents for 6 number of Responses. ",
+      "The Share of respondents is highest at Response Guitar and lowest at Response Flute. ",
+      "There is a difference of 21.0 between the maximum Response Guitar and minimum Response Flute. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Response in the x axis and Share of respondents in the y axis. ",
+      "The Share of respondents is highest at Response Guitar and lowest at Response Flute. ",
+      "Response Saxophone has the second highest value for Share of respondents. ",
+      "There is a difference of 21.0 between the maximum Response Guitar and minimum Response Flute. ",
+      "The Response Guitar has the highest Share of respondents, followed by Saxophone, and Piano. Down to the Response Flute which is the lowest. ",
+      "The highest value 26.0 at Guitar is almost 1.59 times larger than the average value 16.33. ",
+      "The Share of respondents is 98.0 if we add up values of all Responses. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 5,
+         "12": 5
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Response": "Guitar",
+         "Share of respondents": 26.0
+      },
+      {
+         "Response": "Saxophone",
+         "Share of respondents": 25.0
+      },
+      {
+         "Response": "Piano",
+         "Share of respondents": 21.0
+      },
+      {
+         "Response": "Violin",
+         "Share of respondents": 14.0
+      },
+      {
+         "Response": "Drums",
+         "Share of respondents": 7.0
+      },
+      {
+         "Response": "Flute",
+         "Share of respondents": 5.0
+      }
+   ]
+}

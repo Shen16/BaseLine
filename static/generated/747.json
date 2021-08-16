@@ -1,0 +1,63 @@
+{
+   "title": "Average price of wearable technology products in the United Kingdom ( UK ) 2014",
+   "xAxis": "Wearable Technology Products",
+   "yAxis": "Average price in GBP",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart representing Wearable Technology Products in the x axis and Average price in GBP in the y axis. ",
+      "The Average price in GBP is appeared to be the highest at Wearable Technology Products Action cameras headsets and glasses and lowest at Wearable Technology Products Health and fitness trackers. ",
+      "There is a difference of 147.0 between the maximum Wearable Technology Products Action cameras headsets and glasses and minimum Wearable Technology Products Health and fitness trackers. "
+   ],
+   "min_summary": [
+      "This bar chart has 5 columns on the x axis representing Wearable Technology Products, and Average price in GBP in each Wearable Technology Products on the y axis. ",
+      "Wearable Technology Products Action cameras headsets and glasses has the highest Average price in GBP and Health and fitness trackers has the lowest Average price in GBP. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Wearable Technology Products in the x axis and Average price in GBP in the y axis. ",
+      "The Average price in GBP is appeared to be the highest at Wearable Technology Products Action cameras headsets and glasses and lowest at Wearable Technology Products Health and fitness trackers. ",
+      "There is a difference of 147.0 between the maximum Wearable Technology Products Action cameras headsets and glasses and minimum Wearable Technology Products Health and fitness trackers. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Wearable Technology Products in the x axis and Average price in GBP in the y axis. ",
+      "The maximum Average price in GBP 220.0 is found at Wearable Technology Products Action cameras headsets and glasses and the minimum is found at Health and fitness trackers where Wearable Technology Products is 73.0. ",
+      "The minimum Wearable Technology Products Health and fitness trackers has got 3.01 times less Average price in GBP than the maximum Wearable Technology Products Action cameras headsets and glasses. ",
+      "The Wearable Technology Products Action cameras headsets and glasses has the highest Average price in GBP, followed by Smart watches, and Total market. Down to the Wearable Technology Products Health and fitness trackers which is the lowest. ",
+      "The highest value 220.0 at Action cameras headsets and glasses is almost 1.67 times larger than the average value 131.6. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 4,
+         "12": 4
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Wearable Technology Products": "Action cameras headsets and glasses",
+         "Average price in GBP": 220.0
+      },
+      {
+         "Wearable Technology Products": "Smart watches",
+         "Average price in GBP": 163.0
+      },
+      {
+         "Wearable Technology Products": "Total market",
+         "Average price in GBP": 120.0
+      },
+      {
+         "Wearable Technology Products": "Wrist sport computers",
+         "Average price in GBP": 82.0
+      },
+      {
+         "Wearable Technology Products": "Health and fitness trackers",
+         "Average price in GBP": 73.0
+      }
+   ]
+}

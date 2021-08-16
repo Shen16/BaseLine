@@ -1,0 +1,125 @@
+{
+   "title": "Leading financial centers worldwide 2019",
+   "xAxis": "State",
+   "yAxis": "Points on the Global Financial Centres Index",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart representing State in the x axis and Points on the Global Financial Centres Index in the y axis. ",
+      "The Points on the Global Financial Centres Index is highest at State New York and lowest at State Montreal. ",
+      "The highest State New York has 74.0 more Points on the Global Financial Centres Index than the lowest State Montreal. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Points on the Global Financial Centres Index for 20 number of States. ",
+      "The maximum Points on the Global Financial Centres Index 790.0 is found at State New York and the minimum is found at Montreal where State is 716.0. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing State in the x axis and Points on the Global Financial Centres Index in the y axis. ",
+      "The Points on the Global Financial Centres Index is highest at State New York and lowest at State Montreal. ",
+      "The highest State New York has 74.0 more Points on the Global Financial Centres Index than the lowest State Montreal. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing State in the x axis and Points on the Global Financial Centres Index in the y axis. ",
+      "The Points on the Global Financial Centres Index is appeared to be the highest at State New York and lowest at State Montreal. ",
+      "Second maximum Points on the Global Financial Centres Index is found at State London. ",
+      "The difference of Points on the Global Financial Centres Index between the highest and lowest State is 74.0. ",
+      "Points on the Global Financial Centres Index at State New York is 790.0 , second place is London at 773.0, and thirdly is Hong Kong at 771.0.",
+      "State Paris, and Boston have the same Points on the Global Financial Centres Index. ",
+      "The State New York tends to be 1.06 percent higher than average. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 19,
+         "12": 19
+      },
+      {}
+   ],
+   "data": [
+      {
+         "State": "New York",
+         "Points on the Global Financial Centres Index": 790.0
+      },
+      {
+         "State": "London",
+         "Points on the Global Financial Centres Index": 773.0
+      },
+      {
+         "State": "Hong Kong",
+         "Points on the Global Financial Centres Index": 771.0
+      },
+      {
+         "State": "Singapore",
+         "Points on the Global Financial Centres Index": 762.0
+      },
+      {
+         "State": "Shanghai",
+         "Points on the Global Financial Centres Index": 761.0
+      },
+      {
+         "State": "Tokyo",
+         "Points on the Global Financial Centres Index": 757.0
+      },
+      {
+         "State": "Beijing",
+         "Points on the Global Financial Centres Index": 748.0
+      },
+      {
+         "State": "Dubai",
+         "Points on the Global Financial Centres Index": 740.0
+      },
+      {
+         "State": "Shenzhen",
+         "Points on the Global Financial Centres Index": 739.0
+      },
+      {
+         "State": "Sydney",
+         "Points on the Global Financial Centres Index": 738.0
+      },
+      {
+         "State": "Toronto",
+         "Points on the Global Financial Centres Index": 737.0
+      },
+      {
+         "State": "San Francisco",
+         "Points on the Global Financial Centres Index": 736.0
+      },
+      {
+         "State": "Los Angeles",
+         "Points on the Global Financial Centres Index": 735.0
+      },
+      {
+         "State": "Zurich",
+         "Points on the Global Financial Centres Index": 734.0
+      },
+      {
+         "State": "Frankfurt",
+         "Points on the Global Financial Centres Index": 733.0
+      },
+      {
+         "State": "Chicago",
+         "Points on the Global Financial Centres Index": 732.0
+      },
+      {
+         "State": "Paris",
+         "Points on the Global Financial Centres Index": 728.0
+      },
+      {
+         "State": "Boston",
+         "Points on the Global Financial Centres Index": 728.0
+      },
+      {
+         "State": "Melbourne",
+         "Points on the Global Financial Centres Index": 720.0
+      },
+      {
+         "State": "Montreal",
+         "Points on the Global Financial Centres Index": 716.0
+      }
+   ]
+}

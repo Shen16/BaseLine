@@ -1,0 +1,91 @@
+{
+   "title": "Merck KGaA 's revenue by segment 2014 to 2018",
+   "labels": [
+      "Health Segment",
+      "2014",
+      "2015",
+      "2016",
+      "2017",
+      "2018"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This grouped bar chart shows Revenue in million euros on the Y-axis for 3 different Health Segments for 5 groups 2014, 2015, 2016, 2017, and 2018 that are presented on the X-axis. ",
+      " Health Segment Healthcare had the maximum Revenue in million euros among all 5 groups, and it was for 2017. The minimum Revenue in million euros was observed in Health Segment Performance Materials for 2014. ",
+      " In Health Segment Healthcare, 2017 had the maximum Revenue in million euros and it saw the lowest in Health Segment Performance Materials out of all 3 Health Segments. ",
+      "Health Segment Healthcare and Performance Materials had the biggest gap of 4553.0 between the highest and lowest Revenue in million euros found for 2017. "
+   ],
+   "xAxis": "Health Segment",
+   "yAxis": "Revenue in million euros",
+   "min_summary": [
+      "This grouped bar chart shows Revenue in million euros on the Y-axis for 3 different Health Segments for 5 groups 2014, 2015, 2016, 2017, and 2018 that are presented on the X-axis. ",
+      " In Health Segment Healthcare, 2017 had the highest Revenue in million euros 6999.0 among the 5 groups and in Performance Materials, 2014 had the lowest Revenue in million euros 2060.0. "
+   ],
+   "mid_summary": [
+      "This grouped bar chart shows Revenue in million euros on the Y-axis for 3 different Health Segments for 5 groups 2014, 2015, 2016, 2017, and 2018 that are presented on the X-axis. ",
+      " Health Segment Healthcare had the maximum Revenue in million euros among all 5 groups, and it was for 2017. The minimum Revenue in million euros was observed in Health Segment Performance Materials for 2014. ",
+      " In Health Segment Healthcare, 2017 had the maximum Revenue in million euros and it saw the lowest in Health Segment Performance Materials out of all 3 Health Segments. ",
+      "Health Segment Healthcare and Performance Materials had the biggest gap of 4553.0 between the highest and lowest Revenue in million euros found for 2017. "
+   ],
+   "max_summary": [
+      "This grouped bar chart shows Revenue in million euros on the Y-axis for 3 different Health Segments for 5 groups 2014, 2015, 2016, 2017, and 2018 that are presented on the X-axis. ",
+      " Out of all 5 groups, 2017 had the highest Revenue in million euros in Health Segment Healthcare and 2014 had the lowest Revenue in million euros in Health Segment Performance Materials. ",
+      " Among all the Health Segments, 2017 had the highest Revenue in million euros in Health Segment Healthcare and lowest Revenue in million euros in Health Segment Performance Materials. ",
+      " There is a gap of 4553.0 between the highest and lowest Revenue in million euros found for 2017 in Health Segment Healthcare and Performance Materials. ",
+      " Among the groups, 2014 had the biggest difference in Revenue in million euros. Where the maximum Revenue in million euros was 3.21 times larger than the minimum Revenue in million euros. ",
+      " In Health Segment Healthcare, 2017 had the highest Revenue in million euros 6999.0 among the 5 groups and in Performance Materials, 2014 had the lowest Revenue in million euros 2060.0. The second highest Revenue in million euros 6621.0 was observed for 2017 in Health Segment Healthcare. ",
+      "On average, the Health Segment Healthcare had the highest Revenue in million euros for all 5 groups 2014, 2015, 2016, 2017, and 2018. Whereas Performance Materials had the lowest average Revenue in million euros. "
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "13": [
+            "5",
+            "0"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "14": [
+            "5",
+            "1"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Health Segment": "Healthcare",
+         "2014": "6621",
+         "2015": "6934",
+         "2016": "6855",
+         "2017": "6999",
+         "2018": "6246"
+      },
+      {
+         "Health Segment": "Life Science",
+         "2014": "2683",
+         "2015": "3355",
+         "2016": "5658",
+         "2017": "5882",
+         "2018": "6185"
+      },
+      {
+         "Health Segment": "Performance Materials",
+         "2014": "2060",
+         "2015": "2556",
+         "2016": "2511",
+         "2017": "2446",
+         "2018": "2406"
+      }
+   ]
+}

@@ -1,0 +1,85 @@
+{
+   "title": "Most popular product brands on Facebook 2020",
+   "xAxis": "Platform",
+   "yAxis": "Facebook fans in millions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart. It shows Facebook fans in millions for 10 number of Platforms. ",
+      "The Facebook fans in millions is appeared to be the highest at Platform Facebook and lowest at Platform KFC. ",
+      "There is a difference of 159.62 between the maximum Platform Facebook and minimum Platform KFC. "
+   ],
+   "min_summary": [
+      "This bar chart has 10 columns on the x axis representing Platform, and Facebook fans in millions in each Platform on the y axis. ",
+      "The Facebook fans in millions is highest at Platform Facebook and lowest at Platform KFC. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Facebook fans in millions for 10 number of Platforms. ",
+      "The Facebook fans in millions is appeared to be the highest at Platform Facebook and lowest at Platform KFC. ",
+      "There is a difference of 159.62 between the maximum Platform Facebook and minimum Platform KFC. "
+   ],
+   "max_summary": [
+      "This bar chart has 10 columns on the x axis representing Platform, and Facebook fans in millions in each Platform on the y axis. ",
+      "The Facebook fans in millions is appeared to be the highest at Platform Facebook and lowest at Platform KFC. ",
+      "Second maximum Facebook fans in millions is found at Platform Samsung. ",
+      "The highest Platform Facebook has 159.62 more Facebook fans in millions than the lowest Platform KFC. ",
+      "Facebook fans in millions at Platform Facebook is 214.62 , second place is Samsung at 160.05, and thirdly is Coca-Cola at 107.11.",
+      "The highest value 214.62 at Facebook is almost 2.23 times larger than the average value 96.24. ",
+      "Summing up the values of all Platforms, we get total 962.41. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 9,
+         "12": 9
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Platform": "Facebook",
+         "Facebook fans in millions": 214.62
+      },
+      {
+         "Platform": "Samsung",
+         "Facebook fans in millions": 160.05
+      },
+      {
+         "Platform": "Coca-Cola",
+         "Facebook fans in millions": 107.11
+      },
+      {
+         "Platform": "YouTube",
+         "Facebook fans in millions": 84.35
+      },
+      {
+         "Platform": "McDonald's",
+         "Facebook fans in millions": 79.86
+      },
+      {
+         "Platform": "Candy Crush Saga",
+         "Facebook fans in millions": 71.54
+      },
+      {
+         "Platform": "Criminal Case",
+         "Facebook fans in millions": 65.88
+      },
+      {
+         "Platform": "Texas HoldEm Poker",
+         "Facebook fans in millions": 63.66
+      },
+      {
+         "Platform": "Instagram",
+         "Facebook fans in millions": 60.34
+      },
+      {
+         "Platform": "KFC",
+         "Facebook fans in millions": 55.0
+      }
+   ]
+}

@@ -1,0 +1,85 @@
+{
+   "title": "Largest Ecuadorian-American population groups in the U.S. , by county 2010",
+   "xAxis": "Population Group",
+   "yAxis": "Population number",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 10 columns on the x axis representing Population Group, and Population number in each Population Group on the y axis. ",
+      "The Population number is appeared to be the highest at Population Group Queens County NY and lowest at Population Group Suffolk County NY. ",
+      "The minimum Population Group Suffolk County NY has got 5.59 times less Population number than the maximum Population Group Queens County NY. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing Population Group in the x axis and Population number in the y axis. ",
+      "The maximum Population number 98512.0 is found at Population Group Queens County NY and the minimum is found at Suffolk County NY where Population Group is 17638.0. "
+   ],
+   "mid_summary": [
+      "This bar chart has 10 columns on the x axis representing Population Group, and Population number in each Population Group on the y axis. ",
+      "The Population number is appeared to be the highest at Population Group Queens County NY and lowest at Population Group Suffolk County NY. ",
+      "The minimum Population Group Suffolk County NY has got 5.59 times less Population number than the maximum Population Group Queens County NY. "
+   ],
+   "max_summary": [
+      "This bar chart has 10 columns on the x axis representing Population Group, and Population number in each Population Group on the y axis. ",
+      "The Population number is appeared to be the highest at Population Group Queens County NY and lowest at Population Group Suffolk County NY. ",
+      "Population Group Kings County NJ has the second highest value for Population number. ",
+      "The highest Population Group Queens County NY has 80874.0 more Population number than the lowest Population Group Suffolk County NY. ",
+      "Population number at Population Group Queens County NY is 98512.0 , second place is Kings County NJ at 28684.0, and thirdly is Hudson County NJ at 26650.0.",
+      "The highest value 98512.0 at Queens County NY is almost 3.27 times larger than the average value 30118.9. ",
+      "The Population number is 301189.0 if we add up values of all Population Groups. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 9,
+         "12": 9
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Population Group": "Queens County NY",
+         "Population number": 98512.0
+      },
+      {
+         "Population Group": "Kings County NJ",
+         "Population number": 28684.0
+      },
+      {
+         "Population Group": "Hudson County NJ",
+         "Population number": 26650.0
+      },
+      {
+         "Population Group": "Essex County NJ",
+         "Population number": 25169.0
+      },
+      {
+         "Population Group": "Bronx County NY",
+         "Population number": 23206.0
+      },
+      {
+         "Population Group": "Westchester County NY",
+         "Population number": 22460.0
+      },
+      {
+         "Population Group": "Miami-Dade County FL",
+         "Population number": 19832.0
+      },
+      {
+         "Population Group": "Los Angeles County CA",
+         "Population number": 19588.0
+      },
+      {
+         "Population Group": "Cook County IL",
+         "Population number": 19450.0
+      },
+      {
+         "Population Group": "Suffolk County NY",
+         "Population number": 17638.0
+      }
+   ]
+}

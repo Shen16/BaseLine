@@ -1,0 +1,65 @@
+{
+   "title": "Michelin - worldwide number of employees by region 2018",
+   "xAxis": "Region",
+   "yAxis": "Number of employees",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart representing Region in the x axis and Number of employees in the y axis. ",
+      "The maximum Number of employees 70599.0 is found at Region Europe and the minimum is found at Africa India Middle-East where Region is 1848.0. ",
+      "The highest Region Europe has 68751.0 more Number of employees than the lowest Region Africa India Middle-East. "
+   ],
+   "min_summary": [
+      "This bar chart has 5 columns on the x axis representing Region, and Number of employees in each Region on the y axis. ",
+      "The Number of employees is appeared to be the highest at Region Europe and lowest at Region Africa India Middle-East. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Region in the x axis and Number of employees in the y axis. ",
+      "The maximum Number of employees 70599.0 is found at Region Europe and the minimum is found at Africa India Middle-East where Region is 1848.0. ",
+      "The highest Region Europe has 68751.0 more Number of employees than the lowest Region Africa India Middle-East. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Number of employees for 5 number of Regions. ",
+      "The maximum Number of employees 70599.0 is found at Region Europe and the minimum is found at Africa India Middle-East where Region is 1848.0. ",
+      "Region North America has the second highest value for Number of employees. ",
+      "Region Europe has 38.2 times more Number of employees than Region Africa India Middle-East which is has the lowest. ",
+      "Number of employees at Region Europe is 70599.0 , second place is North America at 21541.0, and thirdly is Asia (excl. India) at 15259.0.",
+      "Considered together, the average Number of employees in all 5 Regions is roughly 23482.6. ",
+      "The Number of employees is 117413.0 if we add up values of all Regions. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 4,
+         "12": 4
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Region": "Europe",
+         "Number of employees": 70599.0
+      },
+      {
+         "Region": "North America",
+         "Number of employees": 21541.0
+      },
+      {
+         "Region": "Asia (excl. India)",
+         "Number of employees": 15259.0
+      },
+      {
+         "Region": "South America",
+         "Number of employees": 8166.0
+      },
+      {
+         "Region": "Africa India Middle-East",
+         "Number of employees": 1848.0
+      }
+   ]
+}

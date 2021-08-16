@@ -1,0 +1,64 @@
+{
+   "title": "India : mobile activities as of January 2018",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart. It shows Share of respondents for 5 number of Responses. ",
+      "Response Visit a social network has the highest Share of respondents and Look for product information has the lowest Share of respondents. ",
+      "The highest Response Visit a social network has 17.0 more Share of respondents than the lowest Response Look for product information. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing Response in the x axis and Share of respondents in the y axis. ",
+      "The maximum Share of respondents 21.0 is found at Response Visit a social network and the minimum is found at Look for product information where Response is 4.0. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Share of respondents for 5 number of Responses. ",
+      "Response Visit a social network has the highest Share of respondents and Look for product information has the lowest Share of respondents. ",
+      "The highest Response Visit a social network has 17.0 more Share of respondents than the lowest Response Look for product information. "
+   ],
+   "max_summary": [
+      "This bar chart has 5 columns on the x axis representing Response, and Share of respondents in each Response on the y axis. ",
+      "The maximum Share of respondents 21.0 is found at Response Visit a social network and the minimum is found at Look for product information where Response is 4.0. ",
+      "The difference of Share of respondents between the highest and lowest Response is 17.0. ",
+      "The Response Visit a social network has the highest Share of respondents, followed by Watch videos, and Use a search engine. Down to the Response Look for product information which is the lowest. ",
+      "Response Look for product information, and Play games have the same Share of respondents. ",
+      "The Response Visit a social network has 1.75 times more Share of respondents than average. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 3,
+         "12": 3
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Response": "Visit a social network",
+         "Share of respondents": 21.0
+      },
+      {
+         "Response": "Watch videos",
+         "Share of respondents": 16.0
+      },
+      {
+         "Response": "Use a search engine",
+         "Share of respondents": 15.0
+      },
+      {
+         "Response": "Look for product information",
+         "Share of respondents": 4.0
+      },
+      {
+         "Response": "Play games",
+         "Share of respondents": 4.0
+      }
+   ]
+}

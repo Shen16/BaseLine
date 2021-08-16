@@ -1,0 +1,130 @@
+{
+   "title": "Number of M & A transactions in Asia 2015 - 2017 , by country",
+   "labels": [
+      "Quarter",
+      "Australia",
+      "China/Hong Kong",
+      "India",
+      "Japan"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This grouped bar chart shows SOME LABEL on the Y-axis for 9 different Quarters for 4 groups Australia, China/Hong Kong, India, and Japan that are presented on the X-axis. ",
+      " All through the Quarters, the SOME LABEL for India have climbed. On the other hand, for China/Hong Kong the SOME LABEL have reduced. ",
+      " Quarter Q4 2016 had the maximum SOME LABEL among all 4 groups, and it was for China/Hong Kong. The minimum SOME LABEL was observed in Quarter Q3 2017 for India. ",
+      " Among all the Quarters, India had the highest SOME LABEL in Quarter Q1 2016 and lowest SOME LABEL in Quarter Q3 2017. "
+   ],
+   "xAxis": "Quarter",
+   "yAxis": "SOME LABEL",
+   "min_summary": [
+      "This grouped bar chart shows SOME LABEL on the Y-axis for 9 different Quarters for 4 groups Australia, China/Hong Kong, India, and Japan that are presented on the X-axis. ",
+      " All through the Quarters, the SOME LABEL for India have climbed. On the other hand, for China/Hong Kong the SOME LABEL have reduced. "
+   ],
+   "mid_summary": [
+      "This grouped bar chart shows SOME LABEL on the Y-axis for 9 different Quarters for 4 groups Australia, China/Hong Kong, India, and Japan that are presented on the X-axis. ",
+      " All through the Quarters, the SOME LABEL for India have climbed. On the other hand, for China/Hong Kong the SOME LABEL have reduced. ",
+      " Quarter Q4 2016 had the maximum SOME LABEL among all 4 groups, and it was for China/Hong Kong. The minimum SOME LABEL was observed in Quarter Q3 2017 for India. ",
+      " Among all the Quarters, India had the highest SOME LABEL in Quarter Q1 2016 and lowest SOME LABEL in Quarter Q3 2017. "
+   ],
+   "max_summary": [
+      "This grouped bar chart represents 9 different Quarters on X-axis for 4 groups Australia, China/Hong Kong, India, and Japan. On the Y-axis it shows their corresponding SOME LABEL. ",
+      " All through the Quarters, the SOME LABEL for India have climbed. On the other hand, for China/Hong Kong the SOME LABEL have reduced. ",
+      " Out of all 4 groups, China/Hong Kong had the highest SOME LABEL in Quarter Q4 2016 and India had the lowest SOME LABEL in Quarter Q3 2017. ",
+      " In Quarter Q1 2016, India had the maximum SOME LABEL and it saw the lowest in Quarter Q3 2017 out of all 9 Quarters. ",
+      " There is a gap of 130.0 between the highest and lowest SOME LABEL found for India in Quarter Q1 2016 and Q3 2017. ",
+      " Out of all 4 groups, the highest gap between the maximum and minimum SOME LABEL was found in case of China/Hong Kong. ",
+      " China/Hong Kong had the maximum SOME LABEL out of all 4 groups in Quarter Q4 2016 followed by China/Hong Kong in Q4 2016, and the minimum SOME LABEL is found for India in Q3 2017. ",
+      "Averaging all 4 groups Australia, China/Hong Kong, India, and Japan, the Quarter Q4 2016 is the maximum SOME LABEL and Q2 2016 is the minimum SOME LABEL. "
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "3"
+         ],
+         "13": [
+            "4",
+            "3"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "4"
+         ],
+         "14": [
+            "4",
+            "4"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Quarter": "Q3 2017",
+         "Australia": "328",
+         "China/Hong Kong": "983",
+         "India": "156",
+         "Japan": "492"
+      },
+      {
+         "Quarter": "Q2 2017",
+         "Australia": "328",
+         "China/Hong Kong": "930",
+         "India": "173",
+         "Japan": "456"
+      },
+      {
+         "Quarter": "Q1 2017",
+         "Australia": "321",
+         "China/Hong Kong": "771",
+         "India": "228",
+         "Japan": "446"
+      },
+      {
+         "Quarter": "Q4 2016",
+         "Australia": "404",
+         "China/Hong Kong": "1059",
+         "India": "221",
+         "Japan": "445"
+      },
+      {
+         "Quarter": "Q3 2016",
+         "Australia": "364",
+         "China/Hong Kong": "916",
+         "India": "258",
+         "Japan": "437"
+      },
+      {
+         "Quarter": "Q2 2016",
+         "Australia": "358",
+         "China/Hong Kong": "732",
+         "India": "254",
+         "Japan": "394"
+      },
+      {
+         "Quarter": "Q1 2016",
+         "Australia": "362",
+         "China/Hong Kong": "746",
+         "India": "286",
+         "Japan": "425"
+      },
+      {
+         "Quarter": "Q4 2015",
+         "Australia": "402",
+         "China/Hong Kong": "932",
+         "India": "241",
+         "Japan": "384"
+      },
+      {
+         "Quarter": "Q3 2015",
+         "Australia": "394",
+         "China/Hong Kong": "896",
+         "India": "271",
+         "Japan": "381"
+      }
+   ]
+}

@@ -1,0 +1,83 @@
+{
+   "title": "The most spoken languages worldwide",
+   "xAxis": "Languages",
+   "yAxis": "Native speaker in millions",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart. It shows Native speaker in millions for 10 number of Languagess. ",
+      "The Native speaker in millions is highest at Languages Chinese and lowest at Languages Lahnda. ",
+      "The minimum Languages Lahnda has got 11.02 times less Native speaker in millions than the maximum Languages Chinese. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Native speaker in millions for 10 number of Languagess. ",
+      "The Native speaker in millions is highest at Languages Chinese and lowest at Languages Lahnda. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Native speaker in millions for 10 number of Languagess. ",
+      "The Native speaker in millions is highest at Languages Chinese and lowest at Languages Lahnda. ",
+      "The minimum Languages Lahnda has got 11.02 times less Native speaker in millions than the maximum Languages Chinese. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Native speaker in millions for 10 number of Languagess. ",
+      "The maximum Native speaker in millions 1311.0 is found at Languages Chinese and the minimum is found at Lahnda where Languages is 119.0. ",
+      "The Native speaker in millions of Languages Chinese is 11.02% larger than the minimum value at Lahnda. ",
+      "Languages Chinese is higher than any other Languagess with value 1311.0, followed by Spanish, and English. Down to Languages Lahnda with the lowest value 119.0. ",
+      "The Languages Chinese has 3.58 times more Native speaker in millions than average. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 9,
+         "12": 9
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Languages": "Chinese",
+         "Native speaker in millions": 1311.0
+      },
+      {
+         "Languages": "Spanish",
+         "Native speaker in millions": 460.0
+      },
+      {
+         "Languages": "English",
+         "Native speaker in millions": 379.0
+      },
+      {
+         "Languages": "Hindi",
+         "Native speaker in millions": 341.0
+      },
+      {
+         "Languages": "Arabic",
+         "Native speaker in millions": 319.0
+      },
+      {
+         "Languages": "Bengali",
+         "Native speaker in millions": 228.0
+      },
+      {
+         "Languages": "Portuguese",
+         "Native speaker in millions": 221.0
+      },
+      {
+         "Languages": "Russian",
+         "Native speaker in millions": 154.0
+      },
+      {
+         "Languages": "Japanese",
+         "Native speaker in millions": 128.0
+      },
+      {
+         "Languages": "Lahnda",
+         "Native speaker in millions": 119.0
+      }
+   ]
+}

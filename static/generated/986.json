@@ -1,0 +1,129 @@
+{
+   "title": "Number of Outback Steakhouse restaurants worldwide from 2011 to 2018 , by location",
+   "labels": [
+      "Year",
+      "United States",
+      "International"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "You are viewing a chart of multi-line type with 2 lines denoting United States, and International. The y axis indicates the SOME LABEL and the x axis indicates Year.",
+      "Overall International is gradually increasing, United States is gradually decreasing,  throughout the Year",
+      "The ranking of the lines from topmost to botommmost is as follows: 1. United States, and lastly, 2. International. ",
+      "Throughout the period, United States generally had the highest SOME LABEL relative to others with an average of 756.38, and it reached its maximum at 2011 with a value of 776.0.",
+      "The botommost line, International,  has a mean of 225.62, and peaked at 2018. ",
+      "International reported the lowest SOME LABEL about 191.0 in Year 2011",
+      "The difference of SOME LABEL between United States and International is smaller at Year 2018 compared to the Year 2011."
+   ],
+   "xAxis": "Year",
+   "yAxis": "SOME LABEL",
+   "min_summary": [
+      "This is a multi-line chart with 2 lines representing United States, and International. The y axis denotes SOME LABEL and the x axis denotes Year.",
+      "Overall International is gradually increasing, United States is gradually decreasing,  throughout the Year",
+      "Overall across the Year, United States mostly maintained the highest SOME LABEL when compared to others with a mean value of 756.38, and it peaked at 2011.",
+      "The botommost line, International,  has a mean of 225.62, and peaked at 2018. "
+   ],
+   "mid_summary": [
+      "The given chart is of multi-line type with 2 lines namely United States, and International. The y axis represents SOME LABEL and the x axis represents Year.",
+      "Overall International is gradually increasing, United States is gradually decreasing,  throughout the Year",
+      "The ranking of the lines from topmost to botommmost is as follows: 1. United States, and lastly, 2. International. ",
+      "Throughout the period, United States generally had the highest SOME LABEL relative to others with an average of 756.38, and it reached its maximum at 2011 with a value of 776.0.",
+      "International mostly had the least SOME LABEL with a mean value of 225.62, which peaked at 2018 with a value of 256.0. "
+   ],
+   "max_summary": [
+      "This is a multi-line chart with 2 lines representing United States, and International. The y axis denotes SOME LABEL and the x axis denotes Year.",
+      "Overall International is gradually increasing, United States is gradually decreasing,  throughout the Year",
+      "The ranking of the lines from topmost to botommmost is as follows: 1. United States, and lastly, 2. International. ",
+      "Throughout the period, United States generally had the highest SOME LABEL relative to others with an average of 756.38, and it reached its maximum at 2011 with a value of 776.0.",
+      "The botommost line, International,  has a mean of 225.62, and peaked at 2018. ",
+      "The minimum SOME LABEL about 191.0, occured at 2011 by International.",
+      "The difference of SOME LABEL between United States and International is smaller at Year 2018 compared to the Year 2011."
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "16": [
+            "7",
+            "0"
+         ]
+      },
+      {
+         "1": [
+            "7",
+            "0"
+         ],
+         "9": [
+            "7",
+            "0"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "15": [
+            "7",
+            "1"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "1"
+         ],
+         "10": [
+            "0",
+            "1"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2018",
+         "United States": "733",
+         "International": "256"
+      },
+      {
+         "Year": "2017",
+         "United States": "740",
+         "International": "249"
+      },
+      {
+         "Year": "2016",
+         "United States": "755",
+         "International": "239"
+      },
+      {
+         "Year": "2015",
+         "United States": "755",
+         "International": "224"
+      },
+      {
+         "Year": "2014",
+         "United States": "753",
+         "International": "222"
+      },
+      {
+         "Year": "2013",
+         "United States": "768",
+         "International": "220"
+      },
+      {
+         "Year": "2012",
+         "United States": "771",
+         "International": "204"
+      },
+      {
+         "Year": "2011",
+         "United States": "776",
+         "International": "191"
+      }
+   ]
+}

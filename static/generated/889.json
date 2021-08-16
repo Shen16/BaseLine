@@ -1,0 +1,85 @@
+{
+   "title": "Leading convention centers in Canada as of June 2017 , by size",
+   "xAxis": "Buildings",
+   "yAxis": "Exhibition space in thousand square feet",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart. It shows Exhibition space in thousand square feet for 10 number of Buildingss. ",
+      "The Exhibition space in thousand square feet is highest at Buildings Enercare Centre and lowest at Buildings Vancouver Convention Centre. ",
+      "The difference of Exhibition space in thousand square feet between the highest and lowest Buildings is 688.5. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Exhibition space in thousand square feet for 10 number of Buildingss. ",
+      "The Exhibition space in thousand square feet is highest at Buildings Enercare Centre and lowest at Buildings Vancouver Convention Centre. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Exhibition space in thousand square feet for 10 number of Buildingss. ",
+      "The Exhibition space in thousand square feet is highest at Buildings Enercare Centre and lowest at Buildings Vancouver Convention Centre. ",
+      "The difference of Exhibition space in thousand square feet between the highest and lowest Buildings is 688.5. "
+   ],
+   "max_summary": [
+      "This bar chart has 10 columns on the x axis representing Buildings, and Exhibition space in thousand square feet in each Buildings on the y axis. ",
+      "The Exhibition space in thousand square feet is highest at Buildings Enercare Centre and lowest at Buildings Vancouver Convention Centre. ",
+      "Buildings The Toronto Congress Centre has the second highest value for Exhibition space in thousand square feet. ",
+      "The highest Buildings Enercare Centre has 688.5 more Exhibition space in thousand square feet than the lowest Buildings Vancouver Convention Centre. ",
+      "The Buildings Enercare Centre has the highest Exhibition space in thousand square feet, followed by The Toronto Congress Centre, and The International Centre Toronto. Down to the Buildings Vancouver Convention Centre which is the lowest. ",
+      "Buildings Enercare Centre, and The Toronto Congress Centre have a similar Exhibition space in thousand square feet that is 1000.0. ",
+      "The Buildings Vancouver Convention Centre has 1.9 times less Exhibition space in thousand square feet than average. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 9,
+         "12": 9
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Buildings": "Enercare Centre",
+         "Exhibition space in thousand square feet": 1000.0
+      },
+      {
+         "Buildings": "The Toronto Congress Centre",
+         "Exhibition space in thousand square feet": 1000.0
+      },
+      {
+         "Buildings": "The International Centre Toronto",
+         "Exhibition space in thousand square feet": 500.0
+      },
+      {
+         "Buildings": "Metro Toronto Convention Centre",
+         "Exhibition space in thousand square feet": 460.0
+      },
+      {
+         "Buildings": "Evraz Place",
+         "Exhibition space in thousand square feet": 452.0
+      },
+      {
+         "Buildings": "Olympic Park",
+         "Exhibition space in thousand square feet": 410.0
+      },
+      {
+         "Buildings": "Northlands",
+         "Exhibition space in thousand square feet": 401.0
+      },
+      {
+         "Buildings": "Calgary Stampede Park",
+         "Exhibition space in thousand square feet": 400.0
+      },
+      {
+         "Buildings": "Place Bonaventure",
+         "Exhibition space in thousand square feet": 315.0
+      },
+      {
+         "Buildings": "Vancouver Convention Centre",
+         "Exhibition space in thousand square feet": 311.5
+      }
+   ]
+}

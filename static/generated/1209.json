@@ -1,0 +1,163 @@
+{
+   "title": "Penetration rate of bottled water brands in Turkey 2012 to 2013",
+   "labels": [
+      "Response",
+      "2012",
+      "2013"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This grouped bar chart represents 20 different Responses on X-axis for 2 groups 2012, and 2013. On the Y-axis it shows their corresponding SOME LABEL. ",
+      " Response Hayat had the maximum SOME LABEL among all 2 groups, and it was for 2012. The minimum SOME LABEL was observed in Response Volvic for 2012. ",
+      " In Response Erikli, 2013 had the maximum SOME LABEL and it saw the lowest in Response Volvic out of all 20 Responses. ",
+      "Response Erikli and Volvic had the biggest gap of 28.0 between the highest and lowest SOME LABEL found for 2013. "
+   ],
+   "xAxis": "Response",
+   "yAxis": "SOME LABEL",
+   "min_summary": [
+      "This grouped bar chart represents 20 different Responses on X-axis for 2 groups 2012, and 2013. On the Y-axis it shows their corresponding SOME LABEL. ",
+      " Out of all 2 groups, 2012 had the highest SOME LABEL in Response Hayat and 2012 had the lowest SOME LABEL in Response Volvic. "
+   ],
+   "mid_summary": [
+      "This grouped bar chart represents 20 different Responses on X-axis for 2 groups 2012, and 2013. On the Y-axis it shows their corresponding SOME LABEL. ",
+      " Response Hayat had the maximum SOME LABEL among all 2 groups, and it was for 2012. The minimum SOME LABEL was observed in Response Volvic for 2012. ",
+      " In Response Erikli, 2013 had the maximum SOME LABEL and it saw the lowest in Response Volvic out of all 20 Responses. ",
+      "Response Erikli and Volvic had the biggest gap of 28.0 between the highest and lowest SOME LABEL found for 2013. "
+   ],
+   "max_summary": [
+      "This grouped bar chart shows SOME LABEL on the Y-axis for 20 different Responses for 2 groups 2012, and 2013 that are presented on the X-axis. ",
+      " Out of all 2 groups, 2012 had the highest SOME LABEL in Response Hayat and 2012 had the lowest SOME LABEL in Response Volvic. ",
+      " Among all the Responses, 2013 had the highest SOME LABEL 28.0 in Response Erikli and lowest value 0.0 in Response Volvic. ",
+      " There is a gap of 28.0 between the highest and lowest SOME LABEL found for 2013 in Response Erikli and Volvic. ",
+      " Among all 2 groups, 2012 had the gap of 48.0 between the maximum and minimum SOME LABEL observed in Response Hayat and Volvic respectively. ",
+      "Averaging all 2 groups 2012, and 2013, the Response Hayat is the maximum SOME LABEL and Buxton is the minimum SOME LABEL. "
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "13": [
+            "2",
+            "1"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "14": [
+            "2",
+            "0"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Response": "Erikli",
+         "2012": "33",
+         "2013": "28"
+      },
+      {
+         "Response": "Hayat",
+         "2012": "48",
+         "2013": "27"
+      },
+      {
+         "Response": "Pinar",
+         "2012": "26",
+         "2013": "17"
+      },
+      {
+         "Response": "Damla",
+         "2012": "18",
+         "2013": "14"
+      },
+      {
+         "Response": "Ayta\u00e7",
+         "2012": "9",
+         "2013": "11"
+      },
+      {
+         "Response": "Saka",
+         "2012": "10",
+         "2013": "10"
+      },
+      {
+         "Response": "Sirma",
+         "2012": "20",
+         "2013": "9"
+      },
+      {
+         "Response": "G\u00fczelpinar",
+         "2012": "1",
+         "2013": "2"
+      },
+      {
+         "Response": "Pure Life",
+         "2012": "0",
+         "2013": "2"
+      },
+      {
+         "Response": "Abant",
+         "2012": "2",
+         "2013": "1"
+      },
+      {
+         "Response": "Aqua",
+         "2012": "1",
+         "2013": "1"
+      },
+      {
+         "Response": "NAYA",
+         "2012": "0",
+         "2013": "1"
+      },
+      {
+         "Response": "Aquafina",
+         "2012": "1",
+         "2013": "1"
+      },
+      {
+         "Response": "Buxton",
+         "2012": "0",
+         "2013": "0"
+      },
+      {
+         "Response": "Dasani",
+         "2012": "0",
+         "2013": "0"
+      },
+      {
+         "Response": "Evian",
+         "2012": "1",
+         "2013": "0"
+      },
+      {
+         "Response": "Perrier",
+         "2012": "1",
+         "2013": "0"
+      },
+      {
+         "Response": "SPA",
+         "2012": "2",
+         "2013": "0"
+      },
+      {
+         "Response": "Vittel",
+         "2012": "1",
+         "2013": "0"
+      },
+      {
+         "Response": "Volvic",
+         "2012": "0",
+         "2013": "0"
+      }
+   ]
+}

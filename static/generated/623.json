@@ -1,0 +1,117 @@
+{
+   "title": "Number of retail chains in Poland 2019 , by sector",
+   "xAxis": "Retail Categories",
+   "yAxis": "Number of retail chains",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart representing Retail Categories in the x axis and Number of retail chains in the y axis. ",
+      "The Number of retail chains is appeared to be the highest at Retail Categories Fashion & Clothing and lowest at Retail Categories Pet Care. ",
+      "The Number of retail chains of Retail Categories Fashion & Clothing is 11.4% larger than the minimum value at Pet Care. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Number of retail chains for 18 number of Retail Categoriess. ",
+      "The Number of retail chains is appeared to be the highest at Retail Categories Fashion & Clothing and lowest at Retail Categories Pet Care. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Retail Categories in the x axis and Number of retail chains in the y axis. ",
+      "The Number of retail chains is appeared to be the highest at Retail Categories Fashion & Clothing and lowest at Retail Categories Pet Care. ",
+      "The Number of retail chains of Retail Categories Fashion & Clothing is 11.4% larger than the minimum value at Pet Care. "
+   ],
+   "max_summary": [
+      "This bar chart has 18 columns on the x axis representing Retail Categories, and Number of retail chains in each Retail Categories on the y axis. ",
+      "Retail Categories Fashion & Clothing has the highest Number of retail chains and Pet Care has the lowest Number of retail chains. ",
+      "The difference of Number of retail chains between the highest and lowest Retail Categories is 52.0. ",
+      "Retail Categories Fashion & Clothing is higher than any other Retail Categoriess with value 57.0, followed by Footwear & Leather, and Footwear & Leather. Down to Retail Categories Pet Care with the lowest value 5.0. ",
+      "Retail Categories Toys & Games, Petrol, and Jewelry & Watches have the same Number of retail chains. ",
+      "The Retail Categories Pet Care has 3.18 times less Number of retail chains than average. ",
+      "Summing up the values of all Retail Categoriess, we get total 323.0. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 17,
+         "12": 17
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Retail Categories": "Fashion & Clothing",
+         "Number of retail chains": 57.0
+      },
+      {
+         "Retail Categories": "Furniture & Decoration",
+         "Number of retail chains": 28.0
+      },
+      {
+         "Retail Categories": "Footwear & Leather",
+         "Number of retail chains": 28.0
+      },
+      {
+         "Retail Categories": "Food",
+         "Number of retail chains": 25.0
+      },
+      {
+         "Retail Categories": "Personal Care",
+         "Number of retail chains": 23.0
+      },
+      {
+         "Retail Categories": "Consumer Electronics",
+         "Number of retail chains": 23.0
+      },
+      {
+         "Retail Categories": "Home Ware",
+         "Number of retail chains": 20.0
+      },
+      {
+         "Retail Categories": "Car Parts & Accessories",
+         "Number of retail chains": 14.0
+      },
+      {
+         "Retail Categories": "DIY & Gardening",
+         "Number of retail chains": 13.0
+      },
+      {
+         "Retail Categories": "Sport & Leisure",
+         "Number of retail chains": 13.0
+      },
+      {
+         "Retail Categories": "Toys & Games",
+         "Number of retail chains": 12.0
+      },
+      {
+         "Retail Categories": "Petrol",
+         "Number of retail chains": 12.0
+      },
+      {
+         "Retail Categories": "Jewelry & Watches",
+         "Number of retail chains": 12.0
+      },
+      {
+         "Retail Categories": "Telecom",
+         "Number of retail chains": 11.0
+      },
+      {
+         "Retail Categories": "Books & Magazines",
+         "Number of retail chains": 10.0
+      },
+      {
+         "Retail Categories": "Baby Ware",
+         "Number of retail chains": 9.0
+      },
+      {
+         "Retail Categories": "Optical",
+         "Number of retail chains": 8.0
+      },
+      {
+         "Retail Categories": "Pet Care",
+         "Number of retail chains": 5.0
+      }
+   ]
+}

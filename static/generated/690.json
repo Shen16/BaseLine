@@ -1,0 +1,73 @@
+{
+   "title": "Average YouTube video length 2018 , by category",
+   "xAxis": "Youtube Category",
+   "yAxis": "Average length in minutes",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 7 columns on the x axis representing Youtube Category, and Average length in minutes in each Youtube Category on the y axis. ",
+      "The Average length in minutes is appeared to be the highest at Youtube Category Gaming and lowest at Youtube Category Music. ",
+      "The Average length in minutes of Youtube Category Music is 3.63% smaller than the maximum value at Gaming. "
+   ],
+   "min_summary": [
+      "This bar chart has 7 columns on the x axis representing Youtube Category, and Average length in minutes in each Youtube Category on the y axis. ",
+      "The Average length in minutes is appeared to be the highest at Youtube Category Gaming and lowest at Youtube Category Music. "
+   ],
+   "mid_summary": [
+      "This bar chart has 7 columns on the x axis representing Youtube Category, and Average length in minutes in each Youtube Category on the y axis. ",
+      "The Average length in minutes is appeared to be the highest at Youtube Category Gaming and lowest at Youtube Category Music. ",
+      "The Average length in minutes of Youtube Category Music is 3.63% smaller than the maximum value at Gaming. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Average length in minutes for 7 number of Youtube Categorys. ",
+      "Youtube Category Gaming has the highest Average length in minutes and Music has the lowest Average length in minutes. ",
+      "Youtube Category Film and animation has the second highest value for Average length in minutes. ",
+      "The Average length in minutes of Youtube Category Music is 3.63% smaller than the maximum value at Gaming. ",
+      "Average length in minutes at Youtube Category Gaming is 24.7 , second place is Film and animation at 19.2, and thirdly is Entertainment at 12.9.",
+      "The Youtube Category Music tends to be 1.86 percent lower than average. ",
+      "The Average length in minutes is 93.2 if we add up values of all Youtube Categorys. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 6,
+         "12": 6
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Youtube Category": "Gaming",
+         "Average length in minutes": 24.7
+      },
+      {
+         "Youtube Category": "Film and animation",
+         "Average length in minutes": 19.2
+      },
+      {
+         "Youtube Category": "Entertainment",
+         "Average length in minutes": 12.9
+      },
+      {
+         "Youtube Category": "Total",
+         "Average length in minutes": 11.7
+      },
+      {
+         "Youtube Category": "Other",
+         "Average length in minutes": 9.5
+      },
+      {
+         "Youtube Category": "People and blogs",
+         "Average length in minutes": 8.4
+      },
+      {
+         "Youtube Category": "Music",
+         "Average length in minutes": 6.8
+      }
+   ]
+}

@@ -1,0 +1,73 @@
+{
+   "title": "Global market share held by PC vendors 2019",
+   "xAxis": "Brand",
+   "yAxis": "Share of shipments",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart. It shows Share of shipments for 7 number of Brands. ",
+      "Brand Lenovo has the highest Share of shipments and Asus has the lowest Share of shipments. ",
+      "The difference of Share of shipments between the highest and lowest Brand is 18.6. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Share of shipments for 7 number of Brands. ",
+      "The maximum Share of shipments 24.1 is found at Brand Lenovo and the minimum is found at Asus where Brand is 5.5. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Share of shipments for 7 number of Brands. ",
+      "Brand Lenovo has the highest Share of shipments and Asus has the lowest Share of shipments. ",
+      "The difference of Share of shipments between the highest and lowest Brand is 18.6. "
+   ],
+   "max_summary": [
+      "This bar chart has 7 columns on the x axis representing Brand, and Share of shipments in each Brand on the y axis. ",
+      "The Share of shipments is appeared to be the highest at Brand Lenovo and lowest at Brand Asus. ",
+      "Second maximum Share of shipments is found at Brand HP Inc. ",
+      "There is a difference of 18.6 between the maximum Brand Lenovo and minimum Brand Asus. ",
+      "Brand Lenovo is higher than any other Brands with value 24.1, followed by HP Inc, and Others. Down to Brand Asus with the lowest value 5.5. ",
+      "The lowest value 5.5 at Asus is almost 1.69 times smaller than the average value 14.29. ",
+      "The Share of shipments is 100.0 if we add up values of all Brands. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 5,
+         "12": 5
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Brand": "Lenovo",
+         "Share of shipments": 24.1
+      },
+      {
+         "Brand": "HP Inc",
+         "Share of shipments": 22.2
+      },
+      {
+         "Brand": "Dell",
+         "Share of shipments": 16.8
+      },
+      {
+         "Brand": "Apple",
+         "Share of shipments": 7.0
+      },
+      {
+         "Brand": "Acer",
+         "Share of shipments": 5.7
+      },
+      {
+         "Brand": "Asus",
+         "Share of shipments": 5.5
+      },
+      {
+         "Brand": "Others",
+         "Share of shipments": 18.7
+      }
+   ]
+}

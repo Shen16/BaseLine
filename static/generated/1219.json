@@ -1,0 +1,86 @@
+{
+   "title": "Global automotive industry : capacity and assembly volume 2015/2022",
+   "labels": [
+      "Country",
+      "North America",
+      "EU",
+      "Eastern Europe",
+      "Asia-Pacific",
+      "Middle East & Africa",
+      "South America"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This grouped bar chart represents 2 different Countrys on X-axis for 6 groups North America, EU, Eastern Europe, Asia-Pacific, Middle East & Africa, and South America. On the Y-axis it shows their corresponding SOME LABEL. ",
+      " Out of all 6 groups, Asia-Pacific had the highest SOME LABEL in Country 2022 and Middle East & Africa had the lowest SOME LABEL in Country 2015. ",
+      " Among all the Countrys, North America had the highest SOME LABEL in Country 2022 and lowest SOME LABEL in Country 2015. ",
+      " The maximum SOME LABEL for North America that was found in Country 2022 was 1.15 times larger than the minimum SOME LABEL observed in Country 2015. "
+   ],
+   "xAxis": "Country",
+   "yAxis": "SOME LABEL",
+   "min_summary": [
+      "This grouped bar chart shows SOME LABEL on the Y-axis for 2 different Countrys for 6 groups North America, EU, Eastern Europe, Asia-Pacific, Middle East & Africa, and South America that are presented on the X-axis. ",
+      " Out of all 6 groups, Asia-Pacific had the highest SOME LABEL in Country 2022 and Middle East & Africa had the lowest SOME LABEL in Country 2015. "
+   ],
+   "mid_summary": [
+      "This grouped bar chart represents 2 different Countrys on X-axis for 6 groups North America, EU, Eastern Europe, Asia-Pacific, Middle East & Africa, and South America. On the Y-axis it shows their corresponding SOME LABEL. ",
+      " Out of all 6 groups, Asia-Pacific had the highest SOME LABEL in Country 2022 and Middle East & Africa had the lowest SOME LABEL in Country 2015. ",
+      " Among all the Countrys, North America had the highest SOME LABEL in Country 2022 and lowest SOME LABEL in Country 2015. ",
+      " The maximum SOME LABEL for North America that was found in Country 2022 was 1.15 times larger than the minimum SOME LABEL observed in Country 2015. "
+   ],
+   "max_summary": [
+      "This grouped bar chart represents 2 different Countrys on X-axis for 6 groups North America, EU, Eastern Europe, Asia-Pacific, Middle East & Africa, and South America. On the Y-axis it shows their corresponding SOME LABEL. ",
+      " In Country 2022, Asia-Pacific had the highest SOME LABEL 770.0 among the 6 groups and in 2015, Middle East & Africa had the lowest SOME LABEL 37.0. ",
+      " In Country 2022, North America had the highest SOME LABEL among all 2 Countrys and it has the lowest SOME LABEL in Country 2015. ",
+      " The maximum SOME LABEL for North America that was found in Country 2022 was 1.15 times larger than the minimum SOME LABEL observed in Country 2015. ",
+      " Among all 6 groups, Asia-Pacific had the gap of 89.0 between the maximum and minimum SOME LABEL observed in Country 2022 and 2015 respectively. ",
+      " Asia-Pacific had the maximum SOME LABEL out of all 6 groups in Country 2022 followed by Asia-Pacific in 2022, and the minimum SOME LABEL is found for Middle East & Africa in 2015. ",
+      "On average, the Country 2022 had the highest SOME LABEL for all 6 groups North America, EU, Eastern Europe, Asia-Pacific, Middle East & Africa, and South America. Whereas 2015 had the lowest average SOME LABEL. "
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "13": [
+            "6",
+            "0"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "14": [
+            "6",
+            "1"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Country": "2022",
+         "North America": "22.8",
+         "EU": "23.5",
+         "Eastern Europe": "7.0",
+         "Asia-Pacific": "77.0",
+         "Middle East & Africa": "4.4",
+         "South America": "6.4"
+      },
+      {
+         "Country": "2015",
+         "North America": "19.9",
+         "EU": "22.2",
+         "Eastern Europe": "5.9",
+         "Asia-Pacific": "68.1",
+         "Middle East & Africa": "3.7",
+         "South America": "5.8"
+      }
+   ]
+}

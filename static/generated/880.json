@@ -1,0 +1,77 @@
+{
+   "title": "Net sales share of Est\u00e9e Lauder worldwide 2017 , by distribution channel",
+   "xAxis": "Distribution channel",
+   "yAxis": "Net sales share",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart representing Distribution channel in the x axis and Net sales share in the y axis. ",
+      "The Net sales share is appeared to be the highest at Distribution channel Department stores and lowest at Distribution channel Salon and spa. ",
+      "There is a difference of 39.0 between the maximum Distribution channel Department stores and minimum Distribution channel Salon and spa. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing Distribution channel in the x axis and Net sales share in the y axis. ",
+      "The Net sales share is highest at Distribution channel Department stores and lowest at Distribution channel Salon and spa. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Distribution channel in the x axis and Net sales share in the y axis. ",
+      "The Net sales share is appeared to be the highest at Distribution channel Department stores and lowest at Distribution channel Salon and spa. ",
+      "There is a difference of 39.0 between the maximum Distribution channel Department stores and minimum Distribution channel Salon and spa. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Distribution channel in the x axis and Net sales share in the y axis. ",
+      "Distribution channel Department stores has the highest Net sales share and Salon and spa has the lowest Net sales share. ",
+      "The difference of Net sales share between the highest and lowest Distribution channel is 39.0. ",
+      "Distribution channel Department stores is higher than any other Distribution channels with value 42.0, followed by Travel retail, and Specialty-multi. Down to Distribution channel Salon and spa with the lowest value 3.0. ",
+      "Distribution channel Freestanding retail stores, and Specialty-multi share the same value 11.0. ",
+      "The lowest value 3.0 at Salon and spa is almost 3.36 times smaller than the average value 12.5. ",
+      "Summing up the values of all Distribution channels, we get total 100.0. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 5,
+         "12": 5
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Distribution channel": "Department stores",
+         "Net sales share": 42.0
+      },
+      {
+         "Distribution channel": "Travel retail",
+         "Net sales share": 14.0
+      },
+      {
+         "Distribution channel": "Freestanding retail stores",
+         "Net sales share": 11.0
+      },
+      {
+         "Distribution channel": "Specialty-multi",
+         "Net sales share": 11.0
+      },
+      {
+         "Distribution channel": "Perfumeries",
+         "Net sales share": 5.0
+      },
+      {
+         "Distribution channel": "Salon and spa",
+         "Net sales share": 3.0
+      },
+      {
+         "Distribution channel": "Online",
+         "Net sales share": 7.0
+      },
+      {
+         "Distribution channel": "Other",
+         "Net sales share": 7.0
+      }
+   ]
+}

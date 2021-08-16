@@ -1,0 +1,145 @@
+{
+   "title": "Number of professionals at the leading accounting firms in the U.S. 2019",
+   "xAxis": "Accounting firm",
+   "yAxis": "Number of professionals",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart representing Accounting firm in the x axis and Number of professionals in the y axis. ",
+      "The Number of professionals is highest at Accounting firm Deloitte and lowest at Accounting firm Mazars USA. ",
+      "The highest Accounting firm Deloitte has 73254.0 more Number of professionals than the lowest Accounting firm Mazars USA. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Number of professionals for 25 number of Accounting firms. ",
+      "The maximum Number of professionals 73855.0 is found at Accounting firm Deloitte and the minimum is found at Mazars USA where Accounting firm is 601.0. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Accounting firm in the x axis and Number of professionals in the y axis. ",
+      "The Number of professionals is highest at Accounting firm Deloitte and lowest at Accounting firm Mazars USA. ",
+      "The highest Accounting firm Deloitte has 73254.0 more Number of professionals than the lowest Accounting firm Mazars USA. "
+   ],
+   "max_summary": [
+      "This bar chart has 25 columns on the x axis representing Accounting firm, and Number of professionals in each Accounting firm on the y axis. ",
+      "The Number of professionals is appeared to be the highest at Accounting firm Deloitte and lowest at Accounting firm Mazars USA. ",
+      "Second maximum Number of professionals is found at Accounting firm PwC. ",
+      "The difference of Number of professionals between the highest and lowest Accounting firm is 73254.0. ",
+      "The Accounting firm Deloitte has the highest Number of professionals, followed by PwC, and Ernst & Young. Down to the Accounting firm Mazars USA which is the lowest. ",
+      "The highest value 73855.0 at Deloitte is almost 8.46 times larger than the average value 8725.4. ",
+      "Summing up the values of all Accounting firms, we get total 218135.0. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 24,
+         "12": 24
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Accounting firm": "Deloitte",
+         "Number of professionals": 73855.0
+      },
+      {
+         "Accounting firm": "PwC",
+         "Number of professionals": 35350.0
+      },
+      {
+         "Accounting firm": "Ernst & Young",
+         "Number of professionals": 33600.0
+      },
+      {
+         "Accounting firm": "KPMG",
+         "Number of professionals": 26447.0
+      },
+      {
+         "Accounting firm": "RSM US",
+         "Number of professionals": 7252.0
+      },
+      {
+         "Accounting firm": "Grant Thornton",
+         "Number of professionals": 6616.0
+      },
+      {
+         "Accounting firm": "BDO USA",
+         "Number of professionals": 4958.0
+      },
+      {
+         "Accounting firm": "CliftonLarsonAllen",
+         "Number of professionals": 4056.0
+      },
+      {
+         "Accounting firm": "Crowe Horwath",
+         "Number of professionals": 3402.0
+      },
+      {
+         "Accounting firm": "CBIZ / Mayer Hoffman McCann",
+         "Number of professionals": 2470.0
+      },
+      {
+         "Accounting firm": "Moss Adams",
+         "Number of professionals": 2066.0
+      },
+      {
+         "Accounting firm": "CohnReznick",
+         "Number of professionals": 1908.0
+      },
+      {
+         "Accounting firm": "BKD",
+         "Number of professionals": 1824.0
+      },
+      {
+         "Accounting firm": "Baker Tilly Virchow Krause",
+         "Number of professionals": 2095.0
+      },
+      {
+         "Accounting firm": "Marcum",
+         "Number of professionals": 1219.0
+      },
+      {
+         "Accounting firm": "Plante Moran",
+         "Number of professionals": 1796.0
+      },
+      {
+         "Accounting firm": "Dixon Hughes Goodman",
+         "Number of professionals": 1385.0
+      },
+      {
+         "Accounting firm": "EisnerAmper",
+         "Number of professionals": 979.0
+      },
+      {
+         "Accounting firm": "Wipfli",
+         "Number of professionals": 1229.0
+      },
+      {
+         "Accounting firm": "Carr Riggs & Ingram",
+         "Number of professionals": 1346.0
+      },
+      {
+         "Accounting firm": "Eide Bailly",
+         "Number of professionals": 1386.0
+      },
+      {
+         "Accounting firm": "Citrin Cooperman & Co.",
+         "Number of professionals": 675.0
+      },
+      {
+         "Accounting firm": "Armanino",
+         "Number of professionals": 900.0
+      },
+      {
+         "Accounting firm": "Withum",
+         "Number of professionals": 720.0
+      },
+      {
+         "Accounting firm": "Mazars USA",
+         "Number of professionals": 601.0
+      }
+   ]
+}

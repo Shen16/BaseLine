@@ -1,0 +1,61 @@
+{
+   "title": "Internet service provider market share in Vietnam fourth quarter 2013",
+   "xAxis": "Company",
+   "yAxis": "Market share",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 4 columns on the x axis representing Company, and Market share in each Company on the y axis. ",
+      "The Market share is appeared to be the highest at Company VNPT and lowest at Company Others. ",
+      "The highest Company VNPT has 50.0 more Market share than the lowest Company Others. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing Company in the x axis and Market share in the y axis. ",
+      "The Market share is highest at Company VNPT and lowest at Company Others. "
+   ],
+   "mid_summary": [
+      "This bar chart has 4 columns on the x axis representing Company, and Market share in each Company on the y axis. ",
+      "The Market share is appeared to be the highest at Company VNPT and lowest at Company Others. ",
+      "The highest Company VNPT has 50.0 more Market share than the lowest Company Others. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Market share for 4 number of Companys. ",
+      "The Market share is highest at Company VNPT and lowest at Company Others. ",
+      "The second highest Market share is appeared to be the Company FPT Telecom. ",
+      "Company VNPT has 8.58 times more Market share than Company Others which is has the lowest. ",
+      "Company VNPT is higher than any other Companys with value 56.6, followed by FPT Telecom, and Viettel. Down to Company Others with the lowest value 6.6. ",
+      "The Company VNPT has 2.26 times more Market share than average. ",
+      "The Market share is 100.0 if we add up values of all Companys. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 3,
+         "12": 3
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Company": "VNPT",
+         "Market share": 56.6
+      },
+      {
+         "Company": "FPT Telecom",
+         "Market share": 27.0
+      },
+      {
+         "Company": "Viettel",
+         "Market share": 9.8
+      },
+      {
+         "Company": "Others",
+         "Market share": 6.6
+      }
+   ]
+}

@@ -1,0 +1,165 @@
+{
+   "title": "Average age of players in Major League Baseball by club 2019",
+   "xAxis": "Major League Baseball Player",
+   "yAxis": "Average player age in years",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart representing Major League Baseball Player in the x axis and Average player age in years in the y axis. ",
+      "The Average player age in years is highest at Major League Baseball Player Washington Nationals and lowest at Major League Baseball Player Baltimore Orioles. ",
+      "The highest value at Major League Baseball Player Washington Nationals is 1.17x times more than the lowest value at Baltimore Orioles. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing Major League Baseball Player in the x axis and Average player age in years in the y axis. ",
+      "The Average player age in years is highest at Major League Baseball Player Washington Nationals and lowest at Major League Baseball Player Baltimore Orioles. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Major League Baseball Player in the x axis and Average player age in years in the y axis. ",
+      "The Average player age in years is highest at Major League Baseball Player Washington Nationals and lowest at Major League Baseball Player Baltimore Orioles. ",
+      "The highest value at Major League Baseball Player Washington Nationals is 1.17x times more than the lowest value at Baltimore Orioles. "
+   ],
+   "max_summary": [
+      "This bar chart has 30 columns on the x axis representing Major League Baseball Player, and Average player age in years in each Major League Baseball Player on the y axis. ",
+      "The Average player age in years is highest at Major League Baseball Player Washington Nationals and lowest at Major League Baseball Player Baltimore Orioles. ",
+      "The lowest value at Major League Baseball Player Baltimore Orioles is 1.17x times less than the highest value at Washington Nationals. ",
+      "Average player age in years at Major League Baseball Player Washington Nationals is 30.1 , second place is Oakland Athletics at 29.9, and thirdly is Houston Astros at 29.8.",
+      "Similar Average player age in years is found in Major League Baseball Player Chicago Cubs, Atlanta Braves, and New York Yankees. ",
+      "The lowest value 25.7 at Baltimore Orioles is almost 1.07 times smaller than the average value 28.1. ",
+      "The Average player age in years is 843.0 if we add up values of all Major League Baseball Players. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 29,
+         "12": 29
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Major League Baseball Player": "Washington Nationals",
+         "Average player age in years": 30.1
+      },
+      {
+         "Major League Baseball Player": "Oakland Athletics",
+         "Average player age in years": 29.9
+      },
+      {
+         "Major League Baseball Player": "Houston Astros",
+         "Average player age in years": 29.8
+      },
+      {
+         "Major League Baseball Player": "Chicago Cubs",
+         "Average player age in years": 29.5
+      },
+      {
+         "Major League Baseball Player": "Atlanta Braves",
+         "Average player age in years": 29.5
+      },
+      {
+         "Major League Baseball Player": "New York Yankees",
+         "Average player age in years": 29.5
+      },
+      {
+         "Major League Baseball Player": "Milwaukee Brewers",
+         "Average player age in years": 29.3
+      },
+      {
+         "Major League Baseball Player": "San Francisco Giants",
+         "Average player age in years": 29.0
+      },
+      {
+         "Major League Baseball Player": "New York Mets",
+         "Average player age in years": 29.0
+      },
+      {
+         "Major League Baseball Player": "St. Louis Cardinals",
+         "Average player age in years": 28.6
+      },
+      {
+         "Major League Baseball Player": "Minnesota Twins",
+         "Average player age in years": 28.4
+      },
+      {
+         "Major League Baseball Player": "Tampa Bay Rays",
+         "Average player age in years": 28.3
+      },
+      {
+         "Major League Baseball Player": "Boston Red Sox",
+         "Average player age in years": 28.3
+      },
+      {
+         "Major League Baseball Player": "Chicago White Sox",
+         "Average player age in years": 28.3
+      },
+      {
+         "Major League Baseball Player": "Los Angeles Dodgers",
+         "Average player age in years": 28.2
+      },
+      {
+         "Major League Baseball Player": "Seattle Mariners",
+         "Average player age in years": 27.8
+      },
+      {
+         "Major League Baseball Player": "Miami Marlins",
+         "Average player age in years": 27.8
+      },
+      {
+         "Major League Baseball Player": "Cleveland Indians",
+         "Average player age in years": 27.7
+      },
+      {
+         "Major League Baseball Player": "Texas Rangers",
+         "Average player age in years": 27.7
+      },
+      {
+         "Major League Baseball Player": "Los Angeles Angels",
+         "Average player age in years": 27.7
+      },
+      {
+         "Major League Baseball Player": "Colorado Rockies",
+         "Average player age in years": 27.5
+      },
+      {
+         "Major League Baseball Player": "Pittsburgh Pirates",
+         "Average player age in years": 27.4
+      },
+      {
+         "Major League Baseball Player": "Cincinnati Reds",
+         "Average player age in years": 27.3
+      },
+      {
+         "Major League Baseball Player": "Philadelphia Phillies",
+         "Average player age in years": 27.3
+      },
+      {
+         "Major League Baseball Player": "Kansas City Royals",
+         "Average player age in years": 27.1
+      },
+      {
+         "Major League Baseball Player": "Arizona Diamondbacks",
+         "Average player age in years": 27.0
+      },
+      {
+         "Major League Baseball Player": "Toronto Blue Jays",
+         "Average player age in years": 26.8
+      },
+      {
+         "Major League Baseball Player": "Detroit Tigers",
+         "Average player age in years": 26.5
+      },
+      {
+         "Major League Baseball Player": "San Diego Padres",
+         "Average player age in years": 26.0
+      },
+      {
+         "Major League Baseball Player": "Baltimore Orioles",
+         "Average player age in years": 25.7
+      }
+   ]
+}

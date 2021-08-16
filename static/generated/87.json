@@ -1,0 +1,83 @@
+{
+   "title": "Most valuable Italian brands in 2019",
+   "xAxis": "Brand",
+   "yAxis": "Brand value in million U.S. dollars",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 10 columns on the x axis representing Brand, and Brand value in million U.S. dollars in each Brand on the y axis. ",
+      "The Brand value in million U.S. dollars is highest at Brand Eni and lowest at Brand Poste Italiane Spa. ",
+      "There is a difference of 7591.0 between the maximum Brand Eni and minimum Brand Poste Italiane Spa. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Brand value in million U.S. dollars for 10 number of Brands. ",
+      "The Brand value in million U.S. dollars is highest at Brand Eni and lowest at Brand Poste Italiane Spa. "
+   ],
+   "mid_summary": [
+      "This bar chart has 10 columns on the x axis representing Brand, and Brand value in million U.S. dollars in each Brand on the y axis. ",
+      "The Brand value in million U.S. dollars is highest at Brand Eni and lowest at Brand Poste Italiane Spa. ",
+      "There is a difference of 7591.0 between the maximum Brand Eni and minimum Brand Poste Italiane Spa. "
+   ],
+   "max_summary": [
+      "This bar chart has 10 columns on the x axis representing Brand, and Brand value in million U.S. dollars in each Brand on the y axis. ",
+      "Brand Eni has the highest Brand value in million U.S. dollars and Poste Italiane Spa has the lowest Brand value in million U.S. dollars. ",
+      "The difference of Brand value in million U.S. dollars between the highest and lowest Brand is 7591.0. ",
+      "Brand Eni is higher than any other Brands with value 10711.0, followed by Enel, and Gucci. Down to Brand Poste Italiane Spa with the lowest value 3120.0. ",
+      "The Brand Eni has 1.48 times more Brand value in million U.S. dollars than average. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 5,
+         "12": 5
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Brand": "Eni",
+         "Brand value in million U.S. dollars": 10711.0
+      },
+      {
+         "Brand": "Enel",
+         "Brand value in million U.S. dollars": 10319.0
+      },
+      {
+         "Brand": "Gucci",
+         "Brand value in million U.S. dollars": 10192.0
+      },
+      {
+         "Brand": "TIM",
+         "Brand value in million U.S. dollars": 8707.0
+      },
+      {
+         "Brand": "Ferrari",
+         "Brand value in million U.S. dollars": 8327.0
+      },
+      {
+         "Brand": "Poste Italiane Spa",
+         "Brand value in million U.S. dollars": 3120.0
+      },
+      {
+         "Brand": "Generali",
+         "Brand value in million U.S. dollars": 7099.0
+      },
+      {
+         "Brand": "Intesa Sanpaolo Group",
+         "Brand value in million U.S. dollars": 5466.0
+      },
+      {
+         "Brand": "Prada",
+         "Brand value in million U.S. dollars": 4489.0
+      },
+      {
+         "Brand": "Ray-Ban",
+         "Brand value in million U.S. dollars": 3897.0
+      }
+   ]
+}

@@ -1,0 +1,94 @@
+{
+   "title": "Regional distribution of social network users worldwide 2017",
+   "xAxis": "Country",
+   "yAxis": "Share of social media users",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart. It shows Share of social media users for 12 number of Countrys. ",
+      "The Share of social media users is appeared to be the highest at Country East Asia and lowest at Country Central Asia. ",
+      "The difference of Share of social media users between the highest and lowest Country is 32.0. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Share of social media users for 12 number of Countrys. ",
+      "Country East Asia has the highest Share of social media users and Central Asia has the lowest Share of social media users. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Share of social media users for 12 number of Countrys. ",
+      "The Share of social media users is appeared to be the highest at Country East Asia and lowest at Country Central Asia. ",
+      "The difference of Share of social media users between the highest and lowest Country is 32.0. "
+   ],
+   "max_summary": [
+      "This bar chart has 12 columns on the x axis representing Country, and Share of social media users in each Country on the y axis. ",
+      "The Share of social media users is highest at Country East Asia and lowest at Country Central Asia. ",
+      "The second highest Share of social media users is appeared to be the Country Southeast Asia. ",
+      "The highest Country East Asia has 32.0 more Share of social media users than the lowest Country Central Asia. ",
+      "Share of social media users at Country East Asia is 33.0 , second place is Southeast Asia at 11.0, and thirdly is South Asia at 9.0.",
+      "Country South America, and South Asia have a similar Share of social media users that is 9.0. ",
+      "The Country East Asia has 3.96 times more Share of social media users than average. ",
+      "The Share of social media users is 100.0 if we add up values of all Countrys. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 10,
+         "12": 10
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Country": "East Asia",
+         "Share of social media users": 33.0
+      },
+      {
+         "Country": "Southeast Asia",
+         "Share of social media users": 11.0
+      },
+      {
+         "Country": "South America",
+         "Share of social media users": 9.0
+      },
+      {
+         "Country": "South Asia",
+         "Share of social media users": 9.0
+      },
+      {
+         "Country": "North America",
+         "Share of social media users": 8.0
+      },
+      {
+         "Country": "Western Europe",
+         "Share of social media users": 8.0
+      },
+      {
+         "Country": "Eastern Europe",
+         "Share of social media users": 7.0
+      },
+      {
+         "Country": "Africa",
+         "Share of social media users": 6.0
+      },
+      {
+         "Country": "Central America",
+         "Share of social media users": 4.0
+      },
+      {
+         "Country": "Middle East",
+         "Share of social media users": 3.0
+      },
+      {
+         "Country": "Central Asia",
+         "Share of social media users": 1.0
+      },
+      {
+         "Country": "Oceania",
+         "Share of social media users": 1.0
+      }
+   ]
+}

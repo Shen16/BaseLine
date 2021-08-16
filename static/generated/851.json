@@ -1,0 +1,51 @@
+{
+   "title": "Survey on regretting tattoos in the U.S. 2015",
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart representing Response in the x axis and Share of respondents in the y axis. ",
+      "Response No has the highest Share of respondents and Yes has the lowest Share of respondents. ",
+      "The difference of Share of respondents between the highest and lowest Response is 54.0. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Share of respondents for 2 number of Responses. ",
+      "The maximum Share of respondents 77.0 is found at Response No and the minimum is found at Yes where Response is 23.0. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Response in the x axis and Share of respondents in the y axis. ",
+      "Response No has the highest Share of respondents and Yes has the lowest Share of respondents. ",
+      "The difference of Share of respondents between the highest and lowest Response is 54.0. "
+   ],
+   "max_summary": [
+      "This bar chart has 2 columns on the x axis representing Response, and Share of respondents in each Response on the y axis. ",
+      "The Share of respondents is appeared to be the highest at Response No and lowest at Response Yes. ",
+      "Response No has 3.35 times more Share of respondents than Response Yes which is has the lowest. ",
+      "The Response No has 1.54 times more Share of respondents than average. ",
+      "Summing up the values of all Responses, we get total 100.0. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 1,
+         "12": 1
+      },
+      {
+         "7": 0,
+         "12": 0
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Response": "Yes",
+         "Share of respondents": 23.0
+      },
+      {
+         "Response": "No",
+         "Share of respondents": 77.0
+      }
+   ]
+}

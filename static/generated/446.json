@@ -1,0 +1,153 @@
+{
+   "title": "EU car sales : share of diesel engines 2013 - 2017 , by brand",
+   "labels": [
+      "Brand",
+      "2013",
+      "2017"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This grouped bar chart shows Share of passenger car sales on the Y-axis for 18 different Brands for 2 groups 2013, and 2017 that are presented on the X-axis. ",
+      " Out of all 2 groups, 2013 had the highest Share of passenger car sales in Brand Volvo and 2017 had the lowest Share of passenger car sales in Brand Toyota. ",
+      " In Brand Volvo, 2013 had the highest Share of passenger car sales among all 18 Brands and it has the lowest Share of passenger car sales in Brand Toyota. ",
+      "Brand Volvo and Toyota had the biggest gap of 61.0 between the highest and lowest Share of passenger car sales found for 2013. "
+   ],
+   "xAxis": "Brand",
+   "yAxis": "Share of passenger car sales",
+   "min_summary": [
+      "This grouped bar chart shows Share of passenger car sales on the Y-axis for 18 different Brands for 2 groups 2013, and 2017 that are presented on the X-axis. ",
+      " Out of all 2 groups, 2013 had the highest Share of passenger car sales in Brand Volvo and 2017 had the lowest Share of passenger car sales in Brand Toyota. "
+   ],
+   "mid_summary": [
+      "This grouped bar chart shows Share of passenger car sales on the Y-axis for 18 different Brands for 2 groups 2013, and 2017 that are presented on the X-axis. ",
+      " Out of all 2 groups, 2013 had the highest Share of passenger car sales in Brand Volvo and 2017 had the lowest Share of passenger car sales in Brand Toyota. ",
+      " In Brand Volvo, 2013 had the highest Share of passenger car sales among all 18 Brands and it has the lowest Share of passenger car sales in Brand Toyota. ",
+      "Brand Volvo and Toyota had the biggest gap of 61.0 between the highest and lowest Share of passenger car sales found for 2013. "
+   ],
+   "max_summary": [
+      "This grouped bar chart represents 18 different Brands on X-axis for 2 groups 2013, and 2017. On the Y-axis it shows their corresponding Share of passenger car sales. ",
+      " In Brand Volvo, 2013 had the highest Share of passenger car sales 87.0 among the 2 groups and in Toyota, 2017 had the lowest Share of passenger car sales 8.0. ",
+      " In Brand Volvo, 2013 had the maximum Share of passenger car sales and it saw the lowest in Brand Toyota out of all 18 Brands. ",
+      " There is a gap of 61.0 between the highest and lowest Share of passenger car sales found for 2013 in Brand Volvo and Toyota. ",
+      " Among the groups, 2013 had the biggest difference in Share of passenger car sales. Where the maximum Share of passenger car sales was 3.35 times larger than the minimum Share of passenger car sales. ",
+      "On average, the Brand Volvo had the highest Share of passenger car sales for all 2 groups 2013, and 2017. Whereas Toyota had the lowest average Share of passenger car sales. "
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "13": [
+            "2",
+            "0"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "14": [
+            "2",
+            "1"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Brand": "Volvo",
+         "2013": "87",
+         "2017": "79"
+      },
+      {
+         "Brand": "BMW",
+         "2013": "81",
+         "2017": "68"
+      },
+      {
+         "Brand": "Mercedes",
+         "2013": "71",
+         "2017": "68"
+      },
+      {
+         "Brand": "Audi",
+         "2013": "75",
+         "2017": "59"
+      },
+      {
+         "Brand": "Renault",
+         "2013": "60",
+         "2017": "49"
+      },
+      {
+         "Brand": "Peugeot",
+         "2013": "61",
+         "2017": "49"
+      },
+      {
+         "Brand": "Nissan",
+         "2013": "51",
+         "2017": "47"
+      },
+      {
+         "Brand": "Volkswagen",
+         "2013": "56",
+         "2017": "47"
+      },
+      {
+         "Brand": "Ford",
+         "2013": "45",
+         "2017": "44"
+      },
+      {
+         "Brand": "Citroen",
+         "2013": "64",
+         "2017": "43"
+      },
+      {
+         "Brand": "Skoda",
+         "2013": "46",
+         "2017": "41"
+      },
+      {
+         "Brand": "Dacia",
+         "2013": "52",
+         "2017": "39"
+      },
+      {
+         "Brand": "Kia",
+         "2013": "45",
+         "2017": "39"
+      },
+      {
+         "Brand": "Fiat",
+         "2013": "31",
+         "2017": "36"
+      },
+      {
+         "Brand": "Hyundai",
+         "2013": "39",
+         "2017": "32"
+      },
+      {
+         "Brand": "Opel",
+         "2013": "41",
+         "2017": "30"
+      },
+      {
+         "Brand": "Seat",
+         "2013": "44",
+         "2017": "29"
+      },
+      {
+         "Brand": "Toyota",
+         "2013": "26",
+         "2017": "8"
+      }
+   ]
+}

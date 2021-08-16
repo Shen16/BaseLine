@@ -1,0 +1,93 @@
+{
+   "title": "U.S. price difference between legal and illegal cannabis as of January 2016 , by state",
+   "labels": [
+      "State",
+      "Dispensary price",
+      "Street price"
+   ],
+   "columnType": "multi",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This grouped bar chart represents 6 different States on X-axis for 2 groups Dispensary price, and Street price. On the Y-axis it shows their corresponding Average price per ounce in USD. ",
+      " State Michigan had the maximum Average price per ounce in USD among all 2 groups, and it was for Dispensary price. The minimum Average price per ounce in USD was observed in State Oregon for Street price. ",
+      " In State Michigan, Street price had the highest Average price per ounce in USD among all 6 States and it has the lowest Average price per ounce in USD in State Oregon. ",
+      " There is a gap of 83.0 between the highest and lowest Average price per ounce in USD found for Street price in State Michigan and Oregon. "
+   ],
+   "xAxis": "State",
+   "yAxis": "Average price per ounce in USD",
+   "min_summary": [
+      "This grouped bar chart represents 6 different States on X-axis for 2 groups Dispensary price, and Street price. On the Y-axis it shows their corresponding Average price per ounce in USD. ",
+      " In State Michigan, Dispensary price had the highest Average price per ounce in USD 301.0 among the 2 groups and in Oregon, Street price had the lowest Average price per ounce in USD 191.0. "
+   ],
+   "mid_summary": [
+      "This grouped bar chart represents 6 different States on X-axis for 2 groups Dispensary price, and Street price. On the Y-axis it shows their corresponding Average price per ounce in USD. ",
+      " State Michigan had the maximum Average price per ounce in USD among all 2 groups, and it was for Dispensary price. The minimum Average price per ounce in USD was observed in State Oregon for Street price. ",
+      " In State Michigan, Street price had the highest Average price per ounce in USD among all 6 States and it has the lowest Average price per ounce in USD in State Oregon. ",
+      " There is a gap of 83.0 between the highest and lowest Average price per ounce in USD found for Street price in State Michigan and Oregon. "
+   ],
+   "max_summary": [
+      "This grouped bar chart represents 6 different States on X-axis for 2 groups Dispensary price, and Street price. On the Y-axis it shows their corresponding Average price per ounce in USD. ",
+      " In State Michigan, Dispensary price had the highest Average price per ounce in USD 301.0 among the 2 groups and in Oregon, Street price had the lowest Average price per ounce in USD 191.0. ",
+      " In State Michigan, Street price had the maximum Average price per ounce in USD and it saw the lowest in State Oregon out of all 6 States. ",
+      " There is a gap of 83.0 between the highest and lowest Average price per ounce in USD found for Street price in State Michigan and Oregon. ",
+      " Among all 2 groups, Dispensary price had the gap of 87.0 between the maximum and minimum Average price per ounce in USD observed in State Michigan and Oregon respectively. ",
+      "Averaging all 2 groups Dispensary price, and Street price, the State Michigan is the maximum Average price per ounce in USD and Oregon is the minimum Average price per ounce in USD. "
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "3"
+         ],
+         "13": [
+            "2",
+            "3"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "0"
+         ],
+         "14": [
+            "2",
+            "0"
+         ]
+      },
+      {}
+   ],
+   "data": [
+      {
+         "State": "Arizona",
+         "Dispensary price": "290$",
+         "Street price": "254$"
+      },
+      {
+         "State": "California",
+         "Dispensary price": "299$",
+         "Street price": "218$"
+      },
+      {
+         "State": "Colorado",
+         "Dispensary price": "223$",
+         "Street price": "219$"
+      },
+      {
+         "State": "Michigan",
+         "Dispensary price": "301$",
+         "Street price": "274$"
+      },
+      {
+         "State": "Oregon",
+         "Dispensary price": "214$",
+         "Street price": "191$"
+      },
+      {
+         "State": "Washington",
+         "Dispensary price": "238$",
+         "Street price": "210$"
+      }
+   ]
+}

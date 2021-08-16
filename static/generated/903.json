@@ -1,0 +1,69 @@
+{
+   "title": "Cost of a liver transplant on the National Health Service in the United Kingdom 2015",
+   "xAxis": "Cost in British pounds",
+   "yAxis": "Share of respondents",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 6 columns on the x axis representing Cost in British pounds, and Share of respondents in each Cost in British pounds on the y axis. ",
+      "Cost in British pounds 5000-10000 has the highest Share of respondents and 2300-5000 has the lowest Share of respondents. ",
+      "There is a difference of 12.0 between the maximum Cost in British pounds 5000-10000 and minimum Cost in British pounds 2300-5000. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing Cost in British pounds in the x axis and Share of respondents in the y axis. ",
+      "The Share of respondents is highest at Cost in British pounds 5000-10000 and lowest at Cost in British pounds 2300-5000. "
+   ],
+   "mid_summary": [
+      "This bar chart has 6 columns on the x axis representing Cost in British pounds, and Share of respondents in each Cost in British pounds on the y axis. ",
+      "Cost in British pounds 5000-10000 has the highest Share of respondents and 2300-5000 has the lowest Share of respondents. ",
+      "There is a difference of 12.0 between the maximum Cost in British pounds 5000-10000 and minimum Cost in British pounds 2300-5000. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Cost in British pounds in the x axis and Share of respondents in the y axis. ",
+      "The maximum Share of respondents 21.0 is found at Cost in British pounds 5000-10000 and the minimum is found at 2300-5000 where Cost in British pounds is 9.0. ",
+      "The second highest Share of respondents is appeared to be the Cost in British pounds 10000-20000. ",
+      "Cost in British pounds 2300-5000 has 2.33 times less Share of respondents than Cost in British pounds 5000-10000 which is the highest. ",
+      "Share of respondents at Cost in British pounds 5000-10000 is 21.0 , second place is 10000-20000 at 19.0, and thirdly is More than 20000 at 18.0.",
+      "Similar Share of respondents is found in Cost in British pounds Less than 760, and 760-2300. ",
+      "The average Share of respondents in all 6 Cost in British poundss is 16.83. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 3,
+         "12": 3
+      },
+      {
+         "7": 2,
+         "12": 2
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Cost in British pounds": "Less than 760",
+         "Share of respondents": 17.0
+      },
+      {
+         "Cost in British pounds": "760-2300",
+         "Share of respondents": 17.0
+      },
+      {
+         "Cost in British pounds": "2300-5000",
+         "Share of respondents": 9.0
+      },
+      {
+         "Cost in British pounds": "5000-10000",
+         "Share of respondents": 21.0
+      },
+      {
+         "Cost in British pounds": "10000-20000",
+         "Share of respondents": 19.0
+      },
+      {
+         "Cost in British pounds": "More than 20000",
+         "Share of respondents": 18.0
+      }
+   ]
+}

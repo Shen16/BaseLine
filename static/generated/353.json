@@ -1,0 +1,65 @@
+{
+   "title": "Boat ownership by age in the U.S. 2013",
+   "xAxis": "Age (in years)",
+   "yAxis": "Own a boat",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart. It shows Own a boat for 5 number of Age (in years)s. ",
+      "Age (in years) 16 to 34 has the highest Own a boat and 65+ has the lowest Own a boat. ",
+      "There is a difference of 2.2 between the maximum Age (in years) 16 to 34 and minimum Age (in years) 65+. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing Age (in years) in the x axis and Own a boat in the y axis. ",
+      "The Own a boat is appeared to be the highest at Age (in years) 16 to 34 and lowest at Age (in years) 65+. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Own a boat for 5 number of Age (in years)s. ",
+      "Age (in years) 16 to 34 has the highest Own a boat and 65+ has the lowest Own a boat. ",
+      "There is a difference of 2.2 between the maximum Age (in years) 16 to 34 and minimum Age (in years) 65+. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Age (in years) in the x axis and Own a boat in the y axis. ",
+      "The maximum Own a boat 8.2 is found at Age (in years) 16 to 34 and the minimum is found at 65+ where Age (in years) is 6.0. ",
+      "The second highest Own a boat is appeared to be the Age (in years) 35 to 44. ",
+      "The highest Age (in years) 16 to 34 has 2.2 more Own a boat than the lowest Age (in years) 65+. ",
+      "The Age (in years) 16 to 34 has the highest Own a boat, followed by 35 to 44, and 45 to 64. Down to the Age (in years) 65+ which is the lowest. ",
+      "The highest value 8.2 at 16 to 34 is almost 1.13 times larger than the average value 7.28. ",
+      "The Own a boat is 36.4 if we add up values of all Age (in years)s. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 1,
+         "12": 1
+      },
+      {
+         "7": 4,
+         "12": 4
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Age (in years)": "Under 16",
+         "Own a boat": 7.1
+      },
+      {
+         "Age (in years)": "16 to 34",
+         "Own a boat": 8.2
+      },
+      {
+         "Age (in years)": "35 to 44",
+         "Own a boat": 7.6
+      },
+      {
+         "Age (in years)": "45 to 64",
+         "Own a boat": 7.5
+      },
+      {
+         "Age (in years)": "65+",
+         "Own a boat": 6.0
+      }
+   ]
+}

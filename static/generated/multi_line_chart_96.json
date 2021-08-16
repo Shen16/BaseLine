@@ -1,0 +1,158 @@
+{
+   "title": "Test",
+   "labels": [
+      "Year",
+      "Agriculture",
+      "Industry",
+      "Services"
+   ],
+   "columnType": "multi",
+   "graphType": "line",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a multi-line chart with 3 lines representing Agriculture, Industry, and Services. The y axis denotes TEST and the x axis denotes Year.",
+      "Overall Agriculture, Industry, and Services are roughly constant,  throughout the Year",
+      "The lines ordered according to average values of TEST in descending order is: 1. Services, 2. Industry, and lastly, 3. Agriculture. ",
+      "Overall across the Year, Services mostly maintained the highest TEST when compared to others with a mean value of 79.14, and it peaked at 2019.",
+      "Followed by Industry which ranks as the second topmpost line , with an average of 18.8 TEST,reaching its highest point  at 2009 with a value of 20.1. ",
+      "Agriculture mostly had the least TEST with a mean value of 1.97, which peaked at 2009 with a value of 2.18. ",
+      "The minimum TEST about 1.79, occured at 2019 by Agriculture."
+   ],
+   "xAxis": "Year",
+   "yAxis": "TEST",
+   "min_summary": [
+      "The given chart is of multi-line type with 3 lines namely Agriculture, Industry, and Services. The y axis represents TEST and the x axis represents Year.",
+      "Overall Agriculture, Industry, and Services are roughly constant,  throughout the Year",
+      "Throughout the period, Services generally had the highest TEST relative to others with an average of 79.14, and it reached its maximum at 2019 with a value of 80.39.",
+      "Followed by Industry which ranks as the second topmpost line , with an average of 18.8 TEST,reaching its highest point  at 2009 with a value of 20.1. ",
+      "Agriculture mostly had the least TEST with a mean value of 1.97, which peaked at 2009 with a value of 2.18. "
+   ],
+   "mid_summary": [
+      "You are viewing a chart of multi-line type with 3 lines denoting Agriculture, Industry, and Services. The y axis indicates the TEST and the x axis indicates Year.",
+      "Overall Agriculture, Industry, and Services are roughly constant,  throughout the Year",
+      "The ranking of the lines from topmost to botommmost is as follows: 1. Services, 2. Industry, and lastly, 3. Agriculture. ",
+      "Overall across the Year, Services mostly maintained the highest TEST when compared to others with a mean value of 79.14, and it peaked at 2019.",
+      "After Services, Industry overall has the second highest values , with a mean value of 18.8, peaking at 2009. ",
+      "The botommost line, Agriculture,  has a mean of 1.97, and peaked at 2009. "
+   ],
+   "max_summary": [
+      "The given chart is of multi-line type with 3 lines namely Agriculture, Industry, and Services. The y axis represents TEST and the x axis represents Year.",
+      "Overall Agriculture, Industry, and Services are roughly constant,  throughout the Year",
+      "The ranking of the lines from topmost to botommmost is as follows: 1. Services, 2. Industry, and lastly, 3. Agriculture. ",
+      "Overall across the Year, Services mostly maintained the highest TEST when compared to others with a mean value of 79.14, and it peaked at 2019.",
+      "After Services, Industry overall has the second highest values , with a mean value of 18.8, peaking at 2009. ",
+      "The botommost line, Agriculture,  has a mean of 1.97, and peaked at 2009. ",
+      "Agriculture reported the lowest TEST about 1.79 in Year 2019"
+   ],
+   "trends": [
+      {},
+      {
+         "2": [
+            "0",
+            "2"
+         ],
+         "16": [
+            "10",
+            "2"
+         ]
+      },
+      {
+         "1": [
+            "0",
+            "2"
+         ],
+         "9": [
+            "0",
+            "2"
+         ]
+      },
+      {
+         "2": [
+            "0",
+            "1"
+         ],
+         "15": [
+            "10",
+            "1"
+         ]
+      },
+      {
+         "1": [
+            "10",
+            "1"
+         ],
+         "10": [
+            "10",
+            "1"
+         ]
+      }
+   ],
+   "data": [
+      {
+         "Year": "2019",
+         "Agriculture": "1.79",
+         "Industry": "17.81",
+         "Services": "80.39"
+      },
+      {
+         "Year": "2018",
+         "Agriculture": "1.81",
+         "Industry": "17.98",
+         "Services": "80.21"
+      },
+      {
+         "Year": "2017",
+         "Agriculture": "1.83",
+         "Industry": "18.17",
+         "Services": "80.01"
+      },
+      {
+         "Year": "2016",
+         "Agriculture": "1.89",
+         "Industry": "18.2",
+         "Services": "79.91"
+      },
+      {
+         "Year": "2015",
+         "Agriculture": "2.04",
+         "Industry": "18.29",
+         "Services": "79.68"
+      },
+      {
+         "Year": "2014",
+         "Agriculture": "1.97",
+         "Industry": "18.6",
+         "Services": "79.42"
+      },
+      {
+         "Year": "2013",
+         "Agriculture": "2.03",
+         "Industry": "19.16",
+         "Services": "78.81"
+      },
+      {
+         "Year": "2012",
+         "Agriculture": "2.06",
+         "Industry": "19.61",
+         "Services": "78.33"
+      },
+      {
+         "Year": "2011",
+         "Agriculture": "1.99",
+         "Industry": "19.93",
+         "Services": "78.08"
+      },
+      {
+         "Year": "2010",
+         "Agriculture": "2.1",
+         "Industry": "19.88",
+         "Services": "78.02"
+      },
+      {
+         "Year": "2009",
+         "Agriculture": "2.18",
+         "Industry": "20.16",
+         "Services": "77.67"
+      }
+   ]
+}

@@ -1,0 +1,73 @@
+{
+   "title": "Toys and games market : market segmentation by value 2009",
+   "xAxis": "Name",
+   "yAxis": "Market share",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This bar chart has 7 columns on the x axis representing Name, and Market share in each Name on the y axis. ",
+      "Name Other has the highest Market share and Plush toys has the lowest Market share. ",
+      "The difference of Market share between the highest and lowest Name is 25.4. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Market share for 7 number of Names. ",
+      "Name Other has the highest Market share and Plush toys has the lowest Market share. "
+   ],
+   "mid_summary": [
+      "This bar chart has 7 columns on the x axis representing Name, and Market share in each Name on the y axis. ",
+      "Name Other has the highest Market share and Plush toys has the lowest Market share. ",
+      "The difference of Market share between the highest and lowest Name is 25.4. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Market share for 7 number of Names. ",
+      "The Market share is appeared to be the highest at Name Other and lowest at Name Plush toys. ",
+      "Name Infant/Pre-school toys has the second highest value for Market share. ",
+      "The minimum Name Plush toys has got 5.98 times less Market share than the maximum Name Other. ",
+      "Name Other is higher than any other Names with value 30.5, followed by Infant/Pre-school toys, and Activity toys. Down to Name Plush toys with the lowest value 5.1. ",
+      "The Name Other tends to be 2.13 percent higher than average. ",
+      "Summing up the values of all Names, we get total 100.0. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 6,
+         "12": 6
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Name": "Other",
+         "Market share": 30.5
+      },
+      {
+         "Name": "Infant/Pre-school toys",
+         "Market share": 16.2
+      },
+      {
+         "Name": "Activity toys",
+         "Market share": 15.1
+      },
+      {
+         "Name": "Dolls",
+         "Market share": 12.2
+      },
+      {
+         "Name": "Ride-ons",
+         "Market share": 11.4
+      },
+      {
+         "Name": "Games and puzzles",
+         "Market share": 9.5
+      },
+      {
+         "Name": "Plush toys",
+         "Market share": 5.1
+      }
+   ]
+}

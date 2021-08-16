@@ -1,0 +1,95 @@
+{
+   "title": "Number of pet stores in Canada by region 2018",
+   "xAxis": "Month",
+   "yAxis": "Number of stores",
+   "columnType": "two",
+   "graphType": "bar",
+   "summaryType": "baseline",
+   "summary": [
+      "This is a bar chart. It shows Number of stores for 12 number of Months. ",
+      "The Number of stores is appeared to be the highest at Month Ontario and lowest at Month Yukon. ",
+      "There is a difference of 759.0 between the maximum Month Ontario and minimum Month Yukon. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Number of stores for 12 number of Months. ",
+      "Month Ontario has the highest Number of stores and Yukon has the lowest Number of stores. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Number of stores for 12 number of Months. ",
+      "The Number of stores is appeared to be the highest at Month Ontario and lowest at Month Yukon. ",
+      "There is a difference of 759.0 between the maximum Month Ontario and minimum Month Yukon. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Number of stores for 12 number of Months. ",
+      "The maximum Number of stores 762.0 is found at Month Ontario and the minimum is found at Yukon where Month is 3.0. ",
+      "Month Quebec has the second highest value for Number of stores. ",
+      "The lowest value at Month Yukon is 254.0x times less than the highest value at Ontario. ",
+      "Number of stores at Month Ontario is 762.0 , second place is Quebec at 469.0, and thirdly is British Columbia at 348.0.",
+      "The Number of stores has lowered over the past 12 Months. ",
+      "Month Yukon, and Northwest Territories share the same value 3.0. ",
+      "The average Number of stores in all 12 Months is 174.83. ",
+      "Summing up the values of all Months, we get total 2098.0. "
+   ],
+   "trends": [
+      {},
+      {
+         "7": 0,
+         "12": 0
+      },
+      {
+         "7": 10,
+         "12": 10
+      },
+      {}
+   ],
+   "data": [
+      {
+         "Month": "Ontario",
+         "Number of stores": 762.0
+      },
+      {
+         "Month": "Quebec",
+         "Number of stores": 469.0
+      },
+      {
+         "Month": "British Columbia",
+         "Number of stores": 348.0
+      },
+      {
+         "Month": "Alberta",
+         "Number of stores": 278.0
+      },
+      {
+         "Month": "Manitoba",
+         "Number of stores": 63.0
+      },
+      {
+         "Month": "Nova Scotia",
+         "Number of stores": 55.0
+      },
+      {
+         "Month": "Saskatchewan",
+         "Number of stores": 49.0
+      },
+      {
+         "Month": "New Brunswick",
+         "Number of stores": 39.0
+      },
+      {
+         "Month": "Newfoundland and Labrador",
+         "Number of stores": 22.0
+      },
+      {
+         "Month": "Prince Edward Island",
+         "Number of stores": 7.0
+      },
+      {
+         "Month": "Yukon",
+         "Number of stores": 3.0
+      },
+      {
+         "Month": "Northwest Territories",
+         "Number of stores": 3.0
+      }
+   ]
+}
