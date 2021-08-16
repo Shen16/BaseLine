@@ -1,16 +1,31 @@
 {
-   "title": "Test",
+   "title": "Global leading kiwi producing countries 2017",
    "xAxis": "Country",
    "yAxis": "Production volume in thousand metric tons",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 10 categories on the x axis representing Country, and Production volume in thousand metric tons in each Country on the y axis.",
-      "China mainland is higher than any other categories with value 2024.6, followed by , and New Zealand. Down to category United States of America with the lowest value of 30.48. ",
-      " The highest value at China mainland is almost 66.42 times larger than the minimum value of United States of America. ",
-      " The highest value at China mainland is almost 66.42 times larger than the minimum value of United States of America. ",
-      " The difference between the max Country China mainland and min Country United States of America is 1994.12. "
+      "This is a bar chart. It shows Production volume in thousand metric tons for 10 number of Countrys. ",
+      "The Production volume in thousand metric tons is appeared to be the highest at Country China mainland and lowest at Country United States of America. ",
+      "The difference of Production volume in thousand metric tons between the highest and lowest Country is 1994.12. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing Country in the x axis and Production volume in thousand metric tons in the y axis. ",
+      "Country China mainland has the highest Production volume in thousand metric tons and United States of America has the lowest Production volume in thousand metric tons. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Production volume in thousand metric tons for 10 number of Countrys. ",
+      "The Production volume in thousand metric tons is appeared to be the highest at Country China mainland and lowest at Country United States of America. ",
+      "The difference of Production volume in thousand metric tons between the highest and lowest Country is 1994.12. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Country in the x axis and Production volume in thousand metric tons in the y axis. ",
+      "The maximum Production volume in thousand metric tons 2024.6 is found at Country China mainland and the minimum is found at United States of America where Country is 30.48. ",
+      "The second highest Production volume in thousand metric tons is appeared to be the Country . ",
+      "The difference of Production volume in thousand metric tons between the highest and lowest Country is 1994.12. ",
+      "The Country China mainland has the highest Production volume in thousand metric tons, followed by , and New Zealand. Down to the Country United States of America which is the lowest. ",
+      "The lowest value 30.48 at United States of America is almost 5.09 times smaller than the average value 397.6. "
    ],
    "trends": [
       {},

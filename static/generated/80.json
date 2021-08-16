@@ -1,38 +1,42 @@
 {
-   "title": "Test",
+   "title": "Franchise value of the San Francisco Giants 2002 to 2019",
    "xAxis": "Year",
    "yAxis": "Franchise value in million U.S. dollars",
    "columnType": "two",
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Franchise value in million U.S. dollars, with a total of 18 data points.",
-      " Overall Franchise value in million U.S. dollars has increased over the Year.",
-      "Franchise value in million U.S. dollars is roughly constant from 2002 to 2010, gradually increasing from 2010 to 2016, and lastly roughly constant from 2016 to 2019.",
+      "This is a line chart with an x axis representing Year and a y axis representing Franchise value in million U.S. dollars, containing a total of 18 data points.",
+      " In general Franchise value in million U.S. dollars has rose over the Year.",
+      "Franchise value in million U.S. dollars is roughly constant from 2002 to 2010, gradually increasing from 2010 to 2016, and finally roughly constant from 2016 to 2019.",
+      "The line rapidly increased by 100.0% from Year 2014 to 2015.",
       "The steepest increase occurs in between the Year 2014 and 2015.",
-      "Max Franchise value in million U.S. dollars about 3000.0 was recorded at Year 2019",
-      "Min Franchise value in million U.S. dollars about 355.0 was recorded at Year 2002",
-      "#########################################################################",
-      "This line chart has an x axis representing Year and a y axis representing Franchise value in million U.S. dollars, with a total of 18 data points. The chart has 3 significant trends.",
-      " The longest trend is extremely increasing which exists from 2009 to 2019.",
-      " Also, the next significant trend is slightly increasing which exists from 2004 to 2009.",
-      " Additionally, the next significant trend is slightly decreasing which exists from 2002 to 2004."
+      "The highest Franchise value in million U.S. dollars, of value 3000.0 was reached at Year 2019",
+      "Minimum Franchise value in million U.S. dollars about 355.0 was reached at Year 2002"
    ],
-   "trends": [
-      {},
-      {
-         "1": "0",
-         "12": "10"
-      },
-      {
-         "3": "10",
-         "14": "15"
-      },
-      {
-         "3": "15",
-         "14": "17"
-      }
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Franchise value in million U.S. dollars, containing a total of 18 data points.",
+      " Overall Franchise value in million U.S. dollars has increased over the Year.",
+      "Franchise value in million U.S. dollars is roughly constant from 2002 to 2010, gradually increasing from 2010 to 2016, and finally roughly constant from 2016 to 2019."
    ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Franchise value in million U.S. dollars. In total the number of data points it has is 18.",
+      " Overall Franchise value in million U.S. dollars has increased over the Year.",
+      "Franchise value in million U.S. dollars is roughly constant from 2002 to 2010, gradually increasing from 2010 to 2016, and finally roughly constant from 2016 to 2019.",
+      "The most drastic increase took place within the Year 2014 and 2015.",
+      "The highest Franchise value in million U.S. dollars, of value 3000.0 was reached at Year 2019",
+      "Minimum Franchise value in million U.S. dollars about 355.0 was reached at Year 2002"
+   ],
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Franchise value in million U.S. dollars. In total the number of data points it has is 18.",
+      " Overall Franchise value in million U.S. dollars has increased over the Year.",
+      "Franchise value in million U.S. dollars is roughly constant from 2002 to 2010, gradually increasing from 2010 to 2016, and finally roughly constant from 2016 to 2019.",
+      "The steepest increase occurs in between the Year 2014 and 2015.",
+      "The highest Franchise value in million U.S. dollars, of value 3000.0 was reached at Year 2019",
+      "Minimum Franchise value in million U.S. dollars about 355.0 was reached at Year 2002",
+      "The line rapidly increased by 100.0% from Year 2014 to 2015."
+   ],
+   "trends": [],
    "data": [
       {
          "Year": "2019",

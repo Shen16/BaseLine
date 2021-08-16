@@ -1,38 +1,42 @@
 {
-   "title": "Test",
+   "title": "Total number of gang-related homicides in the United States 2012",
    "xAxis": "Year",
    "yAxis": "Total number of homicides",
    "columnType": "two",
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Total number of homicides, with a total of 6 data points.",
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Total number of homicides. In total the number of data points it has is 6.",
+      " In general Total number of homicides has rose over the Year.",
+      "Total number of homicides is roughly increasing from 2007 to 2009, roughly constant from 2009 to 2011, and lastly slightly increasing from 2011 to 2012.",
+      "The line rapidly ",
+      "The steepest increase occurs in between the Year 2011 and 2012.",
+      "Maximum Total number of homicides, about 2363.0 was reported at Year 2012",
+      "Minimum Total number of homicides about 1659.0 was reached at Year 2008"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Total number of homicides. In total the number of data points it has is 6.",
+      " Overall Total number of homicides has increased over the Year.",
+      "Total number of homicides is roughly increasing from 2007 to 2009, roughly constant from 2009 to 2011, and lastly slightly increasing from 2011 to 2012."
+   ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Total number of homicides, containing a total of 6 data points.",
+      " In general Total number of homicides has rose over the Year.",
+      "Total number of homicides is roughly increasing from 2007 to 2009, roughly constant from 2009 to 2011, and lastly slightly increasing from 2011 to 2012.",
+      "The most drastic increase took place within the Year 2011 and 2012.",
+      "Maximum Total number of homicides, about 2363.0 was reported at Year 2012",
+      "Minimum Total number of homicides about 1659.0 was reached at Year 2008"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Total number of homicides, containing a total of 6 data points.",
       " Overall Total number of homicides has increased over the Year.",
       "Total number of homicides is roughly increasing from 2007 to 2009, roughly constant from 2009 to 2011, and lastly slightly increasing from 2011 to 2012.",
       "The steepest increase occurs in between the Year 2011 and 2012.",
-      "Max Total number of homicides about 2363.0 was recorded at Year 2012",
-      "Min Total number of homicides about 1659.0 was recorded at Year 2008",
-      "#########################################################################",
-      "This line chart has an x axis representing Year and a y axis representing Total number of homicides, with a total of 6 data points. The chart has 3 significant trends.",
-      " The longest trend is slightly decreasing which exists from 2009 to 2011.",
-      " But, the next significant trend is moderately increasing which exists from 2007 to 2009.",
-      " Additionally, the next significant trend is extremely increasing which exists from 2011 to 2012."
+      "Maximum Total number of homicides, about 2363.0 was reported at Year 2012",
+      "Minimum Total number of homicides about 1659.0 was reached at Year 2008",
+      "The line rapidly "
    ],
-   "trends": [
-      {},
-      {
-         "1": "1",
-         "12": "3"
-      },
-      {
-         "3": "3",
-         "14": "5"
-      },
-      {
-         "3": "0",
-         "14": "1"
-      }
-   ],
+   "trends": [],
    "data": [
       {
          "Year": "2012",

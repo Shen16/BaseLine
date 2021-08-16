@@ -1,5 +1,5 @@
 {
-   "title": "Test",
+   "title": "Leading smartphone and tablet activities 2017 , by device",
    "labels": [
       "Response",
       "Tablet",
@@ -9,12 +9,30 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart has 17 categories of Response on the x axis representing 2 groups: Tablet, and Smartphone.",
-      " Averaging these 2 groups, the highest category is found for Response E-mail with a mean value of 40.5.",
-      " Followed by Watching movies/videos online with a mean value of 37.5.",
-      " The lowest category is observed at Trading securities/shares online that has a mean value of 6.5",
-      " showing a difference of 144.7% with the maximum value.",
-      " In case of Watching movies/videos online, Tablet shows more dominance than any other Response with a value 23.0 and it has the lowest value 4.0 in Trading securities/shares online. "
+      "This grouped bar chart shows SOME LABEL on the Y-axis for 17 different Responses for 2 groups Tablet, and Smartphone that are presented on the X-axis. ",
+      " Out of all 2 groups, Smartphone had the highest SOME LABEL in Response E-mail and Tablet had the lowest SOME LABEL in Response Trading securities/shares online. ",
+      " In Response E-mail, Smartphone had the maximum SOME LABEL and it saw the lowest in Response Trading securities/shares online out of all 17 Responses. ",
+      "Response E-mail and Trading securities/shares online had the biggest gap of 50.0 between the highest and lowest SOME LABEL found for Smartphone. "
+   ],
+   "xAxis": "Response",
+   "yAxis": "SOME LABEL",
+   "min_summary": [
+      "This grouped bar chart represents 17 different Responses on X-axis for 2 groups Tablet, and Smartphone. On the Y-axis it shows their corresponding SOME LABEL. ",
+      " Out of all 2 groups, Smartphone had the highest SOME LABEL in Response E-mail and Tablet had the lowest SOME LABEL in Response Trading securities/shares online. "
+   ],
+   "mid_summary": [
+      "This grouped bar chart shows SOME LABEL on the Y-axis for 17 different Responses for 2 groups Tablet, and Smartphone that are presented on the X-axis. ",
+      " Out of all 2 groups, Smartphone had the highest SOME LABEL in Response E-mail and Tablet had the lowest SOME LABEL in Response Trading securities/shares online. ",
+      " In Response E-mail, Smartphone had the maximum SOME LABEL and it saw the lowest in Response Trading securities/shares online out of all 17 Responses. ",
+      "Response E-mail and Trading securities/shares online had the biggest gap of 50.0 between the highest and lowest SOME LABEL found for Smartphone. "
+   ],
+   "max_summary": [
+      "This grouped bar chart represents 17 different Responses on X-axis for 2 groups Tablet, and Smartphone. On the Y-axis it shows their corresponding SOME LABEL. ",
+      " Response E-mail had the maximum SOME LABEL among all 2 groups, and it was for Smartphone. The minimum SOME LABEL was observed in Response Trading securities/shares online for Tablet. ",
+      " Among all the Responses, Smartphone had the highest SOME LABEL 59.0 in Response E-mail and lowest value 9.0 in Response Trading securities/shares online. ",
+      "Response E-mail and Trading securities/shares online had the biggest gap of 50.0 between the highest and lowest SOME LABEL found for Smartphone. ",
+      " Out of all 2 groups, the highest gap between the maximum and minimum SOME LABEL was found in case of Tablet. ",
+      "On average, the Response E-mail had the highest SOME LABEL for all 2 groups Tablet, and Smartphone. Whereas Trading securities/shares online had the lowest average SOME LABEL. "
    ],
    "trends": [
       {},

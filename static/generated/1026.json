@@ -1,43 +1,42 @@
 {
-   "title": "Test",
+   "title": "Academy Awards nominations in 2020 , by film",
    "xAxis": "Year",
    "yAxis": "Number of nominations",
    "columnType": "two",
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Number of nominations, with a total of 9 data points.",
-      " Overall Number of nominations has increased over the Year.",
-      "Number of nominations is slightly increasing from Ford_v_Ferrari to Marriage_Story, roughly constant from Marriage_Story to Little_Women, gradually increasing from Little_Women to Once_Upon_a_Time_in_Hollywood, roughly constant from Once_Upon_a_Time_in_Hollywood to The_Irishman, and lastly roughly increasing from The_Irishman to Joker.",
-      "The steepest increase occurs in between the Year Little_Women and Once_Upon_a_Time_in_Hollywood.",
-      "Max Number of nominations about 11.0 was recorded at Year Joker",
-      "Min Number of nominations about 4.0 was recorded at Year Ford_v_Ferrari",
-      "#########################################################################",
-      "This line chart has an x axis representing Year and a y axis representing Number of nominations, with a total of 9 data points. The chart has 4 significant trends.",
-      " The longest trend is extremely constant which exists from Ford_v_Ferrari to Little_Women.",
-      " Differently, the next significant trend is extremely constant which exists from Once_Upon_a_Time_in_Hollywood to The_Irishman.",
-      " Conversely, the next significant trend is moderately increasing which exists from The_Irishman to Joker.",
-      " In a similar manner, the next significant trend is slightly increasing which exists from Little_Women to Once_Upon_a_Time_in_Hollywood."
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of nominations. In total the number of data points it has is 9.",
+      " In general Number of nominations has stayed the same over the Year.",
+      "Number of nominations is roughly increasing from 1917 to Joker, roughly constant from Joker to Marriage_Story, and finally slightly increasing from Marriage_Story to The_Irishman.",
+      "The line rapidly increased by 83.33% from Year Jojo_Rabbit to Joker.",
+      "The most drastic increase took place within the Year 1917 and Ford_v_Ferrari.",
+      "Maximum Number of nominations, about 11.0 was reported at Year Joker",
+      "Minimum Number of nominations about 4.0 was reached at Year Ford_v_Ferrari"
    ],
-   "trends": [
-      {},
-      {
-         "1": "4",
-         "12": "8"
-      },
-      {
-         "3": "1",
-         "14": "3"
-      },
-      {
-         "3": "0",
-         "14": "1"
-      },
-      {
-         "3": "3",
-         "14": "4"
-      }
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of nominations. In total the number of data points it has is 9.",
+      " In general Number of nominations has stayed the same over the Year.",
+      "Number of nominations is roughly increasing from 1917 to Joker, roughly constant from Joker to Marriage_Story, and finally slightly increasing from Marriage_Story to The_Irishman."
    ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of nominations. In total the number of data points it has is 9.",
+      " Overall Number of nominations has constant over the Year.",
+      "Number of nominations is roughly increasing from 1917 to Joker, roughly constant from Joker to Marriage_Story, and finally slightly increasing from Marriage_Story to The_Irishman.",
+      "The most drastic increase took place within the Year 1917 and Ford_v_Ferrari.",
+      "Maximum Number of nominations, about 11.0 was reported at Year Joker",
+      "Minimum Number of nominations about 4.0 was reached at Year Ford_v_Ferrari"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Number of nominations, containing a total of 9 data points.",
+      " In general Number of nominations has stayed the same over the Year.",
+      "Number of nominations is roughly increasing from 1917 to Joker, roughly constant from Joker to Marriage_Story, and finally slightly increasing from Marriage_Story to The_Irishman.",
+      "The steepest increase occurs in between the Year 1917 and Ford_v_Ferrari.",
+      "Maximum Number of nominations, about 11.0 was reported at Year Joker",
+      "Minimum Number of nominations about 4.0 was reached at Year Ford_v_Ferrari",
+      "The line rapidly increased by 83.33% from Year Jojo_Rabbit to Joker."
+   ],
+   "trends": [],
    "data": [
       {
          "Year": "Joker",

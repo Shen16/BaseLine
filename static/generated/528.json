@@ -1,5 +1,5 @@
 {
-   "title": "Test",
+   "title": "Brand value of Premier League ( England ) football teams 2019",
    "labels": [
       "Year",
       "Manchester United",
@@ -13,15 +13,36 @@
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This is a multi-line chart with 6 lines representing Manchester United, Chelsea, Manchester City, Arsenal, Liverpool, and Tottenham Hotspur. ",
-      "The line for Manchester United has the highest values across Year with a mean value of 1193.89, ",
-      "and it peaked at 2018 with a value of 1895.0.",
-      "Followed by Manchester City, with a mean value of 753.1. ",
-      "This line peaked at 2019 with a value of 1407.0. ",
-      "Tottenham Hotspur mostly had the least y-axis name with a mean value of 440.0, ",
-      "which peaked at 2019 with a value of 850.0. ",
-      "Tottenham Hotspur reported the lowest y-axis name  about 127.0 in Year 2011",
-      "Overall Manchester United, Chelsea, Manchester City, Arsenal, Liverpool, and Tottenham Hotspur are gradually increasing,  throughout the Year"
+      "This is a multi-line chart with 6 lines representing Manchester United, Chelsea, Manchester City, Arsenal, Liverpool, and Tottenham Hotspur. The y axis denotes Value in million USD and the x axis denotes Year.",
+      "Overall Manchester United, Chelsea, Manchester City, Arsenal, Liverpool, and Tottenham Hotspur are gradually increasing,  throughout the Year",
+      "Overall across the Year, Manchester United mostly maintained the highest Value in million USD when compared to others with a mean value of 1193.89, and it peaked at 2018.",
+      "After Manchester United, Manchester City overall has the second highest values , with a mean value of 753.1, peaking at 2019. ",
+      "Tottenham Hotspur mostly had the least Value in million USD with a mean value of 440.0, which peaked at 2019 with a value of 850.0. ",
+      "Tottenham Hotspur reported the lowest Value in million USD about 127.0 in Year 2011"
+   ],
+   "xAxis": "Year",
+   "yAxis": "Value in million USD",
+   "min_summary": [
+      "The given chart is of multi-line type with 6 lines namely Manchester United, Chelsea, Manchester City, Arsenal, Liverpool, and Tottenham Hotspur. The y axis represents Value in million USD and the x axis represents Year.",
+      "Overall Manchester United, Chelsea, Manchester City, Arsenal, Liverpool, and Tottenham Hotspur are gradually increasing,  throughout the Year",
+      "Throughout the period, Manchester United generally had the highest Value in million USD relative to others with an average of 1193.89, and it reached its maximum at 2018 with a value of 1895.0.",
+      "After Manchester United, Manchester City overall has the second highest values , with a mean value of 753.1, peaking at 2019. ",
+      "The botommost line, Tottenham Hotspur,  has a mean of 440.0, and peaked at 2019. "
+   ],
+   "mid_summary": [
+      "You are viewing a chart of multi-line type with 6 lines denoting Manchester United, Chelsea, Manchester City, Arsenal, Liverpool, and Tottenham Hotspur. The y axis indicates the Value in million USD and the x axis indicates Year.",
+      "Overall Manchester United, Chelsea, Manchester City, Arsenal, Liverpool, and Tottenham Hotspur are gradually increasing,  throughout the Year",
+      "Throughout the period, Manchester United generally had the highest Value in million USD relative to others with an average of 1193.89, and it reached its maximum at 2018 with a value of 1895.0.",
+      "Followed by Manchester City which ranks as the second topmpost line , with an average of 753.1 Value in million USD,reaching its highest point  at 2019 with a value of 1407.0. ",
+      "Tottenham Hotspur mostly had the least Value in million USD with a mean value of 440.0, which peaked at 2019 with a value of 850.0. "
+   ],
+   "max_summary": [
+      "The given chart is of multi-line type with 6 lines namely Manchester United, Chelsea, Manchester City, Arsenal, Liverpool, and Tottenham Hotspur. The y axis represents Value in million USD and the x axis represents Year.",
+      "Overall Manchester United, Chelsea, Manchester City, Arsenal, Liverpool, and Tottenham Hotspur are gradually increasing,  throughout the Year",
+      "Throughout the period, Manchester United generally had the highest Value in million USD relative to others with an average of 1193.89, and it reached its maximum at 2018 with a value of 1895.0.",
+      "Followed by Manchester City which ranks as the second topmpost line , with an average of 753.1 Value in million USD,reaching its highest point  at 2019 with a value of 1407.0. ",
+      "The botommost line, Tottenham Hotspur,  has a mean of 440.0, and peaked at 2019. ",
+      "Tottenham Hotspur reported the lowest Value in million USD about 127.0 in Year 2011"
    ],
    "trends": [
       {},

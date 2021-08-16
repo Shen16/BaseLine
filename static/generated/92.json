@@ -1,38 +1,38 @@
 {
-   "title": "Test",
+   "title": "Clothing and clothing accessories store sales in the United States 1992 to 2017",
    "xAxis": "Year",
    "yAxis": "Billion U.S. dollars",
    "columnType": "two",
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Billion U.S. dollars, with a total of 26 data points.",
-      " Overall Billion U.S. dollars has increased over the Year.",
-      "Billion U.S. dollars is roughly increasing from 92 to 93, roughly constant from 93 to 95, gradually increasing from 95 to 0, roughly constant from 0 to 1, gradually increasing from 1 to 6, roughly decreasing from 6 to 9, slightly increasing from 9 to 12, and lastly roughly constant from 12 to 17.",
-      "The steepest increase occurs in between the Year 10 and 11.",
-      "Max Billion U.S. dollars about 259.84 was recorded at Year 16",
-      "Min Billion U.S. dollars about 120.1 was recorded at Year 92",
-      "#########################################################################",
-      "This line chart has an x axis representing Year and a y axis representing Billion U.S. dollars, with a total of 26 data points. The chart has 3 significant trends.",
-      " The longest trend is slightly increasing which exists from 92 to 1.",
-      " Likewise, the next significant trend is extremely increasing which exists from 9 to 17.",
-      " Correspondingly, the next significant trend is extremely increasing which exists from 1 to 9."
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Billion U.S. dollars. In total the number of data points it has is 26.",
+      " In general Billion U.S. dollars has fallen over the Year.",
+      "The line drastically ",
+      "The steepest decrease occurs in between the Year 17 and 2.",
+      "The highest Billion U.S. dollars, of value 259.84 was reached at Year 16",
+      "Minimum Billion U.S. dollars about 120.1 was reached at Year 92"
    ],
-   "trends": [
-      {},
-      {
-         "1": "16",
-         "12": "25"
-      },
-      {
-         "3": "0",
-         "14": "8"
-      },
-      {
-         "3": "8",
-         "14": "16"
-      }
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Billion U.S. dollars. In total the number of data points it has is 26.",
+      " In general Billion U.S. dollars has fallen over the Year."
    ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Billion U.S. dollars, containing a total of 26 data points.",
+      " Overall Billion U.S. dollars has decreased over the Year.",
+      "The steepest decrease occurs in between the Year 17 and 2.",
+      "The highest Billion U.S. dollars, of value 259.84 was reached at Year 16",
+      "Minimum Billion U.S. dollars about 120.1 was reached at Year 92"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Billion U.S. dollars, containing a total of 26 data points.",
+      " Overall Billion U.S. dollars has decreased over the Year.",
+      "The steepest decrease occurs in between the Year 17 and 2.",
+      "The highest Billion U.S. dollars, of value 259.84 was reached at Year 16",
+      "Minimum Billion U.S. dollars about 120.1 was reached at Year 92",
+      "The line drastically "
+   ],
+   "trends": [],
    "data": [
       {
          "Year": "17",

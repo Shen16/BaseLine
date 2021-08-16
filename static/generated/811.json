@@ -1,5 +1,5 @@
 {
-   "title": "Test",
+   "title": "Car dealership network sizes in the United Kingdom ( UK ) 2014 to 2017",
    "labels": [
       "Car Manufacturer",
       "July 2014",
@@ -9,12 +9,30 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart has 28 categories of Car Manufacturer on the x axis representing 2 groups: July 2014, and January 2017.",
-      " Averaging these 2 groups, the highest category is found for Car Manufacturer Ford with a mean value of 490.5.",
-      " Followed by Vauxhall with a mean value of 252.5.",
-      " The lowest category is observed at Mercedes that has a mean value of 36.5",
-      " showing a difference of 172.3% with the maximum value.",
-      " In case of Ford, July 2014 shows more dominance than any other Car Manufacturer with a value 506.0 and it has the lowest value 35.0 in Mercedes. "
+      "This grouped bar chart shows SOME LABEL on the Y-axis for 28 different Car Manufacturers for 2 groups July 2014, and January 2017 that are presented on the X-axis. ",
+      " Car Manufacturer Ford had the maximum SOME LABEL among all 2 groups, and it was for July 2014. The minimum SOME LABEL was observed in Car Manufacturer Mercedes for July 2014. ",
+      " In Car Manufacturer Ford, July 2014 had the highest SOME LABEL among all 28 Car Manufacturers and it has the lowest SOME LABEL in Car Manufacturer Mercedes. ",
+      " There is a gap of 471.0 between the highest and lowest SOME LABEL found for July 2014 in Car Manufacturer Ford and Mercedes. "
+   ],
+   "xAxis": "Car Manufacturer",
+   "yAxis": "SOME LABEL",
+   "min_summary": [
+      "This grouped bar chart shows SOME LABEL on the Y-axis for 28 different Car Manufacturers for 2 groups July 2014, and January 2017 that are presented on the X-axis. ",
+      " In Car Manufacturer Ford, July 2014 had the highest SOME LABEL 506.0 among the 2 groups and in Mercedes, July 2014 had the lowest SOME LABEL 35.0. "
+   ],
+   "mid_summary": [
+      "This grouped bar chart shows SOME LABEL on the Y-axis for 28 different Car Manufacturers for 2 groups July 2014, and January 2017 that are presented on the X-axis. ",
+      " Car Manufacturer Ford had the maximum SOME LABEL among all 2 groups, and it was for July 2014. The minimum SOME LABEL was observed in Car Manufacturer Mercedes for July 2014. ",
+      " In Car Manufacturer Ford, July 2014 had the highest SOME LABEL among all 28 Car Manufacturers and it has the lowest SOME LABEL in Car Manufacturer Mercedes. ",
+      " There is a gap of 471.0 between the highest and lowest SOME LABEL found for July 2014 in Car Manufacturer Ford and Mercedes. "
+   ],
+   "max_summary": [
+      "This grouped bar chart shows SOME LABEL on the Y-axis for 28 different Car Manufacturers for 2 groups July 2014, and January 2017 that are presented on the X-axis. ",
+      " In Car Manufacturer Ford, July 2014 had the highest SOME LABEL 506.0 among the 2 groups and in Mercedes, July 2014 had the lowest SOME LABEL 35.0. ",
+      " Among all the Car Manufacturers, July 2014 had the highest SOME LABEL in Car Manufacturer Ford and lowest SOME LABEL in Car Manufacturer Mercedes. ",
+      "Car Manufacturer Ford and Mercedes had the biggest gap of 471.0 between the highest and lowest SOME LABEL found for July 2014. ",
+      " Out of all 2 groups, the highest gap between the maximum and minimum SOME LABEL was found in case of July 2014. ",
+      "Averaging all 2 groups July 2014, and January 2017, the Car Manufacturer Ford is the maximum SOME LABEL and Mercedes is the minimum SOME LABEL. "
    ],
    "trends": [
       {},

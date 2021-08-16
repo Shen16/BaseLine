@@ -1,18 +1,33 @@
 {
-   "title": "Test",
+   "title": "U.S. women who have given oral sex to a male in their lifetime , by age group",
    "xAxis": "Age group",
    "yAxis": "Share of respondents",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 10 categories on the x axis representing Age group, and Share of respondents in each Age group on the y axis.",
-      " The highest category is found at 25-29 where Share of respondents is 89.0.",
-      " Followed by 13.0 in .",
-      " The lowest category is found at 14-15 where Share of respondents is 13.0.",
-      " The highest value at 25-29 is almost 6.85 times larger than the minimum value of 14-15. ",
-      " The highest value at 25-29 is almost 6.85 times larger than the minimum value of 14-15. ",
-      " The difference between the max Age group 25-29 and min Age group 14-15 is 76.0. "
+      "This bar chart has 10 columns on the x axis representing Age group, and Share of respondents in each Age group on the y axis. ",
+      "The Share of respondents is highest at Age group 25-29 and lowest at Age group 14-15. ",
+      "The highest Age group 25-29 has 76.0 more Share of respondents than the lowest Age group 14-15. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing Age group in the x axis and Share of respondents in the y axis. ",
+      "The maximum Share of respondents 89.0 is found at Age group 25-29 and the minimum is found at 14-15 where Age group is 13.0. "
+   ],
+   "mid_summary": [
+      "This bar chart has 10 columns on the x axis representing Age group, and Share of respondents in each Age group on the y axis. ",
+      "The Share of respondents is highest at Age group 25-29 and lowest at Age group 14-15. ",
+      "The highest Age group 25-29 has 76.0 more Share of respondents than the lowest Age group 14-15. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Share of respondents for 10 number of Age groups. ",
+      "The Share of respondents is highest at Age group 25-29 and lowest at Age group 14-15. ",
+      "Age group  has the second highest value for Share of respondents. ",
+      "There is a difference of 76.0 between the maximum Age group 25-29 and minimum Age group 14-15. ",
+      "Age group 25-29 is higher than any other Age groups with value 89.0, followed by , and 50-59. Down to Age group 14-15 with the lowest value 13.0. ",
+      "Age group 30-39, and 50-59 have the same Share of respondents. ",
+      "The Age group 14-15 has 1.41 times less Share of respondents than average. ",
+      "Summing up the values of all Age groups, we get total 629.0. "
    ],
    "trends": [
       {},

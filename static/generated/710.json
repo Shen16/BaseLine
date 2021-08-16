@@ -1,5 +1,5 @@
 {
-   "title": "Test",
+   "title": "Smartwatch global unit sales forecast 2014 to 2015",
    "labels": [
       "Year",
       "Western Europe",
@@ -14,15 +14,39 @@
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This is a multi-line chart with 7 lines representing Western Europe, Asia Pacific, North America, Central and Eastern Europe, China, South America, and Middle East and Africa. ",
-      "The line for North America has the highest values across Year with a mean value of 4.3, ",
-      "and it peaked at 2015 with a value of 7.4.",
-      "Followed by Asia Pacific, with a mean value of 3.9. ",
-      "This line peaked at 2015 with a value of 6.7. ",
-      "South America mostly had the least y-axis name with a mean value of 0.35, ",
-      "which peaked at 2015 with a value of 0.6. ",
-      "South America reported the lowest y-axis name  about 0.1 in Year 2014",
-      "Overall Asia Pacific, and North America are rapidly increasing, Western Europe, Central and Eastern Europe, China, and Middle East and Africa are gradually increasing, South America is roughly constant,  throughout the Year"
+      "You are viewing a chart of multi-line type with 7 lines denoting Western Europe, Asia Pacific, North America, Central and Eastern Europe, China, South America, and Middle East and Africa. The y axis indicates the SOME LABEL and the x axis indicates Year.",
+      "Overall Asia Pacific, and North America are rapidly increasing, Western Europe, Central and Eastern Europe, China, South America, and Middle East and Africa are gradually increasing,  throughout the Year",
+      "Overall across the Year, North America mostly maintained the highest SOME LABEL when compared to others with a mean value of 4.3, and it peaked at 2015.",
+      "After North America, Asia Pacific overall has the second highest values , with a mean value of 3.9, peaking at 2015. ",
+      "The botommost line, South America,  has a mean of 0.35, and peaked at 2015. ",
+      "South America reported the lowest SOME LABEL about 0.1 in Year 2014",
+      "Asia Pacific, and North America has increased by 570.0, and 516.6666666666667 percent respectively."
+   ],
+   "xAxis": "Year",
+   "yAxis": "SOME LABEL",
+   "min_summary": [
+      "You are viewing a chart of multi-line type with 7 lines denoting Western Europe, Asia Pacific, North America, Central and Eastern Europe, China, South America, and Middle East and Africa. The y axis indicates the SOME LABEL and the x axis indicates Year.",
+      "Overall Asia Pacific, and North America are rapidly increasing, Western Europe, Central and Eastern Europe, China, South America, and Middle East and Africa are gradually increasing,  throughout the Year",
+      "Overall across the Year, North America mostly maintained the highest SOME LABEL when compared to others with a mean value of 4.3, and it peaked at 2015.",
+      "Followed by Asia Pacific which ranks as the second topmpost line , with an average of 3.9 SOME LABEL,reaching its highest point  at 2015 with a value of 6.7. ",
+      "The botommost line, South America,  has a mean of 0.35, and peaked at 2015. "
+   ],
+   "mid_summary": [
+      "The given chart is of multi-line type with 7 lines namely Western Europe, Asia Pacific, North America, Central and Eastern Europe, China, South America, and Middle East and Africa. The y axis represents SOME LABEL and the x axis represents Year.",
+      "Overall Asia Pacific, and North America are rapidly increasing, Western Europe, Central and Eastern Europe, China, South America, and Middle East and Africa are gradually increasing,  throughout the Year",
+      "Asia Pacific, and North America has increased by 570.0, and 516.6666666666667 percent respectively.",
+      "Throughout the period, North America generally had the highest SOME LABEL relative to others with an average of 4.3, and it reached its maximum at 2015 with a value of 7.4.",
+      "After North America, Asia Pacific overall has the second highest values , with a mean value of 3.9, peaking at 2015. ",
+      "The botommost line, South America,  has a mean of 0.35, and peaked at 2015. "
+   ],
+   "max_summary": [
+      "The given chart is of multi-line type with 7 lines namely Western Europe, Asia Pacific, North America, Central and Eastern Europe, China, South America, and Middle East and Africa. The y axis represents SOME LABEL and the x axis represents Year.",
+      "Overall Asia Pacific, and North America are rapidly increasing, Western Europe, Central and Eastern Europe, China, South America, and Middle East and Africa are gradually increasing,  throughout the Year",
+      "Asia Pacific, and North America has increased by 570.0, and 516.6666666666667 percent respectively.",
+      "Overall across the Year, North America mostly maintained the highest SOME LABEL when compared to others with a mean value of 4.3, and it peaked at 2015.",
+      "After North America, Asia Pacific overall has the second highest values , with a mean value of 3.9, peaking at 2015. ",
+      "The botommost line, South America,  has a mean of 0.35, and peaked at 2015. ",
+      "South America reported the lowest SOME LABEL about 0.1 in Year 2014"
    ],
    "trends": [
       {},

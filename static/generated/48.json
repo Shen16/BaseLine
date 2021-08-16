@@ -1,63 +1,38 @@
 {
-   "title": "Test",
+   "title": "U.S. per capita consumption of dried fruit 2000 to 2019",
    "xAxis": "Year",
    "yAxis": "Per capita consumption in pounds",
    "columnType": "two",
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Per capita consumption in pounds, with a total of 19 data points.",
-      " Overall Per capita consumption in pounds has decreased over the Year.",
-      "Per capita consumption in pounds is roughly constant from 2000/01 to 2001/02, roughly decreasing from 2001/02 to 2003/04, roughly constant from 2003/04 to 2012/13, roughly decreasing from 2012/13 to 2013/14, slightly increasing from 2013/14 to 2014/15, roughly constant from 2014/15 to 2017/18, and lastly rapidly decreasing from 2017/18 to 2018/19.",
+      "This is a line chart with an x axis representing Year and a y axis representing Per capita consumption in pounds, containing a total of 19 data points.",
+      " In general Per capita consumption in pounds has fallen over the Year.",
+      "The line drastically ",
+      "The most drastic decrease took place within the Year 2017/18 and 2018/19.",
+      "The highest Per capita consumption in pounds, of value 2.59 was reached at Year 2002/03",
+      "Minimum Per capita consumption in pounds about 1.0 was reached at Year 2018/19"
+   ],
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Per capita consumption in pounds, containing a total of 19 data points.",
+      " In general Per capita consumption in pounds has fallen over the Year."
+   ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Per capita consumption in pounds, containing a total of 19 data points.",
+      " In general Per capita consumption in pounds has fallen over the Year.",
       "The steepest decrease occurs in between the Year 2017/18 and 2018/19.",
-      "Max Per capita consumption in pounds about 2.59 was recorded at Year 2002/03",
-      "Min Per capita consumption in pounds about 1.0 was recorded at Year 2018/19",
-      "#########################################################################",
-      "This line chart has an x axis representing Year and a y axis representing Per capita consumption in pounds, with a total of 19 data points. The chart has 8 significant trends.",
-      " The longest trend is slightly decreasing which exists from 2015/16 to 2018/19.",
-      " On the other hand, the next significant trend is moderately decreasing which exists from 2006/07 to 2009/10.",
-      " Differently, the next significant trend is extremely decreasing which exists from 2013/14 to 2015/16.",
-      " Differently, the next significant trend is extremely decreasing which exists from 2011/12 to 2013/14.",
-      " On the other hand, the next significant trend is extremely increasing which exists from 2009/10 to 2011/12.",
-      " Similarly, the next significant trend is extremely decreasing which exists from 2004/05 to 2006/07.",
-      " Contrarily, the next significant trend is moderately decreasing which exists from 2002/03 to 2004/05.",
-      " Contrarily, the next significant trend is extremely increasing which exists from 2000/01 to 2002/03."
+      "The highest Per capita consumption in pounds, of value 2.59 was reached at Year 2002/03",
+      "Minimum Per capita consumption in pounds about 1.0 was reached at Year 2018/19"
    ],
-   "trends": [
-      {},
-      {
-         "1": "0",
-         "12": "3"
-      },
-      {
-         "3": "9",
-         "14": "12"
-      },
-      {
-         "3": "3",
-         "14": "5"
-      },
-      {
-         "3": "5",
-         "14": "7"
-      },
-      {
-         "3": "7",
-         "14": "9"
-      },
-      {
-         "3": "12",
-         "14": "14"
-      },
-      {
-         "3": "14",
-         "14": "16"
-      },
-      {
-         "3": "16",
-         "14": "18"
-      }
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Per capita consumption in pounds. In total the number of data points it has is 19.",
+      " Overall Per capita consumption in pounds has decreased over the Year.",
+      "The most drastic decrease took place within the Year 2017/18 and 2018/19.",
+      "The highest Per capita consumption in pounds, of value 2.59 was reached at Year 2002/03",
+      "Minimum Per capita consumption in pounds about 1.0 was reached at Year 2018/19",
+      "The line significantly "
    ],
+   "trends": [],
    "data": [
       {
          "Year": "2018/19",

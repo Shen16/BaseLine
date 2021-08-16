@@ -1,48 +1,38 @@
 {
-   "title": "Test",
+   "title": "Sales volume of USB flash drives in Germany 2004 to 2018",
    "xAxis": "Year",
    "yAxis": "Sales volume in millions",
    "columnType": "two",
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Sales volume in millions, with a total of 15 data points.",
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Sales volume in millions. In total the number of data points it has is 15.",
       " Overall Sales volume in millions has increased over the Year.",
-      "Sales volume in millions is rapidly increasing from 2004 to 2008, roughly constant from 2008 to 2010, roughly increasing from 2010 to 2011, roughly decreasing from 2011 to 2012, roughly increasing from 2012 to 2013, and lastly roughly constant from 2013 to 2018.",
+      "The line drastically ",
       "The steepest increase occurs in between the Year 2007 and 2008.",
-      "Max Sales volume in millions about 16.17 was recorded at Year 2016",
-      "Min Sales volume in millions about 2.03 was recorded at Year 2004",
-      "#########################################################################",
-      "This line chart has an x axis representing Year and a y axis representing Sales volume in millions, with a total of 15 data points. The chart has 5 significant trends.",
-      " The longest trend is extremely increasing which exists from 2004 to 2008.",
-      " Likewise, the next significant trend is moderately increasing which exists from 2013 to 2016.",
-      " Likewise, the next significant trend is moderately increasing which exists from 2010 to 2013.",
-      " Similarly, the next significant trend is slightly decreasing which exists from 2016 to 2018.",
-      " On the contrary, the next significant trend is slightly decreasing which exists from 2008 to 2010."
+      "Maximum Sales volume in millions, about 16.17 was reported at Year 2016",
+      "Minimum Sales volume in millions about 2.03 was reached at Year 2004"
    ],
-   "trends": [
-      {},
-      {
-         "1": "10",
-         "12": "14"
-      },
-      {
-         "3": "2",
-         "14": "5"
-      },
-      {
-         "3": "5",
-         "14": "8"
-      },
-      {
-         "3": "0",
-         "14": "2"
-      },
-      {
-         "3": "8",
-         "14": "10"
-      }
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Sales volume in millions, containing a total of 15 data points.",
+      " In general Sales volume in millions has rose over the Year."
    ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Sales volume in millions, containing a total of 15 data points.",
+      " In general Sales volume in millions has rose over the Year.",
+      "The steepest increase occurs in between the Year 2007 and 2008.",
+      "Maximum Sales volume in millions, about 16.17 was reported at Year 2016",
+      "Minimum Sales volume in millions about 2.03 was reached at Year 2004"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Sales volume in millions, containing a total of 15 data points.",
+      " In general Sales volume in millions has rose over the Year.",
+      "The most drastic increase took place within the Year 2007 and 2008.",
+      "Maximum Sales volume in millions, about 16.17 was reported at Year 2016",
+      "Minimum Sales volume in millions about 2.03 was reached at Year 2004",
+      "The line rapidly "
+   ],
+   "trends": [],
    "data": [
       {
          "Year": "2018",

@@ -1,38 +1,42 @@
 {
-   "title": "Test",
+   "title": "Amadeus : distribution market share 2010 to 2019",
    "xAxis": "Year",
    "yAxis": "Market share",
    "columnType": "two",
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Market share, with a total of 10 data points.",
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Market share. In total the number of data points it has is 10.",
+      " In general Market share has rose over the Year.",
+      "Market share is slightly increasing from 2010 to 2016, and lastly roughly constant from 2016 to 2019.",
+      "The line significantly ",
+      "The most drastic increase took place within the Year 2014 and 2015.",
+      "The highest Market share, of value 44.0 was reached at Year 2019",
+      "Minimum Market share about 36.7 was reached at Year 2010"
+   ],
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Market share, containing a total of 10 data points.",
+      " Overall Market share has increased over the Year.",
+      "Market share is slightly increasing from 2010 to 2016, and lastly roughly constant from 2016 to 2019."
+   ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Market share. In total the number of data points it has is 10.",
       " Overall Market share has increased over the Year.",
       "Market share is slightly increasing from 2010 to 2016, and lastly roughly constant from 2016 to 2019.",
+      "The most drastic increase took place within the Year 2014 and 2015.",
+      "The highest Market share, of value 44.0 was reached at Year 2019",
+      "Minimum Market share about 36.7 was reached at Year 2010"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Market share, containing a total of 10 data points.",
+      " In general Market share has rose over the Year.",
+      "Market share is slightly increasing from 2010 to 2016, and lastly roughly constant from 2016 to 2019.",
       "The steepest increase occurs in between the Year 2014 and 2015.",
-      "Max Market share about 44.0 was recorded at Year 2019",
-      "Min Market share about 36.7 was recorded at Year 2010",
-      "#########################################################################",
-      "This line chart has an x axis representing Year and a y axis representing Market share, with a total of 10 data points. The chart has 3 significant trends.",
-      " The longest trend is extremely increasing which exists from 2010 to 2017.",
-      " Additionally, the next significant trend is moderately increasing which exists from 2018 to 2019.",
-      " Similarly, the next significant trend is slightly decreasing which exists from 2017 to 2018."
+      "The highest Market share, of value 44.0 was reached at Year 2019",
+      "Minimum Market share about 36.7 was reached at Year 2010",
+      "The line significantly "
    ],
-   "trends": [
-      {},
-      {
-         "1": "2",
-         "12": "9"
-      },
-      {
-         "3": "0",
-         "14": "1"
-      },
-      {
-         "3": "1",
-         "14": "2"
-      }
-   ],
+   "trends": [],
    "data": [
       {
          "Year": "2019",

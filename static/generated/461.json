@@ -1,48 +1,42 @@
 {
-   "title": "Test",
+   "title": "Kansas City Royals average ticket price 2006 to 2019",
    "xAxis": "Year",
    "yAxis": "Average ticket price in U.S. dollars",
    "columnType": "two",
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Average ticket price in U.S. dollars, with a total of 13 data points.",
-      " Overall Average ticket price in U.S. dollars has increased over the Year.",
-      "Average ticket price in U.S. dollars is roughly constant from 2006 to 2007, slightly increasing from 2007 to 2008, roughly constant from 2008 to 2011, rapidly increasing from 2011 to 2018, and lastly roughly constant from 2018 to 2019.",
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Average ticket price in U.S. dollars. In total the number of data points it has is 13.",
+      " In general Average ticket price in U.S. dollars has rose over the Year.",
+      "Average ticket price in U.S. dollars is roughly constant from 2006 to 2007, slightly increasing from 2007 to 2008, roughly constant from 2008 to 2011, rapidly increasing from 2011 to 2018, and finally roughly constant from 2018 to 2019.",
+      "The line drastically ",
       "The steepest increase occurs in between the Year 2016 and 2018.",
-      "Max Average ticket price in U.S. dollars about 33.58 was recorded at Year 2018",
-      "Min Average ticket price in U.S. dollars about 13.71 was recorded at Year 2006",
-      "#########################################################################",
-      "This line chart has an x axis representing Year and a y axis representing Average ticket price in U.S. dollars, with a total of 13 data points. The chart has 5 significant trends.",
-      " The longest trend is extremely increasing which exists from 2013 to 2016.",
-      " Correspondingly, the next significant trend is extremely increasing which exists from 2006 to 2009.",
-      " Correspondingly, the next significant trend is extremely increasing which exists from 2016 to 2019.",
-      " Correspondingly, the next significant trend is slightly increasing which exists from 2011 to 2013.",
-      " Similarly, the next significant trend is slightly constant which exists from 2009 to 2011."
+      "Maximum Average ticket price in U.S. dollars, about 33.58 was reported at Year 2018",
+      "Minimum Average ticket price in U.S. dollars about 13.71 was reached at Year 2006"
    ],
-   "trends": [
-      {},
-      {
-         "1": "2",
-         "12": "5"
-      },
-      {
-         "3": "9",
-         "14": "12"
-      },
-      {
-         "3": "0",
-         "14": "2"
-      },
-      {
-         "3": "5",
-         "14": "7"
-      },
-      {
-         "3": "7",
-         "14": "9"
-      }
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Average ticket price in U.S. dollars, containing a total of 13 data points.",
+      " Overall Average ticket price in U.S. dollars has increased over the Year.",
+      "Average ticket price in U.S. dollars is roughly constant from 2006 to 2007, slightly increasing from 2007 to 2008, roughly constant from 2008 to 2011, rapidly increasing from 2011 to 2018, and finally roughly constant from 2018 to 2019."
    ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Average ticket price in U.S. dollars, containing a total of 13 data points.",
+      " In general Average ticket price in U.S. dollars has rose over the Year.",
+      "Average ticket price in U.S. dollars is roughly constant from 2006 to 2007, slightly increasing from 2007 to 2008, roughly constant from 2008 to 2011, rapidly increasing from 2011 to 2018, and finally roughly constant from 2018 to 2019.",
+      "The steepest increase occurs in between the Year 2016 and 2018.",
+      "Maximum Average ticket price in U.S. dollars, about 33.58 was reported at Year 2018",
+      "Minimum Average ticket price in U.S. dollars about 13.71 was reached at Year 2006"
+   ],
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Average ticket price in U.S. dollars. In total the number of data points it has is 13.",
+      " Overall Average ticket price in U.S. dollars has increased over the Year.",
+      "Average ticket price in U.S. dollars is roughly constant from 2006 to 2007, slightly increasing from 2007 to 2008, roughly constant from 2008 to 2011, rapidly increasing from 2011 to 2018, and finally roughly constant from 2018 to 2019.",
+      "The most drastic increase took place within the Year 2016 and 2018.",
+      "Maximum Average ticket price in U.S. dollars, about 33.58 was reported at Year 2018",
+      "Minimum Average ticket price in U.S. dollars about 13.71 was reached at Year 2006",
+      "The line rapidly "
+   ],
+   "trends": [],
    "data": [
       {
          "Year": "2019",

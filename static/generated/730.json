@@ -1,13 +1,33 @@
 {
-   "title": "Test",
+   "title": "Ownership and personal use of laptop/netbook computers 2012 , by country",
    "xAxis": "Country",
    "yAxis": "Percentage of population",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 8 categories on the x axis representing Country, and Percentage of population in each Country on the y axis.",
-      "Italy is higher than any other categories with value 80.0, followed by , and Germany. Down to category United States with the lowest value of 68.0. "
+      "This is a bar chart representing Country in the x axis and Percentage of population in the y axis. ",
+      "The maximum Percentage of population 80.0 is found at Country Italy and the minimum is found at United States where Country is 68.0. ",
+      "The difference of Percentage of population between the highest and lowest Country is 12.0. "
+   ],
+   "min_summary": [
+      "This bar chart has 8 columns on the x axis representing Country, and Percentage of population in each Country on the y axis. ",
+      "The Percentage of population is highest at Country Italy and lowest at Country United States. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Country in the x axis and Percentage of population in the y axis. ",
+      "The maximum Percentage of population 80.0 is found at Country Italy and the minimum is found at United States where Country is 68.0. ",
+      "The difference of Percentage of population between the highest and lowest Country is 12.0. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Country in the x axis and Percentage of population in the y axis. ",
+      "The Percentage of population is highest at Country Italy and lowest at Country United States. ",
+      "Second maximum Percentage of population is found at Country . ",
+      "The minimum Country United States has got 1.18 times less Percentage of population than the maximum Country Italy. ",
+      "Percentage of population at Country Italy is 80.0 , second place is  at 80.0, and thirdly is Germany at 73.0.",
+      "Country Australia, and Spain have the same Percentage of population. ",
+      "The Country United States tends to be 1.11 percent lower than average. ",
+      "The Percentage of population is 579.0 if we add up values of all Countrys. "
    ],
    "trends": [
       {},

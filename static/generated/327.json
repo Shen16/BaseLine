@@ -1,5 +1,5 @@
 {
-   "title": "Test",
+   "title": "Daily active users of Snapchat 2014 - 2019 , by region",
    "labels": [
       "Quarter",
       "North America",
@@ -10,12 +10,32 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart has 24 categories of Quarter on the x axis representing 3 groups: North America, Europe, and Rest of World.",
-      " Averaging these 3 groups, the highest category is found for Quarter Q4 '19 with a mean value of 72.33.",
-      " Followed by Q3 '19 with a mean value of 70.0.",
-      " The lowest category is observed at Q1 '14 that has a mean value of 15.33",
-      " showing a difference of 130.0% with the maximum value.",
-      " In case of Q4 '19, North America shows more dominance than any other Quarter and it has the lowest value in Q1 '14. On the other hand, group Europe is the second impactful group in this chart, and it's highest in case of Q4 '19 and has the minimum dominance for Quarter Q1 '14. "
+      "This grouped bar chart shows Number of active users in millions on the Y-axis for 24 different Quarters for 3 groups North America, Europe, and Rest of World that are presented on the X-axis. ",
+      " All through the Quarters, similar trend was observed for Europe and North America. In both cases, the Number of active users in millions have lowered. ",
+      " In Quarter Q4 '19, North America had the highest Number of active users in millions 86.0 among the 3 groups and in Q1 '14, Rest of World had the lowest Number of active users in millions 6.0. ",
+      " Among all the Quarters, Europe had the highest Number of active users in millions in Quarter Q4 '19 and lowest Number of active users in millions in Quarter Q1 '14. "
+   ],
+   "xAxis": "Quarter",
+   "yAxis": "Number of active users in millions",
+   "min_summary": [
+      "This grouped bar chart represents 24 different Quarters on X-axis for 3 groups North America, Europe, and Rest of World. On the Y-axis it shows their corresponding Number of active users in millions. ",
+      " All through the Quarters, similar trend was observed for Europe and North America. In both cases, the Number of active users in millions have lowered. "
+   ],
+   "mid_summary": [
+      "This grouped bar chart shows Number of active users in millions on the Y-axis for 24 different Quarters for 3 groups North America, Europe, and Rest of World that are presented on the X-axis. ",
+      " All through the Quarters, similar trend was observed for Europe and North America. In both cases, the Number of active users in millions have lowered. ",
+      " In Quarter Q4 '19, North America had the highest Number of active users in millions 86.0 among the 3 groups and in Q1 '14, Rest of World had the lowest Number of active users in millions 6.0. ",
+      " Among all the Quarters, Europe had the highest Number of active users in millions in Quarter Q4 '19 and lowest Number of active users in millions in Quarter Q1 '14. "
+   ],
+   "max_summary": [
+      "This grouped bar chart represents 24 different Quarters on X-axis for 3 groups North America, Europe, and Rest of World. On the Y-axis it shows their corresponding Number of active users in millions. ",
+      " All through the Quarters, similar trend was observed for Europe and North America. In both cases, the Number of active users in millions have lowered. ",
+      " Quarter Q4 '19 had the maximum Number of active users in millions among all 3 groups, and it was for North America. The minimum Number of active users in millions was observed in Quarter Q1 '14 for Rest of World. ",
+      " In Quarter Q4 '19, Europe had the highest Number of active users in millions among all 24 Quarters and it has the lowest Number of active users in millions in Quarter Q1 '14. ",
+      "Quarter Q4 '19 and Q1 '14 had the biggest gap of 53.0 between the highest and lowest Number of active users in millions found for Europe. ",
+      " Among the groups, North America had the biggest difference in Number of active users in millions. Where the maximum Number of active users in millions was 3.31 times larger than the minimum Number of active users in millions. ",
+      " North America had the maximum Number of active users in millions out of all 3 groups in Quarter Q4 '19 followed by North America in Q4 '19, and the minimum Number of active users in millions is found for Rest of World in Q1 '14. ",
+      "On average, the Quarter Q4 '19 had the highest Number of active users in millions for all 3 groups North America, Europe, and Rest of World. Whereas Q1 '14 had the lowest average Number of active users in millions. "
    ],
    "trends": [
       {},

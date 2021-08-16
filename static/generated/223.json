@@ -1,5 +1,5 @@
 {
-   "title": "Test",
+   "title": "Daily computer usage penetration in Great Britain 2006 - 2017 , by age",
    "labels": [
       "Year",
       "2006",
@@ -12,15 +12,36 @@
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This is a multi-line chart with 5 lines representing 2006, 2013, 2014, 2015, and 2017. ",
-      "The line for 2017 has the highest values across Year with a mean value of 75.33, ",
-      "and it peaked at 45-54 with a value of 83.0.",
-      "Followed by 2014, with a mean value of 75.0. ",
-      "This line peaked at 35-44 with a value of 86.0. ",
-      "2006 mostly had the least y-axis name with a mean value of 48.0, ",
-      "which peaked at 16-24, and 35-44 with a value of 63.0. ",
-      "2006 reported the lowest y-axis name  about 9.0 in Year 65+",
-      "Overall 2006, 2013, 2014, 2015, and 2017 are gradually decreasing,  throughout the Year"
+      "This is a multi-line chart with 5 lines representing 2006, 2013, 2014, 2015, and 2017. The y axis denotes Share of respondents and the x axis denotes Year.",
+      "Overall 2006, 2013, 2014, 2015, and 2017 are gradually decreasing,  throughout the Year",
+      "Overall across the Year, 2017 mostly maintained the highest Share of respondents when compared to others with a mean value of 75.33, and it peaked at 45-54.",
+      "Followed by 2014 which ranks as the second topmpost line , with an average of 75.0 Share of respondents,reaching its highest point  at 35-44 with a value of 86.0. ",
+      "2006 mostly had the least Share of respondents with a mean value of 48.0, which peaked at 16-24, and 35-44 with a value of 63.0. ",
+      "The minimum Share of respondents about 9.0, occured at 65+ by 2006."
+   ],
+   "xAxis": "Year",
+   "yAxis": "Share of respondents",
+   "min_summary": [
+      "This is a multi-line chart with 5 lines representing 2006, 2013, 2014, 2015, and 2017. The y axis denotes Share of respondents and the x axis denotes Year.",
+      "Overall 2006, 2013, 2014, 2015, and 2017 are gradually decreasing,  throughout the Year",
+      "Throughout the period, 2017 generally had the highest Share of respondents relative to others with an average of 75.33, and it reached its maximum at 45-54 with a value of 83.0.",
+      "Followed by 2014 which ranks as the second topmpost line , with an average of 75.0 Share of respondents,reaching its highest point  at 35-44 with a value of 86.0. ",
+      "The botommost line, 2006,  has a mean of 48.0, and peaked at 16-24, and 35-44. "
+   ],
+   "mid_summary": [
+      "This is a multi-line chart with 5 lines representing 2006, 2013, 2014, 2015, and 2017. The y axis denotes Share of respondents and the x axis denotes Year.",
+      "Overall 2006, 2013, 2014, 2015, and 2017 are gradually decreasing,  throughout the Year",
+      "Throughout the period, 2017 generally had the highest Share of respondents relative to others with an average of 75.33, and it reached its maximum at 45-54 with a value of 83.0.",
+      "Followed by 2014 which ranks as the second topmpost line , with an average of 75.0 Share of respondents,reaching its highest point  at 35-44 with a value of 86.0. ",
+      "2006 mostly had the least Share of respondents with a mean value of 48.0, which peaked at 16-24, and 35-44 with a value of 63.0. "
+   ],
+   "max_summary": [
+      "The given chart is of multi-line type with 5 lines namely 2006, 2013, 2014, 2015, and 2017. The y axis represents Share of respondents and the x axis represents Year.",
+      "Overall 2006, 2013, 2014, 2015, and 2017 are gradually decreasing,  throughout the Year",
+      "Throughout the period, 2017 generally had the highest Share of respondents relative to others with an average of 75.33, and it reached its maximum at 45-54 with a value of 83.0.",
+      "After 2017, 2014 overall has the second highest values , with a mean value of 75.0, peaking at 35-44. ",
+      "2006 mostly had the least Share of respondents with a mean value of 48.0, which peaked at 16-24, and 35-44 with a value of 63.0. ",
+      "The minimum Share of respondents about 9.0, occured at 65+ by 2006."
    ],
    "trends": [
       {},

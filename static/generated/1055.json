@@ -1,28 +1,42 @@
 {
-   "title": "Test",
+   "title": "Global electricity consumption 1980 to 2016",
    "xAxis": "Year",
    "yAxis": "Net consumption in billion kilowatt hours",
    "columnType": "two",
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Net consumption in billion kilowatt hours, with a total of 13 data points.",
+      "This is a line chart with an x axis representing Year and a y axis representing Net consumption in billion kilowatt hours, containing a total of 13 data points.",
+      " In general Net consumption in billion kilowatt hours has rose over the Year.",
+      "Net consumption in billion kilowatt hours is slightly increasing from 1980 to 2010, and finally roughly constant from 2010 to 2016.",
+      "The line drastically ",
+      "The most drastic increase took place within the Year 2005 and 2010.",
+      "Maximum Net consumption in billion kilowatt hours, about 21801.0 was reported at Year 2016",
+      "The lowest Net consumption in billion kilowatt hours, of value 7323.0 was reported at Year 1980"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Net consumption in billion kilowatt hours. In total the number of data points it has is 13.",
+      " In general Net consumption in billion kilowatt hours has rose over the Year.",
+      "Net consumption in billion kilowatt hours is slightly increasing from 1980 to 2010, and finally roughly constant from 2010 to 2016."
+   ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Net consumption in billion kilowatt hours. In total the number of data points it has is 13.",
       " Overall Net consumption in billion kilowatt hours has increased over the Year.",
-      "Net consumption in billion kilowatt hours is slightly increasing from 1980 to 2010, and lastly roughly constant from 2010 to 2016.",
-      "The steepest increase occurs in between the Year 2005 and 2010.",
-      "Max Net consumption in billion kilowatt hours about 21801.0 was recorded at Year 2016",
-      "Min Net consumption in billion kilowatt hours about 7323.0 was recorded at Year 1980",
-      "#########################################################################",
-      "This line chart has an x axis representing Year and a y axis representing Net consumption in billion kilowatt hours with a total of 13 data points. The chart has one significant trend.",
-      " This trend is increasing which exists from 2016 to 1980."
+      "Net consumption in billion kilowatt hours is slightly increasing from 1980 to 2010, and finally roughly constant from 2010 to 2016.",
+      "The most drastic increase took place within the Year 2005 and 2010.",
+      "Maximum Net consumption in billion kilowatt hours, about 21801.0 was reported at Year 2016",
+      "The lowest Net consumption in billion kilowatt hours, of value 7323.0 was reported at Year 1980"
    ],
-   "trends": [
-      {},
-      {
-         "3": "0",
-         "14": "12"
-      }
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Net consumption in billion kilowatt hours. In total the number of data points it has is 13.",
+      " In general Net consumption in billion kilowatt hours has rose over the Year.",
+      "Net consumption in billion kilowatt hours is slightly increasing from 1980 to 2010, and finally roughly constant from 2010 to 2016.",
+      "The most drastic increase took place within the Year 2005 and 2010.",
+      "Maximum Net consumption in billion kilowatt hours, about 21801.0 was reported at Year 2016",
+      "The lowest Net consumption in billion kilowatt hours, of value 7323.0 was reported at Year 1980",
+      "The line drastically "
    ],
+   "trends": [],
    "data": [
       {
          "Year": "2016",

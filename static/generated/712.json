@@ -1,53 +1,42 @@
 {
-   "title": "Test",
+   "title": "Gross domestic product ( GDP ) per capita in Algeria 2024 ",
    "xAxis": "Year",
    "yAxis": "GDP per capita in U.S. dollars",
    "columnType": "two",
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing GDP per capita in U.S. dollars, with a total of 41 data points.",
-      " Overall GDP per capita in U.S. dollars has increased over the Year.",
-      "GDP per capita in U.S. dollars is roughly increasing from 1984 to 1985, roughly constant from 1985 to 1987, slightly decreasing from 1987 to 1988, roughly constant from 1988 to 1989, slightly increasing from 1989 to 1990, slightly decreasing from 1990 to 1991, roughly constant from 1991 to 1993, slightly decreasing from 1993 to 1994, roughly constant from 1994 to 2002, rapidly increasing from 2002 to 2008, slightly decreasing from 2008 to 2009, slightly increasing from 2009 to 2011, roughly constant from 2011 to 2014, slightly decreasing from 2014 to 2015, roughly constant from 2015 to 2023, and lastly roughly decreasing from 2023 to 2024.",
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes GDP per capita in U.S. dollars. In total the number of data points it has is 41.",
+      " In general GDP per capita in U.S. dollars has rose over the Year.",
+      "The chart in general has a zig-zag shape.",
+      "The line rapidly ",
       "The steepest decrease occurs in between the Year 2014 and 2015.",
-      "Max GDP per capita in U.S. dollars about 5574.51 was recorded at Year 2012",
-      "Min GDP per capita in U.S. dollars about 1499.14 was recorded at Year 1995",
-      "#########################################################################",
-      "This line chart has an x axis representing Year and a y axis representing GDP per capita in U.S. dollars, with a total of 41 data points. The chart has 6 significant trends.",
-      " The longest trend is extremely increasing which exists from 2001 to 2012.",
-      " Likewise, the next significant trend is slightly decreasing which exists from 2012 to 2019.",
-      " On the contrary, the next significant trend is moderately increasing which exists from 1995 to 2001.",
-      " Additionally, the next significant trend is moderately decreasing which exists from 1984 to 1990.",
-      " But, the next significant trend is moderately increasing which exists from 2019 to 2024.",
-      " In a similar manner, the next significant trend is slightly decreasing which exists from 1990 to 1995."
+      "Maximum GDP per capita in U.S. dollars, about 5574.51 was reported at Year 2012",
+      "The lowest GDP per capita in U.S. dollars, of value 1499.14 was reported at Year 1995"
    ],
-   "trends": [
-      {},
-      {
-         "1": "12",
-         "12": "23"
-      },
-      {
-         "3": "5",
-         "14": "12"
-      },
-      {
-         "3": "23",
-         "14": "29"
-      },
-      {
-         "3": "34",
-         "14": "40"
-      },
-      {
-         "3": "0",
-         "14": "5"
-      },
-      {
-         "3": "29",
-         "14": "34"
-      }
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes GDP per capita in U.S. dollars. In total the number of data points it has is 41.",
+      " Overall GDP per capita in U.S. dollars has increased over the Year."
    ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes GDP per capita in U.S. dollars. In total the number of data points it has is 41.",
+      " Overall GDP per capita in U.S. dollars has increased over the Year.",
+      "The most drastic decrease took place within the Year 2014 and 2015.",
+      "Maximum GDP per capita in U.S. dollars, about 5574.51 was reported at Year 2012",
+      "The lowest GDP per capita in U.S. dollars, of value 1499.14 was reported at Year 1995"
+   ],
+   "max_summary": [
+      "The chart generally has many fluctuations.",
+      "The chart in general has a zig-zag shape.",
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes GDP per capita in U.S. dollars. In total the number of data points it has is 41.",
+      " Overall GDP per capita in U.S. dollars has increased over the Year.",
+      "The chart generally has many fluctuations.",
+      "The most drastic decrease took place within the Year 2014 and 2015.",
+      "Maximum GDP per capita in U.S. dollars, about 5574.51 was reported at Year 2012",
+      "The lowest GDP per capita in U.S. dollars, of value 1499.14 was reported at Year 1995",
+      "The line significantly "
+   ],
+   "trends": [],
    "data": [
       {
          "Year": "2024",

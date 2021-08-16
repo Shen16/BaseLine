@@ -1,53 +1,38 @@
 {
-   "title": "Test",
+   "title": "Common share price of Royal Bank of Canada 1995 to 2019",
    "xAxis": "Year",
    "yAxis": "Share price in Canadian dollars",
    "columnType": "two",
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Share price in Canadian dollars, with a total of 25 data points.",
+      "This is a line chart with an x axis representing Year and a y axis representing Share price in Canadian dollars, containing a total of 25 data points.",
+      " In general Share price in Canadian dollars has rose over the Year.",
+      "The line rapidly ",
+      "The most drastic decrease took place within the Year 2005 and 2006.",
+      "Maximum Share price in Canadian dollars, about 102.75 was reported at Year 2019",
+      "Minimum Share price in Canadian dollars about 31.13 was reached at Year 1995"
+   ],
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Share price in Canadian dollars, containing a total of 25 data points.",
+      " In general Share price in Canadian dollars has rose over the Year."
+   ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Share price in Canadian dollars, containing a total of 25 data points.",
       " Overall Share price in Canadian dollars has increased over the Year.",
-      "Share price in Canadian dollars is rapidly increasing from 1995 to 1997, roughly constant from 1997 to 1998, roughly decreasing from 1998 to 1999, roughly constant from 1999 to 2004, slightly increasing from 2004 to 2005, slightly decreasing from 2005 to 2006, roughly constant from 2006 to 2007, slightly decreasing from 2007 to 2008, slightly increasing from 2008 to 2009, roughly constant from 2009 to 2011, slightly increasing from 2011 to 2013, roughly constant from 2013 to 2015, slightly increasing from 2015 to 2016, and lastly roughly constant from 2016 to 2019.",
+      "The most drastic decrease took place within the Year 2005 and 2006.",
+      "Maximum Share price in Canadian dollars, about 102.75 was reported at Year 2019",
+      "Minimum Share price in Canadian dollars about 31.13 was reached at Year 1995"
+   ],
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Share price in Canadian dollars. In total the number of data points it has is 25.",
+      " In general Share price in Canadian dollars has rose over the Year.",
       "The steepest decrease occurs in between the Year 2005 and 2006.",
-      "Max Share price in Canadian dollars about 102.75 was recorded at Year 2019",
-      "Min Share price in Canadian dollars about 31.13 was recorded at Year 1995",
-      "#########################################################################",
-      "This line chart has an x axis representing Year and a y axis representing Share price in Canadian dollars, with a total of 25 data points. The chart has 6 significant trends.",
-      " The longest trend is extremely increasing which exists from 2000 to 2005.",
-      " In a similar manner, the next significant trend is extremely increasing which exists from 1995 to 2000.",
-      " Likewise, the next significant trend is extremely increasing which exists from 2015 to 2019.",
-      " Similarly, the next significant trend is extremely increasing which exists from 2011 to 2015.",
-      " Additionally, the next significant trend is extremely increasing which exists from 2008 to 2011.",
-      " Also, the next significant trend is slightly decreasing which exists from 2005 to 2008."
+      "Maximum Share price in Canadian dollars, about 102.75 was reported at Year 2019",
+      "Minimum Share price in Canadian dollars about 31.13 was reached at Year 1995",
+      "The line rapidly "
    ],
-   "trends": [
-      {},
-      {
-         "1": "14",
-         "12": "19"
-      },
-      {
-         "3": "19",
-         "14": "24"
-      },
-      {
-         "3": "0",
-         "14": "4"
-      },
-      {
-         "3": "4",
-         "14": "8"
-      },
-      {
-         "3": "8",
-         "14": "11"
-      },
-      {
-         "3": "11",
-         "14": "14"
-      }
-   ],
+   "trends": [],
    "data": [
       {
          "Year": "2019",

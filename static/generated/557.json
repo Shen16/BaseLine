@@ -1,18 +1,32 @@
 {
-   "title": "Test",
+   "title": "Lead reserves worldwide by country 2019",
    "xAxis": "Country",
    "yAxis": "Reserves in million metric tons",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 12 categories on the x axis representing Country, and Reserves in million metric tons in each Country on the y axis.",
-      " The highest category is found at Australia where Reserves in million metric tons is 36.0.",
-      " Followed by 36.0 in .",
-      " The lowest category is found at Other countries where Reserves in million metric tons is 0.0.",
-      " The highest value at Australia is almost 3600000000000.0 times larger than the minimum value of Other countries. ",
-      " The highest value at Australia is almost 3600000000000.0 times larger than the minimum value of Other countries. ",
-      " The difference between the max Country Australia and min Country Other countries is 36.0. "
+      "This is a bar chart representing Country in the x axis and Reserves in million metric tons in the y axis. ",
+      "Country Australia has the highest Reserves in million metric tons and Other countries has the lowest Reserves in million metric tons. ",
+      "The difference of Reserves in million metric tons between the highest and lowest Country is 36.0. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing Country in the x axis and Reserves in million metric tons in the y axis. ",
+      "The Reserves in million metric tons is highest at Country Australia and lowest at Country Other countries. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Country in the x axis and Reserves in million metric tons in the y axis. ",
+      "Country Australia has the highest Reserves in million metric tons and Other countries has the lowest Reserves in million metric tons. ",
+      "The difference of Reserves in million metric tons between the highest and lowest Country is 36.0. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Country in the x axis and Reserves in million metric tons in the y axis. ",
+      "The Reserves in million metric tons is highest at Country Australia and lowest at Country Other countries. ",
+      "The second highest Reserves in million metric tons is appeared to be the Country . ",
+      "The highest Country Australia has 36.0 more Reserves in million metric tons than the lowest Country Other countries. ",
+      "Country Australia is higher than any other Countrys with value 36.0, followed by , and Russia. Down to Country Other countries with the lowest value 0.0. ",
+      "The lowest value 0.0 at Other countries is almost 5.06 times smaller than the average value 7.11. ",
+      "The Reserves in million metric tons is 85.36 if we add up values of all Countrys. "
    ],
    "trends": [
       {},

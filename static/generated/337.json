@@ -1,48 +1,38 @@
 {
-   "title": "Test",
+   "title": "UEFA ( Union of European Football Associations ) total revenue 2004 to 2018",
    "xAxis": "Year",
    "yAxis": "Revenue in million euros",
    "columnType": "two",
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Revenue in million euros, with a total of 14 data points.",
+      "This is a line chart with an x axis representing Year and a y axis representing Revenue in million euros, containing a total of 14 data points.",
       " Overall Revenue in million euros has increased over the Year.",
-      "Revenue in million euros is roughly constant from 2004/05 to 2005/06, gradually increasing from 2005/06 to 2007/08, slightly decreasing from 2007/08 to 2008/09, slightly increasing from 2008/09 to 2009/10, roughly constant from 2009/10 to 2010/11, slightly increasing from 2010/11 to 2011/12, roughly constant from 2011/12 to 2014/15, slightly increasing from 2014/15 to 2015/16, and lastly roughly constant from 2015/16 to 2017/18.",
+      "The line significantly increased by 1411.6 from Year 2010/11 to 2011/12, and lastly, increased by 2480.39 from Year 2014/15 to 2015/16.",
+      "The most drastic increase took place within the Year 2014/15 and 2015/16.",
+      "The highest Revenue in million euros, of value 4579.8 was reached at Year 2015/16",
+      "Minimum Revenue in million euros about 659.2 was reached at Year 2004/05"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Revenue in million euros. In total the number of data points it has is 14.",
+      " Overall Revenue in million euros has increased over the Year."
+   ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Revenue in million euros. In total the number of data points it has is 14.",
+      " Overall Revenue in million euros has increased over the Year.",
       "The steepest increase occurs in between the Year 2014/15 and 2015/16.",
-      "Max Revenue in million euros about 4579.8 was recorded at Year 2015/16",
-      "Min Revenue in million euros about 659.2 was recorded at Year 2004/05",
-      "#########################################################################",
-      "This line chart has an x axis representing Year and a y axis representing Revenue in million euros, with a total of 14 data points. The chart has 5 significant trends.",
-      " The longest trend is moderately increasing which exists from 2004/05 to 2008/09.",
-      " Also, the next significant trend is extremely increasing which exists from 2012/13 to 2015/16.",
-      " Also, the next significant trend is slightly decreasing which exists from 2015/16 to 2017/18.",
-      " But, the next significant trend is moderately increasing which exists from 2010/11 to 2012/13.",
-      " Similarly, the next significant trend is moderately increasing which exists from 2008/09 to 2010/11."
+      "The highest Revenue in million euros, of value 4579.8 was reached at Year 2015/16",
+      "Minimum Revenue in million euros about 659.2 was reached at Year 2004/05"
    ],
-   "trends": [
-      {},
-      {
-         "1": "9",
-         "12": "13"
-      },
-      {
-         "3": "2",
-         "14": "5"
-      },
-      {
-         "3": "0",
-         "14": "2"
-      },
-      {
-         "3": "5",
-         "14": "7"
-      },
-      {
-         "3": "7",
-         "14": "9"
-      }
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Revenue in million euros. In total the number of data points it has is 14.",
+      " In general Revenue in million euros has rose over the Year.",
+      "The steepest increase occurs in between the Year 2014/15 and 2015/16.",
+      "The highest Revenue in million euros, of value 4579.8 was reached at Year 2015/16",
+      "Minimum Revenue in million euros about 659.2 was reached at Year 2004/05",
+      "The line significantly increased by 1411.6 from Year 2010/11 to 2011/12, and lastly, increased by 2480.39 from Year 2014/15 to 2015/16."
    ],
+   "trends": [],
    "data": [
       {
          "Year": "2017/18",

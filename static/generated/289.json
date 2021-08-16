@@ -1,18 +1,31 @@
 {
-   "title": "Test",
+   "title": "Leading games on Twitch as of July 2019 , by hours viewed",
    "xAxis": "Video Game",
    "yAxis": "Number of hours in millions",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 10 categories on the x axis representing Video Game, and Number of hours in millions in each Video Game on the y axis.",
-      " The highest category is found at Fortnite where Number of hours in millions is 24.8.",
-      " Followed by 24.8 in .",
-      " The lowest category is found at Apex Legends where Number of hours in millions is 4.0.",
-      " The highest value at Fortnite is almost 6.2 times larger than the minimum value of Apex Legends. ",
-      " The highest value at Fortnite is almost 6.2 times larger than the minimum value of Apex Legends. ",
-      " The difference between the max Video Game Fortnite and min Video Game Apex Legends is 20.8. "
+      "This is a bar chart representing Video Game in the x axis and Number of hours in millions in the y axis. ",
+      "The Number of hours in millions is appeared to be the highest at Video Game Fortnite and lowest at Video Game Apex Legends. ",
+      "The Number of hours in millions of Video Game Apex Legends is 6.2% smaller than the maximum value at Fortnite. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Number of hours in millions for 10 number of Video Games. ",
+      "The Number of hours in millions is appeared to be the highest at Video Game Fortnite and lowest at Video Game Apex Legends. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Video Game in the x axis and Number of hours in millions in the y axis. ",
+      "The Number of hours in millions is appeared to be the highest at Video Game Fortnite and lowest at Video Game Apex Legends. ",
+      "The Number of hours in millions of Video Game Apex Legends is 6.2% smaller than the maximum value at Fortnite. "
+   ],
+   "max_summary": [
+      "This bar chart has 10 columns on the x axis representing Video Game, and Number of hours in millions in each Video Game on the y axis. ",
+      "The maximum Number of hours in millions 24.8 is found at Video Game Fortnite and the minimum is found at Apex Legends where Video Game is 4.0. ",
+      "The second highest Number of hours in millions is appeared to be the Video Game . ",
+      "There is a difference of 20.8 between the maximum Video Game Fortnite and minimum Video Game Apex Legends. ",
+      "The Video Game Fortnite has the highest Number of hours in millions, followed by , and GTA V. Down to the Video Game Apex Legends which is the lowest. ",
+      "The lowest value 4.0 at Apex Legends is almost 2.41 times smaller than the average value 10.29. "
    ],
    "trends": [
       {},

@@ -1,16 +1,30 @@
 {
-   "title": "Test",
+   "title": "Death toll in great earthquakes as of 2016",
    "xAxis": "Earthquake",
    "yAxis": "Death toll",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 10 categories on the x axis representing Earthquake, and Death toll in each Earthquake on the y axis.",
-      "Tangshan (China 1976) is higher than any other categories with value 242000.0, followed by , and Nanchang (China 1927). Down to category Muzaffarabad (Pakistan 2005) with the lowest value of 73338.0. ",
-      " The highest value at Tangshan (China 1976) is almost 3.3 times larger than the minimum value of Muzaffarabad (Pakistan 2005). ",
-      " The highest value at Tangshan (China 1976) is almost 3.3 times larger than the minimum value of Muzaffarabad (Pakistan 2005). ",
-      " The difference between the max Earthquake Tangshan (China 1976) and min Earthquake Muzaffarabad (Pakistan 2005) is 168662.0. "
+      "This is a bar chart. It shows Death toll for 10 number of Earthquakes. ",
+      "The Death toll is highest at Earthquake Tangshan (China 1976) and lowest at Earthquake Muzaffarabad (Pakistan 2005). ",
+      "The highest Earthquake Tangshan (China 1976) has 168662.0 more Death toll than the lowest Earthquake Muzaffarabad (Pakistan 2005). "
+   ],
+   "min_summary": [
+      "This is a bar chart representing Earthquake in the x axis and Death toll in the y axis. ",
+      "The Death toll is appeared to be the highest at Earthquake Tangshan (China 1976) and lowest at Earthquake Muzaffarabad (Pakistan 2005). "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Death toll for 10 number of Earthquakes. ",
+      "The Death toll is highest at Earthquake Tangshan (China 1976) and lowest at Earthquake Muzaffarabad (Pakistan 2005). ",
+      "The highest Earthquake Tangshan (China 1976) has 168662.0 more Death toll than the lowest Earthquake Muzaffarabad (Pakistan 2005). "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Death toll for 10 number of Earthquakes. ",
+      "The Death toll is appeared to be the highest at Earthquake Tangshan (China 1976) and lowest at Earthquake Muzaffarabad (Pakistan 2005). ",
+      "The difference of Death toll between the highest and lowest Earthquake is 168662.0. ",
+      "The Earthquake Tangshan (China 1976) has the highest Death toll, followed by , and Nanchang (China 1927). Down to the Earthquake Muzaffarabad (Pakistan 2005) which is the lowest. ",
+      "The Earthquake Tangshan (China 1976) has 1.61 times more Death toll than average. "
    ],
    "trends": [
       {},

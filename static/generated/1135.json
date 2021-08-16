@@ -1,16 +1,32 @@
 {
-   "title": "Test",
+   "title": "Burglary rate , by state U.S. 2018",
    "xAxis": "State",
    "yAxis": "Burglary rate per 100,000 inhabitants",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 52 categories on the x axis representing State, and Burglary rate per 100,000 inhabitants in each State on the y axis.",
-      "New Mexico is higher than any other categories with value 767.8, followed by , and Oklahoma. Down to category New Hampshire with the lowest value of 136.2. ",
-      " The highest value at New Mexico is almost 5.64 times larger than the minimum value of New Hampshire. ",
-      " The highest value at New Mexico is almost 5.64 times larger than the minimum value of New Hampshire. ",
-      " The difference between the max State New Mexico and min State New Hampshire is 631.5999999999999. "
+      "This bar chart has 52 columns on the x axis representing State, and Burglary rate per 100,000 inhabitants in each State on the y axis. ",
+      "The Burglary rate per 100,000 inhabitants is highest at State New Mexico and lowest at State New Hampshire. ",
+      "The difference of Burglary rate per 100,000 inhabitants between the highest and lowest State is 631.6. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Burglary rate per 100,000 inhabitants for 52 number of States. ",
+      "State New Mexico has the highest Burglary rate per 100,000 inhabitants and New Hampshire has the lowest Burglary rate per 100,000 inhabitants. "
+   ],
+   "mid_summary": [
+      "This bar chart has 52 columns on the x axis representing State, and Burglary rate per 100,000 inhabitants in each State on the y axis. ",
+      "The Burglary rate per 100,000 inhabitants is highest at State New Mexico and lowest at State New Hampshire. ",
+      "The difference of Burglary rate per 100,000 inhabitants between the highest and lowest State is 631.6. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing State in the x axis and Burglary rate per 100,000 inhabitants in the y axis. ",
+      "The maximum Burglary rate per 100,000 inhabitants 767.8 is found at State New Mexico and the minimum is found at New Hampshire where State is 136.2. ",
+      "Second maximum Burglary rate per 100,000 inhabitants is found at State . ",
+      "The difference of Burglary rate per 100,000 inhabitants between the highest and lowest State is 631.6. ",
+      "Burglary rate per 100,000 inhabitants at State New Mexico is 767.8 , second place is  at 767.8, and thirdly is Oklahoma at 681.1.",
+      "The average Burglary rate per 100,000 inhabitants in all 52 States is 380.94. ",
+      "The Burglary rate per 100,000 inhabitants is 19808.8 if we add up values of all States. "
    ],
    "trends": [
       {},

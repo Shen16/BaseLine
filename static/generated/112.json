@@ -1,5 +1,5 @@
 {
-   "title": "Test",
+   "title": "Alphabet : number of full-time employees 2016 , by department",
    "labels": [
       "Year",
       "Research and development",
@@ -11,15 +11,42 @@
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This is a multi-line chart with 4 lines representing Research and development, Sales and marketing, General and administrative, and Operations. ",
-      "The line for Research and development has the highest values across Year with a mean value of 16171.78, ",
-      "and it peaked at 2016 with a value of 27169.0.",
-      "Followed by Sales and marketing, with a mean value of 13812.2. ",
-      "This line peaked at 2016 with a value of 20902.0. ",
-      "General and administrative mostly had the least y-axis name with a mean value of 5831.22, ",
-      "which peaked at 2016 with a value of 9695.0. ",
-      "Operations reported the lowest y-axis name  about 1857.0 in Year 2008",
-      "Overall Research and development is rapidly increasing, Sales and marketing, General and administrative, and Operations are gradually increasing,  throughout the Year"
+      "The given chart is of multi-line type with 4 lines namely Research and development, Sales and marketing, General and administrative, and Operations. The y axis represents Number of employees and the x axis represents Year.",
+      "Overall Research and development is rapidly increasing, Sales and marketing, General and administrative, and Operations are gradually increasing,  throughout the Year",
+      "The ranking of the lines from topmost to botommmost is as follows: 1. Research and development, 2. Sales and marketing, 3. Operations, and lastly, 4. General and administrative. ",
+      "Overall across the Year, Research and development mostly maintained the highest Number of employees when compared to others with a mean value of 16171.78, and it peaked at 2016.",
+      "After Research and development, Sales and marketing overall has the second highest values , with a mean value of 13812.2, peaking at 2016. ",
+      "General and administrative mostly had the least Number of employees with a mean value of 5831.22, which peaked at 2016 with a value of 9695.0. ",
+      "Operations reported the lowest Number of employees about 1857.0 in Year 2008",
+      "Research and development has increased by 3.7 times."
+   ],
+   "xAxis": "Year",
+   "yAxis": "Number of employees",
+   "min_summary": [
+      "You are viewing a chart of multi-line type with 4 lines denoting Research and development, Sales and marketing, General and administrative, and Operations. The y axis indicates the Number of employees and the x axis indicates Year.",
+      "Overall Research and development is rapidly increasing, Sales and marketing, General and administrative, and Operations are gradually increasing,  throughout the Year",
+      "Throughout the period, Research and development generally had the highest Number of employees relative to others with an average of 16171.78, and it reached its maximum at 2016 with a value of 27169.0.",
+      "Followed by Sales and marketing which ranks as the second topmpost line , with an average of 13812.2 Number of employees,reaching its highest point  at 2016 with a value of 20902.0. ",
+      "The botommost line, General and administrative,  has a mean of 5831.22, and peaked at 2016. "
+   ],
+   "mid_summary": [
+      "You are viewing a chart of multi-line type with 4 lines denoting Research and development, Sales and marketing, General and administrative, and Operations. The y axis indicates the Number of employees and the x axis indicates Year.",
+      "Overall Research and development is rapidly increasing, Sales and marketing, General and administrative, and Operations are gradually increasing,  throughout the Year",
+      "Research and development has increased by 3.7 times.",
+      "The ranking of the lines from topmost to botommmost is as follows: 1. Research and development, 2. Sales and marketing, 3. Operations, and lastly, 4. General and administrative. ",
+      "Overall across the Year, Research and development mostly maintained the highest Number of employees when compared to others with a mean value of 16171.78, and it peaked at 2016.",
+      "Followed by Sales and marketing which ranks as the second topmpost line , with an average of 13812.2 Number of employees,reaching its highest point  at 2016 with a value of 20902.0. ",
+      "General and administrative mostly had the least Number of employees with a mean value of 5831.22, which peaked at 2016 with a value of 9695.0. "
+   ],
+   "max_summary": [
+      "The given chart is of multi-line type with 4 lines namely Research and development, Sales and marketing, General and administrative, and Operations. The y axis represents Number of employees and the x axis represents Year.",
+      "Overall Research and development is rapidly increasing, Sales and marketing, General and administrative, and Operations are gradually increasing,  throughout the Year",
+      "Research and development has increased by 3.7 times.",
+      "The ranking of the lines from topmost to botommmost is as follows: 1. Research and development, 2. Sales and marketing, 3. Operations, and lastly, 4. General and administrative. ",
+      "Throughout the period, Research and development generally had the highest Number of employees relative to others with an average of 16171.78, and it reached its maximum at 2016 with a value of 27169.0.",
+      "Followed by Sales and marketing which ranks as the second topmpost line , with an average of 13812.2 Number of employees,reaching its highest point  at 2016 with a value of 20902.0. ",
+      "General and administrative mostly had the least Number of employees with a mean value of 5831.22, which peaked at 2016 with a value of 9695.0. ",
+      "Operations reported the lowest Number of employees about 1857.0 in Year 2008"
    ],
    "trends": [
       {},

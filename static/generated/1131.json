@@ -1,28 +1,42 @@
 {
-   "title": "Test",
+   "title": "Global revenue of Birkenstock 2012 to 2013",
    "xAxis": "Year",
    "yAxis": "Revenue in million euros",
    "columnType": "two",
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Revenue in million euros, with a total of 2 data points.",
+      "This is a line chart with an x axis representing Year and a y axis representing Revenue in million euros, containing a total of 2 data points.",
+      " In general Revenue in million euros has stayed the same over the Year.",
+      "Revenue in million euros is slightly increasing from 2012 to 2013.",
+      "The line rapidly ",
+      "The most drastic increase took place within the Year 2012 and 2013.",
+      "Maximum Revenue in million euros, about 14525.69 was reported at Year 2013",
+      "Minimum Revenue in million euros about 14109.4 was reached at Year 2012"
+   ],
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Revenue in million euros, containing a total of 2 data points.",
+      " In general Revenue in million euros has stayed the same over the Year.",
+      "Revenue in million euros is slightly increasing from 2012 to 2013."
+   ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Revenue in million euros, containing a total of 2 data points.",
+      " In general Revenue in million euros has stayed the same over the Year.",
+      "Revenue in million euros is slightly increasing from 2012 to 2013.",
+      "The steepest increase occurs in between the Year 2012 and 2013.",
+      "Maximum Revenue in million euros, about 14525.69 was reported at Year 2013",
+      "Minimum Revenue in million euros about 14109.4 was reached at Year 2012"
+   ],
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Revenue in million euros. In total the number of data points it has is 2.",
       " Overall Revenue in million euros has increased over the Year.",
       "Revenue in million euros is slightly increasing from 2012 to 2013.",
       "The steepest increase occurs in between the Year 2012 and 2013.",
-      "Max Revenue in million euros about 14525.69 was recorded at Year 2013",
-      "Min Revenue in million euros about 14109.4 was recorded at Year 2012",
-      "#########################################################################",
-      "This line chart has an x axis representing Year and a y axis representing Revenue in million euros with a total of 2 data points. The chart has one significant trend.",
-      " This trend is increasing which exists from 2013 to 2012."
+      "Maximum Revenue in million euros, about 14525.69 was reported at Year 2013",
+      "Minimum Revenue in million euros about 14109.4 was reached at Year 2012",
+      "The line rapidly "
    ],
-   "trends": [
-      {},
-      {
-         "3": "0",
-         "14": "1"
-      }
-   ],
+   "trends": [],
    "data": [
       {
          "Year": "2013",

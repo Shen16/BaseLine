@@ -1,16 +1,31 @@
 {
-   "title": "Test",
+   "title": "Population of metropolitan areas in the U.S. 2018",
    "xAxis": "Metropolitan Areas",
    "yAxis": "Number of residents in thousands",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 50 categories on the x axis representing Metropolitan Areas, and Number of residents in thousands in each Metropolitan Areas on the y axis.",
-      "New York-Newark-Jersey City NY-NJ-PA is higher than any other categories with value 19979.48, followed by , and Chicago-Naperville-Elgin IL-IN-WI. Down to category Buffalo-Cheektowaga-Niagara Falls NY with the lowest value of 1130.15. ",
-      " The highest value at New York-Newark-Jersey City NY-NJ-PA is almost 17.68 times larger than the minimum value of Buffalo-Cheektowaga-Niagara Falls NY. ",
-      " The highest value at New York-Newark-Jersey City NY-NJ-PA is almost 17.68 times larger than the minimum value of Buffalo-Cheektowaga-Niagara Falls NY. ",
-      " The difference between the max Metropolitan Areas New York-Newark-Jersey City NY-NJ-PA and min Metropolitan Areas Buffalo-Cheektowaga-Niagara Falls NY is 18849.329999999998. "
+      "This bar chart has 50 columns on the x axis representing Metropolitan Areas, and Number of residents in thousands in each Metropolitan Areas on the y axis. ",
+      "The Number of residents in thousands is highest at Metropolitan Areas New York-Newark-Jersey City NY-NJ-PA and lowest at Metropolitan Areas Buffalo-Cheektowaga-Niagara Falls NY. ",
+      "There is a difference of 18849.33 between the maximum Metropolitan Areas New York-Newark-Jersey City NY-NJ-PA and minimum Metropolitan Areas Buffalo-Cheektowaga-Niagara Falls NY. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing Metropolitan Areas in the x axis and Number of residents in thousands in the y axis. ",
+      "Metropolitan Areas New York-Newark-Jersey City NY-NJ-PA has the highest Number of residents in thousands and Buffalo-Cheektowaga-Niagara Falls NY has the lowest Number of residents in thousands. "
+   ],
+   "mid_summary": [
+      "This bar chart has 50 columns on the x axis representing Metropolitan Areas, and Number of residents in thousands in each Metropolitan Areas on the y axis. ",
+      "The Number of residents in thousands is highest at Metropolitan Areas New York-Newark-Jersey City NY-NJ-PA and lowest at Metropolitan Areas Buffalo-Cheektowaga-Niagara Falls NY. ",
+      "There is a difference of 18849.33 between the maximum Metropolitan Areas New York-Newark-Jersey City NY-NJ-PA and minimum Metropolitan Areas Buffalo-Cheektowaga-Niagara Falls NY. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Metropolitan Areas in the x axis and Number of residents in thousands in the y axis. ",
+      "The Number of residents in thousands is highest at Metropolitan Areas New York-Newark-Jersey City NY-NJ-PA and lowest at Metropolitan Areas Buffalo-Cheektowaga-Niagara Falls NY. ",
+      "Second maximum Number of residents in thousands is found at Metropolitan Areas . ",
+      "There is a difference of 18849.33 between the maximum Metropolitan Areas New York-Newark-Jersey City NY-NJ-PA and minimum Metropolitan Areas Buffalo-Cheektowaga-Niagara Falls NY. ",
+      "Number of residents in thousands at Metropolitan Areas New York-Newark-Jersey City NY-NJ-PA is 19979.48 , second place is  at 19979.48, and thirdly is Chicago-Naperville-Elgin IL-IN-WI at 9498.72.",
+      "The Metropolitan Areas Buffalo-Cheektowaga-Niagara Falls NY has 5.53 times less Number of residents in thousands than average. "
    ],
    "trends": [
       {},

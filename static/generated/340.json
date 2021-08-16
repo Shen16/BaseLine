@@ -1,28 +1,42 @@
 {
-   "title": "Test",
+   "title": "YouTube usage penetration in the United States 2019 , by age group",
    "xAxis": "Year",
    "yAxis": "Reach",
    "columnType": "two",
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Reach, with a total of 5 data points.",
-      " Overall Reach has increased over the Year.",
-      "Reach is slightly increasing from 56+_years to 46-55_years, roughly constant from 46-55_years to 36-45_years, and lastly slightly increasing from 36-45_years to 15-25_years.",
-      "The steepest increase occurs in between the Year 26-35_years and 15-25_years.",
-      "Max Reach about 81.0 was recorded at Year 15-25_years",
-      "Min Reach about 58.0 was recorded at Year 56+_years",
-      "#########################################################################",
-      "This line chart has an x axis representing Year and a y axis representing Reach with a total of 5 data points. The chart has one significant trend.",
-      " This trend is increasing which exists from 15-25_years to 56+_years."
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Reach. In total the number of data points it has is 5.",
+      " Overall Reach has decreased over the Year.",
+      "Reach is slightly decreasing from 15-25_years to 26-35_years, roughly constant from 26-35_years to 46-55_years, and finally slightly decreasing from 46-55_years to 56+_years.",
+      "The line rapidly ",
+      "The steepest decrease occurs in between the Year 15-25_years and 26-35_years.",
+      "The highest Reach, of value 81.0 was reached at Year 15-25_years",
+      "The lowest Reach, of value 58.0 was reported at Year 56+_years"
    ],
-   "trends": [
-      {},
-      {
-         "3": "0",
-         "14": "4"
-      }
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Reach, containing a total of 5 data points.",
+      " Overall Reach has decreased over the Year.",
+      "Reach is slightly decreasing from 15-25_years to 26-35_years, roughly constant from 26-35_years to 46-55_years, and finally slightly decreasing from 46-55_years to 56+_years."
    ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Reach. In total the number of data points it has is 5.",
+      " In general Reach has fallen over the Year.",
+      "Reach is slightly decreasing from 15-25_years to 26-35_years, roughly constant from 26-35_years to 46-55_years, and finally slightly decreasing from 46-55_years to 56+_years.",
+      "The most drastic decrease took place within the Year 15-25_years and 26-35_years.",
+      "The highest Reach, of value 81.0 was reached at Year 15-25_years",
+      "The lowest Reach, of value 58.0 was reported at Year 56+_years"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Reach, containing a total of 5 data points.",
+      " Overall Reach has decreased over the Year.",
+      "Reach is slightly decreasing from 15-25_years to 26-35_years, roughly constant from 26-35_years to 46-55_years, and finally slightly decreasing from 46-55_years to 56+_years.",
+      "The steepest decrease occurs in between the Year 15-25_years and 26-35_years.",
+      "The highest Reach, of value 81.0 was reached at Year 15-25_years",
+      "The lowest Reach, of value 58.0 was reported at Year 56+_years",
+      "The line significantly "
+   ],
+   "trends": [],
    "data": [
       {
          "Year": "15-25 years",

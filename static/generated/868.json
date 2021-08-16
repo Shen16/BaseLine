@@ -1,18 +1,33 @@
 {
-   "title": "Test",
+   "title": "Countries with the largest Jewish population in 2010",
    "xAxis": "Country",
    "yAxis": "Estimated Jewish population in thousand",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 25 categories on the x axis representing Country, and Estimated Jewish population in thousand in each Country on the y axis.",
-      " The highest category is found at United States where Estimated Jewish population in thousand is 5690.0.",
-      " Followed by 5690.0 in .",
-      " The lowest category is found at Austria where Estimated Jewish population in thousand is 10.0.",
-      " The highest value at United States is almost 569.0 times larger than the minimum value of Austria. ",
-      " The highest value at United States is almost 569.0 times larger than the minimum value of Austria. ",
-      " The difference between the max Country United States and min Country Austria is 5680.0. "
+      "This bar chart has 25 columns on the x axis representing Country, and Estimated Jewish population in thousand in each Country on the y axis. ",
+      "Country United States has the highest Estimated Jewish population in thousand and Austria has the lowest Estimated Jewish population in thousand. ",
+      "There is a difference of 5680.0 between the maximum Country United States and minimum Country Austria. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Estimated Jewish population in thousand for 25 number of Countrys. ",
+      "Country United States has the highest Estimated Jewish population in thousand and Austria has the lowest Estimated Jewish population in thousand. "
+   ],
+   "mid_summary": [
+      "This bar chart has 25 columns on the x axis representing Country, and Estimated Jewish population in thousand in each Country on the y axis. ",
+      "Country United States has the highest Estimated Jewish population in thousand and Austria has the lowest Estimated Jewish population in thousand. ",
+      "There is a difference of 5680.0 between the maximum Country United States and minimum Country Austria. "
+   ],
+   "max_summary": [
+      "This bar chart has 25 columns on the x axis representing Country, and Estimated Jewish population in thousand in each Country on the y axis. ",
+      "The Estimated Jewish population in thousand is highest at Country United States and lowest at Country Austria. ",
+      "Second maximum Estimated Jewish population in thousand is found at Country . ",
+      "The highest Country United States has 5680.0 more Estimated Jewish population in thousand than the lowest Country Austria. ",
+      "Country United States is higher than any other Countrys with value 5690.0, followed by , and Canada. Down to Country Austria with the lowest value 10.0. ",
+      "Country Chile, Moldova, Switzerland, and Turkey have the same Estimated Jewish population in thousand. ",
+      "The Country United States tends to be 10.46 percent higher than average. ",
+      "Summing up the values of all Countrys, we get total 13600.0. "
    ],
    "trends": [
       {},

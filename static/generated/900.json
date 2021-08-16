@@ -1,58 +1,42 @@
 {
-   "title": "Test",
+   "title": "Inflation rate in Nepal 2024",
    "xAxis": "Year",
    "yAxis": "Inflation rate compared to previous year",
    "columnType": "two",
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Inflation rate compared to previous year, with a total of 41 data points.",
+      "This is a line chart with an x axis representing Year and a y axis representing Inflation rate compared to previous year, containing a total of 41 data points.",
       " Overall Inflation rate compared to previous year has decreased over the Year.",
-      "Inflation rate compared to previous year is gradually increasing from 1984 to 1986, roughly constant from 1986 to 1991, rapidly increasing from 1991 to 1992, slightly decreasing from 1992 to 1993, roughly constant from 1993 to 1998, slightly decreasing from 1998 to 2000, roughly constant from 2000 to 2002, slightly increasing from 2002 to 2003, roughly constant from 2003 to 2005, slightly increasing from 2005 to 2006, roughly constant from 2006 to 2008, slightly increasing from 2008 to 2009, roughly constant from 2009 to 2014, roughly increasing from 2014 to 2015, slightly decreasing from 2015 to 2017, and lastly roughly constant from 2017 to 2024.",
+      "The chart in general has a zig-zag shape.",
+      "The line significantly increased by 11.72 from Year 1985 to 1986,increased by 13.12 from Year 1991 to 1992,decreased by 7.99 from Year 1999 to 2000,increased by 3.42 from Year 2005 to 2006, and lastly, increased by 5.94 from Year 2008 to 2009.",
       "The steepest increase occurs in between the Year 1991 and 1992.",
-      "Max Inflation rate compared to previous year about 21.06 was recorded at Year 1992",
-      "Min Inflation rate compared to previous year about 2.44 was recorded at Year 2001",
-      "#########################################################################",
-      "This line chart has an x axis representing Year and a y axis representing Inflation rate compared to previous year, with a total of 41 data points. The chart has 7 significant trends.",
-      " The longest trend is extremely increasing which exists from 2018 to 2024.",
-      " Additionally, the next significant trend is extremely increasing which exists from 2007 to 2013.",
-      " Similarly, the next significant trend is extremely increasing which exists from 2001 to 2007.",
-      " Additionally, the next significant trend is slightly decreasing which exists from 2013 to 2018.",
-      " Differently, the next significant trend is moderately increasing which exists from 1996 to 2001.",
-      " Likewise, the next significant trend is slightly increasing which exists from 1991 to 1996.",
-      " Likewise, the next significant trend is slightly decreasing which exists from 1986 to 1991."
+      "Maximum Inflation rate compared to previous year, about 21.06 was reported at Year 1992",
+      "The lowest Inflation rate compared to previous year, of value 2.44 was reported at Year 2001"
    ],
-   "trends": [
-      {},
-      {
-         "1": "0",
-         "12": "6"
-      },
-      {
-         "3": "11",
-         "14": "17"
-      },
-      {
-         "3": "17",
-         "14": "23"
-      },
-      {
-         "3": "6",
-         "14": "11"
-      },
-      {
-         "3": "23",
-         "14": "28"
-      },
-      {
-         "3": "28",
-         "14": "33"
-      },
-      {
-         "3": "33",
-         "14": "38"
-      }
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Inflation rate compared to previous year, containing a total of 41 data points.",
+      " Overall Inflation rate compared to previous year has decreased over the Year."
    ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Inflation rate compared to previous year, containing a total of 41 data points.",
+      " Overall Inflation rate compared to previous year has decreased over the Year.",
+      "The steepest increase occurs in between the Year 1991 and 1992.",
+      "Maximum Inflation rate compared to previous year, about 21.06 was reported at Year 1992",
+      "The lowest Inflation rate compared to previous year, of value 2.44 was reported at Year 2001"
+   ],
+   "max_summary": [
+      "The chart in general has a zig-zag shape.",
+      "The chart in general has a zig-zag shape.",
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Inflation rate compared to previous year. In total the number of data points it has is 41.",
+      " In general Inflation rate compared to previous year has fallen over the Year.",
+      "The chart in general has a zig-zag shape.",
+      "The most drastic increase took place within the Year 1991 and 1992.",
+      "Maximum Inflation rate compared to previous year, about 21.06 was reported at Year 1992",
+      "The lowest Inflation rate compared to previous year, of value 2.44 was reported at Year 2001",
+      "The line significantly increased by 11.72 from Year 1985 to 1986,increased by 13.12 from Year 1991 to 1992,decreased by 7.99 from Year 1999 to 2000,increased by 3.42 from Year 2005 to 2006, and lastly, increased by 5.94 from Year 2008 to 2009."
+   ],
+   "trends": [],
    "data": [
       {
          "Year": "2024",

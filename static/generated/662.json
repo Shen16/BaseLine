@@ -1,38 +1,42 @@
 {
-   "title": "Test",
+   "title": "International visitor spending in Paris 2010 to 2018",
    "xAxis": "Year",
    "yAxis": "International visitor spending in billion U.S. dollars",
    "columnType": "two",
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing International visitor spending in billion U.S. dollars, with a total of 9 data points.",
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes International visitor spending in billion U.S. dollars. In total the number of data points it has is 9.",
+      " Overall International visitor spending in billion U.S. dollars has increased over the Year.",
+      "International visitor spending in billion U.S. dollars is slightly increasing from 2010 to 2012, slightly decreasing from 2012 to 2015, and lastly roughly increasing from 2015 to 2018.",
+      "The line significantly ",
+      "The most drastic decrease took place within the Year 2013 and 2014.",
+      "Maximum International visitor spending in billion U.S. dollars, about 19.5 was reported at Year 2013",
+      "Minimum International visitor spending in billion U.S. dollars about 12.03 was reached at Year 2016"
+   ],
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing International visitor spending in billion U.S. dollars, containing a total of 9 data points.",
+      " In general International visitor spending in billion U.S. dollars has rose over the Year.",
+      "International visitor spending in billion U.S. dollars is slightly increasing from 2010 to 2012, slightly decreasing from 2012 to 2015, and lastly roughly increasing from 2015 to 2018."
+   ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing International visitor spending in billion U.S. dollars, containing a total of 9 data points.",
       " Overall International visitor spending in billion U.S. dollars has increased over the Year.",
       "International visitor spending in billion U.S. dollars is slightly increasing from 2010 to 2012, slightly decreasing from 2012 to 2015, and lastly roughly increasing from 2015 to 2018.",
       "The steepest decrease occurs in between the Year 2013 and 2014.",
-      "Max International visitor spending in billion U.S. dollars about 19.5 was recorded at Year 2013",
-      "Min International visitor spending in billion U.S. dollars about 12.03 was recorded at Year 2016",
-      "#########################################################################",
-      "This line chart has an x axis representing Year and a y axis representing International visitor spending in billion U.S. dollars, with a total of 9 data points. The chart has 3 significant trends.",
-      " The longest trend is slightly decreasing which exists from 2013 to 2016.",
-      " On the contrary, the next significant trend is extremely increasing which exists from 2010 to 2013.",
-      " Also, the next significant trend is extremely increasing which exists from 2016 to 2018."
+      "Maximum International visitor spending in billion U.S. dollars, about 19.5 was reported at Year 2013",
+      "Minimum International visitor spending in billion U.S. dollars about 12.03 was reached at Year 2016"
    ],
-   "trends": [
-      {},
-      {
-         "1": "2",
-         "12": "5"
-      },
-      {
-         "3": "5",
-         "14": "8"
-      },
-      {
-         "3": "0",
-         "14": "2"
-      }
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes International visitor spending in billion U.S. dollars. In total the number of data points it has is 9.",
+      " In general International visitor spending in billion U.S. dollars has rose over the Year.",
+      "International visitor spending in billion U.S. dollars is slightly increasing from 2010 to 2012, slightly decreasing from 2012 to 2015, and lastly roughly increasing from 2015 to 2018.",
+      "The steepest decrease occurs in between the Year 2013 and 2014.",
+      "Maximum International visitor spending in billion U.S. dollars, about 19.5 was reported at Year 2013",
+      "Minimum International visitor spending in billion U.S. dollars about 12.03 was reached at Year 2016",
+      "The line drastically "
    ],
+   "trends": [],
    "data": [
       {
          "Year": "2018",

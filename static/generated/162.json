@@ -1,5 +1,5 @@
 {
-   "title": "Test",
+   "title": "Reasons for watching reality TV in the U.S. 2017 , by age",
    "labels": [
       "Race",
       "18-24",
@@ -12,12 +12,31 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart has 10 categories of Race on the x axis representing 5 groups: 18-24, 25-34, 35-44, 45-54, and 55+.",
-      " Averaging these 5 groups, the highest category is found for Race None of these with a mean value of 41.4.",
-      " Followed by I like the drama with a mean value of 20.0.",
-      " The lowest category is observed at To connect with likeminded viewers that has a mean value of 4.8",
-      " showing a difference of 158.4% with the maximum value.",
-      " In case of I like the drama, 18-24 shows more dominance than any other Race and it has the lowest value in Other. On the other hand, group 25-34 is the second impactful group in this chart, and it's highest in case of None of these and has the minimum dominance for Race Other. "
+      "This grouped bar chart represents 10 different Races on X-axis for 5 groups 18-24, 25-34, 35-44, 45-54, and 55+. On the Y-axis it shows their corresponding Share of respondents. ",
+      " Out of all 5 groups, 55+ had the highest Share of respondents in Race None of these and 55+ had the lowest Share of respondents in Race I'm invested. ",
+      " Among all the Races, 45-54 had the highest Share of respondents 48.0 in Race None of these and lowest value 3.0 in Race To connect with likeminded viewers. ",
+      " There is a gap of 45.0 between the highest and lowest Share of respondents found for 45-54 in Race None of these and To connect with likeminded viewers. "
+   ],
+   "xAxis": "Race",
+   "yAxis": "Share of respondents",
+   "min_summary": [
+      "This grouped bar chart represents 10 different Races on X-axis for 5 groups 18-24, 25-34, 35-44, 45-54, and 55+. On the Y-axis it shows their corresponding Share of respondents. ",
+      " Out of all 5 groups, 55+ had the highest Share of respondents in Race None of these and 55+ had the lowest Share of respondents in Race I'm invested. "
+   ],
+   "mid_summary": [
+      "This grouped bar chart represents 10 different Races on X-axis for 5 groups 18-24, 25-34, 35-44, 45-54, and 55+. On the Y-axis it shows their corresponding Share of respondents. ",
+      " Out of all 5 groups, 55+ had the highest Share of respondents in Race None of these and 55+ had the lowest Share of respondents in Race I'm invested. ",
+      " Among all the Races, 45-54 had the highest Share of respondents 48.0 in Race None of these and lowest value 3.0 in Race To connect with likeminded viewers. ",
+      " There is a gap of 45.0 between the highest and lowest Share of respondents found for 45-54 in Race None of these and To connect with likeminded viewers. "
+   ],
+   "max_summary": [
+      "This grouped bar chart represents 10 different Races on X-axis for 5 groups 18-24, 25-34, 35-44, 45-54, and 55+. On the Y-axis it shows their corresponding Share of respondents. ",
+      " Out of all 5 groups, 55+ had the highest Share of respondents in Race None of these and 55+ had the lowest Share of respondents in Race I'm invested. ",
+      " Among all the Races, 45-54 had the highest Share of respondents 48.0 in Race None of these and lowest value 3.0 in Race To connect with likeminded viewers. ",
+      " The maximum Share of respondents for 45-54 that was found in Race None of these was 16.0 times larger than the minimum Share of respondents observed in Race To connect with likeminded viewers. ",
+      " Among the groups, 45-54 had the biggest difference in Share of respondents. Where the maximum Share of respondents was 16.0 times larger than the minimum Share of respondents. ",
+      " In Race None of these, 55+ had the highest Share of respondents 59.0 among the 5 groups and in I'm invested, 55+ had the lowest Share of respondents 2.0. The second highest Share of respondents 34.0 was observed for 55+ in Race None of these. ",
+      "On average, the Race None of these had the highest Share of respondents for all 5 groups 18-24, 25-34, 35-44, 45-54, and 55+. Whereas To connect with likeminded viewers had the lowest average Share of respondents. "
    ],
    "trends": [
       {},

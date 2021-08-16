@@ -1,16 +1,34 @@
 {
-   "title": "Test",
+   "title": "LINE Corporation : consolidated revenue 2013 to 2019",
    "xAxis": "Quarter",
    "yAxis": "Revenue in billion Japanese yen",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 27 categories on the x axis representing Quarter, and Revenue in billion Japanese yen in each Quarter on the y axis.",
-      "Q4 '19 is higher than any other categories with value 60.8, followed by , and Q4 '18. Down to category Q2 '13 with the lowest value of 8.2. ",
-      " The highest value at Q4 '19 is almost 7.41 times larger than the minimum value of Q2 '13. ",
-      " The highest value at Q4 '19 is almost 7.41 times larger than the minimum value of Q2 '13. ",
-      " The difference between the max Quarter Q4 '19 and min Quarter Q2 '13 is 52.599999999999994. "
+      "This is a bar chart representing Quarter in the x axis and Revenue in billion Japanese yen in the y axis. ",
+      "The Revenue in billion Japanese yen is highest at Quarter Q4 '19 and lowest at Quarter Q2 '13. ",
+      "The highest Quarter Q4 '19 has 52.6 more Revenue in billion Japanese yen than the lowest Quarter Q2 '13. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Revenue in billion Japanese yen for 27 number of Quarters. ",
+      "Quarter Q4 '19 has the highest Revenue in billion Japanese yen and Q2 '13 has the lowest Revenue in billion Japanese yen. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Quarter in the x axis and Revenue in billion Japanese yen in the y axis. ",
+      "The Revenue in billion Japanese yen is highest at Quarter Q4 '19 and lowest at Quarter Q2 '13. ",
+      "The highest Quarter Q4 '19 has 52.6 more Revenue in billion Japanese yen than the lowest Quarter Q2 '13. "
+   ],
+   "max_summary": [
+      "This bar chart has 27 columns on the x axis representing Quarter, and Revenue in billion Japanese yen in each Quarter on the y axis. ",
+      "The maximum Revenue in billion Japanese yen 60.8 is found at Quarter Q4 '19 and the minimum is found at Q2 '13 where Quarter is 8.2. ",
+      "Quarter  has the second highest value for Revenue in billion Japanese yen. ",
+      "There is a difference of 52.6 between the maximum Quarter Q4 '19 and minimum Quarter Q2 '13. ",
+      "The Quarter Q4 '19 has the highest Revenue in billion Japanese yen, followed by , and Q4 '18. Down to the Quarter Q2 '13 which is the lowest. ",
+      "Overall Revenue in billion Japanese yen has declined over the Quarters. ",
+      "Quarter Q3 '19, and Q4 '18 have the same Revenue in billion Japanese yen. ",
+      "The average Revenue in billion Japanese yen in all 27 Quarters is 36.8. ",
+      "The Revenue in billion Japanese yen is 993.5 if we add up values of all Quarters. "
    ],
    "trends": [
       {},

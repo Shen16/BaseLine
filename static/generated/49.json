@@ -1,28 +1,42 @@
 {
-   "title": "Test",
+   "title": "Total number of stores of the LVMH Group worldwide 2008 to 2019",
    "xAxis": "Year",
    "yAxis": "Total number of stores",
    "columnType": "two",
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Total number of stores, with a total of 12 data points.",
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Total number of stores. In total the number of data points it has is 12.",
+      " In general Total number of stores has rose over the Year.",
+      "Total number of stores is slightly increasing from 2008 to 2014, roughly constant from 2014 to 2016, and lastly slightly increasing from 2016 to 2019.",
+      "The line drastically ",
+      "The steepest increase occurs in between the Year 2010 and 2011.",
+      "The highest Total number of stores, of value 4915.0 was reached at Year 2019",
+      "The lowest Total number of stores, of value 2314.0 was reported at Year 2008"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Total number of stores. In total the number of data points it has is 12.",
+      " Overall Total number of stores has increased over the Year.",
+      "Total number of stores is slightly increasing from 2008 to 2014, roughly constant from 2014 to 2016, and lastly slightly increasing from 2016 to 2019."
+   ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Total number of stores, containing a total of 12 data points.",
+      " Overall Total number of stores has increased over the Year.",
+      "Total number of stores is slightly increasing from 2008 to 2014, roughly constant from 2014 to 2016, and lastly slightly increasing from 2016 to 2019.",
+      "The most drastic increase took place within the Year 2010 and 2011.",
+      "The highest Total number of stores, of value 4915.0 was reached at Year 2019",
+      "The lowest Total number of stores, of value 2314.0 was reported at Year 2008"
+   ],
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Total number of stores. In total the number of data points it has is 12.",
       " Overall Total number of stores has increased over the Year.",
       "Total number of stores is slightly increasing from 2008 to 2014, roughly constant from 2014 to 2016, and lastly slightly increasing from 2016 to 2019.",
       "The steepest increase occurs in between the Year 2010 and 2011.",
-      "Max Total number of stores about 4915.0 was recorded at Year 2019",
-      "Min Total number of stores about 2314.0 was recorded at Year 2008",
-      "#########################################################################",
-      "This line chart has an x axis representing Year and a y axis representing Total number of stores with a total of 12 data points. The chart has one significant trend.",
-      " This trend is increasing which exists from 2019 to 2008."
+      "The highest Total number of stores, of value 4915.0 was reached at Year 2019",
+      "The lowest Total number of stores, of value 2314.0 was reported at Year 2008",
+      "The line significantly "
    ],
-   "trends": [
-      {},
-      {
-         "3": "0",
-         "14": "11"
-      }
-   ],
+   "trends": [],
    "data": [
       {
          "Year": "2019",

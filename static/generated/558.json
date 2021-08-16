@@ -1,16 +1,32 @@
 {
-   "title": "Test",
+   "title": "Japanese video games adapted into movies - box office revenue 2017",
    "xAxis": "Film title (original writer company)",
    "yAxis": "Revenue in million U.S. dollars",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 11 categories on the x axis representing Film title (original writer company), and Revenue in million U.S. dollars in each Film title (original writer company) on the y axis.",
-      "Resident Evil: The Final Chapter (Capcom) is higher than any other categories with value 312.42, followed by , and Resident Evil: Retribution (Capcom). Down to category House Of The Dead (Sega) with the lowest value of 13.82. ",
-      " The highest value at Resident Evil: The Final Chapter (Capcom) is almost 22.61 times larger than the minimum value of House Of The Dead (Sega). ",
-      " The highest value at Resident Evil: The Final Chapter (Capcom) is almost 22.61 times larger than the minimum value of House Of The Dead (Sega). ",
-      " The difference between the max Film title (original writer company) Resident Evil: The Final Chapter (Capcom) and min Film title (original writer company) House Of The Dead (Sega) is 298.6. "
+      "This bar chart has 11 columns on the x axis representing Film title (original writer company), and Revenue in million U.S. dollars in each Film title (original writer company) on the y axis. ",
+      "The maximum Revenue in million U.S. dollars 312.42 is found at Film title (original writer company) Resident Evil: The Final Chapter (Capcom) and the minimum is found at House Of The Dead (Sega) where Film title (original writer company) is 13.82. ",
+      "The Revenue in million U.S. dollars of Film title (original writer company) House Of The Dead (Sega) is 22.61% smaller than the maximum value at Resident Evil: The Final Chapter (Capcom). "
+   ],
+   "min_summary": [
+      "This is a bar chart representing Film title (original writer company) in the x axis and Revenue in million U.S. dollars in the y axis. ",
+      "The maximum Revenue in million U.S. dollars 312.42 is found at Film title (original writer company) Resident Evil: The Final Chapter (Capcom) and the minimum is found at House Of The Dead (Sega) where Film title (original writer company) is 13.82. "
+   ],
+   "mid_summary": [
+      "This bar chart has 11 columns on the x axis representing Film title (original writer company), and Revenue in million U.S. dollars in each Film title (original writer company) on the y axis. ",
+      "The maximum Revenue in million U.S. dollars 312.42 is found at Film title (original writer company) Resident Evil: The Final Chapter (Capcom) and the minimum is found at House Of The Dead (Sega) where Film title (original writer company) is 13.82. ",
+      "The Revenue in million U.S. dollars of Film title (original writer company) House Of The Dead (Sega) is 22.61% smaller than the maximum value at Resident Evil: The Final Chapter (Capcom). "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Film title (original writer company) in the x axis and Revenue in million U.S. dollars in the y axis. ",
+      "The Revenue in million U.S. dollars is appeared to be the highest at Film title (original writer company) Resident Evil: The Final Chapter (Capcom) and lowest at Film title (original writer company) House Of The Dead (Sega). ",
+      "Second maximum Revenue in million U.S. dollars is found at Film title (original writer company) . ",
+      "The maximum Film title (original writer company) Resident Evil: The Final Chapter (Capcom) has got 22.61 times higher Revenue in million U.S. dollars than the minimum Film title (original writer company) House Of The Dead (Sega). ",
+      "Film title (original writer company) Resident Evil: The Final Chapter (Capcom) is higher than any other Film title (original writer company)s with value 312.42, followed by , and Resident Evil: Retribution (Capcom). Down to Film title (original writer company) House Of The Dead (Sega) with the lowest value 13.82. ",
+      "The Film title (original writer company) House Of The Dead (Sega) has 2.22 times less Revenue in million U.S. dollars than average. ",
+      "The Revenue in million U.S. dollars is 1550.28 if we add up values of all Film title (original writer company)s. "
    ],
    "trends": [
       {},

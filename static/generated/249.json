@@ -1,33 +1,38 @@
 {
-   "title": "Test",
+   "title": "Pharmacy and drug store sales in the U.S. 1992 to 2018",
    "xAxis": "Year",
    "yAxis": "Billion U.S. dollars",
    "columnType": "two",
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Billion U.S. dollars, with a total of 27 data points.",
-      " Overall Billion U.S. dollars has increased over the Year.",
-      "Billion U.S. dollars is roughly constant from 92 to 94, rapidly increasing from 94 to 3, roughly constant from 3 to 4, slightly increasing from 4 to 7, roughly constant from 7 to 13, roughly increasing from 13 to 15, roughly constant from 15 to 17, and lastly roughly increasing from 17 to 18.",
-      "The steepest increase occurs in between the Year 13 and 14.",
-      "Max Billion U.S. dollars about 285.87 was recorded at Year 18",
-      "Min Billion U.S. dollars about 77.79 was recorded at Year 92",
-      "#########################################################################",
-      "This line chart has an x axis representing Year and a y axis representing Billion U.S. dollars, with a total of 27 data points. The chart has 2 significant trends.",
-      " The longest trend is slightly increasing which exists from 92 to 12.",
-      " Additionally, the next significant trend is extremely increasing which exists from 12 to 18."
+      "This is a line chart with an x axis representing Year and a y axis representing Billion U.S. dollars, containing a total of 27 data points.",
+      " Overall Billion U.S. dollars has decreased over the Year.",
+      "The line rapidly ",
+      "The steepest decrease occurs in between the Year 9 and 92.",
+      "Maximum Billion U.S. dollars, about 285.87 was reported at Year 18",
+      "Minimum Billion U.S. dollars about 77.79 was reached at Year 92"
    ],
-   "trends": [
-      {},
-      {
-         "1": "6",
-         "12": "26"
-      },
-      {
-         "3": "0",
-         "14": "6"
-      }
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Billion U.S. dollars. In total the number of data points it has is 27.",
+      " Overall Billion U.S. dollars has decreased over the Year."
    ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Billion U.S. dollars. In total the number of data points it has is 27.",
+      " In general Billion U.S. dollars has fallen over the Year.",
+      "The steepest decrease occurs in between the Year 9 and 92.",
+      "Maximum Billion U.S. dollars, about 285.87 was reported at Year 18",
+      "Minimum Billion U.S. dollars about 77.79 was reached at Year 92"
+   ],
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Billion U.S. dollars. In total the number of data points it has is 27.",
+      " In general Billion U.S. dollars has fallen over the Year.",
+      "The steepest decrease occurs in between the Year 9 and 92.",
+      "Maximum Billion U.S. dollars, about 285.87 was reported at Year 18",
+      "Minimum Billion U.S. dollars about 77.79 was reached at Year 92",
+      "The line rapidly "
+   ],
+   "trends": [],
    "data": [
       {
          "Year": "18",

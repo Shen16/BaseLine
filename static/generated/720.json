@@ -1,5 +1,5 @@
 {
-   "title": "Test",
+   "title": "Driver satisfaction with Uber U.S. 2017 to 2019",
    "labels": [
       "Response",
       "2017",
@@ -10,11 +10,31 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart has 5 categories of Response on the x axis representing 3 groups: 2017, 2018, and 2019.",
-      " Averaging these 3 groups, the highest category is found for Response Somewhat agree with a mean value of 39.07.",
-      " The lowest category is observed at Strongly disagree that has a mean value of 10.97",
-      " showing a difference of 112.3% with the maximum value.",
-      " In case of Somewhat agree, 2017 shows more dominance than any other Response and it has the lowest value in Strongly agree. On the other hand, group 2018 is the second impactful group in this chart, and it's highest in case of Somewhat agree and has the minimum dominance for Response Strongly agree. "
+      "This grouped bar chart represents 5 different Responses on X-axis for 3 groups 2017, 2018, and 2019. On the Y-axis it shows their corresponding SOME LABEL. ",
+      " Response Somewhat agree had the maximum SOME LABEL among all 3 groups, and it was for 2018. The minimum SOME LABEL was observed in Response Strongly disagree for 2018. ",
+      " In Response Somewhat agree, 2018 had the maximum SOME LABEL and it saw the lowest in Response Strongly disagree out of all 5 Responses. ",
+      " There is a gap of 352.0 between the highest and lowest SOME LABEL found for 2018 in Response Somewhat agree and Strongly disagree. "
+   ],
+   "xAxis": "Response",
+   "yAxis": "SOME LABEL",
+   "min_summary": [
+      "This grouped bar chart represents 5 different Responses on X-axis for 3 groups 2017, 2018, and 2019. On the Y-axis it shows their corresponding SOME LABEL. ",
+      " Out of all 3 groups, 2018 had the highest SOME LABEL in Response Somewhat agree and 2018 had the lowest SOME LABEL in Response Strongly disagree. "
+   ],
+   "mid_summary": [
+      "This grouped bar chart represents 5 different Responses on X-axis for 3 groups 2017, 2018, and 2019. On the Y-axis it shows their corresponding SOME LABEL. ",
+      " Response Somewhat agree had the maximum SOME LABEL among all 3 groups, and it was for 2018. The minimum SOME LABEL was observed in Response Strongly disagree for 2018. ",
+      " In Response Somewhat agree, 2018 had the maximum SOME LABEL and it saw the lowest in Response Strongly disagree out of all 5 Responses. ",
+      " There is a gap of 352.0 between the highest and lowest SOME LABEL found for 2018 in Response Somewhat agree and Strongly disagree. "
+   ],
+   "max_summary": [
+      "This grouped bar chart represents 5 different Responses on X-axis for 3 groups 2017, 2018, and 2019. On the Y-axis it shows their corresponding SOME LABEL. ",
+      " In Response Somewhat agree, 2018 had the highest SOME LABEL 434.0 among the 3 groups and in Strongly disagree, 2018 had the lowest SOME LABEL 82.0. ",
+      " Among all the Responses, 2018 had the highest SOME LABEL 434.0 in Response Somewhat agree and lowest value 82.0 in Response Strongly disagree. ",
+      " The maximum SOME LABEL for 2018 that was found in Response Somewhat agree was 5.29 times larger than the minimum SOME LABEL observed in Response Strongly disagree. ",
+      " Among all 3 groups, 2018 had the gap of 352.0 between the maximum and minimum SOME LABEL observed in Response Somewhat agree and Strongly disagree respectively. ",
+      " In Response Somewhat agree, 2018 had the highest SOME LABEL 434.0 among the 3 groups and in Strongly disagree, 2018 had the lowest SOME LABEL 82.0. The second highest SOME LABEL 397.0 was observed for 2018 in Response Somewhat agree. ",
+      "On average, the Response Somewhat agree had the highest SOME LABEL for all 3 groups 2017, 2018, and 2019. Whereas Strongly disagree had the lowest average SOME LABEL. "
    ],
    "trends": [
       {},

@@ -1,16 +1,32 @@
 {
-   "title": "Test",
+   "title": "Best ad campaigns worldwide 2018",
    "xAxis": "Campaign/Brand (Agency)",
    "yAxis": "Number of points",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 10 categories on the x axis representing Campaign/Brand (Agency), and Number of points in each Campaign/Brand (Agency) on the y axis.",
-      "Let's make viral products instead! /Carvaan (the Womb Mumbai) is higher than any other categories with value 75.2, followed by , and India's Newest Status Symbol / Harpic (McCann New Delhi). Down to category Original is Never Finished / adidas Originals (Johannes Leonardo New York) with the lowest value of 44.0. ",
-      " The highest value at Let's make viral products instead! /Carvaan (the Womb Mumbai) is almost 1.71 times larger than the minimum value of Original is Never Finished / adidas Originals (Johannes Leonardo New York). ",
-      " The highest value at Let's make viral products instead! /Carvaan (the Womb Mumbai) is almost 1.71 times larger than the minimum value of Original is Never Finished / adidas Originals (Johannes Leonardo New York). ",
-      " The difference between the max Campaign/Brand (Agency) Let's make viral products instead! /Carvaan (the Womb Mumbai) and min Campaign/Brand (Agency) Original is Never Finished / adidas Originals (Johannes Leonardo New York) is 31.200000000000003. "
+      "This is a bar chart representing Campaign/Brand (Agency) in the x axis and Number of points in the y axis. ",
+      "The Number of points is appeared to be the highest at Campaign/Brand (Agency) Let's make viral products instead! /Carvaan (the Womb Mumbai) and lowest at Campaign/Brand (Agency) Original is Never Finished / adidas Originals (Johannes Leonardo New York). ",
+      "The difference of Number of points between the highest and lowest Campaign/Brand (Agency) is 31.2. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing Campaign/Brand (Agency) in the x axis and Number of points in the y axis. ",
+      "The Number of points is highest at Campaign/Brand (Agency) Let's make viral products instead! /Carvaan (the Womb Mumbai) and lowest at Campaign/Brand (Agency) Original is Never Finished / adidas Originals (Johannes Leonardo New York). "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Campaign/Brand (Agency) in the x axis and Number of points in the y axis. ",
+      "The Number of points is appeared to be the highest at Campaign/Brand (Agency) Let's make viral products instead! /Carvaan (the Womb Mumbai) and lowest at Campaign/Brand (Agency) Original is Never Finished / adidas Originals (Johannes Leonardo New York). ",
+      "The difference of Number of points between the highest and lowest Campaign/Brand (Agency) is 31.2. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Number of points for 10 number of Campaign/Brand (Agency)s. ",
+      "The Number of points is highest at Campaign/Brand (Agency) Let's make viral products instead! /Carvaan (the Womb Mumbai) and lowest at Campaign/Brand (Agency) Original is Never Finished / adidas Originals (Johannes Leonardo New York). ",
+      "The second highest Number of points is appeared to be the Campaign/Brand (Agency) . ",
+      "The highest value at Campaign/Brand (Agency) Let's make viral products instead! /Carvaan (the Womb Mumbai) is 1.71x times more than the lowest value at Original is Never Finished / adidas Originals (Johannes Leonardo New York). ",
+      "Number of points at Campaign/Brand (Agency) Let's make viral products instead! /Carvaan (the Womb Mumbai) is 75.2 , second place is  at 75.2, and thirdly is India's Newest Status Symbol / Harpic (McCann New Delhi) at 63.3.",
+      "The Campaign/Brand (Agency) Original is Never Finished / adidas Originals (Johannes Leonardo New York) tends to be 1.32 percent lower than average. ",
+      "The Number of points is 569.2 if we add up values of all Campaign/Brand (Agency)s. "
    ],
    "trends": [
       {},

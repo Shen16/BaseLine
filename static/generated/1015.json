@@ -1,16 +1,31 @@
 {
-   "title": "Test",
+   "title": "Main export partners of Germany 2017",
    "xAxis": "Country",
    "yAxis": "Share in total exports",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 9 categories on the x axis representing Country, and Share in total exports in each Country on the y axis.",
-      "United States is higher than any other categories with value 8.8, followed by , and China. Down to category Switzerland with the lowest value of 4.2. ",
-      " The highest value at United States is almost 2.1 times larger than the minimum value of Switzerland. ",
-      " The highest value at United States is almost 2.1 times larger than the minimum value of Switzerland. ",
-      " The difference between the max Country United States and min Country Switzerland is 4.6000000000000005. "
+      "This bar chart has 9 columns on the x axis representing Country, and Share in total exports in each Country on the y axis. ",
+      "The Share in total exports is highest at Country United States and lowest at Country Switzerland. ",
+      "There is a difference of 4.6 between the maximum Country United States and minimum Country Switzerland. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Share in total exports for 9 number of Countrys. ",
+      "The Share in total exports is highest at Country United States and lowest at Country Switzerland. "
+   ],
+   "mid_summary": [
+      "This bar chart has 9 columns on the x axis representing Country, and Share in total exports in each Country on the y axis. ",
+      "The Share in total exports is highest at Country United States and lowest at Country Switzerland. ",
+      "There is a difference of 4.6 between the maximum Country United States and minimum Country Switzerland. "
+   ],
+   "max_summary": [
+      "This bar chart has 9 columns on the x axis representing Country, and Share in total exports in each Country on the y axis. ",
+      "The Share in total exports is appeared to be the highest at Country United States and lowest at Country Switzerland. ",
+      "Second maximum Share in total exports is found at Country . ",
+      "The difference of Share in total exports between the highest and lowest Country is 4.6. ",
+      "Share in total exports at Country United States is 8.8 , second place is  at 8.8, and thirdly is China at 6.8.",
+      "The Country United States tends to be 1.41 percent higher than average. "
    ],
    "trends": [
       {},

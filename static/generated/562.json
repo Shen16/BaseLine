@@ -1,43 +1,38 @@
 {
-   "title": "Test",
+   "title": "Florida - unemployment rate 1992 to 2018",
    "xAxis": "Year",
    "yAxis": "Unemployment rate",
    "columnType": "two",
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Unemployment rate, with a total of 27 data points.",
-      " Overall Unemployment rate has decreased over the Year.",
-      "Unemployment rate is roughly constant from '92 to '00, roughly increasing from '00 to '01, roughly constant from '01 to '03, roughly decreasing from '03 to '05, rapidly increasing from '05 to '09, roughly constant from '09 to '11, and lastly slightly decreasing from '11 to '18.",
-      "The steepest increase occurs in between the Year '08 and '09.",
-      "Max Unemployment rate about 11.1 was recorded at Year '10",
-      "Min Unemployment rate about 3.2 was recorded at Year '06",
-      "#########################################################################",
-      "This line chart has an x axis representing Year and a y axis representing Unemployment rate, with a total of 27 data points. The chart has 4 significant trends.",
-      " The longest trend is moderately decreasing which exists from '92 to '02.",
-      " But, the next significant trend is slightly decreasing which exists from '10 to '18.",
-      " But, the next significant trend is extremely increasing which exists from '06 to '10.",
-      " Additionally, the next significant trend is slightly decreasing which exists from '02 to '06."
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Unemployment rate. In total the number of data points it has is 27.",
+      " Overall Unemployment rate has increased over the Year.",
+      "The line rapidly increased by 127.78% from Year '18 to '92.",
+      "The most drastic increase took place within the Year '18 and '92.",
+      "The highest Unemployment rate, of value 11.1 was reached at Year '10",
+      "The lowest Unemployment rate, of value 3.2 was reported at Year '06"
    ],
-   "trends": [
-      {},
-      {
-         "1": "16",
-         "12": "26"
-      },
-      {
-         "3": "0",
-         "14": "8"
-      },
-      {
-         "3": "8",
-         "14": "12"
-      },
-      {
-         "3": "12",
-         "14": "16"
-      }
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Unemployment rate, containing a total of 27 data points.",
+      " In general Unemployment rate has stayed the same over the Year."
    ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Unemployment rate, containing a total of 27 data points.",
+      " In general Unemployment rate has stayed the same over the Year.",
+      "The steepest increase occurs in between the Year '18 and '92.",
+      "The highest Unemployment rate, of value 11.1 was reached at Year '10",
+      "The lowest Unemployment rate, of value 3.2 was reported at Year '06"
+   ],
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Unemployment rate. In total the number of data points it has is 27.",
+      " Overall Unemployment rate has increased over the Year.",
+      "The steepest increase occurs in between the Year '18 and '92.",
+      "The highest Unemployment rate, of value 11.1 was reached at Year '10",
+      "The lowest Unemployment rate, of value 3.2 was reported at Year '06",
+      "The line significantly increased by 4.6 from Year '18 to '92."
+   ],
+   "trends": [],
    "data": [
       {
          "Year": "'18",

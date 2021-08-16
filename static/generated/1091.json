@@ -1,13 +1,34 @@
 {
-   "title": "Test",
+   "title": "Europe : semiconductor sales 2012 - 2019 , by month",
    "xAxis": "Month",
    "yAxis": "Sales in billion U.S. dollars",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 96 categories on the x axis representing Month, and Sales in billion U.S. dollars in each Month on the y axis.",
-      "May '18 is higher than any other categories with value 3.7, followed by , and Apr '18. Down to category Dec '12 with the lowest value of 2.63. "
+      "This is a bar chart. It shows Sales in billion U.S. dollars for 96 number of Months. ",
+      "Month May '18 has the highest Sales in billion U.S. dollars and Dec '12 has the lowest Sales in billion U.S. dollars. ",
+      "Month Dec '12 has 1.41 times less Sales in billion U.S. dollars than Month May '18 which is the highest. "
+   ],
+   "min_summary": [
+      "This bar chart has 96 columns on the x axis representing Month, and Sales in billion U.S. dollars in each Month on the y axis. ",
+      "The Sales in billion U.S. dollars is highest at Month May '18 and lowest at Month Dec '12. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Sales in billion U.S. dollars for 96 number of Months. ",
+      "Month May '18 has the highest Sales in billion U.S. dollars and Dec '12 has the lowest Sales in billion U.S. dollars. ",
+      "Month Dec '12 has 1.41 times less Sales in billion U.S. dollars than Month May '18 which is the highest. "
+   ],
+   "max_summary": [
+      "This bar chart has 96 columns on the x axis representing Month, and Sales in billion U.S. dollars in each Month on the y axis. ",
+      "The Sales in billion U.S. dollars is appeared to be the highest at Month May '18 and lowest at Month Dec '12. ",
+      "Month  has the second highest value for Sales in billion U.S. dollars. ",
+      "The difference of Sales in billion U.S. dollars between the highest and lowest Month is 1.07. ",
+      "Month May '18 is higher than any other Months with value 3.7, followed by , and Apr '18. Down to Month Dec '12 with the lowest value 2.63. ",
+      "Overall Sales in billion U.S. dollars has climbed over the Months. ",
+      "Month Apr '12, Jun. '12, Jul. '12, Oct '16, and Feb '17 share the same value 2.82. ",
+      "The lowest value 2.63 at Dec '12 is almost 1.21 times smaller than the average value 3.05. ",
+      "The Sales in billion U.S. dollars is 292.92 if we add up values of all Months. "
    ],
    "trends": [
       {},

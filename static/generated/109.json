@@ -1,16 +1,32 @@
 {
-   "title": "Test",
+   "title": "Organ donation rate in the United Kingdom 2018/19 , by country",
    "xAxis": "Country",
    "yAxis": "Rate of donation per million population",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 4 categories on the x axis representing Country, and Rate of donation per million population in each Country on the y axis.",
-      "Wales is higher than any other categories with value 30.7, followed by , and Northern Ireland. Down to category Scotland with the lowest value of 17.9. ",
-      " The highest value at Wales is almost 1.72 times larger than the minimum value of Scotland. ",
-      " The highest value at Wales is almost 1.72 times larger than the minimum value of Scotland. ",
-      " The difference between the max Country Wales and min Country Scotland is 12.8. "
+      "This is a bar chart. It shows Rate of donation per million population for 4 number of Countrys. ",
+      "The Rate of donation per million population is highest at Country Wales and lowest at Country Scotland. ",
+      "The minimum Country Scotland has got 1.72 times less Rate of donation per million population than the maximum Country Wales. "
+   ],
+   "min_summary": [
+      "This bar chart has 4 columns on the x axis representing Country, and Rate of donation per million population in each Country on the y axis. ",
+      "Country Wales has the highest Rate of donation per million population and Scotland has the lowest Rate of donation per million population. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Rate of donation per million population for 4 number of Countrys. ",
+      "The Rate of donation per million population is highest at Country Wales and lowest at Country Scotland. ",
+      "The minimum Country Scotland has got 1.72 times less Rate of donation per million population than the maximum Country Wales. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Country in the x axis and Rate of donation per million population in the y axis. ",
+      "The maximum Rate of donation per million population 30.7 is found at Country Wales and the minimum is found at Scotland where Country is 17.9. ",
+      "The second highest Rate of donation per million population is appeared to be the Country . ",
+      "There is a difference of 12.8 between the maximum Country Wales and minimum Country Scotland. ",
+      "Country Wales is higher than any other Countrys with value 30.7, followed by , and Northern Ireland. Down to Country Scotland with the lowest value 17.9. ",
+      "The average Rate of donation per million population in all 4 Countrys is 24.03. ",
+      "The Rate of donation per million population is 96.1 if we add up values of all Countrys. "
    ],
    "trends": [
       {},

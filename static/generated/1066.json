@@ -1,5 +1,5 @@
 {
-   "title": "Test",
+   "title": "Number of M & A transactions in Asia 2015 - 2017 , by country",
    "labels": [
       "Quarter",
       "Australia",
@@ -11,11 +11,32 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart has 9 categories of Quarter on the x axis representing 4 groups: Australia, China/Hong Kong, India, and Japan.",
-      " Averaging these 4 groups, the highest category is found for Quarter Q4 2016 with a mean value of 532.25.",
-      " The lowest category is observed at Q2 2016 that has a mean value of 434.5",
-      " showing a difference of 20.2% with the maximum value.",
-      " In case of Q4 2016, Australia shows more dominance than any other Quarter and it has the lowest value in Q1 2017. On the other hand, group Japan is highest in case of Q3 2017 and has minimum impact for Quarter Q3 2015. "
+      "This grouped bar chart shows SOME LABEL on the Y-axis for 9 different Quarters for 4 groups Australia, China/Hong Kong, India, and Japan that are presented on the X-axis. ",
+      " All through the Quarters, the SOME LABEL for Australia have risen. On the other hand, for Quarter the SOME LABEL have reduced. ",
+      " Out of all 4 groups, China/Hong Kong had the highest SOME LABEL in Quarter Q4 2016 and India had the lowest SOME LABEL in Quarter Q3 2017. ",
+      " Among all the Quarters, Australia had the highest SOME LABEL in Quarter Q4 2016 and lowest SOME LABEL in Quarter Q1 2017. "
+   ],
+   "xAxis": "Quarter",
+   "yAxis": "SOME LABEL",
+   "min_summary": [
+      "This grouped bar chart represents 9 different Quarters on X-axis for 4 groups Australia, China/Hong Kong, India, and Japan. On the Y-axis it shows their corresponding SOME LABEL. ",
+      " Over the 9 Quarters, the SOME LABEL for Australia have been risen whereas reduced for Quarter. "
+   ],
+   "mid_summary": [
+      "This grouped bar chart shows SOME LABEL on the Y-axis for 9 different Quarters for 4 groups Australia, China/Hong Kong, India, and Japan that are presented on the X-axis. ",
+      " All through the Quarters, the SOME LABEL for Australia have risen. On the other hand, for Quarter the SOME LABEL have reduced. ",
+      " Out of all 4 groups, China/Hong Kong had the highest SOME LABEL in Quarter Q4 2016 and India had the lowest SOME LABEL in Quarter Q3 2017. ",
+      " Among all the Quarters, Australia had the highest SOME LABEL in Quarter Q4 2016 and lowest SOME LABEL in Quarter Q1 2017. "
+   ],
+   "max_summary": [
+      "This grouped bar chart represents 9 different Quarters on X-axis for 4 groups Australia, China/Hong Kong, India, and Japan. On the Y-axis it shows their corresponding SOME LABEL. ",
+      " All through the Quarters, the SOME LABEL for Australia have risen. On the other hand, for Quarter the SOME LABEL have reduced. ",
+      " Quarter Q4 2016 had the maximum SOME LABEL among all 4 groups, and it was for China/Hong Kong. The minimum SOME LABEL was observed in Quarter Q3 2017 for India. ",
+      " Among all the Quarters, Australia had the highest SOME LABEL 404.0 in Quarter Q4 2016 and lowest value 321.0 in Quarter Q1 2017. ",
+      " The maximum SOME LABEL for Australia that was found in Quarter Q4 2016 was 1.26 times larger than the minimum SOME LABEL observed in Quarter Q1 2017. ",
+      " Among all 4 groups, China/Hong Kong had the gap of 327.0 between the maximum and minimum SOME LABEL observed in Quarter Q4 2016 and Q2 2016 respectively. ",
+      " China/Hong Kong had the maximum SOME LABEL out of all 4 groups in Quarter Q4 2016 followed by China/Hong Kong in Q4 2016, and the minimum SOME LABEL is found for India in Q3 2017. ",
+      "Averaging all 4 groups Australia, China/Hong Kong, India, and Japan, the Quarter Q4 2016 is the maximum SOME LABEL and Q2 2016 is the minimum SOME LABEL. "
    ],
    "trends": [
       {},

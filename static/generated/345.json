@@ -1,5 +1,5 @@
 {
-   "title": "Test",
+   "title": "United Kingdom ( UK ) property market 2013 - 2016 , by submarket value",
    "labels": [
       "Submarket",
       "2013",
@@ -11,12 +11,31 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart has 5 categories of Submarket on the x axis representing 4 groups: 2013, 2014, 2015, and 2016.",
-      " Averaging these 4 groups, the highest category is found for Submarket Residential property: owner occupied & social housing with a mean value of 4291.0.",
-      " Followed by Residential property: privately rented with a mean value of 973.25.",
-      " The lowest category is observed at Other non-domestic buildings that has a mean value of 145.75",
-      " showing a difference of 186.9% with the maximum value.",
-      " In case of Residential property: owner occupied & social housing, 2013 shows more dominance than any other Submarket and it has the lowest value in Infrastructure. On the other hand, group 2016 is highest in case of Residential property: owner occupied & social housing and has minimum impact for Submarket Other non-domestic buildings. "
+      "This grouped bar chart represents 5 different Submarkets on X-axis for 4 groups 2013, 2014, 2015, and 2016. On the Y-axis it shows their corresponding Submarket value in billion GBP. ",
+      " In Submarket Residential property: owner occupied & social housing, 2016 had the highest Submarket value in billion GBP 4805.0 among the 4 groups and in Infrastructure, 2013 had the lowest Submarket value in billion GBP 0.0. ",
+      " Among all the Submarkets, 2016 had the highest Submarket value in billion GBP 4805.0 in Submarket Residential property: owner occupied & social housing and lowest value 147.0 in Submarket Other non-domestic buildings. ",
+      "Submarket Residential property: owner occupied & social housing and Other non-domestic buildings had the biggest gap of 4658.0 between the highest and lowest Submarket value in billion GBP found for 2016. "
+   ],
+   "xAxis": "Submarket",
+   "yAxis": "Submarket value in billion GBP",
+   "min_summary": [
+      "This grouped bar chart represents 5 different Submarkets on X-axis for 4 groups 2013, 2014, 2015, and 2016. On the Y-axis it shows their corresponding Submarket value in billion GBP. ",
+      " Out of all 4 groups, 2016 had the highest Submarket value in billion GBP in Submarket Residential property: owner occupied & social housing and 2013 had the lowest Submarket value in billion GBP in Submarket Infrastructure. "
+   ],
+   "mid_summary": [
+      "This grouped bar chart represents 5 different Submarkets on X-axis for 4 groups 2013, 2014, 2015, and 2016. On the Y-axis it shows their corresponding Submarket value in billion GBP. ",
+      " In Submarket Residential property: owner occupied & social housing, 2016 had the highest Submarket value in billion GBP 4805.0 among the 4 groups and in Infrastructure, 2013 had the lowest Submarket value in billion GBP 0.0. ",
+      " Among all the Submarkets, 2016 had the highest Submarket value in billion GBP 4805.0 in Submarket Residential property: owner occupied & social housing and lowest value 147.0 in Submarket Other non-domestic buildings. ",
+      "Submarket Residential property: owner occupied & social housing and Other non-domestic buildings had the biggest gap of 4658.0 between the highest and lowest Submarket value in billion GBP found for 2016. "
+   ],
+   "max_summary": [
+      "This grouped bar chart shows Submarket value in billion GBP on the Y-axis for 5 different Submarkets for 4 groups 2013, 2014, 2015, and 2016 that are presented on the X-axis. ",
+      " Out of all 4 groups, 2016 had the highest Submarket value in billion GBP in Submarket Residential property: owner occupied & social housing and 2013 had the lowest Submarket value in billion GBP in Submarket Infrastructure. ",
+      " In Submarket Residential property: owner occupied & social housing, 2016 had the highest Submarket value in billion GBP among all 5 Submarkets and it has the lowest Submarket value in billion GBP in Submarket Other non-domestic buildings. ",
+      " There is a gap of 4658.0 between the highest and lowest Submarket value in billion GBP found for 2016 in Submarket Residential property: owner occupied & social housing and Other non-domestic buildings. ",
+      " Out of all 4 groups, the highest gap between the maximum and minimum Submarket value in billion GBP was found in case of 2015. ",
+      " In Submarket Residential property: owner occupied & social housing, 2016 had the highest Submarket value in billion GBP 4805.0 among the 4 groups and in Infrastructure, 2013 had the lowest Submarket value in billion GBP 0.0. The second highest Submarket value in billion GBP 4068.0 was observed for 2016 in Submarket Residential property: owner occupied & social housing. ",
+      "On average, the Submarket Residential property: owner occupied & social housing had the highest Submarket value in billion GBP for all 4 groups 2013, 2014, 2015, and 2016. Whereas Other non-domestic buildings had the lowest average Submarket value in billion GBP. "
    ],
    "trends": [
       {},

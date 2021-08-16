@@ -1,16 +1,31 @@
 {
-   "title": "Test",
+   "title": "Value of the leading merchandise exporters worldwide 2018 , by exporting nation",
    "xAxis": "Exporting nation",
    "yAxis": "Export value in billion U.S. dollars",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 15 categories on the x axis representing Exporting nation, and Export value in billion U.S. dollars in each Exporting nation on the y axis.",
-      "China is higher than any other categories with value 2487.0, followed by , and United States. Down to category Kingdom of Saudi Arabia with the lowest value of 299.0. ",
-      " The highest value at China is almost 8.32 times larger than the minimum value of Kingdom of Saudi Arabia. ",
-      " The highest value at China is almost 8.32 times larger than the minimum value of Kingdom of Saudi Arabia. ",
-      " The difference between the max Exporting nation China and min Exporting nation Kingdom of Saudi Arabia is 2188.0. "
+      "This bar chart has 15 columns on the x axis representing Exporting nation, and Export value in billion U.S. dollars in each Exporting nation on the y axis. ",
+      "Exporting nation China has the highest Export value in billion U.S. dollars and Kingdom of Saudi Arabia has the lowest Export value in billion U.S. dollars. ",
+      "The Export value in billion U.S. dollars of Exporting nation China is 8.32% larger than the minimum value at Kingdom of Saudi Arabia. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Export value in billion U.S. dollars for 15 number of Exporting nations. ",
+      "The Export value in billion U.S. dollars is appeared to be the highest at Exporting nation China and lowest at Exporting nation Kingdom of Saudi Arabia. "
+   ],
+   "mid_summary": [
+      "This bar chart has 15 columns on the x axis representing Exporting nation, and Export value in billion U.S. dollars in each Exporting nation on the y axis. ",
+      "Exporting nation China has the highest Export value in billion U.S. dollars and Kingdom of Saudi Arabia has the lowest Export value in billion U.S. dollars. ",
+      "The Export value in billion U.S. dollars of Exporting nation China is 8.32% larger than the minimum value at Kingdom of Saudi Arabia. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Exporting nation in the x axis and Export value in billion U.S. dollars in the y axis. ",
+      "Exporting nation China has the highest Export value in billion U.S. dollars and Kingdom of Saudi Arabia has the lowest Export value in billion U.S. dollars. ",
+      "The second highest Export value in billion U.S. dollars is appeared to be the Exporting nation . ",
+      "Exporting nation Kingdom of Saudi Arabia has 8.32 times less Export value in billion U.S. dollars than Exporting nation China which is the highest. ",
+      "The Exporting nation China has the highest Export value in billion U.S. dollars, followed by , and United States. Down to the Exporting nation Kingdom of Saudi Arabia which is the lowest. ",
+      "The highest value 2487.0 at China is almost 3.18 times larger than the average value 783.2. "
    ],
    "trends": [
       {},

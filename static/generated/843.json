@@ -1,16 +1,34 @@
 {
-   "title": "Test",
+   "title": "UFC : most knockdowns landed by fighters worldwide as of March 2020",
    "xAxis": "Month",
    "yAxis": "Number of knockdowns landed",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 10 categories on the x axis representing Month, and Number of knockdowns landed in each Month on the y axis.",
-      "Donald Cerrone is higher than any other categories with value 20.0, followed by , and Jeremy Stephens. Down to category Thiago Alves with the lowest value of 13.0. ",
-      " The highest value at Donald Cerrone is almost 1.54 times larger than the minimum value of Thiago Alves. ",
-      " The highest value at Donald Cerrone is almost 1.54 times larger than the minimum value of Thiago Alves. ",
-      " The difference between the max Month Donald Cerrone and min Month Thiago Alves is 7.0. "
+      "This bar chart has 10 columns on the x axis representing Month, and Number of knockdowns landed in each Month on the y axis. ",
+      "The Number of knockdowns landed is appeared to be the highest at Month Donald Cerrone and lowest at Month Thiago Alves. ",
+      "The Number of knockdowns landed of Month Thiago Alves is 1.54% smaller than the maximum value at Donald Cerrone. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Number of knockdowns landed for 10 number of Months. ",
+      "The Number of knockdowns landed is highest at Month Donald Cerrone and lowest at Month Thiago Alves. "
+   ],
+   "mid_summary": [
+      "This bar chart has 10 columns on the x axis representing Month, and Number of knockdowns landed in each Month on the y axis. ",
+      "The Number of knockdowns landed is appeared to be the highest at Month Donald Cerrone and lowest at Month Thiago Alves. ",
+      "The Number of knockdowns landed of Month Thiago Alves is 1.54% smaller than the maximum value at Donald Cerrone. "
+   ],
+   "max_summary": [
+      "This bar chart has 10 columns on the x axis representing Month, and Number of knockdowns landed in each Month on the y axis. ",
+      "The Number of knockdowns landed is highest at Month Donald Cerrone and lowest at Month Thiago Alves. ",
+      "Month  has the second highest value for Number of knockdowns landed. ",
+      "The Number of knockdowns landed of Month Thiago Alves is 1.54% smaller than the maximum value at Donald Cerrone. ",
+      "The Month Donald Cerrone has the highest Number of knockdowns landed, followed by , and Jeremy Stephens. Down to the Month Thiago Alves which is the lowest. ",
+      "Overall Number of knockdowns landed has declined over the Months. ",
+      "Month Junior Dos Santos, Chuck Liddell, Lyoto Machida, and Mauricio Rua have a similar Number of knockdowns landed that is 14.0. ",
+      "The average Number of knockdowns landed in all 10 Months is 15.1. ",
+      "Summing up the values of all Months, we get total 151.0. "
    ],
    "trends": [
       {},

@@ -1,16 +1,33 @@
 {
-   "title": "Test",
+   "title": "Most followed EPL team in the U.S. 2019",
    "xAxis": "Response",
    "yAxis": "Share of respondents",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 20 categories on the x axis representing Response, and Share of respondents in each Response on the y axis.",
-      "Manchester United is higher than any other categories with value 32.0, followed by , and Manchester City. Down to category Bournemouth with the lowest value of 0.0. ",
-      " The highest value at Manchester United is almost 3200000000000.0 times larger than the minimum value of Bournemouth. ",
-      " The highest value at Manchester United is almost 3200000000000.0 times larger than the minimum value of Bournemouth. ",
-      " The difference between the max Response Manchester United and min Response Bournemouth is 32.0. "
+      "This is a bar chart. It shows Share of respondents for 20 number of Responses. ",
+      "The maximum Share of respondents 32.0 is found at Response Manchester United and the minimum is found at Bournemouth where Response is 0.0. ",
+      "The highest Response Manchester United has 32.0 more Share of respondents than the lowest Response Bournemouth. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing Response in the x axis and Share of respondents in the y axis. ",
+      "The Share of respondents is highest at Response Manchester United and lowest at Response Bournemouth. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Share of respondents for 20 number of Responses. ",
+      "The maximum Share of respondents 32.0 is found at Response Manchester United and the minimum is found at Bournemouth where Response is 0.0. ",
+      "The highest Response Manchester United has 32.0 more Share of respondents than the lowest Response Bournemouth. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Share of respondents for 20 number of Responses. ",
+      "The Share of respondents is appeared to be the highest at Response Manchester United and lowest at Response Bournemouth. ",
+      "Response  has the second highest value for Share of respondents. ",
+      "The difference of Share of respondents between the highest and lowest Response is 32.0. ",
+      "Response Manchester United is higher than any other Responses with value 32.0, followed by , and Manchester City. Down to Response Bournemouth with the lowest value 0.0. ",
+      "Similar Share of respondents is found in Response Aston Villa, Brighton & Hove Albion, Burnley, Everton, Leicester City, Norwich City, Sheffield United, Southampton, Watford, West Ham United, and Wolverhamption Wanderers. ",
+      "The Response Bournemouth tends to be 7.62 percent lower than average. ",
+      "The Share of respondents is 84.0 if we add up values of all Responses. "
    ],
    "trends": [
       {},

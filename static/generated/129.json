@@ -1,43 +1,42 @@
 {
-   "title": "Test",
+   "title": "Venezuela 's budget balance in relation to GDP 2018",
    "xAxis": "Year",
    "yAxis": "Budget balance in relation to GDP",
    "columnType": "two",
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Budget balance in relation to GDP, with a total of 11 data points.",
+      "This is a line chart with an x axis representing Year and a y axis representing Budget balance in relation to GDP, containing a total of 11 data points.",
+      " In general Budget balance in relation to GDP has rose over the Year.",
+      "Budget balance in relation to GDP is slightly increasing from 2008 to 2011, roughly constant from 2011 to 2013, roughly decreasing from 2013 to 2014, roughly constant from 2014 to 2016, and lastly gradually increasing from 2016 to 2018.",
+      "The line rapidly increased by 151.16% from Year 2008 to 2009,increased by 73.84% from Year 2010 to 2011, and lastly, increased by 83.99% from Year 2017 to 2018.",
+      "The steepest increase occurs in between the Year 2017 and 2018.",
+      "Maximum Budget balance in relation to GDP, about 30.56 was reported at Year 2018",
+      "The lowest Budget balance in relation to GDP, of value 3.46 was reported at Year 2008"
+   ],
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Budget balance in relation to GDP, containing a total of 11 data points.",
+      " Overall Budget balance in relation to GDP has increased over the Year.",
+      "Budget balance in relation to GDP is slightly increasing from 2008 to 2011, roughly constant from 2011 to 2013, roughly decreasing from 2013 to 2014, roughly constant from 2014 to 2016, and lastly gradually increasing from 2016 to 2018."
+   ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Budget balance in relation to GDP. In total the number of data points it has is 11.",
       " Overall Budget balance in relation to GDP has increased over the Year.",
       "Budget balance in relation to GDP is slightly increasing from 2008 to 2011, roughly constant from 2011 to 2013, roughly decreasing from 2013 to 2014, roughly constant from 2014 to 2016, and lastly gradually increasing from 2016 to 2018.",
       "The steepest increase occurs in between the Year 2017 and 2018.",
-      "Max Budget balance in relation to GDP about 30.56 was recorded at Year 2018",
-      "Min Budget balance in relation to GDP about 3.46 was recorded at Year 2008",
-      "#########################################################################",
-      "This line chart has an x axis representing Year and a y axis representing Budget balance in relation to GDP, with a total of 11 data points. The chart has 4 significant trends.",
-      " The longest trend is moderately increasing which exists from 2010 to 2014.",
-      " Also, the next significant trend is extremely increasing which exists from 2015 to 2018.",
-      " Correspondingly, the next significant trend is moderately decreasing which exists from 2008 to 2010.",
-      " Differently, the next significant trend is slightly decreasing which exists from 2014 to 2015."
+      "Maximum Budget balance in relation to GDP, about 30.56 was reported at Year 2018",
+      "The lowest Budget balance in relation to GDP, of value 3.46 was reported at Year 2008"
    ],
-   "trends": [
-      {},
-      {
-         "1": "4",
-         "12": "8"
-      },
-      {
-         "3": "0",
-         "14": "3"
-      },
-      {
-         "3": "8",
-         "14": "10"
-      },
-      {
-         "3": "3",
-         "14": "4"
-      }
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Budget balance in relation to GDP, containing a total of 11 data points.",
+      " Overall Budget balance in relation to GDP has increased over the Year.",
+      "Budget balance in relation to GDP is slightly increasing from 2008 to 2011, roughly constant from 2011 to 2013, roughly decreasing from 2013 to 2014, roughly constant from 2014 to 2016, and lastly gradually increasing from 2016 to 2018.",
+      "The most drastic increase took place within the Year 2017 and 2018.",
+      "Maximum Budget balance in relation to GDP, about 30.56 was reported at Year 2018",
+      "The lowest Budget balance in relation to GDP, of value 3.46 was reported at Year 2008",
+      "The line rapidly increased by 151.16% from Year 2008 to 2009,increased by 73.84% from Year 2010 to 2011, and lastly, increased by 83.99% from Year 2017 to 2018."
    ],
+   "trends": [],
    "data": [
       {
          "Year": "2018",

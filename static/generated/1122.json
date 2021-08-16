@@ -1,5 +1,5 @@
 {
-   "title": "Test",
+   "title": "Apple App Store : global category revenue share per business model 2014",
    "labels": [
       "Category",
       "Free apps with in-app purchases",
@@ -10,11 +10,31 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart has 17 categories of Category on the x axis representing 3 groups: Free apps with in-app purchases, Paid apps without in-app purchases, and Paid apps with in-app purchases.",
-      " Averaging these 3 groups, the highest category is found for Category Productivity with a mean value of 33.37.",
-      " Followed by Medical with a mean value of 33.37.",
-      " The lowest category is observed at Music that has a mean value of 33.3",
-      " In case of Newsstand, Free apps with in-app purchases shows more dominance than any other Category with a value 996.0 and it has the lowest value 21.0 in Navigation.  However, Paid apps with in-app purchases being the 2nd most important group, has the highest value 87.0 for Category Weather and the lowest 2.0 in case of Productivity. "
+      "This grouped bar chart represents 17 different Categorys on X-axis for 3 groups Free apps with in-app purchases, Paid apps without in-app purchases, and Paid apps with in-app purchases. On the Y-axis it shows their corresponding SOME LABEL. ",
+      " Category Newsstand had the maximum SOME LABEL among all 3 groups, and it was for Free apps with in-app purchases. The minimum SOME LABEL was observed in Category Newsstand for Paid apps without in-app purchases. ",
+      " Among all the Categorys, Paid apps with in-app purchases had the highest SOME LABEL 87.0 in Category Weather and lowest value 2.0 in Category Productivity. ",
+      "Category Weather and Productivity had the biggest gap of 85.0 between the highest and lowest SOME LABEL found for Paid apps with in-app purchases. "
+   ],
+   "xAxis": "Category",
+   "yAxis": "SOME LABEL",
+   "min_summary": [
+      "This grouped bar chart represents 17 different Categorys on X-axis for 3 groups Free apps with in-app purchases, Paid apps without in-app purchases, and Paid apps with in-app purchases. On the Y-axis it shows their corresponding SOME LABEL. ",
+      " Out of all 3 groups, Free apps with in-app purchases had the highest SOME LABEL in Category Newsstand and Paid apps without in-app purchases had the lowest SOME LABEL in Category Newsstand. "
+   ],
+   "mid_summary": [
+      "This grouped bar chart represents 17 different Categorys on X-axis for 3 groups Free apps with in-app purchases, Paid apps without in-app purchases, and Paid apps with in-app purchases. On the Y-axis it shows their corresponding SOME LABEL. ",
+      " Category Newsstand had the maximum SOME LABEL among all 3 groups, and it was for Free apps with in-app purchases. The minimum SOME LABEL was observed in Category Newsstand for Paid apps without in-app purchases. ",
+      " Among all the Categorys, Paid apps with in-app purchases had the highest SOME LABEL 87.0 in Category Weather and lowest value 2.0 in Category Productivity. ",
+      "Category Weather and Productivity had the biggest gap of 85.0 between the highest and lowest SOME LABEL found for Paid apps with in-app purchases. "
+   ],
+   "max_summary": [
+      "This grouped bar chart shows SOME LABEL on the Y-axis for 17 different Categorys for 3 groups Free apps with in-app purchases, Paid apps without in-app purchases, and Paid apps with in-app purchases that are presented on the X-axis. ",
+      " In Category Newsstand, Free apps with in-app purchases had the highest SOME LABEL 996.0 among the 3 groups and in Newsstand, Paid apps without in-app purchases had the lowest SOME LABEL 2.0. ",
+      " Among all the Categorys, Paid apps with in-app purchases had the highest SOME LABEL in Category Weather and lowest SOME LABEL in Category Productivity. ",
+      " There is a gap of 85.0 between the highest and lowest SOME LABEL found for Paid apps with in-app purchases in Category Weather and Productivity. ",
+      " Among the groups, Free apps with in-app purchases had the biggest difference in SOME LABEL. Where the maximum SOME LABEL was 47.43 times larger than the minimum SOME LABEL. ",
+      " Free apps with in-app purchases had the maximum SOME LABEL out of all 3 groups in Category Newsstand followed by Free apps with in-app purchases in Newsstand, and the minimum SOME LABEL is found for Paid apps without in-app purchases in Newsstand. ",
+      "On average, the Category Productivity had the highest SOME LABEL for all 3 groups Free apps with in-app purchases, Paid apps without in-app purchases, and Paid apps with in-app purchases. Whereas Music had the lowest average SOME LABEL. "
    ],
    "trends": [
       {},

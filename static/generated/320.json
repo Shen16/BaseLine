@@ -1,5 +1,5 @@
 {
-   "title": "Test",
+   "title": "Gifts Americans are planning to purchase for Valentine 's Day by gender 2020",
    "labels": [
       "Race",
       "Women",
@@ -9,12 +9,30 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart has 27 categories of Race on the x axis representing 2 groups: Women, and Men.",
-      " Averaging these 2 groups, the highest category is found for Race Dinner out with a mean value of 52.5.",
-      " Followed by Chocolates with a mean value of 51.0.",
-      " The lowest category is observed at Couple's gym membership that has a mean value of 1.0",
-      " showing a difference of 192.5% with the maximum value.",
-      " In case of Dinner out, Women shows more dominance than any other Race with a value 53.0 and it has the lowest value 0.0 in Mixtape. "
+      "This grouped bar chart represents 27 different Races on X-axis for 2 groups Women, and Men. On the Y-axis it shows their corresponding Share of respondents. ",
+      " Race Chocolates had the maximum Share of respondents among all 2 groups, and it was for Men. The minimum Share of respondents was observed in Race Mixtape for Women. ",
+      " In Race Chocolates, Men had the highest Share of respondents among all 27 Races and it has the lowest Share of respondents in Race Home decor. ",
+      " There is a gap of 54.0 between the highest and lowest Share of respondents found for Men in Race Chocolates and Home decor. "
+   ],
+   "xAxis": "Race",
+   "yAxis": "Share of respondents",
+   "min_summary": [
+      "This grouped bar chart represents 27 different Races on X-axis for 2 groups Women, and Men. On the Y-axis it shows their corresponding Share of respondents. ",
+      " Out of all 2 groups, Men had the highest Share of respondents in Race Chocolates and Women had the lowest Share of respondents in Race Mixtape. "
+   ],
+   "mid_summary": [
+      "This grouped bar chart represents 27 different Races on X-axis for 2 groups Women, and Men. On the Y-axis it shows their corresponding Share of respondents. ",
+      " Race Chocolates had the maximum Share of respondents among all 2 groups, and it was for Men. The minimum Share of respondents was observed in Race Mixtape for Women. ",
+      " In Race Chocolates, Men had the highest Share of respondents among all 27 Races and it has the lowest Share of respondents in Race Home decor. ",
+      " There is a gap of 54.0 between the highest and lowest Share of respondents found for Men in Race Chocolates and Home decor. "
+   ],
+   "max_summary": [
+      "This grouped bar chart represents 27 different Races on X-axis for 2 groups Women, and Men. On the Y-axis it shows their corresponding Share of respondents. ",
+      " Out of all 2 groups, Men had the highest Share of respondents in Race Chocolates and Women had the lowest Share of respondents in Race Mixtape. ",
+      " In Race Chocolates, Men had the maximum Share of respondents and it saw the lowest in Race Home decor out of all 27 Races. ",
+      "Race Chocolates and Home decor had the biggest gap of 54.0 between the highest and lowest Share of respondents found for Men. ",
+      " Among the groups, Women had the biggest difference in Share of respondents. Where the maximum Share of respondents was 53.0 times larger than the minimum Share of respondents. ",
+      "On average, the Race Dinner out had the highest Share of respondents for all 2 groups Women, and Men. Whereas Couple's gym membership had the lowest average Share of respondents. "
    ],
    "trends": [
       {},

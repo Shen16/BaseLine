@@ -1,53 +1,42 @@
 {
-   "title": "Test",
+   "title": "Inflation rate in Russia 2024",
    "xAxis": "Year",
    "yAxis": "Inflation rate compared to previous year",
    "columnType": "two",
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Inflation rate compared to previous year, with a total of 31 data points.",
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Inflation rate compared to previous year. In total the number of data points it has is 31.",
+      " In general Inflation rate compared to previous year has fallen over the Year.",
+      "The chart in general has a zig-zag shape.",
+      "The line rapidly decreased by 75.82% from Year 1995 to 1996,increased by 87.41% from Year 1997 to 1998,increased by 209.75% from Year 1998 to 1999,decreased by 75.76% from Year 1999 to 2000, and lastly, increased by 98.59% from Year 2014 to 2015.",
+      "The most drastic decrease took place within the Year 1995 and 1996.",
+      "Maximum Inflation rate compared to previous year, about 307.63 was reported at Year 1994",
+      "The lowest Inflation rate compared to previous year, of value 2.88 was reported at Year 2018"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Inflation rate compared to previous year. In total the number of data points it has is 31.",
+      " In general Inflation rate compared to previous year has fallen over the Year."
+   ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Inflation rate compared to previous year, containing a total of 31 data points.",
       " Overall Inflation rate compared to previous year has decreased over the Year.",
-      "Inflation rate compared to previous year is slightly decreasing from 1994 to 1997, rapidly increasing from 1997 to 1999, slightly decreasing from 1999 to 2000, roughly constant from 2000 to 2007, slightly increasing from 2007 to 2008, roughly constant from 2008 to 2011, roughly increasing from 2011 to 2012, roughly constant from 2012 to 2014, slightly increasing from 2014 to 2015, roughly decreasing from 2015 to 2016, roughly constant from 2016 to 2018, slightly increasing from 2018 to 2019, and lastly roughly constant from 2019 to 2024.",
+      "The most drastic decrease took place within the Year 1995 and 1996.",
+      "Maximum Inflation rate compared to previous year, about 307.63 was reported at Year 1994",
+      "The lowest Inflation rate compared to previous year, of value 2.88 was reported at Year 2018"
+   ],
+   "max_summary": [
+      "The chart in general has a zig-zag shape.",
+      "The chart generally has many fluctuations.",
+      "This is a line chart with an x axis representing Year and a y axis representing Inflation rate compared to previous year, containing a total of 31 data points.",
+      " Overall Inflation rate compared to previous year has decreased over the Year.",
+      "The chart generally has many fluctuations.",
       "The steepest decrease occurs in between the Year 1995 and 1996.",
-      "Max Inflation rate compared to previous year about 307.63 was recorded at Year 1994",
-      "Min Inflation rate compared to previous year about 2.88 was recorded at Year 2018",
-      "#########################################################################",
-      "This line chart has an x axis representing Year and a y axis representing Inflation rate compared to previous year, with a total of 31 data points. The chart has 6 significant trends.",
-      " The longest trend is slightly decreasing which exists from 2001 to 2007.",
-      " But, the next significant trend is slightly decreasing which exists from 2015 to 2020.",
-      " On the other hand, the next significant trend is moderately increasing which exists from 2020 to 2024.",
-      " Correspondingly, the next significant trend is extremely decreasing which exists from 2011 to 2015.",
-      " Conversely, the next significant trend is moderately increasing which exists from 2007 to 2011.",
-      " Additionally, the next significant trend is moderately increasing which exists from 1997 to 2001."
+      "Maximum Inflation rate compared to previous year, about 307.63 was reported at Year 1994",
+      "The lowest Inflation rate compared to previous year, of value 2.88 was reported at Year 2018",
+      "The line drastically decreased by 4.1 times from Year 1995 to 1996,increased by 1.9 times from Year 1997 to 1998,increased by 3.1 times from Year 1998 to 1999,decreased by 4.1 times from Year 1999 to 2000, and lastly, increased by 2.0 times from Year 2014 to 2015."
    ],
-   "trends": [
-      {},
-      {
-         "1": "17",
-         "12": "23"
-      },
-      {
-         "3": "4",
-         "14": "9"
-      },
-      {
-         "3": "0",
-         "14": "4"
-      },
-      {
-         "3": "9",
-         "14": "13"
-      },
-      {
-         "3": "13",
-         "14": "17"
-      },
-      {
-         "3": "23",
-         "14": "27"
-      }
-   ],
+   "trends": [],
    "data": [
       {
          "Year": "2024",

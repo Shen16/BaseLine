@@ -1,43 +1,38 @@
 {
-   "title": "Test",
+   "title": "Average attendance in the National Football League 2019",
    "xAxis": "Year",
    "yAxis": "Average attendance",
    "columnType": "two",
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Average attendance, with a total of 12 data points.",
-      " Overall Average attendance has decreased over the Year.",
-      "Average attendance is slightly decreasing from 2008 to 2009, roughly increasing from 2009 to 2010, roughly constant from 2010 to 2015, slightly increasing from 2015 to 2016, slightly decreasing from 2016 to 2017, roughly constant from 2017 to 2018, and lastly slightly decreasing from 2018 to 2019.",
+      "This is a line chart with an x axis representing Year and a y axis representing Average attendance, containing a total of 12 data points.",
+      " In general Average attendance has stayed the same over the Year.",
+      "The line rapidly ",
       "The steepest decrease occurs in between the Year 2016 and 2017.",
-      "Max Average attendance about 69487.0 was recorded at Year 2016",
-      "Min Average attendance about 66151.0 was recorded at Year 2019",
-      "#########################################################################",
-      "This line chart has an x axis representing Year and a y axis representing Average attendance, with a total of 12 data points. The chart has 4 significant trends.",
-      " The longest trend is slightly decreasing which exists from 2016 to 2019.",
-      " But, the next significant trend is extremely decreasing which exists from 2013 to 2016.",
-      " Conversely, the next significant trend is extremely increasing which exists from 2010 to 2013.",
-      " Similarly, the next significant trend is moderately decreasing which exists from 2008 to 2010."
+      "Maximum Average attendance, about 69487.0 was reported at Year 2016",
+      "The lowest Average attendance, of value 66151.0 was reported at Year 2019"
    ],
-   "trends": [
-      {},
-      {
-         "1": "0",
-         "12": "3"
-      },
-      {
-         "3": "3",
-         "14": "6"
-      },
-      {
-         "3": "6",
-         "14": "9"
-      },
-      {
-         "3": "9",
-         "14": "11"
-      }
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Average attendance. In total the number of data points it has is 12.",
+      " In general Average attendance has stayed the same over the Year."
    ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Average attendance, containing a total of 12 data points.",
+      " Overall Average attendance has decreased over the Year.",
+      "The steepest decrease occurs in between the Year 2016 and 2017.",
+      "Maximum Average attendance, about 69487.0 was reported at Year 2016",
+      "The lowest Average attendance, of value 66151.0 was reported at Year 2019"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Average attendance, containing a total of 12 data points.",
+      " In general Average attendance has stayed the same over the Year.",
+      "The most drastic decrease took place within the Year 2016 and 2017.",
+      "Maximum Average attendance, about 69487.0 was reported at Year 2016",
+      "The lowest Average attendance, of value 66151.0 was reported at Year 2019",
+      "The line significantly "
+   ],
+   "trends": [],
    "data": [
       {
          "Year": "2019",

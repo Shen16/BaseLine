@@ -1,28 +1,42 @@
 {
-   "title": "Test",
+   "title": "Total workforce of Red Bull worldwide 2011 to 2018",
    "xAxis": "Year",
    "yAxis": "Number of employees",
    "columnType": "two",
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Number of employees, with a total of 8 data points.",
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of employees. In total the number of data points it has is 8.",
       " Overall Number of employees has increased over the Year.",
-      "Number of employees is slightly increasing from 2011 to 2016, and lastly roughly constant from 2016 to 2018.",
+      "Number of employees is slightly increasing from 2011 to 2016, and finally roughly constant from 2016 to 2018.",
+      "The line drastically ",
       "The steepest increase occurs in between the Year 2015 and 2016.",
-      "Max Number of employees about 12239.0 was recorded at Year 2018",
-      "Min Number of employees about 8294.0 was recorded at Year 2011",
-      "#########################################################################",
-      "This line chart has an x axis representing Year and a y axis representing Number of employees with a total of 8 data points. The chart has one significant trend.",
-      " This trend is increasing which exists from 2018 to 2011."
+      "Maximum Number of employees, about 12239.0 was reported at Year 2018",
+      "The lowest Number of employees, of value 8294.0 was reported at Year 2011"
    ],
-   "trends": [
-      {},
-      {
-         "3": "0",
-         "14": "7"
-      }
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of employees. In total the number of data points it has is 8.",
+      " In general Number of employees has rose over the Year.",
+      "Number of employees is slightly increasing from 2011 to 2016, and finally roughly constant from 2016 to 2018."
    ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of employees. In total the number of data points it has is 8.",
+      " Overall Number of employees has increased over the Year.",
+      "Number of employees is slightly increasing from 2011 to 2016, and finally roughly constant from 2016 to 2018.",
+      "The steepest increase occurs in between the Year 2015 and 2016.",
+      "Maximum Number of employees, about 12239.0 was reported at Year 2018",
+      "The lowest Number of employees, of value 8294.0 was reported at Year 2011"
+   ],
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of employees. In total the number of data points it has is 8.",
+      " In general Number of employees has rose over the Year.",
+      "Number of employees is slightly increasing from 2011 to 2016, and finally roughly constant from 2016 to 2018.",
+      "The most drastic increase took place within the Year 2015 and 2016.",
+      "Maximum Number of employees, about 12239.0 was reported at Year 2018",
+      "The lowest Number of employees, of value 8294.0 was reported at Year 2011",
+      "The line rapidly "
+   ],
+   "trends": [],
    "data": [
       {
          "Year": "2018",

@@ -1,43 +1,42 @@
 {
-   "title": "Test",
+   "title": "De Beers ' revenue 2011 to 2018",
    "xAxis": "Year",
    "yAxis": "Revenue in million U.S. dollars",
    "columnType": "two",
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Revenue in million U.S. dollars, with a total of 8 data points.",
-      " Overall Revenue in million U.S. dollars has decreased over the Year.",
-      "Revenue in million U.S. dollars is roughly constant from 2018 to 2016, slightly increasing from 2016 to 2014, roughly constant from 2014 to 2013, and lastly gradually decreasing from 2013 to 2011.",
-      "The steepest increase occurs in between the Year 2015 and 2014.",
-      "Max Revenue in million U.S. dollars about 7114.0 was recorded at Year 2014",
-      "Min Revenue in million U.S. dollars about 3320.0 was recorded at Year 2011",
-      "#########################################################################",
-      "This line chart has an x axis representing Year and a y axis representing Revenue in million U.S. dollars, with a total of 8 data points. The chart has 4 significant trends.",
-      " The longest trend is extremely decreasing which exists from 2014 to 2011.",
-      " On the contrary, the next significant trend is moderately increasing which exists from 2018 to 2016.",
-      " Also, the next significant trend is slightly increasing which exists from 2015 to 2014.",
-      " Also, the next significant trend is extremely decreasing which exists from 2016 to 2015."
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Revenue in million U.S. dollars. In total the number of data points it has is 8.",
+      " Overall Revenue in million U.S. dollars has increased over the Year.",
+      "Revenue in million U.S. dollars is gradually increasing from 2011 to 2013, roughly constant from 2013 to 2014, slightly decreasing from 2014 to 2015, slightly increasing from 2015 to 2016, and finally roughly constant from 2016 to 2018.",
+      "The line rapidly ",
+      "The most drastic decrease took place within the Year 2014 and 2015.",
+      "The highest Revenue in million U.S. dollars, of value 7114.0 was reached at Year 2014",
+      "Minimum Revenue in million U.S. dollars about 3320.0 was reached at Year 2011"
    ],
-   "trends": [
-      {},
-      {
-         "1": "0",
-         "12": "3"
-      },
-      {
-         "3": "5",
-         "14": "7"
-      },
-      {
-         "3": "3",
-         "14": "4"
-      },
-      {
-         "3": "4",
-         "14": "5"
-      }
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Revenue in million U.S. dollars. In total the number of data points it has is 8.",
+      " In general Revenue in million U.S. dollars has rose over the Year.",
+      "Revenue in million U.S. dollars is gradually increasing from 2011 to 2013, roughly constant from 2013 to 2014, slightly decreasing from 2014 to 2015, slightly increasing from 2015 to 2016, and finally roughly constant from 2016 to 2018."
    ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Revenue in million U.S. dollars, containing a total of 8 data points.",
+      " In general Revenue in million U.S. dollars has rose over the Year.",
+      "Revenue in million U.S. dollars is gradually increasing from 2011 to 2013, roughly constant from 2013 to 2014, slightly decreasing from 2014 to 2015, slightly increasing from 2015 to 2016, and finally roughly constant from 2016 to 2018.",
+      "The most drastic decrease took place within the Year 2014 and 2015.",
+      "The highest Revenue in million U.S. dollars, of value 7114.0 was reached at Year 2014",
+      "Minimum Revenue in million U.S. dollars about 3320.0 was reached at Year 2011"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Revenue in million U.S. dollars, containing a total of 8 data points.",
+      " Overall Revenue in million U.S. dollars has increased over the Year.",
+      "Revenue in million U.S. dollars is gradually increasing from 2011 to 2013, roughly constant from 2013 to 2014, slightly decreasing from 2014 to 2015, slightly increasing from 2015 to 2016, and finally roughly constant from 2016 to 2018.",
+      "The most drastic decrease took place within the Year 2014 and 2015.",
+      "The highest Revenue in million U.S. dollars, of value 7114.0 was reached at Year 2014",
+      "Minimum Revenue in million U.S. dollars about 3320.0 was reached at Year 2011",
+      "The line rapidly "
+   ],
+   "trends": [],
    "data": [
       {
          "Year": "2011",

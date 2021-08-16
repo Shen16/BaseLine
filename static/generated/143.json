@@ -1,16 +1,31 @@
 {
-   "title": "Test",
+   "title": "Annual rent in the most expensive retail locations globally 2019",
    "xAxis": "Retail Locations",
    "yAxis": "Annual rent in U.S. dollars per square foot",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 20 categories on the x axis representing Retail Locations, and Annual rent in U.S. dollars per square foot in each Retail Locations on the y axis.",
-      "Causeway Bay main street shops (Hong Kong) is higher than any other categories with value 2745.0, followed by , and New Bond Street (London). Down to category Khan Market (New Delhi) with the lowest value of 243.0. ",
-      " The highest value at Causeway Bay main street shops (Hong Kong) is almost 11.3 times larger than the minimum value of Khan Market (New Delhi). ",
-      " The highest value at Causeway Bay main street shops (Hong Kong) is almost 11.3 times larger than the minimum value of Khan Market (New Delhi). ",
-      " The difference between the max Retail Locations Causeway Bay main street shops (Hong Kong) and min Retail Locations Khan Market (New Delhi) is 2502.0. "
+      "This is a bar chart. It shows Annual rent in U.S. dollars per square foot for 20 number of Retail Locationss. ",
+      "Retail Locations Causeway Bay main street shops (Hong Kong) has the highest Annual rent in U.S. dollars per square foot and Khan Market (New Delhi) has the lowest Annual rent in U.S. dollars per square foot. ",
+      "Retail Locations Khan Market (New Delhi) has 11.3 times less Annual rent in U.S. dollars per square foot than Retail Locations Causeway Bay main street shops (Hong Kong) which is the highest. "
+   ],
+   "min_summary": [
+      "This bar chart has 20 columns on the x axis representing Retail Locations, and Annual rent in U.S. dollars per square foot in each Retail Locations on the y axis. ",
+      "The Annual rent in U.S. dollars per square foot is highest at Retail Locations Causeway Bay main street shops (Hong Kong) and lowest at Retail Locations Khan Market (New Delhi). "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Annual rent in U.S. dollars per square foot for 20 number of Retail Locationss. ",
+      "Retail Locations Causeway Bay main street shops (Hong Kong) has the highest Annual rent in U.S. dollars per square foot and Khan Market (New Delhi) has the lowest Annual rent in U.S. dollars per square foot. ",
+      "Retail Locations Khan Market (New Delhi) has 11.3 times less Annual rent in U.S. dollars per square foot than Retail Locations Causeway Bay main street shops (Hong Kong) which is the highest. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Annual rent in U.S. dollars per square foot for 20 number of Retail Locationss. ",
+      "The Annual rent in U.S. dollars per square foot is appeared to be the highest at Retail Locations Causeway Bay main street shops (Hong Kong) and lowest at Retail Locations Khan Market (New Delhi). ",
+      "The highest Retail Locations Causeway Bay main street shops (Hong Kong) has 2502.0 more Annual rent in U.S. dollars per square foot than the lowest Retail Locations Khan Market (New Delhi). ",
+      "Annual rent in U.S. dollars per square foot at Retail Locations Causeway Bay main street shops (Hong Kong) is 2745.0 , second place is  at 2745.0, and thirdly is New Bond Street (London) at 1714.0.",
+      "Retail Locations Portal de L'Angel (Barcelona), and Ermou (Athens) have the same Annual rent in U.S. dollars per square foot. ",
+      "The Retail Locations Khan Market (New Delhi) tends to be 3.1 percent lower than average. "
    ],
    "trends": [
       {},

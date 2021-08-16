@@ -1,16 +1,32 @@
 {
-   "title": "Test",
+   "title": "Most popular crisps and savoury snack brands in the United Kingdom ( UK ) 2013",
    "xAxis": "Snack Brand",
    "yAxis": "Share of respondents currently purchasing",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 7 categories on the x axis representing Snack Brand, and Share of respondents currently purchasing in each Snack Brand on the y axis.",
-      "Walkers is higher than any other categories with value 42.0, followed by , and Pringles. Down to category KP nuts with the lowest value of 22.0. ",
-      " The highest value at Walkers is almost 1.91 times larger than the minimum value of KP nuts. ",
-      " The highest value at Walkers is almost 1.91 times larger than the minimum value of KP nuts. ",
-      " The difference between the max Snack Brand Walkers and min Snack Brand KP nuts is 20.0. "
+      "This is a bar chart. It shows Share of respondents currently purchasing for 7 number of Snack Brands. ",
+      "The Share of respondents currently purchasing is appeared to be the highest at Snack Brand Walkers and lowest at Snack Brand KP nuts. ",
+      "The difference of Share of respondents currently purchasing between the highest and lowest Snack Brand is 20.0. "
+   ],
+   "min_summary": [
+      "This bar chart has 7 columns on the x axis representing Snack Brand, and Share of respondents currently purchasing in each Snack Brand on the y axis. ",
+      "The Share of respondents currently purchasing is appeared to be the highest at Snack Brand Walkers and lowest at Snack Brand KP nuts. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Share of respondents currently purchasing for 7 number of Snack Brands. ",
+      "The Share of respondents currently purchasing is appeared to be the highest at Snack Brand Walkers and lowest at Snack Brand KP nuts. ",
+      "The difference of Share of respondents currently purchasing between the highest and lowest Snack Brand is 20.0. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Share of respondents currently purchasing for 7 number of Snack Brands. ",
+      "Snack Brand Walkers has the highest Share of respondents currently purchasing and KP nuts has the lowest Share of respondents currently purchasing. ",
+      "The Share of respondents currently purchasing of Snack Brand KP nuts is 1.91% smaller than the maximum value at Walkers. ",
+      "Share of respondents currently purchasing at Snack Brand Walkers is 42.0 , second place is  at 42.0, and thirdly is Pringles at 26.0.",
+      "Snack Brand Hula Hoops, and Pringles have the same Share of respondents currently purchasing. ",
+      "The lowest value 22.0 at KP nuts is almost 1.49 times smaller than the average value 28.14. ",
+      "The Share of respondents currently purchasing is 197.0 if we add up values of all Snack Brands. "
    ],
    "trends": [
       {},

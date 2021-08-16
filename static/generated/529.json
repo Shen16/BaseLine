@@ -1,28 +1,42 @@
 {
-   "title": "Test",
+   "title": "North American sports market size 2009 to 2023",
    "xAxis": "Year",
    "yAxis": "Sports market revenue in billion U.S. dollars",
    "columnType": "two",
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Sports market revenue in billion U.S. dollars, with a total of 15 data points.",
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Sports market revenue in billion U.S. dollars. In total the number of data points it has is 15.",
+      " In general Sports market revenue in billion U.S. dollars has rose over the Year.",
+      "Sports market revenue in billion U.S. dollars is slightly increasing from 2009 to 2023.",
+      "The line significantly ",
+      "The most drastic increase took place within the Year 2013 and 2014.",
+      "The highest Sports market revenue in billion U.S. dollars, of value 83.1 was reached at Year 2023",
+      "Minimum Sports market revenue in billion U.S. dollars about 48.73 was reached at Year 2009"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Sports market revenue in billion U.S. dollars. In total the number of data points it has is 15.",
+      " In general Sports market revenue in billion U.S. dollars has rose over the Year.",
+      "Sports market revenue in billion U.S. dollars is slightly increasing from 2009 to 2023."
+   ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Sports market revenue in billion U.S. dollars, containing a total of 15 data points.",
       " Overall Sports market revenue in billion U.S. dollars has increased over the Year.",
       "Sports market revenue in billion U.S. dollars is slightly increasing from 2009 to 2023.",
       "The steepest increase occurs in between the Year 2013 and 2014.",
-      "Max Sports market revenue in billion U.S. dollars about 83.1 was recorded at Year 2023",
-      "Min Sports market revenue in billion U.S. dollars about 48.73 was recorded at Year 2009",
-      "#########################################################################",
-      "This line chart has an x axis representing Year and a y axis representing Sports market revenue in billion U.S. dollars with a total of 15 data points. The chart has one significant trend.",
-      " This trend is increasing which exists from 2023 to 2009."
+      "The highest Sports market revenue in billion U.S. dollars, of value 83.1 was reached at Year 2023",
+      "Minimum Sports market revenue in billion U.S. dollars about 48.73 was reached at Year 2009"
    ],
-   "trends": [
-      {},
-      {
-         "3": "0",
-         "14": "14"
-      }
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Sports market revenue in billion U.S. dollars, containing a total of 15 data points.",
+      " Overall Sports market revenue in billion U.S. dollars has increased over the Year.",
+      "Sports market revenue in billion U.S. dollars is slightly increasing from 2009 to 2023.",
+      "The most drastic increase took place within the Year 2013 and 2014.",
+      "The highest Sports market revenue in billion U.S. dollars, of value 83.1 was reached at Year 2023",
+      "Minimum Sports market revenue in billion U.S. dollars about 48.73 was reached at Year 2009",
+      "The line significantly "
    ],
+   "trends": [],
    "data": [
       {
          "Year": "2023",

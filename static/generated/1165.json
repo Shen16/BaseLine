@@ -1,5 +1,5 @@
 {
-   "title": "Test",
+   "title": "Brexit votes in the United Kingdom by social class 2016",
    "labels": [
       "Response",
       "Remain",
@@ -9,11 +9,30 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart has 4 categories of Response on the x axis representing 2 groups: Remain, and Leave.",
-      " Averaging these 2 groups, the highest category is found for Response Upper Middle-Class (AB) with a mean value of 50.0.",
-      " Followed by Lower Middle-Class (C1) with a mean value of 50.0.",
-      " The lowest category is observed at Lower Working-Class (DE) that has a mean value of 50.0",
-      " In case of Upper Middle-Class (AB), Remain shows more dominance than any other Response with a value 57.0 and it has the lowest value 36.0 in Lower Working-Class (DE). "
+      "This grouped bar chart shows SOME LABEL on the Y-axis for 4 different Responses for 2 groups Remain, and Leave that are presented on the X-axis. ",
+      " In Response Upper Working-Class (C2), Leave had the highest SOME LABEL 64.0 among the 2 groups and in Lower Working-Class (DE), Remain had the lowest SOME LABEL 36.0. ",
+      " Among all the Responses, Leave had the highest SOME LABEL 64.0 in Response Upper Working-Class (C2) and lowest value 43.0 in Response Upper Middle-Class (AB). ",
+      " There is a gap of 21.0 between the highest and lowest SOME LABEL found for Leave in Response Upper Working-Class (C2) and Upper Middle-Class (AB). "
+   ],
+   "xAxis": "Response",
+   "yAxis": "SOME LABEL",
+   "min_summary": [
+      "This grouped bar chart shows SOME LABEL on the Y-axis for 4 different Responses for 2 groups Remain, and Leave that are presented on the X-axis. ",
+      " Out of all 2 groups, Leave had the highest SOME LABEL in Response Upper Working-Class (C2) and Remain had the lowest SOME LABEL in Response Lower Working-Class (DE). "
+   ],
+   "mid_summary": [
+      "This grouped bar chart shows SOME LABEL on the Y-axis for 4 different Responses for 2 groups Remain, and Leave that are presented on the X-axis. ",
+      " In Response Upper Working-Class (C2), Leave had the highest SOME LABEL 64.0 among the 2 groups and in Lower Working-Class (DE), Remain had the lowest SOME LABEL 36.0. ",
+      " Among all the Responses, Leave had the highest SOME LABEL 64.0 in Response Upper Working-Class (C2) and lowest value 43.0 in Response Upper Middle-Class (AB). ",
+      " There is a gap of 21.0 between the highest and lowest SOME LABEL found for Leave in Response Upper Working-Class (C2) and Upper Middle-Class (AB). "
+   ],
+   "max_summary": [
+      "This grouped bar chart shows SOME LABEL on the Y-axis for 4 different Responses for 2 groups Remain, and Leave that are presented on the X-axis. ",
+      " Response Upper Working-Class (C2) had the maximum SOME LABEL among all 2 groups, and it was for Leave. The minimum SOME LABEL was observed in Response Lower Working-Class (DE) for Remain. ",
+      " Among all the Responses, Leave had the highest SOME LABEL in Response Upper Working-Class (C2) and lowest SOME LABEL in Response Upper Middle-Class (AB). ",
+      " The maximum SOME LABEL for Leave that was found in Response Upper Working-Class (C2) was 1.49 times larger than the minimum SOME LABEL observed in Response Upper Middle-Class (AB). ",
+      " Out of all 2 groups, the highest gap between the maximum and minimum SOME LABEL was found in case of Remain. ",
+      "On average, the Response Upper Middle-Class (AB) had the highest SOME LABEL for all 2 groups Remain, and Leave. Whereas Lower Working-Class (DE) had the lowest average SOME LABEL. "
    ],
    "trends": [
       {},

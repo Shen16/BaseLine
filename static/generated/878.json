@@ -1,16 +1,33 @@
 {
-   "title": "Test",
+   "title": "Ecstasy use in the past 12 months in Europe as of 2018  , by country",
    "xAxis": "Country",
    "yAxis": "Share of population",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 29 categories on the x axis representing Country, and Share of population in each Country on the y axis.",
-      "Netherlands is higher than any other categories with value 3.3, followed by , and United Kingdom. Down to category Cyprus with the lowest value of 0.1. ",
-      " The highest value at Netherlands is almost 33.0 times larger than the minimum value of Cyprus. ",
-      " The highest value at Netherlands is almost 33.0 times larger than the minimum value of Cyprus. ",
-      " The difference between the max Country Netherlands and min Country Cyprus is 3.1999999999999997. "
+      "This is a bar chart representing Country in the x axis and Share of population in the y axis. ",
+      "The Share of population is highest at Country Netherlands and lowest at Country Cyprus. ",
+      "The minimum Country Cyprus has got 33.0 times less Share of population than the maximum Country Netherlands. "
+   ],
+   "min_summary": [
+      "This bar chart has 29 columns on the x axis representing Country, and Share of population in each Country on the y axis. ",
+      "The Share of population is highest at Country Netherlands and lowest at Country Cyprus. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Country in the x axis and Share of population in the y axis. ",
+      "The Share of population is highest at Country Netherlands and lowest at Country Cyprus. ",
+      "The minimum Country Cyprus has got 33.0 times less Share of population than the maximum Country Netherlands. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Share of population for 29 number of Countrys. ",
+      "The maximum Share of population 3.3 is found at Country Netherlands and the minimum is found at Cyprus where Country is 0.1. ",
+      "Country  has the second highest value for Share of population. ",
+      "There is a difference of 3.2 between the maximum Country Netherlands and minimum Country Cyprus. ",
+      "Share of population at Country Netherlands is 3.3 , second place is  at 3.3, and thirdly is United Kingdom at 1.7.",
+      "Country France, Slovakia, Croatia, Germany, and Spain have a similar Share of population that is 0.6. ",
+      "Considered together, the average Share of population in all 29 Countrys is roughly 0.73. ",
+      "The Share of population is 21.1 if we add up values of all Countrys. "
    ],
    "trends": [
       {},

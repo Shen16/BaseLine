@@ -1,48 +1,42 @@
 {
-   "title": "Test",
+   "title": "Ratio of government expenditure to gross domestic product ( GDP ) in Malaysia 2024",
    "xAxis": "Year",
    "yAxis": "Ratio of government expenditure to GDP",
    "columnType": "two",
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Ratio of government expenditure to GDP, with a total of 11 data points.",
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Ratio of government expenditure to GDP. In total the number of data points it has is 11.",
+      " In general Ratio of government expenditure to GDP has fallen over the Year.",
+      "Ratio of government expenditure to GDP is gradually decreasing from 2014 to 2017, slightly increasing from 2017 to 2018, roughly constant from 2018 to 2019, slightly decreasing from 2019 to 2020, and lastly roughly constant from 2020 to 2024.",
+      "The line significantly ",
+      "The most drastic decrease took place within the Year 2019 and 2020.",
+      "The highest Ratio of government expenditure to GDP, of value 25.96 was reached at Year 2014",
+      "Minimum Ratio of government expenditure to GDP about 20.35 was reached at Year 2024"
+   ],
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Ratio of government expenditure to GDP, containing a total of 11 data points.",
+      " In general Ratio of government expenditure to GDP has fallen over the Year.",
+      "Ratio of government expenditure to GDP is gradually decreasing from 2014 to 2017, slightly increasing from 2017 to 2018, roughly constant from 2018 to 2019, slightly decreasing from 2019 to 2020, and lastly roughly constant from 2020 to 2024."
+   ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Ratio of government expenditure to GDP, containing a total of 11 data points.",
       " Overall Ratio of government expenditure to GDP has decreased over the Year.",
       "Ratio of government expenditure to GDP is gradually decreasing from 2014 to 2017, slightly increasing from 2017 to 2018, roughly constant from 2018 to 2019, slightly decreasing from 2019 to 2020, and lastly roughly constant from 2020 to 2024.",
+      "The most drastic decrease took place within the Year 2019 and 2020.",
+      "The highest Ratio of government expenditure to GDP, of value 25.96 was reached at Year 2014",
+      "Minimum Ratio of government expenditure to GDP about 20.35 was reached at Year 2024"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Ratio of government expenditure to GDP, containing a total of 11 data points.",
+      " In general Ratio of government expenditure to GDP has fallen over the Year.",
+      "Ratio of government expenditure to GDP is gradually decreasing from 2014 to 2017, slightly increasing from 2017 to 2018, roughly constant from 2018 to 2019, slightly decreasing from 2019 to 2020, and lastly roughly constant from 2020 to 2024.",
       "The steepest decrease occurs in between the Year 2019 and 2020.",
-      "Max Ratio of government expenditure to GDP about 25.96 was recorded at Year 2014",
-      "Min Ratio of government expenditure to GDP about 20.35 was recorded at Year 2024",
-      "#########################################################################",
-      "This line chart has an x axis representing Year and a y axis representing Ratio of government expenditure to GDP, with a total of 11 data points. The chart has 5 significant trends.",
-      " The longest trend is slightly decreasing which exists from 2014 to 2017.",
-      " Contrarily, the next significant trend is moderately decreasing which exists from 2022 to 2024.",
-      " On the contrary, the next significant trend is slightly decreasing which exists from 2019 to 2021.",
-      " On the contrary, the next significant trend is extremely increasing which exists from 2017 to 2019.",
-      " Also, the next significant trend is moderately increasing which exists from 2021 to 2022."
+      "The highest Ratio of government expenditure to GDP, of value 25.96 was reached at Year 2014",
+      "Minimum Ratio of government expenditure to GDP about 20.35 was reached at Year 2024",
+      "The line drastically "
    ],
-   "trends": [
-      {},
-      {
-         "1": "7",
-         "12": "10"
-      },
-      {
-         "3": "0",
-         "14": "2"
-      },
-      {
-         "3": "3",
-         "14": "5"
-      },
-      {
-         "3": "5",
-         "14": "7"
-      },
-      {
-         "3": "2",
-         "14": "3"
-      }
-   ],
+   "trends": [],
    "data": [
       {
          "Year": "2024",

@@ -1,18 +1,32 @@
 {
-   "title": "Test",
+   "title": "U.S. motorcycle registrations by state 2017",
    "xAxis": "State",
    "yAxis": "Registrations in units",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 51 categories on the x axis representing State, and Registrations in units in each State on the y axis.",
-      " The highest category is found at California where Registrations in units is 842543.0.",
-      " Followed by 842543.0 in .",
-      " The lowest category is found at Dist. of Col. where Registrations in units is 4290.0.",
-      " The highest value at California is almost 196.4 times larger than the minimum value of Dist. of Col.. ",
-      " The highest value at California is almost 196.4 times larger than the minimum value of Dist. of Col.. ",
-      " The difference between the max State California and min State Dist. of Col. is 838253.0. "
+      "This is a bar chart representing State in the x axis and Registrations in units in the y axis. ",
+      "The Registrations in units is appeared to be the highest at State California and lowest at State Dist. of Col.. ",
+      "There is a difference of 838253.0 between the maximum State California and minimum State Dist. of Col.. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing State in the x axis and Registrations in units in the y axis. ",
+      "The Registrations in units is appeared to be the highest at State California and lowest at State Dist. of Col.. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing State in the x axis and Registrations in units in the y axis. ",
+      "The Registrations in units is appeared to be the highest at State California and lowest at State Dist. of Col.. ",
+      "There is a difference of 838253.0 between the maximum State California and minimum State Dist. of Col.. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Registrations in units for 51 number of States. ",
+      "The maximum Registrations in units 842543.0 is found at State California and the minimum is found at Dist. of Col. where State is 4290.0. ",
+      "Second maximum Registrations in units is found at State . ",
+      "The highest State California has 838253.0 more Registrations in units than the lowest State Dist. of Col.. ",
+      "The State California has the highest Registrations in units, followed by , and Ohio. Down to the State Dist. of Col. which is the lowest. ",
+      "The State California has 4.93 times more Registrations in units than average. ",
+      "The Registrations in units is 8715204.0 if we add up values of all States. "
    ],
    "trends": [
       {},

@@ -1,48 +1,38 @@
 {
-   "title": "Test",
+   "title": "Natural gas prices for households in Germany 2010 - 2018 , semi-annually",
    "xAxis": "Year",
    "yAxis": "Euro cents per kilowatt-hour",
    "columnType": "two",
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Euro cents per kilowatt-hour, with a total of 17 data points.",
+      "This is a line chart with an x axis representing Year and a y axis representing Euro cents per kilowatt-hour, containing a total of 17 data points.",
       " Overall Euro cents per kilowatt-hour has increased over the Year.",
-      "Euro cents per kilowatt-hour is roughly constant from 2010_S1 to 2010_S2, gradually increasing from 2010_S2 to 2011_S2, roughly constant from 2011_S2 to 2012_S1, slightly increasing from 2012_S1 to 2013_S2, roughly constant from 2013_S2 to 2015_S2, gradually decreasing from 2015_S2 to 2017_S1, and lastly roughly constant from 2017_S1 to 2018_S1.",
+      "The line rapidly ",
       "The steepest increase occurs in between the Year 2011_S1 and 2011_S2.",
-      "Max Euro cents per kilowatt-hour about 6.89 was recorded at Year 2013_S2",
-      "Min Euro cents per kilowatt-hour about 5.65 was recorded at Year 2010_S1",
-      "#########################################################################",
-      "This line chart has an x axis representing Year and a y axis representing Euro cents per kilowatt-hour, with a total of 17 data points. The chart has 5 significant trends.",
-      " The longest trend is slightly decreasing which exists from 2015_S2 to 2018_S1.",
-      " Contrarily, the next significant trend is extremely increasing which exists from 2010_S1 to 2012_S1.",
-      " In a similar manner, the next significant trend is extremely increasing which exists from 2012_S1 to 2013_S2.",
-      " Similarly, the next significant trend is moderately decreasing which exists from 2014_S2 to 2015_S2.",
-      " On the other hand, the next significant trend is moderately decreasing which exists from 2013_S2 to 2014_S2."
+      "The highest Euro cents per kilowatt-hour, of value 6.89 was reached at Year 2013_S2",
+      "The lowest Euro cents per kilowatt-hour, of value 5.65 was reported at Year 2010_S1"
    ],
-   "trends": [
-      {},
-      {
-         "1": "0",
-         "12": "5"
-      },
-      {
-         "3": "12",
-         "14": "16"
-      },
-      {
-         "3": "9",
-         "14": "12"
-      },
-      {
-         "3": "5",
-         "14": "7"
-      },
-      {
-         "3": "7",
-         "14": "9"
-      }
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Euro cents per kilowatt-hour. In total the number of data points it has is 17.",
+      " Overall Euro cents per kilowatt-hour has increased over the Year."
    ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Euro cents per kilowatt-hour. In total the number of data points it has is 17.",
+      " Overall Euro cents per kilowatt-hour has increased over the Year.",
+      "The steepest increase occurs in between the Year 2011_S1 and 2011_S2.",
+      "The highest Euro cents per kilowatt-hour, of value 6.89 was reached at Year 2013_S2",
+      "The lowest Euro cents per kilowatt-hour, of value 5.65 was reported at Year 2010_S1"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Euro cents per kilowatt-hour, containing a total of 17 data points.",
+      " In general Euro cents per kilowatt-hour has rose over the Year.",
+      "The steepest increase occurs in between the Year 2011_S1 and 2011_S2.",
+      "The highest Euro cents per kilowatt-hour, of value 6.89 was reached at Year 2013_S2",
+      "The lowest Euro cents per kilowatt-hour, of value 5.65 was reported at Year 2010_S1",
+      "The line drastically "
+   ],
+   "trends": [],
    "data": [
       {
          "Year": "2018 S1",

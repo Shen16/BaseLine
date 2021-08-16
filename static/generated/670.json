@@ -1,28 +1,42 @@
 {
-   "title": "Test",
+   "title": "Total population of Iraq 2024",
    "xAxis": "Year",
    "yAxis": "Inhabitants in millions",
    "columnType": "two",
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Inhabitants in millions, with a total of 11 data points.",
-      " Overall Inhabitants in millions has increased over the Year.",
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Inhabitants in millions. In total the number of data points it has is 11.",
+      " In general Inhabitants in millions has rose over the Year.",
+      "Inhabitants in millions is roughly constant from 2014 to 2015, and lastly slightly increasing from 2015 to 2024.",
+      "The line drastically ",
+      "The most drastic increase took place within the Year 2023 and 2024.",
+      "Maximum Inhabitants in millions, about 44.47 was reported at Year 2024",
+      "The lowest Inhabitants in millions, of value 35.0 was reported at Year 2014"
+   ],
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Inhabitants in millions, containing a total of 11 data points.",
+      " In general Inhabitants in millions has rose over the Year.",
+      "Inhabitants in millions is roughly constant from 2014 to 2015, and lastly slightly increasing from 2015 to 2024."
+   ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Inhabitants in millions. In total the number of data points it has is 11.",
+      " In general Inhabitants in millions has rose over the Year.",
+      "Inhabitants in millions is roughly constant from 2014 to 2015, and lastly slightly increasing from 2015 to 2024.",
+      "The most drastic increase took place within the Year 2023 and 2024.",
+      "Maximum Inhabitants in millions, about 44.47 was reported at Year 2024",
+      "The lowest Inhabitants in millions, of value 35.0 was reported at Year 2014"
+   ],
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Inhabitants in millions. In total the number of data points it has is 11.",
+      " In general Inhabitants in millions has rose over the Year.",
       "Inhabitants in millions is roughly constant from 2014 to 2015, and lastly slightly increasing from 2015 to 2024.",
       "The steepest increase occurs in between the Year 2023 and 2024.",
-      "Max Inhabitants in millions about 44.47 was recorded at Year 2024",
-      "Min Inhabitants in millions about 35.0 was recorded at Year 2014",
-      "#########################################################################",
-      "This line chart has an x axis representing Year and a y axis representing Inhabitants in millions with a total of 11 data points. The chart has one significant trend.",
-      " This trend is increasing which exists from 2024 to 2014."
+      "Maximum Inhabitants in millions, about 44.47 was reported at Year 2024",
+      "The lowest Inhabitants in millions, of value 35.0 was reported at Year 2014",
+      "The line drastically "
    ],
-   "trends": [
-      {},
-      {
-         "3": "0",
-         "14": "10"
-      }
-   ],
+   "trends": [],
    "data": [
       {
          "Year": "2024",

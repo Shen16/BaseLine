@@ -1,16 +1,32 @@
 {
-   "title": "Test",
+   "title": "Number of physicians in Vietnam 2017 , by region",
    "xAxis": "Vietnamese Region",
    "yAxis": "Number of physicians",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 69 categories on the x axis representing Vietnamese Region, and Number of physicians in each Vietnamese Region on the y axis.",
-      "Northern Central area and Central coastal area is higher than any other categories with value 11747.0, followed by , and Mekong River Delta. Down to category Dak Nong with the lowest value of 269.0. ",
-      " The highest value at Northern Central area and Central coastal area is almost 43.67 times larger than the minimum value of Dak Nong. ",
-      " The highest value at Northern Central area and Central coastal area is almost 43.67 times larger than the minimum value of Dak Nong. ",
-      " The difference between the max Vietnamese Region Northern Central area and Central coastal area and min Vietnamese Region Dak Nong is 11478.0. "
+      "This is a bar chart. It shows Number of physicians for 69 number of Vietnamese Regions. ",
+      "Vietnamese Region Northern Central area and Central coastal area has the highest Number of physicians and Dak Nong has the lowest Number of physicians. ",
+      "The Number of physicians of Vietnamese Region Northern Central area and Central coastal area is 43.67% larger than the minimum value at Dak Nong. "
+   ],
+   "min_summary": [
+      "This bar chart has 69 columns on the x axis representing Vietnamese Region, and Number of physicians in each Vietnamese Region on the y axis. ",
+      "Vietnamese Region Northern Central area and Central coastal area has the highest Number of physicians and Dak Nong has the lowest Number of physicians. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Number of physicians for 69 number of Vietnamese Regions. ",
+      "Vietnamese Region Northern Central area and Central coastal area has the highest Number of physicians and Dak Nong has the lowest Number of physicians. ",
+      "The Number of physicians of Vietnamese Region Northern Central area and Central coastal area is 43.67% larger than the minimum value at Dak Nong. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Number of physicians for 69 number of Vietnamese Regions. ",
+      "The maximum Number of physicians 11747.0 is found at Vietnamese Region Northern Central area and Central coastal area and the minimum is found at Dak Nong where Vietnamese Region is 269.0. ",
+      "Vietnamese Region  has the second highest value for Number of physicians. ",
+      "There is a difference of 11478.0 between the maximum Vietnamese Region Northern Central area and Central coastal area and minimum Vietnamese Region Dak Nong. ",
+      "Vietnamese Region Northern Central area and Central coastal area is higher than any other Vietnamese Regions with value 11747.0, followed by , and Mekong River Delta. Down to Vietnamese Region Dak Nong with the lowest value 269.0. ",
+      "Similar Number of physicians is found in Vietnamese Region Binh Dinh, and Quang Ngai. ",
+      "The Vietnamese Region Northern Central area and Central coastal area tends to be 7.84 percent higher than average. "
    ],
    "trends": [
       {},

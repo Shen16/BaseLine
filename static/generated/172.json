@@ -1,16 +1,30 @@
 {
-   "title": "Test",
+   "title": "Global distribution systems : company revenues 2017",
    "xAxis": "Company",
    "yAxis": "Revenue in billion U.S. dollars",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 3 categories on the x axis representing Company, and Revenue in billion U.S. dollars in each Company on the y axis.",
-      "",
-      " The highest value at Amadeus is almost 2.37 times larger than the minimum value of Travelport. ",
-      " The highest value at Amadeus is almost 2.37 times larger than the minimum value of Travelport. ",
-      " The difference between the max Company Amadeus and min Company Travelport is 3.3599999999999994. "
+      "This is a bar chart representing Company in the x axis and Revenue in billion U.S. dollars in the y axis. ",
+      "The Revenue in billion U.S. dollars is appeared to be the highest at Company Amadeus and lowest at Company Travelport. ",
+      "The lowest value at Company Travelport is 2.37x times less than the highest value at Amadeus. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing Company in the x axis and Revenue in billion U.S. dollars in the y axis. ",
+      "Company Amadeus has the highest Revenue in billion U.S. dollars and Travelport has the lowest Revenue in billion U.S. dollars. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Company in the x axis and Revenue in billion U.S. dollars in the y axis. ",
+      "The Revenue in billion U.S. dollars is appeared to be the highest at Company Amadeus and lowest at Company Travelport. ",
+      "The lowest value at Company Travelport is 2.37x times less than the highest value at Amadeus. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Company in the x axis and Revenue in billion U.S. dollars in the y axis. ",
+      "The Revenue in billion U.S. dollars is highest at Company Amadeus and lowest at Company Travelport. ",
+      "Company  has the second highest value for Revenue in billion U.S. dollars. ",
+      "The difference of Revenue in billion U.S. dollars between the highest and lowest Company is 3.36. ",
+      "The Company Travelport tends to be 1.47 percent lower than average. "
    ],
    "trends": [
       {},

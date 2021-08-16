@@ -1,16 +1,32 @@
 {
-   "title": "Test",
+   "title": "Financial cyber crime losses in the U.S. 2018 , by victim state",
    "xAxis": "State",
    "yAxis": "Annual loss in million U.S. dollars",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 10 categories on the x axis representing State, and Annual loss in million U.S. dollars in each State on the y axis.",
-      "California is higher than any other categories with value 450.48, followed by , and Texas. Down to category Massachusetts with the lowest value of 68.24. ",
-      " The highest value at California is almost 6.6 times larger than the minimum value of Massachusetts. ",
-      " The highest value at California is almost 6.6 times larger than the minimum value of Massachusetts. ",
-      " The difference between the max State California and min State Massachusetts is 382.24. "
+      "This is a bar chart representing State in the x axis and Annual loss in million U.S. dollars in the y axis. ",
+      "The maximum Annual loss in million U.S. dollars 450.48 is found at State California and the minimum is found at Massachusetts where State is 68.24. ",
+      "The difference of Annual loss in million U.S. dollars between the highest and lowest State is 382.24. "
+   ],
+   "min_summary": [
+      "This bar chart has 10 columns on the x axis representing State, and Annual loss in million U.S. dollars in each State on the y axis. ",
+      "State California has the highest Annual loss in million U.S. dollars and Massachusetts has the lowest Annual loss in million U.S. dollars. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing State in the x axis and Annual loss in million U.S. dollars in the y axis. ",
+      "The maximum Annual loss in million U.S. dollars 450.48 is found at State California and the minimum is found at Massachusetts where State is 68.24. ",
+      "The difference of Annual loss in million U.S. dollars between the highest and lowest State is 382.24. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Annual loss in million U.S. dollars for 10 number of States. ",
+      "State California has the highest Annual loss in million U.S. dollars and Massachusetts has the lowest Annual loss in million U.S. dollars. ",
+      "State  has the second highest value for Annual loss in million U.S. dollars. ",
+      "The maximum State California has got 6.6 times higher Annual loss in million U.S. dollars than the minimum State Massachusetts. ",
+      "State California is higher than any other States with value 450.48, followed by , and Texas. Down to State Massachusetts with the lowest value 68.24. ",
+      "The lowest value 68.24 at Massachusetts is almost 2.87 times smaller than the average value 157.2. ",
+      "Summing up the values of all States, we get total 1572.01. "
    ],
    "trends": [
       {},

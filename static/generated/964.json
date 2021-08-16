@@ -1,5 +1,5 @@
 {
-   "title": "Test",
+   "title": "Trust in online customer reviews 2014 to 2018",
    "labels": [
       "Response",
       "2014",
@@ -12,12 +12,31 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart has 6 categories of Response on the x axis representing 5 groups: 2014, 2015, 2016, 2017, and 2018.",
-      " Averaging these 5 groups, the highest category is found for Response Yes if I believe the reviews are authentic with a mean value of 25.2.",
-      " Followed by Yes if there are multiple customer reviews to read with a mean value of 22.0.",
-      " The lowest category is observed at No I am often skeptical about online reviews that has a mean value of 8.2",
-      " showing a difference of 101.8% with the maximum value.",
-      " In case of Yes for some types of businesses no for others, 2014 shows more dominance than any other Response with a value 34.0 and it has the lowest value 0.0 in Yes always.  However, 2015 is the second impactful group, and it has the highest value 27.0 for Response Yes if I believe the reviews are authentic and the lowest 4.0 in case of No I don't trust reviews at all. "
+      "This grouped bar chart represents 6 different Responses on X-axis for 5 groups 2014, 2015, 2016, 2017, and 2018. On the Y-axis it shows their corresponding SOME LABEL. ",
+      " In Response Yes for some types of businesses no for others, 2014 had the highest SOME LABEL 34.0 among the 5 groups and in Yes always, 2014 had the lowest SOME LABEL 0.0. ",
+      " Among all the Responses, 2018 had the highest SOME LABEL 25.0 in Response Yes if there are multiple customer reviews to read and lowest value 6.0 in Response No I don't trust reviews at all. ",
+      "Response Yes if there are multiple customer reviews to read and No I don't trust reviews at all had the biggest gap of 19.0 between the highest and lowest SOME LABEL found for 2018. "
+   ],
+   "xAxis": "Response",
+   "yAxis": "SOME LABEL",
+   "min_summary": [
+      "This grouped bar chart shows SOME LABEL on the Y-axis for 6 different Responses for 5 groups 2014, 2015, 2016, 2017, and 2018 that are presented on the X-axis. ",
+      " Out of all 5 groups, 2014 had the highest SOME LABEL in Response Yes for some types of businesses no for others and 2014 had the lowest SOME LABEL in Response Yes always. "
+   ],
+   "mid_summary": [
+      "This grouped bar chart represents 6 different Responses on X-axis for 5 groups 2014, 2015, 2016, 2017, and 2018. On the Y-axis it shows their corresponding SOME LABEL. ",
+      " In Response Yes for some types of businesses no for others, 2014 had the highest SOME LABEL 34.0 among the 5 groups and in Yes always, 2014 had the lowest SOME LABEL 0.0. ",
+      " Among all the Responses, 2018 had the highest SOME LABEL 25.0 in Response Yes if there are multiple customer reviews to read and lowest value 6.0 in Response No I don't trust reviews at all. ",
+      "Response Yes if there are multiple customer reviews to read and No I don't trust reviews at all had the biggest gap of 19.0 between the highest and lowest SOME LABEL found for 2018. "
+   ],
+   "max_summary": [
+      "This grouped bar chart represents 6 different Responses on X-axis for 5 groups 2014, 2015, 2016, 2017, and 2018. On the Y-axis it shows their corresponding SOME LABEL. ",
+      " In Response Yes for some types of businesses no for others, 2014 had the highest SOME LABEL 34.0 among the 5 groups and in Yes always, 2014 had the lowest SOME LABEL 0.0. ",
+      " In Response Yes if there are multiple customer reviews to read, 2018 had the highest SOME LABEL among all 6 Responses and it has the lowest SOME LABEL in Response No I don't trust reviews at all. ",
+      " There is a gap of 19.0 between the highest and lowest SOME LABEL found for 2018 in Response Yes if there are multiple customer reviews to read and No I don't trust reviews at all. ",
+      " Out of all 5 groups, the highest gap between the maximum and minimum SOME LABEL was found in case of 2014. ",
+      " 2014 had the maximum SOME LABEL out of all 5 groups in Response Yes for some types of businesses no for others followed by 2014 in Yes for some types of businesses no for others, and the minimum SOME LABEL is found for 2014 in Yes always. ",
+      "On average, the Response Yes if I believe the reviews are authentic had the highest SOME LABEL for all 5 groups 2014, 2015, 2016, 2017, and 2018. Whereas No I am often skeptical about online reviews had the lowest average SOME LABEL. "
    ],
    "trends": [
       {},

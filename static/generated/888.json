@@ -1,13 +1,31 @@
 {
-   "title": "Test",
+   "title": "Average age of players in Major League Baseball by club 2019",
    "xAxis": "Major League Baseball Player",
    "yAxis": "Average player age in years",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 30 categories on the x axis representing Major League Baseball Player, and Average player age in years in each Major League Baseball Player on the y axis.",
-      "Washington Nationals is higher than any other categories with value 30.1, followed by , and Houston Astros. Down to category Baltimore Orioles with the lowest value of 25.7. "
+      "This is a bar chart representing Major League Baseball Player in the x axis and Average player age in years in the y axis. ",
+      "The Average player age in years is highest at Major League Baseball Player Washington Nationals and lowest at Major League Baseball Player Baltimore Orioles. ",
+      "The minimum Major League Baseball Player Baltimore Orioles has got 1.17 times less Average player age in years than the maximum Major League Baseball Player Washington Nationals. "
+   ],
+   "min_summary": [
+      "This bar chart has 30 columns on the x axis representing Major League Baseball Player, and Average player age in years in each Major League Baseball Player on the y axis. ",
+      "The Average player age in years is highest at Major League Baseball Player Washington Nationals and lowest at Major League Baseball Player Baltimore Orioles. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Major League Baseball Player in the x axis and Average player age in years in the y axis. ",
+      "The Average player age in years is highest at Major League Baseball Player Washington Nationals and lowest at Major League Baseball Player Baltimore Orioles. ",
+      "The minimum Major League Baseball Player Baltimore Orioles has got 1.17 times less Average player age in years than the maximum Major League Baseball Player Washington Nationals. "
+   ],
+   "max_summary": [
+      "This bar chart has 30 columns on the x axis representing Major League Baseball Player, and Average player age in years in each Major League Baseball Player on the y axis. ",
+      "Major League Baseball Player Washington Nationals has the highest Average player age in years and Baltimore Orioles has the lowest Average player age in years. ",
+      "The difference of Average player age in years between the highest and lowest Major League Baseball Player is 4.4. ",
+      "Major League Baseball Player Washington Nationals is higher than any other Major League Baseball Players with value 30.1, followed by , and Houston Astros. Down to Major League Baseball Player Baltimore Orioles with the lowest value 25.7. ",
+      "Major League Baseball Player Chicago Cubs, Atlanta Braves, and New York Yankees have a similar Average player age in years that is 29.5. ",
+      "The Major League Baseball Player Baltimore Orioles has 1.07 times less Average player age in years than average. "
    ],
    "trends": [
       {},

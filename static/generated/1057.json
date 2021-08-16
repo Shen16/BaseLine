@@ -1,48 +1,42 @@
 {
-   "title": "Test",
+   "title": "Reptile-ownership : household penetration rates 2007 to 2013",
    "xAxis": "Year",
    "yAxis": "Penetration rates",
    "columnType": "two",
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Penetration rates, with a total of 7 data points.",
-      " Overall Penetration rates has decreased over the Year.",
-      "Penetration rates is gradually decreasing from 2013 to 2012, roughly constant from 2012 to 2010, slightly increasing from 2010 to 2008, and lastly roughly constant from 2008 to 2007.",
-      "The steepest decrease occurs in between the Year 2013 and 2012.",
-      "Max Penetration rates about 2.7 was recorded at Year 2013",
-      "Min Penetration rates about 1.5 was recorded at Year 2009",
-      "#########################################################################",
-      "This line chart has an x axis representing Year and a y axis representing Penetration rates, with a total of 7 data points. The chart has 5 significant trends.",
-      " The longest trend is extremely decreasing which exists from 2013 to 2011.",
-      " On the other hand, the next significant trend is moderately decreasing which exists from 2008 to 2007.",
-      " On the other hand, the next significant trend is slightly increasing which exists from 2009 to 2008.",
-      " In a similar manner, the next significant trend is extremely decreasing which exists from 2010 to 2009.",
-      " Differently, the next significant trend is moderately increasing which exists from 2011 to 2010."
+      "This is a line chart with an x axis representing Year and a y axis representing Penetration rates, containing a total of 7 data points.",
+      " In general Penetration rates has rose over the Year.",
+      "Penetration rates is roughly constant from 2007 to 2008, slightly decreasing from 2008 to 2009, roughly constant from 2009 to 2012, and finally slightly increasing from 2012 to 2013.",
+      "The line drastically ",
+      "The steepest increase occurs in between the Year 2012 and 2013.",
+      "The highest Penetration rates, of value 2.7 was reached at Year 2013",
+      "The lowest Penetration rates, of value 1.5 was reported at Year 2009"
    ],
-   "trends": [
-      {},
-      {
-         "1": "4",
-         "12": "6"
-      },
-      {
-         "3": "0",
-         "14": "1"
-      },
-      {
-         "3": "1",
-         "14": "2"
-      },
-      {
-         "3": "2",
-         "14": "3"
-      },
-      {
-         "3": "3",
-         "14": "4"
-      }
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Penetration rates, containing a total of 7 data points.",
+      " In general Penetration rates has rose over the Year.",
+      "Penetration rates is roughly constant from 2007 to 2008, slightly decreasing from 2008 to 2009, roughly constant from 2009 to 2012, and finally slightly increasing from 2012 to 2013."
    ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Penetration rates. In total the number of data points it has is 7.",
+      " In general Penetration rates has rose over the Year.",
+      "Penetration rates is roughly constant from 2007 to 2008, slightly decreasing from 2008 to 2009, roughly constant from 2009 to 2012, and finally slightly increasing from 2012 to 2013.",
+      "The most drastic increase took place within the Year 2012 and 2013.",
+      "The highest Penetration rates, of value 2.7 was reached at Year 2013",
+      "The lowest Penetration rates, of value 1.5 was reported at Year 2009"
+   ],
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Penetration rates. In total the number of data points it has is 7.",
+      " In general Penetration rates has rose over the Year.",
+      "Penetration rates is roughly constant from 2007 to 2008, slightly decreasing from 2008 to 2009, roughly constant from 2009 to 2012, and finally slightly increasing from 2012 to 2013.",
+      "The most drastic increase took place within the Year 2012 and 2013.",
+      "The highest Penetration rates, of value 2.7 was reached at Year 2013",
+      "The lowest Penetration rates, of value 1.5 was reported at Year 2009",
+      "The line rapidly "
+   ],
+   "trends": [],
    "data": [
       {
          "Year": "2007",

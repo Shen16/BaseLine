@@ -1,28 +1,38 @@
 {
-   "title": "Test",
+   "title": "Canada : total university enrollment 2000 to 2018",
    "xAxis": "Year",
    "yAxis": "Number of students in thousands",
    "columnType": "two",
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Number of students in thousands, with a total of 19 data points.",
+      "This is a line chart with an x axis representing Year and a y axis representing Number of students in thousands, containing a total of 19 data points.",
       " Overall Number of students in thousands has increased over the Year.",
-      "Number of students in thousands is roughly constant from 2000 to 2001, gradually increasing from 2001 to 2005, roughly constant from 2005 to 2008, gradually increasing from 2008 to 2012, roughly constant from 2012 to 2017, and lastly roughly increasing from 2017 to 2018.",
+      "The line drastically ",
+      "The most drastic increase took place within the Year 2009 and 2010.",
+      "Maximum Number of students in thousands, about 1341.35 was reported at Year 2018",
+      "The lowest Number of students in thousands, of value 846.6 was reported at Year 2000"
+   ],
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Number of students in thousands, containing a total of 19 data points.",
+      " Overall Number of students in thousands has increased over the Year."
+   ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of students in thousands. In total the number of data points it has is 19.",
+      " In general Number of students in thousands has rose over the Year.",
+      "The most drastic increase took place within the Year 2009 and 2010.",
+      "Maximum Number of students in thousands, about 1341.35 was reported at Year 2018",
+      "The lowest Number of students in thousands, of value 846.6 was reported at Year 2000"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Number of students in thousands, containing a total of 19 data points.",
+      " In general Number of students in thousands has rose over the Year.",
       "The steepest increase occurs in between the Year 2009 and 2010.",
-      "Max Number of students in thousands about 1341.35 was recorded at Year 2018",
-      "Min Number of students in thousands about 846.6 was recorded at Year 2000",
-      "#########################################################################",
-      "This line chart has an x axis representing Year and a y axis representing Number of students in thousands with a total of 19 data points. The chart has one significant trend.",
-      " This trend is increasing which exists from 2018 to 2000."
+      "Maximum Number of students in thousands, about 1341.35 was reported at Year 2018",
+      "The lowest Number of students in thousands, of value 846.6 was reported at Year 2000",
+      "The line significantly "
    ],
-   "trends": [
-      {},
-      {
-         "3": "0",
-         "14": "18"
-      }
-   ],
+   "trends": [],
    "data": [
       {
          "Year": "2018",

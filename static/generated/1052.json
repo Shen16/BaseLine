@@ -1,48 +1,42 @@
 {
-   "title": "Test",
+   "title": "Defense spending as share of GDP in the United Kingdom ( UK ) 1980 to 2018",
    "xAxis": "Year",
    "yAxis": "Defense spending as share of GDP",
    "columnType": "two",
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Defense spending as share of GDP, with a total of 39 data points.",
-      " Overall Defense spending as share of GDP has decreased over the Year.",
-      "Defense spending as share of GDP is slightly increasing from 1980 to 1982, roughly constant from 1982 to 1983, gradually decreasing from 1983 to 1988, roughly constant from 1988 to 1990, rapidly decreasing from 1990 to 1998, roughly constant from 1998 to 2001, slightly decreasing from 2001 to 2003, roughly increasing from 2003 to 2005, roughly constant from 2005 to 2007, roughly increasing from 2007 to 2008, roughly constant from 2008 to 2010, slightly decreasing from 2010 to 2014, and lastly roughly constant from 2014 to 2018.",
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Defense spending as share of GDP. In total the number of data points it has is 39.",
+      " In general Defense spending as share of GDP has fallen over the Year.",
+      "The chart in general has a zig-zag shape.",
+      "The line rapidly ",
       "The steepest increase occurs in between the Year 1981 and 1982.",
-      "Max Defense spending as share of GDP about 5.5 was recorded at Year 1984",
-      "Min Defense spending as share of GDP about 2.1 was recorded at Year 2015,  2016,  2017, and 2018",
-      "#########################################################################",
-      "This line chart has an x axis representing Year and a y axis representing Defense spending as share of GDP, with a total of 39 data points. The chart has 5 significant trends.",
-      " The longest trend is slightly decreasing which exists from 1991 to 2001.",
-      " Differently, the next significant trend is slightly decreasing which exists from 1984 to 1991.",
-      " On the other hand, the next significant trend is extremely increasing which exists from 2007 to 2013.",
-      " In a similar manner, the next significant trend is extremely decreasing which exists from 2001 to 2007.",
-      " On the other hand, the next significant trend is extremely decreasing which exists from 2013 to 2018."
+      "The highest Defense spending as share of GDP, of value 5.5 was reached at Year 1984",
+      "The lowest Defense spending as share of GDP, of value 2.1 was reported at Year 2015,  2016,  2017, and 2018"
    ],
-   "trends": [
-      {},
-      {
-         "1": "17",
-         "12": "27"
-      },
-      {
-         "3": "27",
-         "14": "34"
-      },
-      {
-         "3": "5",
-         "14": "11"
-      },
-      {
-         "3": "11",
-         "14": "17"
-      },
-      {
-         "3": "0",
-         "14": "5"
-      }
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Defense spending as share of GDP. In total the number of data points it has is 39.",
+      " Overall Defense spending as share of GDP has decreased over the Year."
    ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Defense spending as share of GDP, containing a total of 39 data points.",
+      " In general Defense spending as share of GDP has fallen over the Year.",
+      "The most drastic increase took place within the Year 1981 and 1982.",
+      "The highest Defense spending as share of GDP, of value 5.5 was reached at Year 1984",
+      "The lowest Defense spending as share of GDP, of value 2.1 was reported at Year 2015,  2016,  2017, and 2018"
+   ],
+   "max_summary": [
+      "The chart in general has a zig-zag shape.",
+      "The chart in general has a zig-zag shape.",
+      "This is a line chart with an x axis representing Year and a y axis representing Defense spending as share of GDP, containing a total of 39 data points.",
+      " In general Defense spending as share of GDP has fallen over the Year.",
+      "The chart generally has many fluctuations.",
+      "The most drastic increase took place within the Year 1981 and 1982.",
+      "The highest Defense spending as share of GDP, of value 5.5 was reached at Year 1984",
+      "The lowest Defense spending as share of GDP, of value 2.1 was reported at Year 2015,  2016,  2017, and 2018",
+      "The line rapidly "
+   ],
+   "trends": [],
    "data": [
       {
          "Year": "2018",

@@ -1,18 +1,32 @@
 {
-   "title": "Test",
+   "title": "Global market share held by PC vendors 2019",
    "xAxis": "Brand",
    "yAxis": "Share of shipments",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 7 categories on the x axis representing Brand, and Share of shipments in each Brand on the y axis.",
-      " The highest category is found at Lenovo where Share of shipments is 24.1.",
-      " Followed by 24.1 in .",
-      " The lowest category is found at Asus where Share of shipments is 5.5.",
-      " The highest value at Lenovo is almost 4.38 times larger than the minimum value of Asus. ",
-      " The highest value at Lenovo is almost 4.38 times larger than the minimum value of Asus. ",
-      " The difference between the max Brand Lenovo and min Brand Asus is 18.6. "
+      "This is a bar chart representing Brand in the x axis and Share of shipments in the y axis. ",
+      "The Share of shipments is highest at Brand Lenovo and lowest at Brand Asus. ",
+      "The difference of Share of shipments between the highest and lowest Brand is 18.6. "
+   ],
+   "min_summary": [
+      "This bar chart has 7 columns on the x axis representing Brand, and Share of shipments in each Brand on the y axis. ",
+      "Brand Lenovo has the highest Share of shipments and Asus has the lowest Share of shipments. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Brand in the x axis and Share of shipments in the y axis. ",
+      "The Share of shipments is highest at Brand Lenovo and lowest at Brand Asus. ",
+      "The difference of Share of shipments between the highest and lowest Brand is 18.6. "
+   ],
+   "max_summary": [
+      "This bar chart has 7 columns on the x axis representing Brand, and Share of shipments in each Brand on the y axis. ",
+      "The Share of shipments is appeared to be the highest at Brand Lenovo and lowest at Brand Asus. ",
+      "The second highest Share of shipments is appeared to be the Brand . ",
+      "The difference of Share of shipments between the highest and lowest Brand is 18.6. ",
+      "The Brand Lenovo has the highest Share of shipments, followed by , and Others. Down to the Brand Asus which is the lowest. ",
+      "The Brand Lenovo tends to be 1.69 percent higher than average. ",
+      "Summing up the values of all Brands, we get total 100.0. "
    ],
    "trends": [
       {},

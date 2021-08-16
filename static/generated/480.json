@@ -1,53 +1,38 @@
 {
-   "title": "Test",
+   "title": "Return on equity of BNP Paribas 2003 to 2018",
    "xAxis": "Year",
    "yAxis": "Return on equity",
    "columnType": "two",
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Return on equity, with a total of 16 data points.",
+      "This is a line chart with an x axis representing Year and a y axis representing Return on equity, containing a total of 16 data points.",
       " Overall Return on equity has decreased over the Year.",
-      "Return on equity is roughly constant from 2003 to 2007, gradually decreasing from 2007 to 2008, gradually increasing from 2008 to 2009, slightly decreasing from 2009 to 2011, roughly constant from 2011 to 2012, slightly decreasing from 2012 to 2013, slightly increasing from 2013 to 2014, and lastly roughly constant from 2014 to 2018.",
+      "The line drastically ",
+      "The most drastic decrease took place within the Year 2007 and 2008.",
+      "Maximum Return on equity, about 21.2 was reported at Year 2006",
+      "Minimum Return on equity about 6.1 was reached at Year 2013"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Return on equity. In total the number of data points it has is 16.",
+      " In general Return on equity has fallen over the Year."
+   ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Return on equity. In total the number of data points it has is 16.",
+      " In general Return on equity has fallen over the Year.",
+      "The most drastic decrease took place within the Year 2007 and 2008.",
+      "Maximum Return on equity, about 21.2 was reported at Year 2006",
+      "Minimum Return on equity about 6.1 was reached at Year 2013"
+   ],
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Return on equity. In total the number of data points it has is 16.",
+      " In general Return on equity has fallen over the Year.",
       "The steepest decrease occurs in between the Year 2007 and 2008.",
-      "Max Return on equity about 21.2 was recorded at Year 2006",
-      "Min Return on equity about 6.1 was recorded at Year 2013",
-      "#########################################################################",
-      "This line chart has an x axis representing Year and a y axis representing Return on equity, with a total of 16 data points. The chart has 6 significant trends.",
-      " The longest trend is extremely increasing which exists from 2013 to 2016.",
-      " Similarly, the next significant trend is extremely increasing which exists from 2008 to 2011.",
-      " In a similar manner, the next significant trend is extremely increasing which exists from 2003 to 2006.",
-      " Also, the next significant trend is moderately decreasing which exists from 2016 to 2018.",
-      " On the contrary, the next significant trend is moderately increasing which exists from 2011 to 2013.",
-      " In a similar manner, the next significant trend is slightly decreasing which exists from 2006 to 2008."
+      "Maximum Return on equity, about 21.2 was reported at Year 2006",
+      "Minimum Return on equity about 6.1 was reached at Year 2013",
+      "The line rapidly "
    ],
-   "trends": [
-      {},
-      {
-         "1": "2",
-         "12": "5"
-      },
-      {
-         "3": "7",
-         "14": "10"
-      },
-      {
-         "3": "12",
-         "14": "15"
-      },
-      {
-         "3": "0",
-         "14": "2"
-      },
-      {
-         "3": "5",
-         "14": "7"
-      },
-      {
-         "3": "10",
-         "14": "12"
-      }
-   ],
+   "trends": [],
    "data": [
       {
          "Year": "2018",

@@ -1,16 +1,32 @@
 {
-   "title": "Test",
+   "title": "Facebook : number of followers of popular beauty brands 2020",
    "xAxis": "Month",
    "yAxis": "Brand fans in millions",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 10 categories on the x axis representing Month, and Brand fans in millions in each Month on the y axis.",
-      "Bath & Body Works is higher than any other categories with value 9.8, followed by , and Mary Kay Brasil. Down to category Embelleze with the lowest value of 4.01. ",
-      " The highest value at Bath & Body Works is almost 2.44 times larger than the minimum value of Embelleze. ",
-      " The highest value at Bath & Body Works is almost 2.44 times larger than the minimum value of Embelleze. ",
-      " The difference between the max Month Bath & Body Works and min Month Embelleze is 5.790000000000001. "
+      "This is a bar chart. It shows Brand fans in millions for 10 number of Months. ",
+      "The maximum Brand fans in millions 9.8 is found at Month Bath & Body Works and the minimum is found at Embelleze where Month is 4.01. ",
+      "There is a difference of 5.79 between the maximum Month Bath & Body Works and minimum Month Embelleze. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing Month in the x axis and Brand fans in millions in the y axis. ",
+      "Month Bath & Body Works has the highest Brand fans in millions and Embelleze has the lowest Brand fans in millions. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Brand fans in millions for 10 number of Months. ",
+      "The maximum Brand fans in millions 9.8 is found at Month Bath & Body Works and the minimum is found at Embelleze where Month is 4.01. ",
+      "There is a difference of 5.79 between the maximum Month Bath & Body Works and minimum Month Embelleze. "
+   ],
+   "max_summary": [
+      "This bar chart has 10 columns on the x axis representing Month, and Brand fans in millions in each Month on the y axis. ",
+      "The Brand fans in millions is appeared to be the highest at Month Bath & Body Works and lowest at Month Embelleze. ",
+      "There is a difference of 5.79 between the maximum Month Bath & Body Works and minimum Month Embelleze. ",
+      "Brand fans in millions at Month Bath & Body Works is 9.8 , second place is  at 9.8, and thirdly is Mary Kay Brasil at 6.26.",
+      "The Brand fans in millions has reduced over the past 10 Months. ",
+      "The lowest value 4.01 at Embelleze is almost 1.74 times smaller than the average value 5.64. ",
+      "The Brand fans in millions is 56.38 if we add up values of all Months. "
    ],
    "trends": [
       {},

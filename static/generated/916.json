@@ -1,18 +1,32 @@
 {
-   "title": "Test",
+   "title": "Number of earthquakes in Italy 2018 - 2019 , by magnitude",
    "xAxis": "Magnitude",
    "yAxis": "Number of earthquakes",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 5 categories on the x axis representing Magnitude, and Number of earthquakes in each Magnitude on the y axis.",
-      " The highest category is found at Magnitude 0+ where Number of earthquakes is 21869.0.",
-      " Followed by 21869.0 in .",
-      " The lowest category is found at Magnitude 5.5+ where Number of earthquakes is 0.0.",
-      " The highest value at Magnitude 0+ is almost 2186900000000000.2 times larger than the minimum value of Magnitude 5.5+. ",
-      " The highest value at Magnitude 0+ is almost 2186900000000000.2 times larger than the minimum value of Magnitude 5.5+. ",
-      " The difference between the max Magnitude Magnitude 0+ and min Magnitude Magnitude 5.5+ is 21869.0. "
+      "This is a bar chart. It shows Number of earthquakes for 5 number of Magnitudes. ",
+      "The Number of earthquakes is appeared to be the highest at Magnitude Magnitude 0+ and lowest at Magnitude Magnitude 5.5+. ",
+      "The highest Magnitude Magnitude 0+ has 21869.0 more Number of earthquakes than the lowest Magnitude Magnitude 5.5+. "
+   ],
+   "min_summary": [
+      "This bar chart has 5 columns on the x axis representing Magnitude, and Number of earthquakes in each Magnitude on the y axis. ",
+      "The maximum Number of earthquakes 21869.0 is found at Magnitude Magnitude 0+ and the minimum is found at Magnitude 5.5+ where Magnitude is 0.0. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Number of earthquakes for 5 number of Magnitudes. ",
+      "The Number of earthquakes is appeared to be the highest at Magnitude Magnitude 0+ and lowest at Magnitude Magnitude 5.5+. ",
+      "The highest Magnitude Magnitude 0+ has 21869.0 more Number of earthquakes than the lowest Magnitude Magnitude 5.5+. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Number of earthquakes for 5 number of Magnitudes. ",
+      "The maximum Number of earthquakes 21869.0 is found at Magnitude Magnitude 0+ and the minimum is found at Magnitude 5.5+ where Magnitude is 0.0. ",
+      "The second highest Number of earthquakes is appeared to be the Magnitude . ",
+      "Magnitude Magnitude 5.5+ has 2186900000000000.2 times less Number of earthquakes than Magnitude Magnitude 0+ which is the highest. ",
+      "The Magnitude Magnitude 0+ has the highest Number of earthquakes, followed by , and Magnitude 3+. Down to the Magnitude Magnitude 5.5+ which is the lowest. ",
+      "The Magnitude Magnitude 0+ has 4.46 times more Number of earthquakes than average. ",
+      "Summing up the values of all Magnitudes, we get total 24499.0. "
    ],
    "trends": [
       {},

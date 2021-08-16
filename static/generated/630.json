@@ -1,43 +1,42 @@
 {
-   "title": "Test",
+   "title": "Revenue of Mattel 's Barbie brand worldwide from 2012 to 2019",
    "xAxis": "Year",
    "yAxis": "Gross sales in million U.S. dollars",
    "columnType": "two",
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Gross sales in million U.S. dollars, with a total of 8 data points.",
-      " Overall Gross sales in million U.S. dollars has decreased over the Year.",
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Gross sales in million U.S. dollars. In total the number of data points it has is 8.",
+      " In general Gross sales in million U.S. dollars has fallen over the Year.",
+      "Gross sales in million U.S. dollars is slightly decreasing from 2012 to 2014, slightly increasing from 2014 to 2015, roughly constant from 2015 to 2017, and lastly slightly increasing from 2017 to 2019.",
+      "The line rapidly ",
+      "The most drastic decrease took place within the Year 2013 and 2014.",
+      "Maximum Gross sales in million U.S. dollars, about 1275.3 was reported at Year 2012",
+      "Minimum Gross sales in million U.S. dollars about 905.9 was reached at Year 2015"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Gross sales in million U.S. dollars. In total the number of data points it has is 8.",
+      " In general Gross sales in million U.S. dollars has fallen over the Year.",
+      "Gross sales in million U.S. dollars is slightly decreasing from 2012 to 2014, slightly increasing from 2014 to 2015, roughly constant from 2015 to 2017, and lastly slightly increasing from 2017 to 2019."
+   ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Gross sales in million U.S. dollars. In total the number of data points it has is 8.",
+      " In general Gross sales in million U.S. dollars has fallen over the Year.",
       "Gross sales in million U.S. dollars is slightly decreasing from 2012 to 2014, slightly increasing from 2014 to 2015, roughly constant from 2015 to 2017, and lastly slightly increasing from 2017 to 2019.",
       "The steepest decrease occurs in between the Year 2013 and 2014.",
-      "Max Gross sales in million U.S. dollars about 1275.3 was recorded at Year 2012",
-      "Min Gross sales in million U.S. dollars about 905.9 was recorded at Year 2015",
-      "#########################################################################",
-      "This line chart has an x axis representing Year and a y axis representing Gross sales in million U.S. dollars, with a total of 8 data points. The chart has 4 significant trends.",
-      " The longest trend is slightly decreasing which exists from 2012 to 2015.",
-      " Contrarily, the next significant trend is extremely increasing which exists from 2017 to 2019.",
-      " Likewise, the next significant trend is moderately decreasing which exists from 2016 to 2017.",
-      " Differently, the next significant trend is extremely increasing which exists from 2015 to 2016."
+      "Maximum Gross sales in million U.S. dollars, about 1275.3 was reported at Year 2012",
+      "Minimum Gross sales in million U.S. dollars about 905.9 was reached at Year 2015"
    ],
-   "trends": [
-      {},
-      {
-         "1": "4",
-         "12": "7"
-      },
-      {
-         "3": "0",
-         "14": "2"
-      },
-      {
-         "3": "2",
-         "14": "3"
-      },
-      {
-         "3": "3",
-         "14": "4"
-      }
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Gross sales in million U.S. dollars, containing a total of 8 data points.",
+      " Overall Gross sales in million U.S. dollars has decreased over the Year.",
+      "Gross sales in million U.S. dollars is slightly decreasing from 2012 to 2014, slightly increasing from 2014 to 2015, roughly constant from 2015 to 2017, and lastly slightly increasing from 2017 to 2019.",
+      "The most drastic decrease took place within the Year 2013 and 2014.",
+      "Maximum Gross sales in million U.S. dollars, about 1275.3 was reported at Year 2012",
+      "Minimum Gross sales in million U.S. dollars about 905.9 was reached at Year 2015",
+      "The line rapidly "
    ],
+   "trends": [],
    "data": [
       {
          "Year": "2019",

@@ -1,18 +1,32 @@
 {
-   "title": "Test",
+   "title": "Problems of the Italian school system 2019",
    "xAxis": "Response",
    "yAxis": "Share of respondents",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 9 categories on the x axis representing Response, and Share of respondents in each Response on the y axis.",
-      " The highest category is found at Lack of opportunities to enter into the labor market where Share of respondents is 26.0.",
-      " Followed by 26.0 in .",
-      " The lowest category is found at Others where Share of respondents is 2.0.",
-      " The highest value at Lack of opportunities to enter into the labor market is almost 13.0 times larger than the minimum value of Others. ",
-      " The highest value at Lack of opportunities to enter into the labor market is almost 13.0 times larger than the minimum value of Others. ",
-      " The difference between the max Response Lack of opportunities to enter into the labor market and min Response Others is 24.0. "
+      "This is a bar chart representing Response in the x axis and Share of respondents in the y axis. ",
+      "The maximum Share of respondents 26.0 is found at Response Lack of opportunities to enter into the labor market and the minimum is found at Others where Response is 2.0. ",
+      "The difference of Share of respondents between the highest and lowest Response is 24.0. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Share of respondents for 9 number of Responses. ",
+      "The Share of respondents is appeared to be the highest at Response Lack of opportunities to enter into the labor market and lowest at Response Others. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Response in the x axis and Share of respondents in the y axis. ",
+      "The maximum Share of respondents 26.0 is found at Response Lack of opportunities to enter into the labor market and the minimum is found at Others where Response is 2.0. ",
+      "The difference of Share of respondents between the highest and lowest Response is 24.0. "
+   ],
+   "max_summary": [
+      "This bar chart has 9 columns on the x axis representing Response, and Share of respondents in each Response on the y axis. ",
+      "The Share of respondents is appeared to be the highest at Response Lack of opportunities to enter into the labor market and lowest at Response Others. ",
+      "The second highest Share of respondents is appeared to be the Response . ",
+      "Response Others has 13.0 times less Share of respondents than Response Lack of opportunities to enter into the labor market which is the highest. ",
+      "Share of respondents at Response Lack of opportunities to enter into the labor market is 26.0 , second place is  at 26.0, and thirdly is Lack of financial aid for low-income families and students at 13.0.",
+      "Similar Share of respondents is found in Response Bad teachers, and Lack of financial aid for low-income families and students. ",
+      "The Response Lack of opportunities to enter into the labor market has 2.34 times more Share of respondents than average. "
    ],
    "trends": [
       {},

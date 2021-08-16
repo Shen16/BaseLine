@@ -1,18 +1,33 @@
 {
-   "title": "Test",
+   "title": "Malware types encountered during data compromise investigations 2018",
    "xAxis": "Type Of Malware",
    "yAxis": "Share of encounters",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 9 categories on the x axis representing Type Of Malware, and Share of encounters in each Type Of Malware on the y axis.",
-      " The highest category is found at Downloader where Share of encounters is 13.0.",
-      " Followed by 13.0 in .",
-      " The lowest category is found at Ransomware where Share of encounters is 0.7.",
-      " The highest value at Downloader is almost 18.57 times larger than the minimum value of Ransomware. ",
-      " The highest value at Downloader is almost 18.57 times larger than the minimum value of Ransomware. ",
-      " The difference between the max Type Of Malware Downloader and min Type Of Malware Ransomware is 12.3. "
+      "This is a bar chart. It shows Share of encounters for 9 number of Type Of Malwares. ",
+      "The Share of encounters is highest at Type Of Malware Downloader and lowest at Type Of Malware Ransomware. ",
+      "There is a difference of 12.3 between the maximum Type Of Malware Downloader and minimum Type Of Malware Ransomware. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing Type Of Malware in the x axis and Share of encounters in the y axis. ",
+      "The maximum Share of encounters 13.0 is found at Type Of Malware Downloader and the minimum is found at Ransomware where Type Of Malware is 0.7. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Share of encounters for 9 number of Type Of Malwares. ",
+      "The Share of encounters is highest at Type Of Malware Downloader and lowest at Type Of Malware Ransomware. ",
+      "There is a difference of 12.3 between the maximum Type Of Malware Downloader and minimum Type Of Malware Ransomware. "
+   ],
+   "max_summary": [
+      "This bar chart has 9 columns on the x axis representing Type Of Malware, and Share of encounters in each Type Of Malware on the y axis. ",
+      "The maximum Share of encounters 13.0 is found at Type Of Malware Downloader and the minimum is found at Ransomware where Type Of Malware is 0.7. ",
+      "Second maximum Share of encounters is found at Type Of Malware . ",
+      "The lowest value at Type Of Malware Ransomware is 18.57x times less than the highest value at Downloader. ",
+      "Type Of Malware Downloader is higher than any other Type Of Malwares with value 13.0, followed by , and Memory scraper/dumper. Down to Type Of Malware Ransomware with the lowest value 0.7. ",
+      "Type Of Malware Webshell, and Memory scraper/dumper share the same value 8.0. ",
+      "Considered together, the average Share of encounters in all 9 Type Of Malwares is roughly 5.97. ",
+      "Summing up the values of all Type Of Malwares, we get total 53.7. "
    ],
    "trends": [
       {},

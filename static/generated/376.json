@@ -1,16 +1,31 @@
 {
-   "title": "Test",
+   "title": "Most visited amusement and theme parks in the Asia-Pacific region 2018",
    "xAxis": "Theme Park",
    "yAxis": "Attendance in millions",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 20 categories on the x axis representing Theme Park, and Attendance in millions in each Theme Park on the y axis.",
-      "Tokyo Disneyland Japan is higher than any other categories with value 17.91, followed by , and Universal Studios Japan. Down to category OCT Happy Valley Chengdu China with the lowest value of 3.1. ",
-      " The highest value at Tokyo Disneyland Japan is almost 5.78 times larger than the minimum value of OCT Happy Valley Chengdu China. ",
-      " The highest value at Tokyo Disneyland Japan is almost 5.78 times larger than the minimum value of OCT Happy Valley Chengdu China. ",
-      " The difference between the max Theme Park Tokyo Disneyland Japan and min Theme Park OCT Happy Valley Chengdu China is 14.81. "
+      "This is a bar chart. It shows Attendance in millions for 20 number of Theme Parks. ",
+      "The maximum Attendance in millions 17.91 is found at Theme Park Tokyo Disneyland Japan and the minimum is found at OCT Happy Valley Chengdu China where Theme Park is 3.1. ",
+      "The highest Theme Park Tokyo Disneyland Japan has 14.81 more Attendance in millions than the lowest Theme Park OCT Happy Valley Chengdu China. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Attendance in millions for 20 number of Theme Parks. ",
+      "The maximum Attendance in millions 17.91 is found at Theme Park Tokyo Disneyland Japan and the minimum is found at OCT Happy Valley Chengdu China where Theme Park is 3.1. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Attendance in millions for 20 number of Theme Parks. ",
+      "The maximum Attendance in millions 17.91 is found at Theme Park Tokyo Disneyland Japan and the minimum is found at OCT Happy Valley Chengdu China where Theme Park is 3.1. ",
+      "The highest Theme Park Tokyo Disneyland Japan has 14.81 more Attendance in millions than the lowest Theme Park OCT Happy Valley Chengdu China. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Attendance in millions for 20 number of Theme Parks. ",
+      "Theme Park Tokyo Disneyland Japan has the highest Attendance in millions and OCT Happy Valley Chengdu China has the lowest Attendance in millions. ",
+      "There is a difference of 14.81 between the maximum Theme Park Tokyo Disneyland Japan and minimum Theme Park OCT Happy Valley Chengdu China. ",
+      "Attendance in millions at Theme Park Tokyo Disneyland Japan is 17.91 , second place is  at 17.91, and thirdly is Universal Studios Japan at 14.3.",
+      "The Theme Park OCT Happy Valley Chengdu China tends to be 2.57 percent lower than average. ",
+      "Summing up the values of all Theme Parks, we get total 139.11. "
    ],
    "trends": [
       {},

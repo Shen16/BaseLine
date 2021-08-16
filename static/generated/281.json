@@ -1,43 +1,38 @@
 {
-   "title": "Test",
+   "title": "Unemployment rate in Hungary 2019",
    "xAxis": "Year",
    "yAxis": "Unemployment rate",
    "columnType": "two",
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Unemployment rate, with a total of 21 data points.",
+      "This is a line chart with an x axis representing Year and a y axis representing Unemployment rate, containing a total of 21 data points.",
       " Overall Unemployment rate has decreased over the Year.",
-      "Unemployment rate is roughly constant from 1999 to 2000, slightly decreasing from 2000 to 2001, roughly constant from 2001 to 2004, slightly increasing from 2004 to 2005, roughly constant from 2005 to 2008, slightly increasing from 2008 to 2009, roughly constant from 2009 to 2012, rapidly decreasing from 2012 to 2017, and lastly roughly constant from 2017 to 2019.",
+      "The line rapidly ",
+      "The most drastic decrease took place within the Year 2013 and 2014.",
+      "Maximum Unemployment rate, about 11.17 was reported at Year 2010",
+      "The lowest Unemployment rate, of value 3.46 was reported at Year 2019"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Unemployment rate. In total the number of data points it has is 21.",
+      " Overall Unemployment rate has decreased over the Year."
+   ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Unemployment rate, containing a total of 21 data points.",
+      " In general Unemployment rate has fallen over the Year.",
       "The steepest decrease occurs in between the Year 2013 and 2014.",
-      "Max Unemployment rate about 11.17 was recorded at Year 2010",
-      "Min Unemployment rate about 3.46 was recorded at Year 2019",
-      "#########################################################################",
-      "This line chart has an x axis representing Year and a y axis representing Unemployment rate, with a total of 21 data points. The chart has 4 significant trends.",
-      " The longest trend is slightly decreasing which exists from 2010 to 2019.",
-      " But, the next significant trend is moderately increasing which exists from 2002 to 2007.",
-      " Similarly, the next significant trend is extremely increasing which exists from 2007 to 2010.",
-      " Similarly, the next significant trend is slightly decreasing which exists from 1999 to 2002."
+      "Maximum Unemployment rate, about 11.17 was reported at Year 2010",
+      "The lowest Unemployment rate, of value 3.46 was reported at Year 2019"
    ],
-   "trends": [
-      {},
-      {
-         "1": "0",
-         "12": "9"
-      },
-      {
-         "3": "12",
-         "14": "17"
-      },
-      {
-         "3": "9",
-         "14": "12"
-      },
-      {
-         "3": "17",
-         "14": "20"
-      }
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Unemployment rate, containing a total of 21 data points.",
+      " In general Unemployment rate has fallen over the Year.",
+      "The steepest decrease occurs in between the Year 2013 and 2014.",
+      "Maximum Unemployment rate, about 11.17 was reported at Year 2010",
+      "The lowest Unemployment rate, of value 3.46 was reported at Year 2019",
+      "The line drastically "
    ],
+   "trends": [],
    "data": [
       {
          "Year": "2019",

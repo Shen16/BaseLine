@@ -1,5 +1,5 @@
 {
-   "title": "Test",
+   "title": "Leading automotive manufacturing countries in Europe 2018",
    "labels": [
       "Country",
       "Passenger Cars",
@@ -10,12 +10,31 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart has 10 categories of Country on the x axis representing 3 groups: Passenger Cars, Commercial Vehicles, and Total.",
-      " Averaging these 3 groups, the highest category is found for Country Germany with a mean value of 4100559.33.",
-      " Followed by Spain with a mean value of 1951377.33.",
-      " The lowest category is observed at Romania that has a mean value of 243102.67",
-      " showing a difference of 177.6% with the maximum value.",
-      " In case of Germany, Passenger Cars shows more dominance than any other Country with a value 5645581.0 and it has the lowest value 364654.0 in Romania.  However, Total being the 2nd most important group, has the highest value 6150839.0 for Country Germany and the lowest 364654.0 in case of Romania. "
+      "This grouped bar chart shows Production volume in thousand units on the Y-axis for 10 different Countrys for 3 groups Passenger Cars, Commercial Vehicles, and Total that are presented on the X-axis. ",
+      " Out of all 3 groups, Total had the highest Production volume in thousand units in Country Germany and Commercial Vehicles had the lowest Production volume in thousand units in Country Slovakia. ",
+      " In Country Spain, Commercial Vehicles had the maximum Production volume in thousand units and it saw the lowest in Country Slovakia out of all 10 Countrys. ",
+      " The maximum Production volume in thousand units for Commercial Vehicles that was found in Country Spain was 0 times larger than the minimum Production volume in thousand units observed in Country Slovakia. "
+   ],
+   "xAxis": "Country",
+   "yAxis": "Production volume in thousand units",
+   "min_summary": [
+      "This grouped bar chart represents 10 different Countrys on X-axis for 3 groups Passenger Cars, Commercial Vehicles, and Total. On the Y-axis it shows their corresponding Production volume in thousand units. ",
+      " In Country Germany, Total had the highest Production volume in thousand units 6150839.0 among the 3 groups and in Slovakia, Commercial Vehicles had the lowest Production volume in thousand units 0.0. "
+   ],
+   "mid_summary": [
+      "This grouped bar chart shows Production volume in thousand units on the Y-axis for 10 different Countrys for 3 groups Passenger Cars, Commercial Vehicles, and Total that are presented on the X-axis. ",
+      " Out of all 3 groups, Total had the highest Production volume in thousand units in Country Germany and Commercial Vehicles had the lowest Production volume in thousand units in Country Slovakia. ",
+      " In Country Spain, Commercial Vehicles had the maximum Production volume in thousand units and it saw the lowest in Country Slovakia out of all 10 Countrys. ",
+      " The maximum Production volume in thousand units for Commercial Vehicles that was found in Country Spain was 0 times larger than the minimum Production volume in thousand units observed in Country Slovakia. "
+   ],
+   "max_summary": [
+      "This grouped bar chart shows Production volume in thousand units on the Y-axis for 10 different Countrys for 3 groups Passenger Cars, Commercial Vehicles, and Total that are presented on the X-axis. ",
+      " Country Germany had the maximum Production volume in thousand units among all 3 groups, and it was for Total. The minimum Production volume in thousand units was observed in Country Slovakia for Commercial Vehicles. ",
+      " Among all the Countrys, Commercial Vehicles had the highest Production volume in thousand units 635574.0 in Country Spain and lowest value 0.0 in Country Slovakia. ",
+      " There is a gap of 635574.0 between the highest and lowest Production volume in thousand units found for Commercial Vehicles in Country Spain and Slovakia. ",
+      " Among all 3 groups, Passenger Cars had the gap of 5280927.0 between the maximum and minimum Production volume in thousand units observed in Country Germany and Romania respectively. ",
+      " Total had the maximum Production volume in thousand units out of all 3 groups in Country Germany followed by Total in Germany, and the minimum Production volume in thousand units is found for Commercial Vehicles in Slovakia. ",
+      "On average, the Country Germany had the highest Production volume in thousand units for all 3 groups Passenger Cars, Commercial Vehicles, and Total. Whereas Romania had the lowest average Production volume in thousand units. "
    ],
    "trends": [
       {},

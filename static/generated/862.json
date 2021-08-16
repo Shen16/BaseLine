@@ -1,43 +1,42 @@
 {
-   "title": "Test",
+   "title": "Urbanization in Rwanda 2018",
    "xAxis": "Year",
    "yAxis": "Share of urban population in total population",
    "columnType": "two",
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Share of urban population in total population, with a total of 11 data points.",
+      "This is a line chart with an x axis representing Year and a y axis representing Share of urban population in total population, containing a total of 11 data points.",
       " Overall Share of urban population in total population has increased over the Year.",
       "Share of urban population in total population is roughly constant from 2008 to 2013, and lastly slightly increasing from 2013 to 2018.",
+      "The line drastically ",
+      "The most drastic increase took place within the Year 2017 and 2018.",
+      "The highest Share of urban population in total population, of value 17.21 was reached at Year 2018",
+      "The lowest Share of urban population in total population, of value 16.93 was reported at Year 2008,  2009, and 2010"
+   ],
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Share of urban population in total population, containing a total of 11 data points.",
+      " In general Share of urban population in total population has stayed the same over the Year.",
+      "Share of urban population in total population is roughly constant from 2008 to 2013, and lastly slightly increasing from 2013 to 2018."
+   ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Share of urban population in total population. In total the number of data points it has is 11.",
+      " In general Share of urban population in total population has stayed the same over the Year.",
+      "Share of urban population in total population is roughly constant from 2008 to 2013, and lastly slightly increasing from 2013 to 2018.",
       "The steepest increase occurs in between the Year 2017 and 2018.",
-      "Max Share of urban population in total population about 17.21 was recorded at Year 2018",
-      "Min Share of urban population in total population about 16.93 was recorded at Year 2008,  2009, and 2010",
-      "#########################################################################",
-      "This line chart has an x axis representing Year and a y axis representing Share of urban population in total population, with a total of 11 data points. The chart has 4 significant trends.",
-      " The longest trend is extremely increasing which exists from 2012 to 2018.",
-      " Also, the next significant trend is slightly constant which exists from 2008 to 2010.",
-      " Conversely, the next significant trend is slightly constant which exists from 2011 to 2012.",
-      " Contrarily, the next significant trend is slightly increasing which exists from 2010 to 2011."
+      "The highest Share of urban population in total population, of value 17.21 was reached at Year 2018",
+      "The lowest Share of urban population in total population, of value 16.93 was reported at Year 2008,  2009, and 2010"
    ],
-   "trends": [
-      {},
-      {
-         "1": "0",
-         "12": "6"
-      },
-      {
-         "3": "8",
-         "14": "10"
-      },
-      {
-         "3": "6",
-         "14": "7"
-      },
-      {
-         "3": "7",
-         "14": "8"
-      }
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Share of urban population in total population. In total the number of data points it has is 11.",
+      " In general Share of urban population in total population has stayed the same over the Year.",
+      "Share of urban population in total population is roughly constant from 2008 to 2013, and lastly slightly increasing from 2013 to 2018.",
+      "The steepest increase occurs in between the Year 2017 and 2018.",
+      "The highest Share of urban population in total population, of value 17.21 was reached at Year 2018",
+      "The lowest Share of urban population in total population, of value 16.93 was reported at Year 2008,  2009, and 2010",
+      "The line significantly "
    ],
+   "trends": [],
    "data": [
       {
          "Year": "2018",

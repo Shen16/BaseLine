@@ -1,18 +1,31 @@
 {
-   "title": "Test",
+   "title": "Sales of lotteries in the U.S. 2016 , by state",
    "xAxis": "State",
    "yAxis": "Sales in billion U.S. dollars",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 45 categories on the x axis representing State, and Sales in billion U.S. dollars in each State on the y axis.",
-      " The highest category is found at New York where Sales in billion U.S. dollars is 9.69.",
-      " Followed by 9.69 in .",
-      " The lowest category is found at Wyoming where Sales in billion U.S. dollars is 0.03.",
-      " The highest value at New York is almost 323.0 times larger than the minimum value of Wyoming. ",
-      " The highest value at New York is almost 323.0 times larger than the minimum value of Wyoming. ",
-      " The difference between the max State New York and min State Wyoming is 9.66. "
+      "This bar chart has 45 columns on the x axis representing State, and Sales in billion U.S. dollars in each State on the y axis. ",
+      "The maximum Sales in billion U.S. dollars 9.69 is found at State New York and the minimum is found at Wyoming where State is 0.03. ",
+      "The minimum State Wyoming has got 323.0 times less Sales in billion U.S. dollars than the maximum State New York. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Sales in billion U.S. dollars for 45 number of States. ",
+      "The Sales in billion U.S. dollars is appeared to be the highest at State New York and lowest at State Wyoming. "
+   ],
+   "mid_summary": [
+      "This bar chart has 45 columns on the x axis representing State, and Sales in billion U.S. dollars in each State on the y axis. ",
+      "The maximum Sales in billion U.S. dollars 9.69 is found at State New York and the minimum is found at Wyoming where State is 0.03. ",
+      "The minimum State Wyoming has got 323.0 times less Sales in billion U.S. dollars than the maximum State New York. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Sales in billion U.S. dollars for 45 number of States. ",
+      "State New York has the highest Sales in billion U.S. dollars and Wyoming has the lowest Sales in billion U.S. dollars. ",
+      "There is a difference of 9.66 between the maximum State New York and minimum State Wyoming. ",
+      "State New York is higher than any other States with value 9.69, followed by , and Florida. Down to State Wyoming with the lowest value 0.03. ",
+      "State Oregon, and Connecticut have a similar Sales in billion U.S. dollars that is 1.23. ",
+      "The State Wyoming has 5.41 times less Sales in billion U.S. dollars than average. "
    ],
    "trends": [
       {},

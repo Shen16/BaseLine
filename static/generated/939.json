@@ -1,42 +1,39 @@
 {
-   "title": "Test",
+   "title": "Purchasing power change in the Netherlands 2015 to 2020",
    "xAxis": "Year",
    "yAxis": "Year on year percentage change",
    "columnType": "two",
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Year on year percentage change, with a total of 6 data points.",
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Year on year percentage change. In total the number of data points it has is 6.",
+      " In general Year on year percentage change has rose over the Year.",
+      "Year on year percentage change is slightly decreasing from 2015 to 2016, roughly constant from 2016 to 2018, gradually increasing from 2018 to 2019, and finally roughly constant from 2019 to 2020.",
+      "The line significantly increased by 1.6 from Year 2015 to 2016,decreased by 2.3 from Year 2016 to 2017, and lastly, increased by 1.3 from Year 2018 to 2019.",
+      "The highest Year on year percentage change, of value 2.6 was reached at Year 2016",
+      "Minimum Year on year percentage change about 0.3 was reached at Year 2017, and 2018"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Year on year percentage change. In total the number of data points it has is 6.",
       " Overall Year on year percentage change has increased over the Year.",
-      "Year on year percentage change is slightly decreasing from 2015 to 2016, roughly constant from 2016 to 2018, gradually increasing from 2018 to 2019, and lastly roughly constant from 2019 to 2020.",
-      "Max Year on year percentage change about 2.6 was recorded at Year 2016",
-      "Min Year on year percentage change about 0.3 was recorded at Year 2017, and 2018",
-      "#########################################################################",
-      "This line chart has an x axis representing Year and a y axis representing Year on year percentage change, with a total of 6 data points. The chart has 4 significant trends.",
-      " The longest trend is slightly decreasing which exists from 2015 to 2017.",
-      " Differently, the next significant trend is slightly decreasing which exists from 2019 to 2020.",
-      " On the contrary, the next significant trend is extremely increasing which exists from 2018 to 2019.",
-      " In a similar manner, the next significant trend is slightly constant which exists from 2017 to 2018."
+      "Year on year percentage change is slightly decreasing from 2015 to 2016, roughly constant from 2016 to 2018, gradually increasing from 2018 to 2019, and finally roughly constant from 2019 to 2020."
    ],
-   "trends": [
-      {},
-      {
-         "1": "3",
-         "12": "5"
-      },
-      {
-         "3": "0",
-         "14": "1"
-      },
-      {
-         "3": "1",
-         "14": "2"
-      },
-      {
-         "3": "2",
-         "14": "3"
-      }
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Year on year percentage change, containing a total of 6 data points.",
+      " In general Year on year percentage change has rose over the Year.",
+      "Year on year percentage change is slightly decreasing from 2015 to 2016, roughly constant from 2016 to 2018, gradually increasing from 2018 to 2019, and finally roughly constant from 2019 to 2020.",
+      "The highest Year on year percentage change, of value 2.6 was reached at Year 2016",
+      "Minimum Year on year percentage change about 0.3 was reached at Year 2017, and 2018"
    ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Year on year percentage change, containing a total of 6 data points.",
+      " In general Year on year percentage change has rose over the Year.",
+      "Year on year percentage change is slightly decreasing from 2015 to 2016, roughly constant from 2016 to 2018, gradually increasing from 2018 to 2019, and finally roughly constant from 2019 to 2020.",
+      "The highest Year on year percentage change, of value 2.6 was reached at Year 2016",
+      "Minimum Year on year percentage change about 0.3 was reached at Year 2017, and 2018",
+      "The line drastically increased by 2.6 times from Year 2015 to 2016,decreased by 8.7 times from Year 2016 to 2017, and lastly, increased by 5.3 times from Year 2018 to 2019."
+   ],
+   "trends": [],
    "data": [
       {
          "Year": "2020",

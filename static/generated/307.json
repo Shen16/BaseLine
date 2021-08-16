@@ -1,48 +1,42 @@
 {
-   "title": "Test",
+   "title": "Unauthorized immigrant population U.S. 1990 to 2017",
    "xAxis": "Year",
    "yAxis": "Number of immigrants in millions",
    "columnType": "two",
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Number of immigrants in millions, with a total of 16 data points.",
+      "This is a line chart with an x axis representing Year and a y axis representing Number of immigrants in millions, containing a total of 16 data points.",
+      " In general Number of immigrants in millions has rose over the Year.",
+      "Number of immigrants in millions is slightly increasing from 1990 to 2005, and lastly roughly constant from 2005 to 2017.",
+      "The line drastically ",
+      "The steepest increase occurs in between the Year 1995 and 2000.",
+      "The highest Number of immigrants in millions, of value 12.2 was reached at Year 2007",
+      "Minimum Number of immigrants in millions about 3.5 was reached at Year 1990"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of immigrants in millions. In total the number of data points it has is 16.",
       " Overall Number of immigrants in millions has increased over the Year.",
+      "Number of immigrants in millions is slightly increasing from 1990 to 2005, and lastly roughly constant from 2005 to 2017."
+   ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Number of immigrants in millions, containing a total of 16 data points.",
+      " In general Number of immigrants in millions has rose over the Year.",
+      "Number of immigrants in millions is slightly increasing from 1990 to 2005, and lastly roughly constant from 2005 to 2017.",
+      "The most drastic increase took place within the Year 1995 and 2000.",
+      "The highest Number of immigrants in millions, of value 12.2 was reached at Year 2007",
+      "Minimum Number of immigrants in millions about 3.5 was reached at Year 1990"
+   ],
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of immigrants in millions. In total the number of data points it has is 16.",
+      " In general Number of immigrants in millions has rose over the Year.",
       "Number of immigrants in millions is slightly increasing from 1990 to 2005, and lastly roughly constant from 2005 to 2017.",
       "The steepest increase occurs in between the Year 1995 and 2000.",
-      "Max Number of immigrants in millions about 12.2 was recorded at Year 2007",
-      "Min Number of immigrants in millions about 3.5 was recorded at Year 1990",
-      "#########################################################################",
-      "This line chart has an x axis representing Year and a y axis representing Number of immigrants in millions, with a total of 16 data points. The chart has 5 significant trends.",
-      " The longest trend is extremely increasing which exists from 1990 to 2007.",
-      " In a similar manner, the next significant trend is moderately decreasing which exists from 2013 to 2017.",
-      " On the contrary, the next significant trend is moderately decreasing which exists from 2011 to 2013.",
-      " On the contrary, the next significant trend is moderately increasing which exists from 2009 to 2011.",
-      " Also, the next significant trend is slightly decreasing which exists from 2007 to 2009."
+      "The highest Number of immigrants in millions, of value 12.2 was reached at Year 2007",
+      "Minimum Number of immigrants in millions about 3.5 was reached at Year 1990",
+      "The line drastically "
    ],
-   "trends": [
-      {},
-      {
-         "1": "10",
-         "12": "15"
-      },
-      {
-         "3": "0",
-         "14": "4"
-      },
-      {
-         "3": "4",
-         "14": "6"
-      },
-      {
-         "3": "6",
-         "14": "8"
-      },
-      {
-         "3": "8",
-         "14": "10"
-      }
-   ],
+   "trends": [],
    "data": [
       {
          "Year": "2017",

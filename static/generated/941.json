@@ -1,18 +1,32 @@
 {
-   "title": "Test",
+   "title": "Ultra-rich women in Europe in 2014 , by personal fortune value",
    "xAxis": "Month",
    "yAxis": "Value of wealth in billion euros",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 10 categories on the x axis representing Month, and Value of wealth in billion euros in each Month on the y axis.",
-      " The highest category is found at Liliane Bettencourt (L\u2019Or\u00e9al France) where Value of wealth in billion euros is 25.1.",
-      " Followed by 25.1 in .",
-      " The lowest category is found at Elisabeth Mohn (Bertelsmann Germany) where Value of wealth in billion euros is 4.3.",
-      " The highest value at Liliane Bettencourt (L\u2019Or\u00e9al France) is almost 5.84 times larger than the minimum value of Elisabeth Mohn (Bertelsmann Germany). ",
-      " The highest value at Liliane Bettencourt (L\u2019Or\u00e9al France) is almost 5.84 times larger than the minimum value of Elisabeth Mohn (Bertelsmann Germany). ",
-      " The difference between the max Month Liliane Bettencourt (L\u2019Or\u00e9al France) and min Month Elisabeth Mohn (Bertelsmann Germany) is 20.8. "
+      "This is a bar chart representing Month in the x axis and Value of wealth in billion euros in the y axis. ",
+      "Month Liliane Bettencourt (L\u2019Or\u00e9al France) has the highest Value of wealth in billion euros and Elisabeth Mohn (Bertelsmann Germany) has the lowest Value of wealth in billion euros. ",
+      "The lowest value at Month Elisabeth Mohn (Bertelsmann Germany) is 5.84x times less than the highest value at Liliane Bettencourt (L\u2019Or\u00e9al France). "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Value of wealth in billion euros for 10 number of Months. ",
+      "The Value of wealth in billion euros is highest at Month Liliane Bettencourt (L\u2019Or\u00e9al France) and lowest at Month Elisabeth Mohn (Bertelsmann Germany). "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Month in the x axis and Value of wealth in billion euros in the y axis. ",
+      "Month Liliane Bettencourt (L\u2019Or\u00e9al France) has the highest Value of wealth in billion euros and Elisabeth Mohn (Bertelsmann Germany) has the lowest Value of wealth in billion euros. ",
+      "The lowest value at Month Elisabeth Mohn (Bertelsmann Germany) is 5.84x times less than the highest value at Liliane Bettencourt (L\u2019Or\u00e9al France). "
+   ],
+   "max_summary": [
+      "This bar chart has 10 columns on the x axis representing Month, and Value of wealth in billion euros in each Month on the y axis. ",
+      "Month Liliane Bettencourt (L\u2019Or\u00e9al France) has the highest Value of wealth in billion euros and Elisabeth Mohn (Bertelsmann Germany) has the lowest Value of wealth in billion euros. ",
+      "The difference of Value of wealth in billion euros between the highest and lowest Month is 20.8. ",
+      "Value of wealth in billion euros at Month Liliane Bettencourt (L\u2019Or\u00e9al France) is 25.1 , second place is  at 25.1, and thirdly is Johanna Quandt (BMW Germany) at 10.7.",
+      "Overall Value of wealth in billion euros has decreased over the Months. ",
+      "Similar Value of wealth in billion euros is found in Month Margarita Louis Dreyfus (Louis Dreyfus Switzerland), and Antonia Axson Johnson (Axel Johnson Group Sweden). ",
+      "The Month Liliane Bettencourt (L\u2019Or\u00e9al France) has 2.89 times more Value of wealth in billion euros than average. "
    ],
    "trends": [
       {},

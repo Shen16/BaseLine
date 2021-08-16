@@ -1,33 +1,42 @@
 {
-   "title": "Test",
+   "title": "Vietnam social media user penetration 2017 to 2023",
    "xAxis": "Year",
    "yAxis": "Share of population",
    "columnType": "two",
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Share of population, with a total of 7 data points.",
-      " Overall Share of population has increased over the Year.",
-      "Share of population is slightly increasing from 2017 to 2021, and lastly roughly constant from 2021 to 2023.",
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Share of population. In total the number of data points it has is 7.",
+      " In general Share of population has rose over the Year.",
+      "Share of population is slightly increasing from 2017 to 2021, and finally roughly constant from 2021 to 2023.",
+      "The line rapidly ",
       "The steepest increase occurs in between the Year 2017 and 2018.",
-      "Max Share of population about 52.0 was recorded at Year 2022, and 2023",
-      "Min Share of population about 46.0 was recorded at Year 2017",
-      "#########################################################################",
-      "This line chart has an x axis representing Year and a y axis representing Share of population, with a total of 7 data points. The chart has 2 significant trends.",
-      " The longest trend is extremely increasing which exists from 2017 to 2022.",
-      " Similarly, the next significant trend is slightly constant which exists from 2022 to 2023."
+      "The highest Share of population, of value 52.0 was reached at Year 2022, and 2023",
+      "Minimum Share of population about 46.0 was reached at Year 2017"
    ],
-   "trends": [
-      {},
-      {
-         "1": "1",
-         "12": "6"
-      },
-      {
-         "3": "0",
-         "14": "1"
-      }
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Share of population. In total the number of data points it has is 7.",
+      " Overall Share of population has increased over the Year.",
+      "Share of population is slightly increasing from 2017 to 2021, and finally roughly constant from 2021 to 2023."
    ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Share of population. In total the number of data points it has is 7.",
+      " In general Share of population has rose over the Year.",
+      "Share of population is slightly increasing from 2017 to 2021, and finally roughly constant from 2021 to 2023.",
+      "The most drastic increase took place within the Year 2017 and 2018.",
+      "The highest Share of population, of value 52.0 was reached at Year 2022, and 2023",
+      "Minimum Share of population about 46.0 was reached at Year 2017"
+   ],
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Share of population. In total the number of data points it has is 7.",
+      " In general Share of population has rose over the Year.",
+      "Share of population is slightly increasing from 2017 to 2021, and finally roughly constant from 2021 to 2023.",
+      "The most drastic increase took place within the Year 2017 and 2018.",
+      "The highest Share of population, of value 52.0 was reached at Year 2022, and 2023",
+      "Minimum Share of population about 46.0 was reached at Year 2017",
+      "The line drastically "
+   ],
+   "trends": [],
    "data": [
       {
          "Year": "2023",

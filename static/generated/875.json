@@ -1,48 +1,38 @@
 {
-   "title": "Test",
+   "title": "Concussion rate in the U.S. 2010 to 2015 , by age",
    "xAxis": "Year",
    "yAxis": "Rate per 1,000 members",
    "columnType": "two",
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Rate per 1,000 members, with a total of 15 data points.",
+      "This is a line chart with an x axis representing Year and a y axis representing Rate per 1,000 members, containing a total of 15 data points.",
       " Overall Rate per 1,000 members has decreased over the Year.",
-      "Rate per 1,000 members is roughly constant from 60-64_years to 30-34_years, gradually increasing from 30-34_years to 15-17_years, and lastly roughly decreasing from 15-17_years to <1_year.",
-      "The steepest increase occurs in between the Year 18-19_years and 15-17_years.",
-      "Max Rate per 1,000 members about 18.8 was recorded at Year 15-17_years",
-      "Min Rate per 1,000 members about 1.0 was recorded at Year <1_year",
-      "#########################################################################",
-      "This line chart has an x axis representing Year and a y axis representing Rate per 1,000 members, with a total of 15 data points. The chart has 5 significant trends.",
-      " The longest trend is extremely decreasing which exists from 15-17_years to <1_year.",
-      " But, the next significant trend is slightly increasing which exists from 30-34_years to 15-17_years.",
-      " Likewise, the next significant trend is moderately increasing which exists from 40-44_years to 30-34_years.",
-      " Similarly, the next significant trend is moderately increasing which exists from 50-54_years to 40-44_years.",
-      " Similarly, the next significant trend is moderately constant which exists from 60-64_years to 50-54_years."
+      "The line drastically increased by 4.0 times from Year 1-4_years to 10-14_years,increased by 1.8 times from Year 10-14_years to 15-17_years, and lastly, increased by 1.8 times from Year 45-49_years to 5-9_years.",
+      "The most drastic decrease took place within the Year 15-17_years and 18-19_years.",
+      "Maximum Rate per 1,000 members, about 18.8 was reported at Year 15-17_years",
+      "The lowest Rate per 1,000 members, of value 1.0 was reported at Year <1_year"
    ],
-   "trends": [
-      {},
-      {
-         "1": "0",
-         "12": "4"
-      },
-      {
-         "3": "4",
-         "14": "8"
-      },
-      {
-         "3": "8",
-         "14": "10"
-      },
-      {
-         "3": "10",
-         "14": "12"
-      },
-      {
-         "3": "12",
-         "14": "14"
-      }
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Rate per 1,000 members. In total the number of data points it has is 15.",
+      " In general Rate per 1,000 members has fallen over the Year."
    ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Rate per 1,000 members, containing a total of 15 data points.",
+      " Overall Rate per 1,000 members has decreased over the Year.",
+      "The steepest decrease occurs in between the Year 15-17_years and 18-19_years.",
+      "Maximum Rate per 1,000 members, about 18.8 was reported at Year 15-17_years",
+      "The lowest Rate per 1,000 members, of value 1.0 was reported at Year <1_year"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Rate per 1,000 members, containing a total of 15 data points.",
+      " Overall Rate per 1,000 members has decreased over the Year.",
+      "The most drastic decrease took place within the Year 15-17_years and 18-19_years.",
+      "Maximum Rate per 1,000 members, about 18.8 was reported at Year 15-17_years",
+      "The lowest Rate per 1,000 members, of value 1.0 was reported at Year <1_year",
+      "The line rapidly increased by 296.3% from Year 1-4_years to 10-14_years,increased by 75.7% from Year 10-14_years to 15-17_years, and lastly, increased by 84.21% from Year 45-49_years to 5-9_years."
+   ],
+   "trends": [],
    "data": [
       {
          "Year": "<1 year",

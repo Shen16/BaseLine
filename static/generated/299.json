@@ -1,33 +1,38 @@
 {
-   "title": "Test",
+   "title": "Revenue of the Oakland Raiders ( NFL ) 2001 to 2018",
    "xAxis": "Year",
    "yAxis": "Revenue in million U.S. dollars",
    "columnType": "two",
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Revenue in million U.S. dollars, with a total of 18 data points.",
+      "This is a line chart with an x axis representing Year and a y axis representing Revenue in million U.S. dollars, containing a total of 18 data points.",
+      " In general Revenue in million U.S. dollars has rose over the Year.",
+      "The line significantly ",
+      "The most drastic increase took place within the Year 2013 and 2014.",
+      "The highest Revenue in million U.S. dollars, of value 357.0 was reached at Year 2018",
+      "Minimum Revenue in million U.S. dollars about 132.0 was reached at Year 2001"
+   ],
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Revenue in million U.S. dollars, containing a total of 18 data points.",
+      " In general Revenue in million U.S. dollars has rose over the Year."
+   ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Revenue in million U.S. dollars. In total the number of data points it has is 18.",
       " Overall Revenue in million U.S. dollars has increased over the Year.",
-      "Revenue in million U.S. dollars is roughly increasing from 2001 to 2002, roughly constant from 2002 to 2003, slightly increasing from 2003 to 2004, roughly constant from 2004 to 2005, slightly increasing from 2005 to 2007, roughly constant from 2007 to 2012, and lastly rapidly increasing from 2012 to 2018.",
+      "The most drastic increase took place within the Year 2013 and 2014.",
+      "The highest Revenue in million U.S. dollars, of value 357.0 was reached at Year 2018",
+      "Minimum Revenue in million U.S. dollars about 132.0 was reached at Year 2001"
+   ],
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Revenue in million U.S. dollars. In total the number of data points it has is 18.",
+      " Overall Revenue in million U.S. dollars has increased over the Year.",
       "The steepest increase occurs in between the Year 2013 and 2014.",
-      "Max Revenue in million U.S. dollars about 357.0 was recorded at Year 2018",
-      "Min Revenue in million U.S. dollars about 132.0 was recorded at Year 2001",
-      "#########################################################################",
-      "This line chart has an x axis representing Year and a y axis representing Revenue in million U.S. dollars, with a total of 18 data points. The chart has 2 significant trends.",
-      " The longest trend is slightly increasing which exists from 2001 to 2010.",
-      " Additionally, the next significant trend is extremely increasing which exists from 2010 to 2018."
+      "The highest Revenue in million U.S. dollars, of value 357.0 was reached at Year 2018",
+      "Minimum Revenue in million U.S. dollars about 132.0 was reached at Year 2001",
+      "The line rapidly "
    ],
-   "trends": [
-      {},
-      {
-         "1": "8",
-         "12": "17"
-      },
-      {
-         "3": "0",
-         "14": "8"
-      }
-   ],
+   "trends": [],
    "data": [
       {
          "Year": "2018",

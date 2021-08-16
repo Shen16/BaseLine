@@ -1,18 +1,33 @@
 {
-   "title": "Test",
+   "title": "Global sulfur production by country 2019",
    "xAxis": "Country",
    "yAxis": "Price in U.S. dollars per ton",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 23 categories on the x axis representing Country, and Price in U.S. dollars per ton in each Country on the y axis.",
-      " The highest category is found at China where Price in U.S. dollars per ton is 17400.0.",
-      " Followed by 17400.0 in .",
-      " The lowest category is found at Brazil where Price in U.S. dollars per ton is 500.0.",
-      " The highest value at China is almost 34.8 times larger than the minimum value of Brazil. ",
-      " The highest value at China is almost 34.8 times larger than the minimum value of Brazil. ",
-      " The difference between the max Country China and min Country Brazil is 16900.0. "
+      "This bar chart has 23 columns on the x axis representing Country, and Price in U.S. dollars per ton in each Country on the y axis. ",
+      "The Price in U.S. dollars per ton is appeared to be the highest at Country China and lowest at Country Brazil. ",
+      "The highest Country China has 16900.0 more Price in U.S. dollars per ton than the lowest Country Brazil. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Price in U.S. dollars per ton for 23 number of Countrys. ",
+      "Country China has the highest Price in U.S. dollars per ton and Brazil has the lowest Price in U.S. dollars per ton. "
+   ],
+   "mid_summary": [
+      "This bar chart has 23 columns on the x axis representing Country, and Price in U.S. dollars per ton in each Country on the y axis. ",
+      "The Price in U.S. dollars per ton is appeared to be the highest at Country China and lowest at Country Brazil. ",
+      "The highest Country China has 16900.0 more Price in U.S. dollars per ton than the lowest Country Brazil. "
+   ],
+   "max_summary": [
+      "This bar chart has 23 columns on the x axis representing Country, and Price in U.S. dollars per ton in each Country on the y axis. ",
+      "The Price in U.S. dollars per ton is highest at Country China and lowest at Country Brazil. ",
+      "Country  has the second highest value for Price in U.S. dollars per ton. ",
+      "The highest Country China has 16900.0 more Price in U.S. dollars per ton than the lowest Country Brazil. ",
+      "Country China is higher than any other Countrys with value 17400.0, followed by , and Russia. Down to Country Brazil with the lowest value 500.0. ",
+      "Country United Arab Emirates, India, and Japan have the same Price in U.S. dollars per ton. ",
+      "The lowest value 500.0 at Brazil is almost 5.07 times smaller than the average value 3430.87. ",
+      "Summing up the values of all Countrys, we get total 78910.0. "
    ],
    "trends": [
       {},

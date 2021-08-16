@@ -1,16 +1,32 @@
 {
-   "title": "Test",
+   "title": "Vehicle sales in the United States 2019",
    "xAxis": "Vehicles",
    "yAxis": "Vehicle retail sales in thousands",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 5 categories on the x axis representing Vehicles, and Vehicle retail sales in thousands in each Vehicles on the y axis.",
-      "Motor vehicles (total) is higher than any other categories with value 17494.6, followed by , and Thereof light trucks. Down to category Heavy trucks with the lowest value of 529.5. ",
-      " The highest value at Motor vehicles (total) is almost 33.04 times larger than the minimum value of Heavy trucks. ",
-      " The highest value at Motor vehicles (total) is almost 33.04 times larger than the minimum value of Heavy trucks. ",
-      " The difference between the max Vehicles Motor vehicles (total) and min Vehicles Heavy trucks is 16965.1. "
+      "This is a bar chart. It shows Vehicle retail sales in thousands for 5 number of Vehicless. ",
+      "The maximum Vehicle retail sales in thousands 17494.6 is found at Vehicles Motor vehicles (total) and the minimum is found at Heavy trucks where Vehicles is 529.5. ",
+      "The Vehicle retail sales in thousands of Vehicles Motor vehicles (total) is 33.04% larger than the minimum value at Heavy trucks. "
+   ],
+   "min_summary": [
+      "This bar chart has 5 columns on the x axis representing Vehicles, and Vehicle retail sales in thousands in each Vehicles on the y axis. ",
+      "Vehicles Motor vehicles (total) has the highest Vehicle retail sales in thousands and Heavy trucks has the lowest Vehicle retail sales in thousands. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Vehicle retail sales in thousands for 5 number of Vehicless. ",
+      "The maximum Vehicle retail sales in thousands 17494.6 is found at Vehicles Motor vehicles (total) and the minimum is found at Heavy trucks where Vehicles is 529.5. ",
+      "The Vehicle retail sales in thousands of Vehicles Motor vehicles (total) is 33.04% larger than the minimum value at Heavy trucks. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Vehicles in the x axis and Vehicle retail sales in thousands in the y axis. ",
+      "The Vehicle retail sales in thousands is highest at Vehicles Motor vehicles (total) and lowest at Vehicles Heavy trucks. ",
+      "The second highest Vehicle retail sales in thousands is appeared to be the Vehicles . ",
+      "The difference of Vehicle retail sales in thousands between the highest and lowest Vehicles is 16965.1. ",
+      "Vehicles Motor vehicles (total) is higher than any other Vehicless with value 17494.6, followed by , and Thereof light trucks. Down to Vehicles Heavy trucks with the lowest value 529.5. ",
+      "The lowest value 529.5 at Heavy trucks is almost 1.68 times smaller than the average value 10390.88. ",
+      "The Vehicle retail sales in thousands is 51954.4 if we add up values of all Vehicless. "
    ],
    "trends": [
       {},

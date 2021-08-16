@@ -1,38 +1,38 @@
 {
-   "title": "Test",
+   "title": "Per capita U.S. Real Gross Domestic Product ( GDP ) 1990 to 2019",
    "xAxis": "Year",
    "yAxis": "Per capita Real GDP in chained (2012) U.S. dollars",
    "columnType": "two",
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Per capita Real GDP in chained (2012) U.S. dollars, with a total of 30 data points.",
-      " Overall Per capita Real GDP in chained (2012) U.S. dollars has increased over the Year.",
-      "Per capita Real GDP in chained (2012) U.S. dollars is rapidly increasing from '90 to '00, roughly constant from '00 to '02, slightly increasing from '02 to '05, roughly constant from '05 to '08, roughly decreasing from '08 to '09, roughly constant from '09 to '13, roughly increasing from '13 to '14, roughly constant from '14 to '16, and lastly slightly increasing from '16 to '19.",
-      "The steepest decrease occurs in between the Year '08 and '09.",
-      "Max Per capita Real GDP in chained (2012) U.S. dollars about 58055.0 was recorded at Year '19",
-      "Min Per capita Real GDP in chained (2012) U.S. dollars about 36900.0 was recorded at Year '91",
-      "#########################################################################",
-      "This line chart has an x axis representing Year and a y axis representing Per capita Real GDP in chained (2012) U.S. dollars, with a total of 30 data points. The chart has 3 significant trends.",
-      " The longest trend is slightly increasing which exists from '90 to '01.",
-      " Similarly, the next significant trend is extremely increasing which exists from '09 to '19.",
-      " Similarly, the next significant trend is moderately increasing which exists from '01 to '09."
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Per capita Real GDP in chained (2012) U.S. dollars. In total the number of data points it has is 30.",
+      " In general Per capita Real GDP in chained (2012) U.S. dollars has stayed the same over the Year.",
+      "The line significantly ",
+      "The steepest decrease occurs in between the Year '19 and '90.",
+      "The highest Per capita Real GDP in chained (2012) U.S. dollars, of value 58055.0 was reached at Year '19",
+      "Minimum Per capita Real GDP in chained (2012) U.S. dollars about 36900.0 was reached at Year '91"
    ],
-   "trends": [
-      {},
-      {
-         "1": "18",
-         "12": "29"
-      },
-      {
-         "3": "0",
-         "14": "10"
-      },
-      {
-         "3": "10",
-         "14": "18"
-      }
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Per capita Real GDP in chained (2012) U.S. dollars. In total the number of data points it has is 30.",
+      " Overall Per capita Real GDP in chained (2012) U.S. dollars has decreased over the Year."
    ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Per capita Real GDP in chained (2012) U.S. dollars, containing a total of 30 data points.",
+      " Overall Per capita Real GDP in chained (2012) U.S. dollars has decreased over the Year.",
+      "The most drastic decrease took place within the Year '19 and '90.",
+      "The highest Per capita Real GDP in chained (2012) U.S. dollars, of value 58055.0 was reached at Year '19",
+      "Minimum Per capita Real GDP in chained (2012) U.S. dollars about 36900.0 was reached at Year '91"
+   ],
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Per capita Real GDP in chained (2012) U.S. dollars. In total the number of data points it has is 30.",
+      " Overall Per capita Real GDP in chained (2012) U.S. dollars has decreased over the Year.",
+      "The steepest decrease occurs in between the Year '19 and '90.",
+      "The highest Per capita Real GDP in chained (2012) U.S. dollars, of value 58055.0 was reached at Year '19",
+      "Minimum Per capita Real GDP in chained (2012) U.S. dollars about 36900.0 was reached at Year '91",
+      "The line drastically "
+   ],
+   "trends": [],
    "data": [
       {
          "Year": "'19",

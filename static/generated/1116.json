@@ -1,16 +1,31 @@
 {
-   "title": "Test",
+   "title": "Personal income in New York - income per capita 2000 to 2018",
    "xAxis": "Fiscal years",
    "yAxis": "Income in U.S. dollars",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 19 categories on the x axis representing Fiscal years, and Income in U.S. dollars in each Fiscal years on the y axis.",
-      "'18 is higher than any other categories with value 68668.0, followed by , and '16. Down to category '00 with the lowest value of 36028.0. ",
-      " The highest value at '18 is almost 1.91 times larger than the minimum value of '00. ",
-      " The highest value at '18 is almost 1.91 times larger than the minimum value of '00. ",
-      " The difference between the max Fiscal years '18 and min Fiscal years '00 is 32640.0. "
+      "This is a bar chart. It shows Income in U.S. dollars for 19 number of Fiscal yearss. ",
+      "Fiscal years '18 has the highest Income in U.S. dollars and '00 has the lowest Income in U.S. dollars. ",
+      "The Income in U.S. dollars of Fiscal years '00 is 1.91% smaller than the maximum value at '18. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Income in U.S. dollars for 19 number of Fiscal yearss. ",
+      "The Income in U.S. dollars is highest at Fiscal years '18 and lowest at Fiscal years '00. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Income in U.S. dollars for 19 number of Fiscal yearss. ",
+      "Fiscal years '18 has the highest Income in U.S. dollars and '00 has the lowest Income in U.S. dollars. ",
+      "The Income in U.S. dollars of Fiscal years '00 is 1.91% smaller than the maximum value at '18. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Income in U.S. dollars for 19 number of Fiscal yearss. ",
+      "The Income in U.S. dollars is highest at Fiscal years '18 and lowest at Fiscal years '00. ",
+      "There is a difference of 32640.0 between the maximum Fiscal years '18 and minimum Fiscal years '00. ",
+      "Fiscal years '18 is higher than any other Fiscal yearss with value 68668.0, followed by , and '16. Down to Fiscal years '00 with the lowest value 36028.0. ",
+      "The highest value 68668.0 at '18 is almost 1.39 times larger than the average value 49234.11. ",
+      "The Income in U.S. dollars is 935448.0 if we add up values of all Fiscal yearss. "
    ],
    "trends": [
       {},

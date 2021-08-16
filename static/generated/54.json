@@ -1,18 +1,32 @@
 {
-   "title": "Test",
+   "title": "Number of Boeing aircraft orders by airline 2019",
    "xAxis": "Airline",
    "yAxis": "Number of aircraft orders",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 11 categories on the x axis representing Airline, and Number of aircraft orders in each Airline on the y axis.",
-      " The highest category is found at Unidentified where Number of aircraft orders is 49.0.",
-      " Followed by 30.0 in .",
-      " The lowest category is found at FedEx Express where Number of aircraft orders is 7.0.",
-      " The highest value at Unidentified is almost 7.0 times larger than the minimum value of FedEx Express. ",
-      " The highest value at Unidentified is almost 7.0 times larger than the minimum value of FedEx Express. ",
-      " The difference between the max Airline Unidentified and min Airline FedEx Express is 42.0. "
+      "This is a bar chart representing Airline in the x axis and Number of aircraft orders in the y axis. ",
+      "The maximum Number of aircraft orders 49.0 is found at Airline Unidentified and the minimum is found at FedEx Express where Airline is 7.0. ",
+      "There is a difference of 42.0 between the maximum Airline Unidentified and minimum Airline FedEx Express. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing Airline in the x axis and Number of aircraft orders in the y axis. ",
+      "The Number of aircraft orders is appeared to be the highest at Airline Unidentified and lowest at Airline FedEx Express. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Airline in the x axis and Number of aircraft orders in the y axis. ",
+      "The maximum Number of aircraft orders 49.0 is found at Airline Unidentified and the minimum is found at FedEx Express where Airline is 7.0. ",
+      "There is a difference of 42.0 between the maximum Airline Unidentified and minimum Airline FedEx Express. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Number of aircraft orders for 11 number of Airlines. ",
+      "Airline Unidentified has the highest Number of aircraft orders and FedEx Express has the lowest Number of aircraft orders. ",
+      "The second highest Number of aircraft orders is appeared to be the Airline . ",
+      "The highest value at Airline Unidentified is 7.0x times more than the lowest value at FedEx Express. ",
+      "The Airline Unidentified has the highest Number of aircraft orders, followed by , and Lufthansa. Down to the Airline FedEx Express which is the lowest. ",
+      "Similar Number of aircraft orders is found in Airline Bamboo Airways, BDS U.S. Navy (P-8A Poseidon), and SunExpress Airlines. ",
+      "The lowest value 7.0 at FedEx Express is almost 2.74 times smaller than the average value 17.91. "
    ],
    "trends": [
       {},

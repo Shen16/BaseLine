@@ -1,53 +1,38 @@
 {
-   "title": "Test",
+   "title": "Kit sponsorship revenue of German Bundesliga clubs 2019/20",
    "xAxis": "Year",
    "yAxis": "Kit sponsorship revenue in million euros",
    "columnType": "two",
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Kit sponsorship revenue in million euros, with a total of 18 data points.",
+      "This is a line chart with an x axis representing Year and a y axis representing Kit sponsorship revenue in million euros, containing a total of 18 data points.",
       " Overall Kit sponsorship revenue in million euros has increased over the Year.",
-      "Kit sponsorship revenue in million euros is roughly increasing from SC_Paderborn_(Sunmaker) to Union_Berlin_(Aroundtown), roughly constant from Union_Berlin_(Aroundtown) to Fortuna_D\u00fcsseldorf_(Henkel), slightly increasing from Fortuna_D\u00fcsseldorf_(Henkel) to FC_Augsburg_(WWK), roughly constant from FC_Augsburg_(WWK) to FSV_Mainz_05_(K\u00f6mmerling), roughly increasing from FSV_Mainz_05_(K\u00f6mmerling) to 1899_Hoffenheim_(SAP), roughly constant from 1899_Hoffenheim_(SAP) to RB_Leipzig_(Red_Bull), gradually increasing from RB_Leipzig_(Red_Bull) to Borussia_Dortmund_(Evonik), roughly constant from Borussia_Dortmund_(Evonik) to VfL_Wolfsburg_(Volkswagen), and lastly slightly increasing from VfL_Wolfsburg_(Volkswagen) to FC_Bayern_Munich_(Telekom).",
-      "The steepest increase occurs in between the Year RB_Leipzig_(Red_Bull) and Borussia_Dortmund_(Evonik).",
-      "Max Kit sponsorship revenue in million euros about 35.0 was recorded at Year FC_Bayern_Munich_(Telekom)",
-      "Min Kit sponsorship revenue in million euros about 2.0 was recorded at Year SC_Paderborn_(Sunmaker)",
-      "#########################################################################",
-      "This line chart has an x axis representing Year and a y axis representing Kit sponsorship revenue in million euros, with a total of 18 data points. The chart has 6 significant trends.",
-      " The longest trend is extremely increasing which exists from FSV_Mainz_05_(K\u00f6mmerling) to 1._FC_K\u00f6ln_(Rewe).",
-      " In a similar manner, the next significant trend is extremely increasing which exists from SC_Paderborn_(Sunmaker) to Fortuna_D\u00fcsseldorf_(Henkel).",
-      " Additionally, the next significant trend is moderately increasing which exists from VfL_Wolfsburg_(Volkswagen) to FC_Bayern_Munich_(Telekom).",
-      " Similarly, the next significant trend is slightly increasing which exists from RB_Leipzig_(Red_Bull) to VfL_Wolfsburg_(Volkswagen).",
-      " Correspondingly, the next significant trend is extremely increasing which exists from 1._FC_K\u00f6ln_(Rewe) to RB_Leipzig_(Red_Bull).",
-      " Additionally, the next significant trend is extremely increasing which exists from Fortuna_D\u00fcsseldorf_(Henkel) to FSV_Mainz_05_(K\u00f6mmerling)."
+      "The line significantly increased by 14.0 from Year Bayer_04_Leverkusen_(Barmenia) to Borussia_Dortmund_(Evonik),increased by 30.5 from Year FC_Augsburg_(WWK) to FC_Bayern_Munich_(Telekom),remained stable by 20.0 from Year FC_Schalke_04_(Gazprom) to FSV_Mainz_05_(K\u00f6mmerling),increased by 4.5 from Year Fortuna_D\u00fcsseldorf_(Henkel) to Hertha_BSC_Berlin_(Tedi),increased by 5.3 from Year SC_Paderborn_(Sunmaker) to SV_Werder_Bremen_(Wiesenhof), and lastly, increased by 17.5 from Year Union_Berlin_(Aroundtown) to VfL_Wolfsburg_(Volkswagen).",
+      "The most drastic increase took place within the Year FC_Augsburg_(WWK) and FC_Bayern_Munich_(Telekom).",
+      "Maximum Kit sponsorship revenue in million euros, about 35.0 was reported at Year FC_Bayern_Munich_(Telekom)",
+      "Minimum Kit sponsorship revenue in million euros about 2.0 was reached at Year SC_Paderborn_(Sunmaker)"
    ],
-   "trends": [
-      {},
-      {
-         "1": "6",
-         "12": "12"
-      },
-      {
-         "3": "14",
-         "14": "17"
-      },
-      {
-         "3": "0",
-         "14": "2"
-      },
-      {
-         "3": "2",
-         "14": "4"
-      },
-      {
-         "3": "4",
-         "14": "6"
-      },
-      {
-         "3": "12",
-         "14": "14"
-      }
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Kit sponsorship revenue in million euros. In total the number of data points it has is 18.",
+      " In general Kit sponsorship revenue in million euros has rose over the Year."
    ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Kit sponsorship revenue in million euros. In total the number of data points it has is 18.",
+      " In general Kit sponsorship revenue in million euros has rose over the Year.",
+      "The steepest increase occurs in between the Year FC_Augsburg_(WWK) and FC_Bayern_Munich_(Telekom).",
+      "Maximum Kit sponsorship revenue in million euros, about 35.0 was reported at Year FC_Bayern_Munich_(Telekom)",
+      "Minimum Kit sponsorship revenue in million euros about 2.0 was reached at Year SC_Paderborn_(Sunmaker)"
+   ],
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Kit sponsorship revenue in million euros. In total the number of data points it has is 18.",
+      " Overall Kit sponsorship revenue in million euros has increased over the Year.",
+      "The most drastic increase took place within the Year FC_Augsburg_(WWK) and FC_Bayern_Munich_(Telekom).",
+      "Maximum Kit sponsorship revenue in million euros, about 35.0 was reported at Year FC_Bayern_Munich_(Telekom)",
+      "Minimum Kit sponsorship revenue in million euros about 2.0 was reached at Year SC_Paderborn_(Sunmaker)",
+      "The line drastically increased by 3.3 times from Year Bayer_04_Leverkusen_(Barmenia) to Borussia_Dortmund_(Evonik),increased by 7.8 times from Year FC_Augsburg_(WWK) to FC_Bayern_Munich_(Telekom),remained stable by 6.0 times from Year FC_Schalke_04_(Gazprom) to FSV_Mainz_05_(K\u00f6mmerling),increased by 2.5 times from Year Fortuna_D\u00fcsseldorf_(Henkel) to Hertha_BSC_Berlin_(Tedi),increased by 3.6 times from Year SC_Paderborn_(Sunmaker) to SV_Werder_Bremen_(Wiesenhof), and lastly, increased by 8.0 times from Year Union_Berlin_(Aroundtown) to VfL_Wolfsburg_(Volkswagen)."
+   ],
+   "trends": [],
    "data": [
       {
          "Year": "FC Bayern Munich (Telekom)",

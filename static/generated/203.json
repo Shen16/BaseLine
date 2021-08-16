@@ -1,43 +1,38 @@
 {
-   "title": "Test",
+   "title": "Youth unemployment rate in Botswana in 2019",
    "xAxis": "Year",
    "yAxis": "Youth unemployment rate",
    "columnType": "two",
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Youth unemployment rate, with a total of 21 data points.",
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Youth unemployment rate. In total the number of data points it has is 21.",
       " Overall Youth unemployment rate has increased over the Year.",
-      "Youth unemployment rate is roughly decreasing from 1999 to 2000, gradually increasing from 2000 to 2003, slightly decreasing from 2003 to 2006, roughly constant from 2006 to 2008, slightly increasing from 2008 to 2010, and lastly roughly constant from 2010 to 2019.",
+      "The line drastically ",
       "The steepest increase occurs in between the Year 2000 and 2001.",
-      "Max Youth unemployment rate about 46.62 was recorded at Year 2003",
-      "Min Youth unemployment rate about 30.77 was recorded at Year 2008",
-      "#########################################################################",
-      "This line chart has an x axis representing Year and a y axis representing Youth unemployment rate, with a total of 21 data points. The chart has 4 significant trends.",
-      " The longest trend is moderately increasing which exists from 2008 to 2014.",
-      " Additionally, the next significant trend is moderately decreasing which exists from 2014 to 2019.",
-      " On the other hand, the next significant trend is slightly decreasing which exists from 2003 to 2008.",
-      " But, the next significant trend is extremely increasing which exists from 1999 to 2003."
+      "The highest Youth unemployment rate, of value 46.62 was reached at Year 2003",
+      "Minimum Youth unemployment rate about 30.77 was reached at Year 2008"
    ],
-   "trends": [
-      {},
-      {
-         "1": "5",
-         "12": "11"
-      },
-      {
-         "3": "0",
-         "14": "5"
-      },
-      {
-         "3": "11",
-         "14": "16"
-      },
-      {
-         "3": "16",
-         "14": "20"
-      }
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Youth unemployment rate. In total the number of data points it has is 21.",
+      " In general Youth unemployment rate has stayed the same over the Year."
    ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Youth unemployment rate. In total the number of data points it has is 21.",
+      " Overall Youth unemployment rate has increased over the Year.",
+      "The steepest increase occurs in between the Year 2000 and 2001.",
+      "The highest Youth unemployment rate, of value 46.62 was reached at Year 2003",
+      "Minimum Youth unemployment rate about 30.77 was reached at Year 2008"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Youth unemployment rate, containing a total of 21 data points.",
+      " Overall Youth unemployment rate has increased over the Year.",
+      "The most drastic increase took place within the Year 2000 and 2001.",
+      "The highest Youth unemployment rate, of value 46.62 was reached at Year 2003",
+      "Minimum Youth unemployment rate about 30.77 was reached at Year 2008",
+      "The line significantly "
+   ],
+   "trends": [],
    "data": [
       {
          "Year": "2019",

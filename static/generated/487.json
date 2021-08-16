@@ -1,28 +1,38 @@
 {
-   "title": "Test",
+   "title": "CVS Health 's number of stores 2005 to 2018",
    "xAxis": "Year",
    "yAxis": "Number of stores",
    "columnType": "two",
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Number of stores, with a total of 14 data points.",
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of stores. In total the number of data points it has is 14.",
       " Overall Number of stores has increased over the Year.",
-      "Number of stores is slightly increasing from 2005 to 2006, roughly constant from 2006 to 2007, slightly increasing from 2007 to 2008, roughly constant from 2008 to 2014, gradually increasing from 2014 to 2015, and lastly roughly constant from 2015 to 2018.",
+      "The line rapidly ",
       "The steepest increase occurs in between the Year 2014 and 2015.",
-      "Max Number of stores about 9967.0 was recorded at Year 2018",
-      "Min Number of stores about 5474.0 was recorded at Year 2005",
-      "#########################################################################",
-      "This line chart has an x axis representing Year and a y axis representing Number of stores with a total of 14 data points. The chart has one significant trend.",
-      " This trend is increasing which exists from 2018 to 2005."
+      "Maximum Number of stores, about 9967.0 was reported at Year 2018",
+      "The lowest Number of stores, of value 5474.0 was reported at Year 2005"
    ],
-   "trends": [
-      {},
-      {
-         "3": "0",
-         "14": "13"
-      }
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Number of stores, containing a total of 14 data points.",
+      " In general Number of stores has rose over the Year."
    ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Number of stores, containing a total of 14 data points.",
+      " In general Number of stores has rose over the Year.",
+      "The steepest increase occurs in between the Year 2014 and 2015.",
+      "Maximum Number of stores, about 9967.0 was reported at Year 2018",
+      "The lowest Number of stores, of value 5474.0 was reported at Year 2005"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Number of stores, containing a total of 14 data points.",
+      " In general Number of stores has rose over the Year.",
+      "The steepest increase occurs in between the Year 2014 and 2015.",
+      "Maximum Number of stores, about 9967.0 was reported at Year 2018",
+      "The lowest Number of stores, of value 5474.0 was reported at Year 2005",
+      "The line rapidly "
+   ],
+   "trends": [],
    "data": [
       {
          "Year": "2018",

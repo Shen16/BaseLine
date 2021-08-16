@@ -1,48 +1,38 @@
 {
-   "title": "Test",
+   "title": "Regular season average attendance of the Milwaukee Brewers 2009 to 2019",
    "xAxis": "Year",
    "yAxis": "Average attendance",
    "columnType": "two",
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Average attendance, with a total of 11 data points.",
-      " Overall Average attendance has decreased over the Year.",
-      "Average attendance is slightly increasing from 2009 to 2010, roughly decreasing from 2010 to 2012, slightly increasing from 2012 to 2013, roughly decreasing from 2013 to 2015, gradually increasing from 2015 to 2018, and lastly roughly constant from 2018 to 2019.",
+      "This is a line chart with an x axis representing Year and a y axis representing Average attendance, containing a total of 11 data points.",
+      " In general Average attendance has stayed the same over the Year.",
+      "The line drastically ",
       "The steepest increase occurs in between the Year 2012 and 2013.",
-      "Max Average attendance about 37918.0 was recorded at Year 2011",
-      "Min Average attendance about 28575.0 was recorded at Year 2016",
-      "#########################################################################",
-      "This line chart has an x axis representing Year and a y axis representing Average attendance, with a total of 11 data points. The chart has 5 significant trends.",
-      " The longest trend is extremely increasing which exists from 2016 to 2019.",
-      " Likewise, the next significant trend is slightly decreasing which exists from 2014 to 2016.",
-      " On the other hand, the next significant trend is slightly decreasing which exists from 2011 to 2013.",
-      " Differently, the next significant trend is moderately increasing which exists from 2009 to 2011.",
-      " In a similar manner, the next significant trend is extremely increasing which exists from 2013 to 2014."
+      "The highest Average attendance, of value 37918.0 was reached at Year 2011",
+      "The lowest Average attendance, of value 28575.0 was reported at Year 2016"
    ],
-   "trends": [
-      {},
-      {
-         "1": "0",
-         "12": "3"
-      },
-      {
-         "3": "3",
-         "14": "5"
-      },
-      {
-         "3": "6",
-         "14": "8"
-      },
-      {
-         "3": "8",
-         "14": "10"
-      },
-      {
-         "3": "5",
-         "14": "6"
-      }
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Average attendance, containing a total of 11 data points.",
+      " Overall Average attendance has decreased over the Year."
    ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Average attendance, containing a total of 11 data points.",
+      " Overall Average attendance has decreased over the Year.",
+      "The most drastic increase took place within the Year 2012 and 2013.",
+      "The highest Average attendance, of value 37918.0 was reached at Year 2011",
+      "The lowest Average attendance, of value 28575.0 was reported at Year 2016"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Average attendance, containing a total of 11 data points.",
+      " Overall Average attendance has decreased over the Year.",
+      "The most drastic increase took place within the Year 2012 and 2013.",
+      "The highest Average attendance, of value 37918.0 was reached at Year 2011",
+      "The lowest Average attendance, of value 28575.0 was reported at Year 2016",
+      "The line significantly "
+   ],
+   "trends": [],
    "data": [
       {
          "Year": "2019",

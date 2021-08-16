@@ -1,13 +1,32 @@
 {
-   "title": "Test",
+   "title": "MLB all-time RBI leaders 2019",
    "xAxis": "Players",
    "yAxis": "Number of runs batted in",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 30 categories on the x axis representing Players, and Number of runs batted in in each Players on the y axis.",
-      "Hank Aaron is higher than any other categories with value 2297.0, followed by , and Alex Rodriguez. Down to category Gary Sheffield with the lowest value of 1676.0. "
+      "This is a bar chart representing Players in the x axis and Number of runs batted in in the y axis. ",
+      "Players Hank Aaron has the highest Number of runs batted in and Gary Sheffield has the lowest Number of runs batted in. ",
+      "The highest Players Hank Aaron has 621.0 more Number of runs batted in than the lowest Players Gary Sheffield. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Number of runs batted in for 30 number of Playerss. ",
+      "The Number of runs batted in is appeared to be the highest at Players Hank Aaron and lowest at Players Gary Sheffield. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Players in the x axis and Number of runs batted in in the y axis. ",
+      "Players Hank Aaron has the highest Number of runs batted in and Gary Sheffield has the lowest Number of runs batted in. ",
+      "The highest Players Hank Aaron has 621.0 more Number of runs batted in than the lowest Players Gary Sheffield. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Players in the x axis and Number of runs batted in in the y axis. ",
+      "Players Hank Aaron has the highest Number of runs batted in and Gary Sheffield has the lowest Number of runs batted in. ",
+      "The difference of Number of runs batted in between the highest and lowest Players is 621.0. ",
+      "Number of runs batted in at Players Hank Aaron is 2297.0 , second place is  at 2297.0, and thirdly is Alex Rodriguez at 2086.0.",
+      "Players Cap Anson, and Albert Pujols have the same Number of runs batted in. ",
+      "The highest value 2297.0 at Hank Aaron is almost 1.22 times larger than the average value 1875.67. ",
+      "Summing up the values of all Playerss, we get total 56270.0. "
    ],
    "trends": [
       {},

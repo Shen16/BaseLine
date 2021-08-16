@@ -1,48 +1,42 @@
 {
-   "title": "Test",
+   "title": "U.S. corporate income tax revenues and forecast 2000 to 2030",
    "xAxis": "Year",
    "yAxis": "Revenues in billion U.S. dollars",
    "columnType": "two",
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Revenues in billion U.S. dollars, with a total of 31 data points.",
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Revenues in billion U.S. dollars. In total the number of data points it has is 31.",
+      " In general Revenues in billion U.S. dollars has rose over the Year.",
+      "The chart in general has a zig-zag shape.",
+      "The line significantly ",
+      "The most drastic decrease took place within the Year '08 and '09.",
+      "The highest Revenues in billion U.S. dollars, of value 406.0 was reached at Year '30",
+      "The lowest Revenues in billion U.S. dollars, of value 131.8 was reported at Year '03"
+   ],
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Revenues in billion U.S. dollars, containing a total of 31 data points.",
+      " In general Revenues in billion U.S. dollars has rose over the Year."
+   ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Revenues in billion U.S. dollars. In total the number of data points it has is 31.",
+      " In general Revenues in billion U.S. dollars has rose over the Year.",
+      "The most drastic decrease took place within the Year '08 and '09.",
+      "The highest Revenues in billion U.S. dollars, of value 406.0 was reached at Year '30",
+      "The lowest Revenues in billion U.S. dollars, of value 131.8 was reported at Year '03"
+   ],
+   "max_summary": [
+      "The chart in general has a zig-zag shape.",
+      "The chart in general has a zig-zag shape.",
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Revenues in billion U.S. dollars. In total the number of data points it has is 31.",
       " Overall Revenues in billion U.S. dollars has increased over the Year.",
-      "Revenues in billion U.S. dollars is slightly decreasing from '00 to '01, roughly constant from '01 to '02, rapidly increasing from '02 to '06, roughly constant from '06 to '07, slightly decreasing from '07 to '09, slightly increasing from '09 to '10, roughly constant from '10 to '11, slightly increasing from '11 to '13, roughly constant from '13 to '17, slightly decreasing from '17 to '18, roughly constant from '18 to '20, slightly increasing from '20 to '22, and lastly roughly constant from '22 to '30.",
-      "The steepest decrease occurs in between the Year '08 and '09.",
-      "Max Revenues in billion U.S. dollars about 406.0 was recorded at Year '30",
-      "Min Revenues in billion U.S. dollars about 131.8 was recorded at Year '03",
-      "#########################################################################",
-      "This line chart has an x axis representing Year and a y axis representing Revenues in billion U.S. dollars, with a total of 31 data points. The chart has 5 significant trends.",
-      " The longest trend is moderately increasing which exists from '18 to '25.",
-      " Likewise, the next significant trend is moderately increasing which exists from '11 to '18.",
-      " Likewise, the next significant trend is moderately decreasing which exists from '25 to '30.",
-      " Contrarily, the next significant trend is slightly decreasing which exists from '07 to '11.",
-      " But, the next significant trend is extremely increasing which exists from '03 to '07."
+      "The chart in general has a zig-zag shape.",
+      "The most drastic decrease took place within the Year '08 and '09.",
+      "The highest Revenues in billion U.S. dollars, of value 406.0 was reached at Year '30",
+      "The lowest Revenues in billion U.S. dollars, of value 131.8 was reported at Year '03",
+      "The line drastically "
    ],
-   "trends": [
-      {},
-      {
-         "1": "5",
-         "12": "12"
-      },
-      {
-         "3": "12",
-         "14": "19"
-      },
-      {
-         "3": "0",
-         "14": "5"
-      },
-      {
-         "3": "19",
-         "14": "23"
-      },
-      {
-         "3": "23",
-         "14": "27"
-      }
-   ],
+   "trends": [],
    "data": [
       {
          "Year": "'30",

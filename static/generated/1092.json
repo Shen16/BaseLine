@@ -1,16 +1,32 @@
 {
-   "title": "Test",
+   "title": "Pandora 's advertising revenue 2006 to 2017",
    "xAxis": "Month",
    "yAxis": "Revenue in million U.S. dollars",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 12 categories on the x axis representing Month, and Revenue in million U.S. dollars in each Month on the y axis.",
-      "Jan to Dec 2017 is higher than any other categories with value 1074.93, followed by , and Jan to Dec 2015. Down to category Feb 2006 to Jan 2007 with the lowest value of 3.25. ",
-      " The highest value at Jan to Dec 2017 is almost 330.75 times larger than the minimum value of Feb 2006 to Jan 2007. ",
-      " The highest value at Jan to Dec 2017 is almost 330.75 times larger than the minimum value of Feb 2006 to Jan 2007. ",
-      " The difference between the max Month Jan to Dec 2017 and min Month Feb 2006 to Jan 2007 is 1071.68. "
+      "This is a bar chart. It shows Revenue in million U.S. dollars for 12 number of Months. ",
+      "The Revenue in million U.S. dollars is highest at Month Jan to Dec 2017 and lowest at Month Feb 2006 to Jan 2007. ",
+      "The highest Month Jan to Dec 2017 has 1071.68 more Revenue in million U.S. dollars than the lowest Month Feb 2006 to Jan 2007. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Revenue in million U.S. dollars for 12 number of Months. ",
+      "The Revenue in million U.S. dollars is highest at Month Jan to Dec 2017 and lowest at Month Feb 2006 to Jan 2007. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Revenue in million U.S. dollars for 12 number of Months. ",
+      "The Revenue in million U.S. dollars is highest at Month Jan to Dec 2017 and lowest at Month Feb 2006 to Jan 2007. ",
+      "The highest Month Jan to Dec 2017 has 1071.68 more Revenue in million U.S. dollars than the lowest Month Feb 2006 to Jan 2007. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Month in the x axis and Revenue in million U.S. dollars in the y axis. ",
+      "The maximum Revenue in million U.S. dollars 1074.93 is found at Month Jan to Dec 2017 and the minimum is found at Feb 2006 to Jan 2007 where Month is 3.25. ",
+      "The highest Month Jan to Dec 2017 has 1071.68 more Revenue in million U.S. dollars than the lowest Month Feb 2006 to Jan 2007. ",
+      "Month Jan to Dec 2017 is higher than any other Months with value 1074.93, followed by , and Jan to Dec 2015. Down to Month Feb 2006 to Jan 2007 with the lowest value 3.25. ",
+      "Overall Revenue in million U.S. dollars has reduced over the Months. ",
+      "The Month Feb 2006 to Jan 2007 has 2.52 times less Revenue in million U.S. dollars than average. ",
+      "The Revenue in million U.S. dollars is 5121.88 if we add up values of all Months. "
    ],
    "trends": [
       {},

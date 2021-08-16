@@ -1,28 +1,42 @@
 {
-   "title": "Test",
+   "title": "U.S. Consumer Price Index excluding food and energy 1990 to 2019",
    "xAxis": "Year",
    "yAxis": "Consumer Price Index (100=1982-1984)",
    "columnType": "two",
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Consumer Price Index (100=1982-1984), with a total of 30 data points.",
-      " Overall Consumer Price Index (100=1982-1984) has decreased over the Year.",
-      "Consumer Price Index (100=1982-1984) is slightly decreasing from 2019 to 2011, roughly constant from 2011 to 2009, and lastly gradually decreasing from 2009 to 1990.",
-      "The steepest decrease occurs in between the Year 1991 and 1990.",
-      "Max Consumer Price Index (100=1982-1984) about 263.21 was recorded at Year 2019",
-      "Min Consumer Price Index (100=1982-1984) about 135.5 was recorded at Year 1990",
-      "#########################################################################",
-      "This line chart has an x axis representing Year and a y axis representing Consumer Price Index (100=1982-1984) with a total of 30 data points. The chart has one significant trend.",
-      " This trend is decreasing which exists from 1990 to 2019."
+      "This is a line chart with an x axis representing Year and a y axis representing Consumer Price Index (100=1982-1984), containing a total of 30 data points.",
+      " Overall Consumer Price Index (100=1982-1984) has increased over the Year.",
+      "Consumer Price Index (100=1982-1984) is gradually increasing from 1990 to 2008, roughly constant from 2008 to 2010, and lastly slightly increasing from 2010 to 2019.",
+      "The line rapidly ",
+      "The most drastic increase took place within the Year 1990 and 1991.",
+      "The highest Consumer Price Index (100=1982-1984), of value 263.21 was reached at Year 2019",
+      "Minimum Consumer Price Index (100=1982-1984) about 135.5 was reached at Year 1990"
    ],
-   "trends": [
-      {},
-      {
-         "3": "0",
-         "14": "29"
-      }
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Consumer Price Index (100=1982-1984), containing a total of 30 data points.",
+      " In general Consumer Price Index (100=1982-1984) has rose over the Year.",
+      "Consumer Price Index (100=1982-1984) is gradually increasing from 1990 to 2008, roughly constant from 2008 to 2010, and lastly slightly increasing from 2010 to 2019."
    ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Consumer Price Index (100=1982-1984). In total the number of data points it has is 30.",
+      " Overall Consumer Price Index (100=1982-1984) has increased over the Year.",
+      "Consumer Price Index (100=1982-1984) is gradually increasing from 1990 to 2008, roughly constant from 2008 to 2010, and lastly slightly increasing from 2010 to 2019.",
+      "The steepest increase occurs in between the Year 1990 and 1991.",
+      "The highest Consumer Price Index (100=1982-1984), of value 263.21 was reached at Year 2019",
+      "Minimum Consumer Price Index (100=1982-1984) about 135.5 was reached at Year 1990"
+   ],
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Consumer Price Index (100=1982-1984). In total the number of data points it has is 30.",
+      " Overall Consumer Price Index (100=1982-1984) has increased over the Year.",
+      "Consumer Price Index (100=1982-1984) is gradually increasing from 1990 to 2008, roughly constant from 2008 to 2010, and lastly slightly increasing from 2010 to 2019.",
+      "The steepest increase occurs in between the Year 1990 and 1991.",
+      "The highest Consumer Price Index (100=1982-1984), of value 263.21 was reached at Year 2019",
+      "Minimum Consumer Price Index (100=1982-1984) about 135.5 was reached at Year 1990",
+      "The line significantly "
+   ],
+   "trends": [],
    "data": [
       {
          "Year": "1990",

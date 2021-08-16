@@ -1,28 +1,42 @@
 {
-   "title": "Test",
+   "title": "Canada retail e-commerce sales growth 2018 to 2023",
    "xAxis": "Year",
    "yAxis": "Year-over-year change",
    "columnType": "two",
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Year-over-year change, with a total of 6 data points.",
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Year-over-year change. In total the number of data points it has is 6.",
       " Overall Year-over-year change has decreased over the Year.",
       "Year-over-year change is roughly constant from 2018 to 2020, and lastly slightly decreasing from 2020 to 2023.",
+      "The line significantly ",
+      "The most drastic decrease took place within the Year 2021 and 2022.",
+      "Maximum Year-over-year change, about 10.1 was reported at Year 2019",
+      "The lowest Year-over-year change, of value 3.1 was reported at Year 2023"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Year-over-year change. In total the number of data points it has is 6.",
+      " Overall Year-over-year change has decreased over the Year.",
+      "Year-over-year change is roughly constant from 2018 to 2020, and lastly slightly decreasing from 2020 to 2023."
+   ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Year-over-year change, containing a total of 6 data points.",
+      " In general Year-over-year change has fallen over the Year.",
+      "Year-over-year change is roughly constant from 2018 to 2020, and lastly slightly decreasing from 2020 to 2023.",
+      "The most drastic decrease took place within the Year 2021 and 2022.",
+      "Maximum Year-over-year change, about 10.1 was reported at Year 2019",
+      "The lowest Year-over-year change, of value 3.1 was reported at Year 2023"
+   ],
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Year-over-year change. In total the number of data points it has is 6.",
+      " In general Year-over-year change has fallen over the Year.",
+      "Year-over-year change is roughly constant from 2018 to 2020, and lastly slightly decreasing from 2020 to 2023.",
       "The steepest decrease occurs in between the Year 2021 and 2022.",
-      "Max Year-over-year change about 10.1 was recorded at Year 2019",
-      "Min Year-over-year change about 3.1 was recorded at Year 2023",
-      "#########################################################################",
-      "This line chart has an x axis representing Year and a y axis representing Year-over-year change with a total of 6 data points. The chart has one significant trend.",
-      " This trend is decreasing which exists from 2023 to 2018."
+      "Maximum Year-over-year change, about 10.1 was reported at Year 2019",
+      "The lowest Year-over-year change, of value 3.1 was reported at Year 2023",
+      "The line drastically "
    ],
-   "trends": [
-      {},
-      {
-         "3": "0",
-         "14": "5"
-      }
-   ],
+   "trends": [],
    "data": [
       {
          "Year": "2023",

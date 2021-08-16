@@ -1,18 +1,31 @@
 {
-   "title": "Test",
+   "title": "Most played PC games 2015",
    "xAxis": "Video Game",
    "yAxis": "Share of playing time",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 20 categories on the x axis representing Video Game, and Share of playing time in each Video Game on the y axis.",
-      " The highest category is found at League of Legends where Share of playing time is 22.92.",
-      " Followed by 22.92 in .",
-      " The lowest category is found at Call of Duty: Black Ops III where Share of playing time is 0.72.",
-      " The highest value at League of Legends is almost 31.83 times larger than the minimum value of Call of Duty: Black Ops III. ",
-      " The highest value at League of Legends is almost 31.83 times larger than the minimum value of Call of Duty: Black Ops III. ",
-      " The difference between the max Video Game League of Legends and min Video Game Call of Duty: Black Ops III is 22.200000000000003. "
+      "This is a bar chart representing Video Game in the x axis and Share of playing time in the y axis. ",
+      "Video Game League of Legends has the highest Share of playing time and Call of Duty: Black Ops III has the lowest Share of playing time. ",
+      "The difference of Share of playing time between the highest and lowest Video Game is 22.2. "
+   ],
+   "min_summary": [
+      "This bar chart has 20 columns on the x axis representing Video Game, and Share of playing time in each Video Game on the y axis. ",
+      "Video Game League of Legends has the highest Share of playing time and Call of Duty: Black Ops III has the lowest Share of playing time. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Video Game in the x axis and Share of playing time in the y axis. ",
+      "Video Game League of Legends has the highest Share of playing time and Call of Duty: Black Ops III has the lowest Share of playing time. ",
+      "The difference of Share of playing time between the highest and lowest Video Game is 22.2. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Share of playing time for 20 number of Video Games. ",
+      "The maximum Share of playing time 22.92 is found at Video Game League of Legends and the minimum is found at Call of Duty: Black Ops III where Video Game is 0.72. ",
+      "The maximum Video Game League of Legends has got 31.83 times higher Share of playing time than the minimum Video Game Call of Duty: Black Ops III. ",
+      "The Video Game League of Legends has the highest Share of playing time, followed by , and Fallout 4. Down to the Video Game Call of Duty: Black Ops III which is the lowest. ",
+      "The Video Game League of Legends tends to be 7.0 percent higher than average. ",
+      "Summing up the values of all Video Games, we get total 65.46. "
    ],
    "trends": [
       {},

@@ -1,48 +1,42 @@
 {
-   "title": "Test",
+   "title": "Gross domestic product ( GDP ) growth rate in India 2024",
    "xAxis": "Year",
    "yAxis": "GDP growth rate compared to previous year",
    "columnType": "two",
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing GDP growth rate compared to previous year, with a total of 11 data points.",
+      "This is a line chart with an x axis representing Year and a y axis representing GDP growth rate compared to previous year, containing a total of 11 data points.",
       " Overall GDP growth rate compared to previous year has decreased over the Year.",
-      "GDP growth rate compared to previous year is slightly increasing from 2014 to 2015, roughly constant from 2015 to 2016, gradually decreasing from 2016 to 2019, slightly increasing from 2019 to 2020, and lastly roughly constant from 2020 to 2024.",
+      "GDP growth rate compared to previous year is slightly increasing from 2014 to 2015, roughly constant from 2015 to 2016, gradually decreasing from 2016 to 2019, slightly increasing from 2019 to 2020, and finally roughly constant from 2020 to 2024.",
+      "The line rapidly ",
+      "The most drastic decrease took place within the Year 2016 and 2017.",
+      "Maximum GDP growth rate compared to previous year, about 8.17 was reported at Year 2016",
+      "Minimum GDP growth rate compared to previous year about 6.12 was reached at Year 2019"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes GDP growth rate compared to previous year. In total the number of data points it has is 11.",
+      " Overall GDP growth rate compared to previous year has decreased over the Year.",
+      "GDP growth rate compared to previous year is slightly increasing from 2014 to 2015, roughly constant from 2015 to 2016, gradually decreasing from 2016 to 2019, slightly increasing from 2019 to 2020, and finally roughly constant from 2020 to 2024."
+   ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing GDP growth rate compared to previous year, containing a total of 11 data points.",
+      " Overall GDP growth rate compared to previous year has decreased over the Year.",
+      "GDP growth rate compared to previous year is slightly increasing from 2014 to 2015, roughly constant from 2015 to 2016, gradually decreasing from 2016 to 2019, slightly increasing from 2019 to 2020, and finally roughly constant from 2020 to 2024.",
       "The steepest decrease occurs in between the Year 2016 and 2017.",
-      "Max GDP growth rate compared to previous year about 8.17 was recorded at Year 2016",
-      "Min GDP growth rate compared to previous year about 6.12 was recorded at Year 2019",
-      "#########################################################################",
-      "This line chart has an x axis representing Year and a y axis representing GDP growth rate compared to previous year, with a total of 11 data points. The chart has 5 significant trends.",
-      " The longest trend is slightly decreasing which exists from 2016 to 2019.",
-      " On the other hand, the next significant trend is moderately constant which exists from 2021 to 2023.",
-      " Differently, the next significant trend is extremely increasing which exists from 2019 to 2021.",
-      " Correspondingly, the next significant trend is extremely increasing which exists from 2014 to 2016.",
-      " Likewise, the next significant trend is moderately decreasing which exists from 2023 to 2024."
+      "Maximum GDP growth rate compared to previous year, about 8.17 was reported at Year 2016",
+      "Minimum GDP growth rate compared to previous year about 6.12 was reached at Year 2019"
    ],
-   "trends": [
-      {},
-      {
-         "1": "5",
-         "12": "8"
-      },
-      {
-         "3": "1",
-         "14": "3"
-      },
-      {
-         "3": "3",
-         "14": "5"
-      },
-      {
-         "3": "8",
-         "14": "10"
-      },
-      {
-         "3": "0",
-         "14": "1"
-      }
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing GDP growth rate compared to previous year, containing a total of 11 data points.",
+      " In general GDP growth rate compared to previous year has stayed the same over the Year.",
+      "GDP growth rate compared to previous year is slightly increasing from 2014 to 2015, roughly constant from 2015 to 2016, gradually decreasing from 2016 to 2019, slightly increasing from 2019 to 2020, and finally roughly constant from 2020 to 2024.",
+      "The steepest decrease occurs in between the Year 2016 and 2017.",
+      "Maximum GDP growth rate compared to previous year, about 8.17 was reported at Year 2016",
+      "Minimum GDP growth rate compared to previous year about 6.12 was reached at Year 2019",
+      "The line rapidly "
    ],
+   "trends": [],
    "data": [
       {
          "Year": "2024",

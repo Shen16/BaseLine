@@ -1,16 +1,32 @@
 {
-   "title": "Test",
+   "title": "Streaming service subscribers in India 2017",
    "xAxis": "Video-on-demand Service",
    "yAxis": "Number of subscribers in millions",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 6 categories on the x axis representing Video-on-demand Service, and Number of subscribers in millions in each Video-on-demand Service on the y axis.",
-      "Hotstar is higher than any other categories with value 63.0, followed by , and Amazon Video. Down to category Ozee TV with the lowest value of 2.4. ",
-      " The highest value at Hotstar is almost 26.25 times larger than the minimum value of Ozee TV. ",
-      " The highest value at Hotstar is almost 26.25 times larger than the minimum value of Ozee TV. ",
-      " The difference between the max Video-on-demand Service Hotstar and min Video-on-demand Service Ozee TV is 60.6. "
+      "This is a bar chart representing Video-on-demand Service in the x axis and Number of subscribers in millions in the y axis. ",
+      "Video-on-demand Service Hotstar has the highest Number of subscribers in millions and Ozee TV has the lowest Number of subscribers in millions. ",
+      "The difference of Number of subscribers in millions between the highest and lowest Video-on-demand Service is 60.6. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Number of subscribers in millions for 6 number of Video-on-demand Services. ",
+      "The maximum Number of subscribers in millions 63.0 is found at Video-on-demand Service Hotstar and the minimum is found at Ozee TV where Video-on-demand Service is 2.4. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Video-on-demand Service in the x axis and Number of subscribers in millions in the y axis. ",
+      "Video-on-demand Service Hotstar has the highest Number of subscribers in millions and Ozee TV has the lowest Number of subscribers in millions. ",
+      "The difference of Number of subscribers in millions between the highest and lowest Video-on-demand Service is 60.6. "
+   ],
+   "max_summary": [
+      "This bar chart has 6 columns on the x axis representing Video-on-demand Service, and Number of subscribers in millions in each Video-on-demand Service on the y axis. ",
+      "Video-on-demand Service Hotstar has the highest Number of subscribers in millions and Ozee TV has the lowest Number of subscribers in millions. ",
+      "Second maximum Number of subscribers in millions is found at Video-on-demand Service . ",
+      "The highest Video-on-demand Service Hotstar has 60.6 more Number of subscribers in millions than the lowest Video-on-demand Service Ozee TV. ",
+      "Number of subscribers in millions at Video-on-demand Service Hotstar is 63.0 , second place is  at 63.0, and thirdly is Amazon Video at 9.5.",
+      "The Video-on-demand Service Hotstar tends to be 3.9 percent higher than average. ",
+      "Summing up the values of all Video-on-demand Services, we get total 96.9. "
    ],
    "trends": [
       {},

@@ -1,5 +1,5 @@
 {
-   "title": "Test",
+   "title": "Annual imports of cement into Great Britain by importer 2001 to 2018",
    "labels": [
       "Year",
       "by manufacturers",
@@ -9,15 +9,37 @@
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This is a multi-line chart with 2 lines representing by manufacturers, and by others. ",
-      "The line for by others has the highest values across Year with a mean value of 1139.78, ",
-      "and it peaked at 2017 with a value of 1932.0.",
-      "by manufacturers mostly had the least y-axis name with a mean value of 424.22, ",
-      "which peaked at 2001 with a value of 1182.0. ",
-      "by manufacturers reported the lowest y-axis name  about 0.0 in Year 2016",
+      "You are viewing a chart of multi-line type with 2 lines denoting by manufacturers, and by others. The y axis indicates the Imports in thousand metric tons and the x axis indicates Year.",
       "Overall by others is gradually increasing, by manufacturers is gradually decreasing,  throughout the Year",
-      "The difference of y_axis name between by manufacturers and by others is smaller at Year 2018 compared to the Year 2001.",
-      "The greatest difference of y_axis name between by manufacturers and by others occurs at Year 2016 and the smallest difference occurs at 2003."
+      "The lines ordered according to average values of Imports in thousand metric tons in descending order is: 1. by others, and lastly, 2. by manufacturers. ",
+      "Overall across the Year, by others mostly maintained the highest Imports in thousand metric tons when compared to others with a mean value of 1139.78, and it peaked at 2017.",
+      "The botommost line, by manufacturers,  has a mean of 424.22, and peaked at 2001. ",
+      "by manufacturers reported the lowest Imports in thousand metric tons about 0.0 in Year 2016",
+      "The greatest difference of Imports in thousand metric tons between by manufacturers and by others occurs at Year 2016 and the smallest difference occurs at 2003."
+   ],
+   "xAxis": "Year",
+   "yAxis": "Imports in thousand metric tons",
+   "min_summary": [
+      "You are viewing a chart of multi-line type with 2 lines denoting by manufacturers, and by others. The y axis indicates the Imports in thousand metric tons and the x axis indicates Year.",
+      "Overall by others is gradually increasing, by manufacturers is gradually decreasing,  throughout the Year",
+      "Throughout the period, by others generally had the highest Imports in thousand metric tons relative to others with an average of 1139.78, and it reached its maximum at 2017 with a value of 1932.0.",
+      "by manufacturers mostly had the least Imports in thousand metric tons with a mean value of 424.22, which peaked at 2001 with a value of 1182.0. "
+   ],
+   "mid_summary": [
+      "You are viewing a chart of multi-line type with 2 lines denoting by manufacturers, and by others. The y axis indicates the Imports in thousand metric tons and the x axis indicates Year.",
+      "Overall by others is gradually increasing, by manufacturers is gradually decreasing,  throughout the Year",
+      "The ranking of the lines from topmost to botommmost is as follows: 1. by others, and lastly, 2. by manufacturers. ",
+      "Throughout the period, by others generally had the highest Imports in thousand metric tons relative to others with an average of 1139.78, and it reached its maximum at 2017 with a value of 1932.0.",
+      "by manufacturers mostly had the least Imports in thousand metric tons with a mean value of 424.22, which peaked at 2001 with a value of 1182.0. "
+   ],
+   "max_summary": [
+      "You are viewing a chart of multi-line type with 2 lines denoting by manufacturers, and by others. The y axis indicates the Imports in thousand metric tons and the x axis indicates Year.",
+      "Overall by others is gradually increasing, by manufacturers is gradually decreasing,  throughout the Year",
+      "The ranking of the lines from topmost to botommmost is as follows: 1. by others, and lastly, 2. by manufacturers. ",
+      "Throughout the period, by others generally had the highest Imports in thousand metric tons relative to others with an average of 1139.78, and it reached its maximum at 2017 with a value of 1932.0.",
+      "The botommost line, by manufacturers,  has a mean of 424.22, and peaked at 2001. ",
+      "by manufacturers reported the lowest Imports in thousand metric tons about 0.0 in Year 2016",
+      "The difference of Imports in thousand metric tons between by manufacturers and by others is smaller at Year 2018 compared to the Year 2001."
    ],
    "trends": [
       {},

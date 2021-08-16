@@ -1,5 +1,5 @@
 {
-   "title": "Test",
+   "title": "Distribution of GDP across economic sectors in the United Kingdom 2018",
    "labels": [
       "Year",
       "Agriculture",
@@ -10,15 +10,39 @@
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This is a multi-line chart with 3 lines representing Agriculture, Industry, and Services. ",
-      "The line for Services has the highest values across Year with a mean value of 70.47, ",
-      "and it peaked at 2009 with a value of 71.61.",
-      "Followed by Industry, with a mean value of 18.4. ",
-      "This line peaked at 2008 with a value of 20.0. ",
-      "Agriculture mostly had the least y-axis name with a mean value of 0.64, ",
-      "which peaked at 2009 with a value of 0.69. ",
-      "Agriculture reported the lowest y-axis name  about 0.6 in Year 2016",
-      "Overall Agriculture, Industry, and Services are roughly constant,  throughout the Year"
+      "The given chart is of multi-line type with 3 lines namely Agriculture, Industry, and Services. The y axis represents SOME LABEL and the x axis represents Year.",
+      "Overall Agriculture, Industry, and Services are roughly constant,  throughout the Year",
+      "The ranking of the lines from topmost to botommmost is as follows: 1. Services, 2. Industry, and lastly, 3. Agriculture. ",
+      "Throughout the period, Services generally had the highest SOME LABEL relative to others with an average of 70.47, and it reached its maximum at 2009 with a value of 71.61.",
+      "Followed by Industry which ranks as the second topmpost line , with an average of 18.4 SOME LABEL,reaching its highest point  at 2008 with a value of 20.0. ",
+      "The botommost line, Agriculture,  has a mean of 0.64, and peaked at 2009. ",
+      "Agriculture reported the lowest SOME LABEL about 0.6 in Year 2016"
+   ],
+   "xAxis": "Year",
+   "yAxis": "SOME LABEL",
+   "min_summary": [
+      "The given chart is of multi-line type with 3 lines namely Agriculture, Industry, and Services. The y axis represents SOME LABEL and the x axis represents Year.",
+      "Overall Agriculture, Industry, and Services are roughly constant,  throughout the Year",
+      "Overall across the Year, Services mostly maintained the highest SOME LABEL when compared to others with a mean value of 70.47, and it peaked at 2009.",
+      "Followed by Industry which ranks as the second topmpost line , with an average of 18.4 SOME LABEL,reaching its highest point  at 2008 with a value of 20.0. ",
+      "Agriculture mostly had the least SOME LABEL with a mean value of 0.64, which peaked at 2009 with a value of 0.69. "
+   ],
+   "mid_summary": [
+      "You are viewing a chart of multi-line type with 3 lines denoting Agriculture, Industry, and Services. The y axis indicates the SOME LABEL and the x axis indicates Year.",
+      "Overall Agriculture, Industry, and Services are roughly constant,  throughout the Year",
+      "The ranking of the lines from topmost to botommmost is as follows: 1. Services, 2. Industry, and lastly, 3. Agriculture. ",
+      "Overall across the Year, Services mostly maintained the highest SOME LABEL when compared to others with a mean value of 70.47, and it peaked at 2009.",
+      "After Services, Industry overall has the second highest values , with a mean value of 18.4, peaking at 2008. ",
+      "Agriculture mostly had the least SOME LABEL with a mean value of 0.64, which peaked at 2009 with a value of 0.69. "
+   ],
+   "max_summary": [
+      "This is a multi-line chart with 3 lines representing Agriculture, Industry, and Services. The y axis denotes SOME LABEL and the x axis denotes Year.",
+      "Overall Agriculture, Industry, and Services are roughly constant,  throughout the Year",
+      "The lines ordered according to average values of SOME LABEL in descending order is: 1. Services, 2. Industry, and lastly, 3. Agriculture. ",
+      "Overall across the Year, Services mostly maintained the highest SOME LABEL when compared to others with a mean value of 70.47, and it peaked at 2009.",
+      "After Services, Industry overall has the second highest values , with a mean value of 18.4, peaking at 2008. ",
+      "Agriculture mostly had the least SOME LABEL with a mean value of 0.64, which peaked at 2009 with a value of 0.69. ",
+      "The minimum SOME LABEL about 0.6, occured at 2016 by Agriculture."
    ],
    "trends": [
       {},

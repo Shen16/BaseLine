@@ -1,27 +1,39 @@
 {
-   "title": "Test",
+   "title": "U.S. wind power generation 2000 to 2018",
    "xAxis": "Year",
    "yAxis": "Net generation in billion kilowatt hours",
    "columnType": "two",
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Net generation in billion kilowatt hours, with a total of 19 data points.",
+      "This is a line chart with an x axis representing Year and a y axis representing Net generation in billion kilowatt hours, containing a total of 19 data points.",
+      " In general Net generation in billion kilowatt hours has rose over the Year.",
+      "Net generation in billion kilowatt hours is roughly increasing from 2000 to 2002, roughly constant from 2002 to 2003, rapidly increasing from 2003 to 2012, and finally roughly constant from 2012 to 2018.",
+      "The line drastically ",
+      "Maximum Net generation in billion kilowatt hours, about 274.95 was reported at Year 2018",
+      "The lowest Net generation in billion kilowatt hours, of value 5.59 was reported at Year 2000"
+   ],
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Net generation in billion kilowatt hours, containing a total of 19 data points.",
       " Overall Net generation in billion kilowatt hours has increased over the Year.",
-      "Net generation in billion kilowatt hours is roughly increasing from 2000 to 2002, roughly constant from 2002 to 2003, rapidly increasing from 2003 to 2012, and lastly roughly constant from 2012 to 2018.",
-      "Max Net generation in billion kilowatt hours about 274.95 was recorded at Year 2018",
-      "Min Net generation in billion kilowatt hours about 5.59 was recorded at Year 2000",
-      "#########################################################################",
-      "This line chart has an x axis representing Year and a y axis representing Net generation in billion kilowatt hours with a total of 19 data points. The chart has one significant trend.",
-      " This trend is increasing which exists from 2018 to 2000."
+      "Net generation in billion kilowatt hours is roughly increasing from 2000 to 2002, roughly constant from 2002 to 2003, rapidly increasing from 2003 to 2012, and finally roughly constant from 2012 to 2018."
    ],
-   "trends": [
-      {},
-      {
-         "3": "0",
-         "14": "18"
-      }
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Net generation in billion kilowatt hours, containing a total of 19 data points.",
+      " Overall Net generation in billion kilowatt hours has increased over the Year.",
+      "Net generation in billion kilowatt hours is roughly increasing from 2000 to 2002, roughly constant from 2002 to 2003, rapidly increasing from 2003 to 2012, and finally roughly constant from 2012 to 2018.",
+      "Maximum Net generation in billion kilowatt hours, about 274.95 was reported at Year 2018",
+      "The lowest Net generation in billion kilowatt hours, of value 5.59 was reported at Year 2000"
    ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Net generation in billion kilowatt hours, containing a total of 19 data points.",
+      " Overall Net generation in billion kilowatt hours has increased over the Year.",
+      "Net generation in billion kilowatt hours is roughly increasing from 2000 to 2002, roughly constant from 2002 to 2003, rapidly increasing from 2003 to 2012, and finally roughly constant from 2012 to 2018.",
+      "Maximum Net generation in billion kilowatt hours, about 274.95 was reported at Year 2018",
+      "The lowest Net generation in billion kilowatt hours, of value 5.59 was reported at Year 2000",
+      "The line drastically "
+   ],
+   "trends": [],
    "data": [
       {
          "Year": "2018",

@@ -1,5 +1,5 @@
 {
-   "title": "Test",
+   "title": "U.S. consumer Christmas spending habits 2011 to 2013",
    "labels": [
       "Response",
       "2011",
@@ -10,12 +10,31 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart has 5 categories of Response on the x axis representing 3 groups: 2011, 2012, and 2013.",
-      " Averaging these 3 groups, the highest category is found for Response Spend the same as last Christmas with a mean value of 46.0.",
-      " Followed by Spend less than last Christmas with a mean value of 33.0.",
-      " The lowest category is observed at Do not celebrate Christmas that has a mean value of 3.67",
-      " showing a difference of 170.5% with the maximum value.",
-      " In case of Spend the same as last Christmas, 2011 shows more dominance than any other Response and it has the lowest value in Do not celebrate Christmas. On the other hand, group 2013 is highest in case of Spend the same as last Christmas and has minimum impact for Response Do not celebrate Christmas. "
+      "This grouped bar chart represents 5 different Responses on X-axis for 3 groups 2011, 2012, and 2013. On the Y-axis it shows their corresponding Share of respondents. ",
+      " Response Spend the same as last Christmas had the maximum Share of respondents among all 3 groups, and it was for 2013. The minimum Share of respondents was observed in Response Do not celebrate Christmas for 2011. ",
+      " Among all the Responses, 2012 had the highest Share of respondents 47.0 in Response Spend the same as last Christmas and lowest value 4.0 in Response Do not celebrate Christmas. ",
+      "Response Spend the same as last Christmas and Do not celebrate Christmas had the biggest gap of 43.0 between the highest and lowest Share of respondents found for 2012. "
+   ],
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "min_summary": [
+      "This grouped bar chart shows Share of respondents on the Y-axis for 5 different Responses for 3 groups 2011, 2012, and 2013 that are presented on the X-axis. ",
+      " Out of all 3 groups, 2013 had the highest Share of respondents in Response Spend the same as last Christmas and 2011 had the lowest Share of respondents in Response Do not celebrate Christmas. "
+   ],
+   "mid_summary": [
+      "This grouped bar chart represents 5 different Responses on X-axis for 3 groups 2011, 2012, and 2013. On the Y-axis it shows their corresponding Share of respondents. ",
+      " Response Spend the same as last Christmas had the maximum Share of respondents among all 3 groups, and it was for 2013. The minimum Share of respondents was observed in Response Do not celebrate Christmas for 2011. ",
+      " Among all the Responses, 2012 had the highest Share of respondents 47.0 in Response Spend the same as last Christmas and lowest value 4.0 in Response Do not celebrate Christmas. ",
+      "Response Spend the same as last Christmas and Do not celebrate Christmas had the biggest gap of 43.0 between the highest and lowest Share of respondents found for 2012. "
+   ],
+   "max_summary": [
+      "This grouped bar chart shows Share of respondents on the Y-axis for 5 different Responses for 3 groups 2011, 2012, and 2013 that are presented on the X-axis. ",
+      " Response Spend the same as last Christmas had the maximum Share of respondents among all 3 groups, and it was for 2013. The minimum Share of respondents was observed in Response Do not celebrate Christmas for 2011. ",
+      " Among all the Responses, 2012 had the highest Share of respondents in Response Spend the same as last Christmas and lowest Share of respondents in Response Do not celebrate Christmas. ",
+      " There is a gap of 43.0 between the highest and lowest Share of respondents found for 2012 in Response Spend the same as last Christmas and Do not celebrate Christmas. ",
+      " Among the groups, 2012 had the biggest difference in Share of respondents. Where the maximum Share of respondents was 11.75 times larger than the minimum Share of respondents. ",
+      " 2013 had the maximum Share of respondents out of all 3 groups in Response Spend the same as last Christmas followed by 2013 in Spend the same as last Christmas, and the minimum Share of respondents is found for 2011 in Do not celebrate Christmas. ",
+      "On average, the Response Spend the same as last Christmas had the highest Share of respondents for all 3 groups 2011, 2012, and 2013. Whereas Do not celebrate Christmas had the lowest average Share of respondents. "
    ],
    "trends": [
       {},

@@ -1,18 +1,32 @@
 {
-   "title": "Test",
+   "title": "MoviePass subscribers in the U.S. 2019",
    "xAxis": "Month",
    "yAxis": "Number of subscribers in thousands",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 7 categories on the x axis representing Month, and Number of subscribers in thousands in each Month on the y axis.",
-      " The highest category is found at June 2018 where Number of subscribers in thousands is 3000.0.",
-      " Followed by 225.0 in .",
-      " The lowest category is found at December 2016 where Number of subscribers in thousands is 20.0.",
-      " The highest value at June 2018 is almost 150.0 times larger than the minimum value of December 2016. ",
-      " The highest value at June 2018 is almost 150.0 times larger than the minimum value of December 2016. ",
-      " The difference between the max Month June 2018 and min Month December 2016 is 2980.0. "
+      "This is a bar chart representing Month in the x axis and Number of subscribers in thousands in the y axis. ",
+      "The Number of subscribers in thousands is highest at Month June 2018 and lowest at Month December 2016. ",
+      "The highest Month June 2018 has 2980.0 more Number of subscribers in thousands than the lowest Month December 2016. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Number of subscribers in thousands for 7 number of Months. ",
+      "Month June 2018 has the highest Number of subscribers in thousands and December 2016 has the lowest Number of subscribers in thousands. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Month in the x axis and Number of subscribers in thousands in the y axis. ",
+      "The Number of subscribers in thousands is highest at Month June 2018 and lowest at Month December 2016. ",
+      "The highest Month June 2018 has 2980.0 more Number of subscribers in thousands than the lowest Month December 2016. "
+   ],
+   "max_summary": [
+      "This bar chart has 7 columns on the x axis representing Month, and Number of subscribers in thousands in each Month on the y axis. ",
+      "Month June 2018 has the highest Number of subscribers in thousands and December 2016 has the lowest Number of subscribers in thousands. ",
+      "The second highest Number of subscribers in thousands is appeared to be the Month . ",
+      "The highest Month June 2018 has 2980.0 more Number of subscribers in thousands than the lowest Month December 2016. ",
+      "The Month June 2018 has the highest Number of subscribers in thousands, followed by , and January 2018. Down to the Month December 2016 which is the lowest. ",
+      "The Number of subscribers in thousands has declined over the past 7 Months. ",
+      "The lowest value 20.0 at December 2016 is almost 2.84 times smaller than the average value 1056.43. "
    ],
    "trends": [
       {},

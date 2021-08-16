@@ -1,16 +1,31 @@
 {
-   "title": "Test",
+   "title": "Forecast CAGR global digital health market by major segment 2015 to 2020",
    "xAxis": "Name",
    "yAxis": "Compound annual growth rate 2015-2020",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 5 categories on the x axis representing Name, and Compound annual growth rate 2015-2020 in each Name on the y axis.",
-      "Mobile health is higher than any other categories with value 41.0, followed by , and Average. Down to category EHR/EMR with the lowest value of 4.0. ",
-      " The highest value at Mobile health is almost 10.25 times larger than the minimum value of EHR/EMR. ",
-      " The highest value at Mobile health is almost 10.25 times larger than the minimum value of EHR/EMR. ",
-      " The difference between the max Name Mobile health and min Name EHR/EMR is 37.0. "
+      "This is a bar chart. It shows Compound annual growth rate 2015-2020 for 5 number of Names. ",
+      "Name Mobile health has the highest Compound annual growth rate 2015-2020 and EHR/EMR has the lowest Compound annual growth rate 2015-2020. ",
+      "The highest Name Mobile health has 37.0 more Compound annual growth rate 2015-2020 than the lowest Name EHR/EMR. "
+   ],
+   "min_summary": [
+      "This bar chart has 5 columns on the x axis representing Name, and Compound annual growth rate 2015-2020 in each Name on the y axis. ",
+      "The Compound annual growth rate 2015-2020 is highest at Name Mobile health and lowest at Name EHR/EMR. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Compound annual growth rate 2015-2020 for 5 number of Names. ",
+      "Name Mobile health has the highest Compound annual growth rate 2015-2020 and EHR/EMR has the lowest Compound annual growth rate 2015-2020. ",
+      "The highest Name Mobile health has 37.0 more Compound annual growth rate 2015-2020 than the lowest Name EHR/EMR. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Name in the x axis and Compound annual growth rate 2015-2020 in the y axis. ",
+      "The maximum Compound annual growth rate 2015-2020 41.0 is found at Name Mobile health and the minimum is found at EHR/EMR where Name is 4.0. ",
+      "The second highest Compound annual growth rate 2015-2020 is appeared to be the Name . ",
+      "The highest Name Mobile health has 37.0 more Compound annual growth rate 2015-2020 than the lowest Name EHR/EMR. ",
+      "Compound annual growth rate 2015-2020 at Name Mobile health is 41.0 , second place is  at 21.0, and thirdly is Average at 21.0.",
+      "The average Compound annual growth rate 2015-2020 in all 5 Names is 20.8. "
    ],
    "trends": [
       {},

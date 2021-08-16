@@ -1,13 +1,32 @@
 {
-   "title": "Test",
+   "title": "Average player age of participating national teams at the 2018 World Cup in Russia",
    "xAxis": "Country",
    "yAxis": "Average player age in years",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 32 categories on the x axis representing Country, and Average player age in years in each Country on the y axis.",
-      "Costa Rica is higher than any other categories with value 29.6, followed by , and Argentina. Down to category Nigeria with the lowest value of 25.9. "
+      "This bar chart has 32 columns on the x axis representing Country, and Average player age in years in each Country on the y axis. ",
+      "The maximum Average player age in years 29.6 is found at Country Costa Rica and the minimum is found at Nigeria where Country is 25.9. ",
+      "The difference of Average player age in years between the highest and lowest Country is 3.7. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing Country in the x axis and Average player age in years in the y axis. ",
+      "Country Costa Rica has the highest Average player age in years and Nigeria has the lowest Average player age in years. "
+   ],
+   "mid_summary": [
+      "This bar chart has 32 columns on the x axis representing Country, and Average player age in years in each Country on the y axis. ",
+      "The maximum Average player age in years 29.6 is found at Country Costa Rica and the minimum is found at Nigeria where Country is 25.9. ",
+      "The difference of Average player age in years between the highest and lowest Country is 3.7. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Country in the x axis and Average player age in years in the y axis. ",
+      "The Average player age in years is appeared to be the highest at Country Costa Rica and lowest at Country Nigeria. ",
+      "The highest Country Costa Rica has 3.7 more Average player age in years than the lowest Country Nigeria. ",
+      "Average player age in years at Country Costa Rica is 29.6 , second place is  at 29.6, and thirdly is Argentina at 29.3.",
+      "Country Sweden, Uruguay, Colombia, and Australia have a similar Average player age in years that is 28.1. ",
+      "The highest value 29.6 at Costa Rica is almost 1.06 times larger than the average value 27.86. ",
+      "The Average player age in years is 891.6 if we add up values of all Countrys. "
    ],
    "trends": [
       {},

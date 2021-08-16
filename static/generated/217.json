@@ -1,5 +1,5 @@
 {
-   "title": "Test",
+   "title": "U.S. students who have used hallucinogenic drugs 2017",
    "labels": [
       "Sex",
       "All races / ethnicities",
@@ -11,12 +11,31 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart has 3 categories of Sex on the x axis representing 4 groups: All races / ethnicities, White (non-Hispanic), Black (non-Hispanic), and Hispanic.",
-      " Averaging these 4 groups, the highest category is found for Sex Male with a mean value of 7.12.",
-      " Followed by Total with a mean value of 6.05.",
-      " The lowest category is observed at Female that has a mean value of 4.78",
-      " showing a difference of 39.5% with the maximum value.",
-      " In case of Male, All races / ethnicities shows more dominance than any other Sex and it has the lowest value in Female. On the other hand, group Hispanic is highest in case of Male and has minimum impact for Sex Female. "
+      "This grouped bar chart shows Share of students on the Y-axis for 3 different Sexs for 4 groups All races / ethnicities, White (non-Hispanic), Black (non-Hispanic), and Hispanic that are presented on the X-axis. ",
+      " Sex Male had the maximum Share of students among all 4 groups, and it was for Hispanic. The minimum Share of students was observed in Sex Female for Black (non-Hispanic). ",
+      " Among all the Sexs, Hispanic had the highest Share of students 82.0 in Sex Male and lowest value 58.0 in Sex Female. ",
+      " There is a gap of 24.0 between the highest and lowest Share of students found for Hispanic in Sex Male and Female. "
+   ],
+   "xAxis": "Sex",
+   "yAxis": "Share of students",
+   "min_summary": [
+      "This grouped bar chart shows Share of students on the Y-axis for 3 different Sexs for 4 groups All races / ethnicities, White (non-Hispanic), Black (non-Hispanic), and Hispanic that are presented on the X-axis. ",
+      " Sex Male had the maximum Share of students among all 4 groups, and it was for Hispanic. The minimum Share of students was observed in Sex Female for Black (non-Hispanic). "
+   ],
+   "mid_summary": [
+      "This grouped bar chart shows Share of students on the Y-axis for 3 different Sexs for 4 groups All races / ethnicities, White (non-Hispanic), Black (non-Hispanic), and Hispanic that are presented on the X-axis. ",
+      " Sex Male had the maximum Share of students among all 4 groups, and it was for Hispanic. The minimum Share of students was observed in Sex Female for Black (non-Hispanic). ",
+      " Among all the Sexs, Hispanic had the highest Share of students 82.0 in Sex Male and lowest value 58.0 in Sex Female. ",
+      " There is a gap of 24.0 between the highest and lowest Share of students found for Hispanic in Sex Male and Female. "
+   ],
+   "max_summary": [
+      "This grouped bar chart represents 3 different Sexs on X-axis for 4 groups All races / ethnicities, White (non-Hispanic), Black (non-Hispanic), and Hispanic. On the Y-axis it shows their corresponding Share of students. ",
+      " In Sex Male, Hispanic had the highest Share of students 82.0 among the 4 groups and in Female, Black (non-Hispanic) had the lowest Share of students 14.0. ",
+      " Among all the Sexs, Hispanic had the highest Share of students in Sex Male and lowest Share of students in Sex Female. ",
+      " There is a gap of 24.0 between the highest and lowest Share of students found for Hispanic in Sex Male and Female. ",
+      " Out of all 4 groups, the highest gap between the maximum and minimum Share of students was found in case of Black (non-Hispanic). ",
+      " Hispanic had the maximum Share of students out of all 4 groups in Sex Male followed by Hispanic in Male, and the minimum Share of students is found for Black (non-Hispanic) in Female. ",
+      "Averaging all 4 groups All races / ethnicities, White (non-Hispanic), Black (non-Hispanic), and Hispanic, the Sex Male is the maximum Share of students and Female is the minimum Share of students. "
    ],
    "trends": [
       {},

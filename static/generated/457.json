@@ -1,5 +1,5 @@
 {
-   "title": "Test",
+   "title": "Children participating in cricket in England 2010 to 2018",
    "labels": [
       "Year",
       "5-10 years",
@@ -9,14 +9,35 @@
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This is a multi-line chart with 2 lines representing 5-10 years, and 11-15 years. ",
-      "The line for 11-15 years has the highest values across Year with a mean value of 17.7, ",
-      "and it peaked at 2012/13 with a value of 22.5.",
-      "5-10 years mostly had the least y-axis name with a mean value of 5.46, ",
-      "which peaked at 2011/12 with a value of 6.9. ",
-      "Overall 11-15 years is gradually decreasing, 5-10 years is roughly constant,  throughout the Year",
-      "The difference of y_axis name between 5-10 years and 11-15 years is smaller at Year 2017/18 compared to the Year 2010/11.",
-      "The greatest difference of y_axis name between 5-10 years and 11-15 years occurs at Year 2012/13 and the smallest difference occurs at 2017/18."
+      "The given chart is of multi-line type with 2 lines namely 5-10 years, and 11-15 years. The y axis represents Share of respondents and the x axis represents Year.",
+      "Overall 5-10 years, and 11-15 years are gradually decreasing,  throughout the Year",
+      "The ranking of the lines from topmost to botommmost is as follows: 1. 11-15 years, and lastly, 2. 5-10 years. ",
+      "Overall across the Year, 11-15 years mostly maintained the highest Share of respondents when compared to others with a mean value of 17.7, and it peaked at 2012/13.",
+      "The botommost line, 5-10 years,  has a mean of 5.46, and peaked at 2011/12. ",
+      "The greatest difference of Share of respondents between 5-10 years and 11-15 years occurs at Year 2012/13 and the smallest difference occurs at 2017/18."
+   ],
+   "xAxis": "Year",
+   "yAxis": "Share of respondents",
+   "min_summary": [
+      "This is a multi-line chart with 2 lines representing 5-10 years, and 11-15 years. The y axis denotes Share of respondents and the x axis denotes Year.",
+      "Overall 5-10 years, and 11-15 years are gradually decreasing,  throughout the Year",
+      "Throughout the period, 11-15 years generally had the highest Share of respondents relative to others with an average of 17.7, and it reached its maximum at 2012/13 with a value of 22.5.",
+      "The botommost line, 5-10 years,  has a mean of 5.46, and peaked at 2011/12. "
+   ],
+   "mid_summary": [
+      "You are viewing a chart of multi-line type with 2 lines denoting 5-10 years, and 11-15 years. The y axis indicates the Share of respondents and the x axis indicates Year.",
+      "Overall 5-10 years, and 11-15 years are gradually decreasing,  throughout the Year",
+      "The ranking of the lines from topmost to botommmost is as follows: 1. 11-15 years, and lastly, 2. 5-10 years. ",
+      "Throughout the period, 11-15 years generally had the highest Share of respondents relative to others with an average of 17.7, and it reached its maximum at 2012/13 with a value of 22.5.",
+      "5-10 years mostly had the least Share of respondents with a mean value of 5.46, which peaked at 2011/12 with a value of 6.9. "
+   ],
+   "max_summary": [
+      "The given chart is of multi-line type with 2 lines namely 5-10 years, and 11-15 years. The y axis represents Share of respondents and the x axis represents Year.",
+      "Overall 5-10 years, and 11-15 years are gradually decreasing,  throughout the Year",
+      "The ranking of the lines from topmost to botommmost is as follows: 1. 11-15 years, and lastly, 2. 5-10 years. ",
+      "Throughout the period, 11-15 years generally had the highest Share of respondents relative to others with an average of 17.7, and it reached its maximum at 2012/13 with a value of 22.5.",
+      "The botommost line, 5-10 years,  has a mean of 5.46, and peaked at 2011/12. ",
+      "The greatest difference of Share of respondents between 5-10 years and 11-15 years occurs at Year 2012/13 and the smallest difference occurs at 2017/18."
    ],
    "trends": [
       {},

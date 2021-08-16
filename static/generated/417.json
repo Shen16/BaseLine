@@ -1,5 +1,5 @@
 {
-   "title": "Test",
+   "title": "Forecast : PaaS market share in 2011 - 2016 , by service",
    "labels": [
       "Cloud Service",
       "2011",
@@ -9,11 +9,30 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart has 11 categories of Cloud Service on the x axis representing 2 groups: 2011, and 2016.",
-      " Averaging these 2 groups, the highest category is found for Cloud Service Cloud Application platform services (aPaaS) with a mean value of 35.0.",
-      " The lowest category is observed at Cloud Horizontal Portal Services (Portal PaaS) that has a mean value of 1.5",
-      " showing a difference of 183.6% with the maximum value.",
-      " In case of Cloud Application platform services (aPaaS), 2011 shows more dominance than any other Cloud Service with a value 35.0 and it has the lowest value 1.0 in Cloud Horizontal Portal Services (Portal PaaS). "
+      "This grouped bar chart shows Market share on the Y-axis for 11 different Cloud Services for 2 groups 2011, and 2016 that are presented on the X-axis. ",
+      " Out of all 2 groups, 2011 had the highest Market share in Cloud Service Cloud Application platform services (aPaaS) and 2011 had the lowest Market share in Cloud Service Cloud Horizontal Portal Services (Portal PaaS). ",
+      " Among all the Cloud Services, 2011 had the highest Market share in Cloud Service Cloud Application platform services (aPaaS) and lowest Market share in Cloud Service Cloud Horizontal Portal Services (Portal PaaS). ",
+      "Cloud Service Cloud Application platform services (aPaaS) and Cloud Horizontal Portal Services (Portal PaaS) had the biggest gap of 34.0 between the highest and lowest Market share found for 2011. "
+   ],
+   "xAxis": "Cloud Service",
+   "yAxis": "Market share",
+   "min_summary": [
+      "This grouped bar chart represents 11 different Cloud Services on X-axis for 2 groups 2011, and 2016. On the Y-axis it shows their corresponding Market share. ",
+      " Cloud Service Cloud Application platform services (aPaaS) had the maximum Market share among all 2 groups, and it was for 2011. The minimum Market share was observed in Cloud Service Cloud Horizontal Portal Services (Portal PaaS) for 2011. "
+   ],
+   "mid_summary": [
+      "This grouped bar chart shows Market share on the Y-axis for 11 different Cloud Services for 2 groups 2011, and 2016 that are presented on the X-axis. ",
+      " Out of all 2 groups, 2011 had the highest Market share in Cloud Service Cloud Application platform services (aPaaS) and 2011 had the lowest Market share in Cloud Service Cloud Horizontal Portal Services (Portal PaaS). ",
+      " Among all the Cloud Services, 2011 had the highest Market share in Cloud Service Cloud Application platform services (aPaaS) and lowest Market share in Cloud Service Cloud Horizontal Portal Services (Portal PaaS). ",
+      "Cloud Service Cloud Application platform services (aPaaS) and Cloud Horizontal Portal Services (Portal PaaS) had the biggest gap of 34.0 between the highest and lowest Market share found for 2011. "
+   ],
+   "max_summary": [
+      "This grouped bar chart represents 11 different Cloud Services on X-axis for 2 groups 2011, and 2016. On the Y-axis it shows their corresponding Market share. ",
+      " Out of all 2 groups, 2011 had the highest Market share in Cloud Service Cloud Application platform services (aPaaS) and 2011 had the lowest Market share in Cloud Service Cloud Horizontal Portal Services (Portal PaaS). ",
+      " In Cloud Service Cloud Application platform services (aPaaS), 2011 had the maximum Market share and it saw the lowest in Cloud Service Cloud Horizontal Portal Services (Portal PaaS) out of all 11 Cloud Services. ",
+      " There is a gap of 34.0 between the highest and lowest Market share found for 2011 in Cloud Service Cloud Application platform services (aPaaS) and Cloud Horizontal Portal Services (Portal PaaS). ",
+      " Among all 2 groups, 2011 had the gap of 34.0 between the maximum and minimum Market share observed in Cloud Service Cloud Application platform services (aPaaS) and Cloud Horizontal Portal Services (Portal PaaS) respectively. ",
+      "Averaging all 2 groups 2011, and 2016, the Cloud Service Cloud Application platform services (aPaaS) is the maximum Market share and Cloud Horizontal Portal Services (Portal PaaS) is the minimum Market share. "
    ],
    "trends": [
       {},

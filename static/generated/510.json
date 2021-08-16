@@ -1,16 +1,31 @@
 {
-   "title": "Test",
+   "title": "Leading industries targeted by DDoS attack traffic 2017",
    "xAxis": "Industry",
    "yAxis": "Percentage of attack traffic",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 8 categories on the x axis representing Industry, and Percentage of attack traffic in each Industry on the y axis.",
-      "Gaming is higher than any other categories with value 79.0, followed by , and Software and technology. Down to category Media and entertainment with the lowest value of 1.0. ",
-      " The highest value at Gaming is almost 79.0 times larger than the minimum value of Media and entertainment. ",
-      " The highest value at Gaming is almost 79.0 times larger than the minimum value of Media and entertainment. ",
-      " The difference between the max Industry Gaming and min Industry Media and entertainment is 78.0. "
+      "This is a bar chart. It shows Percentage of attack traffic for 8 number of Industrys. ",
+      "The Percentage of attack traffic is appeared to be the highest at Industry Gaming and lowest at Industry Media and entertainment. ",
+      "There is a difference of 78.0 between the maximum Industry Gaming and minimum Industry Media and entertainment. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing Industry in the x axis and Percentage of attack traffic in the y axis. ",
+      "The Percentage of attack traffic is highest at Industry Gaming and lowest at Industry Media and entertainment. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Percentage of attack traffic for 8 number of Industrys. ",
+      "The Percentage of attack traffic is appeared to be the highest at Industry Gaming and lowest at Industry Media and entertainment. ",
+      "There is a difference of 78.0 between the maximum Industry Gaming and minimum Industry Media and entertainment. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Percentage of attack traffic for 8 number of Industrys. ",
+      "The Percentage of attack traffic is highest at Industry Gaming and lowest at Industry Media and entertainment. ",
+      "The highest Industry Gaming has 78.0 more Percentage of attack traffic than the lowest Industry Media and entertainment. ",
+      "Percentage of attack traffic at Industry Gaming is 79.0 , second place is  at 79.0, and thirdly is Software and technology at 4.0.",
+      "Industry Financial services, and Software and technology have a similar Percentage of attack traffic that is 4.0. ",
+      "The Industry Media and entertainment tends to be 6.26 percent lower than average. "
    ],
    "trends": [
       {},

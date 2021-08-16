@@ -1,5 +1,5 @@
 {
-   "title": "Test",
+   "title": "Novartis ' spending on research and development by segment 2017 to 2019",
    "labels": [
       "Company",
       "2017",
@@ -10,11 +10,31 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart has 3 categories of Company on the x axis representing 3 groups: 2017, 2018, and 2019.",
-      " Averaging these 3 groups, the highest category is found for Company Innovative Medicines with a mean value of 7.82.",
-      " The lowest category is observed at Alcon that has a mean value of 0.39",
-      " showing a difference of 181.0% with the maximum value.",
-      " In case of Innovative Medicines, 2017 shows more dominance than any other Company and it has the lowest value in Alcon. On the other hand, group 2019 is highest in case of Innovative Medicines and has minimum impact for Company Alcon. "
+      "This grouped bar chart shows Expenditure in billion USD on the Y-axis for 3 different Companys for 3 groups 2017, 2018, and 2019 that are presented on the X-axis. ",
+      " Company Innovative Medicines had the maximum Expenditure in billion USD among all 3 groups, and it was for 2019. The minimum Expenditure in billion USD was observed in Company Alcon for 2019. ",
+      " In Company Innovative Medicines, 2018 had the maximum Expenditure in billion USD and it saw the lowest in Company Alcon out of all 3 Companys. ",
+      " The maximum Expenditure in billion USD for 2018 that was found in Company Innovative Medicines was 13.02 times larger than the minimum Expenditure in billion USD observed in Company Alcon. "
+   ],
+   "xAxis": "Company",
+   "yAxis": "Expenditure in billion USD",
+   "min_summary": [
+      "This grouped bar chart represents 3 different Companys on X-axis for 3 groups 2017, 2018, and 2019. On the Y-axis it shows their corresponding Expenditure in billion USD. ",
+      " Out of all 3 groups, 2019 had the highest Expenditure in billion USD in Company Innovative Medicines and 2019 had the lowest Expenditure in billion USD in Company Alcon. "
+   ],
+   "mid_summary": [
+      "This grouped bar chart shows Expenditure in billion USD on the Y-axis for 3 different Companys for 3 groups 2017, 2018, and 2019 that are presented on the X-axis. ",
+      " Company Innovative Medicines had the maximum Expenditure in billion USD among all 3 groups, and it was for 2019. The minimum Expenditure in billion USD was observed in Company Alcon for 2019. ",
+      " In Company Innovative Medicines, 2018 had the maximum Expenditure in billion USD and it saw the lowest in Company Alcon out of all 3 Companys. ",
+      " The maximum Expenditure in billion USD for 2018 that was found in Company Innovative Medicines was 13.02 times larger than the minimum Expenditure in billion USD observed in Company Alcon. "
+   ],
+   "max_summary": [
+      "This grouped bar chart represents 3 different Companys on X-axis for 3 groups 2017, 2018, and 2019. On the Y-axis it shows their corresponding Expenditure in billion USD. ",
+      " Out of all 3 groups, 2019 had the highest Expenditure in billion USD in Company Innovative Medicines and 2019 had the lowest Expenditure in billion USD in Company Alcon. ",
+      " In Company Innovative Medicines, 2018 had the highest Expenditure in billion USD among all 3 Companys and it has the lowest Expenditure in billion USD in Company Alcon. ",
+      " The maximum Expenditure in billion USD for 2018 that was found in Company Innovative Medicines was 13.02 times larger than the minimum Expenditure in billion USD observed in Company Alcon. ",
+      " Among the groups, 2018 had the biggest difference in Expenditure in billion USD. Where the maximum Expenditure in billion USD was 13.02 times larger than the minimum Expenditure in billion USD. ",
+      " 2019 had the maximum Expenditure in billion USD out of all 3 groups in Company Innovative Medicines followed by 2019 in Innovative Medicines, and the minimum Expenditure in billion USD is found for 2019 in Alcon. ",
+      "Averaging all 3 groups 2017, 2018, and 2019, the Company Innovative Medicines is the maximum Expenditure in billion USD and Alcon is the minimum Expenditure in billion USD. "
    ],
    "trends": [
       {},

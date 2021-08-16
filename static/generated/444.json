@@ -1,15 +1,32 @@
 {
-   "title": "Test",
+   "title": "Global YouTube usage for music consumption 2017 , by country",
    "xAxis": "Country",
    "yAxis": "Share of respondents",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 14 categories on the x axis representing Country, and Share of respondents in each Country on the y axis.",
-      " The highest category is found at Mexico where Share of respondents is 97.0.",
-      " Followed by 97.0 in .",
-      " The lowest category is found at Japan where Share of respondents is 72.0."
+      "This is a bar chart. It shows Share of respondents for 14 number of Countrys. ",
+      "The maximum Share of respondents 97.0 is found at Country Mexico and the minimum is found at Japan where Country is 72.0. ",
+      "There is a difference of 25.0 between the maximum Country Mexico and minimum Country Japan. "
+   ],
+   "min_summary": [
+      "This bar chart has 14 columns on the x axis representing Country, and Share of respondents in each Country on the y axis. ",
+      "The Share of respondents is appeared to be the highest at Country Mexico and lowest at Country Japan. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Share of respondents for 14 number of Countrys. ",
+      "The maximum Share of respondents 97.0 is found at Country Mexico and the minimum is found at Japan where Country is 72.0. ",
+      "There is a difference of 25.0 between the maximum Country Mexico and minimum Country Japan. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Share of respondents for 14 number of Countrys. ",
+      "The maximum Share of respondents 97.0 is found at Country Mexico and the minimum is found at Japan where Country is 72.0. ",
+      "Second maximum Share of respondents is found at Country . ",
+      "The highest Country Mexico has 25.0 more Share of respondents than the lowest Country Japan. ",
+      "Share of respondents at Country Mexico is 97.0 , second place is  at 97.0, and thirdly is Spain at 90.0.",
+      "Country Italy, and Spain share the same value 90.0. ",
+      "The average Share of respondents in all 14 Countrys is 84.07. "
    ],
    "trends": [
       {},

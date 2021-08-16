@@ -1,18 +1,32 @@
 {
-   "title": "Test",
+   "title": "Top hashtags used by U.S. Congress Democrats in 2019",
    "xAxis": "Hashtag",
    "yAxis": "Total number of mentions",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 10 categories on the x axis representing Hashtag, and Total number of mentions in each Hashtag on the y axis.",
-      " The highest category is found at #forthepeople where Total number of mentions is 6961.0.",
-      " Followed by 6961.0 in .",
-      " The lowest category is found at #hr1 where Total number of mentions is 1683.0.",
-      " The highest value at #forthepeople is almost 4.14 times larger than the minimum value of #hr1. ",
-      " The highest value at #forthepeople is almost 4.14 times larger than the minimum value of #hr1. ",
-      " The difference between the max Hashtag #forthepeople and min Hashtag #hr1 is 5278.0. "
+      "This bar chart has 10 columns on the x axis representing Hashtag, and Total number of mentions in each Hashtag on the y axis. ",
+      "The Total number of mentions is highest at Hashtag #forthepeople and lowest at Hashtag #hr1. ",
+      "The highest Hashtag #forthepeople has 5278.0 more Total number of mentions than the lowest Hashtag #hr1. "
+   ],
+   "min_summary": [
+      "This bar chart has 10 columns on the x axis representing Hashtag, and Total number of mentions in each Hashtag on the y axis. ",
+      "The maximum Total number of mentions 6961.0 is found at Hashtag #forthepeople and the minimum is found at #hr1 where Hashtag is 1683.0. "
+   ],
+   "mid_summary": [
+      "This bar chart has 10 columns on the x axis representing Hashtag, and Total number of mentions in each Hashtag on the y axis. ",
+      "The Total number of mentions is highest at Hashtag #forthepeople and lowest at Hashtag #hr1. ",
+      "The highest Hashtag #forthepeople has 5278.0 more Total number of mentions than the lowest Hashtag #hr1. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Hashtag in the x axis and Total number of mentions in the y axis. ",
+      "The Total number of mentions is highest at Hashtag #forthepeople and lowest at Hashtag #hr1. ",
+      "The second highest Total number of mentions is appeared to be the Hashtag . ",
+      "There is a difference of 5278.0 between the maximum Hashtag #forthepeople and minimum Hashtag #hr1. ",
+      "Total number of mentions at Hashtag #forthepeople is 6961.0 , second place is  at 6961.0, and thirdly is #protectourcare at 2810.0.",
+      "Hashtag #hr8, and #actonclimate share the same value 2206.0. ",
+      "The average Total number of mentions in all 10 Hashtags is 2745.6. "
    ],
    "trends": [
       {},

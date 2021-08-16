@@ -1,5 +1,5 @@
 {
-   "title": "Test",
+   "title": "Brazil : voting intention for 2018 presidential elections , by candidate",
    "labels": [
       "Month",
       "Situation A",
@@ -9,12 +9,31 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart has 30 categories of Month on the x axis representing 2 groups: Situation A, and Situation B.",
-      " Averaging these 2 groups, the highest category is found for Month Luiz In\u00e1cio Lula da Silva (PT) with a mean value of 19.5.",
-      " Followed by Blank or voided ballots/No vote with a mean value of 11.0.",
-      " The lowest category is observed at Jo\u00e3o Goulart Filho (PPL) that has a mean value of 0.0",
-      " showing a difference of 200.0% with the maximum value.",
-      " In case of Luiz In\u00e1cio Lula da Silva (PT), Situation A shows more dominance than any other Month with a value 39.0 and it has the lowest value 0.0 in Don't know. "
+      "This grouped bar chart represents SOME LABEL on the Y-axis. And, how the value changed throughout 30 Months for Situation A, and Situation B. ",
+      " All through the Months, the SOME LABEL for Situation B have climbed. On the other hand, for Situation A the SOME LABEL have decreased. ",
+      " Month Luiz In\u00e1cio Lula da Silva (PT) had the maximum SOME LABEL among all 2 groups, and it was for Situation A. The minimum SOME LABEL was observed in Month Don't know for Situation A. ",
+      " In Month Blank or voided ballots/No vote, Situation B had the highest SOME LABEL among all 30 Months and it has the lowest SOME LABEL in Month Luiz In\u00e1cio Lula da Silva (PT). "
+   ],
+   "xAxis": "Month",
+   "yAxis": "SOME LABEL",
+   "min_summary": [
+      "This is a grouped bar chart showing SOME LABEL on the Y-axis throughout 30 Months for Situation A, and Situation B on the X-axis. ",
+      " Over the 30 Months, the SOME LABEL for Situation B have been climbed whereas decreased for Situation A. "
+   ],
+   "mid_summary": [
+      "This grouped bar chart represents SOME LABEL on the Y-axis. And, how the value changed throughout 30 Months for Situation A, and Situation B. ",
+      " All through the Months, the SOME LABEL for Situation B have climbed. On the other hand, for Situation A the SOME LABEL have decreased. ",
+      " Month Luiz In\u00e1cio Lula da Silva (PT) had the maximum SOME LABEL among all 2 groups, and it was for Situation A. The minimum SOME LABEL was observed in Month Don't know for Situation A. ",
+      " In Month Blank or voided ballots/No vote, Situation B had the highest SOME LABEL among all 30 Months and it has the lowest SOME LABEL in Month Luiz In\u00e1cio Lula da Silva (PT). "
+   ],
+   "max_summary": [
+      "This grouped bar chart represents SOME LABEL on the Y-axis. And, its value throughout 30 Months for Situation A, and Situation B. ",
+      " All through the Months, the SOME LABEL for Situation B have climbed. On the other hand, for Situation A the SOME LABEL have decreased. ",
+      " In Month Luiz In\u00e1cio Lula da Silva (PT), Situation A had the highest SOME LABEL 39.0 among the 2 groups and in Don't know, Situation A had the lowest SOME LABEL 0.0. ",
+      " In Month Blank or voided ballots/No vote, Situation B had the maximum SOME LABEL and it saw the lowest in Month Luiz In\u00e1cio Lula da Silva (PT) out of all 30 Months. ",
+      " The maximum SOME LABEL for Situation B that was found in Month Blank or voided ballots/No vote was 0 times larger than the minimum SOME LABEL observed in Month Luiz In\u00e1cio Lula da Silva (PT). ",
+      " Among the groups, Situation A had the biggest difference in SOME LABEL. Where the maximum SOME LABEL was 39.0 times larger than the minimum SOME LABEL. ",
+      "Averaging all 2 groups Situation A, and Situation B, the Month Luiz In\u00e1cio Lula da Silva (PT) is the maximum SOME LABEL and Jo\u00e3o Goulart Filho (PPL) is the minimum SOME LABEL. "
    ],
    "trends": [
       {},

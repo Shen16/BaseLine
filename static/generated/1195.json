@@ -1,16 +1,32 @@
 {
-   "title": "Test",
+   "title": "Best selling books in France 2018",
    "xAxis": "Title",
    "yAxis": "Units sold",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 10 categories on the x axis representing Title, and Units sold in each Title on the y axis.",
-      "Un appartement \u00e0 ParisGuillaume Musso is higher than any other categories with value 590000.0, followed by , and La jeune fille et la nuitGuillaume Musso. Down to category Couleurs de l'incendiePierre Lemaitre with the lowest value of 302300.0. ",
-      " The highest value at Un appartement \u00e0 ParisGuillaume Musso is almost 1.95 times larger than the minimum value of Couleurs de l'incendiePierre Lemaitre. ",
-      " The highest value at Un appartement \u00e0 ParisGuillaume Musso is almost 1.95 times larger than the minimum value of Couleurs de l'incendiePierre Lemaitre. ",
-      " The difference between the max Title Un appartement \u00e0 ParisGuillaume Musso and min Title Couleurs de l'incendiePierre Lemaitre is 287700.0. "
+      "This is a bar chart representing Title in the x axis and Units sold in the y axis. ",
+      "The maximum Units sold 590000.0 is found at Title Un appartement \u00e0 ParisGuillaume Musso and the minimum is found at Couleurs de l'incendiePierre Lemaitre where Title is 302300.0. ",
+      "There is a difference of 287700.0 between the maximum Title Un appartement \u00e0 ParisGuillaume Musso and minimum Title Couleurs de l'incendiePierre Lemaitre. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Units sold for 10 number of Titles. ",
+      "The maximum Units sold 590000.0 is found at Title Un appartement \u00e0 ParisGuillaume Musso and the minimum is found at Couleurs de l'incendiePierre Lemaitre where Title is 302300.0. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Title in the x axis and Units sold in the y axis. ",
+      "The maximum Units sold 590000.0 is found at Title Un appartement \u00e0 ParisGuillaume Musso and the minimum is found at Couleurs de l'incendiePierre Lemaitre where Title is 302300.0. ",
+      "There is a difference of 287700.0 between the maximum Title Un appartement \u00e0 ParisGuillaume Musso and minimum Title Couleurs de l'incendiePierre Lemaitre. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Title in the x axis and Units sold in the y axis. ",
+      "The Units sold is highest at Title Un appartement \u00e0 ParisGuillaume Musso and lowest at Title Couleurs de l'incendiePierre Lemaitre. ",
+      "The second highest Units sold is appeared to be the Title . ",
+      "The highest Title Un appartement \u00e0 ParisGuillaume Musso has 287700.0 more Units sold than the lowest Title Couleurs de l'incendiePierre Lemaitre. ",
+      "Units sold at Title Un appartement \u00e0 ParisGuillaume Musso is 590000.0 , second place is  at 590000.0, and thirdly is La jeune fille et la nuitGuillaume Musso at 500500.0.",
+      "The Title Couleurs de l'incendiePierre Lemaitre tends to be 1.45 percent lower than average. ",
+      "Summing up the values of all Titles, we get total 4083000.0. "
    ],
    "trends": [
       {},

@@ -1,16 +1,32 @@
 {
-   "title": "Test",
+   "title": "Top 10 causes of infant mortality in Canada in 2018",
    "xAxis": "Cause",
    "yAxis": "Number of deaths",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 12 categories on the x axis representing Cause, and Number of deaths in each Cause on the y axis.",
-      "Congenital malformations deformations and chromosomal abnormalities is higher than any other categories with value 412.0, followed by , and Newborn affected by maternal complications of pregnancy. Down to category Sudden infant death syndrome with the lowest value of 10.0. ",
-      " The highest value at Congenital malformations deformations and chromosomal abnormalities is almost 41.2 times larger than the minimum value of Sudden infant death syndrome. ",
-      " The highest value at Congenital malformations deformations and chromosomal abnormalities is almost 41.2 times larger than the minimum value of Sudden infant death syndrome. ",
-      " The difference between the max Cause Congenital malformations deformations and chromosomal abnormalities and min Cause Sudden infant death syndrome is 402.0. "
+      "This is a bar chart. It shows Number of deaths for 12 number of Causes. ",
+      "The maximum Number of deaths 412.0 is found at Cause Congenital malformations deformations and chromosomal abnormalities and the minimum is found at Sudden infant death syndrome where Cause is 10.0. ",
+      "There is a difference of 402.0 between the maximum Cause Congenital malformations deformations and chromosomal abnormalities and minimum Cause Sudden infant death syndrome. "
+   ],
+   "min_summary": [
+      "This bar chart has 12 columns on the x axis representing Cause, and Number of deaths in each Cause on the y axis. ",
+      "Cause Congenital malformations deformations and chromosomal abnormalities has the highest Number of deaths and Sudden infant death syndrome has the lowest Number of deaths. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Number of deaths for 12 number of Causes. ",
+      "The maximum Number of deaths 412.0 is found at Cause Congenital malformations deformations and chromosomal abnormalities and the minimum is found at Sudden infant death syndrome where Cause is 10.0. ",
+      "There is a difference of 402.0 between the maximum Cause Congenital malformations deformations and chromosomal abnormalities and minimum Cause Sudden infant death syndrome. "
+   ],
+   "max_summary": [
+      "This bar chart has 12 columns on the x axis representing Cause, and Number of deaths in each Cause on the y axis. ",
+      "The maximum Number of deaths 412.0 is found at Cause Congenital malformations deformations and chromosomal abnormalities and the minimum is found at Sudden infant death syndrome where Cause is 10.0. ",
+      "The Number of deaths of Cause Sudden infant death syndrome is 41.2% smaller than the maximum value at Congenital malformations deformations and chromosomal abnormalities. ",
+      "The Cause Congenital malformations deformations and chromosomal abnormalities has the highest Number of deaths, followed by , and Newborn affected by maternal complications of pregnancy. Down to the Cause Sudden infant death syndrome which is the lowest. ",
+      "Cause Accidents (unintentional injuries), and Diseases of the circulatory system have a similar Number of deaths that is 17.0. ",
+      "The Cause Sudden infant death syndrome has 4.42 times less Number of deaths than average. ",
+      "Summing up the values of all Causes, we get total 1118.0. "
    ],
    "trends": [
       {},

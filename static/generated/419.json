@@ -1,13 +1,32 @@
 {
-   "title": "Test",
+   "title": "New York Times Media Group 's circulation revenue from Q1 2012 - Q4 2019",
    "xAxis": "Quarter",
    "yAxis": "Revenue in million U.S. dollars",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 32 categories on the x axis representing Quarter, and Revenue in million U.S. dollars in each Quarter on the y axis.",
-      "Q4 2019 is higher than any other categories with value 275.28, followed by , and Q2 2019. Down to category Q1 2012 with the lowest value of 189.97. "
+      "This is a bar chart representing Quarter in the x axis and Revenue in million U.S. dollars in the y axis. ",
+      "The Revenue in million U.S. dollars is appeared to be the highest at Quarter Q4 2019 and lowest at Quarter Q1 2012. ",
+      "The highest Quarter Q4 2019 has 85.31 more Revenue in million U.S. dollars than the lowest Quarter Q1 2012. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Revenue in million U.S. dollars for 32 number of Quarters. ",
+      "The maximum Revenue in million U.S. dollars 275.28 is found at Quarter Q4 2019 and the minimum is found at Q1 2012 where Quarter is 189.97. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Quarter in the x axis and Revenue in million U.S. dollars in the y axis. ",
+      "The Revenue in million U.S. dollars is appeared to be the highest at Quarter Q4 2019 and lowest at Quarter Q1 2012. ",
+      "The highest Quarter Q4 2019 has 85.31 more Revenue in million U.S. dollars than the lowest Quarter Q1 2012. "
+   ],
+   "max_summary": [
+      "This bar chart has 32 columns on the x axis representing Quarter, and Revenue in million U.S. dollars in each Quarter on the y axis. ",
+      "The maximum Revenue in million U.S. dollars 275.28 is found at Quarter Q4 2019 and the minimum is found at Q1 2012 where Quarter is 189.97. ",
+      "The difference of Revenue in million U.S. dollars between the highest and lowest Quarter is 85.31. ",
+      "Revenue in million U.S. dollars at Quarter Q4 2019 is 275.28 , second place is  at 275.28, and thirdly is Q2 2019 at 270.46.",
+      "Over the past 32 Quarters, the Revenue in million U.S. dollars has decreased. ",
+      "The Quarter Q1 2012 tends to be 1.2 percent lower than average. ",
+      "The Revenue in million U.S. dollars is 7323.34 if we add up values of all Quarters. "
    ],
    "trends": [
       {},

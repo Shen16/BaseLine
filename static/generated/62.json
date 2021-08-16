@@ -1,16 +1,32 @@
 {
-   "title": "Test",
+   "title": "Automatic washers unit shipments in the United States 2012 - 2019 , by quarter",
    "xAxis": "Quarter",
    "yAxis": "Unit shipments in thousands",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 32 categories on the x axis representing Quarter, and Unit shipments in thousands in each Quarter on the y axis.",
-      "4Q '19 is higher than any other categories with value 2905.3, followed by , and 4Q '18. Down to category 1Q '12 with the lowest value of 1732.2. ",
-      " The highest value at 4Q '19 is almost 1.68 times larger than the minimum value of 1Q '12. ",
-      " The highest value at 4Q '19 is almost 1.68 times larger than the minimum value of 1Q '12. ",
-      " The difference between the max Quarter 4Q '19 and min Quarter 1Q '12 is 1173.1000000000001. "
+      "This bar chart has 32 columns on the x axis representing Quarter, and Unit shipments in thousands in each Quarter on the y axis. ",
+      "The Unit shipments in thousands is appeared to be the highest at Quarter 4Q '19 and lowest at Quarter 1Q '12. ",
+      "The highest Quarter 4Q '19 has 1173.1 more Unit shipments in thousands than the lowest Quarter 1Q '12. "
+   ],
+   "min_summary": [
+      "This bar chart has 32 columns on the x axis representing Quarter, and Unit shipments in thousands in each Quarter on the y axis. ",
+      "Quarter 4Q '19 has the highest Unit shipments in thousands and 1Q '12 has the lowest Unit shipments in thousands. "
+   ],
+   "mid_summary": [
+      "This bar chart has 32 columns on the x axis representing Quarter, and Unit shipments in thousands in each Quarter on the y axis. ",
+      "The Unit shipments in thousands is appeared to be the highest at Quarter 4Q '19 and lowest at Quarter 1Q '12. ",
+      "The highest Quarter 4Q '19 has 1173.1 more Unit shipments in thousands than the lowest Quarter 1Q '12. "
+   ],
+   "max_summary": [
+      "This bar chart has 32 columns on the x axis representing Quarter, and Unit shipments in thousands in each Quarter on the y axis. ",
+      "Quarter 4Q '19 has the highest Unit shipments in thousands and 1Q '12 has the lowest Unit shipments in thousands. ",
+      "The second highest Unit shipments in thousands is appeared to be the Quarter . ",
+      "The highest Quarter 4Q '19 has 1173.1 more Unit shipments in thousands than the lowest Quarter 1Q '12. ",
+      "Unit shipments in thousands at Quarter 4Q '19 is 2905.3 , second place is  at 2905.3, and thirdly is 4Q '18 at 2774.9.",
+      "Over the past 32 Quarters, the Unit shipments in thousands has decreased. ",
+      "The highest value 2905.3 at 4Q '19 is almost 1.25 times larger than the average value 2326.48. "
    ],
    "trends": [
       {},

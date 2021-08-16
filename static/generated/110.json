@@ -1,16 +1,33 @@
 {
-   "title": "Test",
+   "title": "LINE app : quarterly revenue 2012 to 2015",
    "xAxis": "Quarter",
    "yAxis": "Revenue in billion yen",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 13 categories on the x axis representing Quarter, and Revenue in billion yen in each Quarter on the y axis.",
-      "Q4 '15 is higher than any other categories with value 30.0, followed by , and Q1 '15. Down to category Q4 '12 with the lowest value of 2.2. ",
-      " The highest value at Q4 '15 is almost 13.64 times larger than the minimum value of Q4 '12. ",
-      " The highest value at Q4 '15 is almost 13.64 times larger than the minimum value of Q4 '12. ",
-      " The difference between the max Quarter Q4 '15 and min Quarter Q4 '12 is 27.8. "
+      "This is a bar chart representing Quarter in the x axis and Revenue in billion yen in the y axis. ",
+      "The Revenue in billion yen is highest at Quarter Q4 '15 and lowest at Quarter Q4 '12. ",
+      "The difference of Revenue in billion yen between the highest and lowest Quarter is 27.8. "
+   ],
+   "min_summary": [
+      "This bar chart has 13 columns on the x axis representing Quarter, and Revenue in billion yen in each Quarter on the y axis. ",
+      "The maximum Revenue in billion yen 30.0 is found at Quarter Q4 '15 and the minimum is found at Q4 '12 where Quarter is 2.2. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Quarter in the x axis and Revenue in billion yen in the y axis. ",
+      "The Revenue in billion yen is highest at Quarter Q4 '15 and lowest at Quarter Q4 '12. ",
+      "The difference of Revenue in billion yen between the highest and lowest Quarter is 27.8. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Revenue in billion yen for 13 number of Quarters. ",
+      "The maximum Revenue in billion yen 30.0 is found at Quarter Q4 '15 and the minimum is found at Q4 '12 where Quarter is 2.2. ",
+      "Quarter  has the second highest value for Revenue in billion yen. ",
+      "There is a difference of 27.8 between the maximum Quarter Q4 '15 and minimum Quarter Q4 '12. ",
+      "Revenue in billion yen at Quarter Q4 '15 is 30.0 , second place is  at 30.0, and thirdly is Q1 '15 at 25.4.",
+      "Over the past 13 Quarters, the Revenue in billion yen has lowered. ",
+      "Considered together, the average Revenue in billion yen in all 13 Quarters is roughly 17.22. ",
+      "The Revenue in billion yen is 223.9 if we add up values of all Quarters. "
    ],
    "trends": [
       {},

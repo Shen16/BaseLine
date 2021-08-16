@@ -1,13 +1,33 @@
 {
-   "title": "Test",
+   "title": "eBay : gross merchandise volume 2014 to 2019",
    "xAxis": "Quarter",
    "yAxis": "Gross merchandise volume in billion U.S. dollars",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 23 categories on the x axis representing Quarter, and Gross merchandise volume in billion U.S. dollars in each Quarter on the y axis.",
-      "Q4 '18 is higher than any other categories with value 24.64, followed by , and Q2 '18. Down to category Q3 '15 with the lowest value of 19.6. "
+      "This bar chart has 23 columns on the x axis representing Quarter, and Gross merchandise volume in billion U.S. dollars in each Quarter on the y axis. ",
+      "Quarter Q4 '18 has the highest Gross merchandise volume in billion U.S. dollars and Q3 '15 has the lowest Gross merchandise volume in billion U.S. dollars. ",
+      "There is a difference of 5.04 between the maximum Quarter Q4 '18 and minimum Quarter Q3 '15. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing Quarter in the x axis and Gross merchandise volume in billion U.S. dollars in the y axis. ",
+      "The Gross merchandise volume in billion U.S. dollars is highest at Quarter Q4 '18 and lowest at Quarter Q3 '15. "
+   ],
+   "mid_summary": [
+      "This bar chart has 23 columns on the x axis representing Quarter, and Gross merchandise volume in billion U.S. dollars in each Quarter on the y axis. ",
+      "Quarter Q4 '18 has the highest Gross merchandise volume in billion U.S. dollars and Q3 '15 has the lowest Gross merchandise volume in billion U.S. dollars. ",
+      "There is a difference of 5.04 between the maximum Quarter Q4 '18 and minimum Quarter Q3 '15. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Quarter in the x axis and Gross merchandise volume in billion U.S. dollars in the y axis. ",
+      "The Gross merchandise volume in billion U.S. dollars is highest at Quarter Q4 '18 and lowest at Quarter Q3 '15. ",
+      "Second maximum Gross merchandise volume in billion U.S. dollars is found at Quarter . ",
+      "The difference of Gross merchandise volume in billion U.S. dollars between the highest and lowest Quarter is 5.04. ",
+      "Quarter Q4 '18 is higher than any other Quarters with value 24.64, followed by , and Q2 '18. Down to Quarter Q3 '15 with the lowest value 19.6. ",
+      "Over the past 23 Quarters, the Gross merchandise volume in billion U.S. dollars has decreased. ",
+      "The Quarter Q4 '18 has 1.13 times more Gross merchandise volume in billion U.S. dollars than average. ",
+      "The Gross merchandise volume in billion U.S. dollars is 500.7 if we add up values of all Quarters. "
    ],
    "trends": [
       {},

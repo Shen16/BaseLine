@@ -1,15 +1,29 @@
 {
-   "title": "Test",
+   "title": "Facebook usage reach in the United States 2019 , by gender",
    "xAxis": "Response",
    "yAxis": "Share of respondents",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 2 categories on the x axis representing Response, and Share of respondents in each Response on the y axis.",
-      " The highest category is found at Women where Share of respondents is 75.0.",
-      "",
-      " The lowest category is found at Men where Share of respondents is 63.0."
+      "This is a bar chart representing Response in the x axis and Share of respondents in the y axis. ",
+      "The maximum Share of respondents 75.0 is found at Response Women and the minimum is found at Men where Response is 63.0. ",
+      "The difference of Share of respondents between the highest and lowest Response is 12.0. "
+   ],
+   "min_summary": [
+      "This bar chart has 2 columns on the x axis representing Response, and Share of respondents in each Response on the y axis. ",
+      "The Share of respondents is appeared to be the highest at Response Women and lowest at Response Men. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Response in the x axis and Share of respondents in the y axis. ",
+      "The maximum Share of respondents 75.0 is found at Response Women and the minimum is found at Men where Response is 63.0. ",
+      "The difference of Share of respondents between the highest and lowest Response is 12.0. "
+   ],
+   "max_summary": [
+      "This bar chart has 2 columns on the x axis representing Response, and Share of respondents in each Response on the y axis. ",
+      "The Share of respondents is appeared to be the highest at Response Women and lowest at Response Men. ",
+      "There is a difference of 12.0 between the maximum Response Women and minimum Response Men. ",
+      "The Response Women has 1.09 times more Share of respondents than average. "
    ],
    "trends": [
       {},

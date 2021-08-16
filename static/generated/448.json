@@ -1,18 +1,32 @@
 {
-   "title": "Test",
+   "title": "Political stability - countries",
    "xAxis": "Country",
    "yAxis": "Index Value",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 17 categories on the x axis representing Country, and Index Value in each Country on the y axis.",
-      " The highest category is found at Oman where Index Value is 3.9.",
-      " Followed by 3.6 in .",
-      " The lowest category is found at Norway where Index Value is 1.2.",
-      " The highest value at Oman is almost 3.25 times larger than the minimum value of Norway. ",
-      " The highest value at Oman is almost 3.25 times larger than the minimum value of Norway. ",
-      " The difference between the max Country Oman and min Country Norway is 2.7. "
+      "This bar chart has 17 columns on the x axis representing Country, and Index Value in each Country on the y axis. ",
+      "The maximum Index Value 3.9 is found at Country Oman and the minimum is found at Norway where Country is 1.2. ",
+      "Country Oman has 3.25 times more Index Value than Country Norway which is has the lowest. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Index Value for 17 number of Countrys. ",
+      "Country Oman has the highest Index Value and Norway has the lowest Index Value. "
+   ],
+   "mid_summary": [
+      "This bar chart has 17 columns on the x axis representing Country, and Index Value in each Country on the y axis. ",
+      "The maximum Index Value 3.9 is found at Country Oman and the minimum is found at Norway where Country is 1.2. ",
+      "Country Oman has 3.25 times more Index Value than Country Norway which is has the lowest. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Index Value for 17 number of Countrys. ",
+      "The Index Value is highest at Country Oman and lowest at Country Norway. ",
+      "Country  has the second highest value for Index Value. ",
+      "There is a difference of 2.7 between the maximum Country Oman and minimum Country Norway. ",
+      "Index Value at Country Oman is 3.9 , second place is  at 3.6, and thirdly is Slovenia at 3.8.",
+      "Similar Index Value is found in Country Australia, Austria, Luxembourg, and New Zealand. ",
+      "The average Index Value in all 17 Countrys is 3.32. "
    ],
    "trends": [
       {},

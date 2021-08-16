@@ -1,16 +1,31 @@
 {
-   "title": "Test",
+   "title": "World ranking of professional golf players 2020",
    "xAxis": "Golfer",
    "yAxis": "Average points",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 20 categories on the x axis representing Golfer, and Average points in each Golfer on the y axis.",
-      "Rory McIlroy (NIR) is higher than any other categories with value 9.48, followed by , and Brooks Koepka (USA). Down to category Hideki Matsuyama (JPN) with the lowest value of 4.31. ",
-      " The highest value at Rory McIlroy (NIR) is almost 2.2 times larger than the minimum value of Hideki Matsuyama (JPN). ",
-      " The highest value at Rory McIlroy (NIR) is almost 2.2 times larger than the minimum value of Hideki Matsuyama (JPN). ",
-      " The difference between the max Golfer Rory McIlroy (NIR) and min Golfer Hideki Matsuyama (JPN) is 5.170000000000001. "
+      "This is a bar chart representing Golfer in the x axis and Average points in the y axis. ",
+      "The Average points is highest at Golfer Rory McIlroy (NIR) and lowest at Golfer Hideki Matsuyama (JPN). ",
+      "The difference of Average points between the highest and lowest Golfer is 5.17. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Average points for 20 number of Golfers. ",
+      "The maximum Average points 9.48 is found at Golfer Rory McIlroy (NIR) and the minimum is found at Hideki Matsuyama (JPN) where Golfer is 4.31. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Golfer in the x axis and Average points in the y axis. ",
+      "The Average points is highest at Golfer Rory McIlroy (NIR) and lowest at Golfer Hideki Matsuyama (JPN). ",
+      "The difference of Average points between the highest and lowest Golfer is 5.17. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Average points for 20 number of Golfers. ",
+      "The maximum Average points 9.48 is found at Golfer Rory McIlroy (NIR) and the minimum is found at Hideki Matsuyama (JPN) where Golfer is 4.31. ",
+      "The second highest Average points is appeared to be the Golfer . ",
+      "There is a difference of 5.17 between the maximum Golfer Rory McIlroy (NIR) and minimum Golfer Hideki Matsuyama (JPN). ",
+      "Average points at Golfer Rory McIlroy (NIR) is 9.48 , second place is  at 9.48, and thirdly is Brooks Koepka (USA) at 8.62.",
+      "The Golfer Rory McIlroy (NIR) has 1.59 times more Average points than average. "
    ],
    "trends": [
       {},

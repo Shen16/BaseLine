@@ -1,48 +1,38 @@
 {
-   "title": "Test",
+   "title": "Share of non-performing loans held by banks in the U.S. 1995 to 2019",
    "xAxis": "Year",
    "yAxis": "Share of non-performing loans in total loans",
    "columnType": "two",
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Share of non-performing loans in total loans, with a total of 25 data points.",
+      "This is a line chart with an x axis representing Year and a y axis representing Share of non-performing loans in total loans, containing a total of 25 data points.",
       " Overall Share of non-performing loans in total loans has decreased over the Year.",
-      "Share of non-performing loans in total loans is roughly constant from '95 to '03, roughly decreasing from '03 to '04, roughly constant from '04 to '06, rapidly increasing from '06 to '09, roughly constant from '09 to '12, roughly decreasing from '12 to '14, roughly constant from '14 to '16, roughly decreasing from '16 to '17, and lastly roughly constant from '17 to '19.",
+      "The line rapidly increased by 118.81% from Year '07 to '08, and lastly, increased by 112.67% from Year '08 to '09.",
+      "The most drastic increase took place within the Year '08 and '09.",
+      "The highest Share of non-performing loans in total loans, of value 5.3 was reached at Year '10",
+      "Minimum Share of non-performing loans in total loans about 0.73 was reached at Year '06"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Share of non-performing loans in total loans. In total the number of data points it has is 25.",
+      " In general Share of non-performing loans in total loans has stayed the same over the Year."
+   ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Share of non-performing loans in total loans, containing a total of 25 data points.",
+      " Overall Share of non-performing loans in total loans has decreased over the Year.",
       "The steepest increase occurs in between the Year '08 and '09.",
-      "Max Share of non-performing loans in total loans about 5.3 was recorded at Year '10",
-      "Min Share of non-performing loans in total loans about 0.73 was recorded at Year '06",
-      "#########################################################################",
-      "This line chart has an x axis representing Year and a y axis representing Share of non-performing loans in total loans, with a total of 25 data points. The chart has 5 significant trends.",
-      " The longest trend is slightly decreasing which exists from '10 to '19.",
-      " Conversely, the next significant trend is extremely increasing which exists from '06 to '10.",
-      " Correspondingly, the next significant trend is slightly decreasing which exists from '02 to '06.",
-      " But, the next significant trend is moderately increasing which exists from '98 to '02.",
-      " Additionally, the next significant trend is slightly decreasing which exists from '95 to '98."
+      "The highest Share of non-performing loans in total loans, of value 5.3 was reached at Year '10",
+      "Minimum Share of non-performing loans in total loans about 0.73 was reached at Year '06"
    ],
-   "trends": [
-      {},
-      {
-         "1": "0",
-         "12": "9"
-      },
-      {
-         "3": "9",
-         "14": "13"
-      },
-      {
-         "3": "13",
-         "14": "17"
-      },
-      {
-         "3": "17",
-         "14": "21"
-      },
-      {
-         "3": "21",
-         "14": "24"
-      }
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Share of non-performing loans in total loans, containing a total of 25 data points.",
+      " In general Share of non-performing loans in total loans has stayed the same over the Year.",
+      "The most drastic increase took place within the Year '08 and '09.",
+      "The highest Share of non-performing loans in total loans, of value 5.3 was reached at Year '10",
+      "Minimum Share of non-performing loans in total loans about 0.73 was reached at Year '06",
+      "The line rapidly increased by 118.81% from Year '07 to '08, and lastly, increased by 112.67% from Year '08 to '09."
    ],
+   "trends": [],
    "data": [
       {
          "Year": "'19",

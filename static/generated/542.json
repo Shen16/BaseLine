@@ -1,33 +1,38 @@
 {
-   "title": "Test",
+   "title": "Vending machines : sales volume of vended products 2010",
    "xAxis": "Year",
    "yAxis": "Vended volume (in billion U.S. dollars)",
    "columnType": "two",
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Vended volume (in billion U.S. dollars), with a total of 12 data points.",
-      " Overall Vended volume (in billion U.S. dollars) has decreased over the Year.",
-      "Vended volume (in billion U.S. dollars) is roughly constant from 2010 to 2009, slightly increasing from 2009 to 2007, roughly constant from 2007 to 2005, slightly decreasing from 2005 to 2003, roughly constant from 2003 to 2001, and lastly slightly decreasing from 2001 to 1999.",
-      "The steepest increase occurs in between the Year 2009 and 2008.",
-      "Max Vended volume (in billion U.S. dollars) about 47.5 was recorded at Year 2007",
-      "Min Vended volume (in billion U.S. dollars) about 36.6 was recorded at Year 1999",
-      "#########################################################################",
-      "This line chart has an x axis representing Year and a y axis representing Vended volume (in billion U.S. dollars), with a total of 12 data points. The chart has 2 significant trends.",
-      " The longest trend is extremely decreasing which exists from 2007 to 1999.",
-      " But, the next significant trend is slightly increasing which exists from 2010 to 2007."
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Vended volume (in billion U.S. dollars). In total the number of data points it has is 12.",
+      " Overall Vended volume (in billion U.S. dollars) has increased over the Year.",
+      "The line drastically ",
+      "The steepest decrease occurs in between the Year 2008 and 2009.",
+      "Maximum Vended volume (in billion U.S. dollars), about 47.5 was reported at Year 2007",
+      "Minimum Vended volume (in billion U.S. dollars) about 36.6 was reached at Year 1999"
    ],
-   "trends": [
-      {},
-      {
-         "1": "0",
-         "12": "8"
-      },
-      {
-         "3": "8",
-         "14": "11"
-      }
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Vended volume (in billion U.S. dollars), containing a total of 12 data points.",
+      " Overall Vended volume (in billion U.S. dollars) has increased over the Year."
    ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Vended volume (in billion U.S. dollars). In total the number of data points it has is 12.",
+      " Overall Vended volume (in billion U.S. dollars) has increased over the Year.",
+      "The most drastic decrease took place within the Year 2008 and 2009.",
+      "Maximum Vended volume (in billion U.S. dollars), about 47.5 was reported at Year 2007",
+      "Minimum Vended volume (in billion U.S. dollars) about 36.6 was reached at Year 1999"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Vended volume (in billion U.S. dollars), containing a total of 12 data points.",
+      " Overall Vended volume (in billion U.S. dollars) has increased over the Year.",
+      "The most drastic decrease took place within the Year 2008 and 2009.",
+      "Maximum Vended volume (in billion U.S. dollars), about 47.5 was reported at Year 2007",
+      "Minimum Vended volume (in billion U.S. dollars) about 36.6 was reached at Year 1999",
+      "The line rapidly "
+   ],
+   "trends": [],
    "data": [
       {
          "Year": "1999",

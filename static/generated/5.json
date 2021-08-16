@@ -1,5 +1,5 @@
 {
-   "title": "Test",
+   "title": "Average retail price for white sugar in Canada 2015 to 2019",
    "labels": [
       "Month",
       "2015",
@@ -12,12 +12,32 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart has 12 categories of Month on the x axis representing 5 groups: 2015, 2016, 2017, 2018, and 2019.",
-      " Averaging these 5 groups, the highest category is found for Month Jan with a mean value of 2.76.",
-      " Followed by May with a mean value of 2.76.",
-      " The lowest category is observed at Dec that has a mean value of 2.57",
-      " showing a difference of 6.8% with the maximum value.",
-      " In case of Jan, 2015 shows more dominance than any other Month and it has the lowest value in Dec. On the other hand, group 2016 is the second impactful group in this chart, and it's highest in case of May and has the minimum dominance for Month Nov. "
+      "This grouped bar chart represents Average retail price in CAD on the Y-axis. And, its value throughout 12 Months for 2015, 2016, 2017, 2018, and 2019. ",
+      " All through the Months, similar trend was observed for 2017 and 2016. In both cases, the Average retail price in CAD have increased. ",
+      " In Month May, 2017 had the highest Average retail price in CAD 294.0 among the 5 groups and in Jul, 2019 had the lowest Average retail price in CAD 25.0. ",
+      " In Month May, 2017 had the maximum Average retail price in CAD and it saw the lowest in Month Nov out of all 12 Months. "
+   ],
+   "xAxis": "Month",
+   "yAxis": "Average retail price in CAD",
+   "min_summary": [
+      "This grouped bar chart represents Average retail price in CAD on the Y-axis. And, how the value changed throughout 12 Months for 2015, 2016, 2017, 2018, and 2019. ",
+      " Over the 12 Months, the Average retail price in CAD for both 2017 and 2016 have increased. "
+   ],
+   "mid_summary": [
+      "This grouped bar chart represents Average retail price in CAD on the Y-axis. And, its value throughout 12 Months for 2015, 2016, 2017, 2018, and 2019. ",
+      " All through the Months, similar trend was observed for 2017 and 2016. In both cases, the Average retail price in CAD have increased. ",
+      " In Month May, 2017 had the highest Average retail price in CAD 294.0 among the 5 groups and in Jul, 2019 had the lowest Average retail price in CAD 25.0. ",
+      " In Month May, 2017 had the maximum Average retail price in CAD and it saw the lowest in Month Nov out of all 12 Months. "
+   ],
+   "max_summary": [
+      "This grouped bar chart represents Average retail price in CAD on the Y-axis. And, how the value changed throughout 12 Months for 2015, 2016, 2017, 2018, and 2019. ",
+      " Over the 12 Months, the Average retail price in CAD for both 2017 and 2016 have increased. ",
+      " Month May had the maximum Average retail price in CAD among all 5 groups, and it was for 2017. The minimum Average retail price in CAD was observed in Month Jul for 2019. ",
+      " Among all the Months, 2017 had the highest Average retail price in CAD 294.0 in Month May and lowest value 266.0 in Month Nov. ",
+      "Month May and Nov had the biggest gap of 28.0 between the highest and lowest Average retail price in CAD found for 2017. ",
+      " Out of all 5 groups, the highest gap between the maximum and minimum Average retail price in CAD was found in case of 2016. ",
+      " 2017 had the maximum Average retail price in CAD out of all 5 groups in Month May followed by 2017 in May, and the minimum Average retail price in CAD is found for 2019 in Jul. ",
+      "On average, the Month Jan had the highest Average retail price in CAD for all 5 groups 2015, 2016, 2017, 2018, and 2019. Whereas Dec had the lowest average Average retail price in CAD. "
    ],
    "trends": [
       {},

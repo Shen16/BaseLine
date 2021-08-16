@@ -1,28 +1,42 @@
 {
-   "title": "Test",
+   "title": "Total sales of Olive Garden in the U.S. 2016 to 2019",
    "xAxis": "Year",
    "yAxis": "Sales in billion U.S. dollars",
    "columnType": "two",
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Sales in billion U.S. dollars, with a total of 4 data points.",
-      " Overall Sales in billion U.S. dollars has increased over the Year.",
+      "This is a line chart with an x axis representing Year and a y axis representing Sales in billion U.S. dollars, containing a total of 4 data points.",
+      " In general Sales in billion U.S. dollars has rose over the Year.",
       "Sales in billion U.S. dollars is slightly increasing from 2016 to 2019.",
+      "The line drastically ",
       "The steepest increase occurs in between the Year 2018 and 2019.",
-      "Max Sales in billion U.S. dollars about 4.29 was recorded at Year 2019",
-      "Min Sales in billion U.S. dollars about 3.84 was recorded at Year 2016",
-      "#########################################################################",
-      "This line chart has an x axis representing Year and a y axis representing Sales in billion U.S. dollars with a total of 4 data points. The chart has one significant trend.",
-      " This trend is increasing which exists from 2019 to 2016."
+      "The highest Sales in billion U.S. dollars, of value 4.29 was reached at Year 2019",
+      "Minimum Sales in billion U.S. dollars about 3.84 was reached at Year 2016"
    ],
-   "trends": [
-      {},
-      {
-         "3": "0",
-         "14": "3"
-      }
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Sales in billion U.S. dollars. In total the number of data points it has is 4.",
+      " In general Sales in billion U.S. dollars has rose over the Year.",
+      "Sales in billion U.S. dollars is slightly increasing from 2016 to 2019."
    ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Sales in billion U.S. dollars. In total the number of data points it has is 4.",
+      " In general Sales in billion U.S. dollars has rose over the Year.",
+      "Sales in billion U.S. dollars is slightly increasing from 2016 to 2019.",
+      "The most drastic increase took place within the Year 2018 and 2019.",
+      "The highest Sales in billion U.S. dollars, of value 4.29 was reached at Year 2019",
+      "Minimum Sales in billion U.S. dollars about 3.84 was reached at Year 2016"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Sales in billion U.S. dollars, containing a total of 4 data points.",
+      " In general Sales in billion U.S. dollars has rose over the Year.",
+      "Sales in billion U.S. dollars is slightly increasing from 2016 to 2019.",
+      "The most drastic increase took place within the Year 2018 and 2019.",
+      "The highest Sales in billion U.S. dollars, of value 4.29 was reached at Year 2019",
+      "Minimum Sales in billion U.S. dollars about 3.84 was reached at Year 2016",
+      "The line rapidly "
+   ],
+   "trends": [],
    "data": [
       {
          "Year": "2019",

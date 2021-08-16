@@ -1,43 +1,38 @@
 {
-   "title": "Test",
+   "title": "Georgia - Poverty rate 2000 to 2018",
    "xAxis": "Year",
    "yAxis": "Percentage of population",
    "columnType": "two",
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Percentage of population, with a total of 19 data points.",
-      " Overall Percentage of population has increased over the Year.",
-      "Percentage of population is roughly decreasing from 2000 to 2001, slightly increasing from 2001 to 2004, roughly constant from 2004 to 2008, gradually increasing from 2008 to 2011, roughly constant from 2011 to 2013, and lastly slightly decreasing from 2013 to 2018.",
+      "This is a line chart with an x axis representing Year and a y axis representing Percentage of population, containing a total of 19 data points.",
+      " In general Percentage of population has rose over the Year.",
+      "The line rapidly ",
+      "The most drastic increase took place within the Year 2008 and 2009.",
+      "The highest Percentage of population, of value 19.2 was reached at Year 2012",
+      "Minimum Percentage of population about 11.7 was reached at Year 2001"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Percentage of population. In total the number of data points it has is 19.",
+      " Overall Percentage of population has increased over the Year."
+   ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Percentage of population, containing a total of 19 data points.",
+      " In general Percentage of population has rose over the Year.",
       "The steepest increase occurs in between the Year 2008 and 2009.",
-      "Max Percentage of population about 19.2 was recorded at Year 2012",
-      "Min Percentage of population about 11.7 was recorded at Year 2001",
-      "#########################################################################",
-      "This line chart has an x axis representing Year and a y axis representing Percentage of population, with a total of 19 data points. The chart has 4 significant trends.",
-      " The longest trend is slightly decreasing which exists from 2012 to 2018.",
-      " Conversely, the next significant trend is extremely increasing which exists from 2007 to 2012.",
-      " Likewise, the next significant trend is moderately increasing which exists from 2000 to 2005.",
-      " Additionally, the next significant trend is moderately increasing which exists from 2005 to 2007."
+      "The highest Percentage of population, of value 19.2 was reached at Year 2012",
+      "Minimum Percentage of population about 11.7 was reached at Year 2001"
    ],
-   "trends": [
-      {},
-      {
-         "1": "0",
-         "12": "6"
-      },
-      {
-         "3": "6",
-         "14": "11"
-      },
-      {
-         "3": "13",
-         "14": "18"
-      },
-      {
-         "3": "11",
-         "14": "13"
-      }
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Percentage of population, containing a total of 19 data points.",
+      " In general Percentage of population has rose over the Year.",
+      "The steepest increase occurs in between the Year 2008 and 2009.",
+      "The highest Percentage of population, of value 19.2 was reached at Year 2012",
+      "Minimum Percentage of population about 11.7 was reached at Year 2001",
+      "The line drastically "
    ],
+   "trends": [],
    "data": [
       {
          "Year": "2018",

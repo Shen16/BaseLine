@@ -1,16 +1,31 @@
 {
-   "title": "Test",
+   "title": "Rocket League sales revenue worldwide 2016",
    "xAxis": "Month",
    "yAxis": "Revenue in million U.S. dollars",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 2 categories on the x axis representing Month, and Revenue in million U.S. dollars in each Month on the y axis.",
-      "",
-      " The highest value at June 2016 is almost 1.57 times larger than the minimum value of December 2015. ",
-      " The highest value at June 2016 is almost 1.57 times larger than the minimum value of December 2015. ",
-      " The difference between the max Month June 2016 and min Month December 2015 is 40.0. "
+      "This bar chart has 2 columns on the x axis representing Month, and Revenue in million U.S. dollars in each Month on the y axis. ",
+      "The Revenue in million U.S. dollars is highest at Month June 2016 and lowest at Month December 2015. ",
+      "The difference of Revenue in million U.S. dollars between the highest and lowest Month is 40.0. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Revenue in million U.S. dollars for 2 number of Months. ",
+      "The Revenue in million U.S. dollars is appeared to be the highest at Month June 2016 and lowest at Month December 2015. "
+   ],
+   "mid_summary": [
+      "This bar chart has 2 columns on the x axis representing Month, and Revenue in million U.S. dollars in each Month on the y axis. ",
+      "The Revenue in million U.S. dollars is highest at Month June 2016 and lowest at Month December 2015. ",
+      "The difference of Revenue in million U.S. dollars between the highest and lowest Month is 40.0. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Month in the x axis and Revenue in million U.S. dollars in the y axis. ",
+      "The Revenue in million U.S. dollars is appeared to be the highest at Month June 2016 and lowest at Month December 2015. ",
+      "The difference of Revenue in million U.S. dollars between the highest and lowest Month is 40.0. ",
+      "The Revenue in million U.S. dollars has reduced over the past 2 Months. ",
+      "The Month December 2015 has 1.22 times less Revenue in million U.S. dollars than average. ",
+      "The Revenue in million U.S. dollars is 180.0 if we add up values of all Months. "
    ],
    "trends": [
       {},

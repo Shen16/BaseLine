@@ -1,38 +1,38 @@
 {
-   "title": "Test",
+   "title": "Unemployment rate in Lithuania 2019",
    "xAxis": "Year",
    "yAxis": "Unemployment rate",
    "columnType": "two",
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Unemployment rate, with a total of 21 data points.",
+      "This is a line chart with an x axis representing Year and a y axis representing Unemployment rate, containing a total of 21 data points.",
+      " In general Unemployment rate has fallen over the Year.",
+      "The line drastically increased by 2.4 times from Year 2008 to 2009.",
+      "The most drastic increase took place within the Year 2008 and 2009.",
+      "Maximum Unemployment rate, about 17.81 was reported at Year 2010",
+      "Minimum Unemployment rate about 4.25 was reached at Year 2007"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Unemployment rate. In total the number of data points it has is 21.",
+      " In general Unemployment rate has fallen over the Year."
+   ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Unemployment rate, containing a total of 21 data points.",
+      " In general Unemployment rate has fallen over the Year.",
+      "The most drastic increase took place within the Year 2008 and 2009.",
+      "Maximum Unemployment rate, about 17.81 was reported at Year 2010",
+      "Minimum Unemployment rate about 4.25 was reached at Year 2007"
+   ],
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Unemployment rate. In total the number of data points it has is 21.",
       " Overall Unemployment rate has decreased over the Year.",
-      "Unemployment rate is roughly constant from 1999 to 2003, slightly decreasing from 2003 to 2006, rapidly increasing from 2006 to 2010, roughly constant from 2010 to 2014, roughly decreasing from 2014 to 2015, and lastly roughly constant from 2015 to 2019.",
-      "The steepest increase occurs in between the Year 2008 and 2009.",
-      "Max Unemployment rate about 17.81 was recorded at Year 2010",
-      "Min Unemployment rate about 4.25 was recorded at Year 2007",
-      "#########################################################################",
-      "This line chart has an x axis representing Year and a y axis representing Unemployment rate, with a total of 21 data points. The chart has 3 significant trends.",
-      " The longest trend is slightly decreasing which exists from 2010 to 2019.",
-      " Contrarily, the next significant trend is slightly decreasing which exists from 2001 to 2007.",
-      " But, the next significant trend is extremely increasing which exists from 2007 to 2010."
+      "The most drastic increase took place within the Year 2008 and 2009.",
+      "Maximum Unemployment rate, about 17.81 was reported at Year 2010",
+      "Minimum Unemployment rate about 4.25 was reached at Year 2007",
+      "The line rapidly increased by 136.54% from Year 2008 to 2009."
    ],
-   "trends": [
-      {},
-      {
-         "1": "0",
-         "12": "9"
-      },
-      {
-         "3": "12",
-         "14": "18"
-      },
-      {
-         "3": "9",
-         "14": "12"
-      }
-   ],
+   "trends": [],
    "data": [
       {
          "Year": "2019",

@@ -1,38 +1,42 @@
 {
-   "title": "Test",
+   "title": "New York Rangers ( NHL ) average ticket price 2014/15",
    "xAxis": "Year",
    "yAxis": "Average ticket price in U.S. dollars",
    "columnType": "two",
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Average ticket price in U.S. dollars, with a total of 10 data points.",
-      " Overall Average ticket price in U.S. dollars has increased over the Year.",
-      "Average ticket price in U.S. dollars is slightly increasing from 05/06 to 07/08, roughly constant from 07/08 to 10/11, and lastly slightly increasing from 10/11 to 14/15.",
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Average ticket price in U.S. dollars. In total the number of data points it has is 10.",
+      " In general Average ticket price in U.S. dollars has rose over the Year.",
+      "Average ticket price in U.S. dollars is slightly increasing from 05/06 to 07/08, roughly constant from 07/08 to 10/11, and finally slightly increasing from 10/11 to 14/15.",
+      "The line rapidly ",
       "The steepest increase occurs in between the Year 10/11 and 11/12.",
-      "Max Average ticket price in U.S. dollars about 77.87 was recorded at Year 14/15",
-      "Min Average ticket price in U.S. dollars about 45.83 was recorded at Year 05/06",
-      "#########################################################################",
-      "This line chart has an x axis representing Year and a y axis representing Average ticket price in U.S. dollars, with a total of 10 data points. The chart has 3 significant trends.",
-      " The longest trend is extremely increasing which exists from 10/11 to 14/15.",
-      " Similarly, the next significant trend is extremely increasing which exists from 05/06 to 08/09.",
-      " Also, the next significant trend is slightly constant which exists from 08/09 to 10/11."
+      "The highest Average ticket price in U.S. dollars, of value 77.87 was reached at Year 14/15",
+      "Minimum Average ticket price in U.S. dollars about 45.83 was reached at Year 05/06"
    ],
-   "trends": [
-      {},
-      {
-         "1": "0",
-         "12": "4"
-      },
-      {
-         "3": "6",
-         "14": "9"
-      },
-      {
-         "3": "4",
-         "14": "6"
-      }
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Average ticket price in U.S. dollars, containing a total of 10 data points.",
+      " In general Average ticket price in U.S. dollars has rose over the Year.",
+      "Average ticket price in U.S. dollars is slightly increasing from 05/06 to 07/08, roughly constant from 07/08 to 10/11, and finally slightly increasing from 10/11 to 14/15."
    ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Average ticket price in U.S. dollars, containing a total of 10 data points.",
+      " Overall Average ticket price in U.S. dollars has increased over the Year.",
+      "Average ticket price in U.S. dollars is slightly increasing from 05/06 to 07/08, roughly constant from 07/08 to 10/11, and finally slightly increasing from 10/11 to 14/15.",
+      "The most drastic increase took place within the Year 10/11 and 11/12.",
+      "The highest Average ticket price in U.S. dollars, of value 77.87 was reached at Year 14/15",
+      "Minimum Average ticket price in U.S. dollars about 45.83 was reached at Year 05/06"
+   ],
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Average ticket price in U.S. dollars. In total the number of data points it has is 10.",
+      " Overall Average ticket price in U.S. dollars has increased over the Year.",
+      "Average ticket price in U.S. dollars is slightly increasing from 05/06 to 07/08, roughly constant from 07/08 to 10/11, and finally slightly increasing from 10/11 to 14/15.",
+      "The most drastic increase took place within the Year 10/11 and 11/12.",
+      "The highest Average ticket price in U.S. dollars, of value 77.87 was reached at Year 14/15",
+      "Minimum Average ticket price in U.S. dollars about 45.83 was reached at Year 05/06",
+      "The line drastically "
+   ],
+   "trends": [],
    "data": [
       {
          "Year": "14/15",

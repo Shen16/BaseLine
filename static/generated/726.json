@@ -1,18 +1,33 @@
 {
-   "title": "Test",
+   "title": "Zynga 's quarterly revenue from Q4 2012- Q3 2019",
    "xAxis": "Quarter",
    "yAxis": "Revenue in million U.S. dollars",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 28 categories on the x axis representing Quarter, and Revenue in million U.S. dollars in each Quarter on the y axis.",
-      " The highest category is found at Q3 '19 where Revenue in million U.S. dollars is 345.29.",
-      " Followed by 345.29 in .",
-      " The lowest category is found at Q2 '14 where Revenue in million U.S. dollars is 153.23.",
-      " The highest value at Q3 '19 is almost 2.25 times larger than the minimum value of Q2 '14. ",
-      " The highest value at Q3 '19 is almost 2.25 times larger than the minimum value of Q2 '14. ",
-      " The difference between the max Quarter Q3 '19 and min Quarter Q2 '14 is 192.06000000000003. "
+      "This is a bar chart representing Quarter in the x axis and Revenue in million U.S. dollars in the y axis. ",
+      "The maximum Revenue in million U.S. dollars 345.29 is found at Quarter Q3 '19 and the minimum is found at Q2 '14 where Quarter is 153.23. ",
+      "The difference of Revenue in million U.S. dollars between the highest and lowest Quarter is 192.06. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing Quarter in the x axis and Revenue in million U.S. dollars in the y axis. ",
+      "The maximum Revenue in million U.S. dollars 345.29 is found at Quarter Q3 '19 and the minimum is found at Q2 '14 where Quarter is 153.23. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Quarter in the x axis and Revenue in million U.S. dollars in the y axis. ",
+      "The maximum Revenue in million U.S. dollars 345.29 is found at Quarter Q3 '19 and the minimum is found at Q2 '14 where Quarter is 153.23. ",
+      "The difference of Revenue in million U.S. dollars between the highest and lowest Quarter is 192.06. "
+   ],
+   "max_summary": [
+      "This bar chart has 28 columns on the x axis representing Quarter, and Revenue in million U.S. dollars in each Quarter on the y axis. ",
+      "The Revenue in million U.S. dollars is appeared to be the highest at Quarter Q3 '19 and lowest at Quarter Q2 '14. ",
+      "The second highest Revenue in million U.S. dollars is appeared to be the Quarter . ",
+      "There is a difference of 192.06 between the maximum Quarter Q3 '19 and minimum Quarter Q2 '14. ",
+      "Quarter Q3 '19 is higher than any other Quarters with value 345.29, followed by , and Q2 '19. Down to Quarter Q2 '14 with the lowest value 153.23. ",
+      "Overall Revenue in million U.S. dollars has declined over the Quarters. ",
+      "Considered together, the average Revenue in million U.S. dollars in all 28 Quarters is roughly 216.67. ",
+      "Summing up the values of all Quarters, we get total 6066.78. "
    ],
    "trends": [
       {},

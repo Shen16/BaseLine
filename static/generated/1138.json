@@ -1,27 +1,39 @@
 {
-   "title": "Test",
+   "title": "Smartphone penetration as share of connections in Pakistan 2014 to 2020",
    "xAxis": "Year",
    "yAxis": "Percentage of connections",
    "columnType": "two",
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Percentage of connections, with a total of 7 data points.",
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Percentage of connections. In total the number of data points it has is 7.",
       " Overall Percentage of connections has increased over the Year.",
-      "Percentage of connections is slightly increasing from 2014 to 2018, and lastly roughly constant from 2018 to 2020.",
-      "Max Percentage of connections about 51.0 was recorded at Year 2020",
-      "Min Percentage of connections about 10.0 was recorded at Year 2014",
-      "#########################################################################",
-      "This line chart has an x axis representing Year and a y axis representing Percentage of connections with a total of 7 data points. The chart has one significant trend.",
-      " This trend is increasing which exists from 2020 to 2014."
+      "Percentage of connections is slightly increasing from 2014 to 2018, and finally roughly constant from 2018 to 2020.",
+      "The line drastically ",
+      "Maximum Percentage of connections, about 51.0 was reported at Year 2020",
+      "The lowest Percentage of connections, of value 10.0 was reported at Year 2014"
    ],
-   "trends": [
-      {},
-      {
-         "3": "0",
-         "14": "6"
-      }
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Percentage of connections. In total the number of data points it has is 7.",
+      " Overall Percentage of connections has increased over the Year.",
+      "Percentage of connections is slightly increasing from 2014 to 2018, and finally roughly constant from 2018 to 2020."
    ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Percentage of connections, containing a total of 7 data points.",
+      " In general Percentage of connections has rose over the Year.",
+      "Percentage of connections is slightly increasing from 2014 to 2018, and finally roughly constant from 2018 to 2020.",
+      "Maximum Percentage of connections, about 51.0 was reported at Year 2020",
+      "The lowest Percentage of connections, of value 10.0 was reported at Year 2014"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Percentage of connections, containing a total of 7 data points.",
+      " In general Percentage of connections has rose over the Year.",
+      "Percentage of connections is slightly increasing from 2014 to 2018, and finally roughly constant from 2018 to 2020.",
+      "Maximum Percentage of connections, about 51.0 was reported at Year 2020",
+      "The lowest Percentage of connections, of value 10.0 was reported at Year 2014",
+      "The line rapidly "
+   ],
+   "trends": [],
    "data": [
       {
          "Year": "2020",

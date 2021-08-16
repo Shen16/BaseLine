@@ -1,13 +1,32 @@
 {
-   "title": "Test",
+   "title": "Leading financial centers worldwide 2019",
    "xAxis": "State",
    "yAxis": "Points on the Global Financial Centres Index",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 20 categories on the x axis representing State, and Points on the Global Financial Centres Index in each State on the y axis.",
-      "New York is higher than any other categories with value 790.0, followed by , and Hong Kong. Down to category Montreal with the lowest value of 716.0. "
+      "This bar chart has 20 columns on the x axis representing State, and Points on the Global Financial Centres Index in each State on the y axis. ",
+      "The Points on the Global Financial Centres Index is appeared to be the highest at State New York and lowest at State Montreal. ",
+      "There is a difference of 74.0 between the maximum State New York and minimum State Montreal. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing State in the x axis and Points on the Global Financial Centres Index in the y axis. ",
+      "The Points on the Global Financial Centres Index is appeared to be the highest at State New York and lowest at State Montreal. "
+   ],
+   "mid_summary": [
+      "This bar chart has 20 columns on the x axis representing State, and Points on the Global Financial Centres Index in each State on the y axis. ",
+      "The Points on the Global Financial Centres Index is appeared to be the highest at State New York and lowest at State Montreal. ",
+      "There is a difference of 74.0 between the maximum State New York and minimum State Montreal. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing State in the x axis and Points on the Global Financial Centres Index in the y axis. ",
+      "The Points on the Global Financial Centres Index is highest at State New York and lowest at State Montreal. ",
+      "The highest State New York has 74.0 more Points on the Global Financial Centres Index than the lowest State Montreal. ",
+      "Points on the Global Financial Centres Index at State New York is 790.0 , second place is  at 790.0, and thirdly is Hong Kong at 771.0.",
+      "State Paris, and Boston share the same value 728.0. ",
+      "The State Montreal tends to be 1.06 percent lower than average. ",
+      "The Points on the Global Financial Centres Index is 14878.0 if we add up values of all States. "
    ],
    "trends": [
       {},

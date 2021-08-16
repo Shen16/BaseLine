@@ -1,16 +1,33 @@
 {
-   "title": "Test",
+   "title": "PUBG unit sales worldwide 2018",
    "xAxis": "Month",
    "yAxis": "Unit sales in millions",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 5 categories on the x axis representing Month, and Unit sales in millions in each Month on the y axis.",
-      "June 2018 is higher than any other categories with value 50.0, followed by , and August 2017. Down to category May 2017 with the lowest value of 2.0. ",
-      " The highest value at June 2018 is almost 25.0 times larger than the minimum value of May 2017. ",
-      " The highest value at June 2018 is almost 25.0 times larger than the minimum value of May 2017. ",
-      " The difference between the max Month June 2018 and min Month May 2017 is 48.0. "
+      "This is a bar chart representing Month in the x axis and Unit sales in millions in the y axis. ",
+      "The Unit sales in millions is appeared to be the highest at Month June 2018 and lowest at Month May 2017. ",
+      "The difference of Unit sales in millions between the highest and lowest Month is 48.0. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Unit sales in millions for 5 number of Months. ",
+      "Month June 2018 has the highest Unit sales in millions and May 2017 has the lowest Unit sales in millions. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Month in the x axis and Unit sales in millions in the y axis. ",
+      "The Unit sales in millions is appeared to be the highest at Month June 2018 and lowest at Month May 2017. ",
+      "The difference of Unit sales in millions between the highest and lowest Month is 48.0. "
+   ],
+   "max_summary": [
+      "This bar chart has 5 columns on the x axis representing Month, and Unit sales in millions in each Month on the y axis. ",
+      "The Unit sales in millions is highest at Month June 2018 and lowest at Month May 2017. ",
+      "Month  has the second highest value for Unit sales in millions. ",
+      "The difference of Unit sales in millions between the highest and lowest Month is 48.0. ",
+      "The Month June 2018 has the highest Unit sales in millions, followed by , and August 2017. Down to the Month May 2017 which is the lowest. ",
+      "Over the past 5 Months, the Unit sales in millions has declined. ",
+      "The highest value 50.0 at June 2018 is almost 3.38 times larger than the average value 14.8. ",
+      "The Unit sales in millions is 74.0 if we add up values of all Months. "
    ],
    "trends": [
       {},

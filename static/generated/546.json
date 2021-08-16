@@ -1,16 +1,31 @@
 {
-   "title": "Test",
+   "title": "Facebook : global penetration rage as of June 2017 , by region",
    "xAxis": "Country",
    "yAxis": "Share of population using Facebook",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 8 categories on the x axis representing Country, and Share of population using Facebook in each Country on the y axis.",
-      "North America is higher than any other categories with value 72.4, followed by , and Oceania / Australia. Down to category Africa with the lowest value of 12.7. ",
-      " The highest value at North America is almost 5.7 times larger than the minimum value of Africa. ",
-      " The highest value at North America is almost 5.7 times larger than the minimum value of Africa. ",
-      " The difference between the max Country North America and min Country Africa is 59.7. "
+      "This is a bar chart. It shows Share of population using Facebook for 8 number of Countrys. ",
+      "The maximum Share of population using Facebook 72.4 is found at Country North America and the minimum is found at Africa where Country is 12.7. ",
+      "The lowest value at Country Africa is 5.7x times less than the highest value at North America. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Share of population using Facebook for 8 number of Countrys. ",
+      "Country North America has the highest Share of population using Facebook and Africa has the lowest Share of population using Facebook. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Share of population using Facebook for 8 number of Countrys. ",
+      "The maximum Share of population using Facebook 72.4 is found at Country North America and the minimum is found at Africa where Country is 12.7. ",
+      "The lowest value at Country Africa is 5.7x times less than the highest value at North America. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Country in the x axis and Share of population using Facebook in the y axis. ",
+      "The Share of population using Facebook is appeared to be the highest at Country North America and lowest at Country Africa. ",
+      "The difference of Share of population using Facebook between the highest and lowest Country is 59.7. ",
+      "The Country North America has the highest Share of population using Facebook, followed by , and Oceania / Australia. Down to the Country Africa which is the lowest. ",
+      "The highest value 72.4 at North America is almost 1.89 times larger than the average value 38.36. ",
+      "The Share of population using Facebook is 306.9 if we add up values of all Countrys. "
    ],
    "trends": [
       {},

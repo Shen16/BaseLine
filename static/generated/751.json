@@ -1,16 +1,32 @@
 {
-   "title": "Test",
+   "title": "Number of conference championship game appearances of NFL teams 2020",
    "xAxis": "American Football Teams",
    "yAxis": "Number of appearances",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 16 categories on the x axis representing American Football Teams, and Number of appearances in each American Football Teams on the y axis.",
-      "Pittsburgh Steelers is higher than any other categories with value 16.0, followed by , and New England Patriots. Down to category New York Giants with the lowest value of 5.0. ",
-      " The highest value at Pittsburgh Steelers is almost 3.2 times larger than the minimum value of New York Giants. ",
-      " The highest value at Pittsburgh Steelers is almost 3.2 times larger than the minimum value of New York Giants. ",
-      " The difference between the max American Football Teams Pittsburgh Steelers and min American Football Teams New York Giants is 11.0. "
+      "This is a bar chart representing American Football Teams in the x axis and Number of appearances in the y axis. ",
+      "The Number of appearances is appeared to be the highest at American Football Teams Pittsburgh Steelers and lowest at American Football Teams New York Giants. ",
+      "The difference of Number of appearances between the highest and lowest American Football Teams is 11.0. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing American Football Teams in the x axis and Number of appearances in the y axis. ",
+      "The Number of appearances is appeared to be the highest at American Football Teams Pittsburgh Steelers and lowest at American Football Teams New York Giants. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing American Football Teams in the x axis and Number of appearances in the y axis. ",
+      "The Number of appearances is appeared to be the highest at American Football Teams Pittsburgh Steelers and lowest at American Football Teams New York Giants. ",
+      "The difference of Number of appearances between the highest and lowest American Football Teams is 11.0. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing American Football Teams in the x axis and Number of appearances in the y axis. ",
+      "The Number of appearances is highest at American Football Teams Pittsburgh Steelers and lowest at American Football Teams New York Giants. ",
+      "The second highest Number of appearances is appeared to be the American Football Teams . ",
+      "The highest American Football Teams Pittsburgh Steelers has 11.0 more Number of appearances than the lowest American Football Teams New York Giants. ",
+      "American Football Teams Pittsburgh Steelers is higher than any other American Football Teamss with value 16.0, followed by , and New England Patriots. Down to American Football Teams New York Giants with the lowest value 5.0. ",
+      "Similar Number of appearances is found in American Football Teams Miami Dolphins, Baltimore / Indianapolis Colts, and Philadelphia Eagles. ",
+      "The average Number of appearances in all 16 American Football Teamss is 9.44. "
    ],
    "trends": [
       {},

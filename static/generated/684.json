@@ -1,16 +1,34 @@
 {
-   "title": "Test",
+   "title": "Number of hospitals in Canada by province 2016",
    "xAxis": "Month",
    "yAxis": "Number of establishments",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 13 categories on the x axis representing Month, and Number of establishments in each Month on the y axis.",
-      "Ontario is higher than any other categories with value 492.0, followed by , and British Columbia. Down to category Yukon with the lowest value of 1.0. ",
-      " The highest value at Ontario is almost 492.0 times larger than the minimum value of Yukon. ",
-      " The highest value at Ontario is almost 492.0 times larger than the minimum value of Yukon. ",
-      " The difference between the max Month Ontario and min Month Yukon is 491.0. "
+      "This bar chart has 13 columns on the x axis representing Month, and Number of establishments in each Month on the y axis. ",
+      "The maximum Number of establishments 492.0 is found at Month Ontario and the minimum is found at Yukon where Month is 1.0. ",
+      "The difference of Number of establishments between the highest and lowest Month is 491.0. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing Month in the x axis and Number of establishments in the y axis. ",
+      "The maximum Number of establishments 492.0 is found at Month Ontario and the minimum is found at Yukon where Month is 1.0. "
+   ],
+   "mid_summary": [
+      "This bar chart has 13 columns on the x axis representing Month, and Number of establishments in each Month on the y axis. ",
+      "The maximum Number of establishments 492.0 is found at Month Ontario and the minimum is found at Yukon where Month is 1.0. ",
+      "The difference of Number of establishments between the highest and lowest Month is 491.0. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Number of establishments for 13 number of Months. ",
+      "Month Ontario has the highest Number of establishments and Yukon has the lowest Number of establishments. ",
+      "Second maximum Number of establishments is found at Month . ",
+      "There is a difference of 491.0 between the maximum Month Ontario and minimum Month Yukon. ",
+      "Month Ontario is higher than any other Months with value 492.0, followed by , and British Columbia. Down to Month Yukon with the lowest value 1.0. ",
+      "The Number of establishments has reduced over the past 13 Months. ",
+      "Month Northwest Territories, and Nunavut have the same Number of establishments. ",
+      "The lowest value 1.0 at Yukon is almost 4.36 times smaller than the average value 112.77. ",
+      "The Number of establishments is 1466.0 if we add up values of all Months. "
    ],
    "trends": [
       {},

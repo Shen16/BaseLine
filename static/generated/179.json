@@ -1,16 +1,30 @@
 {
-   "title": "Test",
+   "title": "Cities with the most parkland per 1,000 residents in the U.S. 2018",
    "xAxis": "City",
    "yAxis": "Acres of parkland per 1,000 residents",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 15 categories on the x axis representing City, and Acres of parkland per 1,000 residents in each City on the y axis.",
-      "Anchorage is higher than any other categories with value 3012.8, followed by , and Scottsdale. Down to category Phoenix with the lowest value of 30.7. ",
-      " The highest value at Anchorage is almost 98.14 times larger than the minimum value of Phoenix. ",
-      " The highest value at Anchorage is almost 98.14 times larger than the minimum value of Phoenix. ",
-      " The difference between the max City Anchorage and min City Phoenix is 2982.1000000000004. "
+      "This bar chart has 15 columns on the x axis representing City, and Acres of parkland per 1,000 residents in each City on the y axis. ",
+      "The Acres of parkland per 1,000 residents is appeared to be the highest at City Anchorage and lowest at City Phoenix. ",
+      "There is a difference of 2982.1 between the maximum City Anchorage and minimum City Phoenix. "
+   ],
+   "min_summary": [
+      "This bar chart has 15 columns on the x axis representing City, and Acres of parkland per 1,000 residents in each City on the y axis. ",
+      "The maximum Acres of parkland per 1,000 residents 3012.8 is found at City Anchorage and the minimum is found at Phoenix where City is 30.7. "
+   ],
+   "mid_summary": [
+      "This bar chart has 15 columns on the x axis representing City, and Acres of parkland per 1,000 residents in each City on the y axis. ",
+      "The Acres of parkland per 1,000 residents is appeared to be the highest at City Anchorage and lowest at City Phoenix. ",
+      "There is a difference of 2982.1 between the maximum City Anchorage and minimum City Phoenix. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Acres of parkland per 1,000 residents for 15 number of Citys. ",
+      "City Anchorage has the highest Acres of parkland per 1,000 residents and Phoenix has the lowest Acres of parkland per 1,000 residents. ",
+      "The lowest value at City Phoenix is 98.14x times less than the highest value at Anchorage. ",
+      "Acres of parkland per 1,000 residents at City Anchorage is 3012.8 , second place is  at 3012.8, and thirdly is Scottsdale at 126.4.",
+      "The City Anchorage has 11.14 times more Acres of parkland per 1,000 residents than average. "
    ],
    "trends": [
       {},

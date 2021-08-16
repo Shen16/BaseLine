@@ -1,28 +1,42 @@
 {
-   "title": "Test",
+   "title": "Estimated number of World of Warcraft subscribers 2015 to 2023",
    "xAxis": "Year",
    "yAxis": "Subscribers in millions",
    "columnType": "two",
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Subscribers in millions, with a total of 9 data points.",
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Subscribers in millions. In total the number of data points it has is 9.",
       " Overall Subscribers in millions has decreased over the Year.",
       "Subscribers in millions is slightly decreasing from 2015 to 2023.",
+      "The line rapidly ",
+      "The most drastic decrease took place within the Year 2016 and 2017.",
+      "The highest Subscribers in millions, of value 5.67 was reached at Year 2016",
+      "The lowest Subscribers in millions, of value 4.46 was reported at Year 2023"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Subscribers in millions. In total the number of data points it has is 9.",
+      " In general Subscribers in millions has fallen over the Year.",
+      "Subscribers in millions is slightly decreasing from 2015 to 2023."
+   ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Subscribers in millions, containing a total of 9 data points.",
+      " In general Subscribers in millions has fallen over the Year.",
+      "Subscribers in millions is slightly decreasing from 2015 to 2023.",
       "The steepest decrease occurs in between the Year 2016 and 2017.",
-      "Max Subscribers in millions about 5.67 was recorded at Year 2016",
-      "Min Subscribers in millions about 4.46 was recorded at Year 2023",
-      "#########################################################################",
-      "This line chart has an x axis representing Year and a y axis representing Subscribers in millions with a total of 9 data points. The chart has one significant trend.",
-      " This trend is decreasing which exists from 2023 to 2015."
+      "The highest Subscribers in millions, of value 5.67 was reached at Year 2016",
+      "The lowest Subscribers in millions, of value 4.46 was reported at Year 2023"
    ],
-   "trends": [
-      {},
-      {
-         "3": "0",
-         "14": "8"
-      }
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Subscribers in millions. In total the number of data points it has is 9.",
+      " In general Subscribers in millions has fallen over the Year.",
+      "Subscribers in millions is slightly decreasing from 2015 to 2023.",
+      "The most drastic decrease took place within the Year 2016 and 2017.",
+      "The highest Subscribers in millions, of value 5.67 was reached at Year 2016",
+      "The lowest Subscribers in millions, of value 4.46 was reported at Year 2023",
+      "The line rapidly "
    ],
+   "trends": [],
    "data": [
       {
          "Year": "2023",

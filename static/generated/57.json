@@ -1,16 +1,32 @@
 {
-   "title": "Test",
+   "title": "Revenue share by geographic region of delivery for Christian Dior December 2018",
    "xAxis": "Country",
    "yAxis": "Revenue share",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 6 categories on the x axis representing Country, and Revenue share in each Country on the y axis.",
-      "Asia (excluding Japan) is higher than any other categories with value 29.0, followed by , and Europe (excluding France). Down to category Japan with the lowest value of 7.0. ",
-      " The highest value at Asia (excluding Japan) is almost 4.14 times larger than the minimum value of Japan. ",
-      " The highest value at Asia (excluding Japan) is almost 4.14 times larger than the minimum value of Japan. ",
-      " The difference between the max Country Asia (excluding Japan) and min Country Japan is 22.0. "
+      "This bar chart has 6 columns on the x axis representing Country, and Revenue share in each Country on the y axis. ",
+      "Country Asia (excluding Japan) has the highest Revenue share and Japan has the lowest Revenue share. ",
+      "The highest Country Asia (excluding Japan) has 22.0 more Revenue share than the lowest Country Japan. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing Country in the x axis and Revenue share in the y axis. ",
+      "The Revenue share is appeared to be the highest at Country Asia (excluding Japan) and lowest at Country Japan. "
+   ],
+   "mid_summary": [
+      "This bar chart has 6 columns on the x axis representing Country, and Revenue share in each Country on the y axis. ",
+      "Country Asia (excluding Japan) has the highest Revenue share and Japan has the lowest Revenue share. ",
+      "The highest Country Asia (excluding Japan) has 22.0 more Revenue share than the lowest Country Japan. "
+   ],
+   "max_summary": [
+      "This bar chart has 6 columns on the x axis representing Country, and Revenue share in each Country on the y axis. ",
+      "Country Asia (excluding Japan) has the highest Revenue share and Japan has the lowest Revenue share. ",
+      "Second maximum Revenue share is found at Country . ",
+      "The Revenue share of Country Asia (excluding Japan) is 4.14% larger than the minimum value at Japan. ",
+      "Country Asia (excluding Japan) is higher than any other Countrys with value 29.0, followed by , and Europe (excluding France). Down to Country Japan with the lowest value 7.0. ",
+      "The lowest value 7.0 at Japan is almost 1.74 times smaller than the average value 16.67. ",
+      "Summing up the values of all Countrys, we get total 100.0. "
    ],
    "trends": [
       {},

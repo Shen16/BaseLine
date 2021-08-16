@@ -1,43 +1,42 @@
 {
-   "title": "Test",
+   "title": "Gross domestic product ( GDP ) in Afghanistan 2024",
    "xAxis": "Year",
    "yAxis": "GDP in billion U.S. dollars",
    "columnType": "two",
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing GDP in billion U.S. dollars, with a total of 21 data points.",
+      "This is a line chart with an x axis representing Year and a y axis representing GDP in billion U.S. dollars, containing a total of 21 data points.",
       " Overall GDP in billion U.S. dollars has increased over the Year.",
-      "GDP in billion U.S. dollars is gradually increasing from 2004 to 2012, roughly constant from 2012 to 2020, and lastly roughly increasing from 2020 to 2024.",
+      "GDP in billion U.S. dollars is gradually increasing from 2004 to 2012, roughly constant from 2012 to 2020, and finally roughly increasing from 2020 to 2024.",
+      "The line significantly ",
+      "The most drastic increase took place within the Year 2009 and 2010.",
+      "The highest GDP in billion U.S. dollars, of value 25.19 was reached at Year 2024",
+      "Minimum GDP in billion U.S. dollars about 5.15 was reached at Year 2004"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes GDP in billion U.S. dollars. In total the number of data points it has is 21.",
+      " Overall GDP in billion U.S. dollars has increased over the Year.",
+      "GDP in billion U.S. dollars is gradually increasing from 2004 to 2012, roughly constant from 2012 to 2020, and finally roughly increasing from 2020 to 2024."
+   ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes GDP in billion U.S. dollars. In total the number of data points it has is 21.",
+      " Overall GDP in billion U.S. dollars has increased over the Year.",
+      "GDP in billion U.S. dollars is gradually increasing from 2004 to 2012, roughly constant from 2012 to 2020, and finally roughly increasing from 2020 to 2024.",
+      "The most drastic increase took place within the Year 2009 and 2010.",
+      "The highest GDP in billion U.S. dollars, of value 25.19 was reached at Year 2024",
+      "Minimum GDP in billion U.S. dollars about 5.15 was reached at Year 2004"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing GDP in billion U.S. dollars, containing a total of 21 data points.",
+      " In general GDP in billion U.S. dollars has rose over the Year.",
+      "GDP in billion U.S. dollars is gradually increasing from 2004 to 2012, roughly constant from 2012 to 2020, and finally roughly increasing from 2020 to 2024.",
       "The steepest increase occurs in between the Year 2009 and 2010.",
-      "Max GDP in billion U.S. dollars about 25.19 was recorded at Year 2024",
-      "Min GDP in billion U.S. dollars about 5.15 was recorded at Year 2004",
-      "#########################################################################",
-      "This line chart has an x axis representing Year and a y axis representing GDP in billion U.S. dollars, with a total of 21 data points. The chart has 4 significant trends.",
-      " The longest trend is extremely increasing which exists from 2004 to 2013.",
-      " Similarly, the next significant trend is moderately increasing which exists from 2019 to 2024.",
-      " Also, the next significant trend is slightly increasing which exists from 2016 to 2019.",
-      " Also, the next significant trend is slightly increasing which exists from 2013 to 2016."
+      "The highest GDP in billion U.S. dollars, of value 25.19 was reached at Year 2024",
+      "Minimum GDP in billion U.S. dollars about 5.15 was reached at Year 2004",
+      "The line rapidly "
    ],
-   "trends": [
-      {},
-      {
-         "1": "11",
-         "12": "20"
-      },
-      {
-         "3": "0",
-         "14": "5"
-      },
-      {
-         "3": "5",
-         "14": "8"
-      },
-      {
-         "3": "8",
-         "14": "11"
-      }
-   ],
+   "trends": [],
    "data": [
       {
          "Year": "2024",

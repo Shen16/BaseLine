@@ -1,5 +1,5 @@
 {
-   "title": "Test",
+   "title": "Global automotive industry : capacity and assembly volume 2015/2022",
    "labels": [
       "Country",
       "North America",
@@ -13,11 +13,31 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart has 2 categories of Country on the x axis representing 6 groups: North America, EU, Eastern Europe, Asia-Pacific, Middle East & Africa, and South America.",
-      " Averaging the 6 groups, the highest category is found for Country 2022 with a mean value of 23.52.",
-      " The minimum category is found at 2015 with a mean value of 20.93.",
-      " This represents a difference of 11.6%.",
-      " In case of 2022, North America shows more dominance than any other Country with a value 228.0 and it has the lowest value 199.0 in 2015.  However, South America being the 2nd most important group, has the highest value 64.0 for Country 2022 and the lowest 58.0 in case of 2015. "
+      "This grouped bar chart shows SOME LABEL on the Y-axis for 2 different Countrys for 6 groups North America, EU, Eastern Europe, Asia-Pacific, Middle East & Africa, and South America that are presented on the X-axis. ",
+      " Out of all 6 groups, Asia-Pacific had the highest SOME LABEL in Country 2022 and Middle East & Africa had the lowest SOME LABEL in Country 2015. ",
+      " In Country 2022, Eastern Europe had the maximum SOME LABEL and it saw the lowest in Country 2015 out of all 2 Countrys. ",
+      " There is a gap of 11.0 between the highest and lowest SOME LABEL found for Eastern Europe in Country 2022 and 2015. "
+   ],
+   "xAxis": "Country",
+   "yAxis": "SOME LABEL",
+   "min_summary": [
+      "This grouped bar chart shows SOME LABEL on the Y-axis for 2 different Countrys for 6 groups North America, EU, Eastern Europe, Asia-Pacific, Middle East & Africa, and South America that are presented on the X-axis. ",
+      " In Country 2022, Asia-Pacific had the highest SOME LABEL 770.0 among the 6 groups and in 2015, Middle East & Africa had the lowest SOME LABEL 37.0. "
+   ],
+   "mid_summary": [
+      "This grouped bar chart shows SOME LABEL on the Y-axis for 2 different Countrys for 6 groups North America, EU, Eastern Europe, Asia-Pacific, Middle East & Africa, and South America that are presented on the X-axis. ",
+      " Out of all 6 groups, Asia-Pacific had the highest SOME LABEL in Country 2022 and Middle East & Africa had the lowest SOME LABEL in Country 2015. ",
+      " In Country 2022, Eastern Europe had the maximum SOME LABEL and it saw the lowest in Country 2015 out of all 2 Countrys. ",
+      " There is a gap of 11.0 between the highest and lowest SOME LABEL found for Eastern Europe in Country 2022 and 2015. "
+   ],
+   "max_summary": [
+      "This grouped bar chart shows SOME LABEL on the Y-axis for 2 different Countrys for 6 groups North America, EU, Eastern Europe, Asia-Pacific, Middle East & Africa, and South America that are presented on the X-axis. ",
+      " Out of all 6 groups, Asia-Pacific had the highest SOME LABEL in Country 2022 and Middle East & Africa had the lowest SOME LABEL in Country 2015. ",
+      " Among all the Countrys, Eastern Europe had the highest SOME LABEL 70.0 in Country 2022 and lowest value 59.0 in Country 2015. ",
+      "Country 2022 and 2015 had the biggest gap of 11.0 between the highest and lowest SOME LABEL found for Eastern Europe. ",
+      " Among all 6 groups, Asia-Pacific had the gap of 89.0 between the maximum and minimum SOME LABEL observed in Country 2022 and 2015 respectively. ",
+      " In Country 2022, Asia-Pacific had the highest SOME LABEL 770.0 among the 6 groups and in 2015, Middle East & Africa had the lowest SOME LABEL 37.0. The second highest SOME LABEL 64.0 was observed for Asia-Pacific in Country 2022. ",
+      "Averaging all 6 groups North America, EU, Eastern Europe, Asia-Pacific, Middle East & Africa, and South America, the Country 2022 is the maximum SOME LABEL and 2015 is the minimum SOME LABEL. "
    ],
    "trends": [
       {},

@@ -1,5 +1,5 @@
 {
-   "title": "Test",
+   "title": "Digital advertising revenue of leading online companies 2012 to 2019",
    "labels": [
       "Platform",
       "2012",
@@ -15,12 +15,31 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart has 5 categories of Platform on the x axis representing 8 groups: 2012, 2013, 2014, 2015, 2016, 2017, 2018, and 2019.",
-      " Averaging these 8 groups, the highest category is found for Platform Google with a mean value of 81.0.",
-      " Followed by Facebook with a mean value of 28.92.",
-      " The lowest category is observed at AOL that has a mean value of 0.61",
-      " showing a difference of 197.0% with the maximum value.",
-      " In case of Google, 2012 shows more dominance than any other Platform with a value 4369.0 and it has the lowest value 27.0 in Twitter.  However, 2019 being the 2nd most important group, has the highest value 13481.0 for Platform Google and the lowest 0.0 in case of AOL. "
+      "This grouped bar chart represents 5 different Platforms on X-axis for 8 groups 2012, 2013, 2014, 2015, 2016, 2017, 2018, and 2019. On the Y-axis it shows their corresponding SOME LABEL. ",
+      " In Platform Google, 2019 had the highest SOME LABEL 13481.0 among the 8 groups and in AOL, 2015 had the lowest SOME LABEL 0.0. ",
+      " In Platform Google, 2012 had the maximum SOME LABEL and it saw the lowest in Platform Twitter out of all 5 Platforms. ",
+      " The maximum SOME LABEL for 2012 that was found in Platform Google was 161.81 times larger than the minimum SOME LABEL observed in Platform Twitter. "
+   ],
+   "xAxis": "Platform",
+   "yAxis": "SOME LABEL",
+   "min_summary": [
+      "This grouped bar chart represents 5 different Platforms on X-axis for 8 groups 2012, 2013, 2014, 2015, 2016, 2017, 2018, and 2019. On the Y-axis it shows their corresponding SOME LABEL. ",
+      " Platform Google had the maximum SOME LABEL among all 8 groups, and it was for 2019. The minimum SOME LABEL was observed in Platform AOL for 2015. "
+   ],
+   "mid_summary": [
+      "This grouped bar chart represents 5 different Platforms on X-axis for 8 groups 2012, 2013, 2014, 2015, 2016, 2017, 2018, and 2019. On the Y-axis it shows their corresponding SOME LABEL. ",
+      " In Platform Google, 2019 had the highest SOME LABEL 13481.0 among the 8 groups and in AOL, 2015 had the lowest SOME LABEL 0.0. ",
+      " In Platform Google, 2012 had the maximum SOME LABEL and it saw the lowest in Platform Twitter out of all 5 Platforms. ",
+      " The maximum SOME LABEL for 2012 that was found in Platform Google was 161.81 times larger than the minimum SOME LABEL observed in Platform Twitter. "
+   ],
+   "max_summary": [
+      "This grouped bar chart shows SOME LABEL on the Y-axis for 5 different Platforms for 8 groups 2012, 2013, 2014, 2015, 2016, 2017, 2018, and 2019 that are presented on the X-axis. ",
+      " Platform Google had the maximum SOME LABEL among all 8 groups, and it was for 2019. The minimum SOME LABEL was observed in Platform AOL for 2015. ",
+      " Among all the Platforms, 2012 had the highest SOME LABEL in Platform Google and lowest SOME LABEL in Platform Twitter. ",
+      " There is a gap of 4342.0 between the highest and lowest SOME LABEL found for 2012 in Platform Google and Twitter. ",
+      " Out of all 8 groups, the highest gap between the maximum and minimum SOME LABEL was found in case of 2018. ",
+      " 2019 had the maximum SOME LABEL out of all 8 groups in Platform Google followed by 2019 in Google, and the minimum SOME LABEL is found for 2015 in AOL. ",
+      "Averaging all 8 groups 2012, 2013, 2014, 2015, 2016, 2017, 2018, and 2019, the Platform Google is the maximum SOME LABEL and AOL is the minimum SOME LABEL. "
    ],
    "trends": [
       {},

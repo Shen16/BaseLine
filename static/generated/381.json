@@ -1,18 +1,31 @@
 {
-   "title": "Test",
+   "title": "Leading men 's hair coloring brands in the U.S. 2019",
    "xAxis": "Brand",
    "yAxis": "Sales in million U.S. dollars",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 10 categories on the x axis representing Brand, and Sales in million U.S. dollars in each Brand on the y axis.",
-      " The highest category is found at Just For Men where Sales in million U.S. dollars is 138.0.",
-      " Followed by 138.0 in .",
-      " The lowest category is found at Grecian 5 where Sales in million U.S. dollars is 0.1.",
-      " The highest value at Just For Men is almost 1380.0 times larger than the minimum value of Grecian 5. ",
-      " The highest value at Just For Men is almost 1380.0 times larger than the minimum value of Grecian 5. ",
-      " The difference between the max Brand Just For Men and min Brand Grecian 5 is 137.9. "
+      "This is a bar chart. It shows Sales in million U.S. dollars for 10 number of Brands. ",
+      "The Sales in million U.S. dollars is highest at Brand Just For Men and lowest at Brand Grecian 5. ",
+      "The highest Brand Just For Men has 137.9 more Sales in million U.S. dollars than the lowest Brand Grecian 5. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Sales in million U.S. dollars for 10 number of Brands. ",
+      "Brand Just For Men has the highest Sales in million U.S. dollars and Grecian 5 has the lowest Sales in million U.S. dollars. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Sales in million U.S. dollars for 10 number of Brands. ",
+      "The Sales in million U.S. dollars is highest at Brand Just For Men and lowest at Brand Grecian 5. ",
+      "The highest Brand Just For Men has 137.9 more Sales in million U.S. dollars than the lowest Brand Grecian 5. "
+   ],
+   "max_summary": [
+      "This bar chart has 10 columns on the x axis representing Brand, and Sales in million U.S. dollars in each Brand on the y axis. ",
+      "The Sales in million U.S. dollars is appeared to be the highest at Brand Just For Men and lowest at Brand Grecian 5. ",
+      "Second maximum Sales in million U.S. dollars is found at Brand . ",
+      "The highest Brand Just For Men has 137.9 more Sales in million U.S. dollars than the lowest Brand Grecian 5. ",
+      "Brand Just For Men is higher than any other Brands with value 138.0, followed by , and Just For Men Control GX. Down to Brand Grecian 5 with the lowest value 0.1. ",
+      "The highest value 138.0 at Just For Men is almost 6.74 times larger than the average value 20.48. "
    ],
    "trends": [
       {},

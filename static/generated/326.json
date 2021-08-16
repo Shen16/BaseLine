@@ -1,63 +1,38 @@
 {
-   "title": "Test",
+   "title": "American imports of corn 2001 to 2019",
    "xAxis": "Year",
    "yAxis": "Imports in million bushels",
    "columnType": "two",
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Imports in million bushels, with a total of 19 data points.",
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Imports in million bushels. In total the number of data points it has is 19.",
       " Overall Imports in million bushels has increased over the Year.",
-      "Imports in million bushels is roughly constant from 2001 to 2008, slightly increasing from 2008 to 2010, roughly constant from 2010 to 2011, rapidly increasing from 2011 to 2012, roughly constant from 2012 to 2014, slightly increasing from 2014 to 2015, and lastly roughly constant from 2015 to 2019.",
+      "The line drastically increased by 3.5 times from Year 2009 to 2010,increased by 5.5 times from Year 2011 to 2012,decreased by 4.4 times from Year 2012 to 2013, and lastly, increased by 2.1 times from Year 2014 to 2015.",
       "The steepest increase occurs in between the Year 2011 and 2012.",
-      "Max Imports in million bushels about 160.0 was recorded at Year 2012",
-      "Min Imports in million bushels about 8.0 was recorded at Year 2009",
-      "#########################################################################",
-      "This line chart has an x axis representing Year and a y axis representing Imports in million bushels, with a total of 19 data points. The chart has 8 significant trends.",
-      " The longest trend is slightly decreasing which exists from 2012 to 2015.",
-      " Conversely, the next significant trend is extremely increasing which exists from 2009 to 2012.",
-      " Additionally, the next significant trend is slightly decreasing which exists from 2017 to 2019.",
-      " On the contrary, the next significant trend is moderately decreasing which exists from 2015 to 2017.",
-      " On the contrary, the next significant trend is moderately decreasing which exists from 2007 to 2009.",
-      " But, the next significant trend is moderately increasing which exists from 2005 to 2007.",
-      " Similarly, the next significant trend is moderately decreasing which exists from 2003 to 2005.",
-      " Conversely, the next significant trend is moderately constant which exists from 2001 to 2003."
+      "The highest Imports in million bushels, of value 160.0 was reached at Year 2012",
+      "The lowest Imports in million bushels, of value 8.0 was reported at Year 2009"
    ],
-   "trends": [
-      {},
-      {
-         "1": "4",
-         "12": "7"
-      },
-      {
-         "3": "7",
-         "14": "10"
-      },
-      {
-         "3": "0",
-         "14": "2"
-      },
-      {
-         "3": "2",
-         "14": "4"
-      },
-      {
-         "3": "10",
-         "14": "12"
-      },
-      {
-         "3": "12",
-         "14": "14"
-      },
-      {
-         "3": "14",
-         "14": "16"
-      },
-      {
-         "3": "16",
-         "14": "18"
-      }
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Imports in million bushels. In total the number of data points it has is 19.",
+      " In general Imports in million bushels has rose over the Year."
    ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Imports in million bushels, containing a total of 19 data points.",
+      " In general Imports in million bushels has rose over the Year.",
+      "The most drastic increase took place within the Year 2011 and 2012.",
+      "The highest Imports in million bushels, of value 160.0 was reached at Year 2012",
+      "The lowest Imports in million bushels, of value 8.0 was reported at Year 2009"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Imports in million bushels, containing a total of 19 data points.",
+      " In general Imports in million bushels has rose over the Year.",
+      "The steepest increase occurs in between the Year 2011 and 2012.",
+      "The highest Imports in million bushels, of value 160.0 was reached at Year 2012",
+      "The lowest Imports in million bushels, of value 8.0 was reported at Year 2009",
+      "The line significantly increased by 20.0 from Year 2009 to 2010,increased by 131.0 from Year 2011 to 2012,decreased by 124.0 from Year 2012 to 2013, and lastly, increased by 36.0 from Year 2014 to 2015."
+   ],
+   "trends": [],
    "data": [
       {
          "Year": "2019",

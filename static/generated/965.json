@@ -1,53 +1,38 @@
 {
-   "title": "Test",
+   "title": "Stock price of Goldman Sachs 2004 to 2019",
    "xAxis": "Year",
    "yAxis": "Stock price in U.S. dollars",
    "columnType": "two",
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Stock price in U.S. dollars, with a total of 16 data points.",
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Stock price in U.S. dollars. In total the number of data points it has is 16.",
+      " In general Stock price in U.S. dollars has rose over the Year.",
+      "The line significantly increased by 84.45 from Year 2008 to 2009.",
+      "The most drastic decrease took place within the Year 2007 and 2008.",
+      "The highest Stock price in U.S. dollars, of value 254.76 was reached at Year 2017",
+      "Minimum Stock price in U.S. dollars about 84.39 was reached at Year 2008"
+   ],
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Stock price in U.S. dollars, containing a total of 16 data points.",
+      " In general Stock price in U.S. dollars has rose over the Year."
+   ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Stock price in U.S. dollars, containing a total of 16 data points.",
+      " In general Stock price in U.S. dollars has rose over the Year.",
+      "The most drastic decrease took place within the Year 2007 and 2008.",
+      "The highest Stock price in U.S. dollars, of value 254.76 was reached at Year 2017",
+      "Minimum Stock price in U.S. dollars about 84.39 was reached at Year 2008"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Stock price in U.S. dollars, containing a total of 16 data points.",
       " Overall Stock price in U.S. dollars has increased over the Year.",
-      "Stock price in U.S. dollars is slightly increasing from 2004 to 2006, roughly constant from 2006 to 2007, slightly decreasing from 2007 to 2008, slightly increasing from 2008 to 2009, roughly constant from 2009 to 2010, slightly decreasing from 2010 to 2011, slightly increasing from 2011 to 2012, roughly constant from 2012 to 2017, and lastly roughly increasing from 2017 to 2019.",
       "The steepest decrease occurs in between the Year 2007 and 2008.",
-      "Max Stock price in U.S. dollars about 254.76 was recorded at Year 2017",
-      "Min Stock price in U.S. dollars about 84.39 was recorded at Year 2008",
-      "#########################################################################",
-      "This line chart has an x axis representing Year and a y axis representing Stock price in U.S. dollars, with a total of 16 data points. The chart has 6 significant trends.",
-      " The longest trend is extremely increasing which exists from 2011 to 2015.",
-      " Correspondingly, the next significant trend is extremely increasing which exists from 2004 to 2007.",
-      " Correspondingly, the next significant trend is moderately decreasing which exists from 2017 to 2019.",
-      " But, the next significant trend is extremely increasing which exists from 2015 to 2017.",
-      " Also, the next significant trend is slightly decreasing which exists from 2009 to 2011.",
-      " On the contrary, the next significant trend is slightly decreasing which exists from 2007 to 2009."
+      "The highest Stock price in U.S. dollars, of value 254.76 was reached at Year 2017",
+      "Minimum Stock price in U.S. dollars about 84.39 was reached at Year 2008",
+      "The line drastically increased by 2.0 times from Year 2008 to 2009."
    ],
-   "trends": [
-      {},
-      {
-         "1": "4",
-         "12": "8"
-      },
-      {
-         "3": "12",
-         "14": "15"
-      },
-      {
-         "3": "0",
-         "14": "2"
-      },
-      {
-         "3": "2",
-         "14": "4"
-      },
-      {
-         "3": "8",
-         "14": "10"
-      },
-      {
-         "3": "10",
-         "14": "12"
-      }
-   ],
+   "trends": [],
    "data": [
       {
          "Year": "2019",

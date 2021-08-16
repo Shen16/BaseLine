@@ -1,63 +1,38 @@
 {
-   "title": "Test",
+   "title": "Total U.S. hay production 2000 to 2019",
    "xAxis": "Year",
    "yAxis": "Production in thousand tons",
    "columnType": "two",
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Production in thousand tons, with a total of 20 data points.",
-      " Overall Production in thousand tons has increased over the Year.",
-      "Production in thousand tons is roughly increasing from 2019 to 2017, roughly constant from 2017 to 2015, gradually decreasing from 2015 to 2012, rapidly increasing from 2012 to 2010, roughly constant from 2010 to 2007, roughly increasing from 2007 to 2005, roughly constant from 2005 to 2003, slightly increasing from 2003 to 2002, and lastly roughly constant from 2002 to 2000.",
-      "The steepest decrease occurs in between the Year 2013 and 2012.",
-      "Max Production in thousand tons about 158122.0 was recorded at Year 2004",
-      "Min Production in thousand tons about 117072.0 was recorded at Year 2012",
-      "#########################################################################",
-      "This line chart has an x axis representing Year and a y axis representing Production in thousand tons, with a total of 20 data points. The chart has 8 significant trends.",
-      " The longest trend is slightly increasing which exists from 2012 to 2008.",
-      " Likewise, the next significant trend is moderately increasing which exists from 2019 to 2016.",
-      " In a similar manner, the next significant trend is moderately increasing which exists from 2002 to 2000.",
-      " Also, the next significant trend is moderately decreasing which exists from 2004 to 2002.",
-      " Conversely, the next significant trend is slightly increasing which exists from 2006 to 2004.",
-      " Likewise, the next significant trend is moderately increasing which exists from 2008 to 2006.",
-      " Similarly, the next significant trend is extremely decreasing which exists from 2014 to 2012.",
-      " On the contrary, the next significant trend is moderately decreasing which exists from 2016 to 2014."
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Production in thousand tons. In total the number of data points it has is 20.",
+      " In general Production in thousand tons has fallen over the Year.",
+      "The line rapidly ",
+      "The steepest increase occurs in between the Year 2012 and 2013.",
+      "The highest Production in thousand tons, of value 158122.0 was reached at Year 2004",
+      "The lowest Production in thousand tons, of value 117072.0 was reported at Year 2012"
    ],
-   "trends": [
-      {},
-      {
-         "1": "8",
-         "12": "12"
-      },
-      {
-         "3": "16",
-         "14": "19"
-      },
-      {
-         "3": "0",
-         "14": "2"
-      },
-      {
-         "3": "2",
-         "14": "4"
-      },
-      {
-         "3": "4",
-         "14": "6"
-      },
-      {
-         "3": "6",
-         "14": "8"
-      },
-      {
-         "3": "12",
-         "14": "14"
-      },
-      {
-         "3": "14",
-         "14": "16"
-      }
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Production in thousand tons, containing a total of 20 data points.",
+      " In general Production in thousand tons has fallen over the Year."
    ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Production in thousand tons. In total the number of data points it has is 20.",
+      " In general Production in thousand tons has fallen over the Year.",
+      "The most drastic increase took place within the Year 2012 and 2013.",
+      "The highest Production in thousand tons, of value 158122.0 was reached at Year 2004",
+      "The lowest Production in thousand tons, of value 117072.0 was reported at Year 2012"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Production in thousand tons, containing a total of 20 data points.",
+      " Overall Production in thousand tons has decreased over the Year.",
+      "The most drastic increase took place within the Year 2012 and 2013.",
+      "The highest Production in thousand tons, of value 158122.0 was reached at Year 2004",
+      "The lowest Production in thousand tons, of value 117072.0 was reported at Year 2012",
+      "The line drastically "
+   ],
+   "trends": [],
    "data": [
       {
          "Year": "2000",

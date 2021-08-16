@@ -1,18 +1,31 @@
 {
-   "title": "Test",
+   "title": "Number of vehicles imported into the United States by country 2012",
    "xAxis": "Country",
    "yAxis": "Imports in units",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 5 categories on the x axis representing Country, and Imports in units in each Country on the y axis.",
-      " The highest category is found at Japan where Imports in units is 2441298.0.",
-      " Followed by 2441298.0 in .",
-      " The lowest category is found at Germany where Imports in units is 796121.0.",
-      " The highest value at Japan is almost 3.07 times larger than the minimum value of Germany. ",
-      " The highest value at Japan is almost 3.07 times larger than the minimum value of Germany. ",
-      " The difference between the max Country Japan and min Country Germany is 1645177.0. "
+      "This is a bar chart. It shows Imports in units for 5 number of Countrys. ",
+      "The Imports in units is appeared to be the highest at Country Japan and lowest at Country Germany. ",
+      "The highest Country Japan has 1645177.0 more Imports in units than the lowest Country Germany. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing Country in the x axis and Imports in units in the y axis. ",
+      "The maximum Imports in units 2441298.0 is found at Country Japan and the minimum is found at Germany where Country is 796121.0. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Imports in units for 5 number of Countrys. ",
+      "The Imports in units is appeared to be the highest at Country Japan and lowest at Country Germany. ",
+      "The highest Country Japan has 1645177.0 more Imports in units than the lowest Country Germany. "
+   ],
+   "max_summary": [
+      "This bar chart has 5 columns on the x axis representing Country, and Imports in units in each Country on the y axis. ",
+      "The maximum Imports in units 2441298.0 is found at Country Japan and the minimum is found at Germany where Country is 796121.0. ",
+      "Second maximum Imports in units is found at Country . ",
+      "There is a difference of 1645177.0 between the maximum Country Japan and minimum Country Germany. ",
+      "Imports in units at Country Japan is 2441298.0 , second place is  at 2441298.0, and thirdly is Mexico at 1440116.0.",
+      "The highest value 2441298.0 at Japan is almost 1.56 times larger than the average value 1563204.2. "
    ],
    "trends": [
       {},

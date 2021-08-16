@@ -1,16 +1,32 @@
 {
-   "title": "Test",
+   "title": "Most popular multi-purpose cleaning products in the United Kingdom ( UK ) 2013",
    "xAxis": "Product Type",
    "yAxis": "Share of respondents currently purchasing",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 8 categories on the x axis representing Product Type, and Share of respondents currently purchasing in each Product Type on the y axis.",
-      "Flash is higher than any other categories with value 38.0, followed by , and Dettol. Down to category Cilit bang with the lowest value of 20.0. ",
-      " The highest value at Flash is almost 1.9 times larger than the minimum value of Cilit bang. ",
-      " The highest value at Flash is almost 1.9 times larger than the minimum value of Cilit bang. ",
-      " The difference between the max Product Type Flash and min Product Type Cilit bang is 18.0. "
+      "This is a bar chart. It shows Share of respondents currently purchasing for 8 number of Product Types. ",
+      "The Share of respondents currently purchasing is highest at Product Type Flash and lowest at Product Type Cilit bang. ",
+      "There is a difference of 18.0 between the maximum Product Type Flash and minimum Product Type Cilit bang. "
+   ],
+   "min_summary": [
+      "This bar chart has 8 columns on the x axis representing Product Type, and Share of respondents currently purchasing in each Product Type on the y axis. ",
+      "The Share of respondents currently purchasing is highest at Product Type Flash and lowest at Product Type Cilit bang. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Share of respondents currently purchasing for 8 number of Product Types. ",
+      "The Share of respondents currently purchasing is highest at Product Type Flash and lowest at Product Type Cilit bang. ",
+      "There is a difference of 18.0 between the maximum Product Type Flash and minimum Product Type Cilit bang. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Product Type in the x axis and Share of respondents currently purchasing in the y axis. ",
+      "The Share of respondents currently purchasing is appeared to be the highest at Product Type Flash and lowest at Product Type Cilit bang. ",
+      "There is a difference of 18.0 between the maximum Product Type Flash and minimum Product Type Cilit bang. ",
+      "The Product Type Flash has the highest Share of respondents currently purchasing, followed by , and Dettol. Down to the Product Type Cilit bang which is the lowest. ",
+      "Product Type Cif, and Cif (cream) share the same value 22.0. ",
+      "The lowest value 20.0 at Cilit bang is almost 1.43 times smaller than the average value 26.5. ",
+      "The Share of respondents currently purchasing is 212.0 if we add up values of all Product Types. "
    ],
    "trends": [
       {},

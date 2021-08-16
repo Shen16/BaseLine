@@ -1,5 +1,5 @@
 {
-   "title": "Test",
+   "title": "Obesity prevalence in England 2000 - 2018 , by gender",
    "labels": [
       "Year",
       "Men",
@@ -9,14 +9,35 @@
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This is a multi-line chart with 2 lines representing Men, and Women. ",
-      "The line for Women has the highest values across Year with a mean value of 25.0, ",
-      "and it peaked at 2017 with a value of 30.0.",
-      "Men mostly had the least y-axis name with a mean value of 23.95, ",
-      "which peaked at 2015, and 2017 with a value of 27.0. ",
+      "This is a multi-line chart with 2 lines representing Men, and Women. The y axis denotes SOME LABEL and the x axis denotes Year.",
       "Overall Men, and Women are gradually increasing,  throughout the Year",
-      "The difference of y_axis name between Men and Women is greater at Year 2018 compared to the Year 2000.",
-      "The greatest difference of y_axis name between Men and Women occurs at Year 2014 and the smallest difference occurs at 2000."
+      "The ranking of the lines from topmost to botommmost is as follows: 1. Women, and lastly, 2. Men. ",
+      "Throughout the period, Women generally had the highest SOME LABEL relative to others with an average of 25.0, and it reached its maximum at 2017 with a value of 30.0.",
+      "The botommost line, Men,  has a mean of 23.95, and peaked at 2015, and 2017. ",
+      "The difference of SOME LABEL between Men and Women is greater at Year 2018 compared to the Year 2000."
+   ],
+   "xAxis": "Year",
+   "yAxis": "SOME LABEL",
+   "min_summary": [
+      "You are viewing a chart of multi-line type with 2 lines denoting Men, and Women. The y axis indicates the SOME LABEL and the x axis indicates Year.",
+      "Overall Men, and Women are gradually increasing,  throughout the Year",
+      "Overall across the Year, Women mostly maintained the highest SOME LABEL when compared to others with a mean value of 25.0, and it peaked at 2017.",
+      "The botommost line, Men,  has a mean of 23.95, and peaked at 2015, and 2017. "
+   ],
+   "mid_summary": [
+      "You are viewing a chart of multi-line type with 2 lines denoting Men, and Women. The y axis indicates the SOME LABEL and the x axis indicates Year.",
+      "Overall Men, and Women are gradually increasing,  throughout the Year",
+      "The lines ordered according to average values of SOME LABEL in descending order is: 1. Women, and lastly, 2. Men. ",
+      "Throughout the period, Women generally had the highest SOME LABEL relative to others with an average of 25.0, and it reached its maximum at 2017 with a value of 30.0.",
+      "The botommost line, Men,  has a mean of 23.95, and peaked at 2015, and 2017. "
+   ],
+   "max_summary": [
+      "You are viewing a chart of multi-line type with 2 lines denoting Men, and Women. The y axis indicates the SOME LABEL and the x axis indicates Year.",
+      "Overall Men, and Women are gradually increasing,  throughout the Year",
+      "The lines ordered according to average values of SOME LABEL in descending order is: 1. Women, and lastly, 2. Men. ",
+      "Overall across the Year, Women mostly maintained the highest SOME LABEL when compared to others with a mean value of 25.0, and it peaked at 2017.",
+      "The botommost line, Men,  has a mean of 23.95, and peaked at 2015, and 2017. ",
+      "The greatest difference of SOME LABEL between Men and Women occurs at Year 2014 and the smallest difference occurs at 2000."
    ],
    "trends": [
       {},

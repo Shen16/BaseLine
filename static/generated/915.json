@@ -1,43 +1,38 @@
 {
-   "title": "Test",
+   "title": "Budget balance in Greece 2024",
    "xAxis": "Year",
    "yAxis": "Budget balance in billion euros",
    "columnType": "two",
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Budget balance in billion euros, with a total of 11 data points.",
-      " Overall Budget balance in billion euros has decreased over the Year.",
-      "Budget balance in billion euros is roughly constant from 2014 to 2015, slightly decreasing from 2015 to 2016, slightly increasing from 2016 to 2017, roughly constant from 2017 to 2018, roughly increasing from 2018 to 2020, and lastly roughly constant from 2020 to 2024.",
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Budget balance in billion euros. In total the number of data points it has is 11.",
+      " In general Budget balance in billion euros has fallen over the Year.",
+      "The line significantly decreased by 3.93 from Year 2015 to 2016,increased by 0.93 from Year 2016 to 2017, and lastly, increased by 1.38 from Year 2019 to 2020.",
       "The steepest decrease occurs in between the Year 2015 and 2016.",
-      "Max Budget balance in billion euros about 7.27 was recorded at Year 2014",
-      "Min Budget balance in billion euros about 0.59 was recorded at Year 2019",
-      "#########################################################################",
-      "This line chart has an x axis representing Year and a y axis representing Budget balance in billion euros, with a total of 11 data points. The chart has 4 significant trends.",
-      " The longest trend is extremely increasing which exists from 2019 to 2024.",
-      " Correspondingly, the next significant trend is moderately decreasing which exists from 2017 to 2019.",
-      " Differently, the next significant trend is slightly decreasing which exists from 2014 to 2016.",
-      " Conversely, the next significant trend is extremely increasing which exists from 2016 to 2017."
+      "Maximum Budget balance in billion euros, about 7.27 was reported at Year 2014",
+      "The lowest Budget balance in billion euros, of value 0.59 was reported at Year 2019"
    ],
-   "trends": [
-      {},
-      {
-         "1": "0",
-         "12": "5"
-      },
-      {
-         "3": "5",
-         "14": "7"
-      },
-      {
-         "3": "8",
-         "14": "10"
-      },
-      {
-         "3": "7",
-         "14": "8"
-      }
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Budget balance in billion euros, containing a total of 11 data points.",
+      " Overall Budget balance in billion euros has decreased over the Year."
    ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Budget balance in billion euros, containing a total of 11 data points.",
+      " Overall Budget balance in billion euros has decreased over the Year.",
+      "The steepest decrease occurs in between the Year 2015 and 2016.",
+      "Maximum Budget balance in billion euros, about 7.27 was reported at Year 2014",
+      "The lowest Budget balance in billion euros, of value 0.59 was reported at Year 2019"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Budget balance in billion euros, containing a total of 11 data points.",
+      " Overall Budget balance in billion euros has decreased over the Year.",
+      "The steepest decrease occurs in between the Year 2015 and 2016.",
+      "Maximum Budget balance in billion euros, about 7.27 was reported at Year 2014",
+      "The lowest Budget balance in billion euros, of value 0.59 was reported at Year 2019",
+      "The line significantly decreased by 3.93 from Year 2015 to 2016,increased by 0.93 from Year 2016 to 2017, and lastly, increased by 1.38 from Year 2019 to 2020."
+   ],
+   "trends": [],
    "data": [
       {
          "Year": "2024",

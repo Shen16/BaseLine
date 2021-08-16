@@ -1,5 +1,5 @@
 {
-   "title": "Test",
+   "title": "U.S. advanced flat glass prices in 1999 and 2019 by glass type",
    "labels": [
       "Glass Type",
       "1999",
@@ -9,11 +9,30 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart has 8 categories of Glass Type on the x axis representing 2 groups: 1999, and 2019.",
-      " Averaging these 2 groups, the highest category is found for Glass Type Smart glass with a mean value of 50.77.",
-      " The lowest category is observed at Safety glass that has a mean value of 5.44",
-      " showing a difference of 161.3% with the maximum value.",
-      " In case of Smart glass, 1999 shows more dominance than any other Glass Type with a value 3805.0 and it has the lowest value 77.0 in Burglary resistant glass. "
+      "This grouped bar chart shows SOME LABEL on the Y-axis for 8 different Glass Types for 2 groups 1999, and 2019 that are presented on the X-axis. ",
+      " Glass Type Smart glass had the maximum SOME LABEL among all 2 groups, and it was for 1999. The minimum SOME LABEL was observed in Glass Type Safety glass for 2019. ",
+      " In Glass Type Smart glass, 1999 had the maximum SOME LABEL and it saw the lowest in Glass Type Burglary resistant glass out of all 8 Glass Types. ",
+      " There is a gap of 3728.0 between the highest and lowest SOME LABEL found for 1999 in Glass Type Smart glass and Burglary resistant glass. "
+   ],
+   "xAxis": "Glass Type",
+   "yAxis": "SOME LABEL",
+   "min_summary": [
+      "This grouped bar chart represents 8 different Glass Types on X-axis for 2 groups 1999, and 2019. On the Y-axis it shows their corresponding SOME LABEL. ",
+      " Out of all 2 groups, 1999 had the highest SOME LABEL in Glass Type Smart glass and 2019 had the lowest SOME LABEL in Glass Type Safety glass. "
+   ],
+   "mid_summary": [
+      "This grouped bar chart shows SOME LABEL on the Y-axis for 8 different Glass Types for 2 groups 1999, and 2019 that are presented on the X-axis. ",
+      " Glass Type Smart glass had the maximum SOME LABEL among all 2 groups, and it was for 1999. The minimum SOME LABEL was observed in Glass Type Safety glass for 2019. ",
+      " In Glass Type Smart glass, 1999 had the maximum SOME LABEL and it saw the lowest in Glass Type Burglary resistant glass out of all 8 Glass Types. ",
+      " There is a gap of 3728.0 between the highest and lowest SOME LABEL found for 1999 in Glass Type Smart glass and Burglary resistant glass. "
+   ],
+   "max_summary": [
+      "This grouped bar chart represents 8 different Glass Types on X-axis for 2 groups 1999, and 2019. On the Y-axis it shows their corresponding SOME LABEL. ",
+      " In Glass Type Smart glass, 1999 had the highest SOME LABEL 3805.0 among the 2 groups and in Safety glass, 2019 had the lowest SOME LABEL 68.0. ",
+      " Among all the Glass Types, 1999 had the highest SOME LABEL 3805.0 in Glass Type Smart glass and lowest value 77.0 in Glass Type Burglary resistant glass. ",
+      " There is a gap of 3728.0 between the highest and lowest SOME LABEL found for 1999 in Glass Type Smart glass and Burglary resistant glass. ",
+      " Among the groups, 1999 had the biggest difference in SOME LABEL. Where the maximum SOME LABEL was 49.42 times larger than the minimum SOME LABEL. ",
+      "On average, the Glass Type Smart glass had the highest SOME LABEL for all 2 groups 1999, and 2019. Whereas Safety glass had the lowest average SOME LABEL. "
    ],
    "trends": [
       {},

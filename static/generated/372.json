@@ -1,16 +1,32 @@
 {
-   "title": "Test",
+   "title": "Top U.S. states by number of hogs and pigs 2019",
    "xAxis": "State",
    "yAxis": "Number in thousands",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 10 categories on the x axis representing State, and Number in thousands in each State on the y axis.",
-      "Iowa is higher than any other categories with value 23500.0, followed by , and Minnesota. Down to category Kansas with the lowest value of 2040.0. ",
-      " The highest value at Iowa is almost 11.52 times larger than the minimum value of Kansas. ",
-      " The highest value at Iowa is almost 11.52 times larger than the minimum value of Kansas. ",
-      " The difference between the max State Iowa and min State Kansas is 21460.0. "
+      "This bar chart has 10 columns on the x axis representing State, and Number in thousands in each State on the y axis. ",
+      "The Number in thousands is appeared to be the highest at State Iowa and lowest at State Kansas. ",
+      "The difference of Number in thousands between the highest and lowest State is 21460.0. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing State in the x axis and Number in thousands in the y axis. ",
+      "The maximum Number in thousands 23500.0 is found at State Iowa and the minimum is found at Kansas where State is 2040.0. "
+   ],
+   "mid_summary": [
+      "This bar chart has 10 columns on the x axis representing State, and Number in thousands in each State on the y axis. ",
+      "The Number in thousands is appeared to be the highest at State Iowa and lowest at State Kansas. ",
+      "The difference of Number in thousands between the highest and lowest State is 21460.0. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Number in thousands for 10 number of States. ",
+      "State Iowa has the highest Number in thousands and Kansas has the lowest Number in thousands. ",
+      "Second maximum Number in thousands is found at State . ",
+      "The highest State Iowa has 21460.0 more Number in thousands than the lowest State Kansas. ",
+      "State Iowa is higher than any other States with value 23500.0, followed by , and Minnesota. Down to State Kansas with the lowest value 2040.0. ",
+      "The State Iowa has 3.65 times more Number in thousands than average. ",
+      "The Number in thousands is 64310.0 if we add up values of all States. "
    ],
    "trends": [
       {},

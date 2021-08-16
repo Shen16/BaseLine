@@ -1,16 +1,32 @@
 {
-   "title": "Test",
+   "title": "Important features of music streaming services in the U.S. 2018",
    "xAxis": "Response",
    "yAxis": "Share of respondents",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 9 categories on the x axis representing Response, and Share of respondents in each Response on the y axis.",
-      "The variety of music available is higher than any other categories with value 81.0, followed by , and The ability to listen on multiple divices. Down to category Artist exclusives with the lowest value of 46.0. ",
-      " The highest value at The variety of music available is almost 1.76 times larger than the minimum value of Artist exclusives. ",
-      " The highest value at The variety of music available is almost 1.76 times larger than the minimum value of Artist exclusives. ",
-      " The difference between the max Response The variety of music available and min Response Artist exclusives is 35.0. "
+      "This is a bar chart representing Response in the x axis and Share of respondents in the y axis. ",
+      "The maximum Share of respondents 81.0 is found at Response The variety of music available and the minimum is found at Artist exclusives where Response is 46.0. ",
+      "There is a difference of 35.0 between the maximum Response The variety of music available and minimum Response Artist exclusives. "
+   ],
+   "min_summary": [
+      "This bar chart has 9 columns on the x axis representing Response, and Share of respondents in each Response on the y axis. ",
+      "The maximum Share of respondents 81.0 is found at Response The variety of music available and the minimum is found at Artist exclusives where Response is 46.0. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Response in the x axis and Share of respondents in the y axis. ",
+      "The maximum Share of respondents 81.0 is found at Response The variety of music available and the minimum is found at Artist exclusives where Response is 46.0. ",
+      "There is a difference of 35.0 between the maximum Response The variety of music available and minimum Response Artist exclusives. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Share of respondents for 9 number of Responses. ",
+      "The maximum Share of respondents 81.0 is found at Response The variety of music available and the minimum is found at Artist exclusives where Response is 46.0. ",
+      "The second highest Share of respondents is appeared to be the Response . ",
+      "The difference of Share of respondents between the highest and lowest Response is 35.0. ",
+      "Response The variety of music available is higher than any other Responses with value 81.0, followed by , and The ability to listen on multiple divices. Down to Response Artist exclusives with the lowest value 46.0. ",
+      "The highest value 81.0 at The variety of music available is almost 1.27 times larger than the average value 63.56. ",
+      "Summing up the values of all Responses, we get total 572.0. "
    ],
    "trends": [
       {},

@@ -1,5 +1,5 @@
 {
-   "title": "Test",
+   "title": "Alzheimer 's in the U.S : lifetime risks , by age and gender",
    "labels": [
       "Country",
       "Men",
@@ -9,11 +9,30 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart has 2 categories of Country on the x axis representing 2 groups: Men, and Women.",
-      " Averaging the 2 groups, the highest category is found for Country 65 years with a mean value of 20.3.",
-      " The minimum category is found at 45 years with a mean value of 10.95.",
-      " This represents a difference of 59.8%.",
-      " In case of 65 years, Men shows more dominance than any other Country with a value 195.0 and it has the lowest value 103.0 in 45 years. "
+      "This grouped bar chart represents 2 different Countrys on X-axis for 2 groups Men, and Women. On the Y-axis it shows their corresponding SOME LABEL. ",
+      " Out of all 2 groups, Women had the highest SOME LABEL in Country 65 years and Men had the lowest SOME LABEL in Country 45 years. ",
+      " In Country 65 years, Men had the maximum SOME LABEL and it saw the lowest in Country 45 years out of all 2 Countrys. ",
+      " The maximum SOME LABEL for Men that was found in Country 65 years was 1.89 times larger than the minimum SOME LABEL observed in Country 45 years. "
+   ],
+   "xAxis": "Country",
+   "yAxis": "SOME LABEL",
+   "min_summary": [
+      "This grouped bar chart shows SOME LABEL on the Y-axis for 2 different Countrys for 2 groups Men, and Women that are presented on the X-axis. ",
+      " Country 65 years had the maximum SOME LABEL among all 2 groups, and it was for Women. The minimum SOME LABEL was observed in Country 45 years for Men. "
+   ],
+   "mid_summary": [
+      "This grouped bar chart represents 2 different Countrys on X-axis for 2 groups Men, and Women. On the Y-axis it shows their corresponding SOME LABEL. ",
+      " Out of all 2 groups, Women had the highest SOME LABEL in Country 65 years and Men had the lowest SOME LABEL in Country 45 years. ",
+      " In Country 65 years, Men had the maximum SOME LABEL and it saw the lowest in Country 45 years out of all 2 Countrys. ",
+      " The maximum SOME LABEL for Men that was found in Country 65 years was 1.89 times larger than the minimum SOME LABEL observed in Country 45 years. "
+   ],
+   "max_summary": [
+      "This grouped bar chart represents 2 different Countrys on X-axis for 2 groups Men, and Women. On the Y-axis it shows their corresponding SOME LABEL. ",
+      " In Country 65 years, Women had the highest SOME LABEL 211.0 among the 2 groups and in 45 years, Men had the lowest SOME LABEL 103.0. ",
+      " In Country 65 years, Men had the maximum SOME LABEL and it saw the lowest in Country 45 years out of all 2 Countrys. ",
+      "Country 65 years and 45 years had the biggest gap of 92.0 between the highest and lowest SOME LABEL found for Men. ",
+      " Among the groups, Men had the biggest difference in SOME LABEL. Where the maximum SOME LABEL was 1.89 times larger than the minimum SOME LABEL. ",
+      "On average, the Country 65 years had the highest SOME LABEL for all 2 groups Men, and Women. Whereas 45 years had the lowest average SOME LABEL. "
    ],
    "trends": [
       {},

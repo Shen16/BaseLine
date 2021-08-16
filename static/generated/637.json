@@ -1,16 +1,30 @@
 {
-   "title": "Test",
+   "title": "Wage and salary of U.S. employees , by industry 2018",
    "xAxis": "Industry",
    "yAxis": "Wage and salary in U.S. dollars",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 22 categories on the x axis representing Industry, and Wage and salary in U.S. dollars in each Industry on the y axis.",
-      "Management of companies and enterprises is higher than any other categories with value 130777.0, followed by , and Utilities. Down to category Accommodation and food services with the lowest value of 30403.0. ",
-      " The highest value at Management of companies and enterprises is almost 4.3 times larger than the minimum value of Accommodation and food services. ",
-      " The highest value at Management of companies and enterprises is almost 4.3 times larger than the minimum value of Accommodation and food services. ",
-      " The difference between the max Industry Management of companies and enterprises and min Industry Accommodation and food services is 100374.0. "
+      "This is a bar chart representing Industry in the x axis and Wage and salary in U.S. dollars in the y axis. ",
+      "The Wage and salary in U.S. dollars is appeared to be the highest at Industry Management of companies and enterprises and lowest at Industry Accommodation and food services. ",
+      "The difference of Wage and salary in U.S. dollars between the highest and lowest Industry is 100374.0. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Wage and salary in U.S. dollars for 22 number of Industrys. ",
+      "Industry Management of companies and enterprises has the highest Wage and salary in U.S. dollars and Accommodation and food services has the lowest Wage and salary in U.S. dollars. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Industry in the x axis and Wage and salary in U.S. dollars in the y axis. ",
+      "The Wage and salary in U.S. dollars is appeared to be the highest at Industry Management of companies and enterprises and lowest at Industry Accommodation and food services. ",
+      "The difference of Wage and salary in U.S. dollars between the highest and lowest Industry is 100374.0. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Industry in the x axis and Wage and salary in U.S. dollars in the y axis. ",
+      "The maximum Wage and salary in U.S. dollars 130777.0 is found at Industry Management of companies and enterprises and the minimum is found at Accommodation and food services where Industry is 30403.0. ",
+      "The highest Industry Management of companies and enterprises has 100374.0 more Wage and salary in U.S. dollars than the lowest Industry Accommodation and food services. ",
+      "Industry Management of companies and enterprises is higher than any other Industrys with value 130777.0, followed by , and Utilities. Down to Industry Accommodation and food services with the lowest value 30403.0. ",
+      "The Industry Management of companies and enterprises tends to be 1.82 percent higher than average. "
    ],
    "trends": [
       {},

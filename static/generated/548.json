@@ -1,38 +1,38 @@
 {
-   "title": "Test",
+   "title": "Foreign exchange earnings from tourism in India 2000 to 2018",
    "xAxis": "Year",
    "yAxis": "Foreign exchange earnings in billion U.S. dollars",
    "columnType": "two",
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Foreign exchange earnings in billion U.S. dollars, with a total of 19 data points.",
+      "This is a line chart with an x axis representing Year and a y axis representing Foreign exchange earnings in billion U.S. dollars, containing a total of 19 data points.",
       " Overall Foreign exchange earnings in billion U.S. dollars has increased over the Year.",
-      "Foreign exchange earnings in billion U.S. dollars is roughly constant from 2000 to 2002, rapidly increasing from 2002 to 2007, roughly constant from 2007 to 2009, roughly increasing from 2009 to 2010, roughly constant from 2010 to 2016, roughly increasing from 2016 to 2017, and lastly roughly constant from 2017 to 2018.",
+      "The line rapidly ",
+      "The most drastic increase took place within the Year 2016 and 2017.",
+      "Maximum Foreign exchange earnings in billion U.S. dollars, about 28.59 was reported at Year 2018",
+      "Minimum Foreign exchange earnings in billion U.S. dollars about 3.1 was reached at Year 2002"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Foreign exchange earnings in billion U.S. dollars. In total the number of data points it has is 19.",
+      " Overall Foreign exchange earnings in billion U.S. dollars has increased over the Year."
+   ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Foreign exchange earnings in billion U.S. dollars, containing a total of 19 data points.",
+      " In general Foreign exchange earnings in billion U.S. dollars has rose over the Year.",
       "The steepest increase occurs in between the Year 2016 and 2017.",
-      "Max Foreign exchange earnings in billion U.S. dollars about 28.59 was recorded at Year 2018",
-      "Min Foreign exchange earnings in billion U.S. dollars about 3.1 was recorded at Year 2002",
-      "#########################################################################",
-      "This line chart has an x axis representing Year and a y axis representing Foreign exchange earnings in billion U.S. dollars, with a total of 19 data points. The chart has 3 significant trends.",
-      " The longest trend is extremely increasing which exists from 2009 to 2018.",
-      " In a similar manner, the next significant trend is extremely increasing which exists from 2002 to 2009.",
-      " Correspondingly, the next significant trend is slightly decreasing which exists from 2000 to 2002."
+      "Maximum Foreign exchange earnings in billion U.S. dollars, about 28.59 was reported at Year 2018",
+      "Minimum Foreign exchange earnings in billion U.S. dollars about 3.1 was reached at Year 2002"
    ],
-   "trends": [
-      {},
-      {
-         "1": "0",
-         "12": "9"
-      },
-      {
-         "3": "9",
-         "14": "16"
-      },
-      {
-         "3": "16",
-         "14": "18"
-      }
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Foreign exchange earnings in billion U.S. dollars, containing a total of 19 data points.",
+      " Overall Foreign exchange earnings in billion U.S. dollars has increased over the Year.",
+      "The steepest increase occurs in between the Year 2016 and 2017.",
+      "Maximum Foreign exchange earnings in billion U.S. dollars, about 28.59 was reported at Year 2018",
+      "Minimum Foreign exchange earnings in billion U.S. dollars about 3.1 was reached at Year 2002",
+      "The line rapidly "
    ],
+   "trends": [],
    "data": [
       {
          "Year": "2018",

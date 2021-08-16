@@ -1,38 +1,38 @@
 {
-   "title": "Test",
+   "title": "U.S. : reported motor vehicle theft rate 1990 to 2018",
    "xAxis": "Year",
    "yAxis": "Rate per 100,000 population",
    "columnType": "two",
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Rate per 100,000 population, with a total of 29 data points.",
-      " Overall Rate per 100,000 population has decreased over the Year.",
-      "Rate per 100,000 population is roughly constant from 1990 to 1991, roughly decreasing from 1991 to 1992, roughly constant from 1992 to 1994, gradually decreasing from 1994 to 1999, roughly constant from 1999 to 2005, rapidly decreasing from 2005 to 2010, roughly constant from 2010 to 2014, slightly increasing from 2014 to 2016, roughly constant from 2016 to 2017, and lastly roughly decreasing from 2017 to 2018.",
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Rate per 100,000 population. In total the number of data points it has is 29.",
+      " In general Rate per 100,000 population has fallen over the Year.",
+      "The line rapidly ",
       "The steepest decrease occurs in between the Year 2008 and 2009.",
-      "Max Rate per 100,000 population about 658.9 was recorded at Year 1991",
-      "Min Rate per 100,000 population about 215.4 was recorded at Year 2014",
-      "#########################################################################",
-      "This line chart has an x axis representing Year and a y axis representing Rate per 100,000 population, with a total of 29 data points. The chart has 3 significant trends.",
-      " The longest trend is slightly decreasing which exists from 1990 to 2003.",
-      " But, the next significant trend is slightly decreasing which exists from 2003 to 2014.",
-      " Contrarily, the next significant trend is extremely increasing which exists from 2014 to 2018."
+      "Maximum Rate per 100,000 population, about 658.9 was reported at Year 1991",
+      "The lowest Rate per 100,000 population, of value 215.4 was reported at Year 2014"
    ],
-   "trends": [
-      {},
-      {
-         "1": "15",
-         "12": "28"
-      },
-      {
-         "3": "4",
-         "14": "15"
-      },
-      {
-         "3": "0",
-         "14": "4"
-      }
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Rate per 100,000 population, containing a total of 29 data points.",
+      " Overall Rate per 100,000 population has decreased over the Year."
    ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Rate per 100,000 population. In total the number of data points it has is 29.",
+      " In general Rate per 100,000 population has fallen over the Year.",
+      "The most drastic decrease took place within the Year 2008 and 2009.",
+      "Maximum Rate per 100,000 population, about 658.9 was reported at Year 1991",
+      "The lowest Rate per 100,000 population, of value 215.4 was reported at Year 2014"
+   ],
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Rate per 100,000 population. In total the number of data points it has is 29.",
+      " Overall Rate per 100,000 population has decreased over the Year.",
+      "The most drastic decrease took place within the Year 2008 and 2009.",
+      "Maximum Rate per 100,000 population, about 658.9 was reported at Year 1991",
+      "The lowest Rate per 100,000 population, of value 215.4 was reported at Year 2014",
+      "The line drastically "
+   ],
+   "trends": [],
    "data": [
       {
          "Year": "2018",

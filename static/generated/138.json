@@ -1,18 +1,30 @@
 {
-   "title": "Test",
+   "title": "MSC - number of ships 2020",
    "xAxis": "Ship Type",
    "yAxis": "Number of ships",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 3 categories on the x axis representing Ship Type, and Number of ships in each Ship Type on the y axis.",
-      " The highest category is found at Chartered where Number of ships is 397.0.",
-      " Followed by 397.0 in .",
-      " The lowest category is found at Orderbook where Number of ships is 13.0.",
-      " The highest value at Chartered is almost 30.54 times larger than the minimum value of Orderbook. ",
-      " The highest value at Chartered is almost 30.54 times larger than the minimum value of Orderbook. ",
-      " The difference between the max Ship Type Chartered and min Ship Type Orderbook is 384.0. "
+      "This is a bar chart. It shows Number of ships for 3 number of Ship Types. ",
+      "Ship Type Chartered has the highest Number of ships and Orderbook has the lowest Number of ships. ",
+      "The highest Ship Type Chartered has 384.0 more Number of ships than the lowest Ship Type Orderbook. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Number of ships for 3 number of Ship Types. ",
+      "Ship Type Chartered has the highest Number of ships and Orderbook has the lowest Number of ships. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Number of ships for 3 number of Ship Types. ",
+      "Ship Type Chartered has the highest Number of ships and Orderbook has the lowest Number of ships. ",
+      "The highest Ship Type Chartered has 384.0 more Number of ships than the lowest Ship Type Orderbook. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Ship Type in the x axis and Number of ships in the y axis. ",
+      "Ship Type Chartered has the highest Number of ships and Orderbook has the lowest Number of ships. ",
+      "The highest Ship Type Chartered has 384.0 more Number of ships than the lowest Ship Type Orderbook. ",
+      "The Ship Type Orderbook has 2.03 times less Number of ships than average. ",
+      "The Number of ships is 587.0 if we add up values of all Ship Types. "
    ],
    "trends": [
       {},

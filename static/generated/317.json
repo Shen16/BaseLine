@@ -1,13 +1,34 @@
 {
-   "title": "Test",
+   "title": "Inflation rate forecast ( CPI ) in the United Kingdom ( UK ) Q3 2019 to Q1 2024",
    "xAxis": "Quarter",
    "yAxis": "Inflation rate forecast",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 19 categories on the x axis representing Quarter, and Inflation rate forecast in each Quarter on the y axis.",
-      "Q3 2019 is higher than any other categories with value 2.1, followed by , and Q2 2022. Down to category Q2 2020 with the lowest value of 1.82. "
+      "This bar chart has 19 columns on the x axis representing Quarter, and Inflation rate forecast in each Quarter on the y axis. ",
+      "Quarter Q3 2019 has the highest Inflation rate forecast and Q2 2020 has the lowest Inflation rate forecast. ",
+      "The difference of Inflation rate forecast between the highest and lowest Quarter is 0.28. "
+   ],
+   "min_summary": [
+      "This bar chart has 19 columns on the x axis representing Quarter, and Inflation rate forecast in each Quarter on the y axis. ",
+      "Quarter Q3 2019 has the highest Inflation rate forecast and Q2 2020 has the lowest Inflation rate forecast. "
+   ],
+   "mid_summary": [
+      "This bar chart has 19 columns on the x axis representing Quarter, and Inflation rate forecast in each Quarter on the y axis. ",
+      "Quarter Q3 2019 has the highest Inflation rate forecast and Q2 2020 has the lowest Inflation rate forecast. ",
+      "The difference of Inflation rate forecast between the highest and lowest Quarter is 0.28. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Inflation rate forecast for 19 number of Quarters. ",
+      "The Inflation rate forecast is highest at Quarter Q3 2019 and lowest at Quarter Q2 2020. ",
+      "Second maximum Inflation rate forecast is found at Quarter . ",
+      "The highest Quarter Q3 2019 has 0.28 more Inflation rate forecast than the lowest Quarter Q2 2020. ",
+      "The Quarter Q3 2019 has the highest Inflation rate forecast, followed by , and Q2 2022. Down to the Quarter Q2 2020 which is the lowest. ",
+      "Over the past 19 Quarters, the Inflation rate forecast has increased. ",
+      "Quarter Q1 2024, Q4 2023, Q3 2023, Q2 2023, Q1 2023, Q4 2022, Q3 2022, and Q2 2022 have a similar Inflation rate forecast that is 2.0. ",
+      "The average Inflation rate forecast in all 19 Quarters is 1.97. ",
+      "The Inflation rate forecast is 37.44 if we add up values of all Quarters. "
    ],
    "trends": [
       {},

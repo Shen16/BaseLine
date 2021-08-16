@@ -1,48 +1,42 @@
 {
-   "title": "Test",
+   "title": "Forecast of lanthanum oxide price globally 2009 to 2025",
    "xAxis": "Year",
    "yAxis": "Price in U.S. dollars per metric ton",
    "columnType": "two",
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Price in U.S. dollars per metric ton, with a total of 17 data points.",
-      " Overall Price in U.S. dollars per metric ton has decreased over the Year.",
-      "Price in U.S. dollars per metric ton is roughly constant from 2025 to 2014, gradually increasing from 2014 to 2011, and lastly roughly decreasing from 2011 to 2009.",
-      "The steepest decrease occurs in between the Year 2011 and 2010.",
-      "Max Price in U.S. dollars per metric ton about 98757.0 was recorded at Year 2011",
-      "Min Price in U.S. dollars per metric ton about 4604.0 was recorded at Year 2009",
-      "#########################################################################",
-      "This line chart has an x axis representing Year and a y axis representing Price in U.S. dollars per metric ton, with a total of 17 data points. The chart has 5 significant trends.",
-      " The longest trend is moderately decreasing which exists from 2018 to 2014.",
-      " On the other hand, the next significant trend is moderately decreasing which exists from 2025 to 2021.",
-      " Contrarily, the next significant trend is slightly increasing which exists from 2014 to 2011.",
-      " Additionally, the next significant trend is moderately increasing which exists from 2021 to 2018.",
-      " Correspondingly, the next significant trend is extremely decreasing which exists from 2011 to 2009."
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Price in U.S. dollars per metric ton. In total the number of data points it has is 17.",
+      " Overall Price in U.S. dollars per metric ton has increased over the Year.",
+      "Price in U.S. dollars per metric ton is gradually increasing from 2009 to 2011, roughly decreasing from 2011 to 2012, and finally roughly constant from 2012 to 2025.",
+      "The line significantly increased by 19216.0 from Year 2009 to 2010,increased by 74937.0 from Year 2010 to 2011, and lastly, decreased by 73210.0 from Year 2011 to 2012.",
+      "The most drastic increase took place within the Year 2010 and 2011.",
+      "Maximum Price in U.S. dollars per metric ton, about 98757.0 was reported at Year 2011",
+      "Minimum Price in U.S. dollars per metric ton about 4604.0 was reached at Year 2009"
    ],
-   "trends": [
-      {},
-      {
-         "1": "5",
-         "12": "9"
-      },
-      {
-         "3": "12",
-         "14": "16"
-      },
-      {
-         "3": "2",
-         "14": "5"
-      },
-      {
-         "3": "9",
-         "14": "12"
-      },
-      {
-         "3": "0",
-         "14": "2"
-      }
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Price in U.S. dollars per metric ton, containing a total of 17 data points.",
+      " In general Price in U.S. dollars per metric ton has rose over the Year.",
+      "Price in U.S. dollars per metric ton is gradually increasing from 2009 to 2011, roughly decreasing from 2011 to 2012, and finally roughly constant from 2012 to 2025."
    ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Price in U.S. dollars per metric ton, containing a total of 17 data points.",
+      " In general Price in U.S. dollars per metric ton has rose over the Year.",
+      "Price in U.S. dollars per metric ton is gradually increasing from 2009 to 2011, roughly decreasing from 2011 to 2012, and finally roughly constant from 2012 to 2025.",
+      "The most drastic increase took place within the Year 2010 and 2011.",
+      "Maximum Price in U.S. dollars per metric ton, about 98757.0 was reported at Year 2011",
+      "Minimum Price in U.S. dollars per metric ton about 4604.0 was reached at Year 2009"
+   ],
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Price in U.S. dollars per metric ton. In total the number of data points it has is 17.",
+      " In general Price in U.S. dollars per metric ton has rose over the Year.",
+      "Price in U.S. dollars per metric ton is gradually increasing from 2009 to 2011, roughly decreasing from 2011 to 2012, and finally roughly constant from 2012 to 2025.",
+      "The steepest increase occurs in between the Year 2010 and 2011.",
+      "Maximum Price in U.S. dollars per metric ton, about 98757.0 was reported at Year 2011",
+      "Minimum Price in U.S. dollars per metric ton about 4604.0 was reached at Year 2009",
+      "The line drastically increased by 5.2 times from Year 2009 to 2010,increased by 4.1 times from Year 2010 to 2011, and lastly, decreased by 3.9 times from Year 2011 to 2012."
+   ],
+   "trends": [],
    "data": [
       {
          "Year": "2009",

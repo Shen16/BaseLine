@@ -1,68 +1,38 @@
 {
-   "title": "Test",
+   "title": "Cotton yield per harvested acre in the U.S. 2000 to 2019",
    "xAxis": "Year",
    "yAxis": "Yield per acre in pounds",
    "columnType": "two",
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Yield per acre in pounds, with a total of 20 data points.",
+      "This is a line chart with an x axis representing Year and a y axis representing Yield per acre in pounds, containing a total of 20 data points.",
+      " In general Yield per acre in pounds has rose over the Year.",
+      "The line rapidly ",
+      "The most drastic increase took place within the Year 2003 and 2004.",
+      "Maximum Yield per acre in pounds, about 905.0 was reported at Year 2017",
+      "The lowest Yield per acre in pounds, of value 632.0 was reported at Year 2000"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Yield per acre in pounds. In total the number of data points it has is 20.",
+      " Overall Yield per acre in pounds has increased over the Year."
+   ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Yield per acre in pounds. In total the number of data points it has is 20.",
+      " In general Yield per acre in pounds has rose over the Year.",
+      "The most drastic increase took place within the Year 2003 and 2004.",
+      "Maximum Yield per acre in pounds, about 905.0 was reported at Year 2017",
+      "The lowest Yield per acre in pounds, of value 632.0 was reported at Year 2000"
+   ],
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Yield per acre in pounds. In total the number of data points it has is 20.",
       " Overall Yield per acre in pounds has increased over the Year.",
-      "Yield per acre in pounds is rapidly increasing from 2000 to 2004, roughly constant from 2004 to 2006, roughly decreasing from 2006 to 2008, roughly increasing from 2008 to 2009, roughly constant from 2009 to 2011, slightly increasing from 2011 to 2012, roughly constant from 2012 to 2014, slightly decreasing from 2014 to 2015, slightly increasing from 2015 to 2016, and lastly roughly decreasing from 2016 to 2019.",
       "The steepest increase occurs in between the Year 2003 and 2004.",
-      "Max Yield per acre in pounds about 905.0 was recorded at Year 2017",
-      "Min Yield per acre in pounds about 632.0 was recorded at Year 2000",
-      "#########################################################################",
-      "This line chart has an x axis representing Year and a y axis representing Yield per acre in pounds, with a total of 20 data points. The chart has 9 significant trends.",
-      " The longest trend is moderately decreasing which exists from 2004 to 2007.",
-      " But, the next significant trend is slightly decreasing which exists from 2017 to 2019.",
-      " On the other hand, the next significant trend is extremely increasing which exists from 2015 to 2017.",
-      " Also, the next significant trend is slightly increasing which exists from 2013 to 2015.",
-      " Also, the next significant trend is moderately increasing which exists from 2011 to 2013.",
-      " Likewise, the next significant trend is moderately increasing which exists from 2009 to 2011.",
-      " Also, the next significant trend is slightly decreasing which exists from 2007 to 2009.",
-      " Conversely, the next significant trend is extremely increasing which exists from 2002 to 2004.",
-      " Additionally, the next significant trend is moderately decreasing which exists from 2000 to 2002."
+      "Maximum Yield per acre in pounds, about 905.0 was reported at Year 2017",
+      "The lowest Yield per acre in pounds, of value 632.0 was reported at Year 2000",
+      "The line drastically "
    ],
-   "trends": [
-      {},
-      {
-         "1": "12",
-         "12": "15"
-      },
-      {
-         "3": "0",
-         "14": "2"
-      },
-      {
-         "3": "2",
-         "14": "4"
-      },
-      {
-         "3": "4",
-         "14": "6"
-      },
-      {
-         "3": "6",
-         "14": "8"
-      },
-      {
-         "3": "8",
-         "14": "10"
-      },
-      {
-         "3": "10",
-         "14": "12"
-      },
-      {
-         "3": "15",
-         "14": "17"
-      },
-      {
-         "3": "17",
-         "14": "19"
-      }
-   ],
+   "trends": [],
    "data": [
       {
          "Year": "2019",

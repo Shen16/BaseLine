@@ -1,5 +1,5 @@
 {
-   "title": "Test",
+   "title": "Number of Carrabba 's Italian Grill restaurants in the U.S. from 2011 to 2018",
    "labels": [
       "Year",
       "Company-owned",
@@ -9,14 +9,35 @@
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This is a multi-line chart with 2 lines representing Company-owned, and Franchised. ",
-      "The line for Company-owned has the highest values across Year with a mean value of 235.12, ",
-      "and it peaked at 2015 with a value of 244.0.",
-      "Franchised mostly had the least y-axis name with a mean value of 1.88, ",
-      "which peaked at 2015, 2017, and 2018 with a value of 3.0. ",
+      "You are viewing a chart of multi-line type with 2 lines denoting Company-owned, and Franchised. The y axis indicates the Number of restaurants and the x axis indicates Year.",
       "Overall Company-owned, and Franchised are roughly constant,  throughout the Year",
-      "The difference of y_axis name between Company-owned and Franchised is roughly same at Year 2018 compared to the Year 2011.",
-      "The greatest difference of y_axis name between Company-owned and Franchised occurs at Year 2014 and the smallest difference occurs at 2018."
+      "The ranking of the lines from topmost to botommmost is as follows: 1. Company-owned, and lastly, 2. Franchised. ",
+      "Overall across the Year, Company-owned mostly maintained the highest Number of restaurants when compared to others with a mean value of 235.12, and it peaked at 2015.",
+      "Franchised mostly had the least Number of restaurants with a mean value of 1.88, which peaked at 2015, 2017, and 2018 with a value of 3.0. ",
+      "The greatest difference of Number of restaurants between Company-owned and Franchised occurs at Year 2014 and the smallest difference occurs at 2018."
+   ],
+   "xAxis": "Year",
+   "yAxis": "Number of restaurants",
+   "min_summary": [
+      "The given chart is of multi-line type with 2 lines namely Company-owned, and Franchised. The y axis represents Number of restaurants and the x axis represents Year.",
+      "Overall Company-owned, and Franchised are roughly constant,  throughout the Year",
+      "Overall across the Year, Company-owned mostly maintained the highest Number of restaurants when compared to others with a mean value of 235.12, and it peaked at 2015.",
+      "The botommost line, Franchised,  has a mean of 1.88, and peaked at 2015, 2017, and 2018. "
+   ],
+   "mid_summary": [
+      "You are viewing a chart of multi-line type with 2 lines denoting Company-owned, and Franchised. The y axis indicates the Number of restaurants and the x axis indicates Year.",
+      "Overall Company-owned, and Franchised are roughly constant,  throughout the Year",
+      "The lines ordered according to average values of Number of restaurants in descending order is: 1. Company-owned, and lastly, 2. Franchised. ",
+      "Overall across the Year, Company-owned mostly maintained the highest Number of restaurants when compared to others with a mean value of 235.12, and it peaked at 2015.",
+      "The botommost line, Franchised,  has a mean of 1.88, and peaked at 2015, 2017, and 2018. "
+   ],
+   "max_summary": [
+      "This is a multi-line chart with 2 lines representing Company-owned, and Franchised. The y axis denotes Number of restaurants and the x axis denotes Year.",
+      "Overall Company-owned, and Franchised are roughly constant,  throughout the Year",
+      "The lines ordered according to average values of Number of restaurants in descending order is: 1. Company-owned, and lastly, 2. Franchised. ",
+      "Throughout the period, Company-owned generally had the highest Number of restaurants relative to others with an average of 235.12, and it reached its maximum at 2015 with a value of 244.0.",
+      "Franchised mostly had the least Number of restaurants with a mean value of 1.88, which peaked at 2015, 2017, and 2018 with a value of 3.0. ",
+      "The difference of Number of restaurants between Company-owned and Franchised is roughly same at Year 2018 compared to the Year 2011."
    ],
    "trends": [
       {},

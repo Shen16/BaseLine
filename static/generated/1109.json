@@ -1,18 +1,31 @@
 {
-   "title": "Test",
+   "title": "Leading gaming content on Twitch H1 2019 , by hours watched",
    "xAxis": "Games",
    "yAxis": "Number of hours watched",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 10 categories on the x axis representing Games, and Number of hours watched in each Games on the y axis.",
-      " The highest category is found at League of Legends where Number of hours watched is 512.3.",
-      " Followed by 512.3 in .",
-      " The lowest category is found at World of Warcraft where Number of hours watched is 118.5.",
-      " The highest value at League of Legends is almost 4.32 times larger than the minimum value of World of Warcraft. ",
-      " The highest value at League of Legends is almost 4.32 times larger than the minimum value of World of Warcraft. ",
-      " The difference between the max Games League of Legends and min Games World of Warcraft is 393.79999999999995. "
+      "This bar chart has 10 columns on the x axis representing Games, and Number of hours watched in each Games on the y axis. ",
+      "The Number of hours watched is appeared to be the highest at Games League of Legends and lowest at Games World of Warcraft. ",
+      "The highest Games League of Legends has 393.8 more Number of hours watched than the lowest Games World of Warcraft. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing Games in the x axis and Number of hours watched in the y axis. ",
+      "The Number of hours watched is appeared to be the highest at Games League of Legends and lowest at Games World of Warcraft. "
+   ],
+   "mid_summary": [
+      "This bar chart has 10 columns on the x axis representing Games, and Number of hours watched in each Games on the y axis. ",
+      "The Number of hours watched is appeared to be the highest at Games League of Legends and lowest at Games World of Warcraft. ",
+      "The highest Games League of Legends has 393.8 more Number of hours watched than the lowest Games World of Warcraft. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Number of hours watched for 10 number of Gamess. ",
+      "The Number of hours watched is highest at Games League of Legends and lowest at Games World of Warcraft. ",
+      "The highest Games League of Legends has 393.8 more Number of hours watched than the lowest Games World of Warcraft. ",
+      "Games League of Legends is higher than any other Gamess with value 512.3, followed by , and Just Chatting. Down to Games World of Warcraft with the lowest value 118.5. ",
+      "The lowest value 118.5 at World of Warcraft is almost 1.98 times smaller than the average value 258.19. ",
+      "The Number of hours watched is 2581.9 if we add up values of all Gamess. "
    ],
    "trends": [
       {},

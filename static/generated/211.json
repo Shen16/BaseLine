@@ -1,43 +1,42 @@
 {
-   "title": "Test",
+   "title": "Tesla 's net loss attributable to common stockholders 2013 to 2019",
    "xAxis": "Year",
    "yAxis": "Loss in million U.S. dollars",
    "columnType": "two",
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Loss in million U.S. dollars, with a total of 7 data points.",
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Loss in million U.S. dollars. In total the number of data points it has is 7.",
+      " In general Loss in million U.S. dollars has rose over the Year.",
+      "Loss in million U.S. dollars is rapidly increasing from 2013 to 2015, roughly constant from 2015 to 2016, roughly increasing from 2016 to 2017, and lastly roughly constant from 2017 to 2019.",
+      "The line significantly increased by 220.0 from Year 2013 to 2014,increased by 595.0 from Year 2014 to 2015, and lastly, increased by 1287.0 from Year 2016 to 2017.",
+      "The most drastic increase took place within the Year 2016 and 2017.",
+      "The highest Loss in million U.S. dollars, of value 1962.0 was reached at Year 2017",
+      "The lowest Loss in million U.S. dollars, of value 74.0 was reported at Year 2013"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Loss in million U.S. dollars. In total the number of data points it has is 7.",
       " Overall Loss in million U.S. dollars has increased over the Year.",
+      "Loss in million U.S. dollars is rapidly increasing from 2013 to 2015, roughly constant from 2015 to 2016, roughly increasing from 2016 to 2017, and lastly roughly constant from 2017 to 2019."
+   ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Loss in million U.S. dollars, containing a total of 7 data points.",
+      " In general Loss in million U.S. dollars has rose over the Year.",
       "Loss in million U.S. dollars is rapidly increasing from 2013 to 2015, roughly constant from 2015 to 2016, roughly increasing from 2016 to 2017, and lastly roughly constant from 2017 to 2019.",
       "The steepest increase occurs in between the Year 2016 and 2017.",
-      "Max Loss in million U.S. dollars about 1962.0 was recorded at Year 2017",
-      "Min Loss in million U.S. dollars about 74.0 was recorded at Year 2013",
-      "#########################################################################",
-      "This line chart has an x axis representing Year and a y axis representing Loss in million U.S. dollars, with a total of 7 data points. The chart has 4 significant trends.",
-      " The longest trend is slightly decreasing which exists from 2017 to 2019.",
-      " On the contrary, the next significant trend is moderately increasing which exists from 2013 to 2015.",
-      " In a similar manner, the next significant trend is extremely increasing which exists from 2016 to 2017.",
-      " Correspondingly, the next significant trend is slightly decreasing which exists from 2015 to 2016."
+      "The highest Loss in million U.S. dollars, of value 1962.0 was reached at Year 2017",
+      "The lowest Loss in million U.S. dollars, of value 74.0 was reported at Year 2013"
    ],
-   "trends": [
-      {},
-      {
-         "1": "0",
-         "12": "2"
-      },
-      {
-         "3": "4",
-         "14": "6"
-      },
-      {
-         "3": "2",
-         "14": "3"
-      },
-      {
-         "3": "3",
-         "14": "4"
-      }
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Loss in million U.S. dollars. In total the number of data points it has is 7.",
+      " In general Loss in million U.S. dollars has rose over the Year.",
+      "Loss in million U.S. dollars is rapidly increasing from 2013 to 2015, roughly constant from 2015 to 2016, roughly increasing from 2016 to 2017, and lastly roughly constant from 2017 to 2019.",
+      "The steepest increase occurs in between the Year 2016 and 2017.",
+      "The highest Loss in million U.S. dollars, of value 1962.0 was reached at Year 2017",
+      "The lowest Loss in million U.S. dollars, of value 74.0 was reported at Year 2013",
+      "The line significantly increased by 220.0 from Year 2013 to 2014,increased by 595.0 from Year 2014 to 2015, and lastly, increased by 1287.0 from Year 2016 to 2017."
    ],
+   "trends": [],
    "data": [
       {
          "Year": "2019",

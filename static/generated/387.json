@@ -1,33 +1,42 @@
 {
-   "title": "Test",
+   "title": "Value of funds raised through crowdfunding globally 2014 to 2016",
    "xAxis": "Year",
    "yAxis": "Amount in million U.S. dollars",
    "columnType": "two",
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Amount in million U.S. dollars, with a total of 3 data points.",
+      "This is a line chart with an x axis representing Year and a y axis representing Amount in million U.S. dollars, containing a total of 3 data points.",
+      " In general Amount in million U.S. dollars has rose over the Year.",
+      "Amount in million U.S. dollars is slightly increasing from 2014 to 2015, and finally roughly constant from 2015 to 2016.",
+      "The line rapidly ",
+      "The most drastic increase took place within the Year 2014 and 2015.",
+      "Maximum Amount in million U.S. dollars, about 762.52 was reported at Year 2015",
+      "The lowest Amount in million U.S. dollars, of value 597.14 was reported at Year 2014"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Amount in million U.S. dollars. In total the number of data points it has is 3.",
       " Overall Amount in million U.S. dollars has increased over the Year.",
-      "Amount in million U.S. dollars is slightly increasing from 2014 to 2015, and lastly roughly constant from 2015 to 2016.",
+      "Amount in million U.S. dollars is slightly increasing from 2014 to 2015, and finally roughly constant from 2015 to 2016."
+   ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Amount in million U.S. dollars, containing a total of 3 data points.",
+      " Overall Amount in million U.S. dollars has increased over the Year.",
+      "Amount in million U.S. dollars is slightly increasing from 2014 to 2015, and finally roughly constant from 2015 to 2016.",
+      "The most drastic increase took place within the Year 2014 and 2015.",
+      "Maximum Amount in million U.S. dollars, about 762.52 was reported at Year 2015",
+      "The lowest Amount in million U.S. dollars, of value 597.14 was reported at Year 2014"
+   ],
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Amount in million U.S. dollars. In total the number of data points it has is 3.",
+      " In general Amount in million U.S. dollars has rose over the Year.",
+      "Amount in million U.S. dollars is slightly increasing from 2014 to 2015, and finally roughly constant from 2015 to 2016.",
       "The steepest increase occurs in between the Year 2014 and 2015.",
-      "Max Amount in million U.S. dollars about 762.52 was recorded at Year 2015",
-      "Min Amount in million U.S. dollars about 597.14 was recorded at Year 2014",
-      "#########################################################################",
-      "This line chart has an x axis representing Year and a y axis representing Amount in million U.S. dollars, with a total of 3 data points. The chart has 2 significant trends.",
-      " The longest trend is slightly decreasing which exists from 2014 to 2016.",
-      " Conversely, the next significant trend is slightly increasing which exists from 2016 to 2016."
+      "Maximum Amount in million U.S. dollars, about 762.52 was reported at Year 2015",
+      "The lowest Amount in million U.S. dollars, of value 597.14 was reported at Year 2014",
+      "The line significantly "
    ],
-   "trends": [
-      {},
-      {
-         "1": "0",
-         "12": "2"
-      },
-      {
-         "3": "0",
-         "14": "0"
-      }
-   ],
+   "trends": [],
    "data": [
       {
          "Year": "2016",

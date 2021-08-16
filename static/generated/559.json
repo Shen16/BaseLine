@@ -1,16 +1,33 @@
 {
-   "title": "Test",
+   "title": "Fiat car sales in the United Kingdom ( UK ) 2016 to 2019",
    "xAxis": "Month",
    "yAxis": "Units sold",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 42 categories on the x axis representing Month, and Units sold in each Month on the y axis.",
-      "Mar 17 is higher than any other categories with value 12930.0, followed by , and Mar 18. Down to category Aug 19 with the lowest value of 881.0. ",
-      " The highest value at Mar 17 is almost 14.68 times larger than the minimum value of Aug 19. ",
-      " The highest value at Mar 17 is almost 14.68 times larger than the minimum value of Aug 19. ",
-      " The difference between the max Month Mar 17 and min Month Aug 19 is 12049.0. "
+      "This is a bar chart representing Month in the x axis and Units sold in the y axis. ",
+      "The Units sold is highest at Month Mar 17 and lowest at Month Aug 19. ",
+      "The highest Month Mar 17 has 12049.0 more Units sold than the lowest Month Aug 19. "
+   ],
+   "min_summary": [
+      "This bar chart has 42 columns on the x axis representing Month, and Units sold in each Month on the y axis. ",
+      "The maximum Units sold 12930.0 is found at Month Mar 17 and the minimum is found at Aug 19 where Month is 881.0. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Month in the x axis and Units sold in the y axis. ",
+      "The Units sold is highest at Month Mar 17 and lowest at Month Aug 19. ",
+      "The highest Month Mar 17 has 12049.0 more Units sold than the lowest Month Aug 19. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Month in the x axis and Units sold in the y axis. ",
+      "Month Mar 17 has the highest Units sold and Aug 19 has the lowest Units sold. ",
+      "Second maximum Units sold is found at Month . ",
+      "The difference of Units sold between the highest and lowest Month is 12049.0. ",
+      "Units sold at Month Mar 17 is 12930.0 , second place is  at 1833.0, and thirdly is Mar 18 at 8524.0.",
+      "Overall Units sold has increased over the Months. ",
+      "Considered together, the average Units sold in all 42 Months is roughly 3268.43. ",
+      "Summing up the values of all Months, we get total 137274.0. "
    ],
    "trends": [
       {},

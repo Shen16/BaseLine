@@ -1,16 +1,32 @@
 {
-   "title": "Test",
+   "title": "Leading mobile messengers in the U.S. 2019 , by users",
    "xAxis": "Platform",
    "yAxis": "Number of monthly unique users in millions",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 12 categories on the x axis representing Platform, and Number of monthly unique users in millions in each Platform on the y axis.",
-      "Facebook Messenger is higher than any other categories with value 106.4, followed by , and WhatsApp. Down to category WeChat with the lowest value of 1.48. ",
-      " The highest value at Facebook Messenger is almost 71.89 times larger than the minimum value of WeChat. ",
-      " The highest value at Facebook Messenger is almost 71.89 times larger than the minimum value of WeChat. ",
-      " The difference between the max Platform Facebook Messenger and min Platform WeChat is 104.92. "
+      "This bar chart has 12 columns on the x axis representing Platform, and Number of monthly unique users in millions in each Platform on the y axis. ",
+      "The Number of monthly unique users in millions is appeared to be the highest at Platform Facebook Messenger and lowest at Platform WeChat. ",
+      "The highest Platform Facebook Messenger has 104.92 more Number of monthly unique users in millions than the lowest Platform WeChat. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing Platform in the x axis and Number of monthly unique users in millions in the y axis. ",
+      "The maximum Number of monthly unique users in millions 106.4 is found at Platform Facebook Messenger and the minimum is found at WeChat where Platform is 1.48. "
+   ],
+   "mid_summary": [
+      "This bar chart has 12 columns on the x axis representing Platform, and Number of monthly unique users in millions in each Platform on the y axis. ",
+      "The Number of monthly unique users in millions is appeared to be the highest at Platform Facebook Messenger and lowest at Platform WeChat. ",
+      "The highest Platform Facebook Messenger has 104.92 more Number of monthly unique users in millions than the lowest Platform WeChat. "
+   ],
+   "max_summary": [
+      "This bar chart has 12 columns on the x axis representing Platform, and Number of monthly unique users in millions in each Platform on the y axis. ",
+      "The Number of monthly unique users in millions is appeared to be the highest at Platform Facebook Messenger and lowest at Platform WeChat. ",
+      "Second maximum Number of monthly unique users in millions is found at Platform . ",
+      "The highest Platform Facebook Messenger has 104.92 more Number of monthly unique users in millions than the lowest Platform WeChat. ",
+      "Platform Facebook Messenger is higher than any other Platforms with value 106.4, followed by , and WhatsApp. Down to Platform WeChat with the lowest value 1.48. ",
+      "The Platform WeChat has 4.97 times less Number of monthly unique users in millions than average. ",
+      "Summing up the values of all Platforms, we get total 256.72. "
    ],
    "trends": [
       {},

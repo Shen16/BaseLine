@@ -1,16 +1,32 @@
 {
-   "title": "Test",
+   "title": "UFC : events with the highest live attendance as of May 2019",
    "xAxis": "Ufc Fights",
    "yAxis": "Attendance",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 18 categories on the x axis representing Ufc Fights, and Attendance in each Ufc Fights on the y axis.",
-      "Rousey vs Holm (UFC 193) is higher than any other categories with value 56214.0, followed by , and Werdum vs Miocic (UFC 198). Down to category Miocic vs Overeem (UFC 203) with the lowest value of 18785.0. ",
-      " The highest value at Rousey vs Holm (UFC 193) is almost 2.99 times larger than the minimum value of Miocic vs Overeem (UFC 203). ",
-      " The highest value at Rousey vs Holm (UFC 193) is almost 2.99 times larger than the minimum value of Miocic vs Overeem (UFC 203). ",
-      " The difference between the max Ufc Fights Rousey vs Holm (UFC 193) and min Ufc Fights Miocic vs Overeem (UFC 203) is 37429.0. "
+      "This bar chart has 18 columns on the x axis representing Ufc Fights, and Attendance in each Ufc Fights on the y axis. ",
+      "Ufc Fights Rousey vs Holm (UFC 193) has the highest Attendance and Miocic vs Overeem (UFC 203) has the lowest Attendance. ",
+      "The maximum Ufc Fights Rousey vs Holm (UFC 193) has got 2.99 times higher Attendance than the minimum Ufc Fights Miocic vs Overeem (UFC 203). "
+   ],
+   "min_summary": [
+      "This bar chart has 18 columns on the x axis representing Ufc Fights, and Attendance in each Ufc Fights on the y axis. ",
+      "Ufc Fights Rousey vs Holm (UFC 193) has the highest Attendance and Miocic vs Overeem (UFC 203) has the lowest Attendance. "
+   ],
+   "mid_summary": [
+      "This bar chart has 18 columns on the x axis representing Ufc Fights, and Attendance in each Ufc Fights on the y axis. ",
+      "Ufc Fights Rousey vs Holm (UFC 193) has the highest Attendance and Miocic vs Overeem (UFC 203) has the lowest Attendance. ",
+      "The maximum Ufc Fights Rousey vs Holm (UFC 193) has got 2.99 times higher Attendance than the minimum Ufc Fights Miocic vs Overeem (UFC 203). "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Attendance for 18 number of Ufc Fightss. ",
+      "The Attendance is highest at Ufc Fights Rousey vs Holm (UFC 193) and lowest at Ufc Fights Miocic vs Overeem (UFC 203). ",
+      "The second highest Attendance is appeared to be the Ufc Fights . ",
+      "The Attendance of Ufc Fights Rousey vs Holm (UFC 193) is 2.99% larger than the minimum value at Miocic vs Overeem (UFC 203). ",
+      "Ufc Fights Rousey vs Holm (UFC 193) is higher than any other Ufc Fightss with value 56214.0, followed by , and Werdum vs Miocic (UFC 198). Down to Ufc Fights Miocic vs Overeem (UFC 203) with the lowest value 18785.0. ",
+      "Similar Attendance is found in Ufc Fights Werdum vs Hunt (UFC 180), and Edgar vs Henderson (UFC 144). ",
+      "The average Attendance in all 18 Ufc Fightss is 26421.11. "
    ],
    "trends": [
       {},

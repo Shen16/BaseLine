@@ -1,18 +1,29 @@
 {
-   "title": "Test",
+   "title": "Number of U.S. Pinterest users 2017 , by gender",
    "xAxis": "Sex",
    "yAxis": "Number of users in millions",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 2 categories on the x axis representing Sex, and Number of users in millions in each Sex on the y axis.",
-      " The highest category is found at Female where Number of users in millions is 58.9.",
-      "",
-      " The lowest category is found at Male where Number of users in millions is 32.6.",
-      " The highest value at Female is almost 1.81 times larger than the minimum value of Male. ",
-      " The highest value at Female is almost 1.81 times larger than the minimum value of Male. ",
-      " The difference between the max Sex Female and min Sex Male is 26.299999999999997. "
+      "This is a bar chart representing Sex in the x axis and Number of users in millions in the y axis. ",
+      "The Number of users in millions is highest at Sex Female and lowest at Sex Male. ",
+      "The difference of Number of users in millions between the highest and lowest Sex is 26.3. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing Sex in the x axis and Number of users in millions in the y axis. ",
+      "The maximum Number of users in millions 58.9 is found at Sex Female and the minimum is found at Male where Sex is 32.6. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Sex in the x axis and Number of users in millions in the y axis. ",
+      "The Number of users in millions is highest at Sex Female and lowest at Sex Male. ",
+      "The difference of Number of users in millions between the highest and lowest Sex is 26.3. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Sex in the x axis and Number of users in millions in the y axis. ",
+      "The Number of users in millions is highest at Sex Female and lowest at Sex Male. ",
+      "Sex Female has 1.81 times more Number of users in millions than Sex Male which is has the lowest. ",
+      "Considered together, the average Number of users in millions in all 2 Sexs is roughly 45.75. "
    ],
    "trends": [
       {},

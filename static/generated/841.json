@@ -1,18 +1,32 @@
 {
-   "title": "Test",
+   "title": "Annual compensation earned by U.S. physicians by specialty 2019",
    "xAxis": "Occupation",
    "yAxis": "Annual compensation in thousand U.S. dollars",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 29 categories on the x axis representing Occupation, and Annual compensation in thousand U.S. dollars in each Occupation on the y axis.",
-      " The highest category is found at Orthopedics where Annual compensation in thousand U.S. dollars is 482.0.",
-      " Followed by 482.0 in .",
-      " The lowest category is found at Public health/preventive medicine where Annual compensation in thousand U.S. dollars is 209.0.",
-      " The highest value at Orthopedics is almost 2.31 times larger than the minimum value of Public health/preventive medicine. ",
-      " The highest value at Orthopedics is almost 2.31 times larger than the minimum value of Public health/preventive medicine. ",
-      " The difference between the max Occupation Orthopedics and min Occupation Public health/preventive medicine is 273.0. "
+      "This is a bar chart representing Occupation in the x axis and Annual compensation in thousand U.S. dollars in the y axis. ",
+      "The Annual compensation in thousand U.S. dollars is appeared to be the highest at Occupation Orthopedics and lowest at Occupation Public health/preventive medicine. ",
+      "There is a difference of 273.0 between the maximum Occupation Orthopedics and minimum Occupation Public health/preventive medicine. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Annual compensation in thousand U.S. dollars for 29 number of Occupations. ",
+      "Occupation Orthopedics has the highest Annual compensation in thousand U.S. dollars and Public health/preventive medicine has the lowest Annual compensation in thousand U.S. dollars. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Occupation in the x axis and Annual compensation in thousand U.S. dollars in the y axis. ",
+      "The Annual compensation in thousand U.S. dollars is appeared to be the highest at Occupation Orthopedics and lowest at Occupation Public health/preventive medicine. ",
+      "There is a difference of 273.0 between the maximum Occupation Orthopedics and minimum Occupation Public health/preventive medicine. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Occupation in the x axis and Annual compensation in thousand U.S. dollars in the y axis. ",
+      "The Annual compensation in thousand U.S. dollars is highest at Occupation Orthopedics and lowest at Occupation Public health/preventive medicine. ",
+      "Occupation  has the second highest value for Annual compensation in thousand U.S. dollars. ",
+      "The highest Occupation Orthopedics has 273.0 more Annual compensation in thousand U.S. dollars than the lowest Occupation Public health/preventive medicine. ",
+      "The Occupation Orthopedics has the highest Annual compensation in thousand U.S. dollars, followed by , and Otolaryngology. Down to the Occupation Public health/preventive medicine which is the lowest. ",
+      "Occupation Dermatology, and Radiology have the same Annual compensation in thousand U.S. dollars. ",
+      "The lowest value 209.0 at Public health/preventive medicine is almost 1.44 times smaller than the average value 333.97. "
    ],
    "trends": [
       {},

@@ -1,16 +1,31 @@
 {
-   "title": "Test",
+   "title": "Toys and games market : market segmentation by value 2009",
    "xAxis": "Name",
    "yAxis": "Market share",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 7 categories on the x axis representing Name, and Market share in each Name on the y axis.",
-      "Other is higher than any other categories with value 30.5, followed by , and Activity toys. Down to category Plush toys with the lowest value of 5.1. ",
-      " The highest value at Other is almost 5.98 times larger than the minimum value of Plush toys. ",
-      " The highest value at Other is almost 5.98 times larger than the minimum value of Plush toys. ",
-      " The difference between the max Name Other and min Name Plush toys is 25.4. "
+      "This bar chart has 7 columns on the x axis representing Name, and Market share in each Name on the y axis. ",
+      "The maximum Market share 30.5 is found at Name Other and the minimum is found at Plush toys where Name is 5.1. ",
+      "The difference of Market share between the highest and lowest Name is 25.4. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Market share for 7 number of Names. ",
+      "The Market share is appeared to be the highest at Name Other and lowest at Name Plush toys. "
+   ],
+   "mid_summary": [
+      "This bar chart has 7 columns on the x axis representing Name, and Market share in each Name on the y axis. ",
+      "The maximum Market share 30.5 is found at Name Other and the minimum is found at Plush toys where Name is 5.1. ",
+      "The difference of Market share between the highest and lowest Name is 25.4. "
+   ],
+   "max_summary": [
+      "This bar chart has 7 columns on the x axis representing Name, and Market share in each Name on the y axis. ",
+      "The Market share is appeared to be the highest at Name Other and lowest at Name Plush toys. ",
+      "The difference of Market share between the highest and lowest Name is 25.4. ",
+      "Name Other is higher than any other Names with value 30.5, followed by , and Activity toys. Down to Name Plush toys with the lowest value 5.1. ",
+      "The lowest value 5.1 at Plush toys is almost 2.13 times smaller than the average value 14.29. ",
+      "The Market share is 100.0 if we add up values of all Names. "
    ],
    "trends": [
       {},

@@ -1,16 +1,32 @@
 {
-   "title": "Test",
+   "title": "Pharmaceutical sector growth worldwide 2017 - 2030 , by country",
    "xAxis": "Country",
    "yAxis": "Growth in percentage",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 20 categories on the x axis representing Country, and Growth in percentage in each Country on the y axis.",
-      "India is higher than any other categories with value 232.0, followed by , and Indonesia. Down to category Japan with the lowest value of 117.0. ",
-      " The highest value at India is almost 1.98 times larger than the minimum value of Japan. ",
-      " The highest value at India is almost 1.98 times larger than the minimum value of Japan. ",
-      " The difference between the max Country India and min Country Japan is 115.0. "
+      "This bar chart has 20 columns on the x axis representing Country, and Growth in percentage in each Country on the y axis. ",
+      "The maximum Growth in percentage 232.0 is found at Country India and the minimum is found at Japan where Country is 117.0. ",
+      "There is a difference of 115.0 between the maximum Country India and minimum Country Japan. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing Country in the x axis and Growth in percentage in the y axis. ",
+      "Country India has the highest Growth in percentage and Japan has the lowest Growth in percentage. "
+   ],
+   "mid_summary": [
+      "This bar chart has 20 columns on the x axis representing Country, and Growth in percentage in each Country on the y axis. ",
+      "The maximum Growth in percentage 232.0 is found at Country India and the minimum is found at Japan where Country is 117.0. ",
+      "There is a difference of 115.0 between the maximum Country India and minimum Country Japan. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Country in the x axis and Growth in percentage in the y axis. ",
+      "The Growth in percentage is appeared to be the highest at Country India and lowest at Country Japan. ",
+      "Second maximum Growth in percentage is found at Country . ",
+      "The highest Country India has 115.0 more Growth in percentage than the lowest Country Japan. ",
+      "The Country India has the highest Growth in percentage, followed by , and Indonesia. Down to the Country Japan which is the lowest. ",
+      "Country Spain, and France share the same value 129.0. ",
+      "The highest value 232.0 at India is almost 1.52 times larger than the average value 152.55. "
    ],
    "trends": [
       {},

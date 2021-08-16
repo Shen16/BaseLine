@@ -1,18 +1,31 @@
 {
-   "title": "Test",
+   "title": "Top countries by pharmaceutical industry employment 2014",
    "xAxis": "Country",
    "yAxis": "Number of employees",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 20 categories on the x axis representing Country, and Number of employees in each Country on the y axis.",
-      " The highest category is found at China where Number of employees is 2301534.0.",
-      " Followed by 2301534.0 in .",
-      " The lowest category is found at Turkey where Number of employees is 35100.0.",
-      " The highest value at China is almost 65.57 times larger than the minimum value of Turkey. ",
-      " The highest value at China is almost 65.57 times larger than the minimum value of Turkey. ",
-      " The difference between the max Country China and min Country Turkey is 2266434.0. "
+      "This is a bar chart. It shows Number of employees for 20 number of Countrys. ",
+      "The maximum Number of employees 2301534.0 is found at Country China and the minimum is found at Turkey where Country is 35100.0. ",
+      "The difference of Number of employees between the highest and lowest Country is 2266434.0. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing Country in the x axis and Number of employees in the y axis. ",
+      "The Number of employees is highest at Country China and lowest at Country Turkey. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Number of employees for 20 number of Countrys. ",
+      "The maximum Number of employees 2301534.0 is found at Country China and the minimum is found at Turkey where Country is 35100.0. ",
+      "The difference of Number of employees between the highest and lowest Country is 2266434.0. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Country in the x axis and Number of employees in the y axis. ",
+      "The Number of employees is highest at Country China and lowest at Country Turkey. ",
+      "The second highest Number of employees is appeared to be the Country . ",
+      "The lowest value at Country Turkey is 65.57x times less than the highest value at China. ",
+      "The Country China has the highest Number of employees, followed by , and United States. Down to the Country Turkey which is the lowest. ",
+      "Considered together, the average Number of employees in all 20 Countrys is roughly 205369.8. "
    ],
    "trends": [
       {},

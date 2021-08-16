@@ -1,16 +1,34 @@
 {
-   "title": "Test",
+   "title": "Mercedes : market share of new car registrations in the EU 2019",
    "xAxis": "Month",
    "yAxis": "Market share",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 17 categories on the x axis representing Month, and Market share in each Month on the y axis.",
-      "Sep 18 is higher than any other categories with value 7.2, followed by , and Oct 18. Down to category Aug 18 with the lowest value of 4.6. ",
-      " The highest value at Sep 18 is almost 1.57 times larger than the minimum value of Aug 18. ",
-      " The highest value at Sep 18 is almost 1.57 times larger than the minimum value of Aug 18. ",
-      " The difference between the max Month Sep 18 and min Month Aug 18 is 2.6000000000000005. "
+      "This is a bar chart. It shows Market share for 17 number of Months. ",
+      "The Market share is appeared to be the highest at Month Sep 18 and lowest at Month Aug 18. ",
+      "The highest Month Sep 18 has 2.6 more Market share than the lowest Month Aug 18. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Market share for 17 number of Months. ",
+      "The Market share is appeared to be the highest at Month Sep 18 and lowest at Month Aug 18. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Market share for 17 number of Months. ",
+      "The Market share is appeared to be the highest at Month Sep 18 and lowest at Month Aug 18. ",
+      "The highest Month Sep 18 has 2.6 more Market share than the lowest Month Aug 18. "
+   ],
+   "max_summary": [
+      "This bar chart has 17 columns on the x axis representing Month, and Market share in each Month on the y axis. ",
+      "The maximum Market share 7.2 is found at Month Sep 18 and the minimum is found at Aug 18 where Month is 4.6. ",
+      "Month  has the second highest value for Market share. ",
+      "Month Sep 18 has 1.57 times more Market share than Month Aug 18 which is has the lowest. ",
+      "Month Sep 18 is higher than any other Months with value 7.2, followed by , and Oct 18. Down to Month Aug 18 with the lowest value 4.6. ",
+      "Overall Market share has declined over the Months. ",
+      "Month May 19, Feb 19, and Jan 19 share the same value 5.3. ",
+      "The Month Aug 18 tends to be 1.23 percent lower than average. ",
+      "Summing up the values of all Months, we get total 99.5. "
    ],
    "trends": [
       {},

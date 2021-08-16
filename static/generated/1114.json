@@ -1,16 +1,31 @@
 {
-   "title": "Test",
+   "title": "U.S. online shopping frequency 2014 to 2017",
    "xAxis": "Response",
    "yAxis": "Share of respondents",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 6 categories on the x axis representing Response, and Share of respondents in each Response on the y axis.",
-      "Once or more per month is higher than any other categories with value 32.0, followed by , and 7-12 times per year. Down to category Never with the lowest value of 4.0. ",
-      " The highest value at Once or more per month is almost 8.0 times larger than the minimum value of Never. ",
-      " The highest value at Once or more per month is almost 8.0 times larger than the minimum value of Never. ",
-      " The difference between the max Response Once or more per month and min Response Never is 28.0. "
+      "This bar chart has 6 columns on the x axis representing Response, and Share of respondents in each Response on the y axis. ",
+      "The Share of respondents is highest at Response Once or more per month and lowest at Response Never. ",
+      "There is a difference of 28.0 between the maximum Response Once or more per month and minimum Response Never. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing Response in the x axis and Share of respondents in the y axis. ",
+      "The Share of respondents is appeared to be the highest at Response Once or more per month and lowest at Response Never. "
+   ],
+   "mid_summary": [
+      "This bar chart has 6 columns on the x axis representing Response, and Share of respondents in each Response on the y axis. ",
+      "The Share of respondents is highest at Response Once or more per month and lowest at Response Never. ",
+      "There is a difference of 28.0 between the maximum Response Once or more per month and minimum Response Never. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Response in the x axis and Share of respondents in the y axis. ",
+      "The maximum Share of respondents 32.0 is found at Response Once or more per month and the minimum is found at Never where Response is 4.0. ",
+      "Second maximum Share of respondents is found at Response . ",
+      "The highest Response Once or more per month has 28.0 more Share of respondents than the lowest Response Never. ",
+      "The Response Once or more per month has the highest Share of respondents, followed by , and 7-12 times per year. Down to the Response Never which is the lowest. ",
+      "The Response Never has 1.92 times less Share of respondents than average. "
    ],
    "trends": [
       {},

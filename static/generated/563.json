@@ -1,16 +1,29 @@
 {
-   "title": "Test",
+   "title": "Distribution of global animal health care market by species 2018",
    "xAxis": "Animal Type",
    "yAxis": "Distribution of animal health care market volume",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 2 categories on the x axis representing Animal Type, and Distribution of animal health care market volume in each Animal Type on the y axis.",
-      "",
-      " The highest value at Food animal is almost 1.63 times larger than the minimum value of Companion animal. ",
-      " The highest value at Food animal is almost 1.63 times larger than the minimum value of Companion animal. ",
-      " The difference between the max Animal Type Food animal and min Animal Type Companion animal is 24.0. "
+      "This is a bar chart representing Animal Type in the x axis and Distribution of animal health care market volume in the y axis. ",
+      "The maximum Distribution of animal health care market volume 62.0 is found at Animal Type Food animal and the minimum is found at Companion animal where Animal Type is 38.0. ",
+      "There is a difference of 24.0 between the maximum Animal Type Food animal and minimum Animal Type Companion animal. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing Animal Type in the x axis and Distribution of animal health care market volume in the y axis. ",
+      "The maximum Distribution of animal health care market volume 62.0 is found at Animal Type Food animal and the minimum is found at Companion animal where Animal Type is 38.0. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Animal Type in the x axis and Distribution of animal health care market volume in the y axis. ",
+      "The maximum Distribution of animal health care market volume 62.0 is found at Animal Type Food animal and the minimum is found at Companion animal where Animal Type is 38.0. ",
+      "There is a difference of 24.0 between the maximum Animal Type Food animal and minimum Animal Type Companion animal. "
+   ],
+   "max_summary": [
+      "This bar chart has 2 columns on the x axis representing Animal Type, and Distribution of animal health care market volume in each Animal Type on the y axis. ",
+      "Animal Type Food animal has the highest Distribution of animal health care market volume and Companion animal has the lowest Distribution of animal health care market volume. ",
+      "The highest Animal Type Food animal has 24.0 more Distribution of animal health care market volume than the lowest Animal Type Companion animal. ",
+      "The average Distribution of animal health care market volume in all 2 Animal Types is 50.0. "
    ],
    "trends": [
       {},

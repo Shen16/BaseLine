@@ -1,18 +1,32 @@
 {
-   "title": "Test",
+   "title": "U.S. and state legislatures : Black elected officials 2012 , by state",
    "xAxis": "State",
    "yAxis": "Black elected officials",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 51 categories on the x axis representing State, and Black elected officials in each State on the y axis.",
-      " The highest category is found at Florida where Black elected officials is 56.0.",
-      " Followed by 56.0 in .",
-      " The lowest category is found at Texas where Black elected officials is 0.0.",
-      " The highest value at Florida is almost 5600000000000.0 times larger than the minimum value of Texas. ",
-      " The highest value at Florida is almost 5600000000000.0 times larger than the minimum value of Texas. ",
-      " The difference between the max State Florida and min State Texas is 56.0. "
+      "This is a bar chart. It shows Black elected officials for 51 number of States. ",
+      "The Black elected officials is highest at State Florida and lowest at State Texas. ",
+      "There is a difference of 56.0 between the maximum State Florida and minimum State Texas. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Black elected officials for 51 number of States. ",
+      "The maximum Black elected officials 56.0 is found at State Florida and the minimum is found at Texas where State is 0.0. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Black elected officials for 51 number of States. ",
+      "The Black elected officials is highest at State Florida and lowest at State Texas. ",
+      "There is a difference of 56.0 between the maximum State Florida and minimum State Texas. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Black elected officials for 51 number of States. ",
+      "State Florida has the highest Black elected officials and Texas has the lowest Black elected officials. ",
+      "The difference of Black elected officials between the highest and lowest State is 56.0. ",
+      "State Florida is higher than any other States with value 56.0, followed by , and Maine. Down to State Texas with the lowest value 0.0. ",
+      "State Texas, Georgia, North Carolina, Louisiana, South Carolina, Wyoming, and Missouri have a similar Black elected officials that is 0.0. ",
+      "Considered together, the average Black elected officials in all 51 States is roughly 12.35. ",
+      "The Black elected officials is 630.0 if we add up values of all States. "
    ],
    "trends": [
       {},

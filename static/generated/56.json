@@ -1,48 +1,42 @@
 {
-   "title": "Test",
+   "title": "Gross domestic product ( GDP ) in Mexico 2024",
    "xAxis": "Year",
    "yAxis": "Gross domestic product in billion U.S. dollars",
    "columnType": "two",
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Gross domestic product in billion U.S. dollars, with a total of 41 data points.",
-      " Overall Gross domestic product in billion U.S. dollars has increased over the Year.",
-      "Gross domestic product in billion U.S. dollars is roughly constant from 1984 to 1985, slightly decreasing from 1985 to 1986, rapidly increasing from 1986 to 1993, roughly constant from 1993 to 1994, slightly decreasing from 1994 to 1995, slightly increasing from 1995 to 1997, roughly constant from 1997 to 1998, slightly increasing from 1998 to 2000, roughly constant from 2000 to 2003, slightly increasing from 2003 to 2006, roughly constant from 2006 to 2008, roughly decreasing from 2008 to 2009, roughly increasing from 2009 to 2010, roughly constant from 2010 to 2014, roughly decreasing from 2014 to 2015, roughly increasing from 2015 to 2016, and lastly roughly constant from 2016 to 2024.",
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Gross domestic product in billion U.S. dollars. In total the number of data points it has is 41.",
+      " In general Gross domestic product in billion U.S. dollars has rose over the Year.",
+      "The chart in general has a zig-zag shape.",
+      "The line rapidly ",
       "The steepest decrease occurs in between the Year 2008 and 2009.",
-      "Max Gross domestic product in billion U.S. dollars about 1579.38 was recorded at Year 2024",
-      "Min Gross domestic product in billion U.S. dollars about 150.51 was recorded at Year 1986",
-      "#########################################################################",
-      "This line chart has an x axis representing Year and a y axis representing Gross domestic product in billion U.S. dollars, with a total of 41 data points. The chart has 5 significant trends.",
-      " The longest trend is moderately increasing which exists from 1986 to 1995.",
-      " Correspondingly, the next significant trend is extremely increasing which exists from 2016 to 2024.",
-      " Additionally, the next significant trend is extremely increasing which exists from 1995 to 2003.",
-      " Additionally, the next significant trend is slightly increasing which exists from 2009 to 2016.",
-      " Similarly, the next significant trend is moderately increasing which exists from 2003 to 2009."
+      "Maximum Gross domestic product in billion U.S. dollars, about 1579.38 was reported at Year 2024",
+      "The lowest Gross domestic product in billion U.S. dollars, of value 150.51 was reported at Year 1986"
    ],
-   "trends": [
-      {},
-      {
-         "1": "29",
-         "12": "38"
-      },
-      {
-         "3": "0",
-         "14": "8"
-      },
-      {
-         "3": "21",
-         "14": "29"
-      },
-      {
-         "3": "8",
-         "14": "15"
-      },
-      {
-         "3": "15",
-         "14": "21"
-      }
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Gross domestic product in billion U.S. dollars, containing a total of 41 data points.",
+      " Overall Gross domestic product in billion U.S. dollars has increased over the Year."
    ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Gross domestic product in billion U.S. dollars. In total the number of data points it has is 41.",
+      " Overall Gross domestic product in billion U.S. dollars has increased over the Year.",
+      "The most drastic decrease took place within the Year 2008 and 2009.",
+      "Maximum Gross domestic product in billion U.S. dollars, about 1579.38 was reported at Year 2024",
+      "The lowest Gross domestic product in billion U.S. dollars, of value 150.51 was reported at Year 1986"
+   ],
+   "max_summary": [
+      "The chart generally has many fluctuations.",
+      "The chart in general has a zig-zag shape.",
+      "This is a line chart with an x axis representing Year and a y axis representing Gross domestic product in billion U.S. dollars, containing a total of 41 data points.",
+      " Overall Gross domestic product in billion U.S. dollars has increased over the Year.",
+      "The chart in general has a zig-zag shape.",
+      "The steepest decrease occurs in between the Year 2008 and 2009.",
+      "Maximum Gross domestic product in billion U.S. dollars, about 1579.38 was reported at Year 2024",
+      "The lowest Gross domestic product in billion U.S. dollars, of value 150.51 was reported at Year 1986",
+      "The line drastically "
+   ],
+   "trends": [],
    "data": [
       {
          "Year": "2024",

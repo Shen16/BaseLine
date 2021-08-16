@@ -1,48 +1,42 @@
 {
-   "title": "Test",
+   "title": "Number of visitors to the World War II Memorial in the U.S. 2008 to 2019",
    "xAxis": "Year",
    "yAxis": "Number of visitors in millions",
    "columnType": "two",
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Number of visitors in millions, with a total of 12 data points.",
+      "This is a line chart with an x axis representing Year and a y axis representing Number of visitors in millions, containing a total of 12 data points.",
       " Overall Number of visitors in millions has increased over the Year.",
-      "Number of visitors in millions is roughly constant from 2008 to 2009, roughly decreasing from 2009 to 2010, rapidly increasing from 2010 to 2015, roughly constant from 2015 to 2017, and lastly roughly increasing from 2017 to 2019.",
+      "Number of visitors in millions is roughly constant from 2008 to 2009, roughly decreasing from 2009 to 2010, rapidly increasing from 2010 to 2015, roughly constant from 2015 to 2017, and finally roughly increasing from 2017 to 2019.",
+      "The line significantly ",
       "The steepest increase occurs in between the Year 2014 and 2015.",
-      "Max Number of visitors in millions about 5.07 was recorded at Year 2015",
-      "Min Number of visitors in millions about 3.75 was recorded at Year 2011",
-      "#########################################################################",
-      "This line chart has an x axis representing Year and a y axis representing Number of visitors in millions, with a total of 12 data points. The chart has 5 significant trends.",
-      " The longest trend is slightly decreasing which exists from 2008 to 2011.",
-      " Differently, the next significant trend is slightly decreasing which exists from 2017 to 2019.",
-      " Conversely, the next significant trend is slightly decreasing which exists from 2015 to 2017.",
-      " On the contrary, the next significant trend is extremely increasing which exists from 2013 to 2015.",
-      " Correspondingly, the next significant trend is moderately increasing which exists from 2011 to 2013."
+      "Maximum Number of visitors in millions, about 5.07 was reported at Year 2015",
+      "Minimum Number of visitors in millions about 3.75 was reached at Year 2011"
    ],
-   "trends": [
-      {},
-      {
-         "1": "8",
-         "12": "11"
-      },
-      {
-         "3": "0",
-         "14": "2"
-      },
-      {
-         "3": "2",
-         "14": "4"
-      },
-      {
-         "3": "4",
-         "14": "6"
-      },
-      {
-         "3": "6",
-         "14": "8"
-      }
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of visitors in millions. In total the number of data points it has is 12.",
+      " In general Number of visitors in millions has rose over the Year.",
+      "Number of visitors in millions is roughly constant from 2008 to 2009, roughly decreasing from 2009 to 2010, rapidly increasing from 2010 to 2015, roughly constant from 2015 to 2017, and finally roughly increasing from 2017 to 2019."
    ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of visitors in millions. In total the number of data points it has is 12.",
+      " In general Number of visitors in millions has rose over the Year.",
+      "Number of visitors in millions is roughly constant from 2008 to 2009, roughly decreasing from 2009 to 2010, rapidly increasing from 2010 to 2015, roughly constant from 2015 to 2017, and finally roughly increasing from 2017 to 2019.",
+      "The most drastic increase took place within the Year 2014 and 2015.",
+      "Maximum Number of visitors in millions, about 5.07 was reported at Year 2015",
+      "Minimum Number of visitors in millions about 3.75 was reached at Year 2011"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Number of visitors in millions, containing a total of 12 data points.",
+      " Overall Number of visitors in millions has increased over the Year.",
+      "Number of visitors in millions is roughly constant from 2008 to 2009, roughly decreasing from 2009 to 2010, rapidly increasing from 2010 to 2015, roughly constant from 2015 to 2017, and finally roughly increasing from 2017 to 2019.",
+      "The steepest increase occurs in between the Year 2014 and 2015.",
+      "Maximum Number of visitors in millions, about 5.07 was reported at Year 2015",
+      "Minimum Number of visitors in millions about 3.75 was reached at Year 2011",
+      "The line drastically "
+   ],
+   "trends": [],
    "data": [
       {
          "Year": "2019",

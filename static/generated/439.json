@@ -1,16 +1,31 @@
 {
-   "title": "Test",
+   "title": "U.S. consumer usage of mobile payments 2017",
    "xAxis": "Response",
    "yAxis": "Share of respondents",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 10 categories on the x axis representing Response, and Share of respondents in each Response on the y axis.",
-      "Made a mobile payment is higher than any other categories with value 64.0, followed by , and Purchase in-app or online. Down to category Sent money internationally with the lowest value of 2.0. ",
-      " The highest value at Made a mobile payment is almost 32.0 times larger than the minimum value of Sent money internationally. ",
-      " The highest value at Made a mobile payment is almost 32.0 times larger than the minimum value of Sent money internationally. ",
-      " The difference between the max Response Made a mobile payment and min Response Sent money internationally is 62.0. "
+      "This is a bar chart representing Response in the x axis and Share of respondents in the y axis. ",
+      "The Share of respondents is appeared to be the highest at Response Made a mobile payment and lowest at Response Sent money internationally. ",
+      "The difference of Share of respondents between the highest and lowest Response is 62.0. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing Response in the x axis and Share of respondents in the y axis. ",
+      "Response Made a mobile payment has the highest Share of respondents and Sent money internationally has the lowest Share of respondents. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Response in the x axis and Share of respondents in the y axis. ",
+      "The Share of respondents is appeared to be the highest at Response Made a mobile payment and lowest at Response Sent money internationally. ",
+      "The difference of Share of respondents between the highest and lowest Response is 62.0. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Response in the x axis and Share of respondents in the y axis. ",
+      "The Share of respondents is appeared to be the highest at Response Made a mobile payment and lowest at Response Sent money internationally. ",
+      "The Share of respondents of Response Sent money internationally is 32.0% smaller than the maximum value at Made a mobile payment. ",
+      "Response Made a mobile payment is higher than any other Responses with value 64.0, followed by , and Purchase in-app or online. Down to Response Sent money internationally with the lowest value 2.0. ",
+      "The Response Sent money internationally has 2.58 times less Share of respondents than average. ",
+      "The Share of respondents is 248.0 if we add up values of all Responses. "
    ],
    "trends": [
       {},

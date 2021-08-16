@@ -1,16 +1,32 @@
 {
-   "title": "Test",
+   "title": "Most preferred sources of entertainment in India in 2011",
    "xAxis": "Response",
    "yAxis": "Share of respondents",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 9 categories on the x axis representing Response, and Share of respondents in each Response on the y axis.",
-      "Using the internet for social or personal interests is higher than any other categories with value 51.0, followed by , and Reading newspapers (either printed or online). Down to category Listening to the radio (any format/device) with the lowest value of 12.0. ",
-      " The highest value at Using the internet for social or personal interests is almost 4.25 times larger than the minimum value of Listening to the radio (any format/device). ",
-      " The highest value at Using the internet for social or personal interests is almost 4.25 times larger than the minimum value of Listening to the radio (any format/device). ",
-      " The difference between the max Response Using the internet for social or personal interests and min Response Listening to the radio (any format/device) is 39.0. "
+      "This is a bar chart. It shows Share of respondents for 9 number of Responses. ",
+      "The maximum Share of respondents 51.0 is found at Response Using the internet for social or personal interests and the minimum is found at Listening to the radio (any format/device) where Response is 12.0. ",
+      "The difference of Share of respondents between the highest and lowest Response is 39.0. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Share of respondents for 9 number of Responses. ",
+      "The maximum Share of respondents 51.0 is found at Response Using the internet for social or personal interests and the minimum is found at Listening to the radio (any format/device) where Response is 12.0. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Share of respondents for 9 number of Responses. ",
+      "The maximum Share of respondents 51.0 is found at Response Using the internet for social or personal interests and the minimum is found at Listening to the radio (any format/device) where Response is 12.0. ",
+      "The difference of Share of respondents between the highest and lowest Response is 39.0. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Response in the x axis and Share of respondents in the y axis. ",
+      "The maximum Share of respondents 51.0 is found at Response Using the internet for social or personal interests and the minimum is found at Listening to the radio (any format/device) where Response is 12.0. ",
+      "Response  has the second highest value for Share of respondents. ",
+      "The maximum Response Using the internet for social or personal interests has got 4.25 times higher Share of respondents than the minimum Response Listening to the radio (any format/device). ",
+      "Response Using the internet for social or personal interests is higher than any other Responses with value 51.0, followed by , and Reading newspapers (either printed or online). Down to Response Listening to the radio (any format/device) with the lowest value 12.0. ",
+      "Response Using the internet for social or personal interests, and Watching television (any device) share the same value 51.0. ",
+      "The Response Using the internet for social or personal interests has 1.6 times more Share of respondents than average. "
    ],
    "trends": [
       {},

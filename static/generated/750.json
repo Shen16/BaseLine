@@ -1,16 +1,31 @@
 {
-   "title": "Test",
+   "title": "Music genres preferred by consumers in the U.S. 2018",
    "xAxis": "Response",
    "yAxis": "Share of respondents",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 15 categories on the x axis representing Response, and Share of respondents in each Response on the y axis.",
-      "Rock is higher than any other categories with value 56.8, followed by , and Country. Down to category Other with the lowest value of 9.3. ",
-      " The highest value at Rock is almost 6.11 times larger than the minimum value of Other. ",
-      " The highest value at Rock is almost 6.11 times larger than the minimum value of Other. ",
-      " The difference between the max Response Rock and min Response Other is 47.5. "
+      "This bar chart has 15 columns on the x axis representing Response, and Share of respondents in each Response on the y axis. ",
+      "Response Rock has the highest Share of respondents and Other has the lowest Share of respondents. ",
+      "The difference of Share of respondents between the highest and lowest Response is 47.5. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Share of respondents for 15 number of Responses. ",
+      "Response Rock has the highest Share of respondents and Other has the lowest Share of respondents. "
+   ],
+   "mid_summary": [
+      "This bar chart has 15 columns on the x axis representing Response, and Share of respondents in each Response on the y axis. ",
+      "Response Rock has the highest Share of respondents and Other has the lowest Share of respondents. ",
+      "The difference of Share of respondents between the highest and lowest Response is 47.5. "
+   ],
+   "max_summary": [
+      "This bar chart has 15 columns on the x axis representing Response, and Share of respondents in each Response on the y axis. ",
+      "The Share of respondents is highest at Response Rock and lowest at Response Other. ",
+      "The second highest Share of respondents is appeared to be the Response . ",
+      "The difference of Share of respondents between the highest and lowest Response is 47.5. ",
+      "Response Rock is higher than any other Responses with value 56.8, followed by , and Country. Down to Response Other with the lowest value 9.3. ",
+      "The Response Other tends to be 2.04 percent lower than average. "
    ],
    "trends": [
       {},

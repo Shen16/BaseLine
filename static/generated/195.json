@@ -1,16 +1,31 @@
 {
-   "title": "Test",
+   "title": "Most visited Smithsonian museums and institutions in the U.S. 2018",
    "xAxis": "Smithsonian Museums",
    "yAxis": "Number of visits in millions",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 19 categories on the x axis representing Smithsonian Museums, and Number of visits in millions in each Smithsonian Museums on the y axis.",
-      "National Air and Space Museum's Steven F. Udvar-Hazy Center is higher than any other categories with value 6.2, followed by , and National Museum of Natural History. Down to category S. Dillon Ripley Center with the lowest value of 0.13. ",
-      " The highest value at National Air and Space Museum's Steven F. Udvar-Hazy Center is almost 47.69 times larger than the minimum value of S. Dillon Ripley Center. ",
-      " The highest value at National Air and Space Museum's Steven F. Udvar-Hazy Center is almost 47.69 times larger than the minimum value of S. Dillon Ripley Center. ",
-      " The difference between the max Smithsonian Museums National Air and Space Museum's Steven F. Udvar-Hazy Center and min Smithsonian Museums S. Dillon Ripley Center is 6.07. "
+      "This is a bar chart representing Smithsonian Museums in the x axis and Number of visits in millions in the y axis. ",
+      "The Number of visits in millions is highest at Smithsonian Museums National Air and Space Museum's Steven F. Udvar-Hazy Center and lowest at Smithsonian Museums S. Dillon Ripley Center. ",
+      "There is a difference of 6.07 between the maximum Smithsonian Museums National Air and Space Museum's Steven F. Udvar-Hazy Center and minimum Smithsonian Museums S. Dillon Ripley Center. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Number of visits in millions for 19 number of Smithsonian Museumss. ",
+      "Smithsonian Museums National Air and Space Museum's Steven F. Udvar-Hazy Center has the highest Number of visits in millions and S. Dillon Ripley Center has the lowest Number of visits in millions. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Smithsonian Museums in the x axis and Number of visits in millions in the y axis. ",
+      "The Number of visits in millions is highest at Smithsonian Museums National Air and Space Museum's Steven F. Udvar-Hazy Center and lowest at Smithsonian Museums S. Dillon Ripley Center. ",
+      "There is a difference of 6.07 between the maximum Smithsonian Museums National Air and Space Museum's Steven F. Udvar-Hazy Center and minimum Smithsonian Museums S. Dillon Ripley Center. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Smithsonian Museums in the x axis and Number of visits in millions in the y axis. ",
+      "The Number of visits in millions is appeared to be the highest at Smithsonian Museums National Air and Space Museum's Steven F. Udvar-Hazy Center and lowest at Smithsonian Museums S. Dillon Ripley Center. ",
+      "The difference of Number of visits in millions between the highest and lowest Smithsonian Museums is 6.07. ",
+      "Number of visits in millions at Smithsonian Museums National Air and Space Museum's Steven F. Udvar-Hazy Center is 6.2 , second place is  at 6.2, and thirdly is National Museum of Natural History at 4.8.",
+      "Similar Number of visits in millions is found in Smithsonian Museums National Air and Space Museum's Steven F. Udvar-Hazy Center, and National Air and Space Museum. ",
+      "The average Number of visits in millions in all 19 Smithsonian Museumss is 1.9. "
    ],
    "trends": [
       {},

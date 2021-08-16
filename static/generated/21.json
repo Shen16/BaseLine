@@ -1,18 +1,33 @@
 {
-   "title": "Test",
+   "title": "Leading fast food restaurants in the United Kingdom 2015",
    "xAxis": "Response",
    "yAxis": "Share of respondents",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 19 categories on the x axis representing Response, and Share of respondents in each Response on the y axis.",
-      " The highest category is found at McDonald's where Share of respondents is 57.0.",
-      " Followed by 57.0 in .",
-      " The lowest category is found at Prefer not to say where Share of respondents is 1.0.",
-      " The highest value at McDonald's is almost 57.0 times larger than the minimum value of Prefer not to say. ",
-      " The highest value at McDonald's is almost 57.0 times larger than the minimum value of Prefer not to say. ",
-      " The difference between the max Response McDonald's and min Response Prefer not to say is 56.0. "
+      "This bar chart has 19 columns on the x axis representing Response, and Share of respondents in each Response on the y axis. ",
+      "The Share of respondents is highest at Response McDonald's and lowest at Response Prefer not to say. ",
+      "The Share of respondents of Response McDonald's is 57.0% larger than the minimum value at Prefer not to say. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing Response in the x axis and Share of respondents in the y axis. ",
+      "The Share of respondents is highest at Response McDonald's and lowest at Response Prefer not to say. "
+   ],
+   "mid_summary": [
+      "This bar chart has 19 columns on the x axis representing Response, and Share of respondents in each Response on the y axis. ",
+      "The Share of respondents is highest at Response McDonald's and lowest at Response Prefer not to say. ",
+      "The Share of respondents of Response McDonald's is 57.0% larger than the minimum value at Prefer not to say. "
+   ],
+   "max_summary": [
+      "This bar chart has 19 columns on the x axis representing Response, and Share of respondents in each Response on the y axis. ",
+      "The maximum Share of respondents 57.0 is found at Response McDonald's and the minimum is found at Prefer not to say where Response is 1.0. ",
+      "The second highest Share of respondents is appeared to be the Response . ",
+      "The highest Response McDonald's has 56.0 more Share of respondents than the lowest Response Prefer not to say. ",
+      "The Response McDonald's has the highest Share of respondents, followed by , and Subway. Down to the Response Prefer not to say which is the lowest. ",
+      "Response Wimpy, and Harry Ramsden's share the same value 6.0. ",
+      "The average Share of respondents in all 19 Responses is 18.11. ",
+      "The Share of respondents is 344.0 if we add up values of all Responses. "
    ],
    "trends": [
       {},

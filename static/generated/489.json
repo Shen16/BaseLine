@@ -1,43 +1,42 @@
 {
-   "title": "Test",
+   "title": "Car rental in the U.S. - total cars in service 2002 to 2012",
    "xAxis": "Year",
    "yAxis": "Cars in service in thousands",
    "columnType": "two",
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Cars in service in thousands, with a total of 11 data points.",
-      " Overall Cars in service in thousands has decreased over the Year.",
-      "Cars in service in thousands is slightly decreasing from 2012 to 2010, roughly constant from 2010 to 2009, slightly increasing from 2009 to 2008, slightly decreasing from 2008 to 2004, and lastly roughly constant from 2004 to 2002.",
-      "The steepest increase occurs in between the Year 2009 and 2008.",
-      "Max Cars in service in thousands about 1861.0 was recorded at Year 2007",
-      "Min Cars in service in thousands about 1617.0 was recorded at Year 2003",
-      "#########################################################################",
-      "This line chart has an x axis representing Year and a y axis representing Cars in service in thousands, with a total of 11 data points. The chart has 4 significant trends.",
-      " The longest trend is moderately decreasing which exists from 2007 to 2003.",
-      " But, the next significant trend is slightly increasing which exists from 2010 to 2007.",
-      " Additionally, the next significant trend is extremely decreasing which exists from 2012 to 2010.",
-      " On the other hand, the next significant trend is moderately increasing which exists from 2003 to 2002."
+      "This is a line chart with an x axis representing Year and a y axis representing Cars in service in thousands, containing a total of 11 data points.",
+      " Overall Cars in service in thousands has increased over the Year.",
+      "Cars in service in thousands is roughly constant from 2002 to 2003, slightly increasing from 2003 to 2007, slightly decreasing from 2007 to 2009, roughly constant from 2009 to 2010, and finally slightly increasing from 2010 to 2012.",
+      "The line significantly ",
+      "The steepest decrease occurs in between the Year 2008 and 2009.",
+      "Maximum Cars in service in thousands, about 1861.0 was reported at Year 2007",
+      "Minimum Cars in service in thousands about 1617.0 was reached at Year 2003"
    ],
-   "trends": [
-      {},
-      {
-         "1": "1",
-         "12": "5"
-      },
-      {
-         "3": "5",
-         "14": "8"
-      },
-      {
-         "3": "8",
-         "14": "10"
-      },
-      {
-         "3": "0",
-         "14": "1"
-      }
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Cars in service in thousands, containing a total of 11 data points.",
+      " In general Cars in service in thousands has rose over the Year.",
+      "Cars in service in thousands is roughly constant from 2002 to 2003, slightly increasing from 2003 to 2007, slightly decreasing from 2007 to 2009, roughly constant from 2009 to 2010, and finally slightly increasing from 2010 to 2012."
    ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Cars in service in thousands, containing a total of 11 data points.",
+      " Overall Cars in service in thousands has increased over the Year.",
+      "Cars in service in thousands is roughly constant from 2002 to 2003, slightly increasing from 2003 to 2007, slightly decreasing from 2007 to 2009, roughly constant from 2009 to 2010, and finally slightly increasing from 2010 to 2012.",
+      "The steepest decrease occurs in between the Year 2008 and 2009.",
+      "Maximum Cars in service in thousands, about 1861.0 was reported at Year 2007",
+      "Minimum Cars in service in thousands about 1617.0 was reached at Year 2003"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Cars in service in thousands, containing a total of 11 data points.",
+      " In general Cars in service in thousands has rose over the Year.",
+      "Cars in service in thousands is roughly constant from 2002 to 2003, slightly increasing from 2003 to 2007, slightly decreasing from 2007 to 2009, roughly constant from 2009 to 2010, and finally slightly increasing from 2010 to 2012.",
+      "The most drastic decrease took place within the Year 2008 and 2009.",
+      "Maximum Cars in service in thousands, about 1861.0 was reported at Year 2007",
+      "Minimum Cars in service in thousands about 1617.0 was reached at Year 2003",
+      "The line rapidly "
+   ],
+   "trends": [],
    "data": [
       {
          "Year": "2002",

@@ -1,5 +1,5 @@
 {
-   "title": "Test",
+   "title": "U.S. price difference between legal and illegal cannabis as of January 2016 , by state",
    "labels": [
       "State",
       "Dispensary price",
@@ -9,11 +9,30 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart has 6 categories of State on the x axis representing 2 groups: Dispensary price, and Street price.",
-      " Averaging these 2 groups, the highest category is found for State Michigan with a mean value of 287.5.",
-      " The lowest category is observed at Oregon that has a mean value of 202.5",
-      " showing a difference of 34.7% with the maximum value.",
-      " In case of Michigan, Dispensary price shows more dominance than any other State with a value 301.0 and it has the lowest value 214.0 in Oregon. "
+      "This grouped bar chart shows Average price per ounce in USD on the Y-axis for 6 different States for 2 groups Dispensary price, and Street price that are presented on the X-axis. ",
+      " State Michigan had the maximum Average price per ounce in USD among all 2 groups, and it was for Dispensary price. The minimum Average price per ounce in USD was observed in State Oregon for Street price. ",
+      " Among all the States, Dispensary price had the highest Average price per ounce in USD 301.0 in State Michigan and lowest value 214.0 in State Oregon. ",
+      " The maximum Average price per ounce in USD for Dispensary price that was found in State Michigan was 1.41 times larger than the minimum Average price per ounce in USD observed in State Oregon. "
+   ],
+   "xAxis": "State",
+   "yAxis": "Average price per ounce in USD",
+   "min_summary": [
+      "This grouped bar chart represents 6 different States on X-axis for 2 groups Dispensary price, and Street price. On the Y-axis it shows their corresponding Average price per ounce in USD. ",
+      " State Michigan had the maximum Average price per ounce in USD among all 2 groups, and it was for Dispensary price. The minimum Average price per ounce in USD was observed in State Oregon for Street price. "
+   ],
+   "mid_summary": [
+      "This grouped bar chart shows Average price per ounce in USD on the Y-axis for 6 different States for 2 groups Dispensary price, and Street price that are presented on the X-axis. ",
+      " State Michigan had the maximum Average price per ounce in USD among all 2 groups, and it was for Dispensary price. The minimum Average price per ounce in USD was observed in State Oregon for Street price. ",
+      " Among all the States, Dispensary price had the highest Average price per ounce in USD 301.0 in State Michigan and lowest value 214.0 in State Oregon. ",
+      " The maximum Average price per ounce in USD for Dispensary price that was found in State Michigan was 1.41 times larger than the minimum Average price per ounce in USD observed in State Oregon. "
+   ],
+   "max_summary": [
+      "This grouped bar chart shows Average price per ounce in USD on the Y-axis for 6 different States for 2 groups Dispensary price, and Street price that are presented on the X-axis. ",
+      " In State Michigan, Dispensary price had the highest Average price per ounce in USD 301.0 among the 2 groups and in Oregon, Street price had the lowest Average price per ounce in USD 191.0. ",
+      " In State Michigan, Dispensary price had the highest Average price per ounce in USD among all 6 States and it has the lowest Average price per ounce in USD in State Oregon. ",
+      "State Michigan and Oregon had the biggest gap of 87.0 between the highest and lowest Average price per ounce in USD found for Dispensary price. ",
+      " Among all 2 groups, Dispensary price had the gap of 87.0 between the maximum and minimum Average price per ounce in USD observed in State Michigan and Oregon respectively. ",
+      "Averaging all 2 groups Dispensary price, and Street price, the State Michigan is the maximum Average price per ounce in USD and Oregon is the minimum Average price per ounce in USD. "
    ],
    "trends": [
       {},

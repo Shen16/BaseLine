@@ -1,58 +1,42 @@
 {
-   "title": "Test",
+   "title": "Year-to-year percentage of change in holiday retail sales in the U.S. 2000 to 2019",
    "xAxis": "Year",
    "yAxis": "Percentage change in retail sales",
    "columnType": "two",
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Percentage change in retail sales, with a total of 20 data points.",
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Percentage change in retail sales. In total the number of data points it has is 20.",
       " Overall Percentage change in retail sales has increased over the Year.",
-      "Percentage change in retail sales is roughly constant from 2000 to 2009, gradually increasing from 2009 to 2010, and lastly roughly constant from 2010 to 2019.",
+      "Percentage change in retail sales is roughly constant from 2000 to 2009, gradually increasing from 2009 to 2010, and finally roughly constant from 2010 to 2019.",
+      "The line significantly increased by 3.0 from Year 2002 to 2003,remained stable by 2.0 from Year 2007 to 2008,remained stable by 4.5 from Year 2008 to 2009,increased by 5.0 from Year 2009 to 2010,remained stable by 2.2 from Year 2013 to 2014, and lastly, remained stable by 1.9 from Year 2018 to 2019.",
       "The steepest increase occurs in between the Year 2009 and 2010.",
-      "Max Percentage change in retail sales about 6.8 was recorded at Year 2004",
-      "Min Percentage change in retail sales about 0.2 was recorded at Year 2009",
-      "#########################################################################",
-      "This line chart has an x axis representing Year and a y axis representing Percentage change in retail sales, with a total of 20 data points. The chart has 7 significant trends.",
-      " The longest trend is slightly decreasing which exists from 2004 to 2008.",
-      " Conversely, the next significant trend is extremely increasing which exists from 2000 to 2004.",
-      " In a similar manner, the next significant trend is moderately increasing which exists from 2012 to 2015.",
-      " In a similar manner, the next significant trend is moderately decreasing which exists from 2017 to 2019.",
-      " Contrarily, the next significant trend is extremely increasing which exists from 2015 to 2017.",
-      " In a similar manner, the next significant trend is slightly decreasing which exists from 2010 to 2012.",
-      " But, the next significant trend is moderately decreasing which exists from 2008 to 2010."
+      "The highest Percentage change in retail sales, of value 6.8 was reached at Year 2004",
+      "Minimum Percentage change in retail sales about 0.2 was reached at Year 2009"
    ],
-   "trends": [
-      {},
-      {
-         "1": "11",
-         "12": "15"
-      },
-      {
-         "3": "15",
-         "14": "19"
-      },
-      {
-         "3": "4",
-         "14": "7"
-      },
-      {
-         "3": "0",
-         "14": "2"
-      },
-      {
-         "3": "2",
-         "14": "4"
-      },
-      {
-         "3": "7",
-         "14": "9"
-      },
-      {
-         "3": "9",
-         "14": "11"
-      }
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Percentage change in retail sales. In total the number of data points it has is 20.",
+      " Overall Percentage change in retail sales has increased over the Year.",
+      "Percentage change in retail sales is roughly constant from 2000 to 2009, gradually increasing from 2009 to 2010, and finally roughly constant from 2010 to 2019."
    ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Percentage change in retail sales. In total the number of data points it has is 20.",
+      " In general Percentage change in retail sales has rose over the Year.",
+      "Percentage change in retail sales is roughly constant from 2000 to 2009, gradually increasing from 2009 to 2010, and finally roughly constant from 2010 to 2019.",
+      "The most drastic increase took place within the Year 2009 and 2010.",
+      "The highest Percentage change in retail sales, of value 6.8 was reached at Year 2004",
+      "Minimum Percentage change in retail sales about 0.2 was reached at Year 2009"
+   ],
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Percentage change in retail sales. In total the number of data points it has is 20.",
+      " Overall Percentage change in retail sales has increased over the Year.",
+      "Percentage change in retail sales is roughly constant from 2000 to 2009, gradually increasing from 2009 to 2010, and finally roughly constant from 2010 to 2019.",
+      "The steepest increase occurs in between the Year 2009 and 2010.",
+      "The highest Percentage change in retail sales, of value 6.8 was reached at Year 2004",
+      "Minimum Percentage change in retail sales about 0.2 was reached at Year 2009",
+      "The line significantly increased by 3.0 from Year 2002 to 2003,remained stable by 2.0 from Year 2007 to 2008,remained stable by 4.5 from Year 2008 to 2009,increased by 5.0 from Year 2009 to 2010,remained stable by 2.2 from Year 2013 to 2014, and lastly, remained stable by 1.9 from Year 2018 to 2019."
+   ],
+   "trends": [],
    "data": [
       {
          "Year": "2019",

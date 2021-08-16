@@ -1,33 +1,42 @@
 {
-   "title": "Test",
+   "title": "Gross domestic product ( GDP ) in Vietnam 2024 ",
    "xAxis": "Year",
    "yAxis": "Gross domestic product in billion U.S. dollars",
    "columnType": "two",
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Gross domestic product in billion U.S. dollars, with a total of 41 data points.",
+      "This is a line chart with an x axis representing Year and a y axis representing Gross domestic product in billion U.S. dollars, containing a total of 41 data points.",
       " Overall Gross domestic product in billion U.S. dollars has increased over the Year.",
-      "Gross domestic product in billion U.S. dollars is slightly decreasing from 1984 to 1985, slightly increasing from 1985 to 1987, slightly decreasing from 1987 to 1989, roughly constant from 1989 to 1990, gradually increasing from 1990 to 1995, roughly constant from 1995 to 2002, slightly increasing from 2002 to 2008, roughly constant from 2008 to 2010, roughly increasing from 2010 to 2011, and lastly roughly constant from 2011 to 2024.",
+      "The chart generally has many fluctuations.",
+      "The line drastically increased by 2.3 times from Year 1985 to 1986, and lastly, decreased by 3.7 times from Year 1988 to 1989.",
+      "The most drastic decrease took place within the Year 1984 and 1985.",
+      "Maximum Gross domestic product in billion U.S. dollars, about 394.89 was reported at Year 2024",
+      "Minimum Gross domestic product in billion U.S. dollars about 6.29 was reached at Year 1989"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Gross domestic product in billion U.S. dollars. In total the number of data points it has is 41.",
+      " Overall Gross domestic product in billion U.S. dollars has increased over the Year."
+   ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Gross domestic product in billion U.S. dollars, containing a total of 41 data points.",
+      " Overall Gross domestic product in billion U.S. dollars has increased over the Year.",
       "The steepest decrease occurs in between the Year 1984 and 1985.",
-      "Max Gross domestic product in billion U.S. dollars about 394.89 was recorded at Year 2024",
-      "Min Gross domestic product in billion U.S. dollars about 6.29 was recorded at Year 1989",
-      "#########################################################################",
-      "This line chart has an x axis representing Year and a y axis representing Gross domestic product in billion U.S. dollars, with a total of 41 data points. The chart has 2 significant trends.",
-      " The longest trend is extremely increasing which exists from 1989 to 2024.",
-      " Also, the next significant trend is slightly increasing which exists from 1984 to 1989."
+      "Maximum Gross domestic product in billion U.S. dollars, about 394.89 was reported at Year 2024",
+      "Minimum Gross domestic product in billion U.S. dollars about 6.29 was reached at Year 1989"
    ],
-   "trends": [
-      {},
-      {
-         "1": "0",
-         "12": "35"
-      },
-      {
-         "3": "35",
-         "14": "40"
-      }
+   "max_summary": [
+      "The chart in general has a zig-zag shape.",
+      "The chart generally has many fluctuations.",
+      "This is a line chart with an x axis representing Year and a y axis representing Gross domestic product in billion U.S. dollars, containing a total of 41 data points.",
+      " Overall Gross domestic product in billion U.S. dollars has increased over the Year.",
+      "The chart in general has a zig-zag shape.",
+      "The steepest decrease occurs in between the Year 1984 and 1985.",
+      "Maximum Gross domestic product in billion U.S. dollars, about 394.89 was reported at Year 2024",
+      "Minimum Gross domestic product in billion U.S. dollars about 6.29 was reached at Year 1989",
+      "The line drastically increased by 2.3 times from Year 1985 to 1986, and lastly, decreased by 3.7 times from Year 1988 to 1989."
    ],
+   "trends": [],
    "data": [
       {
          "Year": "2024",

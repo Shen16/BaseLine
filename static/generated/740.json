@@ -1,16 +1,32 @@
 {
-   "title": "Test",
+   "title": "Leading baby wipes vendors in the U.S. 2016 , based on sales",
    "xAxis": "Company",
    "yAxis": "Million U.S. dollars",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 10 categories on the x axis representing Company, and Million U.S. dollars in each Company on the y axis.",
-      "Private label is higher than any other categories with value 494.4, followed by , and Procter & Gamble. Down to category Irish Breeze with the lowest value of 4.4. ",
-      " The highest value at Private label is almost 112.36 times larger than the minimum value of Irish Breeze. ",
-      " The highest value at Private label is almost 112.36 times larger than the minimum value of Irish Breeze. ",
-      " The difference between the max Company Private label and min Company Irish Breeze is 490.0. "
+      "This bar chart has 10 columns on the x axis representing Company, and Million U.S. dollars in each Company on the y axis. ",
+      "Company Private label has the highest Million U.S. dollars and Irish Breeze has the lowest Million U.S. dollars. ",
+      "Company Irish Breeze has 112.36 times less Million U.S. dollars than Company Private label which is the highest. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing Company in the x axis and Million U.S. dollars in the y axis. ",
+      "Company Private label has the highest Million U.S. dollars and Irish Breeze has the lowest Million U.S. dollars. "
+   ],
+   "mid_summary": [
+      "This bar chart has 10 columns on the x axis representing Company, and Million U.S. dollars in each Company on the y axis. ",
+      "Company Private label has the highest Million U.S. dollars and Irish Breeze has the lowest Million U.S. dollars. ",
+      "Company Irish Breeze has 112.36 times less Million U.S. dollars than Company Private label which is the highest. "
+   ],
+   "max_summary": [
+      "This bar chart has 10 columns on the x axis representing Company, and Million U.S. dollars in each Company on the y axis. ",
+      "The maximum Million U.S. dollars 494.4 is found at Company Private label and the minimum is found at Irish Breeze where Company is 4.4. ",
+      "The second highest Million U.S. dollars is appeared to be the Company . ",
+      "There is a difference of 490.0 between the maximum Company Private label and minimum Company Irish Breeze. ",
+      "Million U.S. dollars at Company Private label is 494.4 , second place is  at 494.4, and thirdly is Procter & Gamble at 276.6.",
+      "The Company Irish Breeze has 4.0 times less Million U.S. dollars than average. ",
+      "The Million U.S. dollars is 1235.0 if we add up values of all Companys. "
    ],
    "trends": [
       {},

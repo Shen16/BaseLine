@@ -1,58 +1,42 @@
 {
-   "title": "Test",
+   "title": "Annual Hang Seng index performance 1986 to 2019",
    "xAxis": "Year",
    "yAxis": "Index points",
    "columnType": "two",
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Index points, with a total of 34 data points.",
-      " Overall Index points has increased over the Year.",
-      "Index points is roughly constant from '86 to '90, rapidly increasing from '90 to '93, slightly decreasing from '93 to '94, slightly increasing from '94 to '96, roughly constant from '96 to '98, slightly increasing from '98 to '99, roughly constant from '99 to '00, roughly decreasing from '00 to '01, roughly increasing from '01 to '03, roughly constant from '03 to '05, slightly increasing from '05 to '07, slightly decreasing from '07 to '08, slightly increasing from '08 to '09, roughly constant from '09 to '10, roughly increasing from '10 to '11, roughly constant from '11 to '16, slightly increasing from '16 to '17, and lastly roughly constant from '17 to '19.",
-      "The steepest decrease occurs in between the Year '07 and '08.",
-      "Max Index points about 29919.15 was recorded at Year '17",
-      "Min Index points about 2302.75 was recorded at Year '87",
-      "#########################################################################",
-      "This line chart has an x axis representing Year and a y axis representing Index points, with a total of 34 data points. The chart has 7 significant trends.",
-      " The longest trend is moderately increasing which exists from '86 to '94.",
-      " Similarly, the next significant trend is extremely increasing which exists from '02 to '07.",
-      " In a similar manner, the next significant trend is moderately increasing which exists from '15 to '19.",
-      " Additionally, the next significant trend is moderately increasing which exists from '11 to '15.",
-      " Additionally, the next significant trend is slightly decreasing which exists from '07 to '11.",
-      " Conversely, the next significant trend is slightly increasing which exists from '98 to '02.",
-      " Additionally, the next significant trend is moderately increasing which exists from '94 to '98."
+      "This is a line chart with an x axis representing Year and a y axis representing Index points, containing a total of 34 data points.",
+      " In general Index points has rose over the Year.",
+      "The chart generally has many fluctuations.",
+      "The line rapidly decreased by 90.89% from Year '19 to '86, and lastly, increased by 115.67% from Year '92 to '93.",
+      "The steepest decrease occurs in between the Year '19 and '86.",
+      "The highest Index points, of value 29919.15 was reached at Year '17",
+      "Minimum Index points about 2302.75 was reached at Year '87"
    ],
-   "trends": [
-      {},
-      {
-         "1": "25",
-         "12": "33"
-      },
-      {
-         "3": "12",
-         "14": "17"
-      },
-      {
-         "3": "0",
-         "14": "4"
-      },
-      {
-         "3": "4",
-         "14": "8"
-      },
-      {
-         "3": "8",
-         "14": "12"
-      },
-      {
-         "3": "17",
-         "14": "21"
-      },
-      {
-         "3": "21",
-         "14": "25"
-      }
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Index points, containing a total of 34 data points.",
+      " In general Index points has rose over the Year."
    ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Index points, containing a total of 34 data points.",
+      " In general Index points has rose over the Year.",
+      "The steepest decrease occurs in between the Year '19 and '86.",
+      "The highest Index points, of value 29919.15 was reached at Year '17",
+      "Minimum Index points about 2302.75 was reached at Year '87"
+   ],
+   "max_summary": [
+      "The chart in general has a zig-zag shape.",
+      "The chart in general has a zig-zag shape.",
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Index points. In total the number of data points it has is 34.",
+      " In general Index points has rose over the Year.",
+      "The chart in general has a zig-zag shape.",
+      "The most drastic decrease took place within the Year '19 and '86.",
+      "The highest Index points, of value 29919.15 was reached at Year '17",
+      "Minimum Index points about 2302.75 was reached at Year '87",
+      "The line drastically decreased by 11.0 times from Year '19 to '86, and lastly, increased by 2.2 times from Year '92 to '93."
+   ],
+   "trends": [],
    "data": [
       {
          "Year": "'19",

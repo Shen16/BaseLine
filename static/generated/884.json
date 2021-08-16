@@ -1,28 +1,42 @@
 {
-   "title": "Test",
+   "title": "South Korea : e-commerce sales volume 2009 to 2018",
    "xAxis": "Year",
    "yAxis": "E-commerce sales volume in trillion Korean won",
    "columnType": "two",
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing E-commerce sales volume in trillion Korean won, with a total of 10 data points.",
+      "This is a line chart with an x axis representing Year and a y axis representing E-commerce sales volume in trillion Korean won, containing a total of 10 data points.",
       " Overall E-commerce sales volume in trillion Korean won has increased over the Year.",
       "E-commerce sales volume in trillion Korean won is slightly increasing from 2009 to 2018.",
+      "The line significantly ",
       "The steepest increase occurs in between the Year 2016 and 2017.",
-      "Max E-commerce sales volume in trillion Korean won about 113.73 was recorded at Year 2018",
-      "Min E-commerce sales volume in trillion Korean won about 20.64 was recorded at Year 2009",
-      "#########################################################################",
-      "This line chart has an x axis representing Year and a y axis representing E-commerce sales volume in trillion Korean won with a total of 10 data points. The chart has one significant trend.",
-      " This trend is increasing which exists from 2018 to 2009."
+      "Maximum E-commerce sales volume in trillion Korean won, about 113.73 was reported at Year 2018",
+      "The lowest E-commerce sales volume in trillion Korean won, of value 20.64 was reported at Year 2009"
    ],
-   "trends": [
-      {},
-      {
-         "3": "0",
-         "14": "9"
-      }
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing E-commerce sales volume in trillion Korean won, containing a total of 10 data points.",
+      " In general E-commerce sales volume in trillion Korean won has rose over the Year.",
+      "E-commerce sales volume in trillion Korean won is slightly increasing from 2009 to 2018."
    ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing E-commerce sales volume in trillion Korean won, containing a total of 10 data points.",
+      " Overall E-commerce sales volume in trillion Korean won has increased over the Year.",
+      "E-commerce sales volume in trillion Korean won is slightly increasing from 2009 to 2018.",
+      "The most drastic increase took place within the Year 2016 and 2017.",
+      "Maximum E-commerce sales volume in trillion Korean won, about 113.73 was reported at Year 2018",
+      "The lowest E-commerce sales volume in trillion Korean won, of value 20.64 was reported at Year 2009"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing E-commerce sales volume in trillion Korean won, containing a total of 10 data points.",
+      " In general E-commerce sales volume in trillion Korean won has rose over the Year.",
+      "E-commerce sales volume in trillion Korean won is slightly increasing from 2009 to 2018.",
+      "The most drastic increase took place within the Year 2016 and 2017.",
+      "Maximum E-commerce sales volume in trillion Korean won, about 113.73 was reported at Year 2018",
+      "The lowest E-commerce sales volume in trillion Korean won, of value 20.64 was reported at Year 2009",
+      "The line rapidly "
+   ],
+   "trends": [],
    "data": [
       {
          "Year": "2018",

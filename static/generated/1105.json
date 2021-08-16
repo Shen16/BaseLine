@@ -1,48 +1,38 @@
 {
-   "title": "Test",
+   "title": "Unemployment rate in Fiji 2019",
    "xAxis": "Year",
    "yAxis": "Unemployment rate",
    "columnType": "two",
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Unemployment rate, with a total of 21 data points.",
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Unemployment rate. In total the number of data points it has is 21.",
+      " In general Unemployment rate has stayed the same over the Year.",
+      "The line rapidly ",
+      "The most drastic increase took place within the Year 2008 and 2009.",
+      "Maximum Unemployment rate, about 4.55 was reported at Year 2015",
+      "Minimum Unemployment rate about 3.62 was reached at Year 2008"
+   ],
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Unemployment rate, containing a total of 21 data points.",
+      " In general Unemployment rate has stayed the same over the Year."
+   ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Unemployment rate. In total the number of data points it has is 21.",
       " Overall Unemployment rate has increased over the Year.",
-      "Unemployment rate is roughly constant from 1999 to 2004, slightly decreasing from 2004 to 2005, roughly constant from 2005 to 2006, slightly decreasing from 2006 to 2008, rapidly increasing from 2008 to 2010, roughly constant from 2010 to 2011, roughly decreasing from 2011 to 2013, slightly increasing from 2013 to 2014, roughly constant from 2014 to 2015, gradually decreasing from 2015 to 2017, and lastly roughly constant from 2017 to 2019.",
-      "The steepest increase occurs in between the Year 2008 and 2009.",
-      "Max Unemployment rate about 4.55 was recorded at Year 2015",
-      "Min Unemployment rate about 3.62 was recorded at Year 2008",
-      "#########################################################################",
-      "This line chart has an x axis representing Year and a y axis representing Unemployment rate, with a total of 21 data points. The chart has 5 significant trends.",
-      " The longest trend is slightly decreasing which exists from 2002 to 2008.",
-      " On the contrary, the next significant trend is slightly decreasing which exists from 2015 to 2019.",
-      " Differently, the next significant trend is extremely increasing which exists from 2008 to 2012.",
-      " Likewise, the next significant trend is moderately decreasing which exists from 2012 to 2015.",
-      " On the other hand, the next significant trend is moderately constant which exists from 1999 to 2002."
+      "The most drastic increase took place within the Year 2008 and 2009.",
+      "Maximum Unemployment rate, about 4.55 was reported at Year 2015",
+      "Minimum Unemployment rate about 3.62 was reached at Year 2008"
    ],
-   "trends": [
-      {},
-      {
-         "1": "11",
-         "12": "17"
-      },
-      {
-         "3": "0",
-         "14": "4"
-      },
-      {
-         "3": "7",
-         "14": "11"
-      },
-      {
-         "3": "4",
-         "14": "7"
-      },
-      {
-         "3": "17",
-         "14": "20"
-      }
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Unemployment rate, containing a total of 21 data points.",
+      " In general Unemployment rate has stayed the same over the Year.",
+      "The most drastic increase took place within the Year 2008 and 2009.",
+      "Maximum Unemployment rate, about 4.55 was reported at Year 2015",
+      "Minimum Unemployment rate about 3.62 was reached at Year 2008",
+      "The line drastically "
    ],
+   "trends": [],
    "data": [
       {
          "Year": "2019",

@@ -1,15 +1,32 @@
 {
-   "title": "Test",
+   "title": "Hispanic high school graduation rate , by state U.S. 2017",
    "xAxis": "State",
    "yAxis": "Graduation rate of the class of 2016",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 52 categories on the x axis representing State, and Graduation rate of the class of 2016 in each State on the y axis.",
-      " The highest category is found at West Virginia where Graduation rate of the class of 2016 is 92.0.",
-      " Followed by 92.0 in .",
-      " The lowest category is found at Minnesota where Graduation rate of the class of 2016 is 66.3."
+      "This is a bar chart representing State in the x axis and Graduation rate of the class of 2016 in the y axis. ",
+      "The Graduation rate of the class of 2016 is highest at State West Virginia and lowest at State Minnesota. ",
+      "State West Virginia has 1.39 times more Graduation rate of the class of 2016 than State Minnesota which is has the lowest. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing State in the x axis and Graduation rate of the class of 2016 in the y axis. ",
+      "The Graduation rate of the class of 2016 is appeared to be the highest at State West Virginia and lowest at State Minnesota. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing State in the x axis and Graduation rate of the class of 2016 in the y axis. ",
+      "The Graduation rate of the class of 2016 is highest at State West Virginia and lowest at State Minnesota. ",
+      "State West Virginia has 1.39 times more Graduation rate of the class of 2016 than State Minnesota which is has the lowest. "
+   ],
+   "max_summary": [
+      "This bar chart has 52 columns on the x axis representing State, and Graduation rate of the class of 2016 in each State on the y axis. ",
+      "The Graduation rate of the class of 2016 is appeared to be the highest at State West Virginia and lowest at State Minnesota. ",
+      "The second highest Graduation rate of the class of 2016 is appeared to be the State . ",
+      "The difference of Graduation rate of the class of 2016 between the highest and lowest State is 25.7. ",
+      "Graduation rate of the class of 2016 at State West Virginia is 92.0 , second place is  at 92.0, and thirdly is Maine at 89.0.",
+      "State Wyoming, U.S. average, Montana, and Hawaii have a similar Graduation rate of the class of 2016 that is 80.0. ",
+      "The average Graduation rate of the class of 2016 in all 52 States is 78.42. "
    ],
    "trends": [
       {},

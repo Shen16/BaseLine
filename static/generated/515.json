@@ -1,28 +1,38 @@
 {
-   "title": "Test",
+   "title": "Mexico : internet penetration 2000 to 2018",
    "xAxis": "Year",
    "yAxis": "Percentage of individuals using internet",
    "columnType": "two",
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Percentage of individuals using internet, with a total of 19 data points.",
+      "This is a line chart with an x axis representing Year and a y axis representing Percentage of individuals using internet, containing a total of 19 data points.",
+      " In general Percentage of individuals using internet has rose over the Year.",
+      "The line significantly ",
+      "The most drastic increase took place within the Year 2014 and 2015.",
+      "The highest Percentage of individuals using internet, of value 65.8 was reached at Year 2018",
+      "Minimum Percentage of individuals using internet about 5.08 was reached at Year 2000"
+   ],
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Percentage of individuals using internet, containing a total of 19 data points.",
+      " Overall Percentage of individuals using internet has increased over the Year."
+   ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Percentage of individuals using internet. In total the number of data points it has is 19.",
+      " In general Percentage of individuals using internet has rose over the Year.",
+      "The most drastic increase took place within the Year 2014 and 2015.",
+      "The highest Percentage of individuals using internet, of value 65.8 was reached at Year 2018",
+      "Minimum Percentage of individuals using internet about 5.08 was reached at Year 2000"
+   ],
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Percentage of individuals using internet. In total the number of data points it has is 19.",
       " Overall Percentage of individuals using internet has increased over the Year.",
-      "Percentage of individuals using internet is rapidly increasing from 2000 to 2002, roughly constant from 2002 to 2004, roughly increasing from 2004 to 2005, roughly constant from 2005 to 2008, slightly increasing from 2008 to 2011, roughly constant from 2011 to 2014, slightly increasing from 2014 to 2015, and lastly roughly constant from 2015 to 2018.",
-      "The steepest increase occurs in between the Year 2014 and 2015.",
-      "Max Percentage of individuals using internet about 65.8 was recorded at Year 2018",
-      "Min Percentage of individuals using internet about 5.08 was recorded at Year 2000",
-      "#########################################################################",
-      "This line chart has an x axis representing Year and a y axis representing Percentage of individuals using internet with a total of 19 data points. The chart has one significant trend.",
-      " This trend is increasing which exists from 2018 to 2000."
+      "The most drastic increase took place within the Year 2014 and 2015.",
+      "The highest Percentage of individuals using internet, of value 65.8 was reached at Year 2018",
+      "Minimum Percentage of individuals using internet about 5.08 was reached at Year 2000",
+      "The line drastically "
    ],
-   "trends": [
-      {},
-      {
-         "3": "0",
-         "14": "18"
-      }
-   ],
+   "trends": [],
    "data": [
       {
          "Year": "2018",

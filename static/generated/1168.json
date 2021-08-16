@@ -1,58 +1,42 @@
 {
-   "title": "Test",
+   "title": "Poverty risk rate in Belgium 2008 to 2018",
    "xAxis": "Year",
    "yAxis": "At-risk-of-poverty rate",
    "columnType": "two",
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing At-risk-of-poverty rate, with a total of 11 data points.",
-      " Overall At-risk-of-poverty rate has increased over the Year.",
+      "This is a line chart with an x axis representing Year and a y axis representing At-risk-of-poverty rate, containing a total of 11 data points.",
+      " In general At-risk-of-poverty rate has rose over the Year.",
       "At-risk-of-poverty rate is roughly constant from 2008 to 2010, slightly increasing from 2010 to 2011, roughly constant from 2011 to 2013, roughly decreasing from 2013 to 2015, and lastly gradually increasing from 2015 to 2018.",
-      "The steepest increase occurs in between the Year 2010 and 2011.",
-      "Max At-risk-of-poverty rate about 16.4 was recorded at Year 2018",
-      "Min At-risk-of-poverty rate about 14.6 was recorded at Year 2009, and 2010",
-      "#########################################################################",
-      "This line chart has an x axis representing Year and a y axis representing At-risk-of-poverty rate, with a total of 11 data points. The chart has 7 significant trends.",
-      " The longest trend is extremely increasing which exists from 2015 to 2018.",
-      " Likewise, the next significant trend is moderately constant which exists from 2008 to 2010.",
-      " On the contrary, the next significant trend is slightly decreasing which exists from 2014 to 2015.",
-      " But, the next significant trend is extremely increasing which exists from 2013 to 2014.",
-      " In a similar manner, the next significant trend is moderately decreasing which exists from 2012 to 2013.",
-      " On the contrary, the next significant trend is moderately constant which exists from 2011 to 2012.",
-      " Conversely, the next significant trend is extremely increasing which exists from 2010 to 2011."
+      "The line significantly ",
+      "The most drastic increase took place within the Year 2010 and 2011.",
+      "Maximum At-risk-of-poverty rate, about 16.4 was reported at Year 2018",
+      "Minimum At-risk-of-poverty rate about 14.6 was reached at Year 2009, and 2010"
    ],
-   "trends": [
-      {},
-      {
-         "1": "0",
-         "12": "3"
-      },
-      {
-         "3": "8",
-         "14": "10"
-      },
-      {
-         "3": "3",
-         "14": "4"
-      },
-      {
-         "3": "4",
-         "14": "5"
-      },
-      {
-         "3": "5",
-         "14": "6"
-      },
-      {
-         "3": "6",
-         "14": "7"
-      },
-      {
-         "3": "7",
-         "14": "8"
-      }
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes At-risk-of-poverty rate. In total the number of data points it has is 11.",
+      " Overall At-risk-of-poverty rate has increased over the Year.",
+      "At-risk-of-poverty rate is roughly constant from 2008 to 2010, slightly increasing from 2010 to 2011, roughly constant from 2011 to 2013, roughly decreasing from 2013 to 2015, and lastly gradually increasing from 2015 to 2018."
    ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing At-risk-of-poverty rate, containing a total of 11 data points.",
+      " In general At-risk-of-poverty rate has rose over the Year.",
+      "At-risk-of-poverty rate is roughly constant from 2008 to 2010, slightly increasing from 2010 to 2011, roughly constant from 2011 to 2013, roughly decreasing from 2013 to 2015, and lastly gradually increasing from 2015 to 2018.",
+      "The most drastic increase took place within the Year 2010 and 2011.",
+      "Maximum At-risk-of-poverty rate, about 16.4 was reported at Year 2018",
+      "Minimum At-risk-of-poverty rate about 14.6 was reached at Year 2009, and 2010"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing At-risk-of-poverty rate, containing a total of 11 data points.",
+      " In general At-risk-of-poverty rate has rose over the Year.",
+      "At-risk-of-poverty rate is roughly constant from 2008 to 2010, slightly increasing from 2010 to 2011, roughly constant from 2011 to 2013, roughly decreasing from 2013 to 2015, and lastly gradually increasing from 2015 to 2018.",
+      "The most drastic increase took place within the Year 2010 and 2011.",
+      "Maximum At-risk-of-poverty rate, about 16.4 was reported at Year 2018",
+      "Minimum At-risk-of-poverty rate about 14.6 was reached at Year 2009, and 2010",
+      "The line rapidly "
+   ],
+   "trends": [],
    "data": [
       {
          "Year": "2018",

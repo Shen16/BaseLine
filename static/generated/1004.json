@@ -1,16 +1,29 @@
 {
-   "title": "Test",
+   "title": "Circulation of the Arizona Republic 2018",
    "xAxis": "Day",
    "yAxis": "Circulation",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 2 categories on the x axis representing Day, and Circulation in each Day on the y axis.",
-      "",
-      " The highest value at Sunday is almost 2.91 times larger than the minimum value of Daily. ",
-      " The highest value at Sunday is almost 2.91 times larger than the minimum value of Daily. ",
-      " The difference between the max Day Sunday and min Day Daily is 248319.0. "
+      "This is a bar chart. It shows Circulation for 2 number of Days. ",
+      "The Circulation is appeared to be the highest at Day Sunday and lowest at Day Daily. ",
+      "The highest Day Sunday has 248319.0 more Circulation than the lowest Day Daily. "
+   ],
+   "min_summary": [
+      "This bar chart has 2 columns on the x axis representing Day, and Circulation in each Day on the y axis. ",
+      "The Circulation is highest at Day Sunday and lowest at Day Daily. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Circulation for 2 number of Days. ",
+      "The Circulation is appeared to be the highest at Day Sunday and lowest at Day Daily. ",
+      "The highest Day Sunday has 248319.0 more Circulation than the lowest Day Daily. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Day in the x axis and Circulation in the y axis. ",
+      "The Circulation is appeared to be the highest at Day Sunday and lowest at Day Daily. ",
+      "Day Sunday has 2.91 times more Circulation than Day Daily which is has the lowest. ",
+      "The average Circulation in all 2 Days is 254442.5. "
    ],
    "trends": [
       {},

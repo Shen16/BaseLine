@@ -1,48 +1,38 @@
 {
-   "title": "Test",
+   "title": "Unemployment rate in Belgium 2019",
    "xAxis": "Year",
    "yAxis": "Unemployment rate",
    "columnType": "two",
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Unemployment rate, with a total of 21 data points.",
+      "This is a line chart with an x axis representing Year and a y axis representing Unemployment rate, containing a total of 21 data points.",
       " Overall Unemployment rate has decreased over the Year.",
-      "Unemployment rate is gradually decreasing from 1999 to 2000, slightly increasing from 2000 to 2003, roughly constant from 2003 to 2004, slightly increasing from 2004 to 2005, roughly constant from 2005 to 2006, slightly decreasing from 2006 to 2007, roughly increasing from 2007 to 2009, roughly constant from 2009 to 2010, slightly decreasing from 2010 to 2011, slightly increasing from 2011 to 2013, roughly constant from 2013 to 2015, gradually decreasing from 2015 to 2018, and lastly roughly constant from 2018 to 2019.",
+      "The line significantly ",
       "The steepest decrease occurs in between the Year 1999 and 2000.",
-      "Max Unemployment rate about 8.65 was recorded at Year 1999",
-      "Min Unemployment rate about 6.18 was recorded at Year 2001",
-      "#########################################################################",
-      "This line chart has an x axis representing Year and a y axis representing Unemployment rate, with a total of 21 data points. The chart has 5 significant trends.",
-      " The longest trend is slightly decreasing which exists from 2014 to 2019.",
-      " Conversely, the next significant trend is extremely increasing which exists from 2001 to 2005.",
-      " Likewise, the next significant trend is extremely increasing which exists from 2011 to 2014.",
-      " Likewise, the next significant trend is moderately increasing which exists from 2008 to 2011.",
-      " Correspondingly, the next significant trend is slightly decreasing which exists from 2005 to 2008."
+      "The highest Unemployment rate, of value 8.65 was reached at Year 1999",
+      "The lowest Unemployment rate, of value 6.18 was reported at Year 2001"
    ],
-   "trends": [
-      {},
-      {
-         "1": "0",
-         "12": "5"
-      },
-      {
-         "3": "14",
-         "14": "18"
-      },
-      {
-         "3": "5",
-         "14": "8"
-      },
-      {
-         "3": "8",
-         "14": "11"
-      },
-      {
-         "3": "11",
-         "14": "14"
-      }
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Unemployment rate. In total the number of data points it has is 21.",
+      " Overall Unemployment rate has decreased over the Year."
    ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Unemployment rate, containing a total of 21 data points.",
+      " In general Unemployment rate has fallen over the Year.",
+      "The most drastic decrease took place within the Year 1999 and 2000.",
+      "The highest Unemployment rate, of value 8.65 was reached at Year 1999",
+      "The lowest Unemployment rate, of value 6.18 was reported at Year 2001"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Unemployment rate, containing a total of 21 data points.",
+      " Overall Unemployment rate has decreased over the Year.",
+      "The most drastic decrease took place within the Year 1999 and 2000.",
+      "The highest Unemployment rate, of value 8.65 was reached at Year 1999",
+      "The lowest Unemployment rate, of value 6.18 was reported at Year 2001",
+      "The line significantly "
+   ],
+   "trends": [],
    "data": [
       {
          "Year": "2019",

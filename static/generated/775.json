@@ -1,16 +1,32 @@
 {
-   "title": "Test",
+   "title": "Leading airlines worldwide - based on total number of passengers 2018",
    "xAxis": "Airlines",
    "yAxis": "Number of passengers in millions",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 10 categories on the x axis representing Airlines, and Number of passengers in millions in each Airlines on the y axis.",
-      "American is higher than any other categories with value 203.7, followed by , and Southwest. Down to category Air China with the lowest value of 110.0. ",
-      " The highest value at American is almost 1.85 times larger than the minimum value of Air China. ",
-      " The highest value at American is almost 1.85 times larger than the minimum value of Air China. ",
-      " The difference between the max Airlines American and min Airlines Air China is 93.69999999999999. "
+      "This bar chart has 10 columns on the x axis representing Airlines, and Number of passengers in millions in each Airlines on the y axis. ",
+      "The maximum Number of passengers in millions 203.7 is found at Airlines American and the minimum is found at Air China where Airlines is 110.0. ",
+      "The highest Airlines American has 93.7 more Number of passengers in millions than the lowest Airlines Air China. "
+   ],
+   "min_summary": [
+      "This bar chart has 10 columns on the x axis representing Airlines, and Number of passengers in millions in each Airlines on the y axis. ",
+      "The Number of passengers in millions is appeared to be the highest at Airlines American and lowest at Airlines Air China. "
+   ],
+   "mid_summary": [
+      "This bar chart has 10 columns on the x axis representing Airlines, and Number of passengers in millions in each Airlines on the y axis. ",
+      "The maximum Number of passengers in millions 203.7 is found at Airlines American and the minimum is found at Air China where Airlines is 110.0. ",
+      "The highest Airlines American has 93.7 more Number of passengers in millions than the lowest Airlines Air China. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Airlines in the x axis and Number of passengers in millions in the y axis. ",
+      "Airlines American has the highest Number of passengers in millions and Air China has the lowest Number of passengers in millions. ",
+      "Second maximum Number of passengers in millions is found at Airlines . ",
+      "The minimum Airlines Air China has got 1.85 times less Number of passengers in millions than the maximum Airlines American. ",
+      "Airlines American is higher than any other Airliness with value 203.7, followed by , and Southwest. Down to Airlines Air China with the lowest value 110.0. ",
+      "The Airlines American has 1.37 times more Number of passengers in millions than average. ",
+      "The Number of passengers in millions is 1488.0 if we add up values of all Airliness. "
    ],
    "trends": [
       {},

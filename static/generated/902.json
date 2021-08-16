@@ -1,18 +1,32 @@
 {
-   "title": "Test",
+   "title": "Average price of cut flowers sold in auctions in the Netherlands 2018 to 2019",
    "xAxis": "Month",
    "yAxis": "Average price per flower in eurocent",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 20 categories on the x axis representing Month, and Average price per flower in eurocent in each Month on the y axis.",
-      " The highest category is found at Nov '19 where Average price per flower in eurocent is 36.0.",
-      " Followed by 35.0 in .",
-      " The lowest category is found at Jul '18 where Average price per flower in eurocent is 21.0.",
-      " The highest value at Nov '19 is almost 1.71 times larger than the minimum value of Jul '18. ",
-      " The highest value at Nov '19 is almost 1.71 times larger than the minimum value of Jul '18. ",
-      " The difference between the max Month Nov '19 and min Month Jul '18 is 15.0. "
+      "This is a bar chart representing Month in the x axis and Average price per flower in eurocent in the y axis. ",
+      "The Average price per flower in eurocent is appeared to be the highest at Month Nov '19 and lowest at Month Jul '18. ",
+      "The lowest value at Month Jul '18 is 1.71x times less than the highest value at Nov '19. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing Month in the x axis and Average price per flower in eurocent in the y axis. ",
+      "The Average price per flower in eurocent is highest at Month Nov '19 and lowest at Month Jul '18. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Month in the x axis and Average price per flower in eurocent in the y axis. ",
+      "The Average price per flower in eurocent is appeared to be the highest at Month Nov '19 and lowest at Month Jul '18. ",
+      "The lowest value at Month Jul '18 is 1.71x times less than the highest value at Nov '19. "
+   ],
+   "max_summary": [
+      "This bar chart has 20 columns on the x axis representing Month, and Average price per flower in eurocent in each Month on the y axis. ",
+      "Month Nov '19 has the highest Average price per flower in eurocent and Jul '18 has the lowest Average price per flower in eurocent. ",
+      "Month Jul '18 has 1.71 times less Average price per flower in eurocent than Month Nov '19 which is the highest. ",
+      "Average price per flower in eurocent at Month Nov '19 is 36.0 , second place is  at 35.0, and thirdly is Dec '18 at 35.0.",
+      "The Average price per flower in eurocent has declined over the past 20 Months. ",
+      "Month Sep '19, Feb '19, Sep '18, and Jun '18 have the same Average price per flower in eurocent. ",
+      "The Month Nov '19 tends to be 1.25 percent higher than average. "
    ],
    "trends": [
       {},

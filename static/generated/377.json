@@ -1,16 +1,32 @@
 {
-   "title": "Test",
+   "title": "Cost of an angioplasty in various countries 2019",
    "xAxis": "Country",
    "yAxis": "Cost in U.S. dollars",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 13 categories on the x axis representing Country, and Cost in U.S. dollars in each Country on the y axis.",
-      "United States is higher than any other categories with value 28200.0, followed by , and Costa Rica. Down to category Thailand with the lowest value of 4200.0. ",
-      " The highest value at United States is almost 6.71 times larger than the minimum value of Thailand. ",
-      " The highest value at United States is almost 6.71 times larger than the minimum value of Thailand. ",
-      " The difference between the max Country United States and min Country Thailand is 24000.0. "
+      "This bar chart has 13 columns on the x axis representing Country, and Cost in U.S. dollars in each Country on the y axis. ",
+      "The maximum Cost in U.S. dollars 28200.0 is found at Country United States and the minimum is found at Thailand where Country is 4200.0. ",
+      "There is a difference of 24000.0 between the maximum Country United States and minimum Country Thailand. "
+   ],
+   "min_summary": [
+      "This bar chart has 13 columns on the x axis representing Country, and Cost in U.S. dollars in each Country on the y axis. ",
+      "The Cost in U.S. dollars is appeared to be the highest at Country United States and lowest at Country Thailand. "
+   ],
+   "mid_summary": [
+      "This bar chart has 13 columns on the x axis representing Country, and Cost in U.S. dollars in each Country on the y axis. ",
+      "The maximum Cost in U.S. dollars 28200.0 is found at Country United States and the minimum is found at Thailand where Country is 4200.0. ",
+      "There is a difference of 24000.0 between the maximum Country United States and minimum Country Thailand. "
+   ],
+   "max_summary": [
+      "This bar chart has 13 columns on the x axis representing Country, and Cost in U.S. dollars in each Country on the y axis. ",
+      "The maximum Cost in U.S. dollars 28200.0 is found at Country United States and the minimum is found at Thailand where Country is 4200.0. ",
+      "Second maximum Cost in U.S. dollars is found at Country . ",
+      "There is a difference of 24000.0 between the maximum Country United States and minimum Country Thailand. ",
+      "Cost in U.S. dollars at Country United States is 28200.0 , second place is  at 28200.0, and thirdly is Costa Rica at 13800.0.",
+      "The lowest value 4200.0 at Thailand is almost 2.8 times smaller than the average value 10084.62. ",
+      "The Cost in U.S. dollars is 131100.0 if we add up values of all Countrys. "
    ],
    "trends": [
       {},

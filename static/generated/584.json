@@ -1,18 +1,32 @@
 {
-   "title": "Test",
+   "title": "Players with most appearances for Manchester United 2019",
    "xAxis": "Month",
    "yAxis": "Number of appearances",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 21 categories on the x axis representing Month, and Number of appearances in each Month on the y axis.",
-      " The highest category is found at Ryan Giggs where Number of appearances is 963.0.",
-      " Followed by 963.0 in .",
-      " The lowest category is found at Gary Pallister where Number of appearances is 437.0.",
-      " The highest value at Ryan Giggs is almost 2.2 times larger than the minimum value of Gary Pallister. ",
-      " The highest value at Ryan Giggs is almost 2.2 times larger than the minimum value of Gary Pallister. ",
-      " The difference between the max Month Ryan Giggs and min Month Gary Pallister is 526.0. "
+      "This bar chart has 21 columns on the x axis representing Month, and Number of appearances in each Month on the y axis. ",
+      "The maximum Number of appearances 963.0 is found at Month Ryan Giggs and the minimum is found at Gary Pallister where Month is 437.0. ",
+      "The difference of Number of appearances between the highest and lowest Month is 526.0. "
+   ],
+   "min_summary": [
+      "This bar chart has 21 columns on the x axis representing Month, and Number of appearances in each Month on the y axis. ",
+      "The Number of appearances is highest at Month Ryan Giggs and lowest at Month Gary Pallister. "
+   ],
+   "mid_summary": [
+      "This bar chart has 21 columns on the x axis representing Month, and Number of appearances in each Month on the y axis. ",
+      "The maximum Number of appearances 963.0 is found at Month Ryan Giggs and the minimum is found at Gary Pallister where Month is 437.0. ",
+      "The difference of Number of appearances between the highest and lowest Month is 526.0. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Number of appearances for 21 number of Months. ",
+      "Month Ryan Giggs has the highest Number of appearances and Gary Pallister has the lowest Number of appearances. ",
+      "Second maximum Number of appearances is found at Month . ",
+      "The difference of Number of appearances between the highest and lowest Month is 526.0. ",
+      "Month Ryan Giggs is higher than any other Months with value 963.0, followed by , and Paul Scholes. Down to Month Gary Pallister with the lowest value 437.0. ",
+      "The Number of appearances has declined over the past 21 Months. ",
+      "The Month Ryan Giggs tends to be 1.76 percent higher than average. "
    ],
    "trends": [
       {},

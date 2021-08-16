@@ -1,48 +1,38 @@
 {
-   "title": "Test",
+   "title": "Nokia 's net sales 1999 to 2019",
    "xAxis": "Year",
    "yAxis": "Net sales in billion euros",
    "columnType": "two",
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Net sales in billion euros, with a total of 21 data points.",
+      "This is a line chart with an x axis representing Year and a y axis representing Net sales in billion euros, containing a total of 21 data points.",
       " Overall Net sales in billion euros has increased over the Year.",
-      "Net sales in billion euros is slightly increasing from 1999 to 2000, roughly constant from 2000 to 2004, slightly increasing from 2004 to 2007, roughly constant from 2007 to 2011, slightly decreasing from 2011 to 2013, roughly constant from 2013 to 2015, gradually increasing from 2015 to 2016, and lastly roughly constant from 2016 to 2019.",
+      "The line drastically increased by 1.9 times from Year 2015 to 2016.",
+      "The most drastic decrease took place within the Year 2012 and 2013.",
+      "Maximum Net sales in billion euros, about 51.06 was reported at Year 2007",
+      "Minimum Net sales in billion euros about 11.76 was reached at Year 2014"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Net sales in billion euros. In total the number of data points it has is 21.",
+      " Overall Net sales in billion euros has increased over the Year."
+   ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Net sales in billion euros. In total the number of data points it has is 21.",
+      " In general Net sales in billion euros has rose over the Year.",
       "The steepest decrease occurs in between the Year 2012 and 2013.",
-      "Max Net sales in billion euros about 51.06 was recorded at Year 2007",
-      "Min Net sales in billion euros about 11.76 was recorded at Year 2014",
-      "#########################################################################",
-      "This line chart has an x axis representing Year and a y axis representing Net sales in billion euros, with a total of 21 data points. The chart has 5 significant trends.",
-      " The longest trend is slightly decreasing which exists from 2010 to 2016.",
-      " But, the next significant trend is moderately decreasing which exists from 2016 to 2019.",
-      " On the contrary, the next significant trend is slightly decreasing which exists from 2007 to 2010.",
-      " Differently, the next significant trend is extremely increasing which exists from 2004 to 2007.",
-      " Correspondingly, the next significant trend is moderately decreasing which exists from 2001 to 2004."
+      "Maximum Net sales in billion euros, about 51.06 was reported at Year 2007",
+      "Minimum Net sales in billion euros about 11.76 was reached at Year 2014"
    ],
-   "trends": [
-      {},
-      {
-         "1": "3",
-         "12": "9"
-      },
-      {
-         "3": "0",
-         "14": "3"
-      },
-      {
-         "3": "9",
-         "14": "12"
-      },
-      {
-         "3": "12",
-         "14": "15"
-      },
-      {
-         "3": "15",
-         "14": "18"
-      }
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Net sales in billion euros, containing a total of 21 data points.",
+      " Overall Net sales in billion euros has increased over the Year.",
+      "The most drastic decrease took place within the Year 2012 and 2013.",
+      "Maximum Net sales in billion euros, about 51.06 was reported at Year 2007",
+      "Minimum Net sales in billion euros about 11.76 was reached at Year 2014",
+      "The line rapidly increased by 89.12% from Year 2015 to 2016."
    ],
+   "trends": [],
    "data": [
       {
          "Year": "2019",

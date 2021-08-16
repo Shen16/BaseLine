@@ -1,18 +1,32 @@
 {
-   "title": "Test",
+   "title": "Career rushing yards leaders - Los Angeles Rams 1937 to 2020",
    "xAxis": "Month",
    "yAxis": "Rushing yards",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 20 categories on the x axis representing Month, and Rushing yards in each Month on the y axis.",
-      " The highest category is found at Steven Jackson where Rushing yards is 10138.0.",
-      " Followed by 10138.0 in .",
-      " The lowest category is found at Tommy Wilson where Rushing yards is 2130.0.",
-      " The highest value at Steven Jackson is almost 4.76 times larger than the minimum value of Tommy Wilson. ",
-      " The highest value at Steven Jackson is almost 4.76 times larger than the minimum value of Tommy Wilson. ",
-      " The difference between the max Month Steven Jackson and min Month Tommy Wilson is 8008.0. "
+      "This bar chart has 20 columns on the x axis representing Month, and Rushing yards in each Month on the y axis. ",
+      "The Rushing yards is highest at Month Steven Jackson and lowest at Month Tommy Wilson. ",
+      "There is a difference of 8008.0 between the maximum Month Steven Jackson and minimum Month Tommy Wilson. "
+   ],
+   "min_summary": [
+      "This bar chart has 20 columns on the x axis representing Month, and Rushing yards in each Month on the y axis. ",
+      "Month Steven Jackson has the highest Rushing yards and Tommy Wilson has the lowest Rushing yards. "
+   ],
+   "mid_summary": [
+      "This bar chart has 20 columns on the x axis representing Month, and Rushing yards in each Month on the y axis. ",
+      "The Rushing yards is highest at Month Steven Jackson and lowest at Month Tommy Wilson. ",
+      "There is a difference of 8008.0 between the maximum Month Steven Jackson and minimum Month Tommy Wilson. "
+   ],
+   "max_summary": [
+      "This bar chart has 20 columns on the x axis representing Month, and Rushing yards in each Month on the y axis. ",
+      "Month Steven Jackson has the highest Rushing yards and Tommy Wilson has the lowest Rushing yards. ",
+      "Month  has the second highest value for Rushing yards. ",
+      "There is a difference of 8008.0 between the maximum Month Steven Jackson and minimum Month Tommy Wilson. ",
+      "Rushing yards at Month Steven Jackson is 10138.0 , second place is  at 10138.0, and thirdly is Marshall Faulk at 6959.0.",
+      "Over the past 20 Months, the Rushing yards has decreased. ",
+      "The Month Steven Jackson tends to be 2.51 percent higher than average. "
    ],
    "trends": [
       {},

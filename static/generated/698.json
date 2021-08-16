@@ -1,16 +1,32 @@
 {
-   "title": "Test",
+   "title": "Most valuable Swiss watch brands worldwide 2016",
    "xAxis": "Brand",
    "yAxis": "Brand value in million CHF",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 16 categories on the x axis representing Brand, and Brand value in million CHF in each Brand on the y axis.",
-      "Rolex is higher than any other categories with value 7387.0, followed by , and Patek Philippe. Down to category Rado with the lowest value of 335.0. ",
-      " The highest value at Rolex is almost 22.05 times larger than the minimum value of Rado. ",
-      " The highest value at Rolex is almost 22.05 times larger than the minimum value of Rado. ",
-      " The difference between the max Brand Rolex and min Brand Rado is 7052.0. "
+      "This bar chart has 16 columns on the x axis representing Brand, and Brand value in million CHF in each Brand on the y axis. ",
+      "The maximum Brand value in million CHF 7387.0 is found at Brand Rolex and the minimum is found at Rado where Brand is 335.0. ",
+      "There is a difference of 7052.0 between the maximum Brand Rolex and minimum Brand Rado. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing Brand in the x axis and Brand value in million CHF in the y axis. ",
+      "The Brand value in million CHF is highest at Brand Rolex and lowest at Brand Rado. "
+   ],
+   "mid_summary": [
+      "This bar chart has 16 columns on the x axis representing Brand, and Brand value in million CHF in each Brand on the y axis. ",
+      "The maximum Brand value in million CHF 7387.0 is found at Brand Rolex and the minimum is found at Rado where Brand is 335.0. ",
+      "There is a difference of 7052.0 between the maximum Brand Rolex and minimum Brand Rado. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Brand in the x axis and Brand value in million CHF in the y axis. ",
+      "The Brand value in million CHF is highest at Brand Rolex and lowest at Brand Rado. ",
+      "The second highest Brand value in million CHF is appeared to be the Brand . ",
+      "There is a difference of 7052.0 between the maximum Brand Rolex and minimum Brand Rado. ",
+      "The Brand Rolex has the highest Brand value in million CHF, followed by , and Patek Philippe. Down to the Brand Rado which is the lowest. ",
+      "The Brand Rolex has 5.17 times more Brand value in million CHF than average. ",
+      "The Brand value in million CHF is 22840.0 if we add up values of all Brands. "
    ],
    "trends": [
       {},

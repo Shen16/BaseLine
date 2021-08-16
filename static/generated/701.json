@@ -1,28 +1,38 @@
 {
-   "title": "Test",
+   "title": "U.S. sulfur dioxide emissions 1970 to 2017",
    "xAxis": "Year",
    "yAxis": "Volume of emissions in thousand tons",
    "columnType": "two",
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Volume of emissions in thousand tons, with a total of 20 data points.",
-      " Overall Volume of emissions in thousand tons has decreased over the Year.",
-      "Volume of emissions in thousand tons is slightly decreasing from 1970 to 1980, roughly constant from 1980 to 1990, rapidly decreasing from 1990 to 2012, roughly constant from 2012 to 2014, slightly decreasing from 2014 to 2016, and lastly roughly constant from 2016 to 2017.",
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Volume of emissions in thousand tons. In total the number of data points it has is 20.",
+      " In general Volume of emissions in thousand tons has fallen over the Year.",
+      "The line rapidly ",
       "The steepest decrease occurs in between the Year 1990 and 1995.",
-      "Max Volume of emissions in thousand tons about 31218.0 was recorded at Year 1970",
-      "Min Volume of emissions in thousand tons about 2815.0 was recorded at Year 2017",
-      "#########################################################################",
-      "This line chart has an x axis representing Year and a y axis representing Volume of emissions in thousand tons with a total of 20 data points. The chart has one significant trend.",
-      " This trend is decreasing which exists from 2017 to 1970."
+      "The highest Volume of emissions in thousand tons, of value 31218.0 was reached at Year 1970",
+      "Minimum Volume of emissions in thousand tons about 2815.0 was reached at Year 2017"
    ],
-   "trends": [
-      {},
-      {
-         "3": "0",
-         "14": "19"
-      }
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Volume of emissions in thousand tons. In total the number of data points it has is 20.",
+      " Overall Volume of emissions in thousand tons has decreased over the Year."
    ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Volume of emissions in thousand tons, containing a total of 20 data points.",
+      " In general Volume of emissions in thousand tons has fallen over the Year.",
+      "The most drastic decrease took place within the Year 1990 and 1995.",
+      "The highest Volume of emissions in thousand tons, of value 31218.0 was reached at Year 1970",
+      "Minimum Volume of emissions in thousand tons about 2815.0 was reached at Year 2017"
+   ],
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Volume of emissions in thousand tons. In total the number of data points it has is 20.",
+      " In general Volume of emissions in thousand tons has fallen over the Year.",
+      "The most drastic decrease took place within the Year 1990 and 1995.",
+      "The highest Volume of emissions in thousand tons, of value 31218.0 was reached at Year 1970",
+      "Minimum Volume of emissions in thousand tons about 2815.0 was reached at Year 2017",
+      "The line rapidly "
+   ],
+   "trends": [],
    "data": [
       {
          "Year": "2017",

@@ -1,18 +1,32 @@
 {
-   "title": "Test",
+   "title": "Pork imports of selected countries worldwide 2020 , by country",
    "xAxis": "Country",
    "yAxis": "Import volume in thousand metric tones",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 9 categories on the x axis representing Country, and Import volume in thousand metric tones in each Country on the y axis.",
-      " The highest category is found at China where Import volume in thousand metric tones is 3700.0.",
-      " Followed by 3700.0 in .",
-      " The lowest category is found at Canada where Import volume in thousand metric tones is 260.0.",
-      " The highest value at China is almost 14.23 times larger than the minimum value of Canada. ",
-      " The highest value at China is almost 14.23 times larger than the minimum value of Canada. ",
-      " The difference between the max Country China and min Country Canada is 3440.0. "
+      "This is a bar chart. It shows Import volume in thousand metric tones for 9 number of Countrys. ",
+      "The Import volume in thousand metric tones is highest at Country China and lowest at Country Canada. ",
+      "The difference of Import volume in thousand metric tones between the highest and lowest Country is 3440.0. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Import volume in thousand metric tones for 9 number of Countrys. ",
+      "The Import volume in thousand metric tones is highest at Country China and lowest at Country Canada. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Import volume in thousand metric tones for 9 number of Countrys. ",
+      "The Import volume in thousand metric tones is highest at Country China and lowest at Country Canada. ",
+      "The difference of Import volume in thousand metric tones between the highest and lowest Country is 3440.0. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Import volume in thousand metric tones for 9 number of Countrys. ",
+      "The maximum Import volume in thousand metric tones 3700.0 is found at Country China and the minimum is found at Canada where Country is 260.0. ",
+      "The second highest Import volume in thousand metric tones is appeared to be the Country . ",
+      "The highest Country China has 3440.0 more Import volume in thousand metric tones than the lowest Country Canada. ",
+      "Import volume in thousand metric tones at Country China is 3700.0 , second place is  at 3700.0, and thirdly is Japan at 1490.0.",
+      "Country Hong Kong, and Philippines have the same Import volume in thousand metric tones. ",
+      "The Country China has 3.34 times more Import volume in thousand metric tones than average. "
    ],
    "trends": [
       {},

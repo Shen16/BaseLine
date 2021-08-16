@@ -1,18 +1,34 @@
 {
-   "title": "Test",
+   "title": "Monthly hours of sunlight in UK 2014 to 2019",
    "xAxis": "Month",
    "yAxis": "Number of hours",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 72 categories on the x axis representing Month, and Number of hours in each Month on the y axis.",
-      " The highest category is found at May '18 where Number of hours is 246.0.",
-      " Followed by 46.2 in .",
-      " The lowest category is found at Dec '15 where Number of hours is 29.2.",
-      " The highest value at May '18 is almost 8.42 times larger than the minimum value of Dec '15. ",
-      " The highest value at May '18 is almost 8.42 times larger than the minimum value of Dec '15. ",
-      " The difference between the max Month May '18 and min Month Dec '15 is 216.8. "
+      "This is a bar chart representing Month in the x axis and Number of hours in the y axis. ",
+      "The Number of hours is appeared to be the highest at Month May '18 and lowest at Month Dec '15. ",
+      "The minimum Month Dec '15 has got 8.42 times less Number of hours than the maximum Month May '18. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Number of hours for 72 number of Months. ",
+      "Month May '18 has the highest Number of hours and Dec '15 has the lowest Number of hours. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Month in the x axis and Number of hours in the y axis. ",
+      "The Number of hours is appeared to be the highest at Month May '18 and lowest at Month Dec '15. ",
+      "The minimum Month Dec '15 has got 8.42 times less Number of hours than the maximum Month May '18. "
+   ],
+   "max_summary": [
+      "This bar chart has 72 columns on the x axis representing Month, and Number of hours in each Month on the y axis. ",
+      "The Number of hours is highest at Month May '18 and lowest at Month Dec '15. ",
+      "Second maximum Number of hours is found at Month . ",
+      "The difference of Number of hours between the highest and lowest Month is 216.8. ",
+      "Number of hours at Month May '18 is 246.0 , second place is  at 46.2, and thirdly is Jul '18 at 237.6.",
+      "Overall Number of hours has lowered over the Months. ",
+      "Month Jun '19, and Apr '16 have the same Number of hours. ",
+      "The Month May '18 tends to be 2.03 percent higher than average. ",
+      "Summing up the values of all Months, we get total 8718.1. "
    ],
    "trends": [
       {},

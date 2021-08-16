@@ -1,16 +1,32 @@
 {
-   "title": "Test",
+   "title": "Volcanic eruptions - people affected worldwide up to 2016",
    "xAxis": "Location and Date",
    "yAxis": "Number of victims",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 10 categories on the x axis representing Location and Date, and Number of victims in each Location and Date on the y axis.",
-      "Volcanic eruption in the Philippines (June 9 1991) is higher than any other categories with value 1036065.0, followed by , and Volcanic eruption in Nicaragua (April 9 1992). Down to category Volcanic eruption in Indonesia (October 24 2002) with the lowest value of 137140.0. ",
-      " The highest value at Volcanic eruption in the Philippines (June 9 1991) is almost 7.55 times larger than the minimum value of Volcanic eruption in Indonesia (October 24 2002). ",
-      " The highest value at Volcanic eruption in the Philippines (June 9 1991) is almost 7.55 times larger than the minimum value of Volcanic eruption in Indonesia (October 24 2002). ",
-      " The difference between the max Location and Date Volcanic eruption in the Philippines (June 9 1991) and min Location and Date Volcanic eruption in Indonesia (October 24 2002) is 898925.0. "
+      "This bar chart has 10 columns on the x axis representing Location and Date, and Number of victims in each Location and Date on the y axis. ",
+      "Location and Date Volcanic eruption in the Philippines (June 9 1991) has the highest Number of victims and Volcanic eruption in Indonesia (October 24 2002) has the lowest Number of victims. ",
+      "The minimum Location and Date Volcanic eruption in Indonesia (October 24 2002) has got 7.55 times less Number of victims than the maximum Location and Date Volcanic eruption in the Philippines (June 9 1991). "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Number of victims for 10 number of Location and Dates. ",
+      "The maximum Number of victims 1036065.0 is found at Location and Date Volcanic eruption in the Philippines (June 9 1991) and the minimum is found at Volcanic eruption in Indonesia (October 24 2002) where Location and Date is 137140.0. "
+   ],
+   "mid_summary": [
+      "This bar chart has 10 columns on the x axis representing Location and Date, and Number of victims in each Location and Date on the y axis. ",
+      "Location and Date Volcanic eruption in the Philippines (June 9 1991) has the highest Number of victims and Volcanic eruption in Indonesia (October 24 2002) has the lowest Number of victims. ",
+      "The minimum Location and Date Volcanic eruption in Indonesia (October 24 2002) has got 7.55 times less Number of victims than the maximum Location and Date Volcanic eruption in the Philippines (June 9 1991). "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Location and Date in the x axis and Number of victims in the y axis. ",
+      "The Number of victims is highest at Location and Date Volcanic eruption in the Philippines (June 9 1991) and lowest at Location and Date Volcanic eruption in Indonesia (October 24 2002). ",
+      "The second highest Number of victims is appeared to be the Location and Date . ",
+      "There is a difference of 898925.0 between the maximum Location and Date Volcanic eruption in the Philippines (June 9 1991) and minimum Location and Date Volcanic eruption in Indonesia (October 24 2002). ",
+      "Location and Date Volcanic eruption in the Philippines (June 9 1991) is higher than any other Location and Dates with value 1036065.0, followed by , and Volcanic eruption in Nicaragua (April 9 1992). Down to Location and Date Volcanic eruption in Indonesia (October 24 2002) with the lowest value 137140.0. ",
+      "The lowest value 137140.0 at Volcanic eruption in Indonesia (October 24 2002) is almost 2.81 times smaller than the average value 368530.4. ",
+      "Summing up the values of all Location and Dates, we get total 3685304.0. "
    ],
    "trends": [
       {},

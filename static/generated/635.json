@@ -1,16 +1,32 @@
 {
-   "title": "Test",
+   "title": "Distribution of consumer transactions worldwide 2018 , by payment channel",
    "xAxis": "Response",
    "yAxis": "Share of respondents",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 11 categories on the x axis representing Response, and Share of respondents in each Response on the y axis.",
-      "In-store is higher than any other categories with value 41.0, followed by , and Buy buttons. Down to category Smart home device with the lowest value of 2.0. ",
-      " The highest value at In-store is almost 20.5 times larger than the minimum value of Smart home device. ",
-      " The highest value at In-store is almost 20.5 times larger than the minimum value of Smart home device. ",
-      " The difference between the max Response In-store and min Response Smart home device is 39.0. "
+      "This is a bar chart. It shows Share of respondents for 11 number of Responses. ",
+      "The Share of respondents is appeared to be the highest at Response In-store and lowest at Response Smart home device. ",
+      "The maximum Response In-store has got 20.5 times higher Share of respondents than the minimum Response Smart home device. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Share of respondents for 11 number of Responses. ",
+      "Response In-store has the highest Share of respondents and Smart home device has the lowest Share of respondents. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Share of respondents for 11 number of Responses. ",
+      "The Share of respondents is appeared to be the highest at Response In-store and lowest at Response Smart home device. ",
+      "The maximum Response In-store has got 20.5 times higher Share of respondents than the minimum Response Smart home device. "
+   ],
+   "max_summary": [
+      "This bar chart has 11 columns on the x axis representing Response, and Share of respondents in each Response on the y axis. ",
+      "The Share of respondents is appeared to be the highest at Response In-store and lowest at Response Smart home device. ",
+      "Second maximum Share of respondents is found at Response . ",
+      "There is a difference of 39.0 between the maximum Response In-store and minimum Response Smart home device. ",
+      "Share of respondents at Response In-store is 41.0 , second place is  at 41.0, and thirdly is Buy buttons at 9.0.",
+      "Similar Share of respondents is found in Response Smart home device, Wearables / contactless, and Other. ",
+      "The Response Smart home device has 4.47 times less Share of respondents than average. "
    ],
    "trends": [
       {},

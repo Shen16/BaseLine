@@ -1,18 +1,32 @@
 {
-   "title": "Test",
+   "title": "Leading hair conditioner brands in the U.S. 2018",
    "xAxis": "Brand",
    "yAxis": "Sales in million U.S. dollars",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 10 categories on the x axis representing Brand, and Sales in million U.S. dollars in each Brand on the y axis.",
-      " The highest category is found at Organix where Sales in million U.S. dollars is 133.7.",
-      " Followed by 133.7 in .",
-      " The lowest category is found at L'Or\u00e9al EverPure where Sales in million U.S. dollars is 29.0.",
-      " The highest value at Organix is almost 4.61 times larger than the minimum value of L'Or\u00e9al EverPure. ",
-      " The highest value at Organix is almost 4.61 times larger than the minimum value of L'Or\u00e9al EverPure. ",
-      " The difference between the max Brand Organix and min Brand L'Or\u00e9al EverPure is 104.69999999999999. "
+      "This is a bar chart representing Brand in the x axis and Sales in million U.S. dollars in the y axis. ",
+      "The maximum Sales in million U.S. dollars 133.7 is found at Brand Organix and the minimum is found at L'Or\u00e9al EverPure where Brand is 29.0. ",
+      "There is a difference of 104.7 between the maximum Brand Organix and minimum Brand L'Or\u00e9al EverPure. "
+   ],
+   "min_summary": [
+      "This bar chart has 10 columns on the x axis representing Brand, and Sales in million U.S. dollars in each Brand on the y axis. ",
+      "The maximum Sales in million U.S. dollars 133.7 is found at Brand Organix and the minimum is found at L'Or\u00e9al EverPure where Brand is 29.0. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Brand in the x axis and Sales in million U.S. dollars in the y axis. ",
+      "The maximum Sales in million U.S. dollars 133.7 is found at Brand Organix and the minimum is found at L'Or\u00e9al EverPure where Brand is 29.0. ",
+      "There is a difference of 104.7 between the maximum Brand Organix and minimum Brand L'Or\u00e9al EverPure. "
+   ],
+   "max_summary": [
+      "This bar chart has 10 columns on the x axis representing Brand, and Sales in million U.S. dollars in each Brand on the y axis. ",
+      "The Sales in million U.S. dollars is highest at Brand Organix and lowest at Brand L'Or\u00e9al EverPure. ",
+      "Second maximum Sales in million U.S. dollars is found at Brand . ",
+      "There is a difference of 104.7 between the maximum Brand Organix and minimum Brand L'Or\u00e9al EverPure. ",
+      "Brand Organix is higher than any other Brands with value 133.7, followed by , and Garnier Whole Blends. Down to Brand L'Or\u00e9al EverPure with the lowest value 29.0. ",
+      "The average Sales in million U.S. dollars in all 10 Brands is 55.87. ",
+      "Summing up the values of all Brands, we get total 558.7. "
    ],
    "trends": [
       {},

@@ -1,28 +1,42 @@
 {
-   "title": "Test",
+   "title": "Population density in Texas 1960 to 2018",
    "xAxis": "Year",
    "yAxis": "Number of residents per square mile",
    "columnType": "two",
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Number of residents per square mile, with a total of 13 data points.",
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of residents per square mile. In total the number of data points it has is 13.",
+      " In general Number of residents per square mile has rose over the Year.",
+      "Number of residents per square mile is slightly increasing from 1960 to 2010, and lastly roughly constant from 2010 to 2018.",
+      "The line significantly ",
+      "The most drastic increase took place within the Year 2000 and 2010.",
+      "The highest Number of residents per square mile, of value 109.9 was reached at Year 2018",
+      "The lowest Number of residents per square mile, of value 36.6 was reported at Year 1960"
+   ],
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Number of residents per square mile, containing a total of 13 data points.",
+      " Overall Number of residents per square mile has increased over the Year.",
+      "Number of residents per square mile is slightly increasing from 1960 to 2010, and lastly roughly constant from 2010 to 2018."
+   ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of residents per square mile. In total the number of data points it has is 13.",
+      " In general Number of residents per square mile has rose over the Year.",
+      "Number of residents per square mile is slightly increasing from 1960 to 2010, and lastly roughly constant from 2010 to 2018.",
+      "The most drastic increase took place within the Year 2000 and 2010.",
+      "The highest Number of residents per square mile, of value 109.9 was reached at Year 2018",
+      "The lowest Number of residents per square mile, of value 36.6 was reported at Year 1960"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Number of residents per square mile, containing a total of 13 data points.",
       " Overall Number of residents per square mile has increased over the Year.",
       "Number of residents per square mile is slightly increasing from 1960 to 2010, and lastly roughly constant from 2010 to 2018.",
       "The steepest increase occurs in between the Year 2000 and 2010.",
-      "Max Number of residents per square mile about 109.9 was recorded at Year 2018",
-      "Min Number of residents per square mile about 36.6 was recorded at Year 1960",
-      "#########################################################################",
-      "This line chart has an x axis representing Year and a y axis representing Number of residents per square mile with a total of 13 data points. The chart has one significant trend.",
-      " This trend is increasing which exists from 2018 to 1960."
+      "The highest Number of residents per square mile, of value 109.9 was reached at Year 2018",
+      "The lowest Number of residents per square mile, of value 36.6 was reported at Year 1960",
+      "The line rapidly "
    ],
-   "trends": [
-      {},
-      {
-         "3": "0",
-         "14": "12"
-      }
-   ],
+   "trends": [],
    "data": [
       {
          "Year": "2018",

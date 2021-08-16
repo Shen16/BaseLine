@@ -1,52 +1,39 @@
 {
-   "title": "Test",
+   "title": "Projected annual inflation rate in the United States 2010 to 2024",
    "xAxis": "Year",
    "yAxis": "Inflation rate",
    "columnType": "two",
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Inflation rate, with a total of 15 data points.",
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Inflation rate. In total the number of data points it has is 15.",
       " Overall Inflation rate has increased over the Year.",
-      "Inflation rate is roughly constant from 2010 to 2014, slightly increasing from 2014 to 2016, and lastly roughly constant from 2016 to 2024.",
-      "Max Inflation rate about 3.14 was recorded at Year 2011",
-      "Min Inflation rate about 0.12 was recorded at Year 2015",
-      "#########################################################################",
-      "This line chart has an x axis representing Year and a y axis representing Inflation rate, with a total of 15 data points. The chart has 6 significant trends.",
-      " The longest trend is extremely increasing which exists from 2015 to 2018.",
-      " Additionally, the next significant trend is moderately decreasing which exists from 2010 to 2013.",
-      " On the contrary, the next significant trend is moderately constant which exists from 2022 to 2024.",
-      " But, the next significant trend is moderately decreasing which exists from 2020 to 2022.",
-      " On the other hand, the next significant trend is moderately decreasing which exists from 2018 to 2020.",
-      " Contrarily, the next significant trend is slightly increasing which exists from 2013 to 2015."
+      "Inflation rate is roughly constant from 2010 to 2014, slightly increasing from 2014 to 2016, and finally roughly constant from 2016 to 2024.",
+      "The line significantly increased by 1.5 from Year 2010 to 2011,decreased by 1.5 from Year 2014 to 2015, and lastly, increased by 1.15 from Year 2015 to 2016.",
+      "Maximum Inflation rate, about 3.14 was reported at Year 2011",
+      "Minimum Inflation rate about 0.12 was reached at Year 2015"
    ],
-   "trends": [
-      {},
-      {
-         "1": "6",
-         "12": "9"
-      },
-      {
-         "3": "11",
-         "14": "14"
-      },
-      {
-         "3": "0",
-         "14": "2"
-      },
-      {
-         "3": "2",
-         "14": "4"
-      },
-      {
-         "3": "4",
-         "14": "6"
-      },
-      {
-         "3": "9",
-         "14": "11"
-      }
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Inflation rate, containing a total of 15 data points.",
+      " In general Inflation rate has rose over the Year.",
+      "Inflation rate is roughly constant from 2010 to 2014, slightly increasing from 2014 to 2016, and finally roughly constant from 2016 to 2024."
    ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Inflation rate, containing a total of 15 data points.",
+      " In general Inflation rate has rose over the Year.",
+      "Inflation rate is roughly constant from 2010 to 2014, slightly increasing from 2014 to 2016, and finally roughly constant from 2016 to 2024.",
+      "Maximum Inflation rate, about 3.14 was reported at Year 2011",
+      "Minimum Inflation rate about 0.12 was reached at Year 2015"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Inflation rate, containing a total of 15 data points.",
+      " Overall Inflation rate has increased over the Year.",
+      "Inflation rate is roughly constant from 2010 to 2014, slightly increasing from 2014 to 2016, and finally roughly constant from 2016 to 2024.",
+      "Maximum Inflation rate, about 3.14 was reported at Year 2011",
+      "Minimum Inflation rate about 0.12 was reached at Year 2015",
+      "The line drastically increased by 1.9 times from Year 2010 to 2011,decreased by 13.5 times from Year 2014 to 2015, and lastly, increased by 10.6 times from Year 2015 to 2016."
+   ],
+   "trends": [],
    "data": [
       {
          "Year": "2024",

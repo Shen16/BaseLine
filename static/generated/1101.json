@@ -1,18 +1,32 @@
 {
-   "title": "Test",
+   "title": "Leading 5 selling countries of IKEA products 2018",
    "xAxis": "Country",
    "yAxis": "Sales share",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 5 categories on the x axis representing Country, and Sales share in each Country on the y axis.",
-      " The highest category is found at Germany where Sales share is 15.0.",
-      " Followed by 15.0 in .",
-      " The lowest category is found at United Kingdom where Sales share is 6.0.",
-      " The highest value at Germany is almost 2.5 times larger than the minimum value of United Kingdom. ",
-      " The highest value at Germany is almost 2.5 times larger than the minimum value of United Kingdom. ",
-      " The difference between the max Country Germany and min Country United Kingdom is 9.0. "
+      "This is a bar chart. It shows Sales share for 5 number of Countrys. ",
+      "The maximum Sales share 15.0 is found at Country Germany and the minimum is found at United Kingdom where Country is 6.0. ",
+      "The maximum Country Germany has got 2.5 times higher Sales share than the minimum Country United Kingdom. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing Country in the x axis and Sales share in the y axis. ",
+      "The maximum Sales share 15.0 is found at Country Germany and the minimum is found at United Kingdom where Country is 6.0. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Sales share for 5 number of Countrys. ",
+      "The maximum Sales share 15.0 is found at Country Germany and the minimum is found at United Kingdom where Country is 6.0. ",
+      "The maximum Country Germany has got 2.5 times higher Sales share than the minimum Country United Kingdom. "
+   ],
+   "max_summary": [
+      "This bar chart has 5 columns on the x axis representing Country, and Sales share in each Country on the y axis. ",
+      "The Sales share is highest at Country Germany and lowest at Country United Kingdom. ",
+      "Second maximum Sales share is found at Country . ",
+      "Country United Kingdom has 2.5 times less Sales share than Country Germany which is the highest. ",
+      "Sales share at Country Germany is 15.0 , second place is  at 15.0, and thirdly is France at 8.0.",
+      "Similar Sales share is found in Country United Kingdom, and China. ",
+      "The Country United Kingdom has 1.56 times less Sales share than average. "
    ],
    "trends": [
       {},

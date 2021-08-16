@@ -1,33 +1,42 @@
 {
-   "title": "Test",
+   "title": "Number of slot machines and other mobile gaming devices in casinos Nevada 1965 to 2018",
    "xAxis": "Year",
    "yAxis": "Number of slots in thousands",
    "columnType": "two",
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Number of slots in thousands, with a total of 18 data points.",
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of slots in thousands. In total the number of data points it has is 18.",
       " Overall Number of slots in thousands has increased over the Year.",
-      "Number of slots in thousands is slightly increasing from 1965 to 1995, and lastly roughly constant from 1995 to 2018.",
+      "Number of slots in thousands is slightly increasing from 1965 to 1995, and finally roughly constant from 1995 to 2018.",
+      "The line rapidly ",
+      "The most drastic increase took place within the Year 1985 and 1990.",
+      "The highest Number of slots in thousands, of value 213.8 was reached at Year 2000",
+      "Minimum Number of slots in thousands about 25.45 was reached at Year 1965"
+   ],
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Number of slots in thousands, containing a total of 18 data points.",
+      " In general Number of slots in thousands has rose over the Year.",
+      "Number of slots in thousands is slightly increasing from 1965 to 1995, and finally roughly constant from 1995 to 2018."
+   ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of slots in thousands. In total the number of data points it has is 18.",
+      " Overall Number of slots in thousands has increased over the Year.",
+      "Number of slots in thousands is slightly increasing from 1965 to 1995, and finally roughly constant from 1995 to 2018.",
       "The steepest increase occurs in between the Year 1985 and 1990.",
-      "Max Number of slots in thousands about 213.8 was recorded at Year 2000",
-      "Min Number of slots in thousands about 25.45 was recorded at Year 1965",
-      "#########################################################################",
-      "This line chart has an x axis representing Year and a y axis representing Number of slots in thousands, with a total of 18 data points. The chart has 2 significant trends.",
-      " The longest trend is slightly decreasing which exists from 2000 to 2018.",
-      " Contrarily, the next significant trend is extremely increasing which exists from 1965 to 2000."
+      "The highest Number of slots in thousands, of value 213.8 was reached at Year 2000",
+      "Minimum Number of slots in thousands about 25.45 was reached at Year 1965"
    ],
-   "trends": [
-      {},
-      {
-         "1": "0",
-         "12": "10"
-      },
-      {
-         "3": "10",
-         "14": "17"
-      }
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Number of slots in thousands, containing a total of 18 data points.",
+      " Overall Number of slots in thousands has increased over the Year.",
+      "Number of slots in thousands is slightly increasing from 1965 to 1995, and finally roughly constant from 1995 to 2018.",
+      "The most drastic increase took place within the Year 1985 and 1990.",
+      "The highest Number of slots in thousands, of value 213.8 was reached at Year 2000",
+      "Minimum Number of slots in thousands about 25.45 was reached at Year 1965",
+      "The line rapidly "
    ],
+   "trends": [],
    "data": [
       {
          "Year": "2018",

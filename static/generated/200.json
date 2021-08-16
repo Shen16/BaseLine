@@ -1,18 +1,33 @@
 {
-   "title": "Test",
+   "title": "Player expenses ( payroll ) of Seattle Sounders FC 2019",
    "xAxis": "Seattle Sounders Players",
    "yAxis": "Payroll in thousand U.S. dollars",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 26 categories on the x axis representing Seattle Sounders Players, and Payroll in thousand U.S. dollars in each Seattle Sounders Players on the y axis.",
-      " The highest category is found at Nicolas Lodeiro where Payroll in thousand U.S. dollars is 2502.5.",
-      " Followed by 2502.5 in .",
-      " The lowest category is found at Alex Roldan where Payroll in thousand U.S. dollars is 57.23.",
-      " The highest value at Nicolas Lodeiro is almost 43.73 times larger than the minimum value of Alex Roldan. ",
-      " The highest value at Nicolas Lodeiro is almost 43.73 times larger than the minimum value of Alex Roldan. ",
-      " The difference between the max Seattle Sounders Players Nicolas Lodeiro and min Seattle Sounders Players Alex Roldan is 2445.27. "
+      "This bar chart has 26 columns on the x axis representing Seattle Sounders Players, and Payroll in thousand U.S. dollars in each Seattle Sounders Players on the y axis. ",
+      "The Payroll in thousand U.S. dollars is highest at Seattle Sounders Players Nicolas Lodeiro and lowest at Seattle Sounders Players Alex Roldan. ",
+      "There is a difference of 2445.27 between the maximum Seattle Sounders Players Nicolas Lodeiro and minimum Seattle Sounders Players Alex Roldan. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Payroll in thousand U.S. dollars for 26 number of Seattle Sounders Playerss. ",
+      "The Payroll in thousand U.S. dollars is highest at Seattle Sounders Players Nicolas Lodeiro and lowest at Seattle Sounders Players Alex Roldan. "
+   ],
+   "mid_summary": [
+      "This bar chart has 26 columns on the x axis representing Seattle Sounders Players, and Payroll in thousand U.S. dollars in each Seattle Sounders Players on the y axis. ",
+      "The Payroll in thousand U.S. dollars is highest at Seattle Sounders Players Nicolas Lodeiro and lowest at Seattle Sounders Players Alex Roldan. ",
+      "There is a difference of 2445.27 between the maximum Seattle Sounders Players Nicolas Lodeiro and minimum Seattle Sounders Players Alex Roldan. "
+   ],
+   "max_summary": [
+      "This bar chart has 26 columns on the x axis representing Seattle Sounders Players, and Payroll in thousand U.S. dollars in each Seattle Sounders Players on the y axis. ",
+      "Seattle Sounders Players Nicolas Lodeiro has the highest Payroll in thousand U.S. dollars and Alex Roldan has the lowest Payroll in thousand U.S. dollars. ",
+      "The second highest Payroll in thousand U.S. dollars is appeared to be the Seattle Sounders Players . ",
+      "The highest Seattle Sounders Players Nicolas Lodeiro has 2445.27 more Payroll in thousand U.S. dollars than the lowest Seattle Sounders Players Alex Roldan. ",
+      "The Seattle Sounders Players Nicolas Lodeiro has the highest Payroll in thousand U.S. dollars, followed by , and Victor Rodriguez. Down to the Seattle Sounders Players Alex Roldan which is the lowest. ",
+      "Seattle Sounders Players Henry Wingo, Jonathan Campbell, and Saad Abdul-Salaam have a similar Payroll in thousand U.S. dollars that is 70.25. ",
+      "The Seattle Sounders Players Alex Roldan tends to be 5.16 percent lower than average. ",
+      "The Payroll in thousand U.S. dollars is 12621.18 if we add up values of all Seattle Sounders Playerss. "
    ],
    "trends": [
       {},

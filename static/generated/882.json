@@ -1,5 +1,5 @@
 {
-   "title": "Test",
+   "title": "Number of customer transactions at the Home Depot and Lowe 's worldwide 2011 to 2018",
    "labels": [
       "Year",
       "Home Depot",
@@ -9,15 +9,37 @@
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This is a multi-line chart with 2 lines representing Home Depot, and Lowe's. ",
-      "The line for Home Depot has the highest values across Year with a mean value of 1470.0, ",
-      "and it peaked at 2018 with a value of 1621.0.",
-      "Lowe's mostly had the least y-axis name with a mean value of 877.0, ",
-      "which peaked at 2017 with a value of 953.0. ",
-      "Lowe's reported the lowest y-axis name  about 804.0 in Year 2012",
-      "Overall Home Depot is gradually increasing, Lowe's is roughly constant,  throughout the Year",
-      "The difference of y_axis name between Home Depot and Lowe's is greater at Year 2018 compared to the Year 2011.",
-      "The greatest difference of y_axis name between Home Depot and Lowe's occurs at Year 2018 and the smallest difference occurs at 2011."
+      "This is a multi-line chart with 2 lines representing Home Depot, and Lowe's. The y axis denotes SOME LABEL and the x axis denotes Year.",
+      "Overall Home Depot, and Lowe's are gradually increasing,  throughout the Year",
+      "The ranking of the lines from topmost to botommmost is as follows: 1. Home Depot, and lastly, 2. Lowe's. ",
+      "Throughout the period, Home Depot generally had the highest SOME LABEL relative to others with an average of 1470.0, and it reached its maximum at 2018 with a value of 1621.0.",
+      "The botommost line, Lowe's,  has a mean of 877.0, and peaked at 2017. ",
+      "The minimum SOME LABEL about 804.0, occured at 2012 by Lowe's.",
+      "The difference of SOME LABEL between Home Depot and Lowe's is greater at Year 2018 compared to the Year 2011."
+   ],
+   "xAxis": "Year",
+   "yAxis": "SOME LABEL",
+   "min_summary": [
+      "The given chart is of multi-line type with 2 lines namely Home Depot, and Lowe's. The y axis represents SOME LABEL and the x axis represents Year.",
+      "Overall Home Depot, and Lowe's are gradually increasing,  throughout the Year",
+      "Throughout the period, Home Depot generally had the highest SOME LABEL relative to others with an average of 1470.0, and it reached its maximum at 2018 with a value of 1621.0.",
+      "The botommost line, Lowe's,  has a mean of 877.0, and peaked at 2017. "
+   ],
+   "mid_summary": [
+      "You are viewing a chart of multi-line type with 2 lines denoting Home Depot, and Lowe's. The y axis indicates the SOME LABEL and the x axis indicates Year.",
+      "Overall Home Depot, and Lowe's are gradually increasing,  throughout the Year",
+      "The lines ordered according to average values of SOME LABEL in descending order is: 1. Home Depot, and lastly, 2. Lowe's. ",
+      "Throughout the period, Home Depot generally had the highest SOME LABEL relative to others with an average of 1470.0, and it reached its maximum at 2018 with a value of 1621.0.",
+      "Lowe's mostly had the least SOME LABEL with a mean value of 877.0, which peaked at 2017 with a value of 953.0. "
+   ],
+   "max_summary": [
+      "The given chart is of multi-line type with 2 lines namely Home Depot, and Lowe's. The y axis represents SOME LABEL and the x axis represents Year.",
+      "Overall Home Depot, and Lowe's are gradually increasing,  throughout the Year",
+      "The ranking of the lines from topmost to botommmost is as follows: 1. Home Depot, and lastly, 2. Lowe's. ",
+      "Overall across the Year, Home Depot mostly maintained the highest SOME LABEL when compared to others with a mean value of 1470.0, and it peaked at 2018.",
+      "The botommost line, Lowe's,  has a mean of 877.0, and peaked at 2017. ",
+      "Lowe's reported the lowest SOME LABEL about 804.0 in Year 2012",
+      "The difference of SOME LABEL between Home Depot and Lowe's is greater at Year 2018 compared to the Year 2011."
    ],
    "trends": [
       {},

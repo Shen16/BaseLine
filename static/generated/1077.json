@@ -1,5 +1,5 @@
 {
-   "title": "Test",
+   "title": "Luxury retail segment growth in the United Kingdom ( UK ) 2008 to 2018",
    "labels": [
       "Year",
       "Luxury segment",
@@ -9,14 +9,35 @@
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This is a multi-line chart with 2 lines representing Luxury segment, and All retail. ",
-      "The line for Luxury segment has the highest values across Year with a mean value of 24.4, ",
-      "and it peaked at 2013-2018 with a value of 24.8.",
-      "All retail mostly had the least y-axis name with a mean value of 9.5, ",
-      "which peaked at 2013-2018 with a value of 11.9. ",
+      "The given chart is of multi-line type with 2 lines namely Luxury segment, and All retail. The y axis represents SOME LABEL and the x axis represents Year.",
       "Overall All retail is gradually increasing, Luxury segment is roughly constant,  throughout the Year",
-      "The difference of y_axis name between Luxury segment and All retail is smaller at Year 2013-2018 compared to the Year 2008-2013.",
-      "The greatest difference of y_axis name between Luxury segment and All retail occurs at Year 2008-2013 and the smallest difference occurs at 2013-2018."
+      "The ranking of the lines from topmost to botommmost is as follows: 1. Luxury segment, and lastly, 2. All retail. ",
+      "Overall across the Year, Luxury segment mostly maintained the highest SOME LABEL when compared to others with a mean value of 24.4, and it peaked at 2013-2018.",
+      "All retail mostly had the least SOME LABEL with a mean value of 9.5, which peaked at 2013-2018 with a value of 11.9. ",
+      "The greatest difference of SOME LABEL between Luxury segment and All retail occurs at Year 2008-2013 and the smallest difference occurs at 2013-2018."
+   ],
+   "xAxis": "Year",
+   "yAxis": "SOME LABEL",
+   "min_summary": [
+      "You are viewing a chart of multi-line type with 2 lines denoting Luxury segment, and All retail. The y axis indicates the SOME LABEL and the x axis indicates Year.",
+      "Overall All retail is gradually increasing, Luxury segment is roughly constant,  throughout the Year",
+      "Overall across the Year, Luxury segment mostly maintained the highest SOME LABEL when compared to others with a mean value of 24.4, and it peaked at 2013-2018.",
+      "All retail mostly had the least SOME LABEL with a mean value of 9.5, which peaked at 2013-2018 with a value of 11.9. "
+   ],
+   "mid_summary": [
+      "You are viewing a chart of multi-line type with 2 lines denoting Luxury segment, and All retail. The y axis indicates the SOME LABEL and the x axis indicates Year.",
+      "Overall All retail is gradually increasing, Luxury segment is roughly constant,  throughout the Year",
+      "The lines ordered according to average values of SOME LABEL in descending order is: 1. Luxury segment, and lastly, 2. All retail. ",
+      "Overall across the Year, Luxury segment mostly maintained the highest SOME LABEL when compared to others with a mean value of 24.4, and it peaked at 2013-2018.",
+      "All retail mostly had the least SOME LABEL with a mean value of 9.5, which peaked at 2013-2018 with a value of 11.9. "
+   ],
+   "max_summary": [
+      "The given chart is of multi-line type with 2 lines namely Luxury segment, and All retail. The y axis represents SOME LABEL and the x axis represents Year.",
+      "Overall All retail is gradually increasing, Luxury segment is roughly constant,  throughout the Year",
+      "The lines ordered according to average values of SOME LABEL in descending order is: 1. Luxury segment, and lastly, 2. All retail. ",
+      "Throughout the period, Luxury segment generally had the highest SOME LABEL relative to others with an average of 24.4, and it reached its maximum at 2013-2018 with a value of 24.8.",
+      "The botommost line, All retail,  has a mean of 9.5, and peaked at 2013-2018. ",
+      "The greatest difference of SOME LABEL between Luxury segment and All retail occurs at Year 2008-2013 and the smallest difference occurs at 2013-2018."
    ],
    "trends": [
       {},

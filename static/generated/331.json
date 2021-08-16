@@ -1,5 +1,5 @@
 {
-   "title": "Test",
+   "title": "Mobile/fixed market share of Vodafone in its main markets 2018",
    "labels": [
       "Country",
       "Mobile market",
@@ -9,12 +9,30 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart has 6 categories of Country on the x axis representing 2 groups: Mobile market, and Fixed market.",
-      " Averaging these 2 groups, the highest category is found for Country Germany with a mean value of 27.5.",
-      " Followed by South Africa/Africa (Vodacom Group) with a mean value of 23.15.",
-      " The lowest category is observed at United Kingdom that has a mean value of 14.05",
-      " showing a difference of 64.7% with the maximum value.",
-      " In case of South Africa/Africa (Vodacom Group), Mobile market shows more dominance than any other Country and it has the lowest value in Spain. "
+      "This grouped bar chart shows Market share on the Y-axis for 6 different Countrys for 2 groups Mobile market, and Fixed market that are presented on the X-axis. ",
+      " Country South Africa/Africa (Vodacom Group) had the maximum Market share among all 2 groups, and it was for Mobile market. The minimum Market share was observed in Country South Africa/Africa (Vodacom Group) for Fixed market. ",
+      " In Country South Africa/Africa (Vodacom Group), Mobile market had the maximum Market share and it saw the lowest in Country Spain out of all 6 Countrys. ",
+      "Country South Africa/Africa (Vodacom Group) and Spain had the biggest gap of 289.0 between the highest and lowest Market share found for Mobile market. "
+   ],
+   "xAxis": "Country",
+   "yAxis": "Market share",
+   "min_summary": [
+      "This grouped bar chart represents 6 different Countrys on X-axis for 2 groups Mobile market, and Fixed market. On the Y-axis it shows their corresponding Market share. ",
+      " Country South Africa/Africa (Vodacom Group) had the maximum Market share among all 2 groups, and it was for Mobile market. The minimum Market share was observed in Country South Africa/Africa (Vodacom Group) for Fixed market. "
+   ],
+   "mid_summary": [
+      "This grouped bar chart shows Market share on the Y-axis for 6 different Countrys for 2 groups Mobile market, and Fixed market that are presented on the X-axis. ",
+      " Country South Africa/Africa (Vodacom Group) had the maximum Market share among all 2 groups, and it was for Mobile market. The minimum Market share was observed in Country South Africa/Africa (Vodacom Group) for Fixed market. ",
+      " In Country South Africa/Africa (Vodacom Group), Mobile market had the maximum Market share and it saw the lowest in Country Spain out of all 6 Countrys. ",
+      "Country South Africa/Africa (Vodacom Group) and Spain had the biggest gap of 289.0 between the highest and lowest Market share found for Mobile market. "
+   ],
+   "max_summary": [
+      "This grouped bar chart represents 6 different Countrys on X-axis for 2 groups Mobile market, and Fixed market. On the Y-axis it shows their corresponding Market share. ",
+      " Out of all 2 groups, Mobile market had the highest Market share in Country South Africa/Africa (Vodacom Group) and Fixed market had the lowest Market share in Country South Africa/Africa (Vodacom Group). ",
+      " Among all the Countrys, Mobile market had the highest Market share 463.0 in Country South Africa/Africa (Vodacom Group) and lowest value 174.0 in Country Spain. ",
+      " There is a gap of 289.0 between the highest and lowest Market share found for Mobile market in Country South Africa/Africa (Vodacom Group) and Spain. ",
+      " Among the groups, Mobile market had the biggest difference in Market share. Where the maximum Market share was 2.66 times larger than the minimum Market share. ",
+      "On average, the Country Germany had the highest Market share for all 2 groups Mobile market, and Fixed market. Whereas United Kingdom had the lowest average Market share. "
    ],
    "trends": [
       {},

@@ -1,16 +1,30 @@
 {
-   "title": "Test",
+   "title": "Countries with the largest number of cosmetic procedures 2018",
    "xAxis": "Country",
    "yAxis": "Number of procedures",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 10 categories on the x axis representing Country, and Number of procedures in each Country on the y axis.",
-      "United States is higher than any other categories with value 4361867.0, followed by , and Mexico. Down to category Thailand with the lowest value of 140123.0. ",
-      " The highest value at United States is almost 31.13 times larger than the minimum value of Thailand. ",
-      " The highest value at United States is almost 31.13 times larger than the minimum value of Thailand. ",
-      " The difference between the max Country United States and min Country Thailand is 4221744.0. "
+      "This bar chart has 10 columns on the x axis representing Country, and Number of procedures in each Country on the y axis. ",
+      "The maximum Number of procedures 4361867.0 is found at Country United States and the minimum is found at Thailand where Country is 140123.0. ",
+      "The difference of Number of procedures between the highest and lowest Country is 4221744.0. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing Country in the x axis and Number of procedures in the y axis. ",
+      "The Number of procedures is appeared to be the highest at Country United States and lowest at Country Thailand. "
+   ],
+   "mid_summary": [
+      "This bar chart has 10 columns on the x axis representing Country, and Number of procedures in each Country on the y axis. ",
+      "The maximum Number of procedures 4361867.0 is found at Country United States and the minimum is found at Thailand where Country is 140123.0. ",
+      "The difference of Number of procedures between the highest and lowest Country is 4221744.0. "
+   ],
+   "max_summary": [
+      "This bar chart has 10 columns on the x axis representing Country, and Number of procedures in each Country on the y axis. ",
+      "The maximum Number of procedures 4361867.0 is found at Country United States and the minimum is found at Thailand where Country is 140123.0. ",
+      "The highest Country United States has 4221744.0 more Number of procedures than the lowest Country Thailand. ",
+      "The Country United States has the highest Number of procedures, followed by , and Mexico. Down to the Country Thailand which is the lowest. ",
+      "The Country Thailand tends to be 3.73 percent lower than average. "
    ],
    "trends": [
       {},

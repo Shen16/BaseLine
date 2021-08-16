@@ -1,15 +1,30 @@
 {
-   "title": "Test",
+   "title": "Chained consumer price index of all urban consumers 2000 to 2019",
    "xAxis": "December value",
    "yAxis": "Chained Consumer Price Index (1999=100)",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 20 categories on the x axis representing December value, and Chained Consumer Price Index (1999=100) in each December value on the y axis.",
-      " The highest category is found at 2019 where Chained Consumer Price Index (1999=100) is 144.73.",
-      " Followed by 144.73 in .",
-      " The lowest category is found at 2000 where Chained Consumer Price Index (1999=100) is 102.6."
+      "This is a bar chart. It shows Chained Consumer Price Index (1999=100) for 20 number of December values. ",
+      "The maximum Chained Consumer Price Index (1999=100) 144.73 is found at December value 2019 and the minimum is found at 2000 where December value is 102.6. ",
+      "December value 2000 has 1.41 times less Chained Consumer Price Index (1999=100) than December value 2019 which is the highest. "
+   ],
+   "min_summary": [
+      "This bar chart has 20 columns on the x axis representing December value, and Chained Consumer Price Index (1999=100) in each December value on the y axis. ",
+      "December value 2019 has the highest Chained Consumer Price Index (1999=100) and 2000 has the lowest Chained Consumer Price Index (1999=100). "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Chained Consumer Price Index (1999=100) for 20 number of December values. ",
+      "The maximum Chained Consumer Price Index (1999=100) 144.73 is found at December value 2019 and the minimum is found at 2000 where December value is 102.6. ",
+      "December value 2000 has 1.41 times less Chained Consumer Price Index (1999=100) than December value 2019 which is the highest. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Chained Consumer Price Index (1999=100) for 20 number of December values. ",
+      "The Chained Consumer Price Index (1999=100) is appeared to be the highest at December value 2019 and lowest at December value 2000. ",
+      "There is a difference of 42.13 between the maximum December value 2019 and minimum December value 2000. ",
+      "The December value 2019 has the highest Chained Consumer Price Index (1999=100), followed by , and 2017. Down to the December value 2000 which is the lowest. ",
+      "The December value 2019 has 1.17 times more Chained Consumer Price Index (1999=100) than average. "
    ],
    "trends": [
       {},

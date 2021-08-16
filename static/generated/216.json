@@ -1,16 +1,30 @@
 {
-   "title": "Test",
+   "title": "Fifty Shades of Grey : U.S. sales figures in 2012 , by platform",
    "xAxis": "Copy Type",
    "yAxis": "Number of copies in millions",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 2 categories on the x axis representing Copy Type, and Number of copies in millions in each Copy Type on the y axis.",
-      "",
-      " The highest value at Print is almost 1.93 times larger than the minimum value of Digital. ",
-      " The highest value at Print is almost 1.93 times larger than the minimum value of Digital. ",
-      " The difference between the max Copy Type Print and min Copy Type Digital is 14.0. "
+      "This bar chart has 2 columns on the x axis representing Copy Type, and Number of copies in millions in each Copy Type on the y axis. ",
+      "The maximum Number of copies in millions 29.0 is found at Copy Type Print and the minimum is found at Digital where Copy Type is 15.0. ",
+      "The Number of copies in millions of Copy Type Print is 1.93% larger than the minimum value at Digital. "
+   ],
+   "min_summary": [
+      "This bar chart has 2 columns on the x axis representing Copy Type, and Number of copies in millions in each Copy Type on the y axis. ",
+      "The maximum Number of copies in millions 29.0 is found at Copy Type Print and the minimum is found at Digital where Copy Type is 15.0. "
+   ],
+   "mid_summary": [
+      "This bar chart has 2 columns on the x axis representing Copy Type, and Number of copies in millions in each Copy Type on the y axis. ",
+      "The maximum Number of copies in millions 29.0 is found at Copy Type Print and the minimum is found at Digital where Copy Type is 15.0. ",
+      "The Number of copies in millions of Copy Type Print is 1.93% larger than the minimum value at Digital. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Copy Type in the x axis and Number of copies in millions in the y axis. ",
+      "Copy Type Print has the highest Number of copies in millions and Digital has the lowest Number of copies in millions. ",
+      "The minimum Copy Type Digital has got 1.93 times less Number of copies in millions than the maximum Copy Type Print. ",
+      "The lowest value 15.0 at Digital is almost 1.32 times smaller than the average value 22.0. ",
+      "The Number of copies in millions is 44.0 if we add up values of all Copy Types. "
    ],
    "trends": [
       {},

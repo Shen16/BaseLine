@@ -1,5 +1,5 @@
 {
-   "title": "Test",
+   "title": "Population of Spain in 2019 by gender and autonomous community",
    "labels": [
       "Community",
       "Male",
@@ -9,11 +9,30 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart has 19 categories of Community on the x axis representing 2 groups: Male, and Female.",
-      " Averaging these 2 groups, the highest category is found for Community Andalusia with a mean value of 4223280.5.",
-      " The lowest category is observed at Melilla that has a mean value of 42143.0",
-      " showing a difference of 196.0% with the maximum value.",
-      " In case of Andalusia, Male shows more dominance than any other Community and it has the lowest value in Melilla. "
+      "This grouped bar chart represents 19 different Communitys on X-axis for 2 groups Male, and Female. On the Y-axis it shows their corresponding Population. ",
+      " Out of all 2 groups, Female had the highest Population in Community Andalusia and Female had the lowest Population in Community Ceuta. ",
+      " Among all the Communitys, Male had the highest Population in Community Andalusia and lowest Population in Community Melilla. ",
+      " The maximum Population for Male that was found in Community Andalusia was 98.1 times larger than the minimum Population observed in Community Melilla. "
+   ],
+   "xAxis": "Community",
+   "yAxis": "Population",
+   "min_summary": [
+      "This grouped bar chart represents 19 different Communitys on X-axis for 2 groups Male, and Female. On the Y-axis it shows their corresponding Population. ",
+      " In Community Andalusia, Female had the highest Population 4277660.0 among the 2 groups and in Ceuta, Female had the lowest Population 41649.0. "
+   ],
+   "mid_summary": [
+      "This grouped bar chart represents 19 different Communitys on X-axis for 2 groups Male, and Female. On the Y-axis it shows their corresponding Population. ",
+      " Out of all 2 groups, Female had the highest Population in Community Andalusia and Female had the lowest Population in Community Ceuta. ",
+      " Among all the Communitys, Male had the highest Population in Community Andalusia and lowest Population in Community Melilla. ",
+      " The maximum Population for Male that was found in Community Andalusia was 98.1 times larger than the minimum Population observed in Community Melilla. "
+   ],
+   "max_summary": [
+      "This grouped bar chart represents 19 different Communitys on X-axis for 2 groups Male, and Female. On the Y-axis it shows their corresponding Population. ",
+      " In Community Andalusia, Female had the highest Population 4277660.0 among the 2 groups and in Ceuta, Female had the lowest Population 41649.0. ",
+      " Among all the Communitys, Male had the highest Population in Community Andalusia and lowest Population in Community Melilla. ",
+      " There is a gap of 4126403.0 between the highest and lowest Population found for Male in Community Andalusia and Melilla. ",
+      " Among all 2 groups, Male had the gap of 4126403.0 between the maximum and minimum Population observed in Community Andalusia and Melilla respectively. ",
+      "On average, the Community Andalusia had the highest Population for all 2 groups Male, and Female. Whereas Melilla had the lowest average Population. "
    ],
    "trends": [
       {},

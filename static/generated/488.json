@@ -1,18 +1,31 @@
 {
-   "title": "Test",
+   "title": "Density of the population of Finland in 2018 , by region",
    "xAxis": "Finnish Region",
    "yAxis": "Number of inhabitants per square kilometer",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 19 categories on the x axis representing Finnish Region, and Number of inhabitants per square kilometer in each Finnish Region on the y axis.",
-      " The highest category is found at Uusimaa where Number of inhabitants per square kilometer is 183.7.",
-      " Followed by 183.7 in .",
-      " The lowest category is found at Lapland where Number of inhabitants per square kilometer is 1.9.",
-      " The highest value at Uusimaa is almost 96.68 times larger than the minimum value of Lapland. ",
-      " The highest value at Uusimaa is almost 96.68 times larger than the minimum value of Lapland. ",
-      " The difference between the max Finnish Region Uusimaa and min Finnish Region Lapland is 181.79999999999998. "
+      "This is a bar chart representing Finnish Region in the x axis and Number of inhabitants per square kilometer in the y axis. ",
+      "The Number of inhabitants per square kilometer is highest at Finnish Region Uusimaa and lowest at Finnish Region Lapland. ",
+      "The highest Finnish Region Uusimaa has 181.8 more Number of inhabitants per square kilometer than the lowest Finnish Region Lapland. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing Finnish Region in the x axis and Number of inhabitants per square kilometer in the y axis. ",
+      "The Number of inhabitants per square kilometer is highest at Finnish Region Uusimaa and lowest at Finnish Region Lapland. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Finnish Region in the x axis and Number of inhabitants per square kilometer in the y axis. ",
+      "The Number of inhabitants per square kilometer is highest at Finnish Region Uusimaa and lowest at Finnish Region Lapland. ",
+      "The highest Finnish Region Uusimaa has 181.8 more Number of inhabitants per square kilometer than the lowest Finnish Region Lapland. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Finnish Region in the x axis and Number of inhabitants per square kilometer in the y axis. ",
+      "Finnish Region Uusimaa has the highest Number of inhabitants per square kilometer and Lapland has the lowest Number of inhabitants per square kilometer. ",
+      "The second highest Number of inhabitants per square kilometer is appeared to be the Finnish Region . ",
+      "The lowest value at Finnish Region Lapland is 96.68x times less than the highest value at Uusimaa. ",
+      "Number of inhabitants per square kilometer at Finnish Region Uusimaa is 183.7 , second place is  at 183.7, and thirdly is Pirkanmaa at 40.9.",
+      "The highest value 183.7 at Uusimaa is almost 6.18 times larger than the average value 29.73. "
    ],
    "trends": [
       {},

@@ -1,38 +1,42 @@
 {
-   "title": "Test",
+   "title": "Japan : number of internet users 2017 to 2023",
    "xAxis": "Year",
    "yAxis": "Number of internet users in millions",
    "columnType": "two",
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Number of internet users in millions, with a total of 7 data points.",
-      " Overall Number of internet users in millions has increased over the Year.",
-      "Number of internet users in millions is slightly increasing from 2017 to 2018, and lastly roughly constant from 2018 to 2023.",
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of internet users in millions. In total the number of data points it has is 7.",
+      " In general Number of internet users in millions has stayed the same over the Year.",
+      "Number of internet users in millions is slightly increasing from 2017 to 2018, and finally roughly constant from 2018 to 2023.",
+      "The line significantly ",
       "The steepest increase occurs in between the Year 2017 and 2018.",
-      "Max Number of internet users in millions about 117.9 was recorded at Year 2019,  2020, and 2021",
-      "Min Number of internet users in millions about 115.8 was recorded at Year 2017",
-      "#########################################################################",
-      "This line chart has an x axis representing Year and a y axis representing Number of internet users in millions, with a total of 7 data points. The chart has 3 significant trends.",
-      " The longest trend is slightly decreasing which exists from 2021 to 2023.",
-      " But, the next significant trend is slightly constant which exists from 2019 to 2021.",
-      " But, the next significant trend is extremely increasing which exists from 2017 to 2019."
+      "The highest Number of internet users in millions, of value 117.9 was reached at Year 2019,  2020, and 2021",
+      "Minimum Number of internet users in millions about 115.8 was reached at Year 2017"
    ],
-   "trends": [
-      {},
-      {
-         "1": "0",
-         "12": "2"
-      },
-      {
-         "3": "2",
-         "14": "4"
-      },
-      {
-         "3": "4",
-         "14": "6"
-      }
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Number of internet users in millions, containing a total of 7 data points.",
+      " Overall Number of internet users in millions has increased over the Year.",
+      "Number of internet users in millions is slightly increasing from 2017 to 2018, and finally roughly constant from 2018 to 2023."
    ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of internet users in millions. In total the number of data points it has is 7.",
+      " Overall Number of internet users in millions has increased over the Year.",
+      "Number of internet users in millions is slightly increasing from 2017 to 2018, and finally roughly constant from 2018 to 2023.",
+      "The most drastic increase took place within the Year 2017 and 2018.",
+      "The highest Number of internet users in millions, of value 117.9 was reached at Year 2019,  2020, and 2021",
+      "Minimum Number of internet users in millions about 115.8 was reached at Year 2017"
+   ],
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of internet users in millions. In total the number of data points it has is 7.",
+      " Overall Number of internet users in millions has increased over the Year.",
+      "Number of internet users in millions is slightly increasing from 2017 to 2018, and finally roughly constant from 2018 to 2023.",
+      "The steepest increase occurs in between the Year 2017 and 2018.",
+      "The highest Number of internet users in millions, of value 117.9 was reached at Year 2019,  2020, and 2021",
+      "Minimum Number of internet users in millions about 115.8 was reached at Year 2017",
+      "The line significantly "
+   ],
+   "trends": [],
    "data": [
       {
          "Year": "2023",

@@ -1,16 +1,33 @@
 {
-   "title": "Test",
+   "title": "Average number of minutes waiting in the emergency department in the UK 2011 to 2018",
    "xAxis": "Month",
    "yAxis": "Number of minutes",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 42 categories on the x axis representing Month, and Number of minutes in each Month on the y axis.",
-      "Mar 2016 is higher than any other categories with value 69.0, followed by , and May 2016. Down to category Jan 2015 with the lowest value of 46.0. ",
-      " The highest value at Mar 2016 is almost 1.5 times larger than the minimum value of Jan 2015. ",
-      " The highest value at Mar 2016 is almost 1.5 times larger than the minimum value of Jan 2015. ",
-      " The difference between the max Month Mar 2016 and min Month Jan 2015 is 23.0. "
+      "This is a bar chart representing Month in the x axis and Number of minutes in the y axis. ",
+      "The Number of minutes is highest at Month Mar 2016 and lowest at Month Jan 2015. ",
+      "The difference of Number of minutes between the highest and lowest Month is 23.0. "
+   ],
+   "min_summary": [
+      "This bar chart has 42 columns on the x axis representing Month, and Number of minutes in each Month on the y axis. ",
+      "The Number of minutes is highest at Month Mar 2016 and lowest at Month Jan 2015. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Month in the x axis and Number of minutes in the y axis. ",
+      "The Number of minutes is highest at Month Mar 2016 and lowest at Month Jan 2015. ",
+      "The difference of Number of minutes between the highest and lowest Month is 23.0. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Month in the x axis and Number of minutes in the y axis. ",
+      "The Number of minutes is highest at Month Mar 2016 and lowest at Month Jan 2015. ",
+      "There is a difference of 23.0 between the maximum Month Mar 2016 and minimum Month Jan 2015. ",
+      "The Month Mar 2016 has the highest Number of minutes, followed by , and May 2016. Down to the Month Jan 2015 which is the lowest. ",
+      "The Number of minutes has declined over the past 42 Months. ",
+      "Month Jul 2015, May 2015, Jul 2013, Nov 2012, Sep 2012, May 2012, Sep 2011, and Jul 2011 have the same Number of minutes. ",
+      "The average Number of minutes in all 42 Months is 55.45. ",
+      "The Number of minutes is 2329.0 if we add up values of all Months. "
    ],
    "trends": [
       {},

@@ -1,38 +1,42 @@
 {
-   "title": "Test",
+   "title": "Games industry M & A transactions cumulative value worldwide 2010 to 2016",
    "xAxis": "Year",
    "yAxis": "Value in million U.S. dollars",
    "columnType": "two",
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Value in million U.S. dollars, with a total of 7 data points.",
+      "This is a line chart with an x axis representing Year and a y axis representing Value in million U.S. dollars, containing a total of 7 data points.",
       " Overall Value in million U.S. dollars has increased over the Year.",
       "Value in million U.S. dollars is gradually increasing from 2010 to 2011, roughly constant from 2011 to 2012, slightly increasing from 2012 to 2013, and lastly roughly constant from 2013 to 2016.",
+      "The line significantly increased by 1342.5 from Year 2010 to 2011,increased by 3787.6 from Year 2012 to 2013,remained stable by 3277.8 from Year 2013 to 2014, and lastly, remained stable by 3215.7 from Year 2015 to 2016.",
       "The steepest increase occurs in between the Year 2012 and 2013.",
-      "Max Value in million U.S. dollars about 7757.4 was recorded at Year 2014",
-      "Min Value in million U.S. dollars about 81.0 was recorded at Year 2010",
-      "#########################################################################",
-      "This line chart has an x axis representing Year and a y axis representing Value in million U.S. dollars, with a total of 7 data points. The chart has 3 significant trends.",
-      " The longest trend is slightly decreasing which exists from 2014 to 2016.",
-      " On the other hand, the next significant trend is extremely increasing which exists from 2012 to 2014.",
-      " In a similar manner, the next significant trend is moderately decreasing which exists from 2010 to 2012."
+      "Maximum Value in million U.S. dollars, about 7757.4 was reported at Year 2014",
+      "Minimum Value in million U.S. dollars about 81.0 was reached at Year 2010"
    ],
-   "trends": [
-      {},
-      {
-         "1": "0",
-         "12": "2"
-      },
-      {
-         "3": "2",
-         "14": "4"
-      },
-      {
-         "3": "4",
-         "14": "6"
-      }
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Value in million U.S. dollars. In total the number of data points it has is 7.",
+      " In general Value in million U.S. dollars has rose over the Year.",
+      "Value in million U.S. dollars is gradually increasing from 2010 to 2011, roughly constant from 2011 to 2012, slightly increasing from 2012 to 2013, and lastly roughly constant from 2013 to 2016."
    ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Value in million U.S. dollars. In total the number of data points it has is 7.",
+      " In general Value in million U.S. dollars has rose over the Year.",
+      "Value in million U.S. dollars is gradually increasing from 2010 to 2011, roughly constant from 2011 to 2012, slightly increasing from 2012 to 2013, and lastly roughly constant from 2013 to 2016.",
+      "The steepest increase occurs in between the Year 2012 and 2013.",
+      "Maximum Value in million U.S. dollars, about 7757.4 was reported at Year 2014",
+      "Minimum Value in million U.S. dollars about 81.0 was reached at Year 2010"
+   ],
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Value in million U.S. dollars. In total the number of data points it has is 7.",
+      " In general Value in million U.S. dollars has rose over the Year.",
+      "Value in million U.S. dollars is gradually increasing from 2010 to 2011, roughly constant from 2011 to 2012, slightly increasing from 2012 to 2013, and lastly roughly constant from 2013 to 2016.",
+      "The steepest increase occurs in between the Year 2012 and 2013.",
+      "Maximum Value in million U.S. dollars, about 7757.4 was reported at Year 2014",
+      "Minimum Value in million U.S. dollars about 81.0 was reached at Year 2010",
+      "The line rapidly increased by 1657.41% from Year 2010 to 2011,increased by 547.34% from Year 2012 to 2013,remained stable by 73.17% from Year 2013 to 2014, and lastly, remained stable by 73.71% from Year 2015 to 2016."
+   ],
+   "trends": [],
    "data": [
       {
          "Year": "2016",

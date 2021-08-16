@@ -1,16 +1,30 @@
 {
-   "title": "Test",
+   "title": "U.S. Christmas lights energy costs",
    "xAxis": "Lighting Type",
    "yAxis": "Energy cost in U.S. dollars",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 3 categories on the x axis representing Lighting Type, and Energy cost in U.S. dollars in each Lighting Type on the y axis.",
-      "",
-      " The highest value at Standard incandescent lights (125 lights 4 watts each) is almost 453.5 times larger than the minimum value of LED lights (280 lights 0.04 watts each). ",
-      " The highest value at Standard incandescent lights (125 lights 4 watts each) is almost 453.5 times larger than the minimum value of LED lights (280 lights 0.04 watts each). ",
-      " The difference between the max Lighting Type Standard incandescent lights (125 lights 4 watts each) and min Lighting Type LED lights (280 lights 0.04 watts each) is 27.150000000000002. "
+      "This bar chart has 3 columns on the x axis representing Lighting Type, and Energy cost in U.S. dollars in each Lighting Type on the y axis. ",
+      "The Energy cost in U.S. dollars is highest at Lighting Type Standard incandescent lights (125 lights 4 watts each) and lowest at Lighting Type LED lights (280 lights 0.04 watts each). ",
+      "The highest Lighting Type Standard incandescent lights (125 lights 4 watts each) has 27.15 more Energy cost in U.S. dollars than the lowest Lighting Type LED lights (280 lights 0.04 watts each). "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Energy cost in U.S. dollars for 3 number of Lighting Types. ",
+      "The Energy cost in U.S. dollars is highest at Lighting Type Standard incandescent lights (125 lights 4 watts each) and lowest at Lighting Type LED lights (280 lights 0.04 watts each). "
+   ],
+   "mid_summary": [
+      "This bar chart has 3 columns on the x axis representing Lighting Type, and Energy cost in U.S. dollars in each Lighting Type on the y axis. ",
+      "The Energy cost in U.S. dollars is highest at Lighting Type Standard incandescent lights (125 lights 4 watts each) and lowest at Lighting Type LED lights (280 lights 0.04 watts each). ",
+      "The highest Lighting Type Standard incandescent lights (125 lights 4 watts each) has 27.15 more Energy cost in U.S. dollars than the lowest Lighting Type LED lights (280 lights 0.04 watts each). "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Energy cost in U.S. dollars for 3 number of Lighting Types. ",
+      "The Energy cost in U.S. dollars is highest at Lighting Type Standard incandescent lights (125 lights 4 watts each) and lowest at Lighting Type LED lights (280 lights 0.04 watts each). ",
+      "Second maximum Energy cost in U.S. dollars is found at Lighting Type . ",
+      "The lowest value at Lighting Type LED lights (280 lights 0.04 watts each) is 453.5x times less than the highest value at Standard incandescent lights (125 lights 4 watts each). ",
+      "The average Energy cost in U.S. dollars in all 3 Lighting Types is 11.27. "
    ],
    "trends": [
       {},

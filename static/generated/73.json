@@ -1,16 +1,31 @@
 {
-   "title": "Test",
+   "title": "Top female table tennis players worldwide 2018",
    "xAxis": "Table Tennis Players",
    "yAxis": "Number of ranking points",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 20 categories on the x axis representing Table Tennis Players, and Number of ranking points in each Table Tennis Players on the y axis.",
-      "Yuling Zhu (China) is higher than any other categories with value 16524.0, followed by , and Meng Chen (China). Down to category Elizabeta Samara (Romania) with the lowest value of 10063.0. ",
-      " The highest value at Yuling Zhu (China) is almost 1.64 times larger than the minimum value of Elizabeta Samara (Romania). ",
-      " The highest value at Yuling Zhu (China) is almost 1.64 times larger than the minimum value of Elizabeta Samara (Romania). ",
-      " The difference between the max Table Tennis Players Yuling Zhu (China) and min Table Tennis Players Elizabeta Samara (Romania) is 6461.0. "
+      "This bar chart has 20 columns on the x axis representing Table Tennis Players, and Number of ranking points in each Table Tennis Players on the y axis. ",
+      "The maximum Number of ranking points 16524.0 is found at Table Tennis Players Yuling Zhu (China) and the minimum is found at Elizabeta Samara (Romania) where Table Tennis Players is 10063.0. ",
+      "The difference of Number of ranking points between the highest and lowest Table Tennis Players is 6461.0. "
+   ],
+   "min_summary": [
+      "This bar chart has 20 columns on the x axis representing Table Tennis Players, and Number of ranking points in each Table Tennis Players on the y axis. ",
+      "The Number of ranking points is appeared to be the highest at Table Tennis Players Yuling Zhu (China) and lowest at Table Tennis Players Elizabeta Samara (Romania). "
+   ],
+   "mid_summary": [
+      "This bar chart has 20 columns on the x axis representing Table Tennis Players, and Number of ranking points in each Table Tennis Players on the y axis. ",
+      "The maximum Number of ranking points 16524.0 is found at Table Tennis Players Yuling Zhu (China) and the minimum is found at Elizabeta Samara (Romania) where Table Tennis Players is 10063.0. ",
+      "The difference of Number of ranking points between the highest and lowest Table Tennis Players is 6461.0. "
+   ],
+   "max_summary": [
+      "This bar chart has 20 columns on the x axis representing Table Tennis Players, and Number of ranking points in each Table Tennis Players on the y axis. ",
+      "The Number of ranking points is appeared to be the highest at Table Tennis Players Yuling Zhu (China) and lowest at Table Tennis Players Elizabeta Samara (Romania). ",
+      "Second maximum Number of ranking points is found at Table Tennis Players . ",
+      "The highest Table Tennis Players Yuling Zhu (China) has 6461.0 more Number of ranking points than the lowest Table Tennis Players Elizabeta Samara (Romania). ",
+      "Table Tennis Players Yuling Zhu (China) is higher than any other Table Tennis Playerss with value 16524.0, followed by , and Meng Chen (China). Down to Table Tennis Players Elizabeta Samara (Romania) with the lowest value 10063.0. ",
+      "The average Number of ranking points in all 20 Table Tennis Playerss is 12892.5. "
    ],
    "trends": [
       {},

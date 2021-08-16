@@ -1,5 +1,5 @@
 {
-   "title": "Test",
+   "title": "2016 U.S. election : delegates won by Republican candidates",
    "labels": [
       "State",
       "Donald J. Trump",
@@ -11,12 +11,31 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart has 54 categories of State on the x axis representing 4 groups: Donald J. Trump, Ted Cruz, Marco Rubio, and John Kasich.",
-      " Averaging these 4 groups, the highest category is found for State Total with a mean value of 581.5.",
-      " Followed by California with a mean value of 43.0.",
-      " The lowest category is observed at Virgin Islands that has a mean value of 1.0",
-      " showing a difference of 199.3% with the maximum value.",
-      " In case of Total, Donald J. Trump shows more dominance than any other State with a value 1447.0 and it has the lowest value 0.0 in Utah.  However, Ted Cruz is the second impactful group, and it has the highest value 167.0 for State Total and the lowest 0.0 in case of Missouri. "
+      "This grouped bar chart shows SOME LABEL on the Y-axis for 54 different States for 4 groups Donald J. Trump, Ted Cruz, Marco Rubio, and John Kasich that are presented on the X-axis. ",
+      " In State Total, Donald J. Trump had the highest SOME LABEL 1447.0 among the 4 groups and in Utah, Donald J. Trump had the lowest SOME LABEL 0.0. ",
+      " Among all the States, Donald J. Trump had the highest SOME LABEL 1447.0 in State Total and lowest value 0.0 in State Utah. ",
+      " There is a gap of 1446.0 between the highest and lowest SOME LABEL found for Donald J. Trump in State Total and Utah. "
+   ],
+   "xAxis": "State",
+   "yAxis": "SOME LABEL",
+   "min_summary": [
+      "This grouped bar chart represents 54 different States on X-axis for 4 groups Donald J. Trump, Ted Cruz, Marco Rubio, and John Kasich. On the Y-axis it shows their corresponding SOME LABEL. ",
+      " Out of all 4 groups, Donald J. Trump had the highest SOME LABEL in State Total and Donald J. Trump had the lowest SOME LABEL in State Utah. "
+   ],
+   "mid_summary": [
+      "This grouped bar chart shows SOME LABEL on the Y-axis for 54 different States for 4 groups Donald J. Trump, Ted Cruz, Marco Rubio, and John Kasich that are presented on the X-axis. ",
+      " In State Total, Donald J. Trump had the highest SOME LABEL 1447.0 among the 4 groups and in Utah, Donald J. Trump had the lowest SOME LABEL 0.0. ",
+      " Among all the States, Donald J. Trump had the highest SOME LABEL 1447.0 in State Total and lowest value 0.0 in State Utah. ",
+      " There is a gap of 1446.0 between the highest and lowest SOME LABEL found for Donald J. Trump in State Total and Utah. "
+   ],
+   "max_summary": [
+      "This grouped bar chart represents 54 different States on X-axis for 4 groups Donald J. Trump, Ted Cruz, Marco Rubio, and John Kasich. On the Y-axis it shows their corresponding SOME LABEL. ",
+      " State Total had the maximum SOME LABEL among all 4 groups, and it was for Donald J. Trump. The minimum SOME LABEL was observed in State Utah for Donald J. Trump. ",
+      " Among all the States, Donald J. Trump had the highest SOME LABEL in State Total and lowest SOME LABEL in State Utah. ",
+      " There is a gap of 1446.0 between the highest and lowest SOME LABEL found for Donald J. Trump in State Total and Utah. ",
+      " Among the groups, Donald J. Trump had the biggest difference in SOME LABEL. Where the maximum SOME LABEL was 1447.0 times larger than the minimum SOME LABEL. ",
+      " Donald J. Trump had the maximum SOME LABEL out of all 4 groups in State Total followed by Donald J. Trump in Total, and the minimum SOME LABEL is found for Donald J. Trump in Utah. ",
+      "Averaging all 4 groups Donald J. Trump, Ted Cruz, Marco Rubio, and John Kasich, the State Total is the maximum SOME LABEL and Virgin Islands is the minimum SOME LABEL. "
    ],
    "trends": [
       {},

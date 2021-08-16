@@ -1,5 +1,5 @@
 {
-   "title": "Test",
+   "title": "Merck KGaA 's revenue by segment 2014 to 2018",
    "labels": [
       "Health Segment",
       "2014",
@@ -12,12 +12,31 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart has 3 categories of Health Segment on the x axis representing 5 groups: 2014, 2015, 2016, 2017, and 2018.",
-      " Averaging these 5 groups, the highest category is found for Health Segment Healthcare with a mean value of 6731.0.",
-      " Followed by Life Science with a mean value of 4752.6.",
-      " The lowest category is observed at Performance Materials that has a mean value of 2395.8",
-      " showing a difference of 95.0% with the maximum value.",
-      " In case of Healthcare, 2014 shows more dominance than any other Health Segment and it has the lowest value in Performance Materials. On the other hand, group 2015 is the second impactful group in this chart, and it's highest in case of Healthcare and has the minimum dominance for Health Segment Performance Materials. "
+      "This grouped bar chart represents 3 different Health Segments on X-axis for 5 groups 2014, 2015, 2016, 2017, and 2018. On the Y-axis it shows their corresponding Revenue in million euros. ",
+      " In Health Segment Healthcare, 2017 had the highest Revenue in million euros 6999.0 among the 5 groups and in Performance Materials, 2014 had the lowest Revenue in million euros 2060.0. ",
+      " In Health Segment Healthcare, 2016 had the maximum Revenue in million euros and it saw the lowest in Health Segment Performance Materials out of all 3 Health Segments. ",
+      "Health Segment Healthcare and Performance Materials had the biggest gap of 4344.0 between the highest and lowest Revenue in million euros found for 2016. "
+   ],
+   "xAxis": "Health Segment",
+   "yAxis": "Revenue in million euros",
+   "min_summary": [
+      "This grouped bar chart represents 3 different Health Segments on X-axis for 5 groups 2014, 2015, 2016, 2017, and 2018. On the Y-axis it shows their corresponding Revenue in million euros. ",
+      " Out of all 5 groups, 2017 had the highest Revenue in million euros in Health Segment Healthcare and 2014 had the lowest Revenue in million euros in Health Segment Performance Materials. "
+   ],
+   "mid_summary": [
+      "This grouped bar chart represents 3 different Health Segments on X-axis for 5 groups 2014, 2015, 2016, 2017, and 2018. On the Y-axis it shows their corresponding Revenue in million euros. ",
+      " In Health Segment Healthcare, 2017 had the highest Revenue in million euros 6999.0 among the 5 groups and in Performance Materials, 2014 had the lowest Revenue in million euros 2060.0. ",
+      " In Health Segment Healthcare, 2016 had the maximum Revenue in million euros and it saw the lowest in Health Segment Performance Materials out of all 3 Health Segments. ",
+      "Health Segment Healthcare and Performance Materials had the biggest gap of 4344.0 between the highest and lowest Revenue in million euros found for 2016. "
+   ],
+   "max_summary": [
+      "This grouped bar chart represents 3 different Health Segments on X-axis for 5 groups 2014, 2015, 2016, 2017, and 2018. On the Y-axis it shows their corresponding Revenue in million euros. ",
+      " In Health Segment Healthcare, 2017 had the highest Revenue in million euros 6999.0 among the 5 groups and in Performance Materials, 2014 had the lowest Revenue in million euros 2060.0. ",
+      " Among all the Health Segments, 2016 had the highest Revenue in million euros in Health Segment Healthcare and lowest Revenue in million euros in Health Segment Performance Materials. ",
+      " The maximum Revenue in million euros for 2016 that was found in Health Segment Healthcare was 2.73 times larger than the minimum Revenue in million euros observed in Health Segment Performance Materials. ",
+      " Among the groups, 2014 had the biggest difference in Revenue in million euros. Where the maximum Revenue in million euros was 3.21 times larger than the minimum Revenue in million euros. ",
+      " 2017 had the maximum Revenue in million euros out of all 5 groups in Health Segment Healthcare followed by 2017 in Healthcare, and the minimum Revenue in million euros is found for 2014 in Performance Materials. ",
+      "On average, the Health Segment Healthcare had the highest Revenue in million euros for all 5 groups 2014, 2015, 2016, 2017, and 2018. Whereas Performance Materials had the lowest average Revenue in million euros. "
    ],
    "trends": [
       {},

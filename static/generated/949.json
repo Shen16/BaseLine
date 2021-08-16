@@ -1,16 +1,33 @@
 {
-   "title": "Test",
+   "title": "Piracy - actual and attempted attacks worldwide by country 2019",
    "xAxis": "Country",
    "yAxis": "Number of incidents",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 7 categories on the x axis representing Country, and Number of incidents in each Country on the y axis.",
-      "Nigeria is higher than any other categories with value 35.0, followed by , and Singapore Staits. Down to category Venezuela with the lowest value of 6.0. ",
-      " The highest value at Nigeria is almost 5.83 times larger than the minimum value of Venezuela. ",
-      " The highest value at Nigeria is almost 5.83 times larger than the minimum value of Venezuela. ",
-      " The difference between the max Country Nigeria and min Country Venezuela is 29.0. "
+      "This bar chart has 7 columns on the x axis representing Country, and Number of incidents in each Country on the y axis. ",
+      "The Number of incidents is appeared to be the highest at Country Nigeria and lowest at Country Venezuela. ",
+      "There is a difference of 29.0 between the maximum Country Nigeria and minimum Country Venezuela. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing Country in the x axis and Number of incidents in the y axis. ",
+      "The Number of incidents is appeared to be the highest at Country Nigeria and lowest at Country Venezuela. "
+   ],
+   "mid_summary": [
+      "This bar chart has 7 columns on the x axis representing Country, and Number of incidents in each Country on the y axis. ",
+      "The Number of incidents is appeared to be the highest at Country Nigeria and lowest at Country Venezuela. ",
+      "There is a difference of 29.0 between the maximum Country Nigeria and minimum Country Venezuela. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Number of incidents for 7 number of Countrys. ",
+      "The maximum Number of incidents 35.0 is found at Country Nigeria and the minimum is found at Venezuela where Country is 6.0. ",
+      "The second highest Number of incidents is appeared to be the Country . ",
+      "There is a difference of 29.0 between the maximum Country Nigeria and minimum Country Venezuela. ",
+      "Number of incidents at Country Nigeria is 35.0 , second place is  at 35.0, and thirdly is Singapore Staits at 12.0.",
+      "Similar Number of incidents is found in Country Venezuela, and Cameroon. ",
+      "The Country Venezuela has 2.33 times less Number of incidents than average. ",
+      "Summing up the values of all Countrys, we get total 105.0. "
    ],
    "trends": [
       {},

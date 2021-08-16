@@ -1,48 +1,42 @@
 {
-   "title": "Test",
+   "title": "Brooklyn Nets ' revenue 2001 to 2019",
    "xAxis": "Year",
    "yAxis": "Revenue in million U.S. dollars",
    "columnType": "two",
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Revenue in million U.S. dollars, with a total of 18 data points.",
+      "This is a line chart with an x axis representing Year and a y axis representing Revenue in million U.S. dollars, containing a total of 18 data points.",
       " Overall Revenue in million U.S. dollars has increased over the Year.",
       "Revenue in million U.S. dollars is roughly constant from 01/02 to 11/12, rapidly increasing from 11/12 to 12/13, roughly constant from 12/13 to 15/16, slightly increasing from 15/16 to 16/17, and lastly roughly constant from 16/17 to 18/19.",
+      "The line drastically increased by 2.3 times from Year 11/12 to 12/13.",
       "The steepest increase occurs in between the Year 11/12 and 12/13.",
-      "Max Revenue in million U.S. dollars about 304.0 was recorded at Year 18/19",
-      "Min Revenue in million U.S. dollars about 84.0 was recorded at Year 11/12",
-      "#########################################################################",
-      "This line chart has an x axis representing Year and a y axis representing Revenue in million U.S. dollars, with a total of 18 data points. The chart has 5 significant trends.",
-      " The longest trend is extremely increasing which exists from 11/12 to 18/19.",
-      " Correspondingly, the next significant trend is slightly decreasing which exists from 06/07 to 09/10.",
-      " On the contrary, the next significant trend is slightly decreasing which exists from 01/02 to 04/05.",
-      " Conversely, the next significant trend is slightly constant which exists from 09/10 to 11/12.",
-      " On the other hand, the next significant trend is moderately increasing which exists from 04/05 to 06/07."
+      "Maximum Revenue in million U.S. dollars, about 304.0 was reported at Year 18/19",
+      "The lowest Revenue in million U.S. dollars, of value 84.0 was reported at Year 11/12"
    ],
-   "trends": [
-      {},
-      {
-         "1": "0",
-         "12": "7"
-      },
-      {
-         "3": "9",
-         "14": "12"
-      },
-      {
-         "3": "14",
-         "14": "17"
-      },
-      {
-         "3": "7",
-         "14": "9"
-      },
-      {
-         "3": "12",
-         "14": "14"
-      }
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Revenue in million U.S. dollars, containing a total of 18 data points.",
+      " Overall Revenue in million U.S. dollars has increased over the Year.",
+      "Revenue in million U.S. dollars is roughly constant from 01/02 to 11/12, rapidly increasing from 11/12 to 12/13, roughly constant from 12/13 to 15/16, slightly increasing from 15/16 to 16/17, and lastly roughly constant from 16/17 to 18/19."
    ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Revenue in million U.S. dollars, containing a total of 18 data points.",
+      " In general Revenue in million U.S. dollars has rose over the Year.",
+      "Revenue in million U.S. dollars is roughly constant from 01/02 to 11/12, rapidly increasing from 11/12 to 12/13, roughly constant from 12/13 to 15/16, slightly increasing from 15/16 to 16/17, and lastly roughly constant from 16/17 to 18/19.",
+      "The steepest increase occurs in between the Year 11/12 and 12/13.",
+      "Maximum Revenue in million U.S. dollars, about 304.0 was reported at Year 18/19",
+      "The lowest Revenue in million U.S. dollars, of value 84.0 was reported at Year 11/12"
+   ],
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Revenue in million U.S. dollars. In total the number of data points it has is 18.",
+      " Overall Revenue in million U.S. dollars has increased over the Year.",
+      "Revenue in million U.S. dollars is roughly constant from 01/02 to 11/12, rapidly increasing from 11/12 to 12/13, roughly constant from 12/13 to 15/16, slightly increasing from 15/16 to 16/17, and lastly roughly constant from 16/17 to 18/19.",
+      "The most drastic increase took place within the Year 11/12 and 12/13.",
+      "Maximum Revenue in million U.S. dollars, about 304.0 was reported at Year 18/19",
+      "The lowest Revenue in million U.S. dollars, of value 84.0 was reported at Year 11/12",
+      "The line rapidly increased by 126.19% from Year 11/12 to 12/13."
+   ],
+   "trends": [],
    "data": [
       {
          "Year": "18/19",

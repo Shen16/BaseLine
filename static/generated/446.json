@@ -1,5 +1,5 @@
 {
-   "title": "Test",
+   "title": "EU car sales : share of diesel engines 2013 - 2017 , by brand",
    "labels": [
       "Brand",
       "2013",
@@ -9,12 +9,30 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart has 18 categories of Brand on the x axis representing 2 groups: 2013, and 2017.",
-      " Averaging these 2 groups, the highest category is found for Brand Volvo with a mean value of 83.0.",
-      " Followed by BMW with a mean value of 74.5.",
-      " The lowest category is observed at Toyota that has a mean value of 17.0",
-      " showing a difference of 132.0% with the maximum value.",
-      " In case of Volvo, 2013 shows more dominance than any other Brand with a value 87.0 and it has the lowest value 26.0 in Toyota. "
+      "This grouped bar chart represents 18 different Brands on X-axis for 2 groups 2013, and 2017. On the Y-axis it shows their corresponding Share of passenger car sales. ",
+      " Brand Volvo had the maximum Share of passenger car sales among all 2 groups, and it was for 2013. The minimum Share of passenger car sales was observed in Brand Toyota for 2017. ",
+      " In Brand Volvo, 2013 had the maximum Share of passenger car sales and it saw the lowest in Brand Toyota out of all 18 Brands. ",
+      " There is a gap of 61.0 between the highest and lowest Share of passenger car sales found for 2013 in Brand Volvo and Toyota. "
+   ],
+   "xAxis": "Brand",
+   "yAxis": "Share of passenger car sales",
+   "min_summary": [
+      "This grouped bar chart represents 18 different Brands on X-axis for 2 groups 2013, and 2017. On the Y-axis it shows their corresponding Share of passenger car sales. ",
+      " In Brand Volvo, 2013 had the highest Share of passenger car sales 87.0 among the 2 groups and in Toyota, 2017 had the lowest Share of passenger car sales 8.0. "
+   ],
+   "mid_summary": [
+      "This grouped bar chart represents 18 different Brands on X-axis for 2 groups 2013, and 2017. On the Y-axis it shows their corresponding Share of passenger car sales. ",
+      " Brand Volvo had the maximum Share of passenger car sales among all 2 groups, and it was for 2013. The minimum Share of passenger car sales was observed in Brand Toyota for 2017. ",
+      " In Brand Volvo, 2013 had the maximum Share of passenger car sales and it saw the lowest in Brand Toyota out of all 18 Brands. ",
+      " There is a gap of 61.0 between the highest and lowest Share of passenger car sales found for 2013 in Brand Volvo and Toyota. "
+   ],
+   "max_summary": [
+      "This grouped bar chart shows Share of passenger car sales on the Y-axis for 18 different Brands for 2 groups 2013, and 2017 that are presented on the X-axis. ",
+      " Brand Volvo had the maximum Share of passenger car sales among all 2 groups, and it was for 2013. The minimum Share of passenger car sales was observed in Brand Toyota for 2017. ",
+      " Among all the Brands, 2013 had the highest Share of passenger car sales in Brand Volvo and lowest Share of passenger car sales in Brand Toyota. ",
+      " There is a gap of 61.0 between the highest and lowest Share of passenger car sales found for 2013 in Brand Volvo and Toyota. ",
+      " Among all 2 groups, 2013 had the gap of 61.0 between the maximum and minimum Share of passenger car sales observed in Brand Volvo and Toyota respectively. ",
+      "Averaging all 2 groups 2013, and 2017, the Brand Volvo is the maximum Share of passenger car sales and Toyota is the minimum Share of passenger car sales. "
    ],
    "trends": [
       {},

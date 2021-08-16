@@ -1,33 +1,42 @@
 {
-   "title": "Test",
+   "title": "Sales forecast for eye care product Restasis in U.S. 2014 to 2025",
    "xAxis": "Year",
    "yAxis": "Sales in million U.S. dollars",
    "columnType": "two",
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Sales in million U.S. dollars, with a total of 12 data points.",
-      " Overall Sales in million U.S. dollars has decreased over the Year.",
-      "Sales in million U.S. dollars is slightly increasing from 2025 to 2023, roughly constant from 2023 to 2021, and lastly slightly decreasing from 2021 to 2014.",
-      "The steepest increase occurs in between the Year 2024 and 2023.",
-      "Max Sales in million U.S. dollars about 2332.0 was recorded at Year 2023",
-      "Min Sales in million U.S. dollars about 1084.0 was recorded at Year 2014",
-      "#########################################################################",
-      "This line chart has an x axis representing Year and a y axis representing Sales in million U.S. dollars, with a total of 12 data points. The chart has 2 significant trends.",
-      " The longest trend is extremely decreasing which exists from 2023 to 2014.",
-      " On the contrary, the next significant trend is slightly increasing which exists from 2025 to 2023."
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Sales in million U.S. dollars. In total the number of data points it has is 12.",
+      " Overall Sales in million U.S. dollars has increased over the Year.",
+      "Sales in million U.S. dollars is slightly increasing from 2014 to 2020, roughly constant from 2020 to 2023, and lastly slightly decreasing from 2023 to 2025.",
+      "The line drastically ",
+      "The most drastic decrease took place within the Year 2023 and 2024.",
+      "Maximum Sales in million U.S. dollars, about 2332.0 was reported at Year 2023",
+      "Minimum Sales in million U.S. dollars about 1084.0 was reached at Year 2014"
    ],
-   "trends": [
-      {},
-      {
-         "1": "0",
-         "12": "9"
-      },
-      {
-         "3": "9",
-         "14": "11"
-      }
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Sales in million U.S. dollars, containing a total of 12 data points.",
+      " Overall Sales in million U.S. dollars has increased over the Year.",
+      "Sales in million U.S. dollars is slightly increasing from 2014 to 2020, roughly constant from 2020 to 2023, and lastly slightly decreasing from 2023 to 2025."
    ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Sales in million U.S. dollars, containing a total of 12 data points.",
+      " Overall Sales in million U.S. dollars has increased over the Year.",
+      "Sales in million U.S. dollars is slightly increasing from 2014 to 2020, roughly constant from 2020 to 2023, and lastly slightly decreasing from 2023 to 2025.",
+      "The steepest decrease occurs in between the Year 2023 and 2024.",
+      "Maximum Sales in million U.S. dollars, about 2332.0 was reported at Year 2023",
+      "Minimum Sales in million U.S. dollars about 1084.0 was reached at Year 2014"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Sales in million U.S. dollars, containing a total of 12 data points.",
+      " Overall Sales in million U.S. dollars has increased over the Year.",
+      "Sales in million U.S. dollars is slightly increasing from 2014 to 2020, roughly constant from 2020 to 2023, and lastly slightly decreasing from 2023 to 2025.",
+      "The steepest decrease occurs in between the Year 2023 and 2024.",
+      "Maximum Sales in million U.S. dollars, about 2332.0 was reported at Year 2023",
+      "Minimum Sales in million U.S. dollars about 1084.0 was reached at Year 2014",
+      "The line rapidly "
+   ],
+   "trends": [],
    "data": [
       {
          "Year": "2014",

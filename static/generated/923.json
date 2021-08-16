@@ -1,43 +1,42 @@
 {
-   "title": "Test",
+   "title": "Average ticket price Indiana Pacers ( NBA ) games 2015/16",
    "xAxis": "Year",
    "yAxis": "Average ticket price in U.S. dollars",
    "columnType": "two",
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Average ticket price in U.S. dollars, with a total of 10 data points.",
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Average ticket price in U.S. dollars. In total the number of data points it has is 10.",
       " Overall Average ticket price in U.S. dollars has decreased over the Year.",
-      "Average ticket price in U.S. dollars is roughly constant from 2006/07 to 2008/09, slightly decreasing from 2008/09 to 2009/10, roughly constant from 2009/10 to 2014/15, and lastly slightly increasing from 2014/15 to 2015/16.",
+      "Average ticket price in U.S. dollars is roughly constant from 2006/07 to 2008/09, slightly decreasing from 2008/09 to 2009/10, roughly constant from 2009/10 to 2014/15, and finally slightly increasing from 2014/15 to 2015/16.",
+      "The line significantly ",
       "The steepest decrease occurs in between the Year 2008/09 and 2009/10.",
-      "Max Average ticket price in U.S. dollars about 42.39 was recorded at Year 2006/07, and 2007/08",
-      "Min Average ticket price in U.S. dollars about 29.13 was recorded at Year 2010/11",
-      "#########################################################################",
-      "This line chart has an x axis representing Year and a y axis representing Average ticket price in U.S. dollars, with a total of 10 data points. The chart has 4 significant trends.",
-      " The longest trend is slightly decreasing which exists from 2006/07 to 2010/11.",
-      " Differently, the next significant trend is extremely increasing which exists from 2013/14 to 2015/16.",
-      " Also, the next significant trend is moderately increasing which exists from 2010/11 to 2012/13.",
-      " In a similar manner, the next significant trend is moderately constant which exists from 2012/13 to 2013/14."
+      "The highest Average ticket price in U.S. dollars, of value 42.39 was reached at Year 2006/07, and 2007/08",
+      "Minimum Average ticket price in U.S. dollars about 29.13 was reached at Year 2010/11"
    ],
-   "trends": [
-      {},
-      {
-         "1": "5",
-         "12": "9"
-      },
-      {
-         "3": "0",
-         "14": "2"
-      },
-      {
-         "3": "3",
-         "14": "5"
-      },
-      {
-         "3": "2",
-         "14": "3"
-      }
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Average ticket price in U.S. dollars, containing a total of 10 data points.",
+      " Overall Average ticket price in U.S. dollars has decreased over the Year.",
+      "Average ticket price in U.S. dollars is roughly constant from 2006/07 to 2008/09, slightly decreasing from 2008/09 to 2009/10, roughly constant from 2009/10 to 2014/15, and finally slightly increasing from 2014/15 to 2015/16."
    ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Average ticket price in U.S. dollars, containing a total of 10 data points.",
+      " In general Average ticket price in U.S. dollars has fallen over the Year.",
+      "Average ticket price in U.S. dollars is roughly constant from 2006/07 to 2008/09, slightly decreasing from 2008/09 to 2009/10, roughly constant from 2009/10 to 2014/15, and finally slightly increasing from 2014/15 to 2015/16.",
+      "The most drastic decrease took place within the Year 2008/09 and 2009/10.",
+      "The highest Average ticket price in U.S. dollars, of value 42.39 was reached at Year 2006/07, and 2007/08",
+      "Minimum Average ticket price in U.S. dollars about 29.13 was reached at Year 2010/11"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Average ticket price in U.S. dollars, containing a total of 10 data points.",
+      " In general Average ticket price in U.S. dollars has fallen over the Year.",
+      "Average ticket price in U.S. dollars is roughly constant from 2006/07 to 2008/09, slightly decreasing from 2008/09 to 2009/10, roughly constant from 2009/10 to 2014/15, and finally slightly increasing from 2014/15 to 2015/16.",
+      "The steepest decrease occurs in between the Year 2008/09 and 2009/10.",
+      "The highest Average ticket price in U.S. dollars, of value 42.39 was reached at Year 2006/07, and 2007/08",
+      "Minimum Average ticket price in U.S. dollars about 29.13 was reached at Year 2010/11",
+      "The line significantly "
+   ],
+   "trends": [],
    "data": [
       {
          "Year": "2015/16",

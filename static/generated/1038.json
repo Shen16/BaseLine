@@ -1,5 +1,5 @@
 {
-   "title": "Test",
+   "title": "Hanjin Shipping - number of TEUs 2016",
    "labels": [
       "Month",
       "Owned",
@@ -10,11 +10,32 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart has 8 categories of Month on the x axis representing 3 groups: Owned, Chartered, and Orderbook.",
-      " Averaging these 3 groups, the highest category is found for Month August 15 2016 with a mean value of 213851.33.",
-      " The lowest category is observed at July 12 2016 that has a mean value of 205454.0",
-      " showing a difference of 4.0% with the maximum value.",
-      " In case of August 15 2016, Owned shows more dominance than any other Month and it has the lowest value in July 12 2016. On the other hand, group Orderbook is highest in case of August 15 2016 and has minimum impact for Month July 12 2016. "
+      "This is a grouped bar chart showing SOME LABEL on the Y-axis throughout 8 Months for Owned, Chartered, and Orderbook on the X-axis. ",
+      " Over the 8 Months, the SOME LABEL for Orderbook have been decreased whereas climbed for Chartered. ",
+      " In Month June 13 2016, Chartered had the highest SOME LABEL 351338.0 among the 3 groups and in July 12 2016, Orderbook had the lowest SOME LABEL 0.0. ",
+      " In Month August 15 2016, Orderbook had the maximum SOME LABEL and it saw the lowest in Month July 12 2016 out of all 8 Months. "
+   ],
+   "xAxis": "Month",
+   "yAxis": "SOME LABEL",
+   "min_summary": [
+      "This is a grouped bar chart showing SOME LABEL on the Y-axis throughout 8 Months for Owned, Chartered, and Orderbook on the X-axis. ",
+      " All through the Months, the SOME LABEL for Orderbook have decreased. On the other hand, for Chartered the SOME LABEL have climbed. "
+   ],
+   "mid_summary": [
+      "This is a grouped bar chart showing SOME LABEL on the Y-axis throughout 8 Months for Owned, Chartered, and Orderbook on the X-axis. ",
+      " Over the 8 Months, the SOME LABEL for Orderbook have been decreased whereas climbed for Chartered. ",
+      " In Month June 13 2016, Chartered had the highest SOME LABEL 351338.0 among the 3 groups and in July 12 2016, Orderbook had the lowest SOME LABEL 0.0. ",
+      " In Month August 15 2016, Orderbook had the maximum SOME LABEL and it saw the lowest in Month July 12 2016 out of all 8 Months. "
+   ],
+   "max_summary": [
+      "This grouped bar chart represents SOME LABEL on the Y-axis. And, how the value changed throughout 8 Months for Owned, Chartered, and Orderbook. ",
+      " Over the 8 Months, the SOME LABEL for Orderbook have been decreased whereas climbed for Chartered. ",
+      " In Month June 13 2016, Chartered had the highest SOME LABEL 351338.0 among the 3 groups and in July 12 2016, Orderbook had the lowest SOME LABEL 0.0. ",
+      " In Month August 15 2016, Orderbook had the highest SOME LABEL among all 8 Months and it has the lowest SOME LABEL in Month July 12 2016. ",
+      " There is a gap of 30400.0 between the highest and lowest SOME LABEL found for Orderbook in Month August 15 2016 and July 12 2016. ",
+      " Out of all 3 groups, the highest gap between the maximum and minimum SOME LABEL was found in case of Chartered. ",
+      " Chartered had the maximum SOME LABEL out of all 3 groups in Month June 13 2016 followed by Chartered in June 13 2016, and the minimum SOME LABEL is found for Orderbook in July 12 2016. ",
+      "Averaging all 3 groups Owned, Chartered, and Orderbook, the Month August 15 2016 is the maximum SOME LABEL and July 12 2016 is the minimum SOME LABEL. "
    ],
    "trends": [
       {},

@@ -1,5 +1,5 @@
 {
-   "title": "Test",
+   "title": "Monthly consumer Price Index ( CPI ) in India July 2019",
    "labels": [
       "Month",
       "All India",
@@ -10,12 +10,32 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart has 6 categories of Month on the x axis representing 3 groups: All India, Urban, and Rural.",
-      " Averaging these 3 groups, the highest category is found for Month June with a mean value of 142.87.",
-      " Followed by May with a mean value of 141.97.",
-      " The lowest category is observed at January that has a mean value of 139.6",
-      " showing a difference of 2.3% with the maximum value.",
-      " In case of June, All India shows more dominance than any other Month with a value 1429.0 and it has the lowest value 1397.0 in January.  However, Urban is the second impactful group, and it has the highest value 1436.0 for Month June and the lowest 1410.0 in case of February. "
+      "This grouped bar chart represents Consumer price index on the Y-axis. And, how the value changed throughout 6 Months for All India, Urban, and Rural. ",
+      " Over the 6 Months, the Consumer price index for both Rural and Urban have grew. ",
+      " In Month June, Rural had the highest Consumer price index 1436.0 among the 3 groups and in January, Urban had the lowest Consumer price index 1380.0. ",
+      " In Month June, Rural had the maximum Consumer price index and it saw the lowest in Month February out of all 6 Months. "
+   ],
+   "xAxis": "Month",
+   "yAxis": "Consumer price index",
+   "min_summary": [
+      "This grouped bar chart represents Consumer price index on the Y-axis. And, how the value changed throughout 6 Months for All India, Urban, and Rural. ",
+      " Over the 6 Months, the Consumer price index for both Rural and Urban have grew. "
+   ],
+   "mid_summary": [
+      "This grouped bar chart represents Consumer price index on the Y-axis. And, how the value changed throughout 6 Months for All India, Urban, and Rural. ",
+      " Over the 6 Months, the Consumer price index for both Rural and Urban have grew. ",
+      " In Month June, Rural had the highest Consumer price index 1436.0 among the 3 groups and in January, Urban had the lowest Consumer price index 1380.0. ",
+      " In Month June, Rural had the maximum Consumer price index and it saw the lowest in Month February out of all 6 Months. "
+   ],
+   "max_summary": [
+      "This is a grouped bar chart showing Consumer price index on the Y-axis throughout 6 Months for All India, Urban, and Rural on the X-axis. ",
+      " Over the 6 Months, the Consumer price index for both Rural and Urban have grew. ",
+      " Out of all 3 groups, Rural had the highest Consumer price index in Month June and Urban had the lowest Consumer price index in Month January. ",
+      " In Month June, Rural had the maximum Consumer price index and it saw the lowest in Month February out of all 6 Months. ",
+      "Month June and February had the biggest gap of 26.0 between the highest and lowest Consumer price index found for Rural. ",
+      " Among the groups, Urban had the biggest difference in Consumer price index. Where the maximum Consumer price index was 1.03 times larger than the minimum Consumer price index. ",
+      " Rural had the maximum Consumer price index out of all 3 groups in Month June followed by Rural in June, and the minimum Consumer price index is found for Urban in January. ",
+      "Averaging all 3 groups All India, Urban, and Rural, the Month June is the maximum Consumer price index and January is the minimum Consumer price index. "
    ],
    "trends": [
       {},

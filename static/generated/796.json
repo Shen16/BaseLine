@@ -1,16 +1,33 @@
 {
-   "title": "Test",
+   "title": "Player expenses ( payroll ) of LA Galaxy ( MLS ) 2019",
    "xAxis": "Month",
    "yAxis": "Payroll in thousand U.S. dollars",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 30 categories on the x axis representing Month, and Payroll in thousand U.S. dollars in each Month on the y axis.",
-      "Zlatan Ibrahimovic is higher than any other categories with value 7200.0, followed by , and Romain Alessandrini. Down to category Diedie Traore with the lowest value of 56.25. ",
-      " The highest value at Zlatan Ibrahimovic is almost 128.0 times larger than the minimum value of Diedie Traore. ",
-      " The highest value at Zlatan Ibrahimovic is almost 128.0 times larger than the minimum value of Diedie Traore. ",
-      " The difference between the max Month Zlatan Ibrahimovic and min Month Diedie Traore is 7143.75. "
+      "This is a bar chart. It shows Payroll in thousand U.S. dollars for 30 number of Months. ",
+      "The maximum Payroll in thousand U.S. dollars 7200.0 is found at Month Zlatan Ibrahimovic and the minimum is found at Diedie Traore where Month is 56.25. ",
+      "There is a difference of 7143.75 between the maximum Month Zlatan Ibrahimovic and minimum Month Diedie Traore. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing Month in the x axis and Payroll in thousand U.S. dollars in the y axis. ",
+      "The maximum Payroll in thousand U.S. dollars 7200.0 is found at Month Zlatan Ibrahimovic and the minimum is found at Diedie Traore where Month is 56.25. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Payroll in thousand U.S. dollars for 30 number of Months. ",
+      "The maximum Payroll in thousand U.S. dollars 7200.0 is found at Month Zlatan Ibrahimovic and the minimum is found at Diedie Traore where Month is 56.25. ",
+      "There is a difference of 7143.75 between the maximum Month Zlatan Ibrahimovic and minimum Month Diedie Traore. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Payroll in thousand U.S. dollars for 30 number of Months. ",
+      "Month Zlatan Ibrahimovic has the highest Payroll in thousand U.S. dollars and Diedie Traore has the lowest Payroll in thousand U.S. dollars. ",
+      "Second maximum Payroll in thousand U.S. dollars is found at Month . ",
+      "The minimum Month Diedie Traore has got 128.0 times less Payroll in thousand U.S. dollars than the maximum Month Zlatan Ibrahimovic. ",
+      "The Month Zlatan Ibrahimovic has the highest Payroll in thousand U.S. dollars, followed by , and Romain Alessandrini. Down to the Month Diedie Traore which is the lowest. ",
+      "Over the past 30 Months, the Payroll in thousand U.S. dollars has reduced. ",
+      "Similar Payroll in thousand U.S. dollars is found in Month Emil Cuello, Matt Lampson, and Servando Carrasco. ",
+      "The average Payroll in thousand U.S. dollars in all 30 Months is 619.72. "
    ],
    "trends": [
       {},

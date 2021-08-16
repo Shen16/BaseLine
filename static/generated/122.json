@@ -1,16 +1,31 @@
 {
-   "title": "Test",
+   "title": "Global pineapple production by leading countries 2018",
    "xAxis": "Country",
    "yAxis": "Production in thousand metric tons",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 10 categories on the x axis representing Country, and Production in thousand metric tons in each Country on the y axis.",
-      "Costa Rica is higher than any other categories with value 3418.16, followed by , and Brazil. Down to category Colombia with the lowest value of 900.4. ",
-      " The highest value at Costa Rica is almost 3.8 times larger than the minimum value of Colombia. ",
-      " The highest value at Costa Rica is almost 3.8 times larger than the minimum value of Colombia. ",
-      " The difference between the max Country Costa Rica and min Country Colombia is 2517.7599999999998. "
+      "This bar chart has 10 columns on the x axis representing Country, and Production in thousand metric tons in each Country on the y axis. ",
+      "The maximum Production in thousand metric tons 3418.16 is found at Country Costa Rica and the minimum is found at Colombia where Country is 900.4. ",
+      "There is a difference of 2517.76 between the maximum Country Costa Rica and minimum Country Colombia. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Production in thousand metric tons for 10 number of Countrys. ",
+      "Country Costa Rica has the highest Production in thousand metric tons and Colombia has the lowest Production in thousand metric tons. "
+   ],
+   "mid_summary": [
+      "This bar chart has 10 columns on the x axis representing Country, and Production in thousand metric tons in each Country on the y axis. ",
+      "The maximum Production in thousand metric tons 3418.16 is found at Country Costa Rica and the minimum is found at Colombia where Country is 900.4. ",
+      "There is a difference of 2517.76 between the maximum Country Costa Rica and minimum Country Colombia. "
+   ],
+   "max_summary": [
+      "This bar chart has 10 columns on the x axis representing Country, and Production in thousand metric tons in each Country on the y axis. ",
+      "The maximum Production in thousand metric tons 3418.16 is found at Country Costa Rica and the minimum is found at Colombia where Country is 900.4. ",
+      "There is a difference of 2517.76 between the maximum Country Costa Rica and minimum Country Colombia. ",
+      "Production in thousand metric tons at Country Costa Rica is 3418.16 , second place is  at 3418.16, and thirdly is Brazil at 2650.48.",
+      "The Country Colombia has 1.75 times less Production in thousand metric tons than average. ",
+      "The Production in thousand metric tons is 19562.49 if we add up values of all Countrys. "
    ],
    "trends": [
       {},

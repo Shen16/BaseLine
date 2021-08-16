@@ -1,16 +1,31 @@
 {
-   "title": "Test",
+   "title": "Ranking of the largest web shops in Sweden 2018 , by revenue",
    "xAxis": "Web Shops",
    "yAxis": "Revenue in thousand SEK",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 10 categories on the x axis representing Web Shops, and Revenue in thousand SEK in each Web Shops on the y axis.",
-      "Dustin / Dustin home is higher than any other categories with value 8689669.0, followed by , and Ellos. Down to category Bygghemma.se with the lowest value of 927830.0. ",
-      " The highest value at Dustin / Dustin home is almost 9.37 times larger than the minimum value of Bygghemma.se. ",
-      " The highest value at Dustin / Dustin home is almost 9.37 times larger than the minimum value of Bygghemma.se. ",
-      " The difference between the max Web Shops Dustin / Dustin home and min Web Shops Bygghemma.se is 7761839.0. "
+      "This is a bar chart. It shows Revenue in thousand SEK for 10 number of Web Shopss. ",
+      "The Revenue in thousand SEK is highest at Web Shops Dustin / Dustin home and lowest at Web Shops Bygghemma.se. ",
+      "The difference of Revenue in thousand SEK between the highest and lowest Web Shops is 7761839.0. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Revenue in thousand SEK for 10 number of Web Shopss. ",
+      "The maximum Revenue in thousand SEK 8689669.0 is found at Web Shops Dustin / Dustin home and the minimum is found at Bygghemma.se where Web Shops is 927830.0. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Revenue in thousand SEK for 10 number of Web Shopss. ",
+      "The Revenue in thousand SEK is highest at Web Shops Dustin / Dustin home and lowest at Web Shops Bygghemma.se. ",
+      "The difference of Revenue in thousand SEK between the highest and lowest Web Shops is 7761839.0. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Revenue in thousand SEK for 10 number of Web Shopss. ",
+      "The maximum Revenue in thousand SEK 8689669.0 is found at Web Shops Dustin / Dustin home and the minimum is found at Bygghemma.se where Web Shops is 927830.0. ",
+      "There is a difference of 7761839.0 between the maximum Web Shops Dustin / Dustin home and minimum Web Shops Bygghemma.se. ",
+      "The Web Shops Dustin / Dustin home has the highest Revenue in thousand SEK, followed by , and Ellos. Down to the Web Shops Bygghemma.se which is the lowest. ",
+      "The Web Shops Bygghemma.se has 4.33 times less Revenue in thousand SEK than average. ",
+      "Summing up the values of all Web Shopss, we get total 20048867.0. "
    ],
    "trends": [
       {},

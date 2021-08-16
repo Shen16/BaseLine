@@ -1,27 +1,39 @@
 {
-   "title": "Test",
+   "title": "Projected increase of the national defense budget in Canada fiscal years 2018 to 2027",
    "xAxis": "Year",
    "yAxis": "Annual funding increase in million Canadian dollars",
    "columnType": "two",
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Annual funding increase in million Canadian dollars, with a total of 10 data points.",
+      "This is a line chart with an x axis representing Year and a y axis representing Annual funding increase in million Canadian dollars, containing a total of 10 data points.",
       " Overall Annual funding increase in million Canadian dollars has increased over the Year.",
       "Annual funding increase in million Canadian dollars is slightly increasing from 2017-2018 to 2021-2022, and lastly roughly constant from 2021-2022 to 2026-2027.",
-      "Max Annual funding increase in million Canadian dollars about 2300.0 was recorded at Year 2026-2027",
-      "Min Annual funding increase in million Canadian dollars about 184.0 was recorded at Year 2017-2018",
-      "#########################################################################",
-      "This line chart has an x axis representing Year and a y axis representing Annual funding increase in million Canadian dollars with a total of 10 data points. The chart has one significant trend.",
-      " This trend is increasing which exists from 2026-2027 to 2017-2018."
+      "The line significantly increased by 193.0 from Year 2017-2018 to 2018-2019.",
+      "Maximum Annual funding increase in million Canadian dollars, about 2300.0 was reported at Year 2026-2027",
+      "Minimum Annual funding increase in million Canadian dollars about 184.0 was reached at Year 2017-2018"
    ],
-   "trends": [
-      {},
-      {
-         "3": "0",
-         "14": "9"
-      }
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Annual funding increase in million Canadian dollars. In total the number of data points it has is 10.",
+      " Overall Annual funding increase in million Canadian dollars has increased over the Year.",
+      "Annual funding increase in million Canadian dollars is slightly increasing from 2017-2018 to 2021-2022, and lastly roughly constant from 2021-2022 to 2026-2027."
    ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Annual funding increase in million Canadian dollars. In total the number of data points it has is 10.",
+      " Overall Annual funding increase in million Canadian dollars has increased over the Year.",
+      "Annual funding increase in million Canadian dollars is slightly increasing from 2017-2018 to 2021-2022, and lastly roughly constant from 2021-2022 to 2026-2027.",
+      "Maximum Annual funding increase in million Canadian dollars, about 2300.0 was reported at Year 2026-2027",
+      "Minimum Annual funding increase in million Canadian dollars about 184.0 was reached at Year 2017-2018"
+   ],
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Annual funding increase in million Canadian dollars. In total the number of data points it has is 10.",
+      " Overall Annual funding increase in million Canadian dollars has increased over the Year.",
+      "Annual funding increase in million Canadian dollars is slightly increasing from 2017-2018 to 2021-2022, and lastly roughly constant from 2021-2022 to 2026-2027.",
+      "Maximum Annual funding increase in million Canadian dollars, about 2300.0 was reported at Year 2026-2027",
+      "Minimum Annual funding increase in million Canadian dollars about 184.0 was reached at Year 2017-2018",
+      "The line rapidly increased by 104.89% from Year 2017-2018 to 2018-2019."
+   ],
+   "trends": [],
    "data": [
       {
          "Year": "2026-2027",

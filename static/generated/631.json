@@ -1,16 +1,33 @@
 {
-   "title": "Test",
+   "title": "UFC : leading fighter earning totals as of May 2019",
    "xAxis": "Month",
    "yAxis": "Total earnings in million U.S. dollars",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 30 categories on the x axis representing Month, and Total earnings in million U.S. dollars in each Month on the y axis.",
-      "Conor McGregor is higher than any other categories with value 12.02, followed by , and Anderson Silva. Down to category Frank Mir with the lowest value of 3.51. ",
-      " The highest value at Conor McGregor is almost 3.42 times larger than the minimum value of Frank Mir. ",
-      " The highest value at Conor McGregor is almost 3.42 times larger than the minimum value of Frank Mir. ",
-      " The difference between the max Month Conor McGregor and min Month Frank Mir is 8.51. "
+      "This is a bar chart. It shows Total earnings in million U.S. dollars for 30 number of Months. ",
+      "The Total earnings in million U.S. dollars is highest at Month Conor McGregor and lowest at Month Frank Mir. ",
+      "The Total earnings in million U.S. dollars of Month Conor McGregor is 3.42% larger than the minimum value at Frank Mir. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Total earnings in million U.S. dollars for 30 number of Months. ",
+      "The maximum Total earnings in million U.S. dollars 12.02 is found at Month Conor McGregor and the minimum is found at Frank Mir where Month is 3.51. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Total earnings in million U.S. dollars for 30 number of Months. ",
+      "The Total earnings in million U.S. dollars is highest at Month Conor McGregor and lowest at Month Frank Mir. ",
+      "The Total earnings in million U.S. dollars of Month Conor McGregor is 3.42% larger than the minimum value at Frank Mir. "
+   ],
+   "max_summary": [
+      "This bar chart has 30 columns on the x axis representing Month, and Total earnings in million U.S. dollars in each Month on the y axis. ",
+      "Month Conor McGregor has the highest Total earnings in million U.S. dollars and Frank Mir has the lowest Total earnings in million U.S. dollars. ",
+      "Second maximum Total earnings in million U.S. dollars is found at Month . ",
+      "The highest Month Conor McGregor has 8.51 more Total earnings in million U.S. dollars than the lowest Month Frank Mir. ",
+      "Total earnings in million U.S. dollars at Month Conor McGregor is 12.02 , second place is  at 12.02, and thirdly is Anderson Silva at 8.11.",
+      "The Total earnings in million U.S. dollars has declined over the past 30 Months. ",
+      "Similar Total earnings in million U.S. dollars is found in Month Stipe Miocic, and Chris Weidman. ",
+      "The highest value 12.02 at Conor McGregor is almost 2.32 times larger than the average value 5.18. "
    ],
    "trends": [
       {},

@@ -1,16 +1,32 @@
 {
-   "title": "Test",
+   "title": "Reactions to racist posts on social media in the U.S. 2017",
    "xAxis": "Response",
    "yAxis": "Share of respondents",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 5 categories on the x axis representing Response, and Share of respondents in each Response on the y axis.",
-      "Ignore the post is higher than any other categories with value 40.0, followed by , and Comment on/ reply to the post. Down to category Discuss the content with the poster offline (e.g. on the phone in person etc.) with the lowest value of 6.0. ",
-      " The highest value at Ignore the post is almost 6.67 times larger than the minimum value of Discuss the content with the poster offline (e.g. on the phone in person etc.). ",
-      " The highest value at Ignore the post is almost 6.67 times larger than the minimum value of Discuss the content with the poster offline (e.g. on the phone in person etc.). ",
-      " The difference between the max Response Ignore the post and min Response Discuss the content with the poster offline (e.g. on the phone in person etc.) is 34.0. "
+      "This is a bar chart. It shows Share of respondents for 5 number of Responses. ",
+      "The Share of respondents is appeared to be the highest at Response Ignore the post and lowest at Response Discuss the content with the poster offline (e.g. on the phone in person etc.). ",
+      "The difference of Share of respondents between the highest and lowest Response is 34.0. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing Response in the x axis and Share of respondents in the y axis. ",
+      "The Share of respondents is highest at Response Ignore the post and lowest at Response Discuss the content with the poster offline (e.g. on the phone in person etc.). "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Share of respondents for 5 number of Responses. ",
+      "The Share of respondents is appeared to be the highest at Response Ignore the post and lowest at Response Discuss the content with the poster offline (e.g. on the phone in person etc.). ",
+      "The difference of Share of respondents between the highest and lowest Response is 34.0. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Share of respondents for 5 number of Responses. ",
+      "The Share of respondents is appeared to be the highest at Response Ignore the post and lowest at Response Discuss the content with the poster offline (e.g. on the phone in person etc.). ",
+      "The second highest Share of respondents is appeared to be the Response . ",
+      "Response Ignore the post has 6.67 times more Share of respondents than Response Discuss the content with the poster offline (e.g. on the phone in person etc.) which is has the lowest. ",
+      "Share of respondents at Response Ignore the post is 40.0 , second place is  at 40.0, and thirdly is Comment on/ reply to the post at 17.0.",
+      "The lowest value 6.0 at Discuss the content with the poster offline (e.g. on the phone in person etc.) is almost 1.98 times smaller than the average value 20.2. ",
+      "Summing up the values of all Responses, we get total 101.0. "
    ],
    "trends": [
       {},

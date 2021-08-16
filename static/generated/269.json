@@ -1,5 +1,5 @@
 {
-   "title": "Test",
+   "title": "Travel and tourism 's direct contribution to employment worldwide 2016 - 2017 , by region",
    "labels": [
       "Region",
       "2016",
@@ -9,12 +9,30 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart has 13 categories of Region on the x axis representing 2 groups: 2016, and 2017.",
-      " Averaging these 2 groups, the highest category is found for Region South Asia with a mean value of 29.21.",
-      " Followed by North East Asia with a mean value of 28.25.",
-      " The lowest category is observed at Central Asia that has a mean value of 0.47",
-      " showing a difference of 193.6% with the maximum value.",
-      " In case of South Asia, 2016 shows more dominance than any other Region and it has the lowest value in Central Asia. "
+      "This grouped bar chart shows Employment in millions on the Y-axis for 13 different Regions for 2 groups 2016, and 2017 that are presented on the X-axis. ",
+      " Out of all 2 groups, 2017 had the highest Employment in millions in Region North East Asia and 2017 had the lowest Employment in millions in Region Central Asia. ",
+      " In Region South Asia, 2016 had the maximum Employment in millions and it saw the lowest in Region Central Asia out of all 13 Regions. ",
+      " The maximum Employment in millions for 2016 that was found in Region South Asia was 50.28 times larger than the minimum Employment in millions observed in Region Central Asia. "
+   ],
+   "xAxis": "Region",
+   "yAxis": "Employment in millions",
+   "min_summary": [
+      "This grouped bar chart shows Employment in millions on the Y-axis for 13 different Regions for 2 groups 2016, and 2017 that are presented on the X-axis. ",
+      " In Region North East Asia, 2017 had the highest Employment in millions 3049.0 among the 2 groups and in Central Asia, 2017 had the lowest Employment in millions 38.0. "
+   ],
+   "mid_summary": [
+      "This grouped bar chart shows Employment in millions on the Y-axis for 13 different Regions for 2 groups 2016, and 2017 that are presented on the X-axis. ",
+      " Out of all 2 groups, 2017 had the highest Employment in millions in Region North East Asia and 2017 had the lowest Employment in millions in Region Central Asia. ",
+      " In Region South Asia, 2016 had the maximum Employment in millions and it saw the lowest in Region Central Asia out of all 13 Regions. ",
+      " The maximum Employment in millions for 2016 that was found in Region South Asia was 50.28 times larger than the minimum Employment in millions observed in Region Central Asia. "
+   ],
+   "max_summary": [
+      "This grouped bar chart represents 13 different Regions on X-axis for 2 groups 2016, and 2017. On the Y-axis it shows their corresponding Employment in millions. ",
+      " Out of all 2 groups, 2017 had the highest Employment in millions in Region North East Asia and 2017 had the lowest Employment in millions in Region Central Asia. ",
+      " Among all the Regions, 2016 had the highest Employment in millions 2866.0 in Region South Asia and lowest value 57.0 in Region Central Asia. ",
+      " There is a gap of 2809.0 between the highest and lowest Employment in millions found for 2016 in Region South Asia and Central Asia. ",
+      " Out of all 2 groups, the highest gap between the maximum and minimum Employment in millions was found in case of 2016. ",
+      "Averaging all 2 groups 2016, and 2017, the Region South Asia is the maximum Employment in millions and Central Asia is the minimum Employment in millions. "
    ],
    "trends": [
       {},

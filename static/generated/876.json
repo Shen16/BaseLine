@@ -1,16 +1,33 @@
 {
-   "title": "Test",
+   "title": "Small domestic appliances : revenue in the United Kingdom ( UK ) 2012 to 2019",
    "xAxis": "Quarter",
    "yAxis": "Revenue in million GBP",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 28 categories on the x axis representing Quarter, and Revenue in million GBP in each Quarter on the y axis.",
-      "Q4 2015 is higher than any other categories with value 844.0, followed by , and Q4 2016. Down to category Q3 2013 with the lowest value of 444.0. ",
-      " The highest value at Q4 2015 is almost 1.9 times larger than the minimum value of Q3 2013. ",
-      " The highest value at Q4 2015 is almost 1.9 times larger than the minimum value of Q3 2013. ",
-      " The difference between the max Quarter Q4 2015 and min Quarter Q3 2013 is 400.0. "
+      "This bar chart has 28 columns on the x axis representing Quarter, and Revenue in million GBP in each Quarter on the y axis. ",
+      "Quarter Q4 2015 has the highest Revenue in million GBP and Q3 2013 has the lowest Revenue in million GBP. ",
+      "The difference of Revenue in million GBP between the highest and lowest Quarter is 400.0. "
+   ],
+   "min_summary": [
+      "This bar chart has 28 columns on the x axis representing Quarter, and Revenue in million GBP in each Quarter on the y axis. ",
+      "The maximum Revenue in million GBP 844.0 is found at Quarter Q4 2015 and the minimum is found at Q3 2013 where Quarter is 444.0. "
+   ],
+   "mid_summary": [
+      "This bar chart has 28 columns on the x axis representing Quarter, and Revenue in million GBP in each Quarter on the y axis. ",
+      "Quarter Q4 2015 has the highest Revenue in million GBP and Q3 2013 has the lowest Revenue in million GBP. ",
+      "The difference of Revenue in million GBP between the highest and lowest Quarter is 400.0. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Quarter in the x axis and Revenue in million GBP in the y axis. ",
+      "The maximum Revenue in million GBP 844.0 is found at Quarter Q4 2015 and the minimum is found at Q3 2013 where Quarter is 444.0. ",
+      "Second maximum Revenue in million GBP is found at Quarter . ",
+      "The highest value at Quarter Q4 2015 is 1.9x times more than the lowest value at Q3 2013. ",
+      "The Quarter Q4 2015 has the highest Revenue in million GBP, followed by , and Q4 2016. Down to the Quarter Q3 2013 which is the lowest. ",
+      "Over the past 28 Quarters, the Revenue in million GBP has declined. ",
+      "Similar Revenue in million GBP is found in Quarter Q2 2019, and Q2 2015. ",
+      "Considered together, the average Revenue in million GBP in all 28 Quarters is roughly 580.18. "
    ],
    "trends": [
       {},

@@ -1,16 +1,33 @@
 {
-   "title": "Test",
+   "title": "India 's petroleum imports by value 2010 to 2019",
    "xAxis": "Years",
    "yAxis": "Import value in billion Indian rupees",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 9 categories on the x axis representing Years, and Import value in billion Indian rupees in each Years on the y axis.",
-      "FY 2014 is higher than any other categories with value 9978.85, followed by , and FY 2013. Down to category FY 2011 with the lowest value of 4822.82. ",
-      " The highest value at FY 2014 is almost 2.07 times larger than the minimum value of FY 2011. ",
-      " The highest value at FY 2014 is almost 2.07 times larger than the minimum value of FY 2011. ",
-      " The difference between the max Years FY 2014 and min Years FY 2011 is 5156.030000000001. "
+      "This is a bar chart. It shows Import value in billion Indian rupees for 9 number of Yearss. ",
+      "The Import value in billion Indian rupees is highest at Years FY 2014 and lowest at Years FY 2011. ",
+      "The highest Years FY 2014 has 5156.03 more Import value in billion Indian rupees than the lowest Years FY 2011. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Import value in billion Indian rupees for 9 number of Yearss. ",
+      "The maximum Import value in billion Indian rupees 9978.85 is found at Years FY 2014 and the minimum is found at FY 2011 where Years is 4822.82. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Import value in billion Indian rupees for 9 number of Yearss. ",
+      "The Import value in billion Indian rupees is highest at Years FY 2014 and lowest at Years FY 2011. ",
+      "The highest Years FY 2014 has 5156.03 more Import value in billion Indian rupees than the lowest Years FY 2011. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Import value in billion Indian rupees for 9 number of Yearss. ",
+      "The maximum Import value in billion Indian rupees 9978.85 is found at Years FY 2014 and the minimum is found at FY 2011 where Years is 4822.82. ",
+      "Years  has the second highest value for Import value in billion Indian rupees. ",
+      "The highest Years FY 2014 has 5156.03 more Import value in billion Indian rupees than the lowest Years FY 2011. ",
+      "The Years FY 2014 has the highest Import value in billion Indian rupees, followed by , and FY 2013. Down to the Years FY 2011 which is the lowest. ",
+      "Overall Import value in billion Indian rupees has reduced over the Yearss. ",
+      "The highest value 9978.85 at FY 2014 is almost 1.33 times larger than the average value 7520.05. ",
+      "The Import value in billion Indian rupees is 67680.47 if we add up values of all Yearss. "
    ],
    "trends": [
       {},

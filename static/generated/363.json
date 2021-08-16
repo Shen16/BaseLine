@@ -1,18 +1,30 @@
 {
-   "title": "Test",
+   "title": "Number of households in the U.S. 2015 , by age of householder",
    "xAxis": "Age of householder",
    "yAxis": "Number of households in millions",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 8 categories on the x axis representing Age of householder, and Number of households in millions in each Age of householder on the y axis.",
-      " The highest category is found at 45 to 54 years old where Number of households in millions is 23.57.",
-      " Followed by 6.37 in .",
-      " The lowest category is found at 15 to 24 years old where Number of households in millions is 6.37.",
-      " The highest value at 45 to 54 years old is almost 3.7 times larger than the minimum value of 15 to 24 years old. ",
-      " The highest value at 45 to 54 years old is almost 3.7 times larger than the minimum value of 15 to 24 years old. ",
-      " The difference between the max Age of householder 45 to 54 years old and min Age of householder 15 to 24 years old is 17.2. "
+      "This bar chart has 8 columns on the x axis representing Age of householder, and Number of households in millions in each Age of householder on the y axis. ",
+      "Age of householder 45 to 54 years old has the highest Number of households in millions and 15 to 24 years old has the lowest Number of households in millions. ",
+      "The difference of Number of households in millions between the highest and lowest Age of householder is 17.2. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Number of households in millions for 8 number of Age of householders. ",
+      "The maximum Number of households in millions 23.57 is found at Age of householder 45 to 54 years old and the minimum is found at 15 to 24 years old where Age of householder is 6.37. "
+   ],
+   "mid_summary": [
+      "This bar chart has 8 columns on the x axis representing Age of householder, and Number of households in millions in each Age of householder on the y axis. ",
+      "Age of householder 45 to 54 years old has the highest Number of households in millions and 15 to 24 years old has the lowest Number of households in millions. ",
+      "The difference of Number of households in millions between the highest and lowest Age of householder is 17.2. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Number of households in millions for 8 number of Age of householders. ",
+      "The Number of households in millions is appeared to be the highest at Age of householder 45 to 54 years old and lowest at Age of householder 15 to 24 years old. ",
+      "Age of householder 15 to 24 years old has 3.7 times less Number of households in millions than Age of householder 45 to 54 years old which is the highest. ",
+      "The Age of householder 45 to 54 years old has the highest Number of households in millions, followed by , and 35 to 44 years old. Down to the Age of householder 15 to 24 years old which is the lowest. ",
+      "Considered together, the average Number of households in millions in all 8 Age of householders is roughly 15.58. "
    ],
    "trends": [
       {},

@@ -1,37 +1,35 @@
 {
-   "title": "Test",
+   "title": "Volume of homeowner equity in the U.S. 1960 to 2018",
    "xAxis": "Year",
    "yAxis": "Homeowner equity in trillion U.S. dollars",
    "columnType": "two",
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Homeowner equity in trillion U.S. dollars, with a total of 23 data points.",
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Homeowner equity in trillion U.S. dollars. In total the number of data points it has is 23.",
       " Overall Homeowner equity in trillion U.S. dollars has increased over the Year.",
-      "Homeowner equity in trillion U.S. dollars is rapidly increasing from 1960 to 2000, roughly constant from 2000 to 2006, roughly decreasing from 2006 to 2007, roughly constant from 2007 to 2011, roughly increasing from 2011 to 2012, and lastly roughly constant from 2012 to 2018.",
-      "Max Homeowner equity in trillion U.S. dollars about 15.54 was recorded at Year 2018",
-      "Min Homeowner equity in trillion U.S. dollars about 0.35 was recorded at Year 1960",
-      "#########################################################################",
-      "This line chart has an x axis representing Year and a y axis representing Homeowner equity in trillion U.S. dollars, with a total of 23 data points. The chart has 3 significant trends.",
-      " The longest trend is moderately increasing which exists from 1960 to 2005.",
-      " Correspondingly, the next significant trend is extremely increasing which exists from 2010 to 2018.",
-      " Likewise, the next significant trend is slightly decreasing which exists from 2005 to 2010."
+      "The line significantly increased by 1.43 from Year 1970 to 1980,increased by 2.3 from Year 1980 to 1990, and lastly, increased by 3.07 from Year 1990 to 2000.",
+      "The highest Homeowner equity in trillion U.S. dollars, of value 15.54 was reached at Year 2018",
+      "The lowest Homeowner equity in trillion U.S. dollars, of value 0.35 was reported at Year 1960"
    ],
-   "trends": [
-      {},
-      {
-         "1": "13",
-         "12": "22"
-      },
-      {
-         "3": "0",
-         "14": "8"
-      },
-      {
-         "3": "8",
-         "14": "13"
-      }
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Homeowner equity in trillion U.S. dollars, containing a total of 23 data points.",
+      " Overall Homeowner equity in trillion U.S. dollars has increased over the Year."
    ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Homeowner equity in trillion U.S. dollars. In total the number of data points it has is 23.",
+      " In general Homeowner equity in trillion U.S. dollars has rose over the Year.",
+      "The highest Homeowner equity in trillion U.S. dollars, of value 15.54 was reached at Year 2018",
+      "The lowest Homeowner equity in trillion U.S. dollars, of value 0.35 was reported at Year 1960"
+   ],
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Homeowner equity in trillion U.S. dollars. In total the number of data points it has is 23.",
+      " In general Homeowner equity in trillion U.S. dollars has rose over the Year.",
+      "The highest Homeowner equity in trillion U.S. dollars, of value 15.54 was reached at Year 2018",
+      "The lowest Homeowner equity in trillion U.S. dollars, of value 0.35 was reported at Year 1960",
+      "The line significantly increased by 1.43 from Year 1970 to 1980,increased by 2.3 from Year 1980 to 1990, and lastly, increased by 3.07 from Year 1990 to 2000."
+   ],
+   "trends": [],
    "data": [
       {
          "Year": "2018",

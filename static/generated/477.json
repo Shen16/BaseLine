@@ -1,13 +1,32 @@
 {
-   "title": "Test",
+   "title": "Profile of Millennial travelers in the U.S. as of July 2016",
    "xAxis": "Profile Type",
    "yAxis": "Average Traveler Psychographic Intensity Index score",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 9 categories on the x axis representing Profile Type, and Average Traveler Psychographic Intensity Index score in each Profile Type on the y axis.",
-      "Cultural interest is higher than any other categories with value 70.3, followed by , and Food and cuisine driven traveler. Down to category Price sensitivity with the lowest value of 55.4. "
+      "This is a bar chart. It shows Average Traveler Psychographic Intensity Index score for 9 number of Profile Types. ",
+      "The Average Traveler Psychographic Intensity Index score is highest at Profile Type Cultural interest and lowest at Profile Type Price sensitivity. ",
+      "There is a difference of 14.9 between the maximum Profile Type Cultural interest and minimum Profile Type Price sensitivity. "
+   ],
+   "min_summary": [
+      "This bar chart has 9 columns on the x axis representing Profile Type, and Average Traveler Psychographic Intensity Index score in each Profile Type on the y axis. ",
+      "The maximum Average Traveler Psychographic Intensity Index score 70.3 is found at Profile Type Cultural interest and the minimum is found at Price sensitivity where Profile Type is 55.4. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Average Traveler Psychographic Intensity Index score for 9 number of Profile Types. ",
+      "The Average Traveler Psychographic Intensity Index score is highest at Profile Type Cultural interest and lowest at Profile Type Price sensitivity. ",
+      "There is a difference of 14.9 between the maximum Profile Type Cultural interest and minimum Profile Type Price sensitivity. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Profile Type in the x axis and Average Traveler Psychographic Intensity Index score in the y axis. ",
+      "Profile Type Cultural interest has the highest Average Traveler Psychographic Intensity Index score and Price sensitivity has the lowest Average Traveler Psychographic Intensity Index score. ",
+      "Second maximum Average Traveler Psychographic Intensity Index score is found at Profile Type . ",
+      "The Average Traveler Psychographic Intensity Index score of Profile Type Cultural interest is 1.27% larger than the minimum value at Price sensitivity. ",
+      "Average Traveler Psychographic Intensity Index score at Profile Type Cultural interest is 70.3 , second place is  at 70.3, and thirdly is Food and cuisine driven traveler at 68.5.",
+      "The Profile Type Price sensitivity has 1.11 times less Average Traveler Psychographic Intensity Index score than average. ",
+      "Summing up the values of all Profile Types, we get total 570.2. "
    ],
    "trends": [
       {},

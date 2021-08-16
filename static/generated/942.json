@@ -1,16 +1,32 @@
 {
-   "title": "Test",
+   "title": "Global rum market : leading brands based on sales volume 2018",
    "xAxis": "Alcohol ",
    "yAxis": "Million 9 liter cases",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 11 categories on the x axis representing Alcohol , and Million 9 liter cases in each Alcohol  on the y axis.",
-      "Tanduay is higher than any other categories with value 20.1, followed by , and Captain Morgan. Down to category Montilla with the lowest value of 1.0. ",
-      " The highest value at Tanduay is almost 20.1 times larger than the minimum value of Montilla. ",
-      " The highest value at Tanduay is almost 20.1 times larger than the minimum value of Montilla. ",
-      " The difference between the max Alcohol  Tanduay and min Alcohol  Montilla is 19.1. "
+      "This is a bar chart. It shows Million 9 liter cases for 11 number of Alcohol s. ",
+      "Alcohol  Tanduay has the highest Million 9 liter cases and Montilla has the lowest Million 9 liter cases. ",
+      "The difference of Million 9 liter cases between the highest and lowest Alcohol  is 19.1. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing Alcohol  in the x axis and Million 9 liter cases in the y axis. ",
+      "The Million 9 liter cases is appeared to be the highest at Alcohol  Tanduay and lowest at Alcohol  Montilla. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Million 9 liter cases for 11 number of Alcohol s. ",
+      "Alcohol  Tanduay has the highest Million 9 liter cases and Montilla has the lowest Million 9 liter cases. ",
+      "The difference of Million 9 liter cases between the highest and lowest Alcohol  is 19.1. "
+   ],
+   "max_summary": [
+      "This bar chart has 11 columns on the x axis representing Alcohol , and Million 9 liter cases in each Alcohol  on the y axis. ",
+      "The Million 9 liter cases is highest at Alcohol  Tanduay and lowest at Alcohol  Montilla. ",
+      "The minimum Alcohol  Montilla has got 20.1 times less Million 9 liter cases than the maximum Alcohol  Tanduay. ",
+      "The Alcohol  Tanduay has the highest Million 9 liter cases, followed by , and Captain Morgan. Down to the Alcohol  Montilla which is the lowest. ",
+      "Similar Million 9 liter cases is found in Alcohol  Montilla, and Negrita. ",
+      "Considered together, the average Million 9 liter cases in all 11 Alcohol s is roughly 6.64. ",
+      "Summing up the values of all Alcohol s, we get total 73.0. "
    ],
    "trends": [
       {},

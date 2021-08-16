@@ -1,5 +1,5 @@
 {
-   "title": "Test",
+   "title": "Importance in decision-making process when purchasing CE in the U.S. 2013",
    "labels": [
       "Response",
       "18-49",
@@ -9,11 +9,30 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart has 14 categories of Response on the x axis representing 2 groups: 18-49, and 50+.",
-      " Averaging these 2 groups, the highest category is found for Response Price with a mean value of 89.0.",
-      " The lowest category is observed at Friends have it that has a mean value of 26.5",
-      " showing a difference of 108.2% with the maximum value.",
-      " In case of Price, 18-49 shows more dominance than any other Response and it has the lowest value in Family members have it. "
+      "This grouped bar chart shows Share of respondents on the Y-axis for 14 different Responses for 2 groups 18-49, and 50+ that are presented on the X-axis. ",
+      " Out of all 2 groups, 50+ had the highest Share of respondents in Response Price and 50+ had the lowest Share of respondents in Response Friends have it. ",
+      " Among all the Responses, 50+ had the highest Share of respondents in Response Price and lowest Share of respondents in Response Friends have it. ",
+      "Response Price and Friends have it had the biggest gap of 74.0 between the highest and lowest Share of respondents found for 50+. "
+   ],
+   "xAxis": "Response",
+   "yAxis": "Share of respondents",
+   "min_summary": [
+      "This grouped bar chart shows Share of respondents on the Y-axis for 14 different Responses for 2 groups 18-49, and 50+ that are presented on the X-axis. ",
+      " In Response Price, 50+ had the highest Share of respondents 95.0 among the 2 groups and in Friends have it, 50+ had the lowest Share of respondents 21.0. "
+   ],
+   "mid_summary": [
+      "This grouped bar chart shows Share of respondents on the Y-axis for 14 different Responses for 2 groups 18-49, and 50+ that are presented on the X-axis. ",
+      " Out of all 2 groups, 50+ had the highest Share of respondents in Response Price and 50+ had the lowest Share of respondents in Response Friends have it. ",
+      " Among all the Responses, 50+ had the highest Share of respondents in Response Price and lowest Share of respondents in Response Friends have it. ",
+      "Response Price and Friends have it had the biggest gap of 74.0 between the highest and lowest Share of respondents found for 50+. "
+   ],
+   "max_summary": [
+      "This grouped bar chart represents 14 different Responses on X-axis for 2 groups 18-49, and 50+. On the Y-axis it shows their corresponding Share of respondents. ",
+      " In Response Price, 50+ had the highest Share of respondents 95.0 among the 2 groups and in Friends have it, 50+ had the lowest Share of respondents 21.0. ",
+      " Among all the Responses, 50+ had the highest Share of respondents 95.0 in Response Price and lowest value 21.0 in Response Friends have it. ",
+      " There is a gap of 74.0 between the highest and lowest Share of respondents found for 50+ in Response Price and Friends have it. ",
+      " Out of all 2 groups, the highest gap between the maximum and minimum Share of respondents was found in case of 18-49. ",
+      "On average, the Response Price had the highest Share of respondents for all 2 groups 18-49, and 50+. Whereas Friends have it had the lowest average Share of respondents. "
    ],
    "trends": [
       {},

@@ -1,33 +1,38 @@
 {
-   "title": "Test",
+   "title": "Number of arrivals in tourist accommodation Latvia 2006 to 2018",
    "xAxis": "Year",
    "yAxis": "Number of arrivals in millions",
    "columnType": "two",
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Number of arrivals in millions, with a total of 13 data points.",
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of arrivals in millions. In total the number of data points it has is 13.",
+      " In general Number of arrivals in millions has rose over the Year.",
+      "The line rapidly ",
+      "The most drastic decrease took place within the Year 2008 and 2009.",
+      "Maximum Number of arrivals in millions, about 2.8 was reported at Year 2018",
+      "Minimum Number of arrivals in millions about 1.11 was reached at Year 2009"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of arrivals in millions. In total the number of data points it has is 13.",
+      " In general Number of arrivals in millions has rose over the Year."
+   ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of arrivals in millions. In total the number of data points it has is 13.",
       " Overall Number of arrivals in millions has increased over the Year.",
-      "Number of arrivals in millions is roughly constant from 2006 to 2008, slightly decreasing from 2008 to 2009, slightly increasing from 2009 to 2011, roughly constant from 2011 to 2012, roughly increasing from 2012 to 2013, roughly constant from 2013 to 2015, and lastly slightly increasing from 2015 to 2018.",
-      "The steepest decrease occurs in between the Year 2008 and 2009.",
-      "Max Number of arrivals in millions about 2.8 was recorded at Year 2018",
-      "Min Number of arrivals in millions about 1.11 was recorded at Year 2009",
-      "#########################################################################",
-      "This line chart has an x axis representing Year and a y axis representing Number of arrivals in millions, with a total of 13 data points. The chart has 2 significant trends.",
-      " The longest trend is extremely increasing which exists from 2009 to 2018.",
-      " Additionally, the next significant trend is slightly increasing which exists from 2006 to 2009."
+      "The most drastic decrease took place within the Year 2008 and 2009.",
+      "Maximum Number of arrivals in millions, about 2.8 was reported at Year 2018",
+      "Minimum Number of arrivals in millions about 1.11 was reached at Year 2009"
    ],
-   "trends": [
-      {},
-      {
-         "1": "0",
-         "12": "9"
-      },
-      {
-         "3": "9",
-         "14": "12"
-      }
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Number of arrivals in millions, containing a total of 13 data points.",
+      " In general Number of arrivals in millions has rose over the Year.",
+      "The most drastic decrease took place within the Year 2008 and 2009.",
+      "Maximum Number of arrivals in millions, about 2.8 was reported at Year 2018",
+      "Minimum Number of arrivals in millions about 1.11 was reached at Year 2009",
+      "The line rapidly "
    ],
+   "trends": [],
    "data": [
       {
          "Year": "2018",

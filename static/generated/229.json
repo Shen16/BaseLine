@@ -1,5 +1,5 @@
 {
-   "title": "Test",
+   "title": "Market share of selected TV stations in Germany 2019",
    "labels": [
       "TV Channel",
       "Total audience (3 years and older)",
@@ -9,12 +9,30 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart has 8 categories of TV Channel on the x axis representing 2 groups: Total audience (3 years and older), and 14-49 years.",
-      " Averaging these 2 groups, the highest category is found for TV Channel RTL with a mean value of 10.2.",
-      " Followed by ZDF with a mean value of 9.15.",
-      " The lowest category is observed at RTL II that has a mean value of 4.05",
-      " showing a difference of 86.3% with the maximum value.",
-      " In case of ZDF, Total audience (3 years and older) shows more dominance than any other TV Channel with a value 127.0 and it has the lowest value 29.0 in RTL II. "
+      "This grouped bar chart shows Audience market share on the Y-axis for 8 different TV Channels for 2 groups Total audience (3 years and older), and 14-49 years that are presented on the X-axis. ",
+      " In TV Channel ZDF, Total audience (3 years and older) had the highest Audience market share 127.0 among the 2 groups and in kabel eins, 14-49 years had the lowest Audience market share 5.0. ",
+      " Among all the TV Channels, 14-49 years had the highest Audience market share 119.0 in TV Channel RTL and lowest value 5.0 in TV Channel kabel eins. ",
+      " The maximum Audience market share for 14-49 years that was found in TV Channel RTL was 23.8 times larger than the minimum Audience market share observed in TV Channel kabel eins. "
+   ],
+   "xAxis": "TV Channel",
+   "yAxis": "Audience market share",
+   "min_summary": [
+      "This grouped bar chart represents 8 different TV Channels on X-axis for 2 groups Total audience (3 years and older), and 14-49 years. On the Y-axis it shows their corresponding Audience market share. ",
+      " Out of all 2 groups, Total audience (3 years and older) had the highest Audience market share in TV Channel ZDF and 14-49 years had the lowest Audience market share in TV Channel kabel eins. "
+   ],
+   "mid_summary": [
+      "This grouped bar chart shows Audience market share on the Y-axis for 8 different TV Channels for 2 groups Total audience (3 years and older), and 14-49 years that are presented on the X-axis. ",
+      " In TV Channel ZDF, Total audience (3 years and older) had the highest Audience market share 127.0 among the 2 groups and in kabel eins, 14-49 years had the lowest Audience market share 5.0. ",
+      " Among all the TV Channels, 14-49 years had the highest Audience market share 119.0 in TV Channel RTL and lowest value 5.0 in TV Channel kabel eins. ",
+      " The maximum Audience market share for 14-49 years that was found in TV Channel RTL was 23.8 times larger than the minimum Audience market share observed in TV Channel kabel eins. "
+   ],
+   "max_summary": [
+      "This grouped bar chart represents 8 different TV Channels on X-axis for 2 groups Total audience (3 years and older), and 14-49 years. On the Y-axis it shows their corresponding Audience market share. ",
+      " In TV Channel ZDF, Total audience (3 years and older) had the highest Audience market share 127.0 among the 2 groups and in kabel eins, 14-49 years had the lowest Audience market share 5.0. ",
+      " Among all the TV Channels, 14-49 years had the highest Audience market share in TV Channel RTL and lowest Audience market share in TV Channel kabel eins. ",
+      " There is a gap of 114.0 between the highest and lowest Audience market share found for 14-49 years in TV Channel RTL and kabel eins. ",
+      " Among the groups, Total audience (3 years and older) had the biggest difference in Audience market share. Where the maximum Audience market share was 4.38 times larger than the minimum Audience market share. ",
+      "On average, the TV Channel RTL had the highest Audience market share for all 2 groups Total audience (3 years and older), and 14-49 years. Whereas RTL II had the lowest average Audience market share. "
    ],
    "trends": [
       {},

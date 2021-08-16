@@ -1,5 +1,5 @@
 {
-   "title": "Test",
+   "title": "Refugees worldwide 2001 to 2018",
    "labels": [
       "Year",
       "Refugees",
@@ -10,14 +10,37 @@
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This is a multi-line chart with 3 lines representing Refugees, Internally displaced persons, and Asylum-seekers. ",
-      "The line for Internally displaced persons has the highest values across Year with a mean value of 28.31, ",
-      "and it peaked at 2018 with a value of 41.43.",
-      "Followed by Refugees, with a mean value of 14.9. ",
-      "This line peaked at 2018 with a value of 20.3. ",
-      "Asylum-seekers mostly had the least y-axis name with a mean value of 1.62, ",
-      "which peaked at 2016 with a value of 6.51. ",
-      "Overall Refugees, and Internally displaced persons are gradually increasing, Asylum-seekers is roughly constant,  throughout the Year"
+      "The given chart is of multi-line type with 3 lines namely Refugees, Internally displaced persons, and Asylum-seekers. The y axis represents SOME LABEL and the x axis represents Year.",
+      "Overall Refugees, Internally displaced persons, and Asylum-seekers are gradually increasing,  throughout the Year",
+      "The ranking of the lines from topmost to botommmost is as follows: 1. Internally displaced persons, 2. Refugees, and lastly, 3. Asylum-seekers. ",
+      "Throughout the period, Internally displaced persons generally had the highest SOME LABEL relative to others with an average of 28.31, and it reached its maximum at 2018 with a value of 41.43.",
+      "After Internally displaced persons, Refugees overall has the second highest values , with a mean value of 14.9, peaking at 2018. ",
+      "Asylum-seekers mostly had the least SOME LABEL with a mean value of 1.62, which peaked at 2016 with a value of 6.51. "
+   ],
+   "xAxis": "Year",
+   "yAxis": "SOME LABEL",
+   "min_summary": [
+      "You are viewing a chart of multi-line type with 3 lines denoting Refugees, Internally displaced persons, and Asylum-seekers. The y axis indicates the SOME LABEL and the x axis indicates Year.",
+      "Overall Refugees, Internally displaced persons, and Asylum-seekers are gradually increasing,  throughout the Year",
+      "Overall across the Year, Internally displaced persons mostly maintained the highest SOME LABEL when compared to others with a mean value of 28.31, and it peaked at 2018.",
+      "Followed by Refugees which ranks as the second topmpost line , with an average of 14.9 SOME LABEL,reaching its highest point  at 2018 with a value of 20.3. ",
+      "Asylum-seekers mostly had the least SOME LABEL with a mean value of 1.62, which peaked at 2016 with a value of 6.51. "
+   ],
+   "mid_summary": [
+      "The given chart is of multi-line type with 3 lines namely Refugees, Internally displaced persons, and Asylum-seekers. The y axis represents SOME LABEL and the x axis represents Year.",
+      "Overall Refugees, Internally displaced persons, and Asylum-seekers are gradually increasing,  throughout the Year",
+      "The ranking of the lines from topmost to botommmost is as follows: 1. Internally displaced persons, 2. Refugees, and lastly, 3. Asylum-seekers. ",
+      "Throughout the period, Internally displaced persons generally had the highest SOME LABEL relative to others with an average of 28.31, and it reached its maximum at 2018 with a value of 41.43.",
+      "Followed by Refugees which ranks as the second topmpost line , with an average of 14.9 SOME LABEL,reaching its highest point  at 2018 with a value of 20.3. ",
+      "The botommost line, Asylum-seekers,  has a mean of 1.62, and peaked at 2016. "
+   ],
+   "max_summary": [
+      "This is a multi-line chart with 3 lines representing Refugees, Internally displaced persons, and Asylum-seekers. The y axis denotes SOME LABEL and the x axis denotes Year.",
+      "Overall Refugees, Internally displaced persons, and Asylum-seekers are gradually increasing,  throughout the Year",
+      "The ranking of the lines from topmost to botommmost is as follows: 1. Internally displaced persons, 2. Refugees, and lastly, 3. Asylum-seekers. ",
+      "Throughout the period, Internally displaced persons generally had the highest SOME LABEL relative to others with an average of 28.31, and it reached its maximum at 2018 with a value of 41.43.",
+      "Followed by Refugees which ranks as the second topmpost line , with an average of 14.9 SOME LABEL,reaching its highest point  at 2018 with a value of 20.3. ",
+      "Asylum-seekers mostly had the least SOME LABEL with a mean value of 1.62, which peaked at 2016 with a value of 6.51. "
    ],
    "trends": [
       {},

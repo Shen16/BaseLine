@@ -1,58 +1,42 @@
 {
-   "title": "Test",
+   "title": "Inflation rate in Malaysia 2024",
    "xAxis": "Year",
    "yAxis": "Inflation rate compared to previous year",
    "columnType": "two",
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Inflation rate compared to previous year, with a total of 41 data points.",
+      "This is a line chart with an x axis representing Year and a y axis representing Inflation rate compared to previous year, containing a total of 41 data points.",
       " Overall Inflation rate compared to previous year has decreased over the Year.",
-      "Inflation rate compared to previous year is roughly constant from 1984 to 1985, slightly decreasing from 1985 to 1986, rapidly increasing from 1986 to 1989, roughly constant from 1989 to 1997, slightly increasing from 1997 to 1998, roughly decreasing from 1998 to 1999, roughly constant from 1999 to 2004, slightly increasing from 2004 to 2005, roughly constant from 2005 to 2006, roughly increasing from 2006 to 2008, slightly decreasing from 2008 to 2009, rapidly increasing from 2009 to 2011, roughly constant from 2011 to 2016, slightly increasing from 2016 to 2017, roughly constant from 2017 to 2019, slightly increasing from 2019 to 2020, and lastly roughly constant from 2020 to 2024.",
+      "The chart generally has many fluctuations.",
+      "The line drastically decreased by 7.4 times from Year 1985 to 1986,increased by 2.1 times from Year 1986 to 1987,increased by 8.8 times from Year 1988 to 1989,increased by 2.0 times from Year 1997 to 1998,increased by 2.1 times from Year 2004 to 2005,increased by 2.7 times from Year 2007 to 2008,decreased by 9.1 times from Year 2008 to 2009,increased by 2.9 times from Year 2009 to 2010,increased by 1.8 times from Year 2010 to 2011,increased by 1.8 times from Year 2016 to 2017,decreased by 3.9 times from Year 2017 to 2018, and lastly, increased by 2.0 times from Year 2019 to 2020.",
       "The steepest decrease occurs in between the Year 2008 and 2009.",
-      "Max Inflation rate compared to previous year about 5.43 was recorded at Year 2008",
-      "Min Inflation rate compared to previous year about 0.29 was recorded at Year 1988",
-      "#########################################################################",
-      "This line chart has an x axis representing Year and a y axis representing Inflation rate compared to previous year, with a total of 41 data points. The chart has 7 significant trends.",
-      " The longest trend is moderately increasing which exists from 2018 to 2024.",
-      " Correspondingly, the next significant trend is moderately increasing which exists from 2012 to 2018.",
-      " Additionally, the next significant trend is slightly increasing which exists from 2007 to 2012.",
-      " Likewise, the next significant trend is moderately decreasing which exists from 2002 to 2007.",
-      " Conversely, the next significant trend is slightly increasing which exists from 1997 to 2002.",
-      " Similarly, the next significant trend is slightly decreasing which exists from 1992 to 1997.",
-      " But, the next significant trend is extremely decreasing which exists from 1987 to 1992."
+      "Maximum Inflation rate compared to previous year, about 5.43 was reported at Year 2008",
+      "The lowest Inflation rate compared to previous year, of value 0.29 was reported at Year 1988"
    ],
-   "trends": [
-      {},
-      {
-         "1": "0",
-         "12": "6"
-      },
-      {
-         "3": "6",
-         "14": "12"
-      },
-      {
-         "3": "12",
-         "14": "17"
-      },
-      {
-         "3": "17",
-         "14": "22"
-      },
-      {
-         "3": "22",
-         "14": "27"
-      },
-      {
-         "3": "27",
-         "14": "32"
-      },
-      {
-         "3": "32",
-         "14": "37"
-      }
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Inflation rate compared to previous year. In total the number of data points it has is 41.",
+      " Overall Inflation rate compared to previous year has decreased over the Year."
    ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Inflation rate compared to previous year. In total the number of data points it has is 41.",
+      " In general Inflation rate compared to previous year has fallen over the Year.",
+      "The steepest decrease occurs in between the Year 2008 and 2009.",
+      "Maximum Inflation rate compared to previous year, about 5.43 was reported at Year 2008",
+      "The lowest Inflation rate compared to previous year, of value 0.29 was reported at Year 1988"
+   ],
+   "max_summary": [
+      "The chart in general has a zig-zag shape.",
+      "The chart generally has many fluctuations.",
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Inflation rate compared to previous year. In total the number of data points it has is 41.",
+      " In general Inflation rate compared to previous year has fallen over the Year.",
+      "The chart in general has a zig-zag shape.",
+      "The steepest decrease occurs in between the Year 2008 and 2009.",
+      "Maximum Inflation rate compared to previous year, about 5.43 was reported at Year 2008",
+      "The lowest Inflation rate compared to previous year, of value 0.29 was reported at Year 1988",
+      "The line rapidly decreased by 86.49% from Year 1985 to 1986,increased by 111.43% from Year 1986 to 1987,increased by 782.76% from Year 1988 to 1989,increased by 98.87% from Year 1997 to 1998,increased by 114.08% from Year 2004 to 2005,increased by 167.49% from Year 2007 to 2008,decreased by 88.95% from Year 2008 to 2009,increased by 186.67% from Year 2009 to 2010,increased by 84.3% from Year 2010 to 2011,increased by 82.69% from Year 2016 to 2017,decreased by 74.47% from Year 2017 to 2018, and lastly, increased by 103.92% from Year 2019 to 2020."
+   ],
+   "trends": [],
    "data": [
       {
          "Year": "2024",

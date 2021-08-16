@@ -1,13 +1,33 @@
 {
-   "title": "Test",
+   "title": "Mexico : housing prices 2018 to 2019",
    "xAxis": "Quarter",
    "yAxis": "Price in thousand Mexican pesos",
    "columnType": "two",
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 6 categories on the x axis representing Quarter, and Price in thousand Mexican pesos in each Quarter on the y axis.",
-      "Q1 2019 is higher than any other categories with value 1071.24, followed by , and Q2 2018. Down to category Q3 2018 with the lowest value of 800.98. "
+      "This is a bar chart. It shows Price in thousand Mexican pesos for 6 number of Quarters. ",
+      "The Price in thousand Mexican pesos is appeared to be the highest at Quarter Q1 2019 and lowest at Quarter Q3 2018. ",
+      "The difference of Price in thousand Mexican pesos between the highest and lowest Quarter is 270.26. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Price in thousand Mexican pesos for 6 number of Quarters. ",
+      "The Price in thousand Mexican pesos is highest at Quarter Q1 2019 and lowest at Quarter Q3 2018. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Price in thousand Mexican pesos for 6 number of Quarters. ",
+      "The Price in thousand Mexican pesos is appeared to be the highest at Quarter Q1 2019 and lowest at Quarter Q3 2018. ",
+      "The difference of Price in thousand Mexican pesos between the highest and lowest Quarter is 270.26. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Quarter in the x axis and Price in thousand Mexican pesos in the y axis. ",
+      "The Price in thousand Mexican pesos is appeared to be the highest at Quarter Q1 2019 and lowest at Quarter Q3 2018. ",
+      "The second highest Price in thousand Mexican pesos is appeared to be the Quarter . ",
+      "There is a difference of 270.26 between the maximum Quarter Q1 2019 and minimum Quarter Q3 2018. ",
+      "The Quarter Q1 2019 has the highest Price in thousand Mexican pesos, followed by , and Q2 2018. Down to the Quarter Q3 2018 which is the lowest. ",
+      "Overall Price in thousand Mexican pesos has reduced over the Quarters. ",
+      "The Quarter Q3 2018 tends to be 1.2 percent lower than average. ",
+      "The Price in thousand Mexican pesos is 5373.75 if we add up values of all Quarters. "
    ],
    "trends": [
       {},

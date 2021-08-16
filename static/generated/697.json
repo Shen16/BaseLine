@@ -1,5 +1,5 @@
 {
-   "title": "Test",
+   "title": "Market share of leading smartphone brands in the Netherlands 2017 to 2018",
    "labels": [
       "Race",
       "2017",
@@ -9,11 +9,30 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart has 7 categories of Race on the x axis representing 2 groups: 2017, and 2018.",
-      " Averaging these 2 groups, the highest category is found for Race Samsung with a mean value of 39.5.",
-      " The lowest category is observed at Microsoft that has a mean value of 1.5",
-      " showing a difference of 185.4% with the maximum value.",
-      " In case of Samsung, 2017 shows more dominance than any other Race and it has the lowest value in Microsoft. "
+      "This grouped bar chart shows SOME LABEL on the Y-axis for 7 different Races for 2 groups 2017, and 2018 that are presented on the X-axis. ",
+      " Out of all 2 groups, 2017 had the highest SOME LABEL in Race Samsung and 2018 had the lowest SOME LABEL in Race Sony. ",
+      " Among all the Races, 2017 had the highest SOME LABEL in Race Samsung and lowest SOME LABEL in Race Microsoft. ",
+      " There is a gap of 38.0 between the highest and lowest SOME LABEL found for 2017 in Race Samsung and Microsoft. "
+   ],
+   "xAxis": "Race",
+   "yAxis": "SOME LABEL",
+   "min_summary": [
+      "This grouped bar chart represents 7 different Races on X-axis for 2 groups 2017, and 2018. On the Y-axis it shows their corresponding SOME LABEL. ",
+      " Out of all 2 groups, 2017 had the highest SOME LABEL in Race Samsung and 2018 had the lowest SOME LABEL in Race Sony. "
+   ],
+   "mid_summary": [
+      "This grouped bar chart shows SOME LABEL on the Y-axis for 7 different Races for 2 groups 2017, and 2018 that are presented on the X-axis. ",
+      " Out of all 2 groups, 2017 had the highest SOME LABEL in Race Samsung and 2018 had the lowest SOME LABEL in Race Sony. ",
+      " Among all the Races, 2017 had the highest SOME LABEL in Race Samsung and lowest SOME LABEL in Race Microsoft. ",
+      " There is a gap of 38.0 between the highest and lowest SOME LABEL found for 2017 in Race Samsung and Microsoft. "
+   ],
+   "max_summary": [
+      "This grouped bar chart shows SOME LABEL on the Y-axis for 7 different Races for 2 groups 2017, and 2018 that are presented on the X-axis. ",
+      " Out of all 2 groups, 2017 had the highest SOME LABEL in Race Samsung and 2018 had the lowest SOME LABEL in Race Sony. ",
+      " In Race Samsung, 2017 had the highest SOME LABEL among all 7 Races and it has the lowest SOME LABEL in Race Microsoft. ",
+      " There is a gap of 38.0 between the highest and lowest SOME LABEL found for 2017 in Race Samsung and Microsoft. ",
+      " Among all 2 groups, 2017 had the gap of 38.0 between the maximum and minimum SOME LABEL observed in Race Samsung and Microsoft respectively. ",
+      "On average, the Race Samsung had the highest SOME LABEL for all 2 groups 2017, and 2018. Whereas Microsoft had the lowest average SOME LABEL. "
    ],
    "trends": [
       {},

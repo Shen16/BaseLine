@@ -1,5 +1,5 @@
 {
-   "title": "Test",
+   "title": "Election 2012 exit polls : percentage of votes by ethnicity",
    "labels": [
       "Race",
       "Barack Obama",
@@ -9,10 +9,30 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart has 4 categories of Race on the x axis representing 2 groups: Barack Obama, and Mitt Romney.",
-      " Averaging these 2 groups, the highest category is found for Race Asian with a mean value of 49.5.",
-      " The lowest category is observed at White that has a mean value of 49.0",
-      " In case of Black, Barack Obama shows more dominance than any other Race and it has the lowest value in White. "
+      "This grouped bar chart shows Percentage of votes on the Y-axis for 4 different Races for 2 groups Barack Obama, and Mitt Romney that are presented on the X-axis. ",
+      " Race Black had the maximum Percentage of votes among all 2 groups, and it was for Barack Obama. The minimum Percentage of votes was observed in Race Black for Mitt Romney. ",
+      " In Race Black, Barack Obama had the maximum Percentage of votes and it saw the lowest in Race White out of all 4 Races. ",
+      " The maximum Percentage of votes for Barack Obama that was found in Race Black was 2.38 times larger than the minimum Percentage of votes observed in Race White. "
+   ],
+   "xAxis": "Race",
+   "yAxis": "Percentage of votes",
+   "min_summary": [
+      "This grouped bar chart shows Percentage of votes on the Y-axis for 4 different Races for 2 groups Barack Obama, and Mitt Romney that are presented on the X-axis. ",
+      " In Race Black, Barack Obama had the highest Percentage of votes 93.0 among the 2 groups and in Black, Mitt Romney had the lowest Percentage of votes 6.0. "
+   ],
+   "mid_summary": [
+      "This grouped bar chart shows Percentage of votes on the Y-axis for 4 different Races for 2 groups Barack Obama, and Mitt Romney that are presented on the X-axis. ",
+      " Race Black had the maximum Percentage of votes among all 2 groups, and it was for Barack Obama. The minimum Percentage of votes was observed in Race Black for Mitt Romney. ",
+      " In Race Black, Barack Obama had the maximum Percentage of votes and it saw the lowest in Race White out of all 4 Races. ",
+      " The maximum Percentage of votes for Barack Obama that was found in Race Black was 2.38 times larger than the minimum Percentage of votes observed in Race White. "
+   ],
+   "max_summary": [
+      "This grouped bar chart represents 4 different Races on X-axis for 2 groups Barack Obama, and Mitt Romney. On the Y-axis it shows their corresponding Percentage of votes. ",
+      " Race Black had the maximum Percentage of votes among all 2 groups, and it was for Barack Obama. The minimum Percentage of votes was observed in Race Black for Mitt Romney. ",
+      " Among all the Races, Barack Obama had the highest Percentage of votes in Race Black and lowest Percentage of votes in Race White. ",
+      " There is a gap of 54.0 between the highest and lowest Percentage of votes found for Barack Obama in Race Black and White. ",
+      " Among all 2 groups, Barack Obama had the gap of 54.0 between the maximum and minimum Percentage of votes observed in Race Black and White respectively. ",
+      "On average, the Race Asian had the highest Percentage of votes for all 2 groups Barack Obama, and Mitt Romney. Whereas White had the lowest average Percentage of votes. "
    ],
    "trends": [
       {},

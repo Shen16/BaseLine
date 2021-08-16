@@ -1,53 +1,38 @@
 {
-   "title": "Test",
+   "title": "Massachusetts - Poverty rate 2000 to 2018",
    "xAxis": "Year",
    "yAxis": "Percentage of population",
    "columnType": "two",
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This line chart has an x axis representing Year and a y axis representing Percentage of population, with a total of 19 data points.",
-      " Overall Percentage of population has increased over the Year.",
-      "Percentage of population is slightly decreasing from 2000 to 2001, roughly constant from 2001 to 2002, slightly increasing from 2002 to 2003, roughly constant from 2003 to 2004, gradually increasing from 2004 to 2005, roughly constant from 2005 to 2008, gradually increasing from 2008 to 2010, roughly constant from 2010 to 2015, slightly decreasing from 2015 to 2016, roughly constant from 2016 to 2017, and lastly slightly decreasing from 2017 to 2018.",
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Percentage of population. In total the number of data points it has is 19.",
+      " In general Percentage of population has stayed the same over the Year.",
+      "The line rapidly ",
+      "The most drastic increase took place within the Year 2004 and 2005.",
+      "Maximum Percentage of population, about 11.9 was reported at Year 2012, and 2013",
+      "Minimum Percentage of population about 8.7 was reached at Year 2001"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Percentage of population. In total the number of data points it has is 19.",
+      " Overall Percentage of population has increased over the Year."
+   ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Percentage of population. In total the number of data points it has is 19.",
+      " In general Percentage of population has stayed the same over the Year.",
       "The steepest increase occurs in between the Year 2004 and 2005.",
-      "Max Percentage of population about 11.9 was recorded at Year 2012, and 2013",
-      "Min Percentage of population about 8.7 was recorded at Year 2001",
-      "#########################################################################",
-      "This line chart has an x axis representing Year and a y axis representing Percentage of population, with a total of 19 data points. The chart has 6 significant trends.",
-      " The longest trend is extremely increasing which exists from 2007 to 2013.",
-      " Similarly, the next significant trend is slightly decreasing which exists from 2013 to 2016.",
-      " Contrarily, the next significant trend is moderately increasing which exists from 2000 to 2003.",
-      " In a similar manner, the next significant trend is moderately increasing which exists from 2016 to 2018.",
-      " Correspondingly, the next significant trend is moderately decreasing which exists from 2005 to 2007.",
-      " Contrarily, the next significant trend is extremely decreasing which exists from 2003 to 2005."
+      "Maximum Percentage of population, about 11.9 was reported at Year 2012, and 2013",
+      "Minimum Percentage of population about 8.7 was reached at Year 2001"
    ],
-   "trends": [
-      {},
-      {
-         "1": "5",
-         "12": "11"
-      },
-      {
-         "3": "2",
-         "14": "5"
-      },
-      {
-         "3": "15",
-         "14": "18"
-      },
-      {
-         "3": "0",
-         "14": "2"
-      },
-      {
-         "3": "11",
-         "14": "13"
-      },
-      {
-         "3": "13",
-         "14": "15"
-      }
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Percentage of population, containing a total of 19 data points.",
+      " Overall Percentage of population has increased over the Year.",
+      "The steepest increase occurs in between the Year 2004 and 2005.",
+      "Maximum Percentage of population, about 11.9 was reported at Year 2012, and 2013",
+      "Minimum Percentage of population about 8.7 was reached at Year 2001",
+      "The line significantly "
    ],
+   "trends": [],
    "data": [
       {
          "Year": "2018",
