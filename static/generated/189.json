@@ -9,37 +9,37 @@
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "You are viewing a chart of multi-line type with 2 lines denoting Pharmacy services, and Retail pharmacy. The y axis indicates the Revenue in billion USD and the x axis indicates Year.",
+      "This is a multi-line chart with 2 lines representing Pharmacy services, and Retail pharmacy. The y axis denotes Revenue in billion USD and the x axis denotes Year.",
       "Overall Pharmacy services, and Retail pharmacy are gradually increasing,  throughout the Year",
-      "The ranking of the lines from topmost to botommmost is as follows: 1. Pharmacy services, and lastly, 2. Retail pharmacy. ",
-      "Overall across the Year, Pharmacy services mostly maintained the highest Revenue in billion USD when compared to others with a mean value of 86.63, and it peaked at 2017.",
+      "The lines ordered according to average values of Revenue in billion USD in descending order is: 1. Pharmacy services, and lastly, 2. Retail pharmacy. ",
+      "Throughout the period, Pharmacy services generally had the highest Revenue in billion USD relative to others with an average of 86.63, and it reached its maximum at 2017 with a value of 130.6.",
       "Retail pharmacy mostly had the least Revenue in billion USD with a mean value of 68.32, which peaked at 2016 with a value of 81.1. ",
-      "The minimum Revenue in billion USD about 47.15, occured at 2010 by Pharmacy services.",
-      "The greatest difference of Revenue in billion USD between Pharmacy services and Retail pharmacy occurs at Year 2017 and the smallest difference occurs at 2011."
+      "Pharmacy services reported the lowest Revenue in billion USD about 47.15 in Year 2010",
+      "The difference of Revenue in billion USD between Pharmacy services and Retail pharmacy is greater at Year 2017 compared to the Year 2010."
    ],
    "xAxis": "Year",
    "yAxis": "Revenue in billion USD",
    "min_summary": [
-      "This is a multi-line chart with 2 lines representing Pharmacy services, and Retail pharmacy. The y axis denotes Revenue in billion USD and the x axis denotes Year.",
+      "The given chart is of multi-line type with 2 lines namely Pharmacy services, and Retail pharmacy. The y axis represents Revenue in billion USD and the x axis represents Year.",
       "Overall Pharmacy services, and Retail pharmacy are gradually increasing,  throughout the Year",
       "Throughout the period, Pharmacy services generally had the highest Revenue in billion USD relative to others with an average of 86.63, and it reached its maximum at 2017 with a value of 130.6.",
-      "The botommost line, Retail pharmacy,  has a mean of 68.32, and peaked at 2016. "
-   ],
-   "mid_summary": [
-      "The given chart is of multi-line type with 2 lines namely Pharmacy services, and Retail pharmacy. The y axis represents Revenue in billion USD and the x axis represents Year.",
-      "Overall Pharmacy services, and Retail pharmacy are gradually increasing,  throughout the Year",
-      "The lines ordered according to average values of Revenue in billion USD in descending order is: 1. Pharmacy services, and lastly, 2. Retail pharmacy. ",
-      "Overall across the Year, Pharmacy services mostly maintained the highest Revenue in billion USD when compared to others with a mean value of 86.63, and it peaked at 2017.",
       "Retail pharmacy mostly had the least Revenue in billion USD with a mean value of 68.32, which peaked at 2016 with a value of 81.1. "
    ],
-   "max_summary": [
-      "The given chart is of multi-line type with 2 lines namely Pharmacy services, and Retail pharmacy. The y axis represents Revenue in billion USD and the x axis represents Year.",
+   "mid_summary": [
+      "You are viewing a chart of multi-line type with 2 lines denoting Pharmacy services, and Retail pharmacy. The y axis indicates the Revenue in billion USD and the x axis indicates Year.",
       "Overall Pharmacy services, and Retail pharmacy are gradually increasing,  throughout the Year",
       "The ranking of the lines from topmost to botommmost is as follows: 1. Pharmacy services, and lastly, 2. Retail pharmacy. ",
       "Overall across the Year, Pharmacy services mostly maintained the highest Revenue in billion USD when compared to others with a mean value of 86.63, and it peaked at 2017.",
-      "Retail pharmacy mostly had the least Revenue in billion USD with a mean value of 68.32, which peaked at 2016 with a value of 81.1. ",
-      "The minimum Revenue in billion USD about 47.15, occured at 2010 by Pharmacy services.",
-      "The greatest difference of Revenue in billion USD between Pharmacy services and Retail pharmacy occurs at Year 2017 and the smallest difference occurs at 2011."
+      "The botommost line, Retail pharmacy,  has a mean of 68.32, and peaked at 2016. "
+   ],
+   "max_summary": [
+      "You are viewing a chart of multi-line type with 2 lines denoting Pharmacy services, and Retail pharmacy. The y axis indicates the Revenue in billion USD and the x axis indicates Year.",
+      "Overall Pharmacy services, and Retail pharmacy are gradually increasing,  throughout the Year",
+      "The lines ordered according to average values of Revenue in billion USD in descending order is: 1. Pharmacy services, and lastly, 2. Retail pharmacy. ",
+      "Throughout the period, Pharmacy services generally had the highest Revenue in billion USD relative to others with an average of 86.63, and it reached its maximum at 2017 with a value of 130.6.",
+      "The botommost line, Retail pharmacy,  has a mean of 68.32, and peaked at 2016. ",
+      "Pharmacy services reported the lowest Revenue in billion USD about 47.15 in Year 2010",
+      "The difference of Revenue in billion USD between Pharmacy services and Retail pharmacy is greater at Year 2017 compared to the Year 2010."
    ],
    "trends": [
       {},

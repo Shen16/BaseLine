@@ -6,27 +6,26 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 10 columns on the x axis representing Grocery Stores, and Market share of total grocers in each Grocery Stores on the y axis. ",
-      "The Market share of total grocers is appeared to be the highest at Grocery Stores E. Leclerc Group and lowest at Grocery Stores Other. ",
-      "The difference of Market share of total grocers between the highest and lowest Grocery Stores is 20.9. "
+      "This is a bar chart. It shows Market share of total grocers for 10 number of Grocery Storess. ",
+      "The maximum Market share of total grocers 21.6 is found at Grocery Stores E. Leclerc Group and the minimum is found at Other where Grocery Stores is 0.7. ",
+      "There is a difference of 20.9 between the maximum Grocery Stores E. Leclerc Group and minimum Grocery Stores Other. "
    ],
    "min_summary": [
-      "This is a bar chart representing Grocery Stores in the x axis and Market share of total grocers in the y axis. ",
-      "Grocery Stores E. Leclerc Group has the highest Market share of total grocers and Other has the lowest Market share of total grocers. "
+      "This bar chart has 10 columns on the x axis representing Grocery Stores, and Market share of total grocers in each Grocery Stores on the y axis. ",
+      "The Market share of total grocers is appeared to be the highest at Grocery Stores E. Leclerc Group and lowest at Grocery Stores Other. "
    ],
    "mid_summary": [
-      "This bar chart has 10 columns on the x axis representing Grocery Stores, and Market share of total grocers in each Grocery Stores on the y axis. ",
-      "The Market share of total grocers is appeared to be the highest at Grocery Stores E. Leclerc Group and lowest at Grocery Stores Other. ",
-      "The difference of Market share of total grocers between the highest and lowest Grocery Stores is 20.9. "
+      "This is a bar chart. It shows Market share of total grocers for 10 number of Grocery Storess. ",
+      "The maximum Market share of total grocers 21.6 is found at Grocery Stores E. Leclerc Group and the minimum is found at Other where Grocery Stores is 0.7. ",
+      "There is a difference of 20.9 between the maximum Grocery Stores E. Leclerc Group and minimum Grocery Stores Other. "
    ],
    "max_summary": [
-      "This bar chart has 10 columns on the x axis representing Grocery Stores, and Market share of total grocers in each Grocery Stores on the y axis. ",
-      "The Market share of total grocers is highest at Grocery Stores E. Leclerc Group and lowest at Grocery Stores Other. ",
-      "Grocery Stores Carrefour Group has the second highest value for Market share of total grocers. ",
-      "The highest Grocery Stores E. Leclerc Group has 20.9 more Market share of total grocers than the lowest Grocery Stores Other. ",
-      "Market share of total grocers at Grocery Stores E. Leclerc Group is 21.6 , second place is Carrefour Group at 19.8, and thirdly is Intermarch\u00e9 Group at 15.3.",
-      "The Grocery Stores E. Leclerc Group has 2.16 times more Market share of total grocers than average. ",
-      "Summing up the values of all Grocery Storess, we get total 100.0. "
+      "This is a bar chart representing Grocery Stores in the x axis and Market share of total grocers in the y axis. ",
+      "Grocery Stores E. Leclerc Group has the highest Market share of total grocers and Other has the lowest Market share of total grocers. ",
+      "Second maximum Market share of total grocers is found at Grocery Stores Carrefour Group. ",
+      "The highest value at Grocery Stores E. Leclerc Group is 30.86x times more than the lowest value at Other. ",
+      "The Grocery Stores E. Leclerc Group has the highest Market share of total grocers, followed by Carrefour Group, and Intermarch\u00e9 Group. Down to the Grocery Stores Other which is the lowest. ",
+      "The highest value 21.6 at E. Leclerc Group is almost 2.16 times larger than the average value 10.0. "
    ],
    "trends": [
       {},

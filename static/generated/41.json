@@ -8,24 +8,25 @@
    "summary": [
       "This is a bar chart representing Response in the x axis and Share of respondents in the y axis. ",
       "Response Retirees has the highest Share of respondents and Millennials has the lowest Share of respondents. ",
-      "The difference of Share of respondents between the highest and lowest Response is 21.0. "
+      "There is a difference of 21.0 between the maximum Response Retirees and minimum Response Millennials. "
    ],
    "min_summary": [
-      "This bar chart has 5 columns on the x axis representing Response, and Share of respondents in each Response on the y axis. ",
-      "The Share of respondents is appeared to be the highest at Response Retirees and lowest at Response Millennials. "
+      "This is a bar chart. It shows Share of respondents for 5 number of Responses. ",
+      "The maximum Share of respondents 54.0 is found at Response Retirees and the minimum is found at Millennials where Response is 33.0. "
    ],
    "mid_summary": [
       "This is a bar chart representing Response in the x axis and Share of respondents in the y axis. ",
       "Response Retirees has the highest Share of respondents and Millennials has the lowest Share of respondents. ",
-      "The difference of Share of respondents between the highest and lowest Response is 21.0. "
+      "There is a difference of 21.0 between the maximum Response Retirees and minimum Response Millennials. "
    ],
    "max_summary": [
-      "This bar chart has 5 columns on the x axis representing Response, and Share of respondents in each Response on the y axis. ",
-      "Response Retirees has the highest Share of respondents and Millennials has the lowest Share of respondents. ",
+      "This is a bar chart. It shows Share of respondents for 5 number of Responses. ",
+      "The Share of respondents is appeared to be the highest at Response Retirees and lowest at Response Millennials. ",
+      "The second highest Share of respondents is appeared to be the Response Boomers. ",
       "The difference of Share of respondents between the highest and lowest Response is 21.0. ",
-      "The Response Retirees has the highest Share of respondents, followed by Boomers, and Total. Down to the Response Millennials which is the lowest. ",
-      "The lowest value 33.0 at Millennials is almost 1.3 times smaller than the average value 41.6. ",
-      "Summing up the values of all Responses, we get total 208.0. "
+      "Response Retirees is higher than any other Responses with value 54.0, followed by Boomers, and Total. Down to Response Millennials with the lowest value 33.0. ",
+      "The Response Retirees tends to be 1.3 percent higher than average. ",
+      "The Share of respondents is 208.0 if we add up values of all Responses. "
    ],
    "trends": [
       {},

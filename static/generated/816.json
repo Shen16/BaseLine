@@ -9,7 +9,7 @@
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "You are viewing a chart of multi-line type with 2 lines denoting OBR, and IMF. The y axis indicates the SOME LABEL and the x axis indicates Year.",
+      "The given chart is of multi-line type with 2 lines namely OBR, and IMF. The y axis represents SOME LABEL and the x axis represents Year.",
       "Overall OBR is rapidly increasing, IMF is rapidly decreasing,  throughout the Year",
       "The ranking of the lines from topmost to botommmost is as follows: 1. OBR, and lastly, 2. IMF. ",
       "Throughout the period, OBR generally had the highest SOME LABEL relative to others with an average of -0.08, and it reached its maximum at 2022, and 2023 with a value of 0.0.",
@@ -21,28 +21,28 @@
    "xAxis": "Year",
    "yAxis": "SOME LABEL",
    "min_summary": [
-      "This is a multi-line chart with 2 lines representing OBR, and IMF. The y axis denotes SOME LABEL and the x axis denotes Year.",
+      "You are viewing a chart of multi-line type with 2 lines denoting OBR, and IMF. The y axis indicates the SOME LABEL and the x axis indicates Year.",
       "Overall OBR is rapidly increasing, IMF is rapidly decreasing,  throughout the Year",
       "Throughout the period, OBR generally had the highest SOME LABEL relative to others with an average of -0.08, and it reached its maximum at 2022, and 2023 with a value of 0.0.",
-      "IMF mostly had the least SOME LABEL with a mean value of 0.0, which peaked at 2019, 2020, 2021, 2022, and 2023 with a value of 0.0. "
+      "The botommost line, IMF,  has a mean of 0.0, and peaked at 2019, 2020, 2021, 2022, and 2023. "
    ],
    "mid_summary": [
-      "You are viewing a chart of multi-line type with 2 lines denoting OBR, and IMF. The y axis indicates the SOME LABEL and the x axis indicates Year.",
+      "The given chart is of multi-line type with 2 lines namely OBR, and IMF. The y axis represents SOME LABEL and the x axis represents Year.",
       "Overall OBR is rapidly increasing, IMF is rapidly decreasing,  throughout the Year",
       "OBR has increased by 100.00000001000001 percent.IMF has decreased by 0.0 percent.",
-      "The ranking of the lines from topmost to botommmost is as follows: 1. OBR, and lastly, 2. IMF. ",
-      "Overall across the Year, OBR mostly maintained the highest SOME LABEL when compared to others with a mean value of -0.08, and it peaked at 2022, and 2023.",
-      "IMF mostly had the least SOME LABEL with a mean value of 0.0, which peaked at 2019, 2020, 2021, 2022, and 2023 with a value of 0.0. "
+      "The lines ordered according to average values of SOME LABEL in descending order is: 1. OBR, and lastly, 2. IMF. ",
+      "Throughout the period, OBR generally had the highest SOME LABEL relative to others with an average of -0.08, and it reached its maximum at 2022, and 2023 with a value of 0.0.",
+      "The botommost line, IMF,  has a mean of 0.0, and peaked at 2019, 2020, 2021, 2022, and 2023. "
    ],
    "max_summary": [
-      "You are viewing a chart of multi-line type with 2 lines denoting OBR, and IMF. The y axis indicates the SOME LABEL and the x axis indicates Year.",
+      "This is a multi-line chart with 2 lines representing OBR, and IMF. The y axis denotes SOME LABEL and the x axis denotes Year.",
       "Overall OBR is rapidly increasing, IMF is rapidly decreasing,  throughout the Year",
       "OBR has increased by 100.00000001000001 percent.IMF has decreased by 0.0 percent.",
       "The ranking of the lines from topmost to botommmost is as follows: 1. OBR, and lastly, 2. IMF. ",
-      "Overall across the Year, OBR mostly maintained the highest SOME LABEL when compared to others with a mean value of -0.08, and it peaked at 2022, and 2023.",
-      "IMF mostly had the least SOME LABEL with a mean value of 0.0, which peaked at 2019, 2020, 2021, 2022, and 2023 with a value of 0.0. ",
-      "OBR reported the lowest SOME LABEL about -0.2 in Year 2020",
-      "The greatest difference of SOME LABEL between OBR and IMF occurs at Year 2020 and the smallest difference occurs at 2022."
+      "Throughout the period, OBR generally had the highest SOME LABEL relative to others with an average of -0.08, and it reached its maximum at 2022, and 2023 with a value of 0.0.",
+      "The botommost line, IMF,  has a mean of 0.0, and peaked at 2019, 2020, 2021, 2022, and 2023. ",
+      "The minimum SOME LABEL about -0.2, occured at 2020 by OBR.",
+      "The difference of SOME LABEL between OBR and IMF is smaller at Year 2023 compared to the Year 2019."
    ],
    "trends": [
       {},

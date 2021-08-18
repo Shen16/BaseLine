@@ -6,27 +6,27 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 4 columns on the x axis representing Company, and Market share in South Africa in each Company on the y axis. ",
+      "This is a bar chart. It shows Market share in South Africa for 4 number of Companys. ",
       "The Market share in South Africa is appeared to be the highest at Company The Coca-Cola Co and lowest at Company PepsiCo Inc. ",
-      "The highest Company The Coca-Cola Co has 44.3 more Market share in South Africa than the lowest Company PepsiCo Inc. "
+      "The difference of Market share in South Africa between the highest and lowest Company is 44.3. "
    ],
    "min_summary": [
-      "This bar chart has 4 columns on the x axis representing Company, and Market share in South Africa in each Company on the y axis. ",
-      "The Market share in South Africa is highest at Company The Coca-Cola Co and lowest at Company PepsiCo Inc. "
+      "This is a bar chart. It shows Market share in South Africa for 4 number of Companys. ",
+      "The maximum Market share in South Africa 49.8 is found at Company The Coca-Cola Co and the minimum is found at PepsiCo Inc where Company is 5.5. "
    ],
    "mid_summary": [
-      "This bar chart has 4 columns on the x axis representing Company, and Market share in South Africa in each Company on the y axis. ",
+      "This is a bar chart. It shows Market share in South Africa for 4 number of Companys. ",
       "The Market share in South Africa is appeared to be the highest at Company The Coca-Cola Co and lowest at Company PepsiCo Inc. ",
-      "The highest Company The Coca-Cola Co has 44.3 more Market share in South Africa than the lowest Company PepsiCo Inc. "
+      "The difference of Market share in South Africa between the highest and lowest Company is 44.3. "
    ],
    "max_summary": [
       "This is a bar chart representing Company in the x axis and Market share in South Africa in the y axis. ",
-      "Company The Coca-Cola Co has the highest Market share in South Africa and PepsiCo Inc has the lowest Market share in South Africa. ",
+      "The Market share in South Africa is highest at Company The Coca-Cola Co and lowest at Company PepsiCo Inc. ",
       "The second highest Market share in South Africa is appeared to be the Company Other. ",
-      "The difference of Market share in South Africa between the highest and lowest Company is 44.3. ",
-      "The Company The Coca-Cola Co has the highest Market share in South Africa, followed by Other, and Tiger Brands Ltd. Down to the Company PepsiCo Inc which is the lowest. ",
-      "The Company The Coca-Cola Co tends to be 1.99 percent higher than average. ",
-      "The Market share in South Africa is 100.0 if we add up values of all Companys. "
+      "The maximum Company The Coca-Cola Co has got 9.05 times higher Market share in South Africa than the minimum Company PepsiCo Inc. ",
+      "Market share in South Africa at Company The Coca-Cola Co is 49.8 , second place is Other at 35.3, and thirdly is Tiger Brands Ltd at 9.4.",
+      "The highest value 49.8 at The Coca-Cola Co is almost 1.99 times larger than the average value 25.0. ",
+      "Summing up the values of all Companys, we get total 100.0. "
    ],
    "trends": [
       {},

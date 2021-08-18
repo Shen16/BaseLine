@@ -6,26 +6,26 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This is a bar chart representing Response in the x axis and Share of respondents in the y axis. ",
-      "The Share of respondents is highest at Response Ignore the post and lowest at Response Discuss the content with the poster offline (e.g. on the phone in person etc.). ",
-      "There is a difference of 34.0 between the maximum Response Ignore the post and minimum Response Discuss the content with the poster offline (e.g. on the phone in person etc.). "
+      "This is a bar chart. It shows Share of respondents for 5 number of Responses. ",
+      "Response Ignore the post has the highest Share of respondents and Discuss the content with the poster offline (e.g. on the phone in person etc.) has the lowest Share of respondents. ",
+      "The highest value at Response Ignore the post is 6.67x times more than the lowest value at Discuss the content with the poster offline (e.g. on the phone in person etc.). "
    ],
    "min_summary": [
-      "This is a bar chart representing Response in the x axis and Share of respondents in the y axis. ",
-      "The Share of respondents is highest at Response Ignore the post and lowest at Response Discuss the content with the poster offline (e.g. on the phone in person etc.). "
+      "This bar chart has 5 columns on the x axis representing Response, and Share of respondents in each Response on the y axis. ",
+      "The maximum Share of respondents 40.0 is found at Response Ignore the post and the minimum is found at Discuss the content with the poster offline (e.g. on the phone in person etc.) where Response is 6.0. "
    ],
    "mid_summary": [
-      "This is a bar chart representing Response in the x axis and Share of respondents in the y axis. ",
-      "The Share of respondents is highest at Response Ignore the post and lowest at Response Discuss the content with the poster offline (e.g. on the phone in person etc.). ",
-      "There is a difference of 34.0 between the maximum Response Ignore the post and minimum Response Discuss the content with the poster offline (e.g. on the phone in person etc.). "
+      "This is a bar chart. It shows Share of respondents for 5 number of Responses. ",
+      "Response Ignore the post has the highest Share of respondents and Discuss the content with the poster offline (e.g. on the phone in person etc.) has the lowest Share of respondents. ",
+      "The highest value at Response Ignore the post is 6.67x times more than the lowest value at Discuss the content with the poster offline (e.g. on the phone in person etc.). "
    ],
    "max_summary": [
-      "This bar chart has 5 columns on the x axis representing Response, and Share of respondents in each Response on the y axis. ",
-      "Response Ignore the post has the highest Share of respondents and Discuss the content with the poster offline (e.g. on the phone in person etc.) has the lowest Share of respondents. ",
-      "Second maximum Share of respondents is found at Response Unfollow/unfriend the poster. ",
-      "There is a difference of 34.0 between the maximum Response Ignore the post and minimum Response Discuss the content with the poster offline (e.g. on the phone in person etc.). ",
-      "The Response Ignore the post has the highest Share of respondents, followed by Unfollow/unfriend the poster, and Comment on/ reply to the post. Down to the Response Discuss the content with the poster offline (e.g. on the phone in person etc.) which is the lowest. ",
-      "Considered together, the average Share of respondents in all 5 Responses is roughly 20.2. "
+      "This is a bar chart. It shows Share of respondents for 5 number of Responses. ",
+      "The maximum Share of respondents 40.0 is found at Response Ignore the post and the minimum is found at Discuss the content with the poster offline (e.g. on the phone in person etc.) where Response is 6.0. ",
+      "The difference of Share of respondents between the highest and lowest Response is 34.0. ",
+      "Share of respondents at Response Ignore the post is 40.0 , second place is Unfollow/unfriend the poster at 31.0, and thirdly is Comment on/ reply to the post at 17.0.",
+      "The Response Ignore the post has 1.98 times more Share of respondents than average. ",
+      "The Share of respondents is 101.0 if we add up values of all Responses. "
    ],
    "trends": [
       {},

@@ -6,25 +6,24 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This is a bar chart. It shows Share of active users for 2 number of Sexs. ",
+      "This is a bar chart representing Sex in the x axis and Share of active users in the y axis. ",
       "The maximum Share of active users 61.0 is found at Sex Female and the minimum is found at Male where Sex is 38.0. ",
-      "The highest Sex Female has 23.0 more Share of active users than the lowest Sex Male. "
+      "The lowest value at Sex Male is 1.61x times less than the highest value at Female. "
    ],
    "min_summary": [
       "This is a bar chart representing Sex in the x axis and Share of active users in the y axis. ",
-      "The maximum Share of active users 61.0 is found at Sex Female and the minimum is found at Male where Sex is 38.0. "
+      "Sex Female has the highest Share of active users and Male has the lowest Share of active users. "
    ],
    "mid_summary": [
-      "This is a bar chart. It shows Share of active users for 2 number of Sexs. ",
+      "This is a bar chart representing Sex in the x axis and Share of active users in the y axis. ",
       "The maximum Share of active users 61.0 is found at Sex Female and the minimum is found at Male where Sex is 38.0. ",
-      "The highest Sex Female has 23.0 more Share of active users than the lowest Sex Male. "
+      "The lowest value at Sex Male is 1.61x times less than the highest value at Female. "
    ],
    "max_summary": [
       "This is a bar chart representing Sex in the x axis and Share of active users in the y axis. ",
       "Sex Female has the highest Share of active users and Male has the lowest Share of active users. ",
-      "The difference of Share of active users between the highest and lowest Sex is 23.0. ",
-      "The Sex Female has 1.23 times more Share of active users than average. ",
-      "Summing up the values of all Sexs, we get total 99.0. "
+      "The highest Sex Female has 23.0 more Share of active users than the lowest Sex Male. ",
+      "The lowest value 38.0 at Male is almost 1.23 times smaller than the average value 49.5. "
    ],
    "trends": [
       {},

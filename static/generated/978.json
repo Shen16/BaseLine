@@ -6,28 +6,28 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 11 columns on the x axis representing Quarter, and Number of monthly users in millions in each Quarter on the y axis. ",
-      "Quarter Q3 '16 has the highest Number of monthly users in millions and Q2 '14 has the lowest Number of monthly users in millions. ",
+      "This is a bar chart representing Quarter in the x axis and Number of monthly users in millions in the y axis. ",
+      "The Number of monthly users in millions is appeared to be the highest at Quarter Q3 '16 and lowest at Quarter Q2 '14. ",
       "The difference of Number of monthly users in millions between the highest and lowest Quarter is 50.0. "
    ],
    "min_summary": [
-      "This is a bar chart. It shows Number of monthly users in millions for 11 number of Quarters. ",
+      "This is a bar chart representing Quarter in the x axis and Number of monthly users in millions in the y axis. ",
       "The maximum Number of monthly users in millions 220.0 is found at Quarter Q3 '16 and the minimum is found at Q2 '14 where Quarter is 170.0. "
    ],
    "mid_summary": [
-      "This bar chart has 11 columns on the x axis representing Quarter, and Number of monthly users in millions in each Quarter on the y axis. ",
-      "Quarter Q3 '16 has the highest Number of monthly users in millions and Q2 '14 has the lowest Number of monthly users in millions. ",
+      "This is a bar chart representing Quarter in the x axis and Number of monthly users in millions in the y axis. ",
+      "The Number of monthly users in millions is appeared to be the highest at Quarter Q3 '16 and lowest at Quarter Q2 '14. ",
       "The difference of Number of monthly users in millions between the highest and lowest Quarter is 50.0. "
    ],
    "max_summary": [
-      "This is a bar chart. It shows Number of monthly users in millions for 11 number of Quarters. ",
-      "Quarter Q3 '16 has the highest Number of monthly users in millions and Q2 '14 has the lowest Number of monthly users in millions. ",
-      "Quarter Q2 '16 has the second highest value for Number of monthly users in millions. ",
-      "The difference of Number of monthly users in millions between the highest and lowest Quarter is 50.0. ",
-      "Number of monthly users in millions at Quarter Q3 '16 is 220.0 , second place is Q2 '16 at 220.0, and thirdly is Q1 '16 at 218.4.",
-      "Overall Number of monthly users in millions has lowered over the Quarters. ",
-      "Similar Number of monthly users in millions is found in Quarter Q3 '16, and Q2 '16. ",
-      "The Quarter Q3 '16 tends to be 1.07 percent higher than average. "
+      "This bar chart has 11 columns on the x axis representing Quarter, and Number of monthly users in millions in each Quarter on the y axis. ",
+      "The Number of monthly users in millions is appeared to be the highest at Quarter Q3 '16 and lowest at Quarter Q2 '14. ",
+      "Second maximum Number of monthly users in millions is found at Quarter Q2 '16. ",
+      "The Number of monthly users in millions of Quarter Q2 '14 is 1.29% smaller than the maximum value at Q3 '16. ",
+      "Quarter Q3 '16 is higher than any other Quarters with value 220.0, followed by Q2 '16, and Q1 '16. Down to Quarter Q2 '14 with the lowest value 170.0. ",
+      "Over the past 11 Quarters, the Number of monthly users in millions has lowered. ",
+      "Quarter Q3 '16, and Q2 '16 share the same value 220.0. ",
+      "The Quarter Q3 '16 has 1.07 times more Number of monthly users in millions than average. "
    ],
    "trends": [
       {},

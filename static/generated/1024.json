@@ -6,31 +6,31 @@
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Time in hours and minutes (hh.mm). In total the number of data points it has is 14.",
+      "This is a line chart with an x axis representing Year and a y axis representing Time in hours and minutes (hh.mm), containing a total of 14 data points.",
       " In general Time in hours and minutes (hh.mm) has stayed the same over the Year.",
       "The line drastically ",
       "The steepest increase occurs in between the Year 2010 and 2011.",
-      "Maximum Time in hours and minutes (hh.mm), about 3.5 was reported at Year 2012",
-      "The lowest Time in hours and minutes (hh.mm), of value 3.24 was reported at Year 2006, and 2008"
+      "The highest Time in hours and minutes (hh.mm), of value 3.5 was reached at Year 2012",
+      "Minimum Time in hours and minutes (hh.mm) about 3.24 was reached at Year 2006, and 2008"
    ],
    "min_summary": [
-      "This is a line chart with an x axis representing Year and a y axis representing Time in hours and minutes (hh.mm), containing a total of 14 data points.",
-      " Overall Time in hours and minutes (hh.mm) has increased over the Year."
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Time in hours and minutes (hh.mm). In total the number of data points it has is 14.",
+      " In general Time in hours and minutes (hh.mm) has stayed the same over the Year."
    ],
    "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Time in hours and minutes (hh.mm), containing a total of 14 data points.",
+      " In general Time in hours and minutes (hh.mm) has stayed the same over the Year.",
+      "The steepest increase occurs in between the Year 2010 and 2011.",
+      "The highest Time in hours and minutes (hh.mm), of value 3.5 was reached at Year 2012",
+      "Minimum Time in hours and minutes (hh.mm) about 3.24 was reached at Year 2006, and 2008"
+   ],
+   "max_summary": [
       "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Time in hours and minutes (hh.mm). In total the number of data points it has is 14.",
       " In general Time in hours and minutes (hh.mm) has stayed the same over the Year.",
       "The steepest increase occurs in between the Year 2010 and 2011.",
-      "Maximum Time in hours and minutes (hh.mm), about 3.5 was reported at Year 2012",
-      "The lowest Time in hours and minutes (hh.mm), of value 3.24 was reported at Year 2006, and 2008"
-   ],
-   "max_summary": [
-      "This is a line chart with an x axis representing Year and a y axis representing Time in hours and minutes (hh.mm), containing a total of 14 data points.",
-      " In general Time in hours and minutes (hh.mm) has stayed the same over the Year.",
-      "The steepest increase occurs in between the Year 2010 and 2011.",
-      "Maximum Time in hours and minutes (hh.mm), about 3.5 was reported at Year 2012",
-      "The lowest Time in hours and minutes (hh.mm), of value 3.24 was reported at Year 2006, and 2008",
-      "The line drastically "
+      "The highest Time in hours and minutes (hh.mm), of value 3.5 was reached at Year 2012",
+      "Minimum Time in hours and minutes (hh.mm) about 3.24 was reached at Year 2006, and 2008",
+      "The line significantly "
    ],
    "trends": [],
    "data": [

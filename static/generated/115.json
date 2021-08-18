@@ -6,26 +6,26 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 6 columns on the x axis representing Pet Type, and Number of pets in thousands in each Pet Type on the y axis. ",
-      "The maximum Number of pets in thousands 103828.0 is found at Pet Type Cat and the minimum is found at Reptiles where Pet Type is 7848.0. ",
-      "The difference of Number of pets in thousands between the highest and lowest Pet Type is 95980.0. "
+      "This is a bar chart representing Pet Type in the x axis and Number of pets in thousands in the y axis. ",
+      "Pet Type Cat has the highest Number of pets in thousands and Reptiles has the lowest Number of pets in thousands. ",
+      "The highest value at Pet Type Cat is 13.23x times more than the lowest value at Reptiles. "
    ],
    "min_summary": [
-      "This is a bar chart representing Pet Type in the x axis and Number of pets in thousands in the y axis. ",
+      "This bar chart has 6 columns on the x axis representing Pet Type, and Number of pets in thousands in each Pet Type on the y axis. ",
       "The maximum Number of pets in thousands 103828.0 is found at Pet Type Cat and the minimum is found at Reptiles where Pet Type is 7848.0. "
    ],
    "mid_summary": [
-      "This bar chart has 6 columns on the x axis representing Pet Type, and Number of pets in thousands in each Pet Type on the y axis. ",
-      "The maximum Number of pets in thousands 103828.0 is found at Pet Type Cat and the minimum is found at Reptiles where Pet Type is 7848.0. ",
-      "The difference of Number of pets in thousands between the highest and lowest Pet Type is 95980.0. "
+      "This is a bar chart representing Pet Type in the x axis and Number of pets in thousands in the y axis. ",
+      "Pet Type Cat has the highest Number of pets in thousands and Reptiles has the lowest Number of pets in thousands. ",
+      "The highest value at Pet Type Cat is 13.23x times more than the lowest value at Reptiles. "
    ],
    "max_summary": [
-      "This is a bar chart representing Pet Type in the x axis and Number of pets in thousands in the y axis. ",
-      "The maximum Number of pets in thousands 103828.0 is found at Pet Type Cat and the minimum is found at Reptiles where Pet Type is 7848.0. ",
-      "Pet Type Dog has the second highest value for Number of pets in thousands. ",
+      "This is a bar chart. It shows Number of pets in thousands for 6 number of Pet Types. ",
+      "The Number of pets in thousands is highest at Pet Type Cat and lowest at Pet Type Reptiles. ",
       "The highest Pet Type Cat has 95980.0 more Number of pets in thousands than the lowest Pet Type Reptiles. ",
-      "Pet Type Cat is higher than any other Pet Types with value 103828.0, followed by Dog, and Ornamental bird. Down to Pet Type Reptiles with the lowest value 7848.0. ",
-      "Considered together, the average Number of pets in thousands in all 6 Pet Types is roughly 48226.5. "
+      "Number of pets in thousands at Pet Type Cat is 103828.0 , second place is Dog at 85184.0, and thirdly is Ornamental bird at 50212.0.",
+      "The Pet Type Reptiles has 2.15 times less Number of pets in thousands than average. ",
+      "The Number of pets in thousands is 289359.0 if we add up values of all Pet Types. "
    ],
    "trends": [
       {},

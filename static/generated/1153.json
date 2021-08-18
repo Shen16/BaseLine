@@ -9,36 +9,36 @@
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "You are viewing a chart of multi-line type with 2 lines denoting Print, and Digital. The y axis indicates the SOME LABEL and the x axis indicates Year.",
+      "This is a multi-line chart with 2 lines representing Print, and Digital. The y axis denotes SOME LABEL and the x axis denotes Year.",
       "Overall Print is gradually decreasing, Digital is roughly constant,  throughout the Year",
       "The ranking of the lines from topmost to botommmost is as follows: 1. Print, and lastly, 2. Digital. ",
       "Throughout the period, Print generally had the highest SOME LABEL relative to others with an average of 31.96, and it reached its maximum at 2005 with a value of 47.41.",
-      "Digital mostly had the least SOME LABEL with a mean value of 2.75, which peaked at 2014 with a value of 3.5. ",
-      "Digital reported the lowest SOME LABEL about 1.22 in Year 2003",
-      "The greatest difference of SOME LABEL between Print and Digital occurs at Year 2005 and the smallest difference occurs at 2014."
+      "The botommost line, Digital,  has a mean of 2.75, and peaked at 2014. ",
+      "The minimum SOME LABEL about 1.22, occured at 2003 by Digital.",
+      "The difference of SOME LABEL between Print and Digital is smaller at Year 2014 compared to the Year 2003."
    ],
    "xAxis": "Year",
    "yAxis": "SOME LABEL",
    "min_summary": [
-      "This is a multi-line chart with 2 lines representing Print, and Digital. The y axis denotes SOME LABEL and the x axis denotes Year.",
+      "The given chart is of multi-line type with 2 lines namely Print, and Digital. The y axis represents SOME LABEL and the x axis represents Year.",
       "Overall Print is gradually decreasing, Digital is roughly constant,  throughout the Year",
-      "Overall across the Year, Print mostly maintained the highest SOME LABEL when compared to others with a mean value of 31.96, and it peaked at 2005.",
-      "The botommost line, Digital,  has a mean of 2.75, and peaked at 2014. "
+      "Throughout the period, Print generally had the highest SOME LABEL relative to others with an average of 31.96, and it reached its maximum at 2005 with a value of 47.41.",
+      "Digital mostly had the least SOME LABEL with a mean value of 2.75, which peaked at 2014 with a value of 3.5. "
    ],
    "mid_summary": [
       "The given chart is of multi-line type with 2 lines namely Print, and Digital. The y axis represents SOME LABEL and the x axis represents Year.",
       "Overall Print is gradually decreasing, Digital is roughly constant,  throughout the Year",
       "The ranking of the lines from topmost to botommmost is as follows: 1. Print, and lastly, 2. Digital. ",
       "Throughout the period, Print generally had the highest SOME LABEL relative to others with an average of 31.96, and it reached its maximum at 2005 with a value of 47.41.",
-      "The botommost line, Digital,  has a mean of 2.75, and peaked at 2014. "
+      "Digital mostly had the least SOME LABEL with a mean value of 2.75, which peaked at 2014 with a value of 3.5. "
    ],
    "max_summary": [
-      "The given chart is of multi-line type with 2 lines namely Print, and Digital. The y axis represents SOME LABEL and the x axis represents Year.",
+      "This is a multi-line chart with 2 lines representing Print, and Digital. The y axis denotes SOME LABEL and the x axis denotes Year.",
       "Overall Print is gradually decreasing, Digital is roughly constant,  throughout the Year",
-      "The ranking of the lines from topmost to botommmost is as follows: 1. Print, and lastly, 2. Digital. ",
+      "The lines ordered according to average values of SOME LABEL in descending order is: 1. Print, and lastly, 2. Digital. ",
       "Overall across the Year, Print mostly maintained the highest SOME LABEL when compared to others with a mean value of 31.96, and it peaked at 2005.",
       "Digital mostly had the least SOME LABEL with a mean value of 2.75, which peaked at 2014 with a value of 3.5. ",
-      "The minimum SOME LABEL about 1.22, occured at 2003 by Digital.",
+      "Digital reported the lowest SOME LABEL about 1.22 in Year 2003",
       "The greatest difference of SOME LABEL between Print and Digital occurs at Year 2005 and the smallest difference occurs at 2014."
    ],
    "trends": [

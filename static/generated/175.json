@@ -10,10 +10,10 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart represents 10 different Countrys on X-axis for 3 groups Passenger Cars, Commercial Vehicles, and Total. On the Y-axis it shows their corresponding Production volume in thousand units. ",
-      " Country Germany had the maximum Production volume in thousand units among all 3 groups, and it was for Total. The minimum Production volume in thousand units was observed in Country Slovakia for Commercial Vehicles. ",
-      " In Country Germany, Total had the highest Production volume in thousand units among all 10 Countrys and it has the lowest Production volume in thousand units in Country Romania. ",
-      "Country Germany and Romania had the biggest gap of 5786185.0 between the highest and lowest Production volume in thousand units found for Total. "
+      "This grouped bar chart shows Production volume in thousand units on the Y-axis for 10 different Countrys for 3 groups Passenger Cars, Commercial Vehicles, and Total that are presented on the X-axis. ",
+      " Out of all 3 groups, Total had the highest Production volume in thousand units in Country Germany and Commercial Vehicles had the lowest Production volume in thousand units in Country Slovakia. ",
+      " In Country Spain, Commercial Vehicles had the highest Production volume in thousand units among all 10 Countrys and it has the lowest Production volume in thousand units in Country Slovakia. ",
+      " There is a gap of 635574.0 between the highest and lowest Production volume in thousand units found for Commercial Vehicles in Country Spain and Slovakia. "
    ],
    "xAxis": "Country",
    "yAxis": "Production volume in thousand units",
@@ -22,19 +22,19 @@
       " Country Germany had the maximum Production volume in thousand units among all 3 groups, and it was for Total. The minimum Production volume in thousand units was observed in Country Slovakia for Commercial Vehicles. "
    ],
    "mid_summary": [
-      "This grouped bar chart represents 10 different Countrys on X-axis for 3 groups Passenger Cars, Commercial Vehicles, and Total. On the Y-axis it shows their corresponding Production volume in thousand units. ",
-      " Country Germany had the maximum Production volume in thousand units among all 3 groups, and it was for Total. The minimum Production volume in thousand units was observed in Country Slovakia for Commercial Vehicles. ",
-      " In Country Germany, Total had the highest Production volume in thousand units among all 10 Countrys and it has the lowest Production volume in thousand units in Country Romania. ",
-      "Country Germany and Romania had the biggest gap of 5786185.0 between the highest and lowest Production volume in thousand units found for Total. "
+      "This grouped bar chart shows Production volume in thousand units on the Y-axis for 10 different Countrys for 3 groups Passenger Cars, Commercial Vehicles, and Total that are presented on the X-axis. ",
+      " Out of all 3 groups, Total had the highest Production volume in thousand units in Country Germany and Commercial Vehicles had the lowest Production volume in thousand units in Country Slovakia. ",
+      " In Country Spain, Commercial Vehicles had the highest Production volume in thousand units among all 10 Countrys and it has the lowest Production volume in thousand units in Country Slovakia. ",
+      " There is a gap of 635574.0 between the highest and lowest Production volume in thousand units found for Commercial Vehicles in Country Spain and Slovakia. "
    ],
    "max_summary": [
       "This grouped bar chart represents 10 different Countrys on X-axis for 3 groups Passenger Cars, Commercial Vehicles, and Total. On the Y-axis it shows their corresponding Production volume in thousand units. ",
-      " Out of all 3 groups, Total had the highest Production volume in thousand units in Country Germany and Commercial Vehicles had the lowest Production volume in thousand units in Country Slovakia. ",
-      " In Country Germany, Total had the highest Production volume in thousand units among all 10 Countrys and it has the lowest Production volume in thousand units in Country Romania. ",
-      " There is a gap of 5786185.0 between the highest and lowest Production volume in thousand units found for Total in Country Germany and Romania. ",
-      " Among all 3 groups, Passenger Cars had the gap of 5280927.0 between the maximum and minimum Production volume in thousand units observed in Country Germany and Romania respectively. ",
+      " In Country Germany, Total had the highest Production volume in thousand units 6150839.0 among the 3 groups and in Slovakia, Commercial Vehicles had the lowest Production volume in thousand units 0.0. ",
+      " In Country Spain, Commercial Vehicles had the maximum Production volume in thousand units and it saw the lowest in Country Slovakia out of all 10 Countrys. ",
+      "Country Spain and Slovakia had the biggest gap of 635574.0 between the highest and lowest Production volume in thousand units found for Commercial Vehicles. ",
+      " Among the groups, Passenger Cars had the biggest difference in Production volume in thousand units. Where the maximum Production volume in thousand units was 15.48 times larger than the minimum Production volume in thousand units. ",
       " In Country Germany, Total had the highest Production volume in thousand units 6150839.0 among the 3 groups and in Slovakia, Commercial Vehicles had the lowest Production volume in thousand units 0.0. The second highest Production volume in thousand units 5645581.0 was observed for Total in Country Germany. ",
-      "On average, the Country Germany had the highest Production volume in thousand units for all 3 groups Passenger Cars, Commercial Vehicles, and Total. Whereas Romania had the lowest average Production volume in thousand units. "
+      "Averaging all 3 groups Passenger Cars, Commercial Vehicles, and Total, the Country Germany is the maximum Production volume in thousand units and Romania is the minimum Production volume in thousand units. "
    ],
    "trends": [
       {},

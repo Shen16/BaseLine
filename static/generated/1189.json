@@ -6,26 +6,27 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This is a bar chart representing Index rate in the x axis and Unnamed: 1 in the y axis. ",
+      "This bar chart has 50 columns on the x axis representing Index rate, and Unnamed: 1 in each Index rate on the y axis. ",
       "The Unnamed: 1 is highest at Index rate Germany and lowest at Index rate Iran. ",
-      "The difference of Unnamed: 1 between the highest and lowest Index rate is 73.0. "
+      "The minimum Index rate Iran has got 3.7 times less Unnamed: 1 than the maximum Index rate Germany. "
    ],
    "min_summary": [
       "This is a bar chart. It shows Unnamed: 1 for 50 number of Index rates. ",
-      "Index rate Germany has the highest Unnamed: 1 and Iran has the lowest Unnamed: 1. "
+      "The maximum Unnamed: 1 100.0 is found at Index rate Germany and the minimum is found at Iran where Index rate is 27.0. "
    ],
    "mid_summary": [
-      "This is a bar chart representing Index rate in the x axis and Unnamed: 1 in the y axis. ",
+      "This bar chart has 50 columns on the x axis representing Index rate, and Unnamed: 1 in each Index rate on the y axis. ",
       "The Unnamed: 1 is highest at Index rate Germany and lowest at Index rate Iran. ",
-      "The difference of Unnamed: 1 between the highest and lowest Index rate is 73.0. "
+      "The minimum Index rate Iran has got 3.7 times less Unnamed: 1 than the maximum Index rate Germany. "
    ],
    "max_summary": [
       "This is a bar chart. It shows Unnamed: 1 for 50 number of Index rates. ",
-      "The Unnamed: 1 is highest at Index rate Germany and lowest at Index rate Iran. ",
+      "The Unnamed: 1 is appeared to be the highest at Index rate Germany and lowest at Index rate Iran. ",
+      "The second highest Unnamed: 1 is appeared to be the Index rate Switzerland. ",
       "The difference of Unnamed: 1 between the highest and lowest Index rate is 73.0. ",
-      "Unnamed: 1 at Index rate Germany is 100.0 , second place is Switzerland at 98.0, and thirdly is European Union at 92.0.",
-      "Index rate Turkey, Peru, South Africa, Mexico, and Romania share the same value 37.0. ",
-      "The lowest value 27.0 at Iran is almost 1.78 times smaller than the average value 56.24. ",
+      "Index rate Germany is higher than any other Index rates with value 100.0, followed by Switzerland, and European Union. Down to Index rate Iran with the lowest value 27.0. ",
+      "Index rate Turkey, Peru, South Africa, Mexico, and Romania have a similar Unnamed: 1 that is 37.0. ",
+      "Considered together, the average Unnamed: 1 in all 50 Index rates is roughly 56.24. ",
       "Summing up the values of all Index rates, we get total 2812.0. "
    ],
    "trends": [

@@ -13,18 +13,18 @@
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "The given chart is of multi-line type with 6 lines namely \"Systeme A\", Carrefour, Leclerc, Intermarche, Casino, and Other. The y axis represents SOME LABEL and the x axis represents Year.",
+      "This is a multi-line chart with 6 lines representing \"Systeme A\", Carrefour, Leclerc, Intermarche, Casino, and Other. The y axis denotes SOME LABEL and the x axis denotes Year.",
       "Overall \"Systeme A\", and Leclerc are gradually increasing, Carrefour, Casino, and Other are gradually decreasing, Intermarche is roughly constant,  throughout the Year",
-      "Throughout the period, \"Systeme A\" generally had the highest SOME LABEL relative to others with an average of 21.47, and it reached its maximum at 2013 with a value of 22.3.",
-      "After \"Systeme A\", Carrefour overall has the second highest values , with a mean value of 20.8, peaking at 2008. ",
-      "Casino mostly had the least SOME LABEL with a mean value of 10.57, which peaked at 2008 with a value of 11.6. ",
-      "Carrefour reported the highest SOME LABEL about 22.9 in Year 2008",
+      "Overall across the Year, \"Systeme A\" mostly maintained the highest SOME LABEL when compared to others with a mean value of 21.47, and it peaked at 2013.",
+      "Followed by Carrefour which ranks as the second topmpost line , with an average of 20.8 SOME LABEL,reaching its highest point  at 2008 with a value of 22.9. ",
+      "The botommost line, Casino,  has a mean of 10.57, and peaked at 2008. ",
+      "The maximum SOME LABEL about 22.9, occured at 2008 by Carrefour.",
       "The minimum SOME LABEL about 9.9, occured at 2018 by Casino."
    ],
    "xAxis": "Year",
    "yAxis": "SOME LABEL",
    "min_summary": [
-      "The given chart is of multi-line type with 6 lines namely \"Systeme A\", Carrefour, Leclerc, Intermarche, Casino, and Other. The y axis represents SOME LABEL and the x axis represents Year.",
+      "You are viewing a chart of multi-line type with 6 lines denoting \"Systeme A\", Carrefour, Leclerc, Intermarche, Casino, and Other. The y axis indicates the SOME LABEL and the x axis indicates Year.",
       "Overall \"Systeme A\", and Leclerc are gradually increasing, Carrefour, Casino, and Other are gradually decreasing, Intermarche is roughly constant,  throughout the Year",
       "Overall across the Year, \"Systeme A\" mostly maintained the highest SOME LABEL when compared to others with a mean value of 21.47, and it peaked at 2013.",
       "Followed by Carrefour which ranks as the second topmpost line , with an average of 20.8 SOME LABEL,reaching its highest point  at 2008 with a value of 22.9. ",
@@ -33,7 +33,7 @@
    "mid_summary": [
       "This is a multi-line chart with 6 lines representing \"Systeme A\", Carrefour, Leclerc, Intermarche, Casino, and Other. The y axis denotes SOME LABEL and the x axis denotes Year.",
       "Overall \"Systeme A\", and Leclerc are gradually increasing, Carrefour, Casino, and Other are gradually decreasing, Intermarche is roughly constant,  throughout the Year",
-      "Throughout the period, \"Systeme A\" generally had the highest SOME LABEL relative to others with an average of 21.47, and it reached its maximum at 2013 with a value of 22.3.",
+      "Overall across the Year, \"Systeme A\" mostly maintained the highest SOME LABEL when compared to others with a mean value of 21.47, and it peaked at 2013.",
       "Followed by Carrefour which ranks as the second topmpost line , with an average of 20.8 SOME LABEL,reaching its highest point  at 2008 with a value of 22.9. ",
       "The botommost line, Casino,  has a mean of 10.57, and peaked at 2008. "
    ],
@@ -42,9 +42,9 @@
       "Overall \"Systeme A\", and Leclerc are gradually increasing, Carrefour, Casino, and Other are gradually decreasing, Intermarche is roughly constant,  throughout the Year",
       "Overall across the Year, \"Systeme A\" mostly maintained the highest SOME LABEL when compared to others with a mean value of 21.47, and it peaked at 2013.",
       "Followed by Carrefour which ranks as the second topmpost line , with an average of 20.8 SOME LABEL,reaching its highest point  at 2008 with a value of 22.9. ",
-      "Casino mostly had the least SOME LABEL with a mean value of 10.57, which peaked at 2008 with a value of 11.6. ",
+      "The botommost line, Casino,  has a mean of 10.57, and peaked at 2008. ",
       "Carrefour reported the highest SOME LABEL about 22.9 in Year 2008",
-      "Casino reported the lowest SOME LABEL about 9.9 in Year 2018"
+      "The minimum SOME LABEL about 9.9, occured at 2018 by Casino."
    ],
    "trends": [
       {},

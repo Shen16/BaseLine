@@ -7,25 +7,26 @@
    "summaryType": "baseline",
    "summary": [
       "This is a bar chart representing Magnitude in the x axis and Number of earthquakes in the y axis. ",
-      "The maximum Number of earthquakes 21869.0 is found at Magnitude Magnitude 0+ and the minimum is found at Magnitude 5.5+ where Magnitude is 0.0. ",
-      "The difference of Number of earthquakes between the highest and lowest Magnitude is 21869.0. "
+      "Magnitude Magnitude 0+ has the highest Number of earthquakes and Magnitude 5.5+ has the lowest Number of earthquakes. ",
+      "There is a difference of 21869.0 between the maximum Magnitude Magnitude 0+ and minimum Magnitude Magnitude 5.5+. "
    ],
    "min_summary": [
-      "This is a bar chart representing Magnitude in the x axis and Number of earthquakes in the y axis. ",
-      "The Number of earthquakes is appeared to be the highest at Magnitude Magnitude 0+ and lowest at Magnitude Magnitude 5.5+. "
+      "This bar chart has 5 columns on the x axis representing Magnitude, and Number of earthquakes in each Magnitude on the y axis. ",
+      "The Number of earthquakes is highest at Magnitude Magnitude 0+ and lowest at Magnitude Magnitude 5.5+. "
    ],
    "mid_summary": [
       "This is a bar chart representing Magnitude in the x axis and Number of earthquakes in the y axis. ",
-      "The maximum Number of earthquakes 21869.0 is found at Magnitude Magnitude 0+ and the minimum is found at Magnitude 5.5+ where Magnitude is 0.0. ",
-      "The difference of Number of earthquakes between the highest and lowest Magnitude is 21869.0. "
+      "Magnitude Magnitude 0+ has the highest Number of earthquakes and Magnitude 5.5+ has the lowest Number of earthquakes. ",
+      "There is a difference of 21869.0 between the maximum Magnitude Magnitude 0+ and minimum Magnitude Magnitude 5.5+. "
    ],
    "max_summary": [
-      "This is a bar chart representing Magnitude in the x axis and Number of earthquakes in the y axis. ",
-      "Magnitude Magnitude 0+ has the highest Number of earthquakes and Magnitude 5.5+ has the lowest Number of earthquakes. ",
-      "The second highest Number of earthquakes is appeared to be the Magnitude Magnitude 2+. ",
-      "The highest Magnitude Magnitude 0+ has 21869.0 more Number of earthquakes than the lowest Magnitude Magnitude 5.5+. ",
+      "This bar chart has 5 columns on the x axis representing Magnitude, and Number of earthquakes in each Magnitude on the y axis. ",
+      "The Number of earthquakes is highest at Magnitude Magnitude 0+ and lowest at Magnitude Magnitude 5.5+. ",
+      "Second maximum Number of earthquakes is found at Magnitude Magnitude 2+. ",
+      "The minimum Magnitude Magnitude 5.5+ has got 2186900000000000.2 times less Number of earthquakes than the maximum Magnitude Magnitude 0+. ",
       "Number of earthquakes at Magnitude Magnitude 0+ is 21869.0 , second place is Magnitude 2+ at 2384.0, and thirdly is Magnitude 3+ at 226.0.",
-      "The Magnitude Magnitude 0+ tends to be 4.46 percent higher than average. "
+      "The Magnitude Magnitude 5.5+ has 4.46 times less Number of earthquakes than average. ",
+      "Summing up the values of all Magnitudes, we get total 24499.0. "
    ],
    "trends": [
       {},

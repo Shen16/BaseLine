@@ -6,24 +6,24 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This is a bar chart representing Lighting Type in the x axis and Energy cost in U.S. dollars in the y axis. ",
-      "Lighting Type Standard incandescent lights (125 lights 4 watts each) has the highest Energy cost in U.S. dollars and LED lights (280 lights 0.04 watts each) has the lowest Energy cost in U.S. dollars. ",
-      "The highest Lighting Type Standard incandescent lights (125 lights 4 watts each) has 27.15 more Energy cost in U.S. dollars than the lowest Lighting Type LED lights (280 lights 0.04 watts each). "
+      "This is a bar chart. It shows Energy cost in U.S. dollars for 3 number of Lighting Types. ",
+      "The maximum Energy cost in U.S. dollars 27.21 is found at Lighting Type Standard incandescent lights (125 lights 4 watts each) and the minimum is found at LED lights (280 lights 0.04 watts each) where Lighting Type is 0.06. ",
+      "The Energy cost in U.S. dollars of Lighting Type Standard incandescent lights (125 lights 4 watts each) is 453.5% larger than the minimum value at LED lights (280 lights 0.04 watts each). "
    ],
    "min_summary": [
-      "This is a bar chart representing Lighting Type in the x axis and Energy cost in U.S. dollars in the y axis. ",
+      "This is a bar chart. It shows Energy cost in U.S. dollars for 3 number of Lighting Types. ",
       "The maximum Energy cost in U.S. dollars 27.21 is found at Lighting Type Standard incandescent lights (125 lights 4 watts each) and the minimum is found at LED lights (280 lights 0.04 watts each) where Lighting Type is 0.06. "
    ],
    "mid_summary": [
-      "This is a bar chart representing Lighting Type in the x axis and Energy cost in U.S. dollars in the y axis. ",
-      "Lighting Type Standard incandescent lights (125 lights 4 watts each) has the highest Energy cost in U.S. dollars and LED lights (280 lights 0.04 watts each) has the lowest Energy cost in U.S. dollars. ",
-      "The highest Lighting Type Standard incandescent lights (125 lights 4 watts each) has 27.15 more Energy cost in U.S. dollars than the lowest Lighting Type LED lights (280 lights 0.04 watts each). "
+      "This is a bar chart. It shows Energy cost in U.S. dollars for 3 number of Lighting Types. ",
+      "The maximum Energy cost in U.S. dollars 27.21 is found at Lighting Type Standard incandescent lights (125 lights 4 watts each) and the minimum is found at LED lights (280 lights 0.04 watts each) where Lighting Type is 0.06. ",
+      "The Energy cost in U.S. dollars of Lighting Type Standard incandescent lights (125 lights 4 watts each) is 453.5% larger than the minimum value at LED lights (280 lights 0.04 watts each). "
    ],
    "max_summary": [
-      "This is a bar chart. It shows Energy cost in U.S. dollars for 3 number of Lighting Types. ",
-      "The Energy cost in U.S. dollars is appeared to be the highest at Lighting Type Standard incandescent lights (125 lights 4 watts each) and lowest at Lighting Type LED lights (280 lights 0.04 watts each). ",
-      "Second maximum Energy cost in U.S. dollars is found at Lighting Type Mini-incandescent lights (300 lights 0.4 watts each). ",
-      "The difference of Energy cost in U.S. dollars between the highest and lowest Lighting Type is 27.15. ",
+      "This bar chart has 3 columns on the x axis representing Lighting Type, and Energy cost in U.S. dollars in each Lighting Type on the y axis. ",
+      "Lighting Type Standard incandescent lights (125 lights 4 watts each) has the highest Energy cost in U.S. dollars and LED lights (280 lights 0.04 watts each) has the lowest Energy cost in U.S. dollars. ",
+      "The second highest Energy cost in U.S. dollars is appeared to be the Lighting Type Mini-incandescent lights (300 lights 0.4 watts each). ",
+      "There is a difference of 27.15 between the maximum Lighting Type Standard incandescent lights (125 lights 4 watts each) and minimum Lighting Type LED lights (280 lights 0.04 watts each). ",
       "Considered together, the average Energy cost in U.S. dollars in all 3 Lighting Types is roughly 11.27. ",
       "Summing up the values of all Lighting Types, we get total 33.8. "
    ],

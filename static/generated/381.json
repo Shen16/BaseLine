@@ -6,25 +6,26 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This is a bar chart. It shows Sales in million U.S. dollars for 10 number of Brands. ",
+      "This bar chart has 10 columns on the x axis representing Brand, and Sales in million U.S. dollars in each Brand on the y axis. ",
       "The maximum Sales in million U.S. dollars 138.0 is found at Brand Just For Men and the minimum is found at Grecian 5 where Brand is 0.1. ",
-      "There is a difference of 137.9 between the maximum Brand Just For Men and minimum Brand Grecian 5. "
+      "The highest Brand Just For Men has 137.9 more Sales in million U.S. dollars than the lowest Brand Grecian 5. "
    ],
    "min_summary": [
       "This bar chart has 10 columns on the x axis representing Brand, and Sales in million U.S. dollars in each Brand on the y axis. ",
       "The maximum Sales in million U.S. dollars 138.0 is found at Brand Just For Men and the minimum is found at Grecian 5 where Brand is 0.1. "
    ],
    "mid_summary": [
-      "This is a bar chart. It shows Sales in million U.S. dollars for 10 number of Brands. ",
+      "This bar chart has 10 columns on the x axis representing Brand, and Sales in million U.S. dollars in each Brand on the y axis. ",
       "The maximum Sales in million U.S. dollars 138.0 is found at Brand Just For Men and the minimum is found at Grecian 5 where Brand is 0.1. ",
-      "There is a difference of 137.9 between the maximum Brand Just For Men and minimum Brand Grecian 5. "
+      "The highest Brand Just For Men has 137.9 more Sales in million U.S. dollars than the lowest Brand Grecian 5. "
    ],
    "max_summary": [
-      "This is a bar chart. It shows Sales in million U.S. dollars for 10 number of Brands. ",
-      "The Sales in million U.S. dollars is highest at Brand Just For Men and lowest at Brand Grecian 5. ",
+      "This bar chart has 10 columns on the x axis representing Brand, and Sales in million U.S. dollars in each Brand on the y axis. ",
+      "The maximum Sales in million U.S. dollars 138.0 is found at Brand Just For Men and the minimum is found at Grecian 5 where Brand is 0.1. ",
+      "Brand Just For Men Autostop has the second highest value for Sales in million U.S. dollars. ",
       "The highest Brand Just For Men has 137.9 more Sales in million U.S. dollars than the lowest Brand Grecian 5. ",
-      "Sales in million U.S. dollars at Brand Just For Men is 138.0 , second place is Just For Men Autostop at 27.2, and thirdly is Just For Men Control GX at 18.2.",
-      "The highest value 138.0 at Just For Men is almost 6.74 times larger than the average value 20.48. ",
+      "The Brand Just For Men has the highest Sales in million U.S. dollars, followed by Just For Men Autostop, and Just For Men Control GX. Down to the Brand Grecian 5 which is the lowest. ",
+      "Considered together, the average Sales in million U.S. dollars in all 10 Brands is roughly 20.48. ",
       "Summing up the values of all Brands, we get total 204.8. "
    ],
    "trends": [

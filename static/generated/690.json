@@ -6,26 +6,25 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This is a bar chart. It shows Average length in minutes for 7 number of Youtube Categorys. ",
-      "The maximum Average length in minutes 24.7 is found at Youtube Category Gaming and the minimum is found at Music where Youtube Category is 6.8. ",
+      "This bar chart has 7 columns on the x axis representing Youtube Category, and Average length in minutes in each Youtube Category on the y axis. ",
+      "The Average length in minutes is appeared to be the highest at Youtube Category Gaming and lowest at Youtube Category Music. ",
       "The highest Youtube Category Gaming has 17.9 more Average length in minutes than the lowest Youtube Category Music. "
    ],
    "min_summary": [
-      "This is a bar chart. It shows Average length in minutes for 7 number of Youtube Categorys. ",
+      "This bar chart has 7 columns on the x axis representing Youtube Category, and Average length in minutes in each Youtube Category on the y axis. ",
       "Youtube Category Gaming has the highest Average length in minutes and Music has the lowest Average length in minutes. "
    ],
    "mid_summary": [
-      "This is a bar chart. It shows Average length in minutes for 7 number of Youtube Categorys. ",
-      "The maximum Average length in minutes 24.7 is found at Youtube Category Gaming and the minimum is found at Music where Youtube Category is 6.8. ",
+      "This bar chart has 7 columns on the x axis representing Youtube Category, and Average length in minutes in each Youtube Category on the y axis. ",
+      "The Average length in minutes is appeared to be the highest at Youtube Category Gaming and lowest at Youtube Category Music. ",
       "The highest Youtube Category Gaming has 17.9 more Average length in minutes than the lowest Youtube Category Music. "
    ],
    "max_summary": [
-      "This is a bar chart. It shows Average length in minutes for 7 number of Youtube Categorys. ",
-      "The Average length in minutes is appeared to be the highest at Youtube Category Gaming and lowest at Youtube Category Music. ",
-      "The second highest Average length in minutes is appeared to be the Youtube Category Film and animation. ",
-      "There is a difference of 17.9 between the maximum Youtube Category Gaming and minimum Youtube Category Music. ",
-      "Average length in minutes at Youtube Category Gaming is 24.7 , second place is Film and animation at 19.2, and thirdly is Entertainment at 12.9.",
-      "The highest value 24.7 at Gaming is almost 1.86 times larger than the average value 13.31. ",
+      "This bar chart has 7 columns on the x axis representing Youtube Category, and Average length in minutes in each Youtube Category on the y axis. ",
+      "The maximum Average length in minutes 24.7 is found at Youtube Category Gaming and the minimum is found at Music where Youtube Category is 6.8. ",
+      "The difference of Average length in minutes between the highest and lowest Youtube Category is 17.9. ",
+      "The Youtube Category Gaming has the highest Average length in minutes, followed by Film and animation, and Entertainment. Down to the Youtube Category Music which is the lowest. ",
+      "The Youtube Category Music has 1.86 times less Average length in minutes than average. ",
       "Summing up the values of all Youtube Categorys, we get total 93.2. "
    ],
    "trends": [

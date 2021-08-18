@@ -6,7 +6,7 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This is a bar chart. It shows Number of hashtagged posts in millions for 20 number of States. ",
+      "This is a bar chart representing State in the x axis and Number of hashtagged posts in millions in the y axis. ",
       "The maximum Number of hashtagged posts in millions 88.78 is found at State London and the minimum is found at Bangkok where State is 17.66. ",
       "The difference of Number of hashtagged posts in millions between the highest and lowest State is 71.12. "
    ],
@@ -15,17 +15,17 @@
       "The Number of hashtagged posts in millions is appeared to be the highest at State London and lowest at State Bangkok. "
    ],
    "mid_summary": [
-      "This is a bar chart. It shows Number of hashtagged posts in millions for 20 number of States. ",
+      "This is a bar chart representing State in the x axis and Number of hashtagged posts in millions in the y axis. ",
       "The maximum Number of hashtagged posts in millions 88.78 is found at State London and the minimum is found at Bangkok where State is 17.66. ",
       "The difference of Number of hashtagged posts in millions between the highest and lowest State is 71.12. "
    ],
    "max_summary": [
-      "This is a bar chart. It shows Number of hashtagged posts in millions for 20 number of States. ",
+      "This bar chart has 20 columns on the x axis representing State, and Number of hashtagged posts in millions in each State on the y axis. ",
       "The Number of hashtagged posts in millions is appeared to be the highest at State London and lowest at State Bangkok. ",
-      "The second highest Number of hashtagged posts in millions is appeared to be the State New York. ",
-      "The highest State London has 71.12 more Number of hashtagged posts in millions than the lowest State Bangkok. ",
-      "The State London has the highest Number of hashtagged posts in millions, followed by New York, and Paris. Down to the State Bangkok which is the lowest. ",
-      "The highest value 88.78 at London is almost 2.31 times larger than the average value 38.42. "
+      "Second maximum Number of hashtagged posts in millions is found at State New York. ",
+      "The difference of Number of hashtagged posts in millions between the highest and lowest State is 71.12. ",
+      "Number of hashtagged posts in millions at State London is 88.78 , second place is New York at 88.51, and thirdly is Paris at 75.01.",
+      "The State Bangkok tends to be 2.31 percent lower than average. "
    ],
    "trends": [
       {},

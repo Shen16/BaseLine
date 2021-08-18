@@ -11,8 +11,8 @@
       "The difference of Market value in million euros between the highest and lowest Month is 130.0. "
    ],
    "min_summary": [
-      "This is a bar chart. It shows Market value in million euros for 10 number of Months. ",
-      "The Market value in million euros is appeared to be the highest at Month Neymar and lowest at Month Ederson. "
+      "This is a bar chart representing Month in the x axis and Market value in million euros in the y axis. ",
+      "The Market value in million euros is highest at Month Neymar and lowest at Month Ederson. "
    ],
    "mid_summary": [
       "This bar chart has 10 columns on the x axis representing Month, and Market value in million euros in each Month on the y axis. ",
@@ -20,14 +20,15 @@
       "The difference of Market value in million euros between the highest and lowest Month is 130.0. "
    ],
    "max_summary": [
-      "This is a bar chart. It shows Market value in million euros for 10 number of Months. ",
-      "The Market value in million euros is appeared to be the highest at Month Neymar and lowest at Month Ederson. ",
-      "There is a difference of 130.0 between the maximum Month Neymar and minimum Month Ederson. ",
+      "This bar chart has 10 columns on the x axis representing Month, and Market value in million euros in each Month on the y axis. ",
+      "The Market value in million euros is highest at Month Neymar and lowest at Month Ederson. ",
+      "Second maximum Market value in million euros is found at Month Philippe Coutinho. ",
+      "The difference of Market value in million euros between the highest and lowest Month is 130.0. ",
       "Month Neymar is higher than any other Months with value 180.0, followed by Philippe Coutinho, and Gabriel Jesus. Down to Month Ederson with the lowest value 50.0. ",
-      "The Market value in million euros has declined over the past 10 Months. ",
+      "Overall Market value in million euros has decreased over the Months. ",
       "Month Casemiro, Marcelo, and Alisson share the same value 60.0. ",
-      "The Month Ederson has 2.31 times less Market value in million euros than average. ",
-      "The Market value in million euros is 780.0 if we add up values of all Months. "
+      "The lowest value 50.0 at Ederson is almost 2.31 times smaller than the average value 78.0. ",
+      "Summing up the values of all Months, we get total 780.0. "
    ],
    "trends": [
       {},

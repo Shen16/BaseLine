@@ -7,26 +7,26 @@
    "summaryType": "baseline",
    "summary": [
       "This is a bar chart. It shows Average salary in SEK for 19 number of Industrys. ",
-      "The Average salary in SEK is highest at Industry Financial institutions and insurance companies and lowest at Industry Hotels and restaurants. ",
-      "The highest value at Industry Financial institutions and insurance companies is 1.98x times more than the lowest value at Hotels and restaurants. "
+      "The Average salary in SEK is appeared to be the highest at Industry Financial institutions and insurance companies and lowest at Industry Hotels and restaurants. ",
+      "There is a difference of 25600.0 between the maximum Industry Financial institutions and insurance companies and minimum Industry Hotels and restaurants. "
    ],
    "min_summary": [
-      "This is a bar chart representing Industry in the x axis and Average salary in SEK in the y axis. ",
+      "This bar chart has 19 columns on the x axis representing Industry, and Average salary in SEK in each Industry on the y axis. ",
       "The maximum Average salary in SEK 51700.0 is found at Industry Financial institutions and insurance companies and the minimum is found at Hotels and restaurants where Industry is 26100.0. "
    ],
    "mid_summary": [
       "This is a bar chart. It shows Average salary in SEK for 19 number of Industrys. ",
-      "The Average salary in SEK is highest at Industry Financial institutions and insurance companies and lowest at Industry Hotels and restaurants. ",
-      "The highest value at Industry Financial institutions and insurance companies is 1.98x times more than the lowest value at Hotels and restaurants. "
+      "The Average salary in SEK is appeared to be the highest at Industry Financial institutions and insurance companies and lowest at Industry Hotels and restaurants. ",
+      "There is a difference of 25600.0 between the maximum Industry Financial institutions and insurance companies and minimum Industry Hotels and restaurants. "
    ],
    "max_summary": [
       "This is a bar chart representing Industry in the x axis and Average salary in SEK in the y axis. ",
-      "The maximum Average salary in SEK 51700.0 is found at Industry Financial institutions and insurance companies and the minimum is found at Hotels and restaurants where Industry is 26100.0. ",
-      "The difference of Average salary in SEK between the highest and lowest Industry is 25600.0. ",
-      "Industry Financial institutions and insurance companies is higher than any other Industrys with value 51700.0, followed by Information and communication companies, and Professional scientific and technical companies. Down to Industry Hotels and restaurants with the lowest value 26100.0. ",
-      "Industry Human health and social work establishments, and Educational establishments have the same Average salary in SEK. ",
-      "The average Average salary in SEK in all 19 Industrys is 35663.16. ",
-      "The Average salary in SEK is 677600.0 if we add up values of all Industrys. "
+      "Industry Financial institutions and insurance companies has the highest Average salary in SEK and Hotels and restaurants has the lowest Average salary in SEK. ",
+      "The second highest Average salary in SEK is appeared to be the Industry Information and communication companies. ",
+      "The lowest value at Industry Hotels and restaurants is 1.98x times less than the highest value at Financial institutions and insurance companies. ",
+      "Average salary in SEK at Industry Financial institutions and insurance companies is 51700.0 , second place is Information and communication companies at 45100.0, and thirdly is Professional scientific and technical companies at 42800.0.",
+      "Industry Human health and social work establishments, and Educational establishments share the same value 31800.0. ",
+      "The Industry Financial institutions and insurance companies tends to be 1.45 percent higher than average. "
    ],
    "trends": [
       {},

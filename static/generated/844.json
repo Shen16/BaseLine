@@ -6,27 +6,26 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This is a bar chart. It shows Number of stores for 5 number of Provinces. ",
-      "The maximum Number of stores 110.0 is found at Province Ontario and the minimum is found at Manitoba where Province is 13.0. ",
-      "The difference of Number of stores between the highest and lowest Province is 97.0. "
+      "This is a bar chart representing Province in the x axis and Number of stores in the y axis. ",
+      "Province Ontario has the highest Number of stores and Manitoba has the lowest Number of stores. ",
+      "The highest value at Province Ontario is 8.46x times more than the lowest value at Manitoba. "
    ],
    "min_summary": [
-      "This is a bar chart. It shows Number of stores for 5 number of Provinces. ",
-      "The Number of stores is highest at Province Ontario and lowest at Province Manitoba. "
+      "This bar chart has 5 columns on the x axis representing Province, and Number of stores in each Province on the y axis. ",
+      "The Number of stores is appeared to be the highest at Province Ontario and lowest at Province Manitoba. "
    ],
    "mid_summary": [
-      "This is a bar chart. It shows Number of stores for 5 number of Provinces. ",
-      "The maximum Number of stores 110.0 is found at Province Ontario and the minimum is found at Manitoba where Province is 13.0. ",
-      "The difference of Number of stores between the highest and lowest Province is 97.0. "
+      "This is a bar chart representing Province in the x axis and Number of stores in the y axis. ",
+      "Province Ontario has the highest Number of stores and Manitoba has the lowest Number of stores. ",
+      "The highest value at Province Ontario is 8.46x times more than the lowest value at Manitoba. "
    ],
    "max_summary": [
-      "This is a bar chart. It shows Number of stores for 5 number of Provinces. ",
-      "The maximum Number of stores 110.0 is found at Province Ontario and the minimum is found at Manitoba where Province is 13.0. ",
-      "Province British Columbia has the second highest value for Number of stores. ",
-      "The Number of stores of Province Manitoba is 8.46% smaller than the maximum value at Ontario. ",
+      "This is a bar chart representing Province in the x axis and Number of stores in the y axis. ",
+      "The Number of stores is appeared to be the highest at Province Ontario and lowest at Province Manitoba. ",
+      "The difference of Number of stores between the highest and lowest Province is 97.0. ",
       "Province Ontario is higher than any other Provinces with value 110.0, followed by British Columbia, and Alberta. Down to Province Manitoba with the lowest value 13.0. ",
-      "Considered together, the average Number of stores in all 5 Provinces is roughly 45.0. ",
-      "Summing up the values of all Provinces, we get total 225.0. "
+      "The Province Ontario tends to be 2.44 percent higher than average. ",
+      "The Number of stores is 225.0 if we add up values of all Provinces. "
    ],
    "trends": [
       {},

@@ -6,26 +6,28 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This is a bar chart. It shows Share of respondents for 11 number of Responses. ",
+      "This is a bar chart representing Response in the x axis and Share of respondents in the y axis. ",
       "The maximum Share of respondents 41.0 is found at Response In-store and the minimum is found at Smart home device where Response is 2.0. ",
       "The highest Response In-store has 39.0 more Share of respondents than the lowest Response Smart home device. "
    ],
    "min_summary": [
-      "This bar chart has 11 columns on the x axis representing Response, and Share of respondents in each Response on the y axis. ",
-      "The maximum Share of respondents 41.0 is found at Response In-store and the minimum is found at Smart home device where Response is 2.0. "
+      "This is a bar chart representing Response in the x axis and Share of respondents in the y axis. ",
+      "Response In-store has the highest Share of respondents and Smart home device has the lowest Share of respondents. "
    ],
    "mid_summary": [
-      "This is a bar chart. It shows Share of respondents for 11 number of Responses. ",
+      "This is a bar chart representing Response in the x axis and Share of respondents in the y axis. ",
       "The maximum Share of respondents 41.0 is found at Response In-store and the minimum is found at Smart home device where Response is 2.0. ",
       "The highest Response In-store has 39.0 more Share of respondents than the lowest Response Smart home device. "
    ],
    "max_summary": [
       "This is a bar chart. It shows Share of respondents for 11 number of Responses. ",
       "The maximum Share of respondents 41.0 is found at Response In-store and the minimum is found at Smart home device where Response is 2.0. ",
-      "The highest Response In-store has 39.0 more Share of respondents than the lowest Response Smart home device. ",
-      "Share of respondents at Response In-store is 41.0 , second place is Other online at 14.0, and thirdly is Buy buttons at 9.0.",
+      "Response Other online has the second highest value for Share of respondents. ",
+      "The difference of Share of respondents between the highest and lowest Response is 39.0. ",
+      "The Response In-store has the highest Share of respondents, followed by Other online, and Buy buttons. Down to the Response Smart home device which is the lowest. ",
       "Response Smart home device, Wearables / contactless, and Other share the same value 2.0. ",
-      "The lowest value 2.0 at Smart home device is almost 4.47 times smaller than the average value 9.18. "
+      "Considered together, the average Share of respondents in all 11 Responses is roughly 9.18. ",
+      "Summing up the values of all Responses, we get total 101.0. "
    ],
    "trends": [
       {},

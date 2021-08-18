@@ -6,26 +6,26 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This is a bar chart representing Industry in the x axis and GDP in million chained 2012 Canadian dollars in the y axis. ",
-      "The GDP in million chained 2012 Canadian dollars is appeared to be the highest at Industry Real estate and rental and leasing and lowest at Industry Management of companies and enterprises. ",
-      "There is a difference of 244991.0 between the maximum Industry Real estate and rental and leasing and minimum Industry Management of companies and enterprises. "
+      "This is a bar chart. It shows GDP in million chained 2012 Canadian dollars for 20 number of Industrys. ",
+      "The maximum GDP in million chained 2012 Canadian dollars 254294.0 is found at Industry Real estate and rental and leasing and the minimum is found at Management of companies and enterprises where Industry is 9303.0. ",
+      "Industry Real estate and rental and leasing has 27.33 times more GDP in million chained 2012 Canadian dollars than Industry Management of companies and enterprises which is has the lowest. "
    ],
    "min_summary": [
-      "This bar chart has 20 columns on the x axis representing Industry, and GDP in million chained 2012 Canadian dollars in each Industry on the y axis. ",
+      "This is a bar chart. It shows GDP in million chained 2012 Canadian dollars for 20 number of Industrys. ",
       "The GDP in million chained 2012 Canadian dollars is highest at Industry Real estate and rental and leasing and lowest at Industry Management of companies and enterprises. "
    ],
    "mid_summary": [
-      "This is a bar chart representing Industry in the x axis and GDP in million chained 2012 Canadian dollars in the y axis. ",
-      "The GDP in million chained 2012 Canadian dollars is appeared to be the highest at Industry Real estate and rental and leasing and lowest at Industry Management of companies and enterprises. ",
-      "There is a difference of 244991.0 between the maximum Industry Real estate and rental and leasing and minimum Industry Management of companies and enterprises. "
+      "This is a bar chart. It shows GDP in million chained 2012 Canadian dollars for 20 number of Industrys. ",
+      "The maximum GDP in million chained 2012 Canadian dollars 254294.0 is found at Industry Real estate and rental and leasing and the minimum is found at Management of companies and enterprises where Industry is 9303.0. ",
+      "Industry Real estate and rental and leasing has 27.33 times more GDP in million chained 2012 Canadian dollars than Industry Management of companies and enterprises which is has the lowest. "
    ],
    "max_summary": [
-      "This is a bar chart. It shows GDP in million chained 2012 Canadian dollars for 20 number of Industrys. ",
+      "This bar chart has 20 columns on the x axis representing Industry, and GDP in million chained 2012 Canadian dollars in each Industry on the y axis. ",
       "The GDP in million chained 2012 Canadian dollars is appeared to be the highest at Industry Real estate and rental and leasing and lowest at Industry Management of companies and enterprises. ",
-      "There is a difference of 244991.0 between the maximum Industry Real estate and rental and leasing and minimum Industry Management of companies and enterprises. ",
-      "GDP in million chained 2012 Canadian dollars at Industry Real estate and rental and leasing is 254294.0 , second place is Manufacturing at 199234.0, and thirdly is Mining quarrying and oil and gas extraction at 145909.0.",
-      "The Industry Real estate and rental and leasing tends to be 2.57 percent higher than average. ",
-      "The GDP in million chained 2012 Canadian dollars is 1981842.0 if we add up values of all Industrys. "
+      "The second highest GDP in million chained 2012 Canadian dollars is appeared to be the Industry Manufacturing. ",
+      "The difference of GDP in million chained 2012 Canadian dollars between the highest and lowest Industry is 244991.0. ",
+      "Industry Real estate and rental and leasing is higher than any other Industrys with value 254294.0, followed by Manufacturing, and Mining quarrying and oil and gas extraction. Down to Industry Management of companies and enterprises with the lowest value 9303.0. ",
+      "The Industry Real estate and rental and leasing has 2.57 times more GDP in million chained 2012 Canadian dollars than average. "
    ],
    "trends": [
       {},

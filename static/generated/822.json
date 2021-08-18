@@ -9,31 +9,31 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart represents 5 different Quarters on X-axis for 2 groups 2012, and 2013. On the Y-axis it shows their corresponding SOME LABEL. ",
-      " Over the 5 Quarters, the SOME LABEL for both 2013 and 2012 have declined. ",
-      " Out of all 2 groups, 2013 had the highest SOME LABEL in Quarter Michael Jordan and 2012 had the lowest SOME LABEL in Quarter Kevin Durant. ",
-      " In Quarter Michael Jordan, 2013 had the highest SOME LABEL among all 5 Quarters and it has the lowest SOME LABEL in Quarter Derrick Rose. "
+      "This grouped bar chart shows SOME LABEL on the Y-axis for 5 different Quarters for 2 groups 2012, and 2013 that are presented on the X-axis. ",
+      " All through the Quarters, similar trend was observed for 2012 and Quarter. In both cases, the SOME LABEL have lowered. ",
+      " In Quarter Michael Jordan, 2013 had the highest SOME LABEL 2500.0 among the 2 groups and in Kevin Durant, 2012 had the lowest SOME LABEL 35.0. ",
+      " In Quarter Michael Jordan, 2012 had the maximum SOME LABEL and it saw the lowest in Quarter Kevin Durant out of all 5 Quarters. "
    ],
    "xAxis": "Quarter",
    "yAxis": "SOME LABEL",
    "min_summary": [
       "This grouped bar chart shows SOME LABEL on the Y-axis for 5 different Quarters for 2 groups 2012, and 2013 that are presented on the X-axis. ",
-      " All through the Quarters, similar trend was observed for 2013 and 2012. In both cases, the SOME LABEL have declined. "
+      " Over the 5 Quarters, the SOME LABEL for both 2012 and Quarter have lowered. "
    ],
    "mid_summary": [
-      "This grouped bar chart represents 5 different Quarters on X-axis for 2 groups 2012, and 2013. On the Y-axis it shows their corresponding SOME LABEL. ",
-      " Over the 5 Quarters, the SOME LABEL for both 2013 and 2012 have declined. ",
-      " Out of all 2 groups, 2013 had the highest SOME LABEL in Quarter Michael Jordan and 2012 had the lowest SOME LABEL in Quarter Kevin Durant. ",
-      " In Quarter Michael Jordan, 2013 had the highest SOME LABEL among all 5 Quarters and it has the lowest SOME LABEL in Quarter Derrick Rose. "
+      "This grouped bar chart shows SOME LABEL on the Y-axis for 5 different Quarters for 2 groups 2012, and 2013 that are presented on the X-axis. ",
+      " All through the Quarters, similar trend was observed for 2012 and Quarter. In both cases, the SOME LABEL have lowered. ",
+      " In Quarter Michael Jordan, 2013 had the highest SOME LABEL 2500.0 among the 2 groups and in Kevin Durant, 2012 had the lowest SOME LABEL 35.0. ",
+      " In Quarter Michael Jordan, 2012 had the maximum SOME LABEL and it saw the lowest in Quarter Kevin Durant out of all 5 Quarters. "
    ],
    "max_summary": [
-      "This grouped bar chart represents 5 different Quarters on X-axis for 2 groups 2012, and 2013. On the Y-axis it shows their corresponding SOME LABEL. ",
-      " All through the Quarters, similar trend was observed for 2013 and 2012. In both cases, the SOME LABEL have declined. ",
-      " Out of all 2 groups, 2013 had the highest SOME LABEL in Quarter Michael Jordan and 2012 had the lowest SOME LABEL in Quarter Kevin Durant. ",
-      " Among all the Quarters, 2013 had the highest SOME LABEL 2500.0 in Quarter Michael Jordan and lowest value 40.0 in Quarter Derrick Rose. ",
-      "Quarter Michael Jordan and Derrick Rose had the biggest gap of 2460.0 between the highest and lowest SOME LABEL found for 2013. ",
-      " Among all 2 groups, 2012 had the gap of 1965.0 between the maximum and minimum SOME LABEL observed in Quarter Michael Jordan and Kevin Durant respectively. ",
-      "Averaging all 2 groups 2012, and 2013, the Quarter Michael Jordan is the maximum SOME LABEL and Derrick Rose is the minimum SOME LABEL. "
+      "This grouped bar chart shows SOME LABEL on the Y-axis for 5 different Quarters for 2 groups 2012, and 2013 that are presented on the X-axis. ",
+      " All through the Quarters, similar trend was observed for 2012 and Quarter. In both cases, the SOME LABEL have lowered. ",
+      " In Quarter Michael Jordan, 2013 had the highest SOME LABEL 2500.0 among the 2 groups and in Kevin Durant, 2012 had the lowest SOME LABEL 35.0. ",
+      " Among all the Quarters, 2012 had the highest SOME LABEL 2000.0 in Quarter Michael Jordan and lowest value 35.0 in Quarter Kevin Durant. ",
+      "Quarter Michael Jordan and Kevin Durant had the biggest gap of 1965.0 between the highest and lowest SOME LABEL found for 2012. ",
+      " Out of all 2 groups, the highest gap between the maximum and minimum SOME LABEL was found in case of 2012. ",
+      "On average, the Quarter Michael Jordan had the highest SOME LABEL for all 2 groups 2012, and 2013. Whereas Derrick Rose had the lowest average SOME LABEL. "
    ],
    "trends": [
       {},

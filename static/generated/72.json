@@ -7,25 +7,24 @@
    "summaryType": "baseline",
    "summary": [
       "This is a bar chart representing Company Name in the x axis and Market capitalization in million euros in the y axis. ",
-      "The Market capitalization in million euros is appeared to be the highest at Company Name Intesa Sanpaolo and lowest at Company Name Banca Popolare di Sondrio. ",
-      "There is a difference of 37282.07 between the maximum Company Name Intesa Sanpaolo and minimum Company Name Banca Popolare di Sondrio. "
+      "The maximum Market capitalization in million euros 38043.87 is found at Company Name Intesa Sanpaolo and the minimum is found at Banca Popolare di Sondrio where Company Name is 761.8. ",
+      "The minimum Company Name Banca Popolare di Sondrio has got 49.94 times less Market capitalization in million euros than the maximum Company Name Intesa Sanpaolo. "
    ],
    "min_summary": [
-      "This is a bar chart. It shows Market capitalization in million euros for 10 number of Company Names. ",
-      "The maximum Market capitalization in million euros 38043.87 is found at Company Name Intesa Sanpaolo and the minimum is found at Banca Popolare di Sondrio where Company Name is 761.8. "
+      "This bar chart has 10 columns on the x axis representing Company Name, and Market capitalization in million euros in each Company Name on the y axis. ",
+      "The Market capitalization in million euros is highest at Company Name Intesa Sanpaolo and lowest at Company Name Banca Popolare di Sondrio. "
    ],
    "mid_summary": [
       "This is a bar chart representing Company Name in the x axis and Market capitalization in million euros in the y axis. ",
-      "The Market capitalization in million euros is appeared to be the highest at Company Name Intesa Sanpaolo and lowest at Company Name Banca Popolare di Sondrio. ",
-      "There is a difference of 37282.07 between the maximum Company Name Intesa Sanpaolo and minimum Company Name Banca Popolare di Sondrio. "
+      "The maximum Market capitalization in million euros 38043.87 is found at Company Name Intesa Sanpaolo and the minimum is found at Banca Popolare di Sondrio where Company Name is 761.8. ",
+      "The minimum Company Name Banca Popolare di Sondrio has got 49.94 times less Market capitalization in million euros than the maximum Company Name Intesa Sanpaolo. "
    ],
    "max_summary": [
-      "This is a bar chart. It shows Market capitalization in million euros for 10 number of Company Names. ",
-      "The Market capitalization in million euros is appeared to be the highest at Company Name Intesa Sanpaolo and lowest at Company Name Banca Popolare di Sondrio. ",
-      "The second highest Market capitalization in million euros is appeared to be the Company Name UniCredit. ",
-      "Company Name Banca Popolare di Sondrio has 49.94 times less Market capitalization in million euros than Company Name Intesa Sanpaolo which is the highest. ",
+      "This bar chart has 10 columns on the x axis representing Company Name, and Market capitalization in million euros in each Company Name on the y axis. ",
+      "Company Name Intesa Sanpaolo has the highest Market capitalization in million euros and Banca Popolare di Sondrio has the lowest Market capitalization in million euros. ",
+      "The difference of Market capitalization in million euros between the highest and lowest Company Name is 37282.07. ",
       "The Company Name Intesa Sanpaolo has the highest Market capitalization in million euros, followed by UniCredit, and Mediobanca. Down to the Company Name Banca Popolare di Sondrio which is the lowest. ",
-      "The Company Name Intesa Sanpaolo tends to be 4.28 percent higher than average. "
+      "The lowest value 761.8 at Banca Popolare di Sondrio is almost 4.28 times smaller than the average value 8890.39. "
    ],
    "trends": [
       {},

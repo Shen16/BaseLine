@@ -8,22 +8,23 @@
    "summary": [
       "This is a bar chart representing Response in the x axis and Share of respondents in the y axis. ",
       "The Share of respondents is highest at Response Food and lowest at Response Wine. ",
-      "The difference of Share of respondents between the highest and lowest Response is 53.0. "
+      "The highest Response Food has 53.0 more Share of respondents than the lowest Response Wine. "
    ],
    "min_summary": [
       "This is a bar chart. It shows Share of respondents for 5 number of Responses. ",
-      "The Share of respondents is highest at Response Food and lowest at Response Wine. "
+      "The Share of respondents is appeared to be the highest at Response Food and lowest at Response Wine. "
    ],
    "mid_summary": [
       "This is a bar chart representing Response in the x axis and Share of respondents in the y axis. ",
       "The Share of respondents is highest at Response Food and lowest at Response Wine. ",
-      "The difference of Share of respondents between the highest and lowest Response is 53.0. "
+      "The highest Response Food has 53.0 more Share of respondents than the lowest Response Wine. "
    ],
    "max_summary": [
       "This is a bar chart representing Response in the x axis and Share of respondents in the y axis. ",
-      "The Share of respondents is appeared to be the highest at Response Food and lowest at Response Wine. ",
-      "The lowest value at Response Wine is 2.56x times less than the highest value at Food. ",
-      "Response Food is higher than any other Responses with value 87.0, followed by Beer, and Clothing. Down to Response Wine with the lowest value 34.0. ",
+      "The maximum Share of respondents 87.0 is found at Response Food and the minimum is found at Wine where Response is 34.0. ",
+      "The second highest Share of respondents is appeared to be the Response Beer. ",
+      "The difference of Share of respondents between the highest and lowest Response is 53.0. ",
+      "Share of respondents at Response Food is 87.0 , second place is Beer at 46.0, and thirdly is Clothing at 45.0.",
       "The average Share of respondents in all 5 Responses is 50.0. "
    ],
    "trends": [

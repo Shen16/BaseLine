@@ -9,22 +9,22 @@
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "The given chart is of multi-line type with 2 lines namely Common stock, and Preferred stock. The y axis represents SOME LABEL and the x axis represents Year.",
+      "This is a multi-line chart with 2 lines representing Common stock, and Preferred stock. The y axis denotes SOME LABEL and the x axis denotes Year.",
       "Overall Common stock, and Preferred stock are gradually decreasing,  throughout the Year",
       "The ranking of the lines from topmost to botommmost is as follows: 1. Common stock, and lastly, 2. Preferred stock. ",
-      "Overall across the Year, Common stock mostly maintained the highest SOME LABEL when compared to others with a mean value of 160.64, and it peaked at 2013.",
-      "Preferred stock mostly had the least SOME LABEL with a mean value of 160.21, which peaked at 2013 with a value of 204.15. ",
+      "Throughout the period, Common stock generally had the highest SOME LABEL relative to others with an average of 160.64, and it reached its maximum at 2013 with a value of 196.9.",
+      "The botommost line, Preferred stock,  has a mean of 160.21, and peaked at 2013. ",
       "Preferred stock reported the highest SOME LABEL about 204.15 in Year 2013",
       "The minimum SOME LABEL about 133.35, occured at 2016 by Preferred stock.",
-      "The greatest difference of SOME LABEL between Common stock and Preferred stock occurs at Year 2015 and the smallest difference occurs at 2018."
+      "The difference of SOME LABEL between Common stock and Preferred stock is smaller at Year 2018 compared to the Year 2013."
    ],
    "xAxis": "Year",
    "yAxis": "SOME LABEL",
    "min_summary": [
-      "The given chart is of multi-line type with 2 lines namely Common stock, and Preferred stock. The y axis represents SOME LABEL and the x axis represents Year.",
+      "You are viewing a chart of multi-line type with 2 lines denoting Common stock, and Preferred stock. The y axis indicates the SOME LABEL and the x axis indicates Year.",
       "Overall Common stock, and Preferred stock are gradually decreasing,  throughout the Year",
       "Overall across the Year, Common stock mostly maintained the highest SOME LABEL when compared to others with a mean value of 160.64, and it peaked at 2013.",
-      "Preferred stock mostly had the least SOME LABEL with a mean value of 160.21, which peaked at 2013 with a value of 204.15. "
+      "The botommost line, Preferred stock,  has a mean of 160.21, and peaked at 2013. "
    ],
    "mid_summary": [
       "This is a multi-line chart with 2 lines representing Common stock, and Preferred stock. The y axis denotes SOME LABEL and the x axis denotes Year.",
@@ -34,14 +34,14 @@
       "The botommost line, Preferred stock,  has a mean of 160.21, and peaked at 2013. "
    ],
    "max_summary": [
-      "This is a multi-line chart with 2 lines representing Common stock, and Preferred stock. The y axis denotes SOME LABEL and the x axis denotes Year.",
+      "The given chart is of multi-line type with 2 lines namely Common stock, and Preferred stock. The y axis represents SOME LABEL and the x axis represents Year.",
       "Overall Common stock, and Preferred stock are gradually decreasing,  throughout the Year",
       "The ranking of the lines from topmost to botommmost is as follows: 1. Common stock, and lastly, 2. Preferred stock. ",
       "Overall across the Year, Common stock mostly maintained the highest SOME LABEL when compared to others with a mean value of 160.64, and it peaked at 2013.",
       "The botommost line, Preferred stock,  has a mean of 160.21, and peaked at 2013. ",
-      "The maximum SOME LABEL about 204.15, occured at 2013 by Preferred stock.",
-      "Preferred stock reported the lowest SOME LABEL about 133.35 in Year 2016",
-      "The difference of SOME LABEL between Common stock and Preferred stock is smaller at Year 2018 compared to the Year 2013."
+      "Preferred stock reported the highest SOME LABEL about 204.15 in Year 2013",
+      "The minimum SOME LABEL about 133.35, occured at 2016 by Preferred stock.",
+      "The greatest difference of SOME LABEL between Common stock and Preferred stock occurs at Year 2015 and the smallest difference occurs at 2018."
    ],
    "trends": [
       {},

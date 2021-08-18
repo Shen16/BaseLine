@@ -10,12 +10,12 @@
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "You are viewing a chart of multi-line type with 3 lines denoting 2016, 2017, and 2018. The y axis indicates the SOME LABEL and the x axis indicates Year.",
+      "This is a multi-line chart with 3 lines representing 2016, 2017, and 2018. The y axis denotes SOME LABEL and the x axis denotes Year.",
       "Overall 2016, 2017, and 2018 are roughly constant,  throughout the Year",
       "The ranking of the lines from topmost to botommmost is as follows: 1. 2018, 2. 2016, and lastly, 3. 2017. ",
       "Overall across the Year, 2018 mostly maintained the highest SOME LABEL when compared to others with a mean value of 2161.14, and it peaked at Netherlands.",
       "After 2018, 2016 overall has the second highest values , with a mean value of 2098.9, peaking at UK_refineries. ",
-      "The botommost line, 2017,  has a mean of 2003.48, and peaked at Netherlands. "
+      "2017 mostly had the least SOME LABEL with a mean value of 2003.48, which peaked at Netherlands with a value of 13980.0. "
    ],
    "xAxis": "Year",
    "yAxis": "SOME LABEL",
@@ -23,21 +23,21 @@
       "You are viewing a chart of multi-line type with 3 lines denoting 2016, 2017, and 2018. The y axis indicates the SOME LABEL and the x axis indicates Year.",
       "Overall 2016, 2017, and 2018 are roughly constant,  throughout the Year",
       "Throughout the period, 2018 generally had the highest SOME LABEL relative to others with an average of 2161.14, and it reached its maximum at Netherlands with a value of 16797.0.",
-      "After 2018, 2016 overall has the second highest values , with a mean value of 2098.9, peaking at UK_refineries. ",
-      "2017 mostly had the least SOME LABEL with a mean value of 2003.48, which peaked at Netherlands with a value of 13980.0. "
+      "Followed by 2016 which ranks as the second topmpost line , with an average of 2098.9 SOME LABEL,reaching its highest point  at UK_refineries with a value of 13846.0. ",
+      "The botommost line, 2017,  has a mean of 2003.48, and peaked at Netherlands. "
    ],
    "mid_summary": [
-      "The given chart is of multi-line type with 3 lines namely 2016, 2017, and 2018. The y axis represents SOME LABEL and the x axis represents Year.",
+      "This is a multi-line chart with 3 lines representing 2016, 2017, and 2018. The y axis denotes SOME LABEL and the x axis denotes Year.",
       "Overall 2016, 2017, and 2018 are roughly constant,  throughout the Year",
       "The ranking of the lines from topmost to botommmost is as follows: 1. 2018, 2. 2016, and lastly, 3. 2017. ",
       "Throughout the period, 2018 generally had the highest SOME LABEL relative to others with an average of 2161.14, and it reached its maximum at Netherlands with a value of 16797.0.",
-      "After 2018, 2016 overall has the second highest values , with a mean value of 2098.9, peaking at UK_refineries. ",
+      "Followed by 2016 which ranks as the second topmpost line , with an average of 2098.9 SOME LABEL,reaching its highest point  at UK_refineries with a value of 13846.0. ",
       "The botommost line, 2017,  has a mean of 2003.48, and peaked at Netherlands. "
    ],
    "max_summary": [
-      "You are viewing a chart of multi-line type with 3 lines denoting 2016, 2017, and 2018. The y axis indicates the SOME LABEL and the x axis indicates Year.",
+      "This is a multi-line chart with 3 lines representing 2016, 2017, and 2018. The y axis denotes SOME LABEL and the x axis denotes Year.",
       "Overall 2016, 2017, and 2018 are roughly constant,  throughout the Year",
-      "The ranking of the lines from topmost to botommmost is as follows: 1. 2018, 2. 2016, and lastly, 3. 2017. ",
+      "The lines ordered according to average values of SOME LABEL in descending order is: 1. 2018, 2. 2016, and lastly, 3. 2017. ",
       "Throughout the period, 2018 generally had the highest SOME LABEL relative to others with an average of 2161.14, and it reached its maximum at Netherlands with a value of 16797.0.",
       "After 2018, 2016 overall has the second highest values , with a mean value of 2098.9, peaking at UK_refineries. ",
       "The botommost line, 2017,  has a mean of 2003.48, and peaked at Netherlands. "

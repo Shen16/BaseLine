@@ -11,11 +11,11 @@
    "summary": [
       "The given chart is of multi-line type with 2 lines namely Male, and Female. The y axis represents SOME LABEL and the x axis represents Year.",
       "Overall Male is rapidly increasing, Female is roughly constant,  throughout the Year",
-      "The lines ordered according to average values of SOME LABEL in descending order is: 1. Male, and lastly, 2. Female. ",
-      "Overall across the Year, Male mostly maintained the highest SOME LABEL when compared to others with a mean value of 20.65, and it peaked at 75_years_and_over.",
+      "The ranking of the lines from topmost to botommmost is as follows: 1. Male, and lastly, 2. Female. ",
+      "Throughout the period, Male generally had the highest SOME LABEL relative to others with an average of 20.65, and it reached its maximum at 75_years_and_over with a value of 45.51.",
       "The botommost line, Female,  has a mean of 1.27, and peaked at 55_to_64_years. ",
       "Male has increased by 1189.2351274787534 percent.",
-      "The difference of SOME LABEL between Male and Female is greater at Year 75_years_and_over compared to the Year 18_to_34_years."
+      "The greatest difference of SOME LABEL between Male and Female occurs at Year 75_years_and_over and the smallest difference occurs at 18_to_34_years."
    ],
    "xAxis": "Year",
    "yAxis": "SOME LABEL",
@@ -26,21 +26,21 @@
       "Female mostly had the least SOME LABEL with a mean value of 1.27, which peaked at 55_to_64_years with a value of 1.75. "
    ],
    "mid_summary": [
-      "This is a multi-line chart with 2 lines representing Male, and Female. The y axis denotes SOME LABEL and the x axis denotes Year.",
+      "The given chart is of multi-line type with 2 lines namely Male, and Female. The y axis represents SOME LABEL and the x axis represents Year.",
       "Overall Male is rapidly increasing, Female is roughly constant,  throughout the Year",
       "Male has increased by 1189.2351274787534 percent.",
-      "The ranking of the lines from topmost to botommmost is as follows: 1. Male, and lastly, 2. Female. ",
-      "Throughout the period, Male generally had the highest SOME LABEL relative to others with an average of 20.65, and it reached its maximum at 75_years_and_over with a value of 45.51.",
-      "Female mostly had the least SOME LABEL with a mean value of 1.27, which peaked at 55_to_64_years with a value of 1.75. "
+      "The lines ordered according to average values of SOME LABEL in descending order is: 1. Male, and lastly, 2. Female. ",
+      "Overall across the Year, Male mostly maintained the highest SOME LABEL when compared to others with a mean value of 20.65, and it peaked at 75_years_and_over.",
+      "The botommost line, Female,  has a mean of 1.27, and peaked at 55_to_64_years. "
    ],
    "max_summary": [
-      "This is a multi-line chart with 2 lines representing Male, and Female. The y axis denotes SOME LABEL and the x axis denotes Year.",
+      "You are viewing a chart of multi-line type with 2 lines denoting Male, and Female. The y axis indicates the SOME LABEL and the x axis indicates Year.",
       "Overall Male is rapidly increasing, Female is roughly constant,  throughout the Year",
       "Male has increased by 1189.2351274787534 percent.",
       "The ranking of the lines from topmost to botommmost is as follows: 1. Male, and lastly, 2. Female. ",
-      "Throughout the period, Male generally had the highest SOME LABEL relative to others with an average of 20.65, and it reached its maximum at 75_years_and_over with a value of 45.51.",
-      "Female mostly had the least SOME LABEL with a mean value of 1.27, which peaked at 55_to_64_years with a value of 1.75. ",
-      "The greatest difference of SOME LABEL between Male and Female occurs at Year 75_years_and_over and the smallest difference occurs at 18_to_34_years."
+      "Overall across the Year, Male mostly maintained the highest SOME LABEL when compared to others with a mean value of 20.65, and it peaked at 75_years_and_over.",
+      "The botommost line, Female,  has a mean of 1.27, and peaked at 55_to_64_years. ",
+      "The difference of SOME LABEL between Male and Female is greater at Year 75_years_and_over compared to the Year 18_to_34_years."
    ],
    "trends": [
       {},

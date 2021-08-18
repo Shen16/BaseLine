@@ -6,25 +6,27 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This is a bar chart. It shows Revenue in million euros for 15 number of Countrys. ",
-      "The Revenue in million euros is highest at Country England and lowest at Country Austria. ",
-      "The difference of Revenue in million euros between the highest and lowest Country is 3188.0. "
+      "This is a bar chart representing Country in the x axis and Revenue in million euros in the y axis. ",
+      "The maximum Revenue in million euros 3210.0 is found at Country England and the minimum is found at Austria where Country is 22.0. ",
+      "There is a difference of 3188.0 between the maximum Country England and minimum Country Austria. "
    ],
    "min_summary": [
-      "This is a bar chart. It shows Revenue in million euros for 15 number of Countrys. ",
+      "This bar chart has 15 columns on the x axis representing Country, and Revenue in million euros in each Country on the y axis. ",
       "Country England has the highest Revenue in million euros and Austria has the lowest Revenue in million euros. "
    ],
    "mid_summary": [
-      "This is a bar chart. It shows Revenue in million euros for 15 number of Countrys. ",
-      "The Revenue in million euros is highest at Country England and lowest at Country Austria. ",
-      "The difference of Revenue in million euros between the highest and lowest Country is 3188.0. "
+      "This is a bar chart representing Country in the x axis and Revenue in million euros in the y axis. ",
+      "The maximum Revenue in million euros 3210.0 is found at Country England and the minimum is found at Austria where Country is 22.0. ",
+      "There is a difference of 3188.0 between the maximum Country England and minimum Country Austria. "
    ],
    "max_summary": [
-      "This is a bar chart. It shows Revenue in million euros for 15 number of Countrys. ",
-      "The Revenue in million euros is highest at Country England and lowest at Country Austria. ",
-      "The maximum Country England has got 145.91 times higher Revenue in million euros than the minimum Country Austria. ",
+      "This is a bar chart representing Country in the x axis and Revenue in million euros in the y axis. ",
+      "Country England has the highest Revenue in million euros and Austria has the lowest Revenue in million euros. ",
+      "Second maximum Revenue in million euros is found at Country Spain. ",
+      "The highest value at Country England is 145.91x times more than the lowest value at Austria. ",
       "Country England is higher than any other Countrys with value 3210.0, followed by Spain, and Italy. Down to Country Austria with the lowest value 22.0. ",
-      "The Country England has 5.23 times more Revenue in million euros than average. "
+      "The average Revenue in million euros in all 15 Countrys is 613.73. ",
+      "The Revenue in million euros is 9206.0 if we add up values of all Countrys. "
    ],
    "trends": [
       {},

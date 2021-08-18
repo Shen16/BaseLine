@@ -6,27 +6,27 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This is a bar chart. It shows Production volume in thousand metric tons for 10 number of Countrys. ",
-      "The maximum Production volume in thousand metric tons 2024.6 is found at Country China mainland and the minimum is found at United States of America where Country is 30.48. ",
-      "There is a difference of 1994.12 between the maximum Country China mainland and minimum Country United States of America. "
+      "This bar chart has 10 columns on the x axis representing Country, and Production volume in thousand metric tons in each Country on the y axis. ",
+      "The Production volume in thousand metric tons is highest at Country China mainland and lowest at Country United States of America. ",
+      "The highest Country China mainland has 1994.12 more Production volume in thousand metric tons than the lowest Country United States of America. "
    ],
    "min_summary": [
-      "This is a bar chart. It shows Production volume in thousand metric tons for 10 number of Countrys. ",
+      "This bar chart has 10 columns on the x axis representing Country, and Production volume in thousand metric tons in each Country on the y axis. ",
       "The Production volume in thousand metric tons is highest at Country China mainland and lowest at Country United States of America. "
    ],
    "mid_summary": [
-      "This is a bar chart. It shows Production volume in thousand metric tons for 10 number of Countrys. ",
-      "The maximum Production volume in thousand metric tons 2024.6 is found at Country China mainland and the minimum is found at United States of America where Country is 30.48. ",
-      "There is a difference of 1994.12 between the maximum Country China mainland and minimum Country United States of America. "
+      "This bar chart has 10 columns on the x axis representing Country, and Production volume in thousand metric tons in each Country on the y axis. ",
+      "The Production volume in thousand metric tons is highest at Country China mainland and lowest at Country United States of America. ",
+      "The highest Country China mainland has 1994.12 more Production volume in thousand metric tons than the lowest Country United States of America. "
    ],
    "max_summary": [
-      "This bar chart has 10 columns on the x axis representing Country, and Production volume in thousand metric tons in each Country on the y axis. ",
-      "The maximum Production volume in thousand metric tons 2024.6 is found at Country China mainland and the minimum is found at United States of America where Country is 30.48. ",
-      "Second maximum Production volume in thousand metric tons is found at Country Italy. ",
-      "The highest Country China mainland has 1994.12 more Production volume in thousand metric tons than the lowest Country United States of America. ",
-      "The Country China mainland has the highest Production volume in thousand metric tons, followed by Italy, and New Zealand. Down to the Country United States of America which is the lowest. ",
-      "The Country United States of America tends to be 5.09 percent lower than average. ",
-      "Summing up the values of all Countrys, we get total 3976.04. "
+      "This is a bar chart. It shows Production volume in thousand metric tons for 10 number of Countrys. ",
+      "The Production volume in thousand metric tons is appeared to be the highest at Country China mainland and lowest at Country United States of America. ",
+      "The second highest Production volume in thousand metric tons is appeared to be the Country Italy. ",
+      "The difference of Production volume in thousand metric tons between the highest and lowest Country is 1994.12. ",
+      "Production volume in thousand metric tons at Country China mainland is 2024.6 , second place is Italy at 541.15, and thirdly is New Zealand at 411.78.",
+      "The Country United States of America has 5.09 times less Production volume in thousand metric tons than average. ",
+      "The Production volume in thousand metric tons is 3976.04 if we add up values of all Countrys. "
    ],
    "trends": [
       {},

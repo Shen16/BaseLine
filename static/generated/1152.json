@@ -6,26 +6,26 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This is a bar chart representing Rivers In Italy in the x axis and Lenght in kilometers in the y axis. ",
-      "The Lenght in kilometers is highest at Rivers In Italy Po and lowest at Rivers In Italy Reno. ",
-      "The highest Rivers In Italy Po has 441.0 more Lenght in kilometers than the lowest Rivers In Italy Reno. "
-   ],
-   "min_summary": [
-      "This is a bar chart. It shows Lenght in kilometers for 10 number of Rivers In Italys. ",
-      "Rivers In Italy Po has the highest Lenght in kilometers and Reno has the lowest Lenght in kilometers. "
-   ],
-   "mid_summary": [
-      "This is a bar chart representing Rivers In Italy in the x axis and Lenght in kilometers in the y axis. ",
-      "The Lenght in kilometers is highest at Rivers In Italy Po and lowest at Rivers In Italy Reno. ",
-      "The highest Rivers In Italy Po has 441.0 more Lenght in kilometers than the lowest Rivers In Italy Reno. "
-   ],
-   "max_summary": [
       "This is a bar chart. It shows Lenght in kilometers for 10 number of Rivers In Italys. ",
       "The maximum Lenght in kilometers 652.0 is found at Rivers In Italy Po and the minimum is found at Reno where Rivers In Italy is 211.0. ",
-      "Rivers In Italy Adige has the second highest value for Lenght in kilometers. ",
-      "The maximum Rivers In Italy Po has got 3.09 times higher Lenght in kilometers than the minimum Rivers In Italy Reno. ",
-      "Lenght in kilometers at Rivers In Italy Po is 652.0 , second place is Adige at 410.0, and thirdly is Tevere at 405.0.",
-      "The Rivers In Italy Reno has 2.0 times less Lenght in kilometers than average. "
+      "There is a difference of 441.0 between the maximum Rivers In Italy Po and minimum Rivers In Italy Reno. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing Rivers In Italy in the x axis and Lenght in kilometers in the y axis. ",
+      "The Lenght in kilometers is appeared to be the highest at Rivers In Italy Po and lowest at Rivers In Italy Reno. "
+   ],
+   "mid_summary": [
+      "This is a bar chart. It shows Lenght in kilometers for 10 number of Rivers In Italys. ",
+      "The maximum Lenght in kilometers 652.0 is found at Rivers In Italy Po and the minimum is found at Reno where Rivers In Italy is 211.0. ",
+      "There is a difference of 441.0 between the maximum Rivers In Italy Po and minimum Rivers In Italy Reno. "
+   ],
+   "max_summary": [
+      "This bar chart has 10 columns on the x axis representing Rivers In Italy, and Lenght in kilometers in each Rivers In Italy on the y axis. ",
+      "The Lenght in kilometers is appeared to be the highest at Rivers In Italy Po and lowest at Rivers In Italy Reno. ",
+      "The second highest Lenght in kilometers is appeared to be the Rivers In Italy Adige. ",
+      "The difference of Lenght in kilometers between the highest and lowest Rivers In Italy is 441.0. ",
+      "Rivers In Italy Po is higher than any other Rivers In Italys with value 652.0, followed by Adige, and Tevere. Down to Rivers In Italy Reno with the lowest value 211.0. ",
+      "The Rivers In Italy Po has 2.0 times more Lenght in kilometers than average. "
    ],
    "trends": [
       {},

@@ -6,28 +6,27 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 20 columns on the x axis representing Month, and Average price per flower in eurocent in each Month on the y axis. ",
-      "The Average price per flower in eurocent is appeared to be the highest at Month Nov '19 and lowest at Month Jul '18. ",
-      "The Average price per flower in eurocent of Month Jul '18 is 1.71% smaller than the maximum value at Nov '19. "
+      "This is a bar chart representing Month in the x axis and Average price per flower in eurocent in the y axis. ",
+      "The Average price per flower in eurocent is highest at Month Nov '19 and lowest at Month Jul '18. ",
+      "There is a difference of 15.0 between the maximum Month Nov '19 and minimum Month Jul '18. "
    ],
    "min_summary": [
-      "This bar chart has 20 columns on the x axis representing Month, and Average price per flower in eurocent in each Month on the y axis. ",
-      "The Average price per flower in eurocent is highest at Month Nov '19 and lowest at Month Jul '18. "
+      "This is a bar chart. It shows Average price per flower in eurocent for 20 number of Months. ",
+      "The maximum Average price per flower in eurocent 36.0 is found at Month Nov '19 and the minimum is found at Jul '18 where Month is 21.0. "
    ],
    "mid_summary": [
-      "This bar chart has 20 columns on the x axis representing Month, and Average price per flower in eurocent in each Month on the y axis. ",
-      "The Average price per flower in eurocent is appeared to be the highest at Month Nov '19 and lowest at Month Jul '18. ",
-      "The Average price per flower in eurocent of Month Jul '18 is 1.71% smaller than the maximum value at Nov '19. "
+      "This is a bar chart representing Month in the x axis and Average price per flower in eurocent in the y axis. ",
+      "The Average price per flower in eurocent is highest at Month Nov '19 and lowest at Month Jul '18. ",
+      "There is a difference of 15.0 between the maximum Month Nov '19 and minimum Month Jul '18. "
    ],
    "max_summary": [
       "This bar chart has 20 columns on the x axis representing Month, and Average price per flower in eurocent in each Month on the y axis. ",
-      "The Average price per flower in eurocent is appeared to be the highest at Month Nov '19 and lowest at Month Jul '18. ",
-      "The second highest Average price per flower in eurocent is appeared to be the Month Dec '18. ",
-      "The difference of Average price per flower in eurocent between the highest and lowest Month is 15.0. ",
+      "The maximum Average price per flower in eurocent 36.0 is found at Month Nov '19 and the minimum is found at Jul '18 where Month is 21.0. ",
+      "The minimum Month Jul '18 has got 1.71 times less Average price per flower in eurocent than the maximum Month Nov '19. ",
       "Average price per flower in eurocent at Month Nov '19 is 36.0 , second place is Dec '18 at 35.0, and thirdly is Dec '18 at 35.0.",
-      "Overall Average price per flower in eurocent has declined over the Months. ",
-      "Similar Average price per flower in eurocent is found in Month Sep '19, Feb '19, Sep '18, and Jun '18. ",
-      "The Month Jul '18 has 1.25 times less Average price per flower in eurocent than average. ",
+      "The Average price per flower in eurocent has decreased over the past 20 Months. ",
+      "Month Sep '19, Feb '19, Sep '18, and Jun '18 have a similar Average price per flower in eurocent that is 28.0. ",
+      "The lowest value 21.0 at Jul '18 is almost 1.25 times smaller than the average value 28.75. ",
       "The Average price per flower in eurocent is 575.0 if we add up values of all Months. "
    ],
    "trends": [

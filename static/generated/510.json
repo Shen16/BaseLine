@@ -6,27 +6,28 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This is a bar chart representing Industry in the x axis and Percentage of attack traffic in the y axis. ",
+      "This bar chart has 8 columns on the x axis representing Industry, and Percentage of attack traffic in each Industry on the y axis. ",
       "The Percentage of attack traffic is appeared to be the highest at Industry Gaming and lowest at Industry Media and entertainment. ",
-      "Industry Gaming has 79.0 times more Percentage of attack traffic than Industry Media and entertainment which is has the lowest. "
+      "The Percentage of attack traffic of Industry Gaming is 79.0% larger than the minimum value at Media and entertainment. "
    ],
    "min_summary": [
-      "This bar chart has 8 columns on the x axis representing Industry, and Percentage of attack traffic in each Industry on the y axis. ",
+      "This is a bar chart representing Industry in the x axis and Percentage of attack traffic in the y axis. ",
       "The Percentage of attack traffic is highest at Industry Gaming and lowest at Industry Media and entertainment. "
    ],
    "mid_summary": [
-      "This is a bar chart representing Industry in the x axis and Percentage of attack traffic in the y axis. ",
+      "This bar chart has 8 columns on the x axis representing Industry, and Percentage of attack traffic in each Industry on the y axis. ",
       "The Percentage of attack traffic is appeared to be the highest at Industry Gaming and lowest at Industry Media and entertainment. ",
-      "Industry Gaming has 79.0 times more Percentage of attack traffic than Industry Media and entertainment which is has the lowest. "
+      "The Percentage of attack traffic of Industry Gaming is 79.0% larger than the minimum value at Media and entertainment. "
    ],
    "max_summary": [
-      "This is a bar chart. It shows Percentage of attack traffic for 8 number of Industrys. ",
-      "The Percentage of attack traffic is highest at Industry Gaming and lowest at Industry Media and entertainment. ",
-      "There is a difference of 78.0 between the maximum Industry Gaming and minimum Industry Media and entertainment. ",
+      "This bar chart has 8 columns on the x axis representing Industry, and Percentage of attack traffic in each Industry on the y axis. ",
+      "Industry Gaming has the highest Percentage of attack traffic and Media and entertainment has the lowest Percentage of attack traffic. ",
+      "Industry Internet and telecom has the second highest value for Percentage of attack traffic. ",
+      "The difference of Percentage of attack traffic between the highest and lowest Industry is 78.0. ",
       "Industry Gaming is higher than any other Industrys with value 79.0, followed by Internet and telecom, and Software and technology. Down to Industry Media and entertainment with the lowest value 1.0. ",
-      "Industry Financial services, and Software and technology have a similar Percentage of attack traffic that is 4.0. ",
-      "The highest value 79.0 at Gaming is almost 6.26 times larger than the average value 12.62. ",
-      "Summing up the values of all Industrys, we get total 101.0. "
+      "Similar Percentage of attack traffic is found in Industry Financial services, and Software and technology. ",
+      "The Industry Media and entertainment tends to be 6.26 percent lower than average. ",
+      "The Percentage of attack traffic is 101.0 if we add up values of all Industrys. "
    ],
    "trends": [
       {},

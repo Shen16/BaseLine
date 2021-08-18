@@ -6,26 +6,26 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This is a bar chart representing Name in the x axis and Market share in the y axis. ",
+      "This bar chart has 7 columns on the x axis representing Name, and Market share in each Name on the y axis. ",
       "The Market share is appeared to be the highest at Name Other and lowest at Name Plush toys. ",
-      "The Market share of Name Other is 5.98% larger than the minimum value at Plush toys. "
+      "The minimum Name Plush toys has got 5.98 times less Market share than the maximum Name Other. "
    ],
    "min_summary": [
-      "This is a bar chart. It shows Market share for 7 number of Names. ",
-      "Name Other has the highest Market share and Plush toys has the lowest Market share. "
+      "This bar chart has 7 columns on the x axis representing Name, and Market share in each Name on the y axis. ",
+      "The maximum Market share 30.5 is found at Name Other and the minimum is found at Plush toys where Name is 5.1. "
    ],
    "mid_summary": [
-      "This is a bar chart representing Name in the x axis and Market share in the y axis. ",
+      "This bar chart has 7 columns on the x axis representing Name, and Market share in each Name on the y axis. ",
       "The Market share is appeared to be the highest at Name Other and lowest at Name Plush toys. ",
-      "The Market share of Name Other is 5.98% larger than the minimum value at Plush toys. "
+      "The minimum Name Plush toys has got 5.98 times less Market share than the maximum Name Other. "
    ],
    "max_summary": [
-      "This is a bar chart. It shows Market share for 7 number of Names. ",
-      "Name Other has the highest Market share and Plush toys has the lowest Market share. ",
-      "The second highest Market share is appeared to be the Name Infant/Pre-school toys. ",
-      "The highest value at Name Other is 5.98x times more than the lowest value at Plush toys. ",
-      "The Name Other has the highest Market share, followed by Infant/Pre-school toys, and Activity toys. Down to the Name Plush toys which is the lowest. ",
-      "The average Market share in all 7 Names is 14.29. "
+      "This is a bar chart representing Name in the x axis and Market share in the y axis. ",
+      "The Market share is highest at Name Other and lowest at Name Plush toys. ",
+      "Second maximum Market share is found at Name Infant/Pre-school toys. ",
+      "The Market share of Name Other is 5.98% larger than the minimum value at Plush toys. ",
+      "Market share at Name Other is 30.5 , second place is Infant/Pre-school toys at 16.2, and thirdly is Activity toys at 15.1.",
+      "The Name Other has 2.13 times more Market share than average. "
    ],
    "trends": [
       {},

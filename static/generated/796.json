@@ -6,29 +6,28 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 30 columns on the x axis representing Month, and Payroll in thousand U.S. dollars in each Month on the y axis. ",
+      "This is a bar chart. It shows Payroll in thousand U.S. dollars for 30 number of Months. ",
       "The Payroll in thousand U.S. dollars is highest at Month Zlatan Ibrahimovic and lowest at Month Diedie Traore. ",
-      "The highest Month Zlatan Ibrahimovic has 7143.75 more Payroll in thousand U.S. dollars than the lowest Month Diedie Traore. "
+      "The difference of Payroll in thousand U.S. dollars between the highest and lowest Month is 7143.75. "
    ],
    "min_summary": [
       "This is a bar chart representing Month in the x axis and Payroll in thousand U.S. dollars in the y axis. ",
-      "Month Zlatan Ibrahimovic has the highest Payroll in thousand U.S. dollars and Diedie Traore has the lowest Payroll in thousand U.S. dollars. "
+      "The Payroll in thousand U.S. dollars is highest at Month Zlatan Ibrahimovic and lowest at Month Diedie Traore. "
    ],
    "mid_summary": [
-      "This bar chart has 30 columns on the x axis representing Month, and Payroll in thousand U.S. dollars in each Month on the y axis. ",
+      "This is a bar chart. It shows Payroll in thousand U.S. dollars for 30 number of Months. ",
       "The Payroll in thousand U.S. dollars is highest at Month Zlatan Ibrahimovic and lowest at Month Diedie Traore. ",
-      "The highest Month Zlatan Ibrahimovic has 7143.75 more Payroll in thousand U.S. dollars than the lowest Month Diedie Traore. "
+      "The difference of Payroll in thousand U.S. dollars between the highest and lowest Month is 7143.75. "
    ],
    "max_summary": [
-      "This is a bar chart representing Month in the x axis and Payroll in thousand U.S. dollars in the y axis. ",
+      "This is a bar chart. It shows Payroll in thousand U.S. dollars for 30 number of Months. ",
       "The maximum Payroll in thousand U.S. dollars 7200.0 is found at Month Zlatan Ibrahimovic and the minimum is found at Diedie Traore where Month is 56.25. ",
-      "Second maximum Payroll in thousand U.S. dollars is found at Month Jonathan dos Santos. ",
-      "The minimum Month Diedie Traore has got 128.0 times less Payroll in thousand U.S. dollars than the maximum Month Zlatan Ibrahimovic. ",
+      "The second highest Payroll in thousand U.S. dollars is appeared to be the Month Jonathan dos Santos. ",
+      "The highest Month Zlatan Ibrahimovic has 7143.75 more Payroll in thousand U.S. dollars than the lowest Month Diedie Traore. ",
       "Payroll in thousand U.S. dollars at Month Zlatan Ibrahimovic is 7200.0 , second place is Jonathan dos Santos at 2000.0, and thirdly is Romain Alessandrini at 1940.0.",
-      "Overall Payroll in thousand U.S. dollars has lowered over the Months. ",
-      "Month Emil Cuello, Matt Lampson, and Servando Carrasco have the same Payroll in thousand U.S. dollars. ",
-      "The Month Diedie Traore tends to be 11.62 percent lower than average. ",
-      "The Payroll in thousand U.S. dollars is 18591.67 if we add up values of all Months. "
+      "Over the past 30 Months, the Payroll in thousand U.S. dollars has declined. ",
+      "Month Emil Cuello, Matt Lampson, and Servando Carrasco share the same value 70.25. ",
+      "The Month Zlatan Ibrahimovic has 11.62 times more Payroll in thousand U.S. dollars than average. "
    ],
    "trends": [
       {},

@@ -6,27 +6,27 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This is a bar chart. It shows Number of registered users (in millions) for 15 number of Country and Platforms. ",
-      "The Number of registered users (in millions) is appeared to be the highest at Country and Platform China (QZone) and lowest at Country and Platform Sri Lanka (Facebook). ",
-      "The difference of Number of registered users (in millions) between the highest and lowest Country and Platform is 596.4. "
+      "This is a bar chart representing Country and Platform in the x axis and Number of registered users (in millions) in the y axis. ",
+      "The maximum Number of registered users (in millions) 598.0 is found at Country and Platform China (QZone) and the minimum is found at Sri Lanka (Facebook) where Country and Platform is 1.6. ",
+      "The highest Country and Platform China (QZone) has 596.4 more Number of registered users (in millions) than the lowest Country and Platform Sri Lanka (Facebook). "
    ],
    "min_summary": [
-      "This is a bar chart. It shows Number of registered users (in millions) for 15 number of Country and Platforms. ",
-      "The Number of registered users (in millions) is highest at Country and Platform China (QZone) and lowest at Country and Platform Sri Lanka (Facebook). "
+      "This is a bar chart representing Country and Platform in the x axis and Number of registered users (in millions) in the y axis. ",
+      "The maximum Number of registered users (in millions) 598.0 is found at Country and Platform China (QZone) and the minimum is found at Sri Lanka (Facebook) where Country and Platform is 1.6. "
    ],
    "mid_summary": [
-      "This is a bar chart. It shows Number of registered users (in millions) for 15 number of Country and Platforms. ",
-      "The Number of registered users (in millions) is appeared to be the highest at Country and Platform China (QZone) and lowest at Country and Platform Sri Lanka (Facebook). ",
-      "The difference of Number of registered users (in millions) between the highest and lowest Country and Platform is 596.4. "
+      "This is a bar chart representing Country and Platform in the x axis and Number of registered users (in millions) in the y axis. ",
+      "The maximum Number of registered users (in millions) 598.0 is found at Country and Platform China (QZone) and the minimum is found at Sri Lanka (Facebook) where Country and Platform is 1.6. ",
+      "The highest Country and Platform China (QZone) has 596.4 more Number of registered users (in millions) than the lowest Country and Platform Sri Lanka (Facebook). "
    ],
    "max_summary": [
       "This is a bar chart representing Country and Platform in the x axis and Number of registered users (in millions) in the y axis. ",
-      "Country and Platform China (QZone) has the highest Number of registered users (in millions) and Sri Lanka (Facebook) has the lowest Number of registered users (in millions). ",
-      "The second highest Number of registered users (in millions) is appeared to be the Country and Platform India (Facebook). ",
-      "There is a difference of 596.4 between the maximum Country and Platform China (QZone) and minimum Country and Platform Sri Lanka (Facebook). ",
-      "Country and Platform China (QZone) is higher than any other Country and Platforms with value 598.0, followed by India (Facebook), and Indonesia (Facebook). Down to Country and Platform Sri Lanka (Facebook) with the lowest value 1.6. ",
-      "Similar Number of registered users (in millions) is found in Country and Platform Taiwan (Facebook), and Malaysia (Facebook). ",
-      "The Country and Platform China (QZone) has 10.32 times more Number of registered users (in millions) than average. ",
+      "The maximum Number of registered users (in millions) 598.0 is found at Country and Platform China (QZone) and the minimum is found at Sri Lanka (Facebook) where Country and Platform is 1.6. ",
+      "Country and Platform India (Facebook) has the second highest value for Number of registered users (in millions). ",
+      "The difference of Number of registered users (in millions) between the highest and lowest Country and Platform is 596.4. ",
+      "The Country and Platform China (QZone) has the highest Number of registered users (in millions), followed by India (Facebook), and Indonesia (Facebook). Down to the Country and Platform Sri Lanka (Facebook) which is the lowest. ",
+      "Country and Platform Taiwan (Facebook), and Malaysia (Facebook) have the same Number of registered users (in millions). ",
+      "The Country and Platform Sri Lanka (Facebook) tends to be 10.32 percent lower than average. ",
       "The Number of registered users (in millions) is 869.4 if we add up values of all Country and Platforms. "
    ],
    "trends": [

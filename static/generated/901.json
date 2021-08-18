@@ -6,27 +6,28 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This is a bar chart representing Month in the x axis and Number of hours spent studying per week in the y axis. ",
+      "This is a bar chart. It shows Number of hours spent studying per week for 29 number of Months. ",
       "The Number of hours spent studying per week is appeared to be the highest at Month Architecture and lowest at Month Speech. ",
-      "The highest Month Architecture has 12.9 more Number of hours spent studying per week than the lowest Month Speech. "
+      "The lowest value at Month Speech is 2.19x times less than the highest value at Architecture. "
    ],
    "min_summary": [
-      "This bar chart has 29 columns on the x axis representing Month, and Number of hours spent studying per week in each Month on the y axis. ",
+      "This is a bar chart. It shows Number of hours spent studying per week for 29 number of Months. ",
       "The maximum Number of hours spent studying per week 23.7 is found at Month Architecture and the minimum is found at Speech where Month is 10.8. "
    ],
    "mid_summary": [
-      "This is a bar chart representing Month in the x axis and Number of hours spent studying per week in the y axis. ",
+      "This is a bar chart. It shows Number of hours spent studying per week for 29 number of Months. ",
       "The Number of hours spent studying per week is appeared to be the highest at Month Architecture and lowest at Month Speech. ",
-      "The highest Month Architecture has 12.9 more Number of hours spent studying per week than the lowest Month Speech. "
+      "The lowest value at Month Speech is 2.19x times less than the highest value at Architecture. "
    ],
    "max_summary": [
-      "This bar chart has 29 columns on the x axis representing Month, and Number of hours spent studying per week in each Month on the y axis. ",
-      "The Number of hours spent studying per week is appeared to be the highest at Month Architecture and lowest at Month Speech. ",
+      "This is a bar chart representing Month in the x axis and Number of hours spent studying per week in the y axis. ",
+      "Month Architecture has the highest Number of hours spent studying per week and Speech has the lowest Number of hours spent studying per week. ",
+      "Second maximum Number of hours spent studying per week is found at Month Chemical Engineering. ",
       "The highest Month Architecture has 12.9 more Number of hours spent studying per week than the lowest Month Speech. ",
-      "Month Architecture is higher than any other Months with value 23.7, followed by Chemical Engineering, and Physics. Down to Month Speech with the lowest value 10.8. ",
-      "Overall Number of hours spent studying per week has declined over the Months. ",
-      "Month Theater, and Anthropology share the same value 16.0. ",
-      "The Month Architecture has 1.53 times more Number of hours spent studying per week than average. "
+      "Number of hours spent studying per week at Month Architecture is 23.7 , second place is Chemical Engineering at 21.6, and thirdly is Physics at 19.7.",
+      "The Number of hours spent studying per week has reduced over the past 29 Months. ",
+      "Month Theater, and Anthropology have the same Number of hours spent studying per week. ",
+      "The lowest value 10.8 at Speech is almost 1.53 times smaller than the average value 15.47. "
    ],
    "trends": [
       {},

@@ -6,27 +6,26 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This is a bar chart representing Us City in the x axis and Average temperature in Fahrenheit per year in the y axis. ",
-      "The Average temperature in Fahrenheit per year is highest at Us City Phoenix Arizona and lowest at Us City Los Angeles California. ",
-      "The maximum Us City Phoenix Arizona has got 1.16 times higher Average temperature in Fahrenheit per year than the minimum Us City Los Angeles California. "
+      "This is a bar chart. It shows Average temperature in Fahrenheit per year for 12 number of Us Citys. ",
+      "The maximum Average temperature in Fahrenheit per year 87.2 is found at Us City Phoenix Arizona and the minimum is found at Los Angeles California where Us City is 75.2. ",
+      "There is a difference of 12.0 between the maximum Us City Phoenix Arizona and minimum Us City Los Angeles California. "
    ],
    "min_summary": [
-      "This is a bar chart representing Us City in the x axis and Average temperature in Fahrenheit per year in the y axis. ",
-      "The Average temperature in Fahrenheit per year is appeared to be the highest at Us City Phoenix Arizona and lowest at Us City Los Angeles California. "
+      "This bar chart has 12 columns on the x axis representing Us City, and Average temperature in Fahrenheit per year in each Us City on the y axis. ",
+      "The Average temperature in Fahrenheit per year is highest at Us City Phoenix Arizona and lowest at Us City Los Angeles California. "
    ],
    "mid_summary": [
-      "This is a bar chart representing Us City in the x axis and Average temperature in Fahrenheit per year in the y axis. ",
-      "The Average temperature in Fahrenheit per year is highest at Us City Phoenix Arizona and lowest at Us City Los Angeles California. ",
-      "The maximum Us City Phoenix Arizona has got 1.16 times higher Average temperature in Fahrenheit per year than the minimum Us City Los Angeles California. "
+      "This is a bar chart. It shows Average temperature in Fahrenheit per year for 12 number of Us Citys. ",
+      "The maximum Average temperature in Fahrenheit per year 87.2 is found at Us City Phoenix Arizona and the minimum is found at Los Angeles California where Us City is 75.2. ",
+      "There is a difference of 12.0 between the maximum Us City Phoenix Arizona and minimum Us City Los Angeles California. "
    ],
    "max_summary": [
-      "This is a bar chart. It shows Average temperature in Fahrenheit per year for 12 number of Us Citys. ",
-      "The Average temperature in Fahrenheit per year is highest at Us City Phoenix Arizona and lowest at Us City Los Angeles California. ",
-      "Us City Miami Florida has the second highest value for Average temperature in Fahrenheit per year. ",
+      "This bar chart has 12 columns on the x axis representing Us City, and Average temperature in Fahrenheit per year in each Us City on the y axis. ",
+      "The Average temperature in Fahrenheit per year is appeared to be the highest at Us City Phoenix Arizona and lowest at Us City Los Angeles California. ",
+      "The second highest Average temperature in Fahrenheit per year is appeared to be the Us City Miami Florida. ",
       "There is a difference of 12.0 between the maximum Us City Phoenix Arizona and minimum Us City Los Angeles California. ",
-      "The Us City Phoenix Arizona has the highest Average temperature in Fahrenheit per year, followed by Miami Florida, and Orlando Florida. Down to the Us City Los Angeles California which is the lowest. ",
-      "The Us City Los Angeles California tends to be 1.08 percent lower than average. ",
-      "The Average temperature in Fahrenheit per year is 969.5 if we add up values of all Us Citys. "
+      "Us City Phoenix Arizona is higher than any other Us Citys with value 87.2, followed by Miami Florida, and Orlando Florida. Down to Us City Los Angeles California with the lowest value 75.2. ",
+      "The average Average temperature in Fahrenheit per year in all 12 Us Citys is 80.79. "
    ],
    "trends": [
       {},

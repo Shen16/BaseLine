@@ -6,25 +6,26 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This is a bar chart representing Insurance Companies in the x axis and Profit in million U.S. dollars in the y axis. ",
-      "The Profit in million U.S. dollars is appeared to be the highest at Insurance Companies State Farm Insurance Cos. and lowest at Insurance Companies Farmers Insurance Exchange. ",
-      "The lowest value at Insurance Companies Farmers Insurance Exchange is 124.66x times less than the highest value at State Farm Insurance Cos.. "
+      "This bar chart has 8 columns on the x axis representing Insurance Companies, and Profit in million U.S. dollars in each Insurance Companies on the y axis. ",
+      "The Profit in million U.S. dollars is highest at Insurance Companies State Farm Insurance Cos. and lowest at Insurance Companies Farmers Insurance Exchange. ",
+      "There is a difference of 8717.9 between the maximum Insurance Companies State Farm Insurance Cos. and minimum Insurance Companies Farmers Insurance Exchange. "
    ],
    "min_summary": [
-      "This is a bar chart representing Insurance Companies in the x axis and Profit in million U.S. dollars in the y axis. ",
-      "Insurance Companies State Farm Insurance Cos. has the highest Profit in million U.S. dollars and Farmers Insurance Exchange has the lowest Profit in million U.S. dollars. "
+      "This is a bar chart. It shows Profit in million U.S. dollars for 8 number of Insurance Companiess. ",
+      "The Profit in million U.S. dollars is appeared to be the highest at Insurance Companies State Farm Insurance Cos. and lowest at Insurance Companies Farmers Insurance Exchange. "
    ],
    "mid_summary": [
-      "This is a bar chart representing Insurance Companies in the x axis and Profit in million U.S. dollars in the y axis. ",
-      "The Profit in million U.S. dollars is appeared to be the highest at Insurance Companies State Farm Insurance Cos. and lowest at Insurance Companies Farmers Insurance Exchange. ",
-      "The lowest value at Insurance Companies Farmers Insurance Exchange is 124.66x times less than the highest value at State Farm Insurance Cos.. "
+      "This bar chart has 8 columns on the x axis representing Insurance Companies, and Profit in million U.S. dollars in each Insurance Companies on the y axis. ",
+      "The Profit in million U.S. dollars is highest at Insurance Companies State Farm Insurance Cos. and lowest at Insurance Companies Farmers Insurance Exchange. ",
+      "There is a difference of 8717.9 between the maximum Insurance Companies State Farm Insurance Cos. and minimum Insurance Companies Farmers Insurance Exchange. "
    ],
    "max_summary": [
-      "This is a bar chart. It shows Profit in million U.S. dollars for 8 number of Insurance Companiess. ",
-      "The Profit in million U.S. dollars is highest at Insurance Companies State Farm Insurance Cos. and lowest at Insurance Companies Farmers Insurance Exchange. ",
-      "The highest Insurance Companies State Farm Insurance Cos. has 8717.9 more Profit in million U.S. dollars than the lowest Insurance Companies Farmers Insurance Exchange. ",
-      "The Insurance Companies State Farm Insurance Cos. has the highest Profit in million U.S. dollars, followed by Auto-Owners Insurance, and Erie Insurance Group. Down to the Insurance Companies Farmers Insurance Exchange which is the lowest. ",
-      "The Insurance Companies Farmers Insurance Exchange tends to be 6.15 percent lower than average. "
+      "This is a bar chart representing Insurance Companies in the x axis and Profit in million U.S. dollars in the y axis. ",
+      "The Profit in million U.S. dollars is appeared to be the highest at Insurance Companies State Farm Insurance Cos. and lowest at Insurance Companies Farmers Insurance Exchange. ",
+      "The second highest Profit in million U.S. dollars is appeared to be the Insurance Companies Auto-Owners Insurance. ",
+      "The minimum Insurance Companies Farmers Insurance Exchange has got 124.66 times less Profit in million U.S. dollars than the maximum Insurance Companies State Farm Insurance Cos.. ",
+      "Profit in million U.S. dollars at Insurance Companies State Farm Insurance Cos. is 8788.4 , second place is Auto-Owners Insurance at 754.5, and thirdly is Erie Insurance Group at 686.3.",
+      "The Insurance Companies State Farm Insurance Cos. has 6.15 times more Profit in million U.S. dollars than average. "
    ],
    "trends": [
       {},

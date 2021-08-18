@@ -8,26 +8,25 @@
    "summary": [
       "This bar chart has 28 columns on the x axis representing Quarter, and Revenue in million U.S. dollars in each Quarter on the y axis. ",
       "The Revenue in million U.S. dollars is appeared to be the highest at Quarter Q3 '19 and lowest at Quarter Q2 '14. ",
-      "There is a difference of 192.06 between the maximum Quarter Q3 '19 and minimum Quarter Q2 '14. "
+      "The Revenue in million U.S. dollars of Quarter Q3 '19 is 2.25% larger than the minimum value at Q2 '14. "
    ],
    "min_summary": [
-      "This is a bar chart representing Quarter in the x axis and Revenue in million U.S. dollars in the y axis. ",
-      "Quarter Q3 '19 has the highest Revenue in million U.S. dollars and Q2 '14 has the lowest Revenue in million U.S. dollars. "
+      "This bar chart has 28 columns on the x axis representing Quarter, and Revenue in million U.S. dollars in each Quarter on the y axis. ",
+      "The maximum Revenue in million U.S. dollars 345.29 is found at Quarter Q3 '19 and the minimum is found at Q2 '14 where Quarter is 153.23. "
    ],
    "mid_summary": [
       "This bar chart has 28 columns on the x axis representing Quarter, and Revenue in million U.S. dollars in each Quarter on the y axis. ",
       "The Revenue in million U.S. dollars is appeared to be the highest at Quarter Q3 '19 and lowest at Quarter Q2 '14. ",
-      "There is a difference of 192.06 between the maximum Quarter Q3 '19 and minimum Quarter Q2 '14. "
+      "The Revenue in million U.S. dollars of Quarter Q3 '19 is 2.25% larger than the minimum value at Q2 '14. "
    ],
    "max_summary": [
       "This is a bar chart. It shows Revenue in million U.S. dollars for 28 number of Quarters. ",
-      "The Revenue in million U.S. dollars is appeared to be the highest at Quarter Q3 '19 and lowest at Quarter Q2 '14. ",
-      "Second maximum Revenue in million U.S. dollars is found at Quarter Q4 '12. ",
-      "The highest Quarter Q3 '19 has 192.06 more Revenue in million U.S. dollars than the lowest Quarter Q2 '14. ",
-      "The Quarter Q3 '19 has the highest Revenue in million U.S. dollars, followed by Q4 '12, and Q2 '19. Down to the Quarter Q2 '14 which is the lowest. ",
-      "The Revenue in million U.S. dollars has declined over the past 28 Quarters. ",
-      "The Quarter Q2 '14 has 1.59 times less Revenue in million U.S. dollars than average. ",
-      "The Revenue in million U.S. dollars is 6066.78 if we add up values of all Quarters. "
+      "The Revenue in million U.S. dollars is highest at Quarter Q3 '19 and lowest at Quarter Q2 '14. ",
+      "The difference of Revenue in million U.S. dollars between the highest and lowest Quarter is 192.06. ",
+      "Quarter Q3 '19 is higher than any other Quarters with value 345.29, followed by Q4 '12, and Q2 '19. Down to Quarter Q2 '14 with the lowest value 153.23. ",
+      "Over the past 28 Quarters, the Revenue in million U.S. dollars has reduced. ",
+      "The Quarter Q3 '19 has 1.59 times more Revenue in million U.S. dollars than average. ",
+      "Summing up the values of all Quarters, we get total 6066.78. "
    ],
    "trends": [
       {},

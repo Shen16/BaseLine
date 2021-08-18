@@ -10,31 +10,31 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart represents 10 different States on X-axis for 3 groups 2016, 2017, and 2018. On the Y-axis it shows their corresponding SOME LABEL. ",
-      " State California had the maximum SOME LABEL among all 3 groups, and it was for 2016. The minimum SOME LABEL was observed in State Washington for 2017. ",
-      " In State California, 2017 had the highest SOME LABEL among all 10 States and it has the lowest SOME LABEL in State Washington. ",
-      "State California and Washington had the biggest gap of 33272.0 between the highest and lowest SOME LABEL found for 2017. "
+      "This grouped bar chart shows SOME LABEL on the Y-axis for 10 different States for 3 groups 2016, 2017, and 2018 that are presented on the X-axis. ",
+      " Out of all 3 groups, 2016 had the highest SOME LABEL in State California and 2017 had the lowest SOME LABEL in State Washington. ",
+      " In State California, 2018 had the highest SOME LABEL among all 10 States and it has the lowest SOME LABEL in State Washington. ",
+      " The maximum SOME LABEL for 2018 that was found in State California was 6.0 times larger than the minimum SOME LABEL observed in State Washington. "
    ],
    "xAxis": "State",
    "yAxis": "SOME LABEL",
    "min_summary": [
       "This grouped bar chart shows SOME LABEL on the Y-axis for 10 different States for 3 groups 2016, 2017, and 2018 that are presented on the X-axis. ",
-      " In State California, 2016 had the highest SOME LABEL 40469.0 among the 3 groups and in Washington, 2017 had the lowest SOME LABEL 6526.0. "
+      " State California had the maximum SOME LABEL among all 3 groups, and it was for 2016. The minimum SOME LABEL was observed in State Washington for 2017. "
    ],
    "mid_summary": [
-      "This grouped bar chart represents 10 different States on X-axis for 3 groups 2016, 2017, and 2018. On the Y-axis it shows their corresponding SOME LABEL. ",
-      " State California had the maximum SOME LABEL among all 3 groups, and it was for 2016. The minimum SOME LABEL was observed in State Washington for 2017. ",
-      " In State California, 2017 had the highest SOME LABEL among all 10 States and it has the lowest SOME LABEL in State Washington. ",
-      "State California and Washington had the biggest gap of 33272.0 between the highest and lowest SOME LABEL found for 2017. "
+      "This grouped bar chart shows SOME LABEL on the Y-axis for 10 different States for 3 groups 2016, 2017, and 2018 that are presented on the X-axis. ",
+      " Out of all 3 groups, 2016 had the highest SOME LABEL in State California and 2017 had the lowest SOME LABEL in State Washington. ",
+      " In State California, 2018 had the highest SOME LABEL among all 10 States and it has the lowest SOME LABEL in State Washington. ",
+      " The maximum SOME LABEL for 2018 that was found in State California was 6.0 times larger than the minimum SOME LABEL observed in State Washington. "
    ],
    "max_summary": [
-      "This grouped bar chart represents 10 different States on X-axis for 3 groups 2016, 2017, and 2018. On the Y-axis it shows their corresponding SOME LABEL. ",
-      " Out of all 3 groups, 2016 had the highest SOME LABEL in State California and 2017 had the lowest SOME LABEL in State Washington. ",
-      " In State California, 2017 had the maximum SOME LABEL and it saw the lowest in State Washington out of all 10 States. ",
-      " There is a gap of 33272.0 between the highest and lowest SOME LABEL found for 2017 in State California and Washington. ",
+      "This grouped bar chart shows SOME LABEL on the Y-axis for 10 different States for 3 groups 2016, 2017, and 2018 that are presented on the X-axis. ",
+      " In State California, 2016 had the highest SOME LABEL 40469.0 among the 3 groups and in Washington, 2017 had the lowest SOME LABEL 6526.0. ",
+      " In State California, 2018 had the highest SOME LABEL among all 10 States and it has the lowest SOME LABEL in State Washington. ",
+      " There is a gap of 33677.0 between the highest and lowest SOME LABEL found for 2018 in State California and Washington. ",
       " Out of all 3 groups, the highest gap between the maximum and minimum SOME LABEL was found in case of 2016. ",
       " In State California, 2016 had the highest SOME LABEL 40469.0 among the 3 groups and in Washington, 2017 had the lowest SOME LABEL 6526.0. The second highest SOME LABEL 40413.0 was observed for 2016 in State California. ",
-      "Averaging all 3 groups 2016, 2017, and 2018, the State California is the maximum SOME LABEL and Washington is the minimum SOME LABEL. "
+      "On average, the State California had the highest SOME LABEL for all 3 groups 2016, 2017, and 2018. Whereas Washington had the lowest average SOME LABEL. "
    ],
    "trends": [
       {},

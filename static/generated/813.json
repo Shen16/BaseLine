@@ -6,28 +6,26 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This is a bar chart. It shows Average attendance for 25 number of Club Names. ",
+      "This bar chart has 25 columns on the x axis representing Club Name, and Average attendance in each Club Name on the y axis. ",
       "The Average attendance is appeared to be the highest at Club Name Boussia Dortmund and lowest at Club Name Rangers FC. ",
-      "There is a difference of 37360.0 between the maximum Club Name Boussia Dortmund and minimum Club Name Rangers FC. "
+      "The highest Club Name Boussia Dortmund has 37360.0 more Average attendance than the lowest Club Name Rangers FC. "
    ],
    "min_summary": [
-      "This bar chart has 25 columns on the x axis representing Club Name, and Average attendance in each Club Name on the y axis. ",
-      "The maximum Average attendance 80295.0 is found at Club Name Boussia Dortmund and the minimum is found at Rangers FC where Club Name is 42935.0. "
+      "This is a bar chart. It shows Average attendance for 25 number of Club Names. ",
+      "The Average attendance is appeared to be the highest at Club Name Boussia Dortmund and lowest at Club Name Rangers FC. "
    ],
    "mid_summary": [
-      "This is a bar chart. It shows Average attendance for 25 number of Club Names. ",
+      "This bar chart has 25 columns on the x axis representing Club Name, and Average attendance in each Club Name on the y axis. ",
       "The Average attendance is appeared to be the highest at Club Name Boussia Dortmund and lowest at Club Name Rangers FC. ",
-      "There is a difference of 37360.0 between the maximum Club Name Boussia Dortmund and minimum Club Name Rangers FC. "
+      "The highest Club Name Boussia Dortmund has 37360.0 more Average attendance than the lowest Club Name Rangers FC. "
    ],
    "max_summary": [
       "This is a bar chart representing Club Name in the x axis and Average attendance in the y axis. ",
-      "The Average attendance is appeared to be the highest at Club Name Boussia Dortmund and lowest at Club Name Rangers FC. ",
-      "Club Name Manchester United has the second highest value for Average attendance. ",
-      "There is a difference of 37360.0 between the maximum Club Name Boussia Dortmund and minimum Club Name Rangers FC. ",
+      "Club Name Boussia Dortmund has the highest Average attendance and Rangers FC has the lowest Average attendance. ",
+      "The highest Club Name Boussia Dortmund has 37360.0 more Average attendance than the lowest Club Name Rangers FC. ",
       "Average attendance at Club Name Boussia Dortmund is 80295.0 , second place is Manchester United at 75205.0, and thirdly is Barcelona at 72115.0.",
-      "Club Name FC Internazionale, and Atletico Madrid share the same value 46245.0. ",
-      "The Club Name Rangers FC tends to be 1.49 percent lower than average. ",
-      "The Average attendance is 1347395.0 if we add up values of all Club Names. "
+      "Club Name FC Internazionale, and Atletico Madrid have a similar Average attendance that is 46245.0. ",
+      "The highest value 80295.0 at Boussia Dortmund is almost 1.49 times larger than the average value 53895.8. "
    ],
    "trends": [
       {},

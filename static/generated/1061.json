@@ -6,26 +6,27 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This is a bar chart representing Country in the x axis and GDP in billion U.S. dollars in the y axis. ",
-      "Country United States has the highest GDP in billion U.S. dollars and Switzerland has the lowest GDP in billion U.S. dollars. ",
-      "The highest value at Country United States is 29.97x times more than the lowest value at Switzerland. "
+      "This is a bar chart. It shows GDP in billion U.S. dollars for 20 number of Countrys. ",
+      "The GDP in billion U.S. dollars is appeared to be the highest at Country United States and lowest at Country Switzerland. ",
+      "There is a difference of 20724.09 between the maximum Country United States and minimum Country Switzerland. "
    ],
    "min_summary": [
-      "This bar chart has 20 columns on the x axis representing Country, and GDP in billion U.S. dollars in each Country on the y axis. ",
-      "The maximum GDP in billion U.S. dollars 21439.45 is found at Country United States and the minimum is found at Switzerland where Country is 715.36. "
+      "This is a bar chart representing Country in the x axis and GDP in billion U.S. dollars in the y axis. ",
+      "The GDP in billion U.S. dollars is appeared to be the highest at Country United States and lowest at Country Switzerland. "
    ],
    "mid_summary": [
-      "This is a bar chart representing Country in the x axis and GDP in billion U.S. dollars in the y axis. ",
-      "Country United States has the highest GDP in billion U.S. dollars and Switzerland has the lowest GDP in billion U.S. dollars. ",
-      "The highest value at Country United States is 29.97x times more than the lowest value at Switzerland. "
+      "This is a bar chart. It shows GDP in billion U.S. dollars for 20 number of Countrys. ",
+      "The GDP in billion U.S. dollars is appeared to be the highest at Country United States and lowest at Country Switzerland. ",
+      "There is a difference of 20724.09 between the maximum Country United States and minimum Country Switzerland. "
    ],
    "max_summary": [
-      "This is a bar chart representing Country in the x axis and GDP in billion U.S. dollars in the y axis. ",
-      "The GDP in billion U.S. dollars is highest at Country United States and lowest at Country Switzerland. ",
-      "Second maximum GDP in billion U.S. dollars is found at Country China. ",
-      "Country United States has 29.97 times more GDP in billion U.S. dollars than Country Switzerland which is has the lowest. ",
-      "GDP in billion U.S. dollars at Country United States is 21439.45 , second place is China at 14140.16, and thirdly is Japan at 5154.48.",
-      "The Country Switzerland has 6.12 times less GDP in billion U.S. dollars than average. "
+      "This bar chart has 20 columns on the x axis representing Country, and GDP in billion U.S. dollars in each Country on the y axis. ",
+      "The maximum GDP in billion U.S. dollars 21439.45 is found at Country United States and the minimum is found at Switzerland where Country is 715.36. ",
+      "The second highest GDP in billion U.S. dollars is appeared to be the Country China. ",
+      "The highest Country United States has 20724.09 more GDP in billion U.S. dollars than the lowest Country Switzerland. ",
+      "The Country United States has the highest GDP in billion U.S. dollars, followed by China, and Japan. Down to the Country Switzerland which is the lowest. ",
+      "The lowest value 715.36 at Switzerland is almost 6.12 times smaller than the average value 3505.92. ",
+      "Summing up the values of all Countrys, we get total 70118.39. "
    ],
    "trends": [
       {},

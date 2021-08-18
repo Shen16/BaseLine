@@ -6,25 +6,25 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 5 columns on the x axis representing Age Group, and Sugar intake in grams in each Age Group on the y axis. ",
+      "This is a bar chart. It shows Sugar intake in grams for 5 number of Age Groups. ",
       "The Sugar intake in grams is appeared to be the highest at Age Group Teenagers 11-18 years and lowest at Age Group Children 1.5-3 years. ",
-      "The maximum Age Group Teenagers 11-18 years has got 2.06 times higher Sugar intake in grams than the minimum Age Group Children 1.5-3 years. "
+      "The difference of Sugar intake in grams between the highest and lowest Age Group is 38.1. "
    ],
    "min_summary": [
       "This bar chart has 5 columns on the x axis representing Age Group, and Sugar intake in grams in each Age Group on the y axis. ",
-      "The Sugar intake in grams is appeared to be the highest at Age Group Teenagers 11-18 years and lowest at Age Group Children 1.5-3 years. "
+      "The Sugar intake in grams is highest at Age Group Teenagers 11-18 years and lowest at Age Group Children 1.5-3 years. "
    ],
    "mid_summary": [
-      "This bar chart has 5 columns on the x axis representing Age Group, and Sugar intake in grams in each Age Group on the y axis. ",
+      "This is a bar chart. It shows Sugar intake in grams for 5 number of Age Groups. ",
       "The Sugar intake in grams is appeared to be the highest at Age Group Teenagers 11-18 years and lowest at Age Group Children 1.5-3 years. ",
-      "The maximum Age Group Teenagers 11-18 years has got 2.06 times higher Sugar intake in grams than the minimum Age Group Children 1.5-3 years. "
+      "The difference of Sugar intake in grams between the highest and lowest Age Group is 38.1. "
    ],
    "max_summary": [
       "This is a bar chart. It shows Sugar intake in grams for 5 number of Age Groups. ",
-      "The Sugar intake in grams is highest at Age Group Teenagers 11-18 years and lowest at Age Group Children 1.5-3 years. ",
-      "The minimum Age Group Children 1.5-3 years has got 2.06 times less Sugar intake in grams than the maximum Age Group Teenagers 11-18 years. ",
+      "The Sugar intake in grams is appeared to be the highest at Age Group Teenagers 11-18 years and lowest at Age Group Children 1.5-3 years. ",
+      "The highest Age Group Teenagers 11-18 years has 38.1 more Sugar intake in grams than the lowest Age Group Children 1.5-3 years. ",
       "Sugar intake in grams at Age Group Teenagers 11-18 years is 74.2 , second place is Children 4-10 years at 60.8, and thirdly is Adults 19-64 years at 58.8.",
-      "The Age Group Teenagers 11-18 years tends to be 1.32 percent higher than average. ",
+      "The highest value 74.2 at Teenagers 11-18 years is almost 1.32 times larger than the average value 56.3. ",
       "Summing up the values of all Age Groups, we get total 281.5. "
    ],
    "trends": [

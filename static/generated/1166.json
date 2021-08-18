@@ -6,25 +6,26 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This is a bar chart. It shows Unnamed: 1 for 7 number of Key areas. ",
-      "The maximum Unnamed: 1 427533.0 is found at Key area Available seat kilometres (in millions) and the minimum is found at Number of countries served where Key area is 55.0. ",
-      "The highest Key area Available seat kilometres (in millions) has 427478.0 more Unnamed: 1 than the lowest Key area Number of countries served. "
+      "This bar chart has 7 columns on the x axis representing Key area, and Unnamed: 1 in each Key area on the y axis. ",
+      "Key area Available seat kilometres (in millions) has the highest Unnamed: 1 and Number of countries served has the lowest Unnamed: 1. ",
+      "The difference of Unnamed: 1 between the highest and lowest Key area is 427478.0. "
    ],
    "min_summary": [
-      "This is a bar chart representing Key area in the x axis and Unnamed: 1 in the y axis. ",
+      "This bar chart has 7 columns on the x axis representing Key area, and Unnamed: 1 in each Key area on the y axis. ",
       "Key area Available seat kilometres (in millions) has the highest Unnamed: 1 and Number of countries served has the lowest Unnamed: 1. "
    ],
    "mid_summary": [
-      "This is a bar chart. It shows Unnamed: 1 for 7 number of Key areas. ",
-      "The maximum Unnamed: 1 427533.0 is found at Key area Available seat kilometres (in millions) and the minimum is found at Number of countries served where Key area is 55.0. ",
-      "The highest Key area Available seat kilometres (in millions) has 427478.0 more Unnamed: 1 than the lowest Key area Number of countries served. "
+      "This bar chart has 7 columns on the x axis representing Key area, and Unnamed: 1 in each Key area on the y axis. ",
+      "Key area Available seat kilometres (in millions) has the highest Unnamed: 1 and Number of countries served has the lowest Unnamed: 1. ",
+      "The difference of Unnamed: 1 between the highest and lowest Key area is 427478.0. "
    ],
    "max_summary": [
-      "This is a bar chart. It shows Unnamed: 1 for 7 number of Key areas. ",
-      "The Unnamed: 1 is appeared to be the highest at Key area Available seat kilometres (in millions) and lowest at Key area Number of countries served. ",
-      "The highest Key area Available seat kilometres (in millions) has 427478.0 more Unnamed: 1 than the lowest Key area Number of countries served. ",
-      "Key area Available seat kilometres (in millions) is higher than any other Key areas with value 427533.0, followed by Revenue passenger kilometers (in millions), and Number of daily departures. Down to Key area Number of countries served with the lowest value 55.0. ",
-      "The Key area Available seat kilometres (in millions) has 3.8 times more Unnamed: 1 than average. "
+      "This bar chart has 7 columns on the x axis representing Key area, and Unnamed: 1 in each Key area on the y axis. ",
+      "Key area Available seat kilometres (in millions) has the highest Unnamed: 1 and Number of countries served has the lowest Unnamed: 1. ",
+      "Key area Revenue passenger kilometers (in millions) has the second highest value for Unnamed: 1. ",
+      "The Unnamed: 1 of Key area Available seat kilometres (in millions) is 7773.33% larger than the minimum value at Number of countries served. ",
+      "Unnamed: 1 at Key area Available seat kilometres (in millions) is 427533.0 , second place is Revenue passenger kilometers (in millions) at 350627.0, and thirdly is Number of daily departures at 6985.0.",
+      "The Key area Available seat kilometres (in millions) tends to be 3.8 percent higher than average. "
    ],
    "trends": [
       {},

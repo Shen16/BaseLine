@@ -12,32 +12,32 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This is a grouped bar chart showing Average retail price in CAD on the Y-axis throughout 12 Months for 2015, 2016, 2017, 2018, and 2019 on the X-axis. ",
-      " Over the 12 Months, the Average retail price in CAD for 2017 have been lowered whereas risen for 2016. ",
+      "This grouped bar chart represents Average retail price in CAD on the Y-axis. And, its value throughout 12 Months for 2015, 2016, 2017, 2018, and 2019. ",
+      " Over the 12 Months, the Average retail price in CAD for 2017 have been reduced whereas increased for 2016. ",
       " Out of all 5 groups, 2019 had the highest Average retail price in CAD in Month Jul and 2015 had the lowest Average retail price in CAD in Month Jul. ",
-      " In Month Jun, 2017 had the maximum Average retail price in CAD and it saw the lowest in Month Mar out of all 12 Months. "
+      " Among all the Months, 2017 had the highest Average retail price in CAD 494.0 in Month Jun and lowest value 49.0 in Month Mar. "
    ],
    "xAxis": "Month",
    "yAxis": "Average retail price in CAD",
    "min_summary": [
       "This grouped bar chart represents Average retail price in CAD on the Y-axis. And, how the value changed throughout 12 Months for 2015, 2016, 2017, 2018, and 2019. ",
-      " All through the Months, the Average retail price in CAD for 2017 have lowered. On the other hand, for 2016 the Average retail price in CAD have risen. "
+      " Over the 12 Months, the Average retail price in CAD for 2017 have been reduced whereas increased for 2016. "
    ],
    "mid_summary": [
-      "This is a grouped bar chart showing Average retail price in CAD on the Y-axis throughout 12 Months for 2015, 2016, 2017, 2018, and 2019 on the X-axis. ",
-      " Over the 12 Months, the Average retail price in CAD for 2017 have been lowered whereas risen for 2016. ",
+      "This grouped bar chart represents Average retail price in CAD on the Y-axis. And, its value throughout 12 Months for 2015, 2016, 2017, 2018, and 2019. ",
+      " Over the 12 Months, the Average retail price in CAD for 2017 have been reduced whereas increased for 2016. ",
       " Out of all 5 groups, 2019 had the highest Average retail price in CAD in Month Jul and 2015 had the lowest Average retail price in CAD in Month Jul. ",
-      " In Month Jun, 2017 had the maximum Average retail price in CAD and it saw the lowest in Month Mar out of all 12 Months. "
+      " Among all the Months, 2017 had the highest Average retail price in CAD 494.0 in Month Jun and lowest value 49.0 in Month Mar. "
    ],
    "max_summary": [
-      "This grouped bar chart represents Average retail price in CAD on the Y-axis. And, how the value changed throughout 12 Months for 2015, 2016, 2017, 2018, and 2019. ",
-      " Over the 12 Months, the Average retail price in CAD for 2017 have been lowered whereas risen for 2016. ",
-      " Month Jul had the maximum Average retail price in CAD among all 5 groups, and it was for 2019. The minimum Average retail price in CAD was observed in Month Jul for 2015. ",
-      " In Month Jun, 2017 had the maximum Average retail price in CAD and it saw the lowest in Month Mar out of all 12 Months. ",
+      "This grouped bar chart represents Average retail price in CAD on the Y-axis. And, its value throughout 12 Months for 2015, 2016, 2017, 2018, and 2019. ",
+      " Over the 12 Months, the Average retail price in CAD for 2017 have been reduced whereas increased for 2016. ",
+      " Out of all 5 groups, 2019 had the highest Average retail price in CAD in Month Jul and 2015 had the lowest Average retail price in CAD in Month Jul. ",
+      " In Month Jun, 2017 had the highest Average retail price in CAD among all 12 Months and it has the lowest Average retail price in CAD in Month Mar. ",
       " There is a gap of 445.0 between the highest and lowest Average retail price in CAD found for 2017 in Month Jun and Mar. ",
-      " Among all 5 groups, 2016 had the gap of 449.0 between the maximum and minimum Average retail price in CAD observed in Month Apr and Dec respectively. ",
+      " Out of all 5 groups, the highest gap between the maximum and minimum Average retail price in CAD was found in case of 2016. ",
       " 2019 had the maximum Average retail price in CAD out of all 5 groups in Month Jul followed by 2019 in Jul, and the minimum Average retail price in CAD is found for 2015 in Jul. ",
-      "Averaging all 5 groups 2015, 2016, 2017, 2018, and 2019, the Month Jul is the maximum Average retail price in CAD and Jun is the minimum Average retail price in CAD. "
+      "On average, the Month Jul had the highest Average retail price in CAD for all 5 groups 2015, 2016, 2017, 2018, and 2019. Whereas Jun had the lowest average Average retail price in CAD. "
    ],
    "trends": [
       {},

@@ -6,27 +6,27 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This is a bar chart representing Country in the x axis and Share of population in the y axis. ",
-      "The Share of population is appeared to be the highest at Country Netherlands and lowest at Country Cyprus. ",
-      "Country Cyprus has 33.0 times less Share of population than Country Netherlands which is the highest. "
+      "This bar chart has 29 columns on the x axis representing Country, and Share of population in each Country on the y axis. ",
+      "The Share of population is highest at Country Netherlands and lowest at Country Cyprus. ",
+      "The highest Country Netherlands has 3.2 more Share of population than the lowest Country Cyprus. "
    ],
    "min_summary": [
       "This bar chart has 29 columns on the x axis representing Country, and Share of population in each Country on the y axis. ",
       "Country Netherlands has the highest Share of population and Cyprus has the lowest Share of population. "
    ],
    "mid_summary": [
-      "This is a bar chart representing Country in the x axis and Share of population in the y axis. ",
-      "The Share of population is appeared to be the highest at Country Netherlands and lowest at Country Cyprus. ",
-      "Country Cyprus has 33.0 times less Share of population than Country Netherlands which is the highest. "
+      "This bar chart has 29 columns on the x axis representing Country, and Share of population in each Country on the y axis. ",
+      "The Share of population is highest at Country Netherlands and lowest at Country Cyprus. ",
+      "The highest Country Netherlands has 3.2 more Share of population than the lowest Country Cyprus. "
    ],
    "max_summary": [
-      "This is a bar chart. It shows Share of population for 29 number of Countrys. ",
+      "This is a bar chart representing Country in the x axis and Share of population in the y axis. ",
       "The Share of population is appeared to be the highest at Country Netherlands and lowest at Country Cyprus. ",
-      "The second highest Share of population is appeared to be the Country Ireland. ",
-      "The highest Country Netherlands has 3.2 more Share of population than the lowest Country Cyprus. ",
-      "Country Netherlands is higher than any other Countrys with value 3.3, followed by Ireland, and United Kingdom. Down to Country Cyprus with the lowest value 0.1. ",
-      "Similar Share of population is found in Country France, Slovakia, Croatia, Germany, and Spain. ",
-      "The average Share of population in all 29 Countrys is 0.73. ",
+      "Second maximum Share of population is found at Country Ireland. ",
+      "There is a difference of 3.2 between the maximum Country Netherlands and minimum Country Cyprus. ",
+      "Share of population at Country Netherlands is 3.3 , second place is Ireland at 2.1, and thirdly is United Kingdom at 1.7.",
+      "Country France, Slovakia, Croatia, Germany, and Spain have a similar Share of population that is 0.6. ",
+      "Considered together, the average Share of population in all 29 Countrys is roughly 0.73. ",
       "Summing up the values of all Countrys, we get total 21.1. "
    ],
    "trends": [

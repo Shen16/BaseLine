@@ -7,12 +7,12 @@
    "summaryType": "baseline",
    "summary": [
       "This is a line chart with an x axis representing Year and a y axis representing Number of hotels, containing a total of 5 data points.",
-      " In general Number of hotels has rose over the Year.",
+      " Overall Number of hotels has increased over the Year.",
       "Number of hotels is roughly constant from 100_rooms_or_more to 250_rooms_or_more, and finally slightly increasing from 250_rooms_or_more to Less_than_25_rooms.",
-      "The line significantly remained stable by 1758.0 from Year 100_rooms_or_more to 250_rooms_or_more,increased by 1079.0 from Year 250_rooms_or_more to From_100_to_249_rooms,increased by 3353.0 from Year From_100_to_249_rooms to From_25_to_99_rooms, and lastly, increased by 7059.0 from Year From_25_to_99_rooms to Less_than_25_rooms.",
+      "The line drastically remained stable by 3.6 times from Year 100_rooms_or_more to 250_rooms_or_more,increased by 2.6 times from Year 250_rooms_or_more to From_100_to_249_rooms,increased by 2.9 times from Year From_100_to_249_rooms to From_25_to_99_rooms, and lastly, increased by 2.4 times from Year From_25_to_99_rooms to Less_than_25_rooms.",
       "The steepest increase occurs in between the Year From_25_to_99_rooms and Less_than_25_rooms.",
       "Maximum Number of hotels, about 12170.0 was reported at Year Less_than_25_rooms",
-      "Minimum Number of hotels about 679.0 was reached at Year 250_rooms_or_more"
+      "The lowest Number of hotels, of value 679.0 was reported at Year 250_rooms_or_more"
    ],
    "min_summary": [
       "This is a line chart with an x axis representing Year and a y axis representing Number of hotels, containing a total of 5 data points.",
@@ -20,12 +20,12 @@
       "Number of hotels is roughly constant from 100_rooms_or_more to 250_rooms_or_more, and finally slightly increasing from 250_rooms_or_more to Less_than_25_rooms."
    ],
    "mid_summary": [
-      "This is a line chart with an x axis representing Year and a y axis representing Number of hotels, containing a total of 5 data points.",
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of hotels. In total the number of data points it has is 5.",
       " In general Number of hotels has rose over the Year.",
       "Number of hotels is roughly constant from 100_rooms_or_more to 250_rooms_or_more, and finally slightly increasing from 250_rooms_or_more to Less_than_25_rooms.",
-      "The steepest increase occurs in between the Year From_25_to_99_rooms and Less_than_25_rooms.",
+      "The most drastic increase took place within the Year From_25_to_99_rooms and Less_than_25_rooms.",
       "Maximum Number of hotels, about 12170.0 was reported at Year Less_than_25_rooms",
-      "Minimum Number of hotels about 679.0 was reached at Year 250_rooms_or_more"
+      "The lowest Number of hotels, of value 679.0 was reported at Year 250_rooms_or_more"
    ],
    "max_summary": [
       "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of hotels. In total the number of data points it has is 5.",
@@ -33,7 +33,7 @@
       "Number of hotels is roughly constant from 100_rooms_or_more to 250_rooms_or_more, and finally slightly increasing from 250_rooms_or_more to Less_than_25_rooms.",
       "The steepest increase occurs in between the Year From_25_to_99_rooms and Less_than_25_rooms.",
       "Maximum Number of hotels, about 12170.0 was reported at Year Less_than_25_rooms",
-      "Minimum Number of hotels about 679.0 was reached at Year 250_rooms_or_more",
+      "The lowest Number of hotels, of value 679.0 was reported at Year 250_rooms_or_more",
       "The line drastically remained stable by 3.6 times from Year 100_rooms_or_more to 250_rooms_or_more,increased by 2.6 times from Year 250_rooms_or_more to From_100_to_249_rooms,increased by 2.9 times from Year From_100_to_249_rooms to From_25_to_99_rooms, and lastly, increased by 2.4 times from Year From_25_to_99_rooms to Less_than_25_rooms."
    ],
    "trends": [],

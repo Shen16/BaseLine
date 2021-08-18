@@ -6,26 +6,26 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This is a bar chart representing Song Titles in the x axis and Number of identifications in millions in the y axis. ",
-      "The Number of identifications in millions is appeared to be the highest at Song Titles Wake Me Up by Avicii and lowest at Song Titles All of Me by John Legend. ",
-      "Song Titles Wake Me Up by Avicii has 1.35 times more Number of identifications in millions than Song Titles All of Me by John Legend which is has the lowest. "
+      "This bar chart has 10 columns on the x axis representing Song Titles, and Number of identifications in millions in each Song Titles on the y axis. ",
+      "The maximum Number of identifications in millions 23.77 is found at Song Titles Wake Me Up by Avicii and the minimum is found at All of Me by John Legend where Song Titles is 17.58. ",
+      "The difference of Number of identifications in millions between the highest and lowest Song Titles is 6.19. "
    ],
    "min_summary": [
-      "This is a bar chart. It shows Number of identifications in millions for 10 number of Song Titless. ",
+      "This is a bar chart representing Song Titles in the x axis and Number of identifications in millions in the y axis. ",
       "The Number of identifications in millions is appeared to be the highest at Song Titles Wake Me Up by Avicii and lowest at Song Titles All of Me by John Legend. "
    ],
    "mid_summary": [
-      "This is a bar chart representing Song Titles in the x axis and Number of identifications in millions in the y axis. ",
-      "The Number of identifications in millions is appeared to be the highest at Song Titles Wake Me Up by Avicii and lowest at Song Titles All of Me by John Legend. ",
-      "Song Titles Wake Me Up by Avicii has 1.35 times more Number of identifications in millions than Song Titles All of Me by John Legend which is has the lowest. "
-   ],
-   "max_summary": [
       "This bar chart has 10 columns on the x axis representing Song Titles, and Number of identifications in millions in each Song Titles on the y axis. ",
       "The maximum Number of identifications in millions 23.77 is found at Song Titles Wake Me Up by Avicii and the minimum is found at All of Me by John Legend where Song Titles is 17.58. ",
-      "There is a difference of 6.19 between the maximum Song Titles Wake Me Up by Avicii and minimum Song Titles All of Me by John Legend. ",
+      "The difference of Number of identifications in millions between the highest and lowest Song Titles is 6.19. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Song Titles in the x axis and Number of identifications in millions in the y axis. ",
+      "The Number of identifications in millions is appeared to be the highest at Song Titles Wake Me Up by Avicii and lowest at Song Titles All of Me by John Legend. ",
+      "Song Titles Somebody That I Used To Know by Gotye feat. Kimbra has the second highest value for Number of identifications in millions. ",
+      "The difference of Number of identifications in millions between the highest and lowest Song Titles is 6.19. ",
       "The Song Titles Wake Me Up by Avicii has the highest Number of identifications in millions, followed by Somebody That I Used To Know by Gotye feat. Kimbra, and Lean On by Major Lazer Feat. M\u00d8 & DJ Snake. Down to the Song Titles All of Me by John Legend which is the lowest. ",
-      "The Song Titles Wake Me Up by Avicii has 1.15 times more Number of identifications in millions than average. ",
-      "The Number of identifications in millions is 206.43 if we add up values of all Song Titless. "
+      "The Song Titles All of Me by John Legend has 1.15 times less Number of identifications in millions than average. "
    ],
    "trends": [
       {},

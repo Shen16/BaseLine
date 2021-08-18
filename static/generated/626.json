@@ -6,25 +6,26 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This is a bar chart. It shows Export volume in million hectoliters for 11 number of Countrys. ",
-      "Country Spain has the highest Export volume in million hectoliters and New Zealand has the lowest Export volume in million hectoliters. ",
-      "The highest Country Spain has 18.4 more Export volume in million hectoliters than the lowest Country New Zealand. "
+      "This bar chart has 11 columns on the x axis representing Country, and Export volume in million hectoliters in each Country on the y axis. ",
+      "The maximum Export volume in million hectoliters 21.0 is found at Country Spain and the minimum is found at New Zealand where Country is 2.6. ",
+      "The maximum Country Spain has got 8.08 times higher Export volume in million hectoliters than the minimum Country New Zealand. "
    ],
    "min_summary": [
-      "This is a bar chart representing Country in the x axis and Export volume in million hectoliters in the y axis. ",
-      "The maximum Export volume in million hectoliters 21.0 is found at Country Spain and the minimum is found at New Zealand where Country is 2.6. "
+      "This bar chart has 11 columns on the x axis representing Country, and Export volume in million hectoliters in each Country on the y axis. ",
+      "Country Spain has the highest Export volume in million hectoliters and New Zealand has the lowest Export volume in million hectoliters. "
    ],
    "mid_summary": [
-      "This is a bar chart. It shows Export volume in million hectoliters for 11 number of Countrys. ",
-      "Country Spain has the highest Export volume in million hectoliters and New Zealand has the lowest Export volume in million hectoliters. ",
-      "The highest Country Spain has 18.4 more Export volume in million hectoliters than the lowest Country New Zealand. "
+      "This bar chart has 11 columns on the x axis representing Country, and Export volume in million hectoliters in each Country on the y axis. ",
+      "The maximum Export volume in million hectoliters 21.0 is found at Country Spain and the minimum is found at New Zealand where Country is 2.6. ",
+      "The maximum Country Spain has got 8.08 times higher Export volume in million hectoliters than the minimum Country New Zealand. "
    ],
    "max_summary": [
       "This is a bar chart. It shows Export volume in million hectoliters for 11 number of Countrys. ",
-      "The Export volume in million hectoliters is appeared to be the highest at Country Spain and lowest at Country New Zealand. ",
+      "The maximum Export volume in million hectoliters 21.0 is found at Country Spain and the minimum is found at New Zealand where Country is 2.6. ",
+      "The second highest Export volume in million hectoliters is appeared to be the Country Italy. ",
       "The highest Country Spain has 18.4 more Export volume in million hectoliters than the lowest Country New Zealand. ",
-      "Country Spain is higher than any other Countrys with value 21.0, followed by Italy, and France. Down to Country New Zealand with the lowest value 2.6. ",
-      "The Country Spain has 2.49 times more Export volume in million hectoliters than average. "
+      "Export volume in million hectoliters at Country Spain is 21.0 , second place is Italy at 19.7, and thirdly is France at 14.1.",
+      "The Country Spain tends to be 2.49 percent higher than average. "
    ],
    "trends": [
       {},

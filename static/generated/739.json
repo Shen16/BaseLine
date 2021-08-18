@@ -11,30 +11,30 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart shows SOME LABEL on the Y-axis for 6 different Countrys for 4 groups 2003, 2008, 2012, and 2015 that are presented on the X-axis. ",
+      "This grouped bar chart represents 6 different Countrys on X-axis for 4 groups 2003, 2008, 2012, and 2015. On the Y-axis it shows their corresponding SOME LABEL. ",
       " In Country 30 to 39, 2015 had the highest SOME LABEL 55.0 among the 4 groups and in 65 and older, 2012 had the lowest SOME LABEL 5.0. ",
-      " In Country 30 to 39, 2015 had the maximum SOME LABEL and it saw the lowest in Country 65 and older out of all 6 Countrys. ",
-      " The maximum SOME LABEL for 2015 that was found in Country 30 to 39 was 5.0 times larger than the minimum SOME LABEL observed in Country 65 and older. "
+      " Among all the Countrys, 2012 had the highest SOME LABEL in Country 30 to 39 and lowest SOME LABEL in Country 65 and older. ",
+      " There is a gap of 33.0 between the highest and lowest SOME LABEL found for 2012 in Country 30 to 39 and 65 and older. "
    ],
    "xAxis": "Country",
    "yAxis": "SOME LABEL",
    "min_summary": [
-      "This grouped bar chart represents 6 different Countrys on X-axis for 4 groups 2003, 2008, 2012, and 2015. On the Y-axis it shows their corresponding SOME LABEL. ",
+      "This grouped bar chart shows SOME LABEL on the Y-axis for 6 different Countrys for 4 groups 2003, 2008, 2012, and 2015 that are presented on the X-axis. ",
       " Out of all 4 groups, 2015 had the highest SOME LABEL in Country 30 to 39 and 2012 had the lowest SOME LABEL in Country 65 and older. "
    ],
    "mid_summary": [
-      "This grouped bar chart shows SOME LABEL on the Y-axis for 6 different Countrys for 4 groups 2003, 2008, 2012, and 2015 that are presented on the X-axis. ",
+      "This grouped bar chart represents 6 different Countrys on X-axis for 4 groups 2003, 2008, 2012, and 2015. On the Y-axis it shows their corresponding SOME LABEL. ",
       " In Country 30 to 39, 2015 had the highest SOME LABEL 55.0 among the 4 groups and in 65 and older, 2012 had the lowest SOME LABEL 5.0. ",
-      " In Country 30 to 39, 2015 had the maximum SOME LABEL and it saw the lowest in Country 65 and older out of all 6 Countrys. ",
-      " The maximum SOME LABEL for 2015 that was found in Country 30 to 39 was 5.0 times larger than the minimum SOME LABEL observed in Country 65 and older. "
+      " Among all the Countrys, 2012 had the highest SOME LABEL in Country 30 to 39 and lowest SOME LABEL in Country 65 and older. ",
+      " There is a gap of 33.0 between the highest and lowest SOME LABEL found for 2012 in Country 30 to 39 and 65 and older. "
    ],
    "max_summary": [
-      "This grouped bar chart shows SOME LABEL on the Y-axis for 6 different Countrys for 4 groups 2003, 2008, 2012, and 2015 that are presented on the X-axis. ",
-      " In Country 30 to 39, 2015 had the highest SOME LABEL 55.0 among the 4 groups and in 65 and older, 2012 had the lowest SOME LABEL 5.0. ",
-      " In Country 30 to 39, 2015 had the highest SOME LABEL among all 6 Countrys and it has the lowest SOME LABEL in Country 65 and older. ",
-      "Country 30 to 39 and 65 and older had the biggest gap of 44.0 between the highest and lowest SOME LABEL found for 2015. ",
+      "This grouped bar chart represents 6 different Countrys on X-axis for 4 groups 2003, 2008, 2012, and 2015. On the Y-axis it shows their corresponding SOME LABEL. ",
+      " Country 30 to 39 had the maximum SOME LABEL among all 4 groups, and it was for 2015. The minimum SOME LABEL was observed in Country 65 and older for 2012. ",
+      " Among all the Countrys, 2012 had the highest SOME LABEL in Country 30 to 39 and lowest SOME LABEL in Country 65 and older. ",
+      "Country 30 to 39 and 65 and older had the biggest gap of 33.0 between the highest and lowest SOME LABEL found for 2012. ",
       " Out of all 4 groups, the highest gap between the maximum and minimum SOME LABEL was found in case of 2012. ",
-      " 2015 had the maximum SOME LABEL out of all 4 groups in Country 30 to 39 followed by 2015 in 30 to 39, and the minimum SOME LABEL is found for 2012 in 65 and older. ",
+      " In Country 30 to 39, 2015 had the highest SOME LABEL 55.0 among the 4 groups and in 65 and older, 2012 had the lowest SOME LABEL 5.0. The second highest SOME LABEL 36.0 was observed for 2015 in Country 30 to 39. ",
       "On average, the Country 30 to 39 had the highest SOME LABEL for all 4 groups 2003, 2008, 2012, and 2015. Whereas 65 and older had the lowest average SOME LABEL. "
    ],
    "trends": [

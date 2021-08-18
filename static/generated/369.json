@@ -6,27 +6,26 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This is a bar chart representing Insurer in the x axis and Amount in billion U.S. dollars in the y axis. ",
+      "This bar chart has 17 columns on the x axis representing Insurer, and Amount in billion U.S. dollars in each Insurer on the y axis. ",
       "The Amount in billion U.S. dollars is appeared to be the highest at Insurer National Indemnity Company and lowest at Insurer EMC Reinsurance Company. ",
       "There is a difference of 26.96 between the maximum Insurer National Indemnity Company and minimum Insurer EMC Reinsurance Company. "
    ],
    "min_summary": [
       "This bar chart has 17 columns on the x axis representing Insurer, and Amount in billion U.S. dollars in each Insurer on the y axis. ",
-      "The maximum Amount in billion U.S. dollars 27.12 is found at Insurer National Indemnity Company and the minimum is found at EMC Reinsurance Company where Insurer is 0.16. "
+      "Insurer National Indemnity Company has the highest Amount in billion U.S. dollars and EMC Reinsurance Company has the lowest Amount in billion U.S. dollars. "
    ],
    "mid_summary": [
-      "This is a bar chart representing Insurer in the x axis and Amount in billion U.S. dollars in the y axis. ",
+      "This bar chart has 17 columns on the x axis representing Insurer, and Amount in billion U.S. dollars in each Insurer on the y axis. ",
       "The Amount in billion U.S. dollars is appeared to be the highest at Insurer National Indemnity Company and lowest at Insurer EMC Reinsurance Company. ",
       "There is a difference of 26.96 between the maximum Insurer National Indemnity Company and minimum Insurer EMC Reinsurance Company. "
    ],
    "max_summary": [
-      "This is a bar chart. It shows Amount in billion U.S. dollars for 17 number of Insurers. ",
-      "The Amount in billion U.S. dollars is highest at Insurer National Indemnity Company and lowest at Insurer EMC Reinsurance Company. ",
-      "Insurer Everest Reinsurance Company has the second highest value for Amount in billion U.S. dollars. ",
-      "There is a difference of 26.96 between the maximum Insurer National Indemnity Company and minimum Insurer EMC Reinsurance Company. ",
+      "This bar chart has 17 columns on the x axis representing Insurer, and Amount in billion U.S. dollars in each Insurer on the y axis. ",
+      "Insurer National Indemnity Company has the highest Amount in billion U.S. dollars and EMC Reinsurance Company has the lowest Amount in billion U.S. dollars. ",
+      "Second maximum Amount in billion U.S. dollars is found at Insurer Everest Reinsurance Company. ",
+      "The highest Insurer National Indemnity Company has 26.96 more Amount in billion U.S. dollars than the lowest Insurer EMC Reinsurance Company. ",
       "Insurer National Indemnity Company is higher than any other Insurers with value 27.12, followed by Everest Reinsurance Company, and Munich Re America Corp.. Down to Insurer EMC Reinsurance Company with the lowest value 0.16. ",
-      "The Insurer EMC Reinsurance Company has 6.9 times less Amount in billion U.S. dollars than average. ",
-      "The Amount in billion U.S. dollars is 66.77 if we add up values of all Insurers. "
+      "The average Amount in billion U.S. dollars in all 17 Insurers is 3.93. "
    ],
    "trends": [
       {},

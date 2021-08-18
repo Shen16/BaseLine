@@ -13,32 +13,32 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart represents SOME LABEL on the Y-axis. And, how the value changed throughout 33 Months for Samsung, Apple, Sony, Nokia, HTC, and Blackberry. ",
-      " Over the 33 Months, the SOME LABEL for Apple have been remained constant whereas declined for Samsung. ",
+      "This is a grouped bar chart showing SOME LABEL on the Y-axis throughout 33 Months for Samsung, Apple, Sony, Nokia, HTC, and Blackberry on the X-axis. ",
+      " Over the 33 Months, the SOME LABEL for Sony have been climbed whereas remained stable for Apple. ",
       " Month Mar' 15 had the maximum SOME LABEL among all 6 groups, and it was for Samsung. The minimum SOME LABEL was observed in Month Jun '14 for HTC. ",
-      " Among all the Months, Apple had the highest SOME LABEL in Month Jan '12 and lowest SOME LABEL in Month Jun '14. "
+      " Among all the Months, Sony had the highest SOME LABEL in Month Mar '13 and lowest SOME LABEL in Month Jul '11. "
    ],
    "xAxis": "Month",
    "yAxis": "SOME LABEL",
    "min_summary": [
       "This grouped bar chart represents SOME LABEL on the Y-axis. And, its value throughout 33 Months for Samsung, Apple, Sony, Nokia, HTC, and Blackberry. ",
-      " Over the 33 Months, the SOME LABEL for Apple have been remained constant whereas declined for Samsung. "
+      " Over the 33 Months, the SOME LABEL for Sony have been climbed whereas remained stable for Apple. "
    ],
    "mid_summary": [
-      "This grouped bar chart represents SOME LABEL on the Y-axis. And, how the value changed throughout 33 Months for Samsung, Apple, Sony, Nokia, HTC, and Blackberry. ",
-      " Over the 33 Months, the SOME LABEL for Apple have been remained constant whereas declined for Samsung. ",
+      "This is a grouped bar chart showing SOME LABEL on the Y-axis throughout 33 Months for Samsung, Apple, Sony, Nokia, HTC, and Blackberry on the X-axis. ",
+      " Over the 33 Months, the SOME LABEL for Sony have been climbed whereas remained stable for Apple. ",
       " Month Mar' 15 had the maximum SOME LABEL among all 6 groups, and it was for Samsung. The minimum SOME LABEL was observed in Month Jun '14 for HTC. ",
-      " Among all the Months, Apple had the highest SOME LABEL in Month Jan '12 and lowest SOME LABEL in Month Jun '14. "
+      " Among all the Months, Sony had the highest SOME LABEL in Month Mar '13 and lowest SOME LABEL in Month Jul '11. "
    ],
    "max_summary": [
       "This grouped bar chart represents SOME LABEL on the Y-axis. And, its value throughout 33 Months for Samsung, Apple, Sony, Nokia, HTC, and Blackberry. ",
-      " Over the 33 Months, the SOME LABEL for Apple have been remained constant whereas declined for Samsung. ",
-      " Month Mar' 15 had the maximum SOME LABEL among all 6 groups, and it was for Samsung. The minimum SOME LABEL was observed in Month Jun '14 for HTC. ",
-      " Among all the Months, Apple had the highest SOME LABEL in Month Jan '12 and lowest SOME LABEL in Month Jun '14. ",
-      " The maximum SOME LABEL for Apple that was found in Month Jan '12 was 11.35 times larger than the minimum SOME LABEL observed in Month Jun '14. ",
+      " All through the Months, the SOME LABEL for Sony have climbed. On the other hand, for Apple the SOME LABEL have remained stable. ",
+      " Out of all 6 groups, Samsung had the highest SOME LABEL in Month Mar' 15 and HTC had the lowest SOME LABEL in Month Jun '14. ",
+      " Among all the Months, Sony had the highest SOME LABEL in Month Mar '13 and lowest SOME LABEL in Month Jul '11. ",
+      " The maximum SOME LABEL for Sony that was found in Month Mar '13 was 12.29 times larger than the minimum SOME LABEL observed in Month Jul '11. ",
       " Among all 6 groups, Samsung had the gap of 438.0 between the maximum and minimum SOME LABEL observed in Month Mar' 15 and Mar '11 respectively. ",
       " In Month Mar' 15, Samsung had the highest SOME LABEL 449.0 among the 6 groups and in Jun '14, HTC had the lowest SOME LABEL 0.0. The second highest SOME LABEL 86.0 was observed for Samsung in Month Mar' 15. ",
-      "Averaging all 6 groups Samsung, Apple, Sony, Nokia, HTC, and Blackberry, the Month Apr '12 is the maximum SOME LABEL and Jun '14 is the minimum SOME LABEL. "
+      "On average, the Month Apr '12 had the highest SOME LABEL for all 6 groups Samsung, Apple, Sony, Nokia, HTC, and Blackberry. Whereas Jun '14 had the lowest average SOME LABEL. "
    ],
    "trends": [
       {},

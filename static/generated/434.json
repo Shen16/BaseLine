@@ -6,27 +6,27 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This is a bar chart representing Item in the x axis and Number of items dispensed in millions in the y axis. ",
+      "This bar chart has 20 columns on the x axis representing Item, and Number of items dispensed in millions in each Item on the y axis. ",
       "The Number of items dispensed in millions is highest at Item Atorvastatin and lowest at Item Bendroflumethiazide. ",
-      "The difference of Number of items dispensed in millions between the highest and lowest Item is 31.8. "
+      "There is a difference of 31.8 between the maximum Item Atorvastatin and minimum Item Bendroflumethiazide. "
    ],
    "min_summary": [
-      "This is a bar chart. It shows Number of items dispensed in millions for 20 number of Items. ",
-      "The Number of items dispensed in millions is highest at Item Atorvastatin and lowest at Item Bendroflumethiazide. "
+      "This is a bar chart representing Item in the x axis and Number of items dispensed in millions in the y axis. ",
+      "Item Atorvastatin has the highest Number of items dispensed in millions and Bendroflumethiazide has the lowest Number of items dispensed in millions. "
    ],
    "mid_summary": [
-      "This is a bar chart representing Item in the x axis and Number of items dispensed in millions in the y axis. ",
+      "This bar chart has 20 columns on the x axis representing Item, and Number of items dispensed in millions in each Item on the y axis. ",
       "The Number of items dispensed in millions is highest at Item Atorvastatin and lowest at Item Bendroflumethiazide. ",
-      "The difference of Number of items dispensed in millions between the highest and lowest Item is 31.8. "
+      "There is a difference of 31.8 between the maximum Item Atorvastatin and minimum Item Bendroflumethiazide. "
    ],
    "max_summary": [
-      "This is a bar chart. It shows Number of items dispensed in millions for 20 number of Items. ",
-      "The Number of items dispensed in millions is highest at Item Atorvastatin and lowest at Item Bendroflumethiazide. ",
+      "This bar chart has 20 columns on the x axis representing Item, and Number of items dispensed in millions in each Item on the y axis. ",
+      "The Number of items dispensed in millions is appeared to be the highest at Item Atorvastatin and lowest at Item Bendroflumethiazide. ",
       "Item Levothyroxine Sodium has the second highest value for Number of items dispensed in millions. ",
-      "There is a difference of 31.8 between the maximum Item Atorvastatin and minimum Item Bendroflumethiazide. ",
-      "Number of items dispensed in millions at Item Atorvastatin is 41.8 , second place is Levothyroxine Sodium at 32.2, and thirdly is Omeprazole at 31.0.",
+      "The difference of Number of items dispensed in millions between the highest and lowest Item is 31.8. ",
+      "The Item Atorvastatin has the highest Number of items dispensed in millions, followed by Levothyroxine Sodium, and Omeprazole. Down to the Item Bendroflumethiazide which is the lowest. ",
       "Similar Number of items dispensed in millions is found in Item Bisoprolol Fumarate, and Colecalciferol. ",
-      "The lowest value 10.0 at Bendroflumethiazide is almost 1.92 times smaller than the average value 21.74. "
+      "The Item Bendroflumethiazide has 1.92 times less Number of items dispensed in millions than average. "
    ],
    "trends": [
       {},

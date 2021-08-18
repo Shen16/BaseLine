@@ -6,27 +6,26 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This is a bar chart representing Industry in the x axis and Wage and salary in U.S. dollars in the y axis. ",
-      "The Wage and salary in U.S. dollars is appeared to be the highest at Industry Management of companies and enterprises and lowest at Industry Accommodation and food services. ",
-      "The difference of Wage and salary in U.S. dollars between the highest and lowest Industry is 100374.0. "
+      "This bar chart has 22 columns on the x axis representing Industry, and Wage and salary in U.S. dollars in each Industry on the y axis. ",
+      "Industry Management of companies and enterprises has the highest Wage and salary in U.S. dollars and Accommodation and food services has the lowest Wage and salary in U.S. dollars. ",
+      "There is a difference of 100374.0 between the maximum Industry Management of companies and enterprises and minimum Industry Accommodation and food services. "
    ],
    "min_summary": [
-      "This is a bar chart. It shows Wage and salary in U.S. dollars for 22 number of Industrys. ",
-      "The Wage and salary in U.S. dollars is highest at Industry Management of companies and enterprises and lowest at Industry Accommodation and food services. "
+      "This bar chart has 22 columns on the x axis representing Industry, and Wage and salary in U.S. dollars in each Industry on the y axis. ",
+      "The maximum Wage and salary in U.S. dollars 130777.0 is found at Industry Management of companies and enterprises and the minimum is found at Accommodation and food services where Industry is 30403.0. "
    ],
    "mid_summary": [
-      "This is a bar chart representing Industry in the x axis and Wage and salary in U.S. dollars in the y axis. ",
-      "The Wage and salary in U.S. dollars is appeared to be the highest at Industry Management of companies and enterprises and lowest at Industry Accommodation and food services. ",
-      "The difference of Wage and salary in U.S. dollars between the highest and lowest Industry is 100374.0. "
+      "This bar chart has 22 columns on the x axis representing Industry, and Wage and salary in U.S. dollars in each Industry on the y axis. ",
+      "Industry Management of companies and enterprises has the highest Wage and salary in U.S. dollars and Accommodation and food services has the lowest Wage and salary in U.S. dollars. ",
+      "There is a difference of 100374.0 between the maximum Industry Management of companies and enterprises and minimum Industry Accommodation and food services. "
    ],
    "max_summary": [
-      "This is a bar chart representing Industry in the x axis and Wage and salary in U.S. dollars in the y axis. ",
+      "This bar chart has 22 columns on the x axis representing Industry, and Wage and salary in U.S. dollars in each Industry on the y axis. ",
       "The Wage and salary in U.S. dollars is highest at Industry Management of companies and enterprises and lowest at Industry Accommodation and food services. ",
-      "Second maximum Wage and salary in U.S. dollars is found at Industry Information. ",
-      "The difference of Wage and salary in U.S. dollars between the highest and lowest Industry is 100374.0. ",
-      "Industry Management of companies and enterprises is higher than any other Industrys with value 130777.0, followed by Information, and Utilities. Down to Industry Accommodation and food services with the lowest value 30403.0. ",
-      "The Industry Accommodation and food services has 1.82 times less Wage and salary in U.S. dollars than average. ",
-      "The Wage and salary in U.S. dollars is 1582402.0 if we add up values of all Industrys. "
+      "The highest Industry Management of companies and enterprises has 100374.0 more Wage and salary in U.S. dollars than the lowest Industry Accommodation and food services. ",
+      "The Industry Management of companies and enterprises has the highest Wage and salary in U.S. dollars, followed by Information, and Utilities. Down to the Industry Accommodation and food services which is the lowest. ",
+      "The Industry Accommodation and food services tends to be 1.82 percent lower than average. ",
+      "Summing up the values of all Industrys, we get total 1582402.0. "
    ],
    "trends": [
       {},

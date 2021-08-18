@@ -9,31 +9,31 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This is a grouped bar chart showing SOME LABEL on the Y-axis throughout 30 Months for Situation A, and Situation B on the X-axis. ",
-      " Over the 30 Months, the SOME LABEL for Situation A have been declined whereas risen for Month. ",
+      "This grouped bar chart represents SOME LABEL on the Y-axis. And, its value throughout 30 Months for Situation A, and Situation B. ",
+      " All through the Months, the SOME LABEL for Situation A have lowered. On the other hand, for Month the SOME LABEL have climbed. ",
       " In Month Luiz In\u00e1cio Lula da Silva (PT), Situation A had the highest SOME LABEL 39.0 among the 2 groups and in Don't know, Situation A had the lowest SOME LABEL 0.0. ",
       " In Month Luiz In\u00e1cio Lula da Silva (PT), Situation A had the maximum SOME LABEL and it saw the lowest in Month Don't know out of all 30 Months. "
    ],
    "xAxis": "Month",
    "yAxis": "SOME LABEL",
    "min_summary": [
-      "This grouped bar chart represents SOME LABEL on the Y-axis. And, its value throughout 30 Months for Situation A, and Situation B. ",
-      " All through the Months, the SOME LABEL for Situation A have declined. On the other hand, for Month the SOME LABEL have risen. "
+      "This grouped bar chart represents SOME LABEL on the Y-axis. And, how the value changed throughout 30 Months for Situation A, and Situation B. ",
+      " All through the Months, the SOME LABEL for Situation A have lowered. On the other hand, for Month the SOME LABEL have climbed. "
    ],
    "mid_summary": [
-      "This is a grouped bar chart showing SOME LABEL on the Y-axis throughout 30 Months for Situation A, and Situation B on the X-axis. ",
-      " Over the 30 Months, the SOME LABEL for Situation A have been declined whereas risen for Month. ",
+      "This grouped bar chart represents SOME LABEL on the Y-axis. And, its value throughout 30 Months for Situation A, and Situation B. ",
+      " All through the Months, the SOME LABEL for Situation A have lowered. On the other hand, for Month the SOME LABEL have climbed. ",
       " In Month Luiz In\u00e1cio Lula da Silva (PT), Situation A had the highest SOME LABEL 39.0 among the 2 groups and in Don't know, Situation A had the lowest SOME LABEL 0.0. ",
       " In Month Luiz In\u00e1cio Lula da Silva (PT), Situation A had the maximum SOME LABEL and it saw the lowest in Month Don't know out of all 30 Months. "
    ],
    "max_summary": [
-      "This is a grouped bar chart showing SOME LABEL on the Y-axis throughout 30 Months for Situation A, and Situation B on the X-axis. ",
-      " All through the Months, the SOME LABEL for Situation A have declined. On the other hand, for Month the SOME LABEL have risen. ",
-      " Out of all 2 groups, Situation A had the highest SOME LABEL in Month Luiz In\u00e1cio Lula da Silva (PT) and Situation A had the lowest SOME LABEL in Month Don't know. ",
-      " Among all the Months, Situation A had the highest SOME LABEL 39.0 in Month Luiz In\u00e1cio Lula da Silva (PT) and lowest value 0.0 in Month Don't know. ",
-      " The maximum SOME LABEL for Situation A that was found in Month Luiz In\u00e1cio Lula da Silva (PT) was 39.0 times larger than the minimum SOME LABEL observed in Month Don't know. ",
-      " Among the groups, Situation A had the biggest difference in SOME LABEL. Where the maximum SOME LABEL was 39.0 times larger than the minimum SOME LABEL. ",
-      "Averaging all 2 groups Situation A, and Situation B, the Month Luiz In\u00e1cio Lula da Silva (PT) is the maximum SOME LABEL and Jo\u00e3o Goulart Filho (PPL) is the minimum SOME LABEL. "
+      "This grouped bar chart represents SOME LABEL on the Y-axis. And, how the value changed throughout 30 Months for Situation A, and Situation B. ",
+      " Over the 30 Months, the SOME LABEL for Situation A have been lowered whereas climbed for Month. ",
+      " In Month Luiz In\u00e1cio Lula da Silva (PT), Situation A had the highest SOME LABEL 39.0 among the 2 groups and in Don't know, Situation A had the lowest SOME LABEL 0.0. ",
+      " In Month Luiz In\u00e1cio Lula da Silva (PT), Situation A had the maximum SOME LABEL and it saw the lowest in Month Don't know out of all 30 Months. ",
+      "Month Luiz In\u00e1cio Lula da Silva (PT) and Don't know had the biggest gap of 38.0 between the highest and lowest SOME LABEL found for Situation A. ",
+      " Out of all 2 groups, the highest gap between the maximum and minimum SOME LABEL was found in case of Situation A. ",
+      "On average, the Month Luiz In\u00e1cio Lula da Silva (PT) had the highest SOME LABEL for all 2 groups Situation A, and Situation B. Whereas Jo\u00e3o Goulart Filho (PPL) had the lowest average SOME LABEL. "
    ],
    "trends": [
       {},

@@ -6,26 +6,27 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 10 columns on the x axis representing Month, and Brand fans in millions in each Month on the y axis. ",
-      "The Brand fans in millions is highest at Month Bath & Body Works and lowest at Month Embelleze. ",
-      "The minimum Month Embelleze has got 2.44 times less Brand fans in millions than the maximum Month Bath & Body Works. "
+      "This is a bar chart. It shows Brand fans in millions for 10 number of Months. ",
+      "The maximum Brand fans in millions 9.8 is found at Month Bath & Body Works and the minimum is found at Embelleze where Month is 4.01. ",
+      "There is a difference of 5.79 between the maximum Month Bath & Body Works and minimum Month Embelleze. "
    ],
    "min_summary": [
-      "This is a bar chart representing Month in the x axis and Brand fans in millions in the y axis. ",
-      "The Brand fans in millions is appeared to be the highest at Month Bath & Body Works and lowest at Month Embelleze. "
+      "This is a bar chart. It shows Brand fans in millions for 10 number of Months. ",
+      "The Brand fans in millions is highest at Month Bath & Body Works and lowest at Month Embelleze. "
    ],
    "mid_summary": [
-      "This bar chart has 10 columns on the x axis representing Month, and Brand fans in millions in each Month on the y axis. ",
-      "The Brand fans in millions is highest at Month Bath & Body Works and lowest at Month Embelleze. ",
-      "The minimum Month Embelleze has got 2.44 times less Brand fans in millions than the maximum Month Bath & Body Works. "
+      "This is a bar chart. It shows Brand fans in millions for 10 number of Months. ",
+      "The maximum Brand fans in millions 9.8 is found at Month Bath & Body Works and the minimum is found at Embelleze where Month is 4.01. ",
+      "There is a difference of 5.79 between the maximum Month Bath & Body Works and minimum Month Embelleze. "
    ],
    "max_summary": [
-      "This is a bar chart representing Month in the x axis and Brand fans in millions in the y axis. ",
+      "This is a bar chart. It shows Brand fans in millions for 10 number of Months. ",
       "The Brand fans in millions is highest at Month Bath & Body Works and lowest at Month Embelleze. ",
-      "The maximum Month Bath & Body Works has got 2.44 times higher Brand fans in millions than the minimum Month Embelleze. ",
+      "Month Risqu\u00e9 has the second highest value for Brand fans in millions. ",
+      "The difference of Brand fans in millions between the highest and lowest Month is 5.79. ",
       "The Month Bath & Body Works has the highest Brand fans in millions, followed by Risqu\u00e9, and Mary Kay Brasil. Down to the Month Embelleze which is the lowest. ",
-      "The Brand fans in millions has decreased over the past 10 Months. ",
-      "The Month Bath & Body Works tends to be 1.74 percent higher than average. "
+      "Over the past 10 Months, the Brand fans in millions has decreased. ",
+      "The highest value 9.8 at Bath & Body Works is almost 1.74 times larger than the average value 5.64. "
    ],
    "trends": [
       {},

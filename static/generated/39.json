@@ -6,26 +6,27 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 8 columns on the x axis representing Cheese Brands, and Share of respondents currently purchasing in each Cheese Brands on the y axis. ",
-      "The Share of respondents currently purchasing is highest at Cheese Brands Cathedral City and lowest at Cheese Brands Babybel. ",
-      "The difference of Share of respondents currently purchasing between the highest and lowest Cheese Brands is 34.0. "
+      "This is a bar chart representing Cheese Brands in the x axis and Share of respondents currently purchasing in the y axis. ",
+      "Cheese Brands Cathedral City has the highest Share of respondents currently purchasing and Babybel has the lowest Share of respondents currently purchasing. ",
+      "The highest Cheese Brands Cathedral City has 34.0 more Share of respondents currently purchasing than the lowest Cheese Brands Babybel. "
    ],
    "min_summary": [
       "This is a bar chart representing Cheese Brands in the x axis and Share of respondents currently purchasing in the y axis. ",
-      "The maximum Share of respondents currently purchasing 51.0 is found at Cheese Brands Cathedral City and the minimum is found at Babybel where Cheese Brands is 17.0. "
+      "The Share of respondents currently purchasing is appeared to be the highest at Cheese Brands Cathedral City and lowest at Cheese Brands Babybel. "
    ],
    "mid_summary": [
-      "This bar chart has 8 columns on the x axis representing Cheese Brands, and Share of respondents currently purchasing in each Cheese Brands on the y axis. ",
-      "The Share of respondents currently purchasing is highest at Cheese Brands Cathedral City and lowest at Cheese Brands Babybel. ",
-      "The difference of Share of respondents currently purchasing between the highest and lowest Cheese Brands is 34.0. "
+      "This is a bar chart representing Cheese Brands in the x axis and Share of respondents currently purchasing in the y axis. ",
+      "Cheese Brands Cathedral City has the highest Share of respondents currently purchasing and Babybel has the lowest Share of respondents currently purchasing. ",
+      "The highest Cheese Brands Cathedral City has 34.0 more Share of respondents currently purchasing than the lowest Cheese Brands Babybel. "
    ],
    "max_summary": [
-      "This is a bar chart representing Cheese Brands in the x axis and Share of respondents currently purchasing in the y axis. ",
+      "This is a bar chart. It shows Share of respondents currently purchasing for 8 number of Cheese Brandss. ",
       "The maximum Share of respondents currently purchasing 51.0 is found at Cheese Brands Cathedral City and the minimum is found at Babybel where Cheese Brands is 17.0. ",
-      "The second highest Share of respondents currently purchasing is appeared to be the Cheese Brands Supermarket own label cheese. ",
-      "The highest Cheese Brands Cathedral City has 34.0 more Share of respondents currently purchasing than the lowest Cheese Brands Babybel. ",
-      "Share of respondents currently purchasing at Cheese Brands Cathedral City is 51.0 , second place is Supermarket own label cheese at 42.0, and thirdly is Philadelphia at 27.0.",
-      "The Cheese Brands Cathedral City has 1.77 times more Share of respondents currently purchasing than average. "
+      "Second maximum Share of respondents currently purchasing is found at Cheese Brands Supermarket own label cheese. ",
+      "The difference of Share of respondents currently purchasing between the highest and lowest Cheese Brands is 34.0. ",
+      "The Cheese Brands Cathedral City has the highest Share of respondents currently purchasing, followed by Supermarket own label cheese, and Philadelphia. Down to the Cheese Brands Babybel which is the lowest. ",
+      "The highest value 51.0 at Cathedral City is almost 1.77 times larger than the average value 28.88. ",
+      "The Share of respondents currently purchasing is 231.0 if we add up values of all Cheese Brandss. "
    ],
    "trends": [
       {},

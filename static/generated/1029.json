@@ -6,27 +6,28 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This is a bar chart. It shows Percentage of all causes of death for 10 number of Months. ",
-      "The Percentage of all causes of death is appeared to be the highest at Month Diseases of the heart and lowest at Month Septicemia. ",
-      "The highest value at Month Diseases of the heart is 11.65x times more than the lowest value at Septicemia. "
+      "This bar chart has 10 columns on the x axis representing Month, and Percentage of all causes of death in each Month on the y axis. ",
+      "The Percentage of all causes of death is highest at Month Diseases of the heart and lowest at Month Septicemia. ",
+      "The Percentage of all causes of death of Month Septicemia is 11.65% smaller than the maximum value at Diseases of the heart. "
    ],
    "min_summary": [
-      "This bar chart has 10 columns on the x axis representing Month, and Percentage of all causes of death in each Month on the y axis. ",
-      "The Percentage of all causes of death is appeared to be the highest at Month Diseases of the heart and lowest at Month Septicemia. "
+      "This is a bar chart representing Month in the x axis and Percentage of all causes of death in the y axis. ",
+      "The Percentage of all causes of death is highest at Month Diseases of the heart and lowest at Month Septicemia. "
    ],
    "mid_summary": [
-      "This is a bar chart. It shows Percentage of all causes of death for 10 number of Months. ",
-      "The Percentage of all causes of death is appeared to be the highest at Month Diseases of the heart and lowest at Month Septicemia. ",
-      "The highest value at Month Diseases of the heart is 11.65x times more than the lowest value at Septicemia. "
+      "This bar chart has 10 columns on the x axis representing Month, and Percentage of all causes of death in each Month on the y axis. ",
+      "The Percentage of all causes of death is highest at Month Diseases of the heart and lowest at Month Septicemia. ",
+      "The Percentage of all causes of death of Month Septicemia is 11.65% smaller than the maximum value at Diseases of the heart. "
    ],
    "max_summary": [
       "This is a bar chart representing Month in the x axis and Percentage of all causes of death in the y axis. ",
-      "The Percentage of all causes of death is appeared to be the highest at Month Diseases of the heart and lowest at Month Septicemia. ",
+      "Month Diseases of the heart has the highest Percentage of all causes of death and Septicemia has the lowest Percentage of all causes of death. ",
       "Month Malignant neoplasms (cancers) has the second highest value for Percentage of all causes of death. ",
-      "The highest Month Diseases of the heart has 21.3 more Percentage of all causes of death than the lowest Month Septicemia. ",
-      "Percentage of all causes of death at Month Diseases of the heart is 23.3 , second place is Malignant neoplasms (cancers) at 20.8, and thirdly is Accidents (unintentional injuries) at 5.9.",
-      "Over the past 10 Months, the Percentage of all causes of death has reduced. ",
-      "Considered together, the average Percentage of all causes of death in all 10 Months is roughly 7.39. "
+      "Month Septicemia has 11.65 times less Percentage of all causes of death than Month Diseases of the heart which is the highest. ",
+      "Month Diseases of the heart is higher than any other Months with value 23.3, followed by Malignant neoplasms (cancers), and Accidents (unintentional injuries). Down to Month Septicemia with the lowest value 2.0. ",
+      "Over the past 10 Months, the Percentage of all causes of death has decreased. ",
+      "The Month Diseases of the heart tends to be 3.15 percent higher than average. ",
+      "The Percentage of all causes of death is 73.9 if we add up values of all Months. "
    ],
    "trends": [
       {},

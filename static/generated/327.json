@@ -10,32 +10,32 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart shows Number of active users in millions on the Y-axis for 24 different Quarters for 3 groups North America, Europe, and Rest of World that are presented on the X-axis. ",
+      "This grouped bar chart represents 24 different Quarters on X-axis for 3 groups North America, Europe, and Rest of World. On the Y-axis it shows their corresponding Number of active users in millions. ",
       " Over the 24 Quarters, the Number of active users in millions for both Rest of World and Europe have reduced. ",
       " In Quarter Q4 '19, North America had the highest Number of active users in millions 86.0 among the 3 groups and in Q1 '14, Rest of World had the lowest Number of active users in millions 6.0. ",
-      " In Quarter Q4 '19, Rest of World had the highest Number of active users in millions among all 24 Quarters and it has the lowest Number of active users in millions in Quarter Q1 '14. "
+      " Among all the Quarters, Rest of World had the highest Number of active users in millions in Quarter Q4 '19 and lowest Number of active users in millions in Quarter Q1 '14. "
    ],
    "xAxis": "Quarter",
    "yAxis": "Number of active users in millions",
    "min_summary": [
-      "This grouped bar chart represents 24 different Quarters on X-axis for 3 groups North America, Europe, and Rest of World. On the Y-axis it shows their corresponding Number of active users in millions. ",
+      "This grouped bar chart shows Number of active users in millions on the Y-axis for 24 different Quarters for 3 groups North America, Europe, and Rest of World that are presented on the X-axis. ",
       " Over the 24 Quarters, the Number of active users in millions for both Rest of World and Europe have reduced. "
    ],
    "mid_summary": [
-      "This grouped bar chart shows Number of active users in millions on the Y-axis for 24 different Quarters for 3 groups North America, Europe, and Rest of World that are presented on the X-axis. ",
+      "This grouped bar chart represents 24 different Quarters on X-axis for 3 groups North America, Europe, and Rest of World. On the Y-axis it shows their corresponding Number of active users in millions. ",
       " Over the 24 Quarters, the Number of active users in millions for both Rest of World and Europe have reduced. ",
       " In Quarter Q4 '19, North America had the highest Number of active users in millions 86.0 among the 3 groups and in Q1 '14, Rest of World had the lowest Number of active users in millions 6.0. ",
-      " In Quarter Q4 '19, Rest of World had the highest Number of active users in millions among all 24 Quarters and it has the lowest Number of active users in millions in Quarter Q1 '14. "
+      " Among all the Quarters, Rest of World had the highest Number of active users in millions in Quarter Q4 '19 and lowest Number of active users in millions in Quarter Q1 '14. "
    ],
    "max_summary": [
       "This grouped bar chart represents 24 different Quarters on X-axis for 3 groups North America, Europe, and Rest of World. On the Y-axis it shows their corresponding Number of active users in millions. ",
       " Over the 24 Quarters, the Number of active users in millions for both Rest of World and Europe have reduced. ",
-      " Out of all 3 groups, North America had the highest Number of active users in millions in Quarter Q4 '19 and Rest of World had the lowest Number of active users in millions in Quarter Q1 '14. ",
+      " In Quarter Q4 '19, North America had the highest Number of active users in millions 86.0 among the 3 groups and in Q1 '14, Rest of World had the lowest Number of active users in millions 6.0. ",
       " Among all the Quarters, Rest of World had the highest Number of active users in millions 64.0 in Quarter Q4 '19 and lowest value 6.0 in Quarter Q1 '14. ",
       " The maximum Number of active users in millions for Rest of World that was found in Quarter Q4 '19 was 10.67 times larger than the minimum Number of active users in millions observed in Quarter Q1 '14. ",
       " Among the groups, North America had the biggest difference in Number of active users in millions. Where the maximum Number of active users in millions was 3.31 times larger than the minimum Number of active users in millions. ",
-      " North America had the maximum Number of active users in millions out of all 3 groups in Quarter Q4 '19 followed by North America in Q4 '19, and the minimum Number of active users in millions is found for Rest of World in Q1 '14. ",
-      "On average, the Quarter Q4 '19 had the highest Number of active users in millions for all 3 groups North America, Europe, and Rest of World. Whereas Q1 '14 had the lowest average Number of active users in millions. "
+      " In Quarter Q4 '19, North America had the highest Number of active users in millions 86.0 among the 3 groups and in Q1 '14, Rest of World had the lowest Number of active users in millions 6.0. The second highest Number of active users in millions 67.0 was observed for North America in Quarter Q4 '19. ",
+      "Averaging all 3 groups North America, Europe, and Rest of World, the Quarter Q4 '19 is the maximum Number of active users in millions and Q1 '14 is the minimum Number of active users in millions. "
    ],
    "trends": [
       {},

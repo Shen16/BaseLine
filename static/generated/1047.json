@@ -6,29 +6,29 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This is a bar chart. It shows Goals scored for 23 number of Months. ",
-      "Month Henrik Larsson has the highest Goals scored and J\u00fcrgen Klinsmann has the lowest Goals scored. ",
-      "The highest Month Henrik Larsson has 18.0 more Goals scored than the lowest Month J\u00fcrgen Klinsmann. "
+      "This is a bar chart representing Month in the x axis and Goals scored in the y axis. ",
+      "The maximum Goals scored 40.0 is found at Month Henrik Larsson and the minimum is found at J\u00fcrgen Klinsmann where Month is 22.0. ",
+      "Month J\u00fcrgen Klinsmann has 1.82 times less Goals scored than Month Henrik Larsson which is the highest. "
    ],
    "min_summary": [
-      "This bar chart has 23 columns on the x axis representing Month, and Goals scored in each Month on the y axis. ",
-      "The Goals scored is highest at Month Henrik Larsson and lowest at Month J\u00fcrgen Klinsmann. "
+      "This is a bar chart representing Month in the x axis and Goals scored in the y axis. ",
+      "The maximum Goals scored 40.0 is found at Month Henrik Larsson and the minimum is found at J\u00fcrgen Klinsmann where Month is 22.0. "
    ],
    "mid_summary": [
-      "This is a bar chart. It shows Goals scored for 23 number of Months. ",
-      "Month Henrik Larsson has the highest Goals scored and J\u00fcrgen Klinsmann has the lowest Goals scored. ",
-      "The highest Month Henrik Larsson has 18.0 more Goals scored than the lowest Month J\u00fcrgen Klinsmann. "
+      "This is a bar chart representing Month in the x axis and Goals scored in the y axis. ",
+      "The maximum Goals scored 40.0 is found at Month Henrik Larsson and the minimum is found at J\u00fcrgen Klinsmann where Month is 22.0. ",
+      "Month J\u00fcrgen Klinsmann has 1.82 times less Goals scored than Month Henrik Larsson which is the highest. "
    ],
    "max_summary": [
-      "This bar chart has 23 columns on the x axis representing Month, and Goals scored in each Month on the y axis. ",
-      "The Goals scored is appeared to be the highest at Month Henrik Larsson and lowest at Month J\u00fcrgen Klinsmann. ",
-      "Month Klaas Jan Huntelaar has the second highest value for Goals scored. ",
-      "The difference of Goals scored between the highest and lowest Month is 18.0. ",
+      "This is a bar chart. It shows Goals scored for 23 number of Months. ",
+      "Month Henrik Larsson has the highest Goals scored and J\u00fcrgen Klinsmann has the lowest Goals scored. ",
+      "Second maximum Goals scored is found at Month Klaas Jan Huntelaar. ",
+      "The highest Month Henrik Larsson has 18.0 more Goals scored than the lowest Month J\u00fcrgen Klinsmann. ",
       "Month Henrik Larsson is higher than any other Months with value 40.0, followed by Klaas Jan Huntelaar, and Radamel Falcao. Down to Month J\u00fcrgen Klinsmann with the lowest value 22.0. ",
-      "Overall Goals scored has reduced over the Months. ",
-      "Month J\u00fcrgen Klinsmann, Dennis Bergkamp, Aleksandr Kerzhakov, Martin Chivers, Karl-Heinz Rummenigge, and Manuel Fernandes have the same Goals scored. ",
-      "The lowest value 22.0 at J\u00fcrgen Klinsmann is almost 1.57 times smaller than the average value 25.52. ",
-      "The Goals scored is 587.0 if we add up values of all Months. "
+      "Overall Goals scored has decreased over the Months. ",
+      "Similar Goals scored is found in Month J\u00fcrgen Klinsmann, Dennis Bergkamp, Aleksandr Kerzhakov, Martin Chivers, Karl-Heinz Rummenigge, and Manuel Fernandes. ",
+      "The Month J\u00fcrgen Klinsmann has 1.57 times less Goals scored than average. ",
+      "Summing up the values of all Months, we get total 587.0. "
    ],
    "trends": [
       {},

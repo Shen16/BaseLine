@@ -6,28 +6,27 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This is a bar chart representing Country in the x axis and National debt in relation to GDP in the y axis. ",
-      "The National debt in relation to GDP is appeared to be the highest at Country Kiribati and lowest at Country Hong Kong SAR. ",
-      "The National debt in relation to GDP of Country Hong Kong SAR is 2262000000000.0% smaller than the maximum value at Kiribati. "
+      "This is a bar chart. It shows National debt in relation to GDP for 20 number of Countrys. ",
+      "The maximum National debt in relation to GDP 22.62 is found at Country Kiribati and the minimum is found at Hong Kong SAR where Country is 0.0. ",
+      "There is a difference of 22.62 between the maximum Country Kiribati and minimum Country Hong Kong SAR. "
    ],
    "min_summary": [
       "This is a bar chart. It shows National debt in relation to GDP for 20 number of Countrys. ",
       "Country Kiribati has the highest National debt in relation to GDP and Hong Kong SAR has the lowest National debt in relation to GDP. "
    ],
    "mid_summary": [
-      "This is a bar chart representing Country in the x axis and National debt in relation to GDP in the y axis. ",
-      "The National debt in relation to GDP is appeared to be the highest at Country Kiribati and lowest at Country Hong Kong SAR. ",
-      "The National debt in relation to GDP of Country Hong Kong SAR is 2262000000000.0% smaller than the maximum value at Kiribati. "
+      "This is a bar chart. It shows National debt in relation to GDP for 20 number of Countrys. ",
+      "The maximum National debt in relation to GDP 22.62 is found at Country Kiribati and the minimum is found at Hong Kong SAR where Country is 0.0. ",
+      "There is a difference of 22.62 between the maximum Country Kiribati and minimum Country Hong Kong SAR. "
    ],
    "max_summary": [
-      "This bar chart has 20 columns on the x axis representing Country, and National debt in relation to GDP in each Country on the y axis. ",
-      "The National debt in relation to GDP is appeared to be the highest at Country Kiribati and lowest at Country Hong Kong SAR. ",
-      "Country Tuvalu has the second highest value for National debt in relation to GDP. ",
-      "The highest Country Kiribati has 22.62 more National debt in relation to GDP than the lowest Country Hong Kong SAR. ",
-      "Country Kiribati is higher than any other Countrys with value 22.62, followed by Tuvalu, and Luxembourg. Down to Country Hong Kong SAR with the lowest value 0.0. ",
-      "Country Hong Kong SAR, and Macao SAR have the same National debt in relation to GDP. ",
-      "The Country Kiribati tends to be 1.57 percent higher than average. ",
-      "The National debt in relation to GDP is 287.67 if we add up values of all Countrys. "
+      "This is a bar chart. It shows National debt in relation to GDP for 20 number of Countrys. ",
+      "The National debt in relation to GDP is highest at Country Kiribati and lowest at Country Hong Kong SAR. ",
+      "The difference of National debt in relation to GDP between the highest and lowest Country is 22.62. ",
+      "The Country Kiribati has the highest National debt in relation to GDP, followed by Tuvalu, and Luxembourg. Down to the Country Hong Kong SAR which is the lowest. ",
+      "Similar National debt in relation to GDP is found in Country Hong Kong SAR, and Macao SAR. ",
+      "The Country Hong Kong SAR tends to be 1.57 percent lower than average. ",
+      "Summing up the values of all Countrys, we get total 287.67. "
    ],
    "trends": [
       {},

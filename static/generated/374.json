@@ -9,35 +9,35 @@
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "You are viewing a chart of multi-line type with 2 lines denoting Men, and Women. The y axis indicates the Mean BMI in kilograms per meter squared and the x axis indicates Year.",
+      "This is a multi-line chart with 2 lines representing Men, and Women. The y axis denotes Mean BMI in kilograms per meter squared and the x axis denotes Year.",
       "Overall Men, and Women are gradually increasing,  throughout the Year",
       "The ranking of the lines from topmost to botommmost is as follows: 1. Men, and lastly, 2. Women. ",
       "Overall across the Year, Men mostly maintained the highest Mean BMI in kilograms per meter squared when compared to others with a mean value of 27.46, and it peaked at 55-64_years.",
-      "The botommost line, Women,  has a mean of 27.43, and peaked at 65-74_years. ",
-      "The difference of Mean BMI in kilograms per meter squared between Men and Women is roughly same at Year 75_years_and_over compared to the Year 16-24_years."
+      "Women mostly had the least Mean BMI in kilograms per meter squared with a mean value of 27.43, which peaked at 65-74_years with a value of 28.5. ",
+      "The greatest difference of Mean BMI in kilograms per meter squared between Men and Women occurs at Year 25-34_years and the smallest difference occurs at 16-24_years."
    ],
    "xAxis": "Year",
    "yAxis": "Mean BMI in kilograms per meter squared",
    "min_summary": [
-      "This is a multi-line chart with 2 lines representing Men, and Women. The y axis denotes Mean BMI in kilograms per meter squared and the x axis denotes Year.",
+      "The given chart is of multi-line type with 2 lines namely Men, and Women. The y axis represents Mean BMI in kilograms per meter squared and the x axis represents Year.",
       "Overall Men, and Women are gradually increasing,  throughout the Year",
       "Overall across the Year, Men mostly maintained the highest Mean BMI in kilograms per meter squared when compared to others with a mean value of 27.46, and it peaked at 55-64_years.",
       "The botommost line, Women,  has a mean of 27.43, and peaked at 65-74_years. "
    ],
    "mid_summary": [
-      "The given chart is of multi-line type with 2 lines namely Men, and Women. The y axis represents Mean BMI in kilograms per meter squared and the x axis represents Year.",
+      "You are viewing a chart of multi-line type with 2 lines denoting Men, and Women. The y axis indicates the Mean BMI in kilograms per meter squared and the x axis indicates Year.",
       "Overall Men, and Women are gradually increasing,  throughout the Year",
       "The lines ordered according to average values of Mean BMI in kilograms per meter squared in descending order is: 1. Men, and lastly, 2. Women. ",
       "Throughout the period, Men generally had the highest Mean BMI in kilograms per meter squared relative to others with an average of 27.46, and it reached its maximum at 55-64_years with a value of 29.0.",
       "The botommost line, Women,  has a mean of 27.43, and peaked at 65-74_years. "
    ],
    "max_summary": [
-      "This is a multi-line chart with 2 lines representing Men, and Women. The y axis denotes Mean BMI in kilograms per meter squared and the x axis denotes Year.",
+      "You are viewing a chart of multi-line type with 2 lines denoting Men, and Women. The y axis indicates the Mean BMI in kilograms per meter squared and the x axis indicates Year.",
       "Overall Men, and Women are gradually increasing,  throughout the Year",
       "The ranking of the lines from topmost to botommmost is as follows: 1. Men, and lastly, 2. Women. ",
-      "Overall across the Year, Men mostly maintained the highest Mean BMI in kilograms per meter squared when compared to others with a mean value of 27.46, and it peaked at 55-64_years.",
-      "The botommost line, Women,  has a mean of 27.43, and peaked at 65-74_years. ",
-      "The greatest difference of Mean BMI in kilograms per meter squared between Men and Women occurs at Year 25-34_years and the smallest difference occurs at 16-24_years."
+      "Throughout the period, Men generally had the highest Mean BMI in kilograms per meter squared relative to others with an average of 27.46, and it reached its maximum at 55-64_years with a value of 29.0.",
+      "Women mostly had the least Mean BMI in kilograms per meter squared with a mean value of 27.43, which peaked at 65-74_years with a value of 28.5. ",
+      "The difference of Mean BMI in kilograms per meter squared between Men and Women is roughly same at Year 75_years_and_over compared to the Year 16-24_years."
    ],
    "trends": [
       {},

@@ -7,25 +7,24 @@
    "summaryType": "baseline",
    "summary": [
       "This bar chart has 6 columns on the x axis representing Country, and Revenue share in each Country on the y axis. ",
-      "The Revenue share is appeared to be the highest at Country Asia (excluding Japan) and lowest at Country Japan. ",
-      "The highest Country Asia (excluding Japan) has 22.0 more Revenue share than the lowest Country Japan. "
+      "The maximum Revenue share 29.0 is found at Country Asia (excluding Japan) and the minimum is found at Japan where Country is 7.0. ",
+      "There is a difference of 22.0 between the maximum Country Asia (excluding Japan) and minimum Country Japan. "
    ],
    "min_summary": [
-      "This is a bar chart. It shows Revenue share for 6 number of Countrys. ",
-      "The Revenue share is highest at Country Asia (excluding Japan) and lowest at Country Japan. "
+      "This bar chart has 6 columns on the x axis representing Country, and Revenue share in each Country on the y axis. ",
+      "Country Asia (excluding Japan) has the highest Revenue share and Japan has the lowest Revenue share. "
    ],
    "mid_summary": [
       "This bar chart has 6 columns on the x axis representing Country, and Revenue share in each Country on the y axis. ",
-      "The Revenue share is appeared to be the highest at Country Asia (excluding Japan) and lowest at Country Japan. ",
-      "The highest Country Asia (excluding Japan) has 22.0 more Revenue share than the lowest Country Japan. "
+      "The maximum Revenue share 29.0 is found at Country Asia (excluding Japan) and the minimum is found at Japan where Country is 7.0. ",
+      "There is a difference of 22.0 between the maximum Country Asia (excluding Japan) and minimum Country Japan. "
    ],
    "max_summary": [
       "This is a bar chart. It shows Revenue share for 6 number of Countrys. ",
-      "The maximum Revenue share 29.0 is found at Country Asia (excluding Japan) and the minimum is found at Japan where Country is 7.0. ",
-      "Second maximum Revenue share is found at Country United States. ",
-      "The minimum Country Japan has got 4.14 times less Revenue share than the maximum Country Asia (excluding Japan). ",
-      "The Country Asia (excluding Japan) has the highest Revenue share, followed by United States, and Europe (excluding France). Down to the Country Japan which is the lowest. ",
-      "The lowest value 7.0 at Japan is almost 1.74 times smaller than the average value 16.67. ",
+      "The Revenue share is highest at Country Asia (excluding Japan) and lowest at Country Japan. ",
+      "There is a difference of 22.0 between the maximum Country Asia (excluding Japan) and minimum Country Japan. ",
+      "Country Asia (excluding Japan) is higher than any other Countrys with value 29.0, followed by United States, and Europe (excluding France). Down to Country Japan with the lowest value 7.0. ",
+      "The Country Japan has 1.74 times less Revenue share than average. ",
       "Summing up the values of all Countrys, we get total 100.0. "
    ],
    "trends": [

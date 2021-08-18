@@ -6,27 +6,25 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 6 columns on the x axis representing Ethnic Groups, and Share of population in each Ethnic Groups on the y axis. ",
-      "The Share of population is highest at Ethnic Groups White and lowest at Ethnic Groups Gypsy/Traveller/Irish traveller. ",
+      "This is a bar chart representing Ethnic Groups in the x axis and Share of population in the y axis. ",
+      "Ethnic Groups White has the highest Share of population and Gypsy/Traveller/Irish traveller has the lowest Share of population. ",
       "The difference of Share of population between the highest and lowest Ethnic Groups is 57.2. "
    ],
    "min_summary": [
-      "This bar chart has 6 columns on the x axis representing Ethnic Groups, and Share of population in each Ethnic Groups on the y axis. ",
-      "Ethnic Groups White has the highest Share of population and Gypsy/Traveller/Irish traveller has the lowest Share of population. "
+      "This is a bar chart. It shows Share of population for 6 number of Ethnic Groupss. ",
+      "The Share of population is highest at Ethnic Groups White and lowest at Ethnic Groups Gypsy/Traveller/Irish traveller. "
    ],
    "mid_summary": [
-      "This bar chart has 6 columns on the x axis representing Ethnic Groups, and Share of population in each Ethnic Groups on the y axis. ",
-      "The Share of population is highest at Ethnic Groups White and lowest at Ethnic Groups Gypsy/Traveller/Irish traveller. ",
+      "This is a bar chart representing Ethnic Groups in the x axis and Share of population in the y axis. ",
+      "Ethnic Groups White has the highest Share of population and Gypsy/Traveller/Irish traveller has the lowest Share of population. ",
       "The difference of Share of population between the highest and lowest Ethnic Groups is 57.2. "
    ],
    "max_summary": [
       "This is a bar chart. It shows Share of population for 6 number of Ethnic Groupss. ",
       "Ethnic Groups White has the highest Share of population and Gypsy/Traveller/Irish traveller has the lowest Share of population. ",
-      "Second maximum Share of population is found at Ethnic Groups Black / African / Caribbean / Black British. ",
-      "There is a difference of 57.2 between the maximum Ethnic Groups White and minimum Ethnic Groups Gypsy/Traveller/Irish traveller. ",
+      "The difference of Share of population between the highest and lowest Ethnic Groups is 57.2. ",
       "The Ethnic Groups White has the highest Share of population, followed by Black / African / Caribbean / Black British, and Asian / Asian British. Down to the Ethnic Groups Gypsy/Traveller/Irish traveller which is the lowest. ",
-      "The highest value 57.3 at White is almost 3.43 times larger than the average value 16.72. ",
-      "The Share of population is 100.3 if we add up values of all Ethnic Groupss. "
+      "The lowest value 0.1 at Gypsy/Traveller/Irish traveller is almost 3.43 times smaller than the average value 16.72. "
    ],
    "trends": [
       {},

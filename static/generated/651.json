@@ -13,31 +13,31 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart shows SOME LABEL on the Y-axis for 11 different Responses for 6 groups Google, Yahoo, Bing, AOL, Ask, and Other that are presented on the X-axis. ",
+      "This grouped bar chart represents 11 different Responses on X-axis for 6 groups Google, Yahoo, Bing, AOL, Ask, and Other. On the Y-axis it shows their corresponding SOME LABEL. ",
       " In Response Five words, Bing had the highest SOME LABEL 8704.0 among the 6 groups and in Ten or more words, AOL had the lowest SOME LABEL 0.0. ",
-      " In Response One word, Google had the maximum SOME LABEL and it saw the lowest in Response Nine words out of all 11 Responses. ",
-      " The maximum SOME LABEL for Google that was found in Response One word was 60.75 times larger than the minimum SOME LABEL observed in Response Nine words. "
+      " Among all the Responses, Other had the highest SOME LABEL 2958.0 in Response One word and lowest value 0.0 in Response Eight words. ",
+      " The maximum SOME LABEL for Other that was found in Response One word was 0 times larger than the minimum SOME LABEL observed in Response Eight words. "
    ],
    "xAxis": "Response",
    "yAxis": "SOME LABEL",
    "min_summary": [
-      "This grouped bar chart shows SOME LABEL on the Y-axis for 11 different Responses for 6 groups Google, Yahoo, Bing, AOL, Ask, and Other that are presented on the X-axis. ",
+      "This grouped bar chart represents 11 different Responses on X-axis for 6 groups Google, Yahoo, Bing, AOL, Ask, and Other. On the Y-axis it shows their corresponding SOME LABEL. ",
       " In Response Five words, Bing had the highest SOME LABEL 8704.0 among the 6 groups and in Ten or more words, AOL had the lowest SOME LABEL 0.0. "
    ],
    "mid_summary": [
-      "This grouped bar chart shows SOME LABEL on the Y-axis for 11 different Responses for 6 groups Google, Yahoo, Bing, AOL, Ask, and Other that are presented on the X-axis. ",
+      "This grouped bar chart represents 11 different Responses on X-axis for 6 groups Google, Yahoo, Bing, AOL, Ask, and Other. On the Y-axis it shows their corresponding SOME LABEL. ",
       " In Response Five words, Bing had the highest SOME LABEL 8704.0 among the 6 groups and in Ten or more words, AOL had the lowest SOME LABEL 0.0. ",
-      " In Response One word, Google had the maximum SOME LABEL and it saw the lowest in Response Nine words out of all 11 Responses. ",
-      " The maximum SOME LABEL for Google that was found in Response One word was 60.75 times larger than the minimum SOME LABEL observed in Response Nine words. "
+      " Among all the Responses, Other had the highest SOME LABEL 2958.0 in Response One word and lowest value 0.0 in Response Eight words. ",
+      " The maximum SOME LABEL for Other that was found in Response One word was 0 times larger than the minimum SOME LABEL observed in Response Eight words. "
    ],
    "max_summary": [
-      "This grouped bar chart represents 11 different Responses on X-axis for 6 groups Google, Yahoo, Bing, AOL, Ask, and Other. On the Y-axis it shows their corresponding SOME LABEL. ",
-      " Out of all 6 groups, Bing had the highest SOME LABEL in Response Five words and AOL had the lowest SOME LABEL in Response Ten or more words. ",
-      " Among all the Responses, Google had the highest SOME LABEL 3888.0 in Response One word and lowest value 64.0 in Response Nine words. ",
-      "Response One word and Nine words had the biggest gap of 3824.0 between the highest and lowest SOME LABEL found for Google. ",
-      " Among the groups, Bing had the biggest difference in SOME LABEL. Where the maximum SOME LABEL was 3.42 times larger than the minimum SOME LABEL. ",
-      " Bing had the maximum SOME LABEL out of all 6 groups in Response Five words followed by Bing in Five words, and the minimum SOME LABEL is found for AOL in Ten or more words. ",
-      "Averaging all 6 groups Google, Yahoo, Bing, AOL, Ask, and Other, the Response Total is the maximum SOME LABEL and Three words is the minimum SOME LABEL. "
+      "This grouped bar chart shows SOME LABEL on the Y-axis for 11 different Responses for 6 groups Google, Yahoo, Bing, AOL, Ask, and Other that are presented on the X-axis. ",
+      " Response Five words had the maximum SOME LABEL among all 6 groups, and it was for Bing. The minimum SOME LABEL was observed in Response Ten or more words for AOL. ",
+      " Among all the Responses, Other had the highest SOME LABEL in Response One word and lowest SOME LABEL in Response Eight words. ",
+      "Response One word and Eight words had the biggest gap of 2958.0 between the highest and lowest SOME LABEL found for Other. ",
+      " Among all 6 groups, Bing had the gap of 6157.0 between the maximum and minimum SOME LABEL observed in Response Five words and One word respectively. ",
+      " In Response Five words, Bing had the highest SOME LABEL 8704.0 among the 6 groups and in Ten or more words, AOL had the lowest SOME LABEL 0.0. The second highest SOME LABEL 942.0 was observed for Bing in Response Five words. ",
+      "On average, the Response Total had the highest SOME LABEL for all 6 groups Google, Yahoo, Bing, AOL, Ask, and Other. Whereas Three words had the lowest average SOME LABEL. "
    ],
    "trends": [
       {},

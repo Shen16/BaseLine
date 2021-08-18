@@ -7,23 +7,23 @@
    "summaryType": "baseline",
    "summary": [
       "This bar chart has 2 columns on the x axis representing Day, and Circulation in each Day on the y axis. ",
-      "The maximum Circulation 378602.0 is found at Day Sunday and the minimum is found at Daily where Day is 130283.0. ",
-      "There is a difference of 248319.0 between the maximum Day Sunday and minimum Day Daily. "
+      "Day Sunday has the highest Circulation and Daily has the lowest Circulation. ",
+      "Day Sunday has 2.91 times more Circulation than Day Daily which is has the lowest. "
    ],
    "min_summary": [
-      "This bar chart has 2 columns on the x axis representing Day, and Circulation in each Day on the y axis. ",
-      "Day Sunday has the highest Circulation and Daily has the lowest Circulation. "
+      "This is a bar chart representing Day in the x axis and Circulation in the y axis. ",
+      "The maximum Circulation 378602.0 is found at Day Sunday and the minimum is found at Daily where Day is 130283.0. "
    ],
    "mid_summary": [
       "This bar chart has 2 columns on the x axis representing Day, and Circulation in each Day on the y axis. ",
-      "The maximum Circulation 378602.0 is found at Day Sunday and the minimum is found at Daily where Day is 130283.0. ",
-      "There is a difference of 248319.0 between the maximum Day Sunday and minimum Day Daily. "
+      "Day Sunday has the highest Circulation and Daily has the lowest Circulation. ",
+      "Day Sunday has 2.91 times more Circulation than Day Daily which is has the lowest. "
    ],
    "max_summary": [
       "This bar chart has 2 columns on the x axis representing Day, and Circulation in each Day on the y axis. ",
-      "The Circulation is appeared to be the highest at Day Sunday and lowest at Day Daily. ",
-      "The Circulation of Day Sunday is 2.91% larger than the minimum value at Daily. ",
-      "Considered together, the average Circulation in all 2 Days is roughly 254442.5. "
+      "Day Sunday has the highest Circulation and Daily has the lowest Circulation. ",
+      "The highest Day Sunday has 248319.0 more Circulation than the lowest Day Daily. ",
+      "The Day Sunday tends to be 1.49 percent higher than average. "
    ],
    "trends": [
       {},

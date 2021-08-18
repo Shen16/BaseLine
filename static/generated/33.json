@@ -6,28 +6,27 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This is a bar chart representing Country in the x axis and Number of reactors in the y axis. ",
-      "Country United States has the highest Number of reactors and Iran has the lowest Number of reactors. ",
-      "The minimum Country Iran has got 97.0 times less Number of reactors than the maximum Country United States. "
+      "This is a bar chart. It shows Number of reactors for 30 number of Countrys. ",
+      "The Number of reactors is highest at Country United States and lowest at Country Iran. ",
+      "The highest Country United States has 96.0 more Number of reactors than the lowest Country Iran. "
    ],
    "min_summary": [
-      "This is a bar chart. It shows Number of reactors for 30 number of Countrys. ",
-      "Country United States has the highest Number of reactors and Iran has the lowest Number of reactors. "
+      "This is a bar chart representing Country in the x axis and Number of reactors in the y axis. ",
+      "The maximum Number of reactors 97.0 is found at Country United States and the minimum is found at Iran where Country is 1.0. "
    ],
    "mid_summary": [
-      "This is a bar chart representing Country in the x axis and Number of reactors in the y axis. ",
-      "Country United States has the highest Number of reactors and Iran has the lowest Number of reactors. ",
-      "The minimum Country Iran has got 97.0 times less Number of reactors than the maximum Country United States. "
+      "This is a bar chart. It shows Number of reactors for 30 number of Countrys. ",
+      "The Number of reactors is highest at Country United States and lowest at Country Iran. ",
+      "The highest Country United States has 96.0 more Number of reactors than the lowest Country Iran. "
    ],
    "max_summary": [
-      "This is a bar chart. It shows Number of reactors for 30 number of Countrys. ",
-      "The Number of reactors is appeared to be the highest at Country United States and lowest at Country Iran. ",
-      "Country France has the second highest value for Number of reactors. ",
+      "This bar chart has 30 columns on the x axis representing Country, and Number of reactors in each Country on the y axis. ",
+      "The maximum Number of reactors 97.0 is found at Country United States and the minimum is found at Iran where Country is 1.0. ",
+      "The second highest Number of reactors is appeared to be the Country France. ",
       "The highest Country United States has 96.0 more Number of reactors than the lowest Country Iran. ",
-      "The Country United States has the highest Number of reactors, followed by France, and China. Down to the Country Iran which is the lowest. ",
-      "Country Mexico, Romania, South Africa, Brazil, and Bulgaria have the same Number of reactors. ",
-      "The lowest value 1.0 at Iran is almost 6.58 times smaller than the average value 14.73. ",
-      "The Number of reactors is 442.0 if we add up values of all Countrys. "
+      "Country United States is higher than any other Countrys with value 97.0, followed by France, and China. Down to Country Iran with the lowest value 1.0. ",
+      "Similar Number of reactors is found in Country Mexico, Romania, South Africa, Brazil, and Bulgaria. ",
+      "The Country Iran has 6.58 times less Number of reactors than average. "
    ],
    "trends": [
       {},

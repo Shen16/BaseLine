@@ -6,7 +6,7 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This is a bar chart. It shows Number of live births for 31 number of Years 1900-1930s. ",
+      "This is a bar chart representing Years 1900-1930 in the x axis and Number of live births in the y axis. ",
       "The Number of live births is highest at Years 1900-1930 '20 and lowest at Years 1900-1930 '29. ",
       "The highest Years 1900-1930 '20 has 364886.0 more Number of live births than the lowest Years 1900-1930 '29. "
    ],
@@ -15,18 +15,17 @@
       "Years 1900-1930 '20 has the highest Number of live births and '29 has the lowest Number of live births. "
    ],
    "mid_summary": [
-      "This is a bar chart. It shows Number of live births for 31 number of Years 1900-1930s. ",
+      "This is a bar chart representing Years 1900-1930 in the x axis and Number of live births in the y axis. ",
       "The Number of live births is highest at Years 1900-1930 '20 and lowest at Years 1900-1930 '29. ",
       "The highest Years 1900-1930 '20 has 364886.0 more Number of live births than the lowest Years 1900-1930 '29. "
    ],
    "max_summary": [
-      "This is a bar chart representing Years 1900-1930 in the x axis and Number of live births in the y axis. ",
-      "The Number of live births is appeared to be the highest at Years 1900-1930 '20 and lowest at Years 1900-1930 '29. ",
-      "Years 1900-1930 '03 has the second highest value for Number of live births. ",
-      "There is a difference of 364886.0 between the maximum Years 1900-1930 '20 and minimum Years 1900-1930 '29. ",
+      "This bar chart has 31 columns on the x axis representing Years 1900-1930, and Number of live births in each Years 1900-1930 on the y axis. ",
+      "The Number of live births is highest at Years 1900-1930 '20 and lowest at Years 1900-1930 '29. ",
+      "Second maximum Number of live births is found at Years 1900-1930 '03. ",
+      "The highest Years 1900-1930 '20 has 364886.0 more Number of live births than the lowest Years 1900-1930 '29. ",
       "Years 1900-1930 '20 is higher than any other Years 1900-1930s with value 1126849.0, followed by '03, and '04. Down to Years 1900-1930 '29 with the lowest value 761963.0. ",
-      "The average Number of live births in all 31 Years 1900-1930s is 967415.32. ",
-      "The Number of live births is 29989875.0 if we add up values of all Years 1900-1930s. "
+      "The lowest value 761963.0 at '29 is almost 1.16 times smaller than the average value 967415.32. "
    ],
    "trends": [
       {},

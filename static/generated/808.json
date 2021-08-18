@@ -6,25 +6,26 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This is a bar chart representing Country in the x axis and Capture in million metric tons in the y axis. ",
-      "The Capture in million metric tons is appeared to be the highest at Country China and lowest at Country Myanmar. ",
-      "There is a difference of 13.22 between the maximum Country China and minimum Country Myanmar. "
+      "This is a bar chart. It shows Capture in million metric tons for 10 number of Countrys. ",
+      "Country China has the highest Capture in million metric tons and Myanmar has the lowest Capture in million metric tons. ",
+      "The difference of Capture in million metric tons between the highest and lowest Country is 13.22. "
    ],
    "min_summary": [
-      "This is a bar chart representing Country in the x axis and Capture in million metric tons in the y axis. ",
-      "The maximum Capture in million metric tons 15.37 is found at Country China and the minimum is found at Myanmar where Country is 2.15. "
+      "This bar chart has 10 columns on the x axis representing Country, and Capture in million metric tons in each Country on the y axis. ",
+      "The Capture in million metric tons is highest at Country China and lowest at Country Myanmar. "
    ],
    "mid_summary": [
-      "This is a bar chart representing Country in the x axis and Capture in million metric tons in the y axis. ",
-      "The Capture in million metric tons is appeared to be the highest at Country China and lowest at Country Myanmar. ",
-      "There is a difference of 13.22 between the maximum Country China and minimum Country Myanmar. "
+      "This is a bar chart. It shows Capture in million metric tons for 10 number of Countrys. ",
+      "Country China has the highest Capture in million metric tons and Myanmar has the lowest Capture in million metric tons. ",
+      "The difference of Capture in million metric tons between the highest and lowest Country is 13.22. "
    ],
    "max_summary": [
       "This is a bar chart representing Country in the x axis and Capture in million metric tons in the y axis. ",
       "Country China has the highest Capture in million metric tons and Myanmar has the lowest Capture in million metric tons. ",
       "The difference of Capture in million metric tons between the highest and lowest Country is 13.22. ",
-      "Capture in million metric tons at Country China is 15.37 , second place is Indonesia at 6.69, and thirdly is India at 5.43.",
-      "The Country China has 2.92 times more Capture in million metric tons than average. "
+      "The Country China has the highest Capture in million metric tons, followed by Indonesia, and India. Down to the Country Myanmar which is the lowest. ",
+      "The Country China tends to be 2.92 percent higher than average. ",
+      "The Capture in million metric tons is 52.56 if we add up values of all Countrys. "
    ],
    "trends": [
       {},

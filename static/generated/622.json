@@ -10,28 +10,28 @@
    "summaryType": "baseline",
    "summary": [
       "This grouped bar chart represents 13 different Countrys on X-axis for 2 groups Winner, and Runner-up. On the Y-axis it shows their corresponding SOME LABEL. ",
-      " In Country Spain, Winner had the highest SOME LABEL 3.0 among the 2 groups and in Yugoslavia, Winner had the lowest SOME LABEL 0.0. ",
-      " In Country USSR, Runner-up had the highest SOME LABEL among all 13 Countrys and it has the lowest SOME LABEL in Country Czechoslovakia. ",
-      "Country USSR and Czechoslovakia had the biggest gap of 3.0 between the highest and lowest SOME LABEL found for Runner-up. "
+      " Country Spain had the maximum SOME LABEL among all 2 groups, and it was for Winner. The minimum SOME LABEL was observed in Country Yugoslavia for Winner. ",
+      " Among all the Countrys, Winner had the highest SOME LABEL in Country Spain and lowest SOME LABEL in Country Yugoslavia. ",
+      "Country Spain and Yugoslavia had the biggest gap of 2.0 between the highest and lowest SOME LABEL found for Winner. "
    ],
    "xAxis": "Country",
    "yAxis": "SOME LABEL",
    "min_summary": [
       "This grouped bar chart represents 13 different Countrys on X-axis for 2 groups Winner, and Runner-up. On the Y-axis it shows their corresponding SOME LABEL. ",
-      " In Country Spain, Winner had the highest SOME LABEL 3.0 among the 2 groups and in Yugoslavia, Winner had the lowest SOME LABEL 0.0. "
+      " Out of all 2 groups, Winner had the highest SOME LABEL in Country Spain and Winner had the lowest SOME LABEL in Country Yugoslavia. "
    ],
    "mid_summary": [
       "This grouped bar chart represents 13 different Countrys on X-axis for 2 groups Winner, and Runner-up. On the Y-axis it shows their corresponding SOME LABEL. ",
-      " In Country Spain, Winner had the highest SOME LABEL 3.0 among the 2 groups and in Yugoslavia, Winner had the lowest SOME LABEL 0.0. ",
-      " In Country USSR, Runner-up had the highest SOME LABEL among all 13 Countrys and it has the lowest SOME LABEL in Country Czechoslovakia. ",
-      "Country USSR and Czechoslovakia had the biggest gap of 3.0 between the highest and lowest SOME LABEL found for Runner-up. "
+      " Country Spain had the maximum SOME LABEL among all 2 groups, and it was for Winner. The minimum SOME LABEL was observed in Country Yugoslavia for Winner. ",
+      " Among all the Countrys, Winner had the highest SOME LABEL in Country Spain and lowest SOME LABEL in Country Yugoslavia. ",
+      "Country Spain and Yugoslavia had the biggest gap of 2.0 between the highest and lowest SOME LABEL found for Winner. "
    ],
    "max_summary": [
-      "This grouped bar chart shows SOME LABEL on the Y-axis for 13 different Countrys for 2 groups Winner, and Runner-up that are presented on the X-axis. ",
+      "This grouped bar chart represents 13 different Countrys on X-axis for 2 groups Winner, and Runner-up. On the Y-axis it shows their corresponding SOME LABEL. ",
       " Country Spain had the maximum SOME LABEL among all 2 groups, and it was for Winner. The minimum SOME LABEL was observed in Country Yugoslavia for Winner. ",
-      " Among all the Countrys, Runner-up had the highest SOME LABEL in Country USSR and lowest SOME LABEL in Country Czechoslovakia. ",
-      "Country USSR and Czechoslovakia had the biggest gap of 3.0 between the highest and lowest SOME LABEL found for Runner-up. ",
-      " Among all 2 groups, Winner had the gap of 3.0 between the maximum and minimum SOME LABEL observed in Country Spain and Yugoslavia respectively. ",
+      " Among all the Countrys, Winner had the highest SOME LABEL 3.0 in Country Spain and lowest value 0.0 in Country Yugoslavia. ",
+      "Country Spain and Yugoslavia had the biggest gap of 2.0 between the highest and lowest SOME LABEL found for Winner. ",
+      " Among the groups, Winner had the biggest difference in SOME LABEL. Where the maximum SOME LABEL was 3.0 times larger than the minimum SOME LABEL. ",
       "Averaging all 2 groups Winner, and Runner-up, the Country Germany is the maximum SOME LABEL and Czechoslovakia is the minimum SOME LABEL. "
    ],
    "trends": [

@@ -7,24 +7,25 @@
    "summaryType": "baseline",
    "summary": [
       "This is a bar chart representing Optical retailer in the x axis and Sales in million U.S. dollars in the y axis. ",
-      "Optical retailer Vision Source has the highest Sales in million U.S. dollars and Emerging Vision Inc. has the lowest Sales in million U.S. dollars. ",
+      "The maximum Sales in million U.S. dollars 2840.0 is found at Optical retailer Vision Source and the minimum is found at Emerging Vision Inc. where Optical retailer is 110.4. ",
       "The highest Optical retailer Vision Source has 2729.6 more Sales in million U.S. dollars than the lowest Optical retailer Emerging Vision Inc.. "
    ],
    "min_summary": [
       "This is a bar chart representing Optical retailer in the x axis and Sales in million U.S. dollars in the y axis. ",
-      "The maximum Sales in million U.S. dollars 2840.0 is found at Optical retailer Vision Source and the minimum is found at Emerging Vision Inc. where Optical retailer is 110.4. "
+      "The Sales in million U.S. dollars is appeared to be the highest at Optical retailer Vision Source and lowest at Optical retailer Emerging Vision Inc.. "
    ],
    "mid_summary": [
       "This is a bar chart representing Optical retailer in the x axis and Sales in million U.S. dollars in the y axis. ",
-      "Optical retailer Vision Source has the highest Sales in million U.S. dollars and Emerging Vision Inc. has the lowest Sales in million U.S. dollars. ",
+      "The maximum Sales in million U.S. dollars 2840.0 is found at Optical retailer Vision Source and the minimum is found at Emerging Vision Inc. where Optical retailer is 110.4. ",
       "The highest Optical retailer Vision Source has 2729.6 more Sales in million U.S. dollars than the lowest Optical retailer Emerging Vision Inc.. "
    ],
    "max_summary": [
-      "This bar chart has 15 columns on the x axis representing Optical retailer, and Sales in million U.S. dollars in each Optical retailer on the y axis. ",
-      "The Sales in million U.S. dollars is highest at Optical retailer Vision Source and lowest at Optical retailer Emerging Vision Inc.. ",
-      "The difference of Sales in million U.S. dollars between the highest and lowest Optical retailer is 2729.6. ",
-      "Optical retailer Vision Source is higher than any other Optical retailers with value 2840.0, followed by Luxottica retail, and Walmart stores. Down to Optical retailer Emerging Vision Inc. with the lowest value 110.4. ",
-      "The lowest value 110.4 at Emerging Vision Inc. is almost 3.25 times smaller than the average value 873.27. "
+      "This is a bar chart. It shows Sales in million U.S. dollars for 15 number of Optical retailers. ",
+      "The maximum Sales in million U.S. dollars 2840.0 is found at Optical retailer Vision Source and the minimum is found at Emerging Vision Inc. where Optical retailer is 110.4. ",
+      "Optical retailer Vision Source has 25.72 times more Sales in million U.S. dollars than Optical retailer Emerging Vision Inc. which is has the lowest. ",
+      "The Optical retailer Vision Source has the highest Sales in million U.S. dollars, followed by Luxottica retail, and Walmart stores. Down to the Optical retailer Emerging Vision Inc. which is the lowest. ",
+      "The Optical retailer Vision Source tends to be 3.25 percent higher than average. ",
+      "Summing up the values of all Optical retailers, we get total 13099.1. "
    ],
    "trends": [
       {},

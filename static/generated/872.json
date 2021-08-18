@@ -6,28 +6,27 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This is a bar chart. It shows Salary in million U.S. dollars for 20 number of Baseball Players. ",
-      "The maximum Salary in million U.S. dollars 38.33 is found at Baseball Player Stephen Strasburg and the minimum is found at Jason Heyward where Baseball Player is 22.5. ",
+      "This is a bar chart representing Baseball Player in the x axis and Salary in million U.S. dollars in the y axis. ",
+      "The Salary in million U.S. dollars is highest at Baseball Player Stephen Strasburg and lowest at Baseball Player Jason Heyward. ",
       "The highest Baseball Player Stephen Strasburg has 15.83 more Salary in million U.S. dollars than the lowest Baseball Player Jason Heyward. "
    ],
    "min_summary": [
       "This is a bar chart representing Baseball Player in the x axis and Salary in million U.S. dollars in the y axis. ",
-      "The Salary in million U.S. dollars is highest at Baseball Player Stephen Strasburg and lowest at Baseball Player Jason Heyward. "
+      "The Salary in million U.S. dollars is appeared to be the highest at Baseball Player Stephen Strasburg and lowest at Baseball Player Jason Heyward. "
    ],
    "mid_summary": [
-      "This is a bar chart. It shows Salary in million U.S. dollars for 20 number of Baseball Players. ",
-      "The maximum Salary in million U.S. dollars 38.33 is found at Baseball Player Stephen Strasburg and the minimum is found at Jason Heyward where Baseball Player is 22.5. ",
+      "This is a bar chart representing Baseball Player in the x axis and Salary in million U.S. dollars in the y axis. ",
+      "The Salary in million U.S. dollars is highest at Baseball Player Stephen Strasburg and lowest at Baseball Player Jason Heyward. ",
       "The highest Baseball Player Stephen Strasburg has 15.83 more Salary in million U.S. dollars than the lowest Baseball Player Jason Heyward. "
    ],
    "max_summary": [
-      "This is a bar chart. It shows Salary in million U.S. dollars for 20 number of Baseball Players. ",
-      "The Salary in million U.S. dollars is appeared to be the highest at Baseball Player Stephen Strasburg and lowest at Baseball Player Jason Heyward. ",
-      "The second highest Salary in million U.S. dollars is appeared to be the Baseball Player Max Scherzer. ",
-      "The difference of Salary in million U.S. dollars between the highest and lowest Baseball Player is 15.83. ",
-      "Baseball Player Stephen Strasburg is higher than any other Baseball Players with value 38.33, followed by Max Scherzer, and Zack Greinke. Down to Baseball Player Jason Heyward with the lowest value 22.5. ",
-      "Similar Salary in million U.S. dollars is found in Baseball Player Jake Arrieta, Jordan Zimmermann, and Joey Votto. ",
+      "This is a bar chart representing Baseball Player in the x axis and Salary in million U.S. dollars in the y axis. ",
+      "The maximum Salary in million U.S. dollars 38.33 is found at Baseball Player Stephen Strasburg and the minimum is found at Jason Heyward where Baseball Player is 22.5. ",
+      "The highest Baseball Player Stephen Strasburg has 15.83 more Salary in million U.S. dollars than the lowest Baseball Player Jason Heyward. ",
+      "Salary in million U.S. dollars at Baseball Player Stephen Strasburg is 38.33 , second place is Max Scherzer at 37.41, and thirdly is Zack Greinke at 34.5.",
+      "Baseball Player Jake Arrieta, Jordan Zimmermann, and Joey Votto have a similar Salary in million U.S. dollars that is 25.0. ",
       "The Baseball Player Stephen Strasburg tends to be 1.36 percent higher than average. ",
-      "Summing up the values of all Baseball Players, we get total 562.85. "
+      "The Salary in million U.S. dollars is 562.85 if we add up values of all Baseball Players. "
    ],
    "trends": [
       {},

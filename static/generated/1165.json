@@ -9,10 +9,10 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart shows SOME LABEL on the Y-axis for 4 different Responses for 2 groups Remain, and Leave that are presented on the X-axis. ",
-      " Response Upper Working-Class (C2) had the maximum SOME LABEL among all 2 groups, and it was for Leave. The minimum SOME LABEL was observed in Response Lower Working-Class (DE) for Remain. ",
-      " Among all the Responses, Leave had the highest SOME LABEL 64.0 in Response Upper Working-Class (C2) and lowest value 43.0 in Response Upper Middle-Class (AB). ",
-      " The maximum SOME LABEL for Leave that was found in Response Upper Working-Class (C2) was 1.49 times larger than the minimum SOME LABEL observed in Response Upper Middle-Class (AB). "
+      "This grouped bar chart represents 4 different Responses on X-axis for 2 groups Remain, and Leave. On the Y-axis it shows their corresponding SOME LABEL. ",
+      " In Response Upper Working-Class (C2), Leave had the highest SOME LABEL 64.0 among the 2 groups and in Lower Working-Class (DE), Remain had the lowest SOME LABEL 36.0. ",
+      " Among all the Responses, Leave had the highest SOME LABEL in Response Upper Working-Class (C2) and lowest SOME LABEL in Response Upper Middle-Class (AB). ",
+      " There is a gap of 21.0 between the highest and lowest SOME LABEL found for Leave in Response Upper Working-Class (C2) and Upper Middle-Class (AB). "
    ],
    "xAxis": "Response",
    "yAxis": "SOME LABEL",
@@ -21,17 +21,17 @@
       " In Response Upper Working-Class (C2), Leave had the highest SOME LABEL 64.0 among the 2 groups and in Lower Working-Class (DE), Remain had the lowest SOME LABEL 36.0. "
    ],
    "mid_summary": [
-      "This grouped bar chart shows SOME LABEL on the Y-axis for 4 different Responses for 2 groups Remain, and Leave that are presented on the X-axis. ",
-      " Response Upper Working-Class (C2) had the maximum SOME LABEL among all 2 groups, and it was for Leave. The minimum SOME LABEL was observed in Response Lower Working-Class (DE) for Remain. ",
-      " Among all the Responses, Leave had the highest SOME LABEL 64.0 in Response Upper Working-Class (C2) and lowest value 43.0 in Response Upper Middle-Class (AB). ",
-      " The maximum SOME LABEL for Leave that was found in Response Upper Working-Class (C2) was 1.49 times larger than the minimum SOME LABEL observed in Response Upper Middle-Class (AB). "
+      "This grouped bar chart represents 4 different Responses on X-axis for 2 groups Remain, and Leave. On the Y-axis it shows their corresponding SOME LABEL. ",
+      " In Response Upper Working-Class (C2), Leave had the highest SOME LABEL 64.0 among the 2 groups and in Lower Working-Class (DE), Remain had the lowest SOME LABEL 36.0. ",
+      " Among all the Responses, Leave had the highest SOME LABEL in Response Upper Working-Class (C2) and lowest SOME LABEL in Response Upper Middle-Class (AB). ",
+      " There is a gap of 21.0 between the highest and lowest SOME LABEL found for Leave in Response Upper Working-Class (C2) and Upper Middle-Class (AB). "
    ],
    "max_summary": [
       "This grouped bar chart represents 4 different Responses on X-axis for 2 groups Remain, and Leave. On the Y-axis it shows their corresponding SOME LABEL. ",
       " Response Upper Working-Class (C2) had the maximum SOME LABEL among all 2 groups, and it was for Leave. The minimum SOME LABEL was observed in Response Lower Working-Class (DE) for Remain. ",
-      " In Response Upper Working-Class (C2), Leave had the highest SOME LABEL among all 4 Responses and it has the lowest SOME LABEL in Response Upper Middle-Class (AB). ",
-      "Response Upper Working-Class (C2) and Upper Middle-Class (AB) had the biggest gap of 21.0 between the highest and lowest SOME LABEL found for Leave. ",
-      " Among the groups, Remain had the biggest difference in SOME LABEL. Where the maximum SOME LABEL was 1.58 times larger than the minimum SOME LABEL. ",
+      " Among all the Responses, Leave had the highest SOME LABEL 64.0 in Response Upper Working-Class (C2) and lowest value 43.0 in Response Upper Middle-Class (AB). ",
+      " The maximum SOME LABEL for Leave that was found in Response Upper Working-Class (C2) was 1.49 times larger than the minimum SOME LABEL observed in Response Upper Middle-Class (AB). ",
+      " Among all 2 groups, Remain had the gap of 21.0 between the maximum and minimum SOME LABEL observed in Response Upper Middle-Class (AB) and Lower Working-Class (DE) respectively. ",
       "Averaging all 2 groups Remain, and Leave, the Response Upper Middle-Class (AB) is the maximum SOME LABEL and Lower Working-Class (DE) is the minimum SOME LABEL. "
    ],
    "trends": [

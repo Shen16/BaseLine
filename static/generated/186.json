@@ -7,27 +7,26 @@
    "summaryType": "baseline",
    "summary": [
       "This is a bar chart. It shows Sales value in million GBP for 10 number of Months. ",
-      "Month Sterling has the highest Sales value in million GBP and Windsor has the lowest Sales value in million GBP. ",
-      "The Sales value in million GBP of Month Windsor is 3.27% smaller than the maximum value at Sterling. "
+      "The Sales value in million GBP is highest at Month Sterling and lowest at Month Windsor. ",
+      "The highest Month Sterling has 1049.4 more Sales value in million GBP than the lowest Month Windsor. "
    ],
    "min_summary": [
-      "This is a bar chart. It shows Sales value in million GBP for 10 number of Months. ",
-      "The Sales value in million GBP is highest at Month Sterling and lowest at Month Windsor. "
+      "This is a bar chart representing Month in the x axis and Sales value in million GBP in the y axis. ",
+      "The maximum Sales value in million GBP 1511.3 is found at Month Sterling and the minimum is found at Windsor where Month is 461.9. "
    ],
    "mid_summary": [
       "This is a bar chart. It shows Sales value in million GBP for 10 number of Months. ",
-      "Month Sterling has the highest Sales value in million GBP and Windsor has the lowest Sales value in million GBP. ",
-      "The Sales value in million GBP of Month Windsor is 3.27% smaller than the maximum value at Sterling. "
+      "The Sales value in million GBP is highest at Month Sterling and lowest at Month Windsor. ",
+      "The highest Month Sterling has 1049.4 more Sales value in million GBP than the lowest Month Windsor. "
    ],
    "max_summary": [
       "This bar chart has 10 columns on the x axis representing Month, and Sales value in million GBP in each Month on the y axis. ",
-      "The maximum Sales value in million GBP 1511.3 is found at Month Sterling and the minimum is found at Windsor where Month is 461.9. ",
-      "Month Mayfair has the second highest value for Sales value in million GBP. ",
-      "The maximum Month Sterling has got 3.27 times higher Sales value in million GBP than the minimum Month Windsor. ",
-      "Sales value in million GBP at Month Sterling is 1511.3 , second place is Mayfair at 1046.1, and thirdly is Lambert and Butler at 787.7.",
-      "The Sales value in million GBP has declined over the past 10 Months. ",
+      "The Sales value in million GBP is appeared to be the highest at Month Sterling and lowest at Month Windsor. ",
+      "Month Windsor has 3.27 times less Sales value in million GBP than Month Sterling which is the highest. ",
+      "Month Sterling is higher than any other Months with value 1511.3, followed by Mayfair, and Lambert and Butler. Down to Month Windsor with the lowest value 461.9. ",
+      "Overall Sales value in million GBP has lowered over the Months. ",
       "The average Sales value in million GBP in all 10 Months is 775.37. ",
-      "The Sales value in million GBP is 7753.7 if we add up values of all Months. "
+      "Summing up the values of all Months, we get total 7753.7. "
    ],
    "trends": [
       {},

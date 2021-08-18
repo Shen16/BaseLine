@@ -7,24 +7,25 @@
    "summaryType": "baseline",
    "summary": [
       "This bar chart has 3 columns on the x axis representing Days, and Average cost in U.S. dollars in each Days on the y axis. ",
-      "The Average cost in U.S. dollars is appeared to be the highest at Days Per year and lowest at Days Per day. ",
-      "There is a difference of 1031.86 between the maximum Days Per year and minimum Days Per day. "
+      "The Average cost in U.S. dollars is highest at Days Per year and lowest at Days Per day. ",
+      "The difference of Average cost in U.S. dollars between the highest and lowest Days is 1031.86. "
    ],
    "min_summary": [
-      "This is a bar chart representing Days in the x axis and Average cost in U.S. dollars in the y axis. ",
-      "The maximum Average cost in U.S. dollars 1043.0 is found at Days Per year and the minimum is found at Per day where Days is 11.14. "
+      "This bar chart has 3 columns on the x axis representing Days, and Average cost in U.S. dollars in each Days on the y axis. ",
+      "The Average cost in U.S. dollars is appeared to be the highest at Days Per year and lowest at Days Per day. "
    ],
    "mid_summary": [
       "This bar chart has 3 columns on the x axis representing Days, and Average cost in U.S. dollars in each Days on the y axis. ",
-      "The Average cost in U.S. dollars is appeared to be the highest at Days Per year and lowest at Days Per day. ",
-      "There is a difference of 1031.86 between the maximum Days Per year and minimum Days Per day. "
+      "The Average cost in U.S. dollars is highest at Days Per year and lowest at Days Per day. ",
+      "The difference of Average cost in U.S. dollars between the highest and lowest Days is 1031.86. "
    ],
    "max_summary": [
-      "This is a bar chart. It shows Average cost in U.S. dollars for 3 number of Dayss. ",
-      "The maximum Average cost in U.S. dollars 1043.0 is found at Days Per year and the minimum is found at Per day where Days is 11.14. ",
-      "Second maximum Average cost in U.S. dollars is found at Days Per week. ",
+      "This is a bar chart representing Days in the x axis and Average cost in U.S. dollars in the y axis. ",
+      "The Average cost in U.S. dollars is highest at Days Per year and lowest at Days Per day. ",
+      "The second highest Average cost in U.S. dollars is appeared to be the Days Per week. ",
       "The difference of Average cost in U.S. dollars between the highest and lowest Days is 1031.86. ",
-      "Considered together, the average Average cost in U.S. dollars in all 3 Dayss is roughly 358.06. "
+      "The highest value 1043.0 at Per year is almost 2.91 times larger than the average value 358.06. ",
+      "The Average cost in U.S. dollars is 1074.19 if we add up values of all Dayss. "
    ],
    "trends": [
       {},

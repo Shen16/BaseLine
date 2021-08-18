@@ -9,29 +9,29 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart represents 2 different Awards on X-axis for 2 groups White, and Other Ethnicities. On the Y-axis it shows their corresponding SOME LABEL. ",
-      " In Award Best Actress, White had the highest SOME LABEL 989.0 among the 2 groups and in Best Actress, Other Ethnicities had the lowest SOME LABEL 11.0. ",
-      " Among all the Awards, Other Ethnicities had the highest SOME LABEL 68.0 in Award Best Actor and lowest value 11.0 in Award Best Actress. ",
-      "Award Best Actor and Best Actress had the biggest gap of 57.0 between the highest and lowest SOME LABEL found for Other Ethnicities. "
+      "This grouped bar chart shows SOME LABEL on the Y-axis for 2 different Awards for 2 groups White, and Other Ethnicities that are presented on the X-axis. ",
+      " Out of all 2 groups, White had the highest SOME LABEL in Award Best Actress and Other Ethnicities had the lowest SOME LABEL in Award Best Actress. ",
+      " Among all the Awards, White had the highest SOME LABEL 989.0 in Award Best Actress and lowest value 932.0 in Award Best Actor. ",
+      "Award Best Actress and Best Actor had the biggest gap of 57.0 between the highest and lowest SOME LABEL found for White. "
    ],
    "xAxis": "Award",
    "yAxis": "SOME LABEL",
    "min_summary": [
       "This grouped bar chart represents 2 different Awards on X-axis for 2 groups White, and Other Ethnicities. On the Y-axis it shows their corresponding SOME LABEL. ",
-      " Award Best Actress had the maximum SOME LABEL among all 2 groups, and it was for White. The minimum SOME LABEL was observed in Award Best Actress for Other Ethnicities. "
+      " In Award Best Actress, White had the highest SOME LABEL 989.0 among the 2 groups and in Best Actress, Other Ethnicities had the lowest SOME LABEL 11.0. "
    ],
    "mid_summary": [
-      "This grouped bar chart represents 2 different Awards on X-axis for 2 groups White, and Other Ethnicities. On the Y-axis it shows their corresponding SOME LABEL. ",
-      " In Award Best Actress, White had the highest SOME LABEL 989.0 among the 2 groups and in Best Actress, Other Ethnicities had the lowest SOME LABEL 11.0. ",
-      " Among all the Awards, Other Ethnicities had the highest SOME LABEL 68.0 in Award Best Actor and lowest value 11.0 in Award Best Actress. ",
-      "Award Best Actor and Best Actress had the biggest gap of 57.0 between the highest and lowest SOME LABEL found for Other Ethnicities. "
+      "This grouped bar chart shows SOME LABEL on the Y-axis for 2 different Awards for 2 groups White, and Other Ethnicities that are presented on the X-axis. ",
+      " Out of all 2 groups, White had the highest SOME LABEL in Award Best Actress and Other Ethnicities had the lowest SOME LABEL in Award Best Actress. ",
+      " Among all the Awards, White had the highest SOME LABEL 989.0 in Award Best Actress and lowest value 932.0 in Award Best Actor. ",
+      "Award Best Actress and Best Actor had the biggest gap of 57.0 between the highest and lowest SOME LABEL found for White. "
    ],
    "max_summary": [
-      "This grouped bar chart represents 2 different Awards on X-axis for 2 groups White, and Other Ethnicities. On the Y-axis it shows their corresponding SOME LABEL. ",
+      "This grouped bar chart shows SOME LABEL on the Y-axis for 2 different Awards for 2 groups White, and Other Ethnicities that are presented on the X-axis. ",
       " Out of all 2 groups, White had the highest SOME LABEL in Award Best Actress and Other Ethnicities had the lowest SOME LABEL in Award Best Actress. ",
-      " Among all the Awards, Other Ethnicities had the highest SOME LABEL 68.0 in Award Best Actor and lowest value 11.0 in Award Best Actress. ",
-      " There is a gap of 57.0 between the highest and lowest SOME LABEL found for Other Ethnicities in Award Best Actor and Best Actress. ",
-      " Among the groups, White had the biggest difference in SOME LABEL. Where the maximum SOME LABEL was 1.06 times larger than the minimum SOME LABEL. ",
+      " Among all the Awards, White had the highest SOME LABEL in Award Best Actress and lowest SOME LABEL in Award Best Actor. ",
+      " There is a gap of 57.0 between the highest and lowest SOME LABEL found for White in Award Best Actress and Best Actor. ",
+      " Among all 2 groups, White had the gap of 57.0 between the maximum and minimum SOME LABEL observed in Award Best Actress and Best Actor respectively. ",
       "Averaging all 2 groups White, and Other Ethnicities, the Award Best Actor is the maximum SOME LABEL and Best Actress is the minimum SOME LABEL. "
    ],
    "trends": [

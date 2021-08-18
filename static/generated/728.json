@@ -6,28 +6,26 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This is a bar chart representing Month in the x axis and Number of subscribers in thousands in the y axis. ",
+      "This is a bar chart. It shows Number of subscribers in thousands for 7 number of Months. ",
       "Month June 2018 has the highest Number of subscribers in thousands and December 2016 has the lowest Number of subscribers in thousands. ",
-      "The difference of Number of subscribers in thousands between the highest and lowest Month is 2980.0. "
+      "There is a difference of 2980.0 between the maximum Month June 2018 and minimum Month December 2016. "
    ],
    "min_summary": [
-      "This bar chart has 7 columns on the x axis representing Month, and Number of subscribers in thousands in each Month on the y axis. ",
-      "The maximum Number of subscribers in thousands 3000.0 is found at Month June 2018 and the minimum is found at December 2016 where Month is 20.0. "
+      "This is a bar chart representing Month in the x axis and Number of subscribers in thousands in the y axis. ",
+      "The Number of subscribers in thousands is appeared to be the highest at Month June 2018 and lowest at Month December 2016. "
    ],
    "mid_summary": [
-      "This is a bar chart representing Month in the x axis and Number of subscribers in thousands in the y axis. ",
+      "This is a bar chart. It shows Number of subscribers in thousands for 7 number of Months. ",
       "Month June 2018 has the highest Number of subscribers in thousands and December 2016 has the lowest Number of subscribers in thousands. ",
-      "The difference of Number of subscribers in thousands between the highest and lowest Month is 2980.0. "
+      "There is a difference of 2980.0 between the maximum Month June 2018 and minimum Month December 2016. "
    ],
    "max_summary": [
-      "This bar chart has 7 columns on the x axis representing Month, and Number of subscribers in thousands in each Month on the y axis. ",
+      "This is a bar chart representing Month in the x axis and Number of subscribers in thousands in the y axis. ",
       "Month June 2018 has the highest Number of subscribers in thousands and December 2016 has the lowest Number of subscribers in thousands. ",
-      "The second highest Number of subscribers in thousands is appeared to be the Month March 2018. ",
-      "The highest Month June 2018 has 2980.0 more Number of subscribers in thousands than the lowest Month December 2016. ",
-      "Number of subscribers in thousands at Month June 2018 is 3000.0 , second place is March 2018 at 2000.0, and thirdly is January 2018 at 1500.0.",
-      "The Number of subscribers in thousands has decreased over the past 7 Months. ",
-      "The average Number of subscribers in thousands in all 7 Months is 1056.43. ",
-      "Summing up the values of all Months, we get total 7395.0. "
+      "The difference of Number of subscribers in thousands between the highest and lowest Month is 2980.0. ",
+      "The Month June 2018 has the highest Number of subscribers in thousands, followed by March 2018, and January 2018. Down to the Month December 2016 which is the lowest. ",
+      "Over the past 7 Months, the Number of subscribers in thousands has reduced. ",
+      "The Month June 2018 tends to be 2.84 percent higher than average. "
    ],
    "trends": [
       {},

@@ -6,31 +6,31 @@
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of persons. In total the number of data points it has is 30.",
-      " In general Number of persons has rose over the Year.",
-      "The line drastically increased by 1.9 times from Year '03 to '04, and lastly, increased by 4.1 times from Year '19 to '90.",
+      "This is a line chart with an x axis representing Year and a y axis representing Number of persons, containing a total of 30 data points.",
+      " Overall Number of persons has increased over the Year.",
+      "The line rapidly increased by 86.15% from Year '03 to '04, and lastly, increased by 306.89% from Year '19 to '90.",
       "The most drastic increase took place within the Year '19 and '90.",
-      "Maximum Number of persons, about 132531.0 was reported at Year '92",
-      "Minimum Number of persons about 22491.0 was reached at Year '18"
+      "The highest Number of persons, of value 132531.0 was reached at Year '92",
+      "The lowest Number of persons, of value 22491.0 was reported at Year '18"
    ],
    "min_summary": [
       "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of persons. In total the number of data points it has is 30.",
-      " In general Number of persons has rose over the Year."
+      " Overall Number of persons has increased over the Year."
    ],
    "mid_summary": [
       "This is a line chart with an x axis representing Year and a y axis representing Number of persons, containing a total of 30 data points.",
-      " Overall Number of persons has increased over the Year.",
-      "The most drastic increase took place within the Year '19 and '90.",
-      "Maximum Number of persons, about 132531.0 was reported at Year '92",
-      "Minimum Number of persons about 22491.0 was reached at Year '18"
-   ],
-   "max_summary": [
-      "This is a line chart with an x axis representing Year and a y axis representing Number of persons, containing a total of 30 data points.",
       " In general Number of persons has rose over the Year.",
       "The steepest increase occurs in between the Year '19 and '90.",
-      "Maximum Number of persons, about 132531.0 was reported at Year '92",
-      "Minimum Number of persons about 22491.0 was reached at Year '18",
-      "The line significantly increased by 24470.0 from Year '03 to '04, and lastly, increased by 92066.0 from Year '19 to '90."
+      "The highest Number of persons, of value 132531.0 was reached at Year '92",
+      "The lowest Number of persons, of value 22491.0 was reported at Year '18"
+   ],
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of persons. In total the number of data points it has is 30.",
+      " Overall Number of persons has increased over the Year.",
+      "The steepest increase occurs in between the Year '19 and '90.",
+      "The highest Number of persons, of value 132531.0 was reached at Year '92",
+      "The lowest Number of persons, of value 22491.0 was reported at Year '18",
+      "The line rapidly increased by 86.15% from Year '03 to '04, and lastly, increased by 306.89% from Year '19 to '90."
    ],
    "trends": [],
    "data": [

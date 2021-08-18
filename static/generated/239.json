@@ -11,30 +11,30 @@
    "summaryType": "baseline",
    "summary": [
       "This grouped bar chart represents 30 different Countrys on X-axis for 3 groups Gold, Silver, and Bronze. On the Y-axis it shows their corresponding Number of medals. ",
-      " Country Norway had the maximum Number of medals among all 3 groups, and it was for Gold. The minimum Number of medals was observed in Country Liechtenstein for Gold. ",
-      " Among all the Countrys, Silver had the highest Number of medals 14.0 in Country Norway and lowest value 0.0 in Country Liechtenstein. ",
-      "Country Norway and Liechtenstein had the biggest gap of 14.0 between the highest and lowest Number of medals found for Silver. "
+      " Out of all 3 groups, Gold had the highest Number of medals in Country Norway and Gold had the lowest Number of medals in Country Liechtenstein. ",
+      " Among all the Countrys, Bronze had the highest Number of medals in Country Norway and lowest Number of medals in Country Belgium. ",
+      " The maximum Number of medals for Bronze that was found in Country Norway was 0 times larger than the minimum Number of medals observed in Country Belgium. "
    ],
    "xAxis": "Country",
    "yAxis": "Number of medals",
    "min_summary": [
       "This grouped bar chart shows Number of medals on the Y-axis for 30 different Countrys for 3 groups Gold, Silver, and Bronze that are presented on the X-axis. ",
-      " Country Norway had the maximum Number of medals among all 3 groups, and it was for Gold. The minimum Number of medals was observed in Country Liechtenstein for Gold. "
+      " In Country Norway, Gold had the highest Number of medals 14.0 among the 3 groups and in Liechtenstein, Gold had the lowest Number of medals 0.0. "
    ],
    "mid_summary": [
       "This grouped bar chart represents 30 different Countrys on X-axis for 3 groups Gold, Silver, and Bronze. On the Y-axis it shows their corresponding Number of medals. ",
-      " Country Norway had the maximum Number of medals among all 3 groups, and it was for Gold. The minimum Number of medals was observed in Country Liechtenstein for Gold. ",
-      " Among all the Countrys, Silver had the highest Number of medals 14.0 in Country Norway and lowest value 0.0 in Country Liechtenstein. ",
-      "Country Norway and Liechtenstein had the biggest gap of 14.0 between the highest and lowest Number of medals found for Silver. "
+      " Out of all 3 groups, Gold had the highest Number of medals in Country Norway and Gold had the lowest Number of medals in Country Liechtenstein. ",
+      " Among all the Countrys, Bronze had the highest Number of medals in Country Norway and lowest Number of medals in Country Belgium. ",
+      " The maximum Number of medals for Bronze that was found in Country Norway was 0 times larger than the minimum Number of medals observed in Country Belgium. "
    ],
    "max_summary": [
-      "This grouped bar chart represents 30 different Countrys on X-axis for 3 groups Gold, Silver, and Bronze. On the Y-axis it shows their corresponding Number of medals. ",
-      " Out of all 3 groups, Gold had the highest Number of medals in Country Norway and Gold had the lowest Number of medals in Country Liechtenstein. ",
-      " In Country Norway, Silver had the highest Number of medals among all 30 Countrys and it has the lowest Number of medals in Country Liechtenstein. ",
-      " There is a gap of 14.0 between the highest and lowest Number of medals found for Silver in Country Norway and Liechtenstein. ",
-      " Among the groups, Gold had the biggest difference in Number of medals. Where the maximum Number of medals was 14.0 times larger than the minimum Number of medals. ",
-      " Gold had the maximum Number of medals out of all 3 groups in Country Norway followed by Gold in Norway, and the minimum Number of medals is found for Gold in Liechtenstein. ",
-      "On average, the Country Norway had the highest Number of medals for all 3 groups Gold, Silver, and Bronze. Whereas Hungary had the lowest average Number of medals. "
+      "This grouped bar chart shows Number of medals on the Y-axis for 30 different Countrys for 3 groups Gold, Silver, and Bronze that are presented on the X-axis. ",
+      " In Country Norway, Gold had the highest Number of medals 14.0 among the 3 groups and in Liechtenstein, Gold had the lowest Number of medals 0.0. ",
+      " In Country Norway, Bronze had the highest Number of medals among all 30 Countrys and it has the lowest Number of medals in Country Belgium. ",
+      " The maximum Number of medals for Bronze that was found in Country Norway was 0 times larger than the minimum Number of medals observed in Country Belgium. ",
+      " Out of all 3 groups, the highest gap between the maximum and minimum Number of medals was found in case of Gold. ",
+      " In Country Norway, Gold had the highest Number of medals 14.0 among the 3 groups and in Liechtenstein, Gold had the lowest Number of medals 0.0. The second highest Number of medals 14.0 was observed for Gold in Country Norway. ",
+      "Averaging all 3 groups Gold, Silver, and Bronze, the Country Norway is the maximum Number of medals and Hungary is the minimum Number of medals. "
    ],
    "trends": [
       {},

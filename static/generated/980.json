@@ -19,25 +19,25 @@
    "xAxis": "Year",
    "yAxis": "SOME LABEL",
    "min_summary": [
-      "This is a multi-line chart with 2 lines representing Men, and Women. The y axis denotes SOME LABEL and the x axis denotes Year.",
+      "You are viewing a chart of multi-line type with 2 lines denoting Men, and Women. The y axis indicates the SOME LABEL and the x axis indicates Year.",
       "Overall Men, and Women are roughly constant,  throughout the Year",
       "Throughout the period, Men generally had the highest SOME LABEL relative to others with an average of 39.18, and it reached its maximum at 2000 with a value of 39.8.",
-      "Women mostly had the least SOME LABEL with a mean value of 34.07, which peaked at 2014, and 2019 with a value of 34.5. "
+      "The botommost line, Women,  has a mean of 34.07, and peaked at 2014, and 2019. "
    ],
    "mid_summary": [
-      "The given chart is of multi-line type with 2 lines namely Men, and Women. The y axis represents SOME LABEL and the x axis represents Year.",
+      "This is a multi-line chart with 2 lines representing Men, and Women. The y axis denotes SOME LABEL and the x axis denotes Year.",
       "Overall Men, and Women are roughly constant,  throughout the Year",
       "The ranking of the lines from topmost to botommmost is as follows: 1. Men, and lastly, 2. Women. ",
-      "Overall across the Year, Men mostly maintained the highest SOME LABEL when compared to others with a mean value of 39.18, and it peaked at 2000.",
+      "Throughout the period, Men generally had the highest SOME LABEL relative to others with an average of 39.18, and it reached its maximum at 2000 with a value of 39.8.",
       "The botommost line, Women,  has a mean of 34.07, and peaked at 2014, and 2019. "
    ],
    "max_summary": [
-      "This is a multi-line chart with 2 lines representing Men, and Women. The y axis denotes SOME LABEL and the x axis denotes Year.",
+      "You are viewing a chart of multi-line type with 2 lines denoting Men, and Women. The y axis indicates the SOME LABEL and the x axis indicates Year.",
       "Overall Men, and Women are roughly constant,  throughout the Year",
-      "The lines ordered according to average values of SOME LABEL in descending order is: 1. Men, and lastly, 2. Women. ",
+      "The ranking of the lines from topmost to botommmost is as follows: 1. Men, and lastly, 2. Women. ",
       "Overall across the Year, Men mostly maintained the highest SOME LABEL when compared to others with a mean value of 39.18, and it peaked at 2000.",
-      "Women mostly had the least SOME LABEL with a mean value of 34.07, which peaked at 2014, and 2019 with a value of 34.5. ",
-      "The greatest difference of SOME LABEL between Men and Women occurs at Year 2000 and the smallest difference occurs at 2019."
+      "The botommost line, Women,  has a mean of 34.07, and peaked at 2014, and 2019. ",
+      "The difference of SOME LABEL between Men and Women is smaller at Year 2019 compared to the Year 2000."
    ],
    "trends": [
       {},

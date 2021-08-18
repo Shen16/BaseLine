@@ -6,26 +6,26 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 10 columns on the x axis representing Player, and Brand value in million U.S. dollars in each Player on the y axis. ",
-      "The Brand value in million U.S. dollars is appeared to be the highest at Player Roger Federer and lowest at Player Stephen Curry. ",
-      "The difference of Brand value in million U.S. dollars between the highest and lowest Player is 23.8. "
+      "This is a bar chart. It shows Brand value in million U.S. dollars for 10 number of Players. ",
+      "Player Roger Federer has the highest Brand value in million U.S. dollars and Stephen Curry has the lowest Brand value in million U.S. dollars. ",
+      "The maximum Player Roger Federer has got 2.78 times higher Brand value in million U.S. dollars than the minimum Player Stephen Curry. "
    ],
    "min_summary": [
       "This is a bar chart. It shows Brand value in million U.S. dollars for 10 number of Players. ",
       "The maximum Brand value in million U.S. dollars 37.2 is found at Player Roger Federer and the minimum is found at Stephen Curry where Player is 13.4. "
    ],
    "mid_summary": [
-      "This bar chart has 10 columns on the x axis representing Player, and Brand value in million U.S. dollars in each Player on the y axis. ",
-      "The Brand value in million U.S. dollars is appeared to be the highest at Player Roger Federer and lowest at Player Stephen Curry. ",
-      "The difference of Brand value in million U.S. dollars between the highest and lowest Player is 23.8. "
+      "This is a bar chart. It shows Brand value in million U.S. dollars for 10 number of Players. ",
+      "Player Roger Federer has the highest Brand value in million U.S. dollars and Stephen Curry has the lowest Brand value in million U.S. dollars. ",
+      "The maximum Player Roger Federer has got 2.78 times higher Brand value in million U.S. dollars than the minimum Player Stephen Curry. "
    ],
    "max_summary": [
-      "This bar chart has 10 columns on the x axis representing Player, and Brand value in million U.S. dollars in each Player on the y axis. ",
-      "The Brand value in million U.S. dollars is highest at Player Roger Federer and lowest at Player Stephen Curry. ",
-      "Second maximum Brand value in million U.S. dollars is found at Player LeBron James. ",
-      "There is a difference of 23.8 between the maximum Player Roger Federer and minimum Player Stephen Curry. ",
-      "Brand value in million U.S. dollars at Player Roger Federer is 37.2 , second place is LeBron James at 33.4, and thirdly is Usain Bolt at 27.0.",
-      "The average Brand value in million U.S. dollars in all 10 Players is 21.03. ",
+      "This is a bar chart representing Player in the x axis and Brand value in million U.S. dollars in the y axis. ",
+      "The Brand value in million U.S. dollars is appeared to be the highest at Player Roger Federer and lowest at Player Stephen Curry. ",
+      "Player LeBron James has the second highest value for Brand value in million U.S. dollars. ",
+      "The highest Player Roger Federer has 23.8 more Brand value in million U.S. dollars than the lowest Player Stephen Curry. ",
+      "Player Roger Federer is higher than any other Players with value 37.2, followed by LeBron James, and Usain Bolt. Down to Player Stephen Curry with the lowest value 13.4. ",
+      "The Player Stephen Curry tends to be 1.77 percent lower than average. ",
       "Summing up the values of all Players, we get total 210.3. "
    ],
    "trends": [

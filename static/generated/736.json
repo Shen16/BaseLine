@@ -12,7 +12,7 @@
    ],
    "min_summary": [
       "This is a bar chart representing Region in the x axis and Share of attributable profit in the y axis. ",
-      "The Share of attributable profit is appeared to be the highest at Region Europe and lowest at Region North America. "
+      "The Share of attributable profit is highest at Region Europe and lowest at Region North America. "
    ],
    "mid_summary": [
       "This bar chart has 3 columns on the x axis representing Region, and Share of attributable profit in each Region on the y axis. ",
@@ -21,11 +21,10 @@
    ],
    "max_summary": [
       "This bar chart has 3 columns on the x axis representing Region, and Share of attributable profit in each Region on the y axis. ",
-      "The Share of attributable profit is appeared to be the highest at Region Europe and lowest at Region North America. ",
-      "The second highest Share of attributable profit is appeared to be the Region South America. ",
-      "The difference of Share of attributable profit between the highest and lowest Region is 31.0. ",
-      "The Region North America has 1.41 times less Share of attributable profit than average. ",
-      "Summing up the values of all Regions, we get total 100.0. "
+      "The maximum Share of attributable profit 47.0 is found at Region Europe and the minimum is found at North America where Region is 16.0. ",
+      "The lowest value at Region North America is 2.94x times less than the highest value at Europe. ",
+      "The Region Europe tends to be 1.41 percent higher than average. ",
+      "The Share of attributable profit is 100.0 if we add up values of all Regions. "
    ],
    "trends": [
       {},

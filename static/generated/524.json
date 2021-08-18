@@ -10,12 +10,12 @@
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This is a multi-line chart with 3 lines representing Matchday, Broadcasting, and Commercial. The y axis denotes Revenue in million euros and the x axis denotes Year.",
+      "The given chart is of multi-line type with 3 lines namely Matchday, Broadcasting, and Commercial. The y axis represents Revenue in million euros and the x axis represents Year.",
       "Overall Broadcasting, and Commercial are rapidly increasing, Matchday is gradually increasing,  throughout the Year",
       "The lines ordered according to average values of Revenue in million euros in descending order is: 1. Commercial, 2. Broadcasting, and lastly, 3. Matchday. ",
-      "Throughout the period, Commercial generally had the highest Revenue in million euros relative to others with an average of 170.04, and it reached its maximum at 2017/18 with a value of 265.7.",
-      "After Commercial, Broadcasting overall has the second highest values , with a mean value of 156.7, peaking at 2018/19. ",
-      "Matchday mostly had the least Revenue in million euros with a mean value of 48.97, which peaked at 2015/16 with a value of 70.2. ",
+      "Overall across the Year, Commercial mostly maintained the highest Revenue in million euros when compared to others with a mean value of 170.04, and it peaked at 2017/18.",
+      "Followed by Broadcasting which ranks as the second topmpost line , with an average of 156.7 Revenue in million euros,reaching its highest point  at 2018/19 with a value of 287.0. ",
+      "The botommost line, Matchday,  has a mean of 48.97, and peaked at 2015/16. ",
       "Broadcasting, and Commercial has increased by 406.5255731922399, and 1136.9668246445497 percent respectively."
    ],
    "xAxis": "Year",
@@ -23,15 +23,15 @@
    "min_summary": [
       "This is a multi-line chart with 3 lines representing Matchday, Broadcasting, and Commercial. The y axis denotes Revenue in million euros and the x axis denotes Year.",
       "Overall Broadcasting, and Commercial are rapidly increasing, Matchday is gradually increasing,  throughout the Year",
-      "Throughout the period, Commercial generally had the highest Revenue in million euros relative to others with an average of 170.04, and it reached its maximum at 2017/18 with a value of 265.7.",
+      "Overall across the Year, Commercial mostly maintained the highest Revenue in million euros when compared to others with a mean value of 170.04, and it peaked at 2017/18.",
       "Followed by Broadcasting which ranks as the second topmpost line , with an average of 156.7 Revenue in million euros,reaching its highest point  at 2018/19 with a value of 287.0. ",
-      "The botommost line, Matchday,  has a mean of 48.97, and peaked at 2015/16. "
+      "Matchday mostly had the least Revenue in million euros with a mean value of 48.97, which peaked at 2015/16 with a value of 70.2. "
    ],
    "mid_summary": [
       "This is a multi-line chart with 3 lines representing Matchday, Broadcasting, and Commercial. The y axis denotes Revenue in million euros and the x axis denotes Year.",
       "Overall Broadcasting, and Commercial are rapidly increasing, Matchday is gradually increasing,  throughout the Year",
       "Broadcasting, and Commercial has increased by 406.5255731922399, and 1136.9668246445497 percent respectively.",
-      "The ranking of the lines from topmost to botommmost is as follows: 1. Commercial, 2. Broadcasting, and lastly, 3. Matchday. ",
+      "The lines ordered according to average values of Revenue in million euros in descending order is: 1. Commercial, 2. Broadcasting, and lastly, 3. Matchday. ",
       "Throughout the period, Commercial generally had the highest Revenue in million euros relative to others with an average of 170.04, and it reached its maximum at 2017/18 with a value of 265.7.",
       "After Commercial, Broadcasting overall has the second highest values , with a mean value of 156.7, peaking at 2018/19. ",
       "Matchday mostly had the least Revenue in million euros with a mean value of 48.97, which peaked at 2015/16 with a value of 70.2. "
@@ -42,7 +42,7 @@
       "Broadcasting, and Commercial has increased by 406.5255731922399, and 1136.9668246445497 percent respectively.",
       "The lines ordered according to average values of Revenue in million euros in descending order is: 1. Commercial, 2. Broadcasting, and lastly, 3. Matchday. ",
       "Overall across the Year, Commercial mostly maintained the highest Revenue in million euros when compared to others with a mean value of 170.04, and it peaked at 2017/18.",
-      "After Commercial, Broadcasting overall has the second highest values , with a mean value of 156.7, peaking at 2018/19. ",
+      "Followed by Broadcasting which ranks as the second topmpost line , with an average of 156.7 Revenue in million euros,reaching its highest point  at 2018/19 with a value of 287.0. ",
       "The botommost line, Matchday,  has a mean of 48.97, and peaked at 2015/16. "
    ],
    "trends": [

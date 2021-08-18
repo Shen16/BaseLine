@@ -6,26 +6,27 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This is a bar chart. It shows Net profit margin for 10 number of Companys. ",
-      "The maximum Net profit margin 28.3 is found at Company Philip Morris International Inc. and the minimum is found at Mars Inc. where Company is 0.0. ",
-      "Company Philip Morris International Inc. has 2830000000000.0 times more Net profit margin than Company Mars Inc. which is has the lowest. "
+      "This bar chart has 10 columns on the x axis representing Company, and Net profit margin in each Company on the y axis. ",
+      "The Net profit margin is highest at Company Philip Morris International Inc. and lowest at Company Mars Inc.. ",
+      "The difference of Net profit margin between the highest and lowest Company is 28.3. "
    ],
    "min_summary": [
-      "This is a bar chart representing Company in the x axis and Net profit margin in the y axis. ",
-      "The maximum Net profit margin 28.3 is found at Company Philip Morris International Inc. and the minimum is found at Mars Inc. where Company is 0.0. "
+      "This is a bar chart. It shows Net profit margin for 10 number of Companys. ",
+      "The Net profit margin is highest at Company Philip Morris International Inc. and lowest at Company Mars Inc.. "
    ],
    "mid_summary": [
-      "This is a bar chart. It shows Net profit margin for 10 number of Companys. ",
-      "The maximum Net profit margin 28.3 is found at Company Philip Morris International Inc. and the minimum is found at Mars Inc. where Company is 0.0. ",
-      "Company Philip Morris International Inc. has 2830000000000.0 times more Net profit margin than Company Mars Inc. which is has the lowest. "
+      "This bar chart has 10 columns on the x axis representing Company, and Net profit margin in each Company on the y axis. ",
+      "The Net profit margin is highest at Company Philip Morris International Inc. and lowest at Company Mars Inc.. ",
+      "The difference of Net profit margin between the highest and lowest Company is 28.3. "
    ],
    "max_summary": [
-      "This bar chart has 10 columns on the x axis representing Company, and Net profit margin in each Company on the y axis. ",
+      "This is a bar chart representing Company in the x axis and Net profit margin in the y axis. ",
       "The Net profit margin is appeared to be the highest at Company Philip Morris International Inc. and lowest at Company Mars Inc.. ",
+      "Company Apple Inc. has the second highest value for Net profit margin. ",
       "The difference of Net profit margin between the highest and lowest Company is 28.3. ",
       "Net profit margin at Company Philip Morris International Inc. is 28.3 , second place is Apple Inc. at 21.7, and thirdly is The Coca-Cola Company at 18.4.",
-      "The Company Philip Morris International Inc. has 2.24 times more Net profit margin than average. ",
-      "The Net profit margin is 126.4 if we add up values of all Companys. "
+      "Considered together, the average Net profit margin in all 10 Companys is roughly 12.64. ",
+      "Summing up the values of all Companys, we get total 126.4. "
    ],
    "trends": [
       {},

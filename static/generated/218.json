@@ -6,28 +6,26 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This is a bar chart. It shows Percentage of males aged 15-49 for 13 number of Countrys. ",
-      "The Percentage of males aged 15-49 is highest at Country Liberia and lowest at Country Niger. ",
-      "The difference of Percentage of males aged 15-49 between the highest and lowest Country is 20.0. "
+      "This is a bar chart representing Country in the x axis and Percentage of males aged 15-49 in the y axis. ",
+      "The maximum Percentage of males aged 15-49 24.0 is found at Country Liberia and the minimum is found at Niger where Country is 4.0. ",
+      "The highest Country Liberia has 20.0 more Percentage of males aged 15-49 than the lowest Country Niger. "
    ],
    "min_summary": [
       "This is a bar chart. It shows Percentage of males aged 15-49 for 13 number of Countrys. ",
-      "Country Liberia has the highest Percentage of males aged 15-49 and Niger has the lowest Percentage of males aged 15-49. "
+      "The maximum Percentage of males aged 15-49 24.0 is found at Country Liberia and the minimum is found at Niger where Country is 4.0. "
    ],
    "mid_summary": [
-      "This is a bar chart. It shows Percentage of males aged 15-49 for 13 number of Countrys. ",
-      "The Percentage of males aged 15-49 is highest at Country Liberia and lowest at Country Niger. ",
-      "The difference of Percentage of males aged 15-49 between the highest and lowest Country is 20.0. "
-   ],
-   "max_summary": [
       "This is a bar chart representing Country in the x axis and Percentage of males aged 15-49 in the y axis. ",
       "The maximum Percentage of males aged 15-49 24.0 is found at Country Liberia and the minimum is found at Niger where Country is 4.0. ",
-      "Country Benin has the second highest value for Percentage of males aged 15-49. ",
-      "The highest Country Liberia has 20.0 more Percentage of males aged 15-49 than the lowest Country Niger. ",
-      "Country Liberia is higher than any other Countrys with value 24.0, followed by Benin, and Senegal. Down to Country Niger with the lowest value 4.0. ",
-      "Similar Percentage of males aged 15-49 is found in Country Ethiopia, and DC Congo. ",
-      "The average Percentage of males aged 15-49 in all 13 Countrys is 15.77. ",
-      "Summing up the values of all Countrys, we get total 205.0. "
+      "The highest Country Liberia has 20.0 more Percentage of males aged 15-49 than the lowest Country Niger. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Percentage of males aged 15-49 for 13 number of Countrys. ",
+      "The Percentage of males aged 15-49 is appeared to be the highest at Country Liberia and lowest at Country Niger. ",
+      "The difference of Percentage of males aged 15-49 between the highest and lowest Country is 20.0. ",
+      "Percentage of males aged 15-49 at Country Liberia is 24.0 , second place is Benin at 22.0, and thirdly is Senegal at 21.0.",
+      "Country Ethiopia, and DC Congo have a similar Percentage of males aged 15-49 that is 16.0. ",
+      "The Country Liberia has 1.52 times more Percentage of males aged 15-49 than average. "
    ],
    "trends": [
       {},
