@@ -6,29 +6,28 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This is a bar chart representing Month in the x axis and Unemployment rate in the y axis. ",
-      "The Unemployment rate is highest at Month Sicily and lowest at Month Trentino-South Tyrol. ",
-      "The highest value at Month Sicily is 4.5x times more than the lowest value at Trentino-South Tyrol. "
+      "This is a bar chart. It shows Unemployment rate for 20 number of Months. ",
+      "The Unemployment rate is appeared to be the highest at Month Sicily and lowest at Month Trentino-South Tyrol. ",
+      "The lowest value at Month Trentino-South Tyrol is 4.5x times less than the highest value at Sicily. "
    ],
    "min_summary": [
-      "This is a bar chart representing Month in the x axis and Unemployment rate in the y axis. ",
-      "The maximum Unemployment rate 53.6 is found at Month Sicily and the minimum is found at Trentino-South Tyrol where Month is 11.9. "
+      "This is a bar chart. It shows Unemployment rate for 20 number of Months. ",
+      "The Unemployment rate is highest at Month Sicily and lowest at Month Trentino-South Tyrol. "
    ],
    "mid_summary": [
-      "This is a bar chart representing Month in the x axis and Unemployment rate in the y axis. ",
-      "The Unemployment rate is highest at Month Sicily and lowest at Month Trentino-South Tyrol. ",
-      "The highest value at Month Sicily is 4.5x times more than the lowest value at Trentino-South Tyrol. "
+      "This is a bar chart. It shows Unemployment rate for 20 number of Months. ",
+      "The Unemployment rate is appeared to be the highest at Month Sicily and lowest at Month Trentino-South Tyrol. ",
+      "The lowest value at Month Trentino-South Tyrol is 4.5x times less than the highest value at Sicily. "
    ],
    "max_summary": [
-      "This is a bar chart. It shows Unemployment rate for 20 number of Months. ",
+      "This is a bar chart representing Month in the x axis and Unemployment rate in the y axis. ",
       "The maximum Unemployment rate 53.6 is found at Month Sicily and the minimum is found at Trentino-South Tyrol where Month is 11.9. ",
-      "The second highest Unemployment rate is appeared to be the Month Campania. ",
       "The highest Month Sicily has 41.7 more Unemployment rate than the lowest Month Trentino-South Tyrol. ",
       "The Month Sicily has the highest Unemployment rate, followed by Campania, and Calabria. Down to the Month Trentino-South Tyrol which is the lowest. ",
-      "The Unemployment rate has decreased over the past 20 Months. ",
-      "Month Sicily, and Campania share the same value 53.6. ",
-      "The Month Sicily has 1.67 times more Unemployment rate than average. ",
-      "Summing up the values of all Months, we get total 641.7. "
+      "The Unemployment rate has lowered over the past 20 Months. ",
+      "Month Sicily, and Campania have a similar Unemployment rate that is 53.6. ",
+      "The Month Sicily tends to be 1.67 percent higher than average. ",
+      "The Unemployment rate is 641.7 if we add up values of all Months. "
    ],
    "trends": [
       {},

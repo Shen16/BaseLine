@@ -7,27 +7,27 @@
    "summaryType": "baseline",
    "summary": [
       "This is a bar chart. It shows Monthly percentage of change for 13 number of Months. ",
-      "The Monthly percentage of change is appeared to be the highest at Month Jan '20 and lowest at Month Oct '19. ",
+      "The maximum Monthly percentage of change 0.6 is found at Month Jan '20 and the minimum is found at Oct '19 where Month is 0.0. ",
       "There is a difference of 0.6 between the maximum Month Jan '20 and minimum Month Oct '19. "
    ],
    "min_summary": [
-      "This bar chart has 13 columns on the x axis representing Month, and Monthly percentage of change in each Month on the y axis. ",
+      "This is a bar chart. It shows Monthly percentage of change for 13 number of Months. ",
       "The maximum Monthly percentage of change 0.6 is found at Month Jan '20 and the minimum is found at Oct '19 where Month is 0.0. "
    ],
    "mid_summary": [
       "This is a bar chart. It shows Monthly percentage of change for 13 number of Months. ",
-      "The Monthly percentage of change is appeared to be the highest at Month Jan '20 and lowest at Month Oct '19. ",
+      "The maximum Monthly percentage of change 0.6 is found at Month Jan '20 and the minimum is found at Oct '19 where Month is 0.0. ",
       "There is a difference of 0.6 between the maximum Month Jan '20 and minimum Month Oct '19. "
    ],
    "max_summary": [
-      "This is a bar chart representing Month in the x axis and Monthly percentage of change in the y axis. ",
-      "The maximum Monthly percentage of change 0.6 is found at Month Jan '20 and the minimum is found at Oct '19 where Month is 0.0. ",
+      "This bar chart has 13 columns on the x axis representing Month, and Monthly percentage of change in each Month on the y axis. ",
+      "The Monthly percentage of change is highest at Month Jan '20 and lowest at Month Oct '19. ",
+      "The second highest Monthly percentage of change is appeared to be the Month Aug '19. ",
       "There is a difference of 0.6 between the maximum Month Jan '20 and minimum Month Oct '19. ",
-      "Month Jan '20 is higher than any other Months with value 0.6, followed by Aug '19, and Feb '19. Down to Month Oct '19 with the lowest value 0.0. ",
-      "Overall Monthly percentage of change has lowered over the Months. ",
-      "Similar Monthly percentage of change is found in Month Nov '19, Jun '19, Apr '19, and Mar '19. ",
-      "The Month Jan '20 tends to be 1.73 percent higher than average. ",
-      "Summing up the values of all Months, we get total 4.5. "
+      "Monthly percentage of change at Month Jan '20 is 0.6 , second place is Aug '19 at 0.6, and thirdly is Feb '19 at 0.5.",
+      "Overall Monthly percentage of change has declined over the Months. ",
+      "Month Nov '19, Jun '19, Apr '19, and Mar '19 have a similar Monthly percentage of change that is 0.4. ",
+      "The Month Oct '19 has 1.73 times less Monthly percentage of change than average. "
    ],
    "trends": [
       {},

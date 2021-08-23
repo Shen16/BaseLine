@@ -316,6 +316,10 @@ def increasedDecreased(x):
         return "decreased"
     else:
         return "remained stable"
+    
+
+def get_indexes(l, val):
+    return l.tolist().index(val) 
 
 
 def get_indexes_max_value(l):
@@ -830,81 +834,9 @@ def summarize(data, all_y_label, name, title):
 
         ## for multi line charts
         elif (chartType == "line"): #MULTI LINE
-            # clean data
-            intData = []
-            # print(valueArr)
-            # print(valueArr[1:])
-            for line in valueArr[1:]:  # take 2nd to end elements in valueArr array
-                cleanLine = []
-                for data in line:
-
-                    if data.isnumeric():
-                        cleanLine.append(float(data))
-                    else:
-                        cleanData = re.sub("[^\d\.]", "",
-                                           data)  # Delete pattern [^\d\.] from data  where [^\d\.] probably denotes digits
-                        if len(cleanData) > 0:
-                            cleanLine.append(
-                                float(cleanData[:4]))  # character from the beginning to position 4 (excluded)
-                        else:
-                            cleanLine.append(float(cleanData))
-                intData.append(cleanLine)
-                # print(len(intData))
-            # calculate mean for each line
-            meanLineVals = []
-
-            # print("stringLabels")
-            # print(stringLabels[1:])
-            # print("intData")
-            # print(intData)
-            x_label = str(stringLabels[0])
-
-            assert len(stringLabels[1:]) == len(
-                intData)  # tests if a condition is true. If a condition is false, the program will stop with an optional message
-            for label, data in zip(stringLabels[1:],
-                                   intData):  # zip output: \(('Export', [5596.0, 4562.0, 4875.0, 7140.0, 4325.0, 9188.0, 5565.0, 6574.0, 4827.0, 2945.0, 4252.0, 3876.0, 2867.0, 2404.0]), ('Import', [1087.0, 9410.0, 7853.0, 8865.0, 6917.0, 1034.0, 7262.0, 7509.0, 5715.0, 4458.0, 6268.0, 5996.0, 4299.0, 3742.0]))
-                x = (label, round(mean(data), 1))  # round to 1 d.p
-                # print(x)
-                meanLineVals.append(x)
-            sortedLines = sorted(meanLineVals, key=itemgetter(1))
-            # print(sortedLines)  # Ranks all the lines from bottomost to topmost using mean values
-            # if more than 2 lines
-            lineCount = len(labelArr) - 1  # no of categories
-
-            # The line with higest overall mean
-            maxLine = sortedLines[-1]  # the category with highest overall mean
-            index1 = stringLabels.index(maxLine[0]) - 1  # index for line with max mean
-            maxLineData = round(max(intData[index1]), 2)  # the max data point (y axis value) of the line with max mean
-            maxXValue = valueArr[0][
-                intData[index1].index(maxLineData)]  # the corrsponding x value for the above y value
-
-            # The line with second higest overall mean
-            secondLine = sortedLines[-2]  # line with second highest overall mean value
-            rowIndex1 = intData[index1].index(
-                maxLineData)  # the index for the max y value data point of the line with max mean
-            index2 = stringLabels.index(secondLine[0]) - 1  # index for line with second max mean
-            secondLineData = round(max(intData[index2]),
-                                   2)  # the max data point (y axis value) of the line with max mean
-            secondXValue = valueArr[0][
-                intData[index2].index(secondLineData)]  ## the corrsponding x value for the above y value
-            rowIndex2 = intData[index2].index(
-                secondLineData)  # the index for the max y value data point of the line with second max mean
-
-            # The line with the smallest overall mean
-            minLine = sortedLines[0]
-            index_min = stringLabels.index(minLine[0]) - 1
-            minLineData = round(max(intData[index_min]), 2)
-            minXValue = valueArr[0][intData[index_min].index(minLineData)]
-
-            line_names = ""
-            for i in range(len(stringLabels) - 1):
-                if i < len(stringLabels) - 2:
-                    line_names += stringLabels[i + 1] + ", "
-                else:
-                    line_names += "and " + stringLabels[i + 1]
-            print(line_names)
-                    
-
+            
+            lasso=0 # lasso selection is false initially
+        
             ## New Summary Template-shehnaz
             valueArrMatrix = np.array(valueArr)
             # print(valueArrMatrix)
@@ -964,6 +896,203 @@ def summarize(data, all_y_label, name, title):
             print(xVal_sorted)
             print("Sorted Y vals")
             print(yVals_sorted)
+            
+            
+            ## LASSO SELECTION
+            ### Random X values for Lasso Selection
+            
+            lasso = 1 #Means lasso selection is true or on
+            
+            if (len(xVal_sorted)!=1):  # If the chart originally has only 1 value then keep it as is otherwise choose random sections of it
+                
+                randIndx=[]
+                for i in range(1, len(xVal_sorted)):
+                    randIndx.append(i)
+                print( "randIndx:  " + str(randIndx))
+                
+                
+                from random import randrange
+                b = xVal_sorted
+                
+                # n = 5  # manullay specify
+                n= random.choice(randIndx)
+                
+                print("n: " + str(n))
+                
+                k = randrange(len(b)-n+1)
+                result = b[k:k+n]
+                print(result)
+                            
+                
+                # rand_XVal= random.sample(list(xValueArrCorrectOrder), 1)
+                # print("rand_XVal:   " + str(rand_XVal))
+                
+                x_min= min(result)
+                x_max= max(result)
+       
+                
+                # rand_XVal= random.sample(list(xVal_sorted), 5)
+                # print("rand_XVal:   " + str(rand_XVal))
+                
+                x_min= min(result)
+                x_max= max(result)
+                
+                min_indx= get_indexes(xVal_sorted, x_min)
+                max_indx= get_indexes(xVal_sorted, x_max)
+                
+                print("x_min:   " + str(x_min) + " min_indx:   "+ str(min_indx))
+                print("x_max:   " + str(x_max)+ " max_indx:   "+ str(max_indx))
+                
+                
+                xVal_lasso=xVal_sorted[min_indx:max_indx+1]
+                yVal_lasso= yVals_sorted[0:,min_indx:max_indx+1]
+                
+                
+                print("xVal_lasso: " + str(xVal_lasso))
+                print("yVal_lasso: " + str(yVal_lasso))
+                
+                xVal_sorted= xVal_lasso
+                yVals_sorted= yVal_lasso
+            
+            print("Lasso X vals")
+            print(xVal_sorted)
+            print("Lasso Y vals")
+            print(yVals_sorted)
+            
+        
+        
+        
+        
+            # clean data
+            # intData = []
+            # # print(yVals_sorted)
+            # for line in yVals_sorted:  # take 2nd to end elements in valueArr array
+            #     cleanLine = []
+            #     for data in line:
+
+            #         if data.isnumeric():
+            #             cleanLine.append(float(data))
+            #         else:
+            #             cleanData = re.sub("[^\d\.]", "",
+            #                                data)  # Delete pattern [^\d\.] from data  where [^\d\.] probably denotes digits
+            #             if len(cleanData) > 0:
+            #                 cleanLine.append(
+            #                     float(cleanData[:4]))  # character from the beginning to position 4 (excluded)
+            #             else:
+            #                 cleanLine.append(float(cleanData))
+            #     intData.append(cleanLine)
+            #     # print(len(intData))
+            #     print( "intData:  "+ str(intData))
+                
+            intData= yVals_sorted.tolist()
+                
+            # calculate mean for each line
+            meanLineVals = []
+
+            # print("stringLabels")
+            # print(stringLabels[1:])
+            # print("intData")
+            # print(intData)
+            x_label = str(stringLabels[0])
+
+            assert len(stringLabels[1:]) == len(
+                intData)  # tests if a condition is true. If a condition is false, the program will stop with an optional message
+            for label, data in zip(stringLabels[1:],
+                                   intData):  # zip output: \(('Export', [5596.0, 4562.0, 4875.0, 7140.0, 4325.0, 9188.0, 5565.0, 6574.0, 4827.0, 2945.0, 4252.0, 3876.0, 2867.0, 2404.0]), ('Import', [1087.0, 9410.0, 7853.0, 8865.0, 6917.0, 1034.0, 7262.0, 7509.0, 5715.0, 4458.0, 6268.0, 5996.0, 4299.0, 3742.0]))
+                x = (label, round(mean(data), 1))  # round to 1 d.p
+                # print(x)
+                meanLineVals.append(x)
+            sortedLines = sorted(meanLineVals, key=itemgetter(1))
+            # print(sortedLines)  # Ranks all the lines from bottomost to topmost using mean values
+            # if more than 2 lines
+            lineCount = len(labelArr) - 1  # no of categories
+
+            # The line with higest overall mean
+            maxLine = sortedLines[-1]  # the category with highest overall mean
+            index1 = stringLabels.index(maxLine[0]) - 1  # index for line with max mean
+            maxLineData = round(max(intData[index1]), 2)  # the max data point (y axis value) of the line with max mean
+            maxXValue = xVal_sorted[
+                intData[index1].index(maxLineData)]  # the corrsponding x value for the above y value
+
+            # The line with second higest overall mean
+            secondLine = sortedLines[-2]  # line with second highest overall mean value
+            rowIndex1 = intData[index1].index(
+                maxLineData)  # the index for the max y value data point of the line with max mean
+            index2 = stringLabels.index(secondLine[0]) - 1  # index for line with second max mean
+            secondLineData = round(max(intData[index2]),
+                                   2)  # the max data point (y axis value) of the line with max mean
+            secondXValue = xVal_sorted[
+                intData[index2].index(secondLineData)]  ## the corrsponding x value for the above y value
+            rowIndex2 = intData[index2].index(
+                secondLineData)  # the index for the max y value data point of the line with second max mean
+
+            # The line with the smallest overall mean
+            minLine = sortedLines[0]
+            index_min = stringLabels.index(minLine[0]) - 1
+            minLineData = round(max(intData[index_min]), 2)
+            minXValue = xVal_sorted[intData[index_min].index(minLineData)]
+
+            line_names = ""
+            for i in range(len(stringLabels) - 1):
+                if i < len(stringLabels) - 2:
+                    line_names += stringLabels[i + 1] + ", "
+                else:
+                    line_names += "and " + stringLabels[i + 1]
+            print(line_names)
+                    
+
+            
+            
+            
+            
+            
+            ### Random X values
+            # rand_XVal= random.sample(list(xVal_sorted), 3)
+            # print("rand_XVal:   " + str(rand_XVal))
+            
+            # x_min= min(rand_XVal)
+            # x_max= max(rand_XVal)
+            
+            # min_indx= get_indexes(xVal_sorted, x_min)
+            # max_indx= get_indexes(xVal_sorted, x_max)
+            
+            # print("x_min:   " + str(x_min) + " min_indx:   "+ str(min_indx))
+            # print("x_max:   " + str(x_max)+ " max_indx:   "+ str(max_indx))
+            
+            
+            # xVal_lasso=xVal_sorted[min_indx:max_indx+1]
+            # yVal_lasso= yVals_sorted[0:,min_indx:max_indx+1]
+            
+            
+            # print("xVal_lasso: " + str(xVal_lasso))
+            # print("yVal_lasso: " + str(yVal_lasso))
+            
+            # xVal_sorted= xVal_lasso
+            # yVals_sorted= yVal_lasso
+            
+            # print("Lasso X vals")
+            # print(xVal_sorted)
+            # print("Lasso Y vals")
+            # print(yVals_sorted)
+            
+            
+                
+                
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
 
             # yVals= valueArrMatrix[1:,:].astype(np.float) # Must convert all y values to float otherwise wrong min max shows up
             # print("Y values")
@@ -1143,44 +1272,48 @@ def summarize(data, all_y_label, name, title):
             ############# GlobalTrend ##############
             direction = []
             rate = []
-
-            for i in range(0, len(yVals_sorted)):
-                n = float(yVals_sorted[i][len(yVals_sorted[i]) - 1])
-                o = float(yVals_sorted[i][0])
-                m = max(maxLocal_array)
-                globalPercentChange = percentChnageRangeFunc(n, o, m)
-                rate.append(globalPercentChange)
-
-                d = globalDirectionTrend(globalPercentChange, constant)
-
-                # if (globalPercentChange > 0):
-                #     direction.append("increased")
-                # elif (globalPercentChange < 0):
-                #     direction.append("decreased")
-                # else:
-                #     direction.append("constant")
-                direction.append(d)
-
             lineNames = stringLabels[1:]
-            # print(lineNames)
-            # print(direction)
-            # print(rate)
+            
+            
+            if (len(xVal_sorted)> 1): 
 
-            lineNames_increasing = []
-            lineNames_decreasing = []
-            lineNames_constant = []
-            for i in range(0, len(direction)):
-                if (direction[i] == "increased"):
-                    lineNames_increasing.append(lineNames[i])
-                elif (direction[i] == "decreased"):
-                    lineNames_decreasing.append(lineNames[i])
-                else:
-                    lineNames_constant.append(lineNames[i])
-
-            # print(lineNames_increasing)
-            # print(lineNames_decreasing)
-            # print(lineNames_constant)
-
+                for i in range(0, len(yVals_sorted)):
+                    n = float(yVals_sorted[i][len(yVals_sorted[i]) - 1])
+                    o = float(yVals_sorted[i][0])
+                    m = max(maxLocal_array)
+                    globalPercentChange = percentChnageRangeFunc(n, o, m)
+                    rate.append(globalPercentChange)
+    
+                    d = globalDirectionTrend(globalPercentChange, constant)
+    
+                    # if (globalPercentChange > 0):
+                    #     direction.append("increased")
+                    # elif (globalPercentChange < 0):
+                    #     direction.append("decreased")
+                    # else:
+                    #     direction.append("constant")
+                    direction.append(d)
+    
+                
+                # print(lineNames)
+                # print(direction)
+                # print(rate)
+    
+                lineNames_increasing = []
+                lineNames_decreasing = []
+                lineNames_constant = []
+                for i in range(0, len(direction)):
+                    if (direction[i] == "increased"):
+                        lineNames_increasing.append(lineNames[i])
+                    elif (direction[i] == "decreased"):
+                        lineNames_decreasing.append(lineNames[i])
+                    else:
+                        lineNames_constant.append(lineNames[i])
+    
+                # print(lineNames_increasing)
+                # print(lineNames_decreasing)
+                # print(lineNames_constant)
+    
             if (len(lineNames) == 2):
 
                 difference_arr = []
@@ -1214,24 +1347,16 @@ def summarize(data, all_y_label, name, title):
 
                 min_diff = min(abs_difference_arr)
                 min_diff_indx = get_indexes_min_value(abs_difference_arr)
-
+                
+                
+    
             # Global Trends with rate of change
 
             globalTrends = []
             # print(constant)
             # print(gradual)
             # print(rapid)
-            for i in rate:
-                rate = globalRateOfChange(i, constant, gradual, rapid)
-                globalTrends.append(rate)
-            # print(globalTrends)
-
-            lineNames = stringLabels[1:]
-            # print(lineNames)
-            # print(direction)
-            # print(rate)
-            # print(globalTrends)
-
+            
             lineNames_increasing_r = []
             lineNames_increasing_g = []
 
@@ -1240,172 +1365,187 @@ def summarize(data, all_y_label, name, title):
 
             lineNames_constant_c = []
             
+            if (len(xVal_sorted)>1):
             
-            
-
-                
-
-            for i in range(0, len(direction)):
-                if (direction[i] == "increasing"):
-                    if (globalTrends[i] == "rapidly"):
-                        lineNames_increasing_r.append(lineNames[i])
-                    else:
-                        lineNames_increasing_g.append(lineNames[i])
-                elif (direction[i] == "decreasing"):
-                    if (globalTrends[i] == "rapidly"):
-                        lineNames_decreasing_r.append(lineNames[i])
-                    else:
-                        lineNames_decreasing_g.append(lineNames[i])
-                else:
-                    lineNames_constant_c.append(lineNames[i])
-
-            # print(direction)
-
-            # print("lineNames_increasing_r" + str(lineNames_increasing_r))
-            # print("lineNames_increasing_g" + str(lineNames_increasing_g))
-            # print("lineNames_decreasing_r" + str(lineNames_decreasing_r))
-            # print("lineNames_decreasing_g" + str(lineNames_decreasing_g))
-            # print("lineNames_constant_c" + str(lineNames_constant_c))
-            
-            
-            #Zig zag
-            zig_zagLines= []
-            if (len(lineNames_increasing_r)!=0):
-                zig_zagLines.append(lineNames_increasing_r)
-            if (len(lineNames_increasing_g)!=0):
-                zig_zagLines.append(lineNames_increasing_g)
-            if (len(lineNames_decreasing_r)!=0):
-                zig_zagLines.append(lineNames_decreasing_r)
-            if (len(lineNames_decreasing_g)!=0):
-                zig_zagLines.append(lineNames_decreasing_g)
-            
-            zig_zagLineNames=[]
-            for i in range(0, len(zig_zagLines)):
-                for j in range(0, len(zig_zagLines[i])):
-                    zig_zagLineNames.append(zig_zagLines[i][j])
-            # print("zig_zagLineNames" + str(zig_zagLineNames))
-                
-
-            
-
-            # For rapidly incresing lines report percentage increase or factor of increase
-            percentChng_in = []
-            factorChng_in = []
-
-            if (len(lineNames_increasing_r) != 0):
-                for i in range(0, len(lineNames_increasing_r)):
-                    indx = lineNames.index(lineNames_increasing_r[i])
-                    n = float(yVals_sorted[indx][len(yVals_sorted[indx]) - 1])
-                    o = float(yVals_sorted[indx][0])
-                    if (o == 0):
-                        o = 0.00000000001
-                        
-                    if (n == 0):
-                        n = 0.00000000001
-                   
-                        
-                    p = abs(percentChnageFunc(n, o))
-                    
-                    #Factor 
-                    if (n != 0.00000000001 and o != 0.00000000001):
-                        if (n>o):
-                            f = round(n / o, 1)
-                        else:
-                            f = round(o / n, 1)
-                        factorChng_in.append(f)
-                        
-                    percentChng_in.append(p)
-
-
-            # print("percentChng_in:   " + str(percentChng_in))
-            # print("factorChng_in:   " + str(factorChng_in))
-
-            # For rapidly decreasing lines report percentage decrease or factor of decrease
-            percentChng_de = []
-            factorChng_de = []
-
-            if (len(lineNames_decreasing_r) != 0):
-                for i in range(0, len(lineNames_decreasing_r)):
-                    indx = lineNames.index(lineNames_decreasing_r[i])
-                    n = float(yVals_sorted[indx][len(yVals_sorted[indx]) - 1])
-                    o = float(yVals_sorted[indx][0])
-                    
-                    if (o == 0):
-                        o = 0.00000000001
-                    if (n == 0):
-                        n = 0.00000000001
+                for i in rate:
+                    rate = globalRateOfChange(i, constant, gradual, rapid)
+                    globalTrends.append(rate)
+                # print(globalTrends)
     
-                    p = abs(percentChnageFunc(n, o))
-                    
-                    #Factor 
-                    if (n != 0.00000000001 and o != 0.00000000001):
-                        if (n>o):
-                            f = round(n / o, 1)
-                        else:
-                            f = round(o / n, 1)
-                        factorChng_in.append(f)
-                        
-                        
-                    percentChng_de.append(p)
-
-
-            # print(percentChng_de)
-            # print(factorChng_de)
-
-            percentChngSumm = ""
-            factorChngSumm = ""
-            
-            # print("percentChng_in:     " + str(percentChng_in))
-            print(percentChng_in)
-            print(factorChng_in)
-            
-            # for i in range(0, len(percentChng_in)):
-            #     percentChng_in[i]= str(percentChng_in[i])
-            # print(percentChng_in)
-            
-            percentChng_in= floatToStr(percentChng_in)
-            if(bool(factorChng_in)):
-                factorChng_in=  floatToStr(factorChng_in)
-            percentChng_de= floatToStr(percentChng_de)
-            if(bool(factorChng_de)):
-                factorChng_de=  floatToStr(factorChng_de)
+                lineNames = stringLabels[1:]
+                # print(lineNames)
+                # print(direction)
+                # print(rate)
+                # print(globalTrends)
+    
                 
-            print(percentChng_in)
-            print(factorChng_in)
-
-            # Line that are rapidly increasing
-            if (len(lineNames_increasing_r) > 1):
-                percentChngSumm += commaAnd(lineNames_increasing_r) + " has increased by " + commaAnd(percentChng_in) + " percent respectively."
-                if (len(factorChng_in)!=0):
-                    factorChngSumm += commaAnd(lineNames_increasing_r) + " has increased by " + commaAnd(factorChng_in) + " times respectively." # globalTrendRate_summary.append(summary_increasing_r)
-            elif (len(lineNames_increasing_r) == 1):
-                percentChngSumm += commaAnd(lineNames_increasing_r) + " has increased by " + commaAnd(percentChng_in) + " percent."
-                if (len(factorChng_in)!=0):
-                    factorChngSumm += commaAnd(lineNames_increasing_r) + " has increased by " + commaAnd(factorChng_in) + " times."
-                # globalTrendRate_summary.append(summary_increasing_r)
-
-            # Line that are rapidly decreasing
-            if (len(lineNames_decreasing_r) > 1):
-                percentChngSumm += commaAnd(lineNames_decreasing_r) + " has decreased by " + commaAnd(percentChng_de) + " percent respectively."
-                if (len(factorChng_de)!=0):
-                    factorChngSumm += commaAnd(lineNames_decreasing_r) + " has decreased by " + commaAnd(factorChng_de) + " times respectively."
-                # globalTrendRate_summary.append(summary_increasing_r)
-            elif (len(lineNames_decreasing_r) == 1):
-                percentChngSumm += commaAnd(lineNames_decreasing_r) + " has decreased by " + commaAnd(percentChng_de) + " percent."
-                if (len(factorChng_de)!=0):
-                    factorChngSumm += commaAnd(lineNames_decreasing_r) + " has decreased by " + commaAnd(factorChng_de) + " times."
-                # globalTrendRate_summary.append(summary_increasing_r)
-
-            # print("percentChngSumm: " + str(percentChngSumm))
-            # print("factorChngSumm: ", str(factorChngSumm))
-
+                
+                  
+    
+                for i in range(0, len(direction)):
+                    if (direction[i] == "increasing"):
+                        if (globalTrends[i] == "rapidly"):
+                            lineNames_increasing_r.append(lineNames[i])
+                        else:
+                            lineNames_increasing_g.append(lineNames[i])
+                    elif (direction[i] == "decreasing"):
+                        if (globalTrends[i] == "rapidly"):
+                            lineNames_decreasing_r.append(lineNames[i])
+                        else:
+                            lineNames_decreasing_g.append(lineNames[i])
+                    else:
+                        lineNames_constant_c.append(lineNames[i])
+    
+                # print(direction)
+    
+                # print("lineNames_increasing_r" + str(lineNames_increasing_r))
+                # print("lineNames_increasing_g" + str(lineNames_increasing_g))
+                # print("lineNames_decreasing_r" + str(lineNames_decreasing_r))
+                # print("lineNames_decreasing_g" + str(lineNames_decreasing_g))
+                # print("lineNames_constant_c" + str(lineNames_constant_c))
+        
+        
+                #Zig zag
+                zig_zagLines= []
+                
+                if (len(lineNames_increasing_r)!=0):
+                    zig_zagLines.append(lineNames_increasing_r)
+                if (len(lineNames_increasing_g)!=0):
+                    zig_zagLines.append(lineNames_increasing_g)
+                if (len(lineNames_decreasing_r)!=0):
+                    zig_zagLines.append(lineNames_decreasing_r)
+                if (len(lineNames_decreasing_g)!=0):
+                    zig_zagLines.append(lineNames_decreasing_g)
+        
+                zig_zagLineNames=[]
+                
+                for i in range(0, len(zig_zagLines)):
+                    for j in range(0, len(zig_zagLines[i])):
+                        zig_zagLineNames.append(zig_zagLines[i][j])
+                # print("zig_zagLineNames" + str(zig_zagLineNames))
             
-            if (len(factorChngSumm)==0 ):
-                selectedChange = percentChngSumm
-            else:
-                chnageFactor = [percentChngSumm, factorChngSumm]
-                selectedChange = random.choice(chnageFactor)
-            # print("selectedChange:   " + str(selectedChange))
+
+        
+
+                # For rapidly incresing lines report percentage increase or factor of increase
+    
+                percentChng_in = []
+                factorChng_in = []
+    
+                if (len(lineNames_increasing_r) != 0):
+                    for i in range(0, len(lineNames_increasing_r)):
+                        indx = lineNames.index(lineNames_increasing_r[i])
+                        n = float(yVals_sorted[indx][len(yVals_sorted[indx]) - 1])
+                        o = float(yVals_sorted[indx][0])
+                        if (o == 0):
+                            o = 0.00000000001
+                            
+                        if (n == 0):
+                            n = 0.00000000001
+                       
+                            
+                        p = abs(percentChnageFunc(n, o))
+                        
+                        #Factor 
+                        if (n != 0.00000000001 and o != 0.00000000001):
+                            if (n>o):
+                                f = round(n / o, 1)
+                            else:
+                                f = round(o / n, 1)
+                            factorChng_in.append(f)
+                            
+                        percentChng_in.append(p)
+    
+    
+                # print("percentChng_in:   " + str(percentChng_in))
+                # print("factorChng_in:   " + str(factorChng_in))
+    
+                # For rapidly decreasing lines report percentage decrease or factor of decrease
+                percentChng_de = []
+                factorChng_de = []
+    
+                if (len(lineNames_decreasing_r) != 0):
+                    for i in range(0, len(lineNames_decreasing_r)):
+                        indx = lineNames.index(lineNames_decreasing_r[i])
+                        n = float(yVals_sorted[indx][len(yVals_sorted[indx]) - 1])
+                        o = float(yVals_sorted[indx][0])
+                        
+                        if (o == 0):
+                            o = 0.00000000001
+                        if (n == 0):
+                            n = 0.00000000001
+        
+                        p = abs(percentChnageFunc(n, o))
+                        
+                        #Factor 
+                        if (n != 0.00000000001 and o != 0.00000000001):
+                            if (n>o):
+                                f = round(n / o, 1)
+                            else:
+                                f = round(o / n, 1)
+                            factorChng_in.append(f)
+                            
+                            
+                        percentChng_de.append(p)
+    
+    
+                # print(percentChng_de)
+                # print(factorChng_de)
+    
+                percentChngSumm = ""
+                factorChngSumm = ""
+                
+                # print("percentChng_in:     " + str(percentChng_in))
+                print(percentChng_in)
+                print(factorChng_in)
+                
+                # for i in range(0, len(percentChng_in)):
+                #     percentChng_in[i]= str(percentChng_in[i])
+                # print(percentChng_in)
+                
+                percentChng_in= floatToStr(percentChng_in)
+                if(bool(factorChng_in)):
+                    factorChng_in=  floatToStr(factorChng_in)
+                percentChng_de= floatToStr(percentChng_de)
+                if(bool(factorChng_de)):
+                    factorChng_de=  floatToStr(factorChng_de)
+                    
+                print(percentChng_in)
+                print(factorChng_in)
+    
+                # Line that are rapidly increasing
+                if (len(lineNames_increasing_r) > 1):
+                    percentChngSumm += commaAnd(lineNames_increasing_r) + " has increased by " + commaAnd(percentChng_in) + " percent respectively."
+                    if (len(factorChng_in)!=0):
+                        factorChngSumm += commaAnd(lineNames_increasing_r) + " has increased by " + commaAnd(factorChng_in) + " times respectively." # globalTrendRate_summary.append(summary_increasing_r)
+                elif (len(lineNames_increasing_r) == 1):
+                    percentChngSumm += commaAnd(lineNames_increasing_r) + " has increased by " + commaAnd(percentChng_in) + " percent."
+                    if (len(factorChng_in)!=0):
+                        factorChngSumm += commaAnd(lineNames_increasing_r) + " has increased by " + commaAnd(factorChng_in) + " times."
+                    # globalTrendRate_summary.append(summary_increasing_r)
+    
+                # Line that are rapidly decreasing
+                if (len(lineNames_decreasing_r) > 1):
+                    percentChngSumm += commaAnd(lineNames_decreasing_r) + " has decreased by " + commaAnd(percentChng_de) + " percent respectively."
+                    if (len(factorChng_de)!=0):
+                        factorChngSumm += commaAnd(lineNames_decreasing_r) + " has decreased by " + commaAnd(factorChng_de) + " times respectively."
+                    # globalTrendRate_summary.append(summary_increasing_r)
+                elif (len(lineNames_decreasing_r) == 1):
+                    percentChngSumm += commaAnd(lineNames_decreasing_r) + " has decreased by " + commaAnd(percentChng_de) + " percent."
+                    if (len(factorChng_de)!=0):
+                        factorChngSumm += commaAnd(lineNames_decreasing_r) + " has decreased by " + commaAnd(factorChng_de) + " times."
+                    # globalTrendRate_summary.append(summary_increasing_r)
+    
+                # print("percentChngSumm: " + str(percentChngSumm))
+                # print("factorChngSumm: ", str(factorChngSumm))
+    
+                
+                if (len(factorChngSumm)==0 ):
+                    selectedChange = percentChngSumm
+                else:
+                    chnageFactor = [percentChngSumm, factorChngSumm]
+                    selectedChange = random.choice(chnageFactor)
+                # print("selectedChange:   " + str(selectedChange))
 
 
 
@@ -1419,70 +1559,77 @@ def summarize(data, all_y_label, name, title):
             summary1.append("You are viewing a chart of multi-line type with " + str(lineCount) + " lines denoting " + line_names + ". " + "The y axis indicates the " + y_label + " and the x axis indicates " + x_label + ".")
             # summary2 = "The line for " + str(maxLine[0]) + " has the highest values across " + str(
             #     stringLabels[0]) + " with a mean value of " + str(maxLine[1]) + ", "
-            summaryArr.append(random.choice(summary1))
+            
+            if (lasso==0): # Means lasso is not on
+                summaryArr.append(random.choice(summary1))
             
             
             ###### Global Trends with Rate of chnage
-            globalTrendRate_summary = "Overall "
-
-            # Lines that rapidly increase
-            # summary_increasing_r= ""
-            if (len(lineNames_increasing_r) > 1):
-                globalTrendRate_summary += commaAnd(lineNames_increasing_r) + " are rapidly increasing, "
-                # globalTrendRate_summary.append(summary_increasing_r)
-            elif (len(lineNames_increasing_r) == 1):
-                globalTrendRate_summary += commaAnd(lineNames_increasing_r) + " is rapidly increasing, "
-                # globalTrendRate_summary.append(summary_increasing_r)
-
-            # Lines that gradually increase
-            # summary_increasing_g= ""
-            if (len(lineNames_increasing_g) > 1):
-                globalTrendRate_summary += commaAnd(lineNames_increasing_g) + " are gradually increasing, "
-                # globalTrendRate_summary.append(summary_increasing_g)
-            elif (len(lineNames_increasing_g) == 1):
-                globalTrendRate_summary += commaAnd(lineNames_increasing_g) + " is gradually increasing, "
-                # globalTrendRate_summary.append(summary_increasing_g)
-
-            # Lines that rapidly decrease
-            # summary_decreasing_r= ""
-            if (len(lineNames_decreasing_r) > 1):
-                globalTrendRate_summary += commaAnd(lineNames_decreasing_r) + " are rapidly decreasing, "
-                # globalTrendRate_summary.append(lineNames_decreasing_r)
-            elif (len(lineNames_decreasing_r) == 1):
-                globalTrendRate_summary += commaAnd(lineNames_decreasing_r) + " is rapidly decreasing, "
-                # globalTrendRate_summary.append(lineNames_decreasing_r)
-
-            # Lines that gradually decrease
-            # summary_decreasing_g= ""
-            if (len(lineNames_decreasing_g) > 1):
-                globalTrendRate_summary += commaAnd(lineNames_decreasing_g) + " are gradually decreasing, "
-                # globalTrendRate_summary.append(lineNames_decreasing_g)
-            elif (len(lineNames_decreasing_g) == 1):
-                globalTrendRate_summary += commaAnd(lineNames_decreasing_g) + " is gradually decreasing, "
-                # globalTrendRate_summary.append(lineNames_decreasing_g)
-
-            # Lines that stay constant
-            # summary_constant_c= ""
-            if (len(lineNames_constant_c) > 1):
-                globalTrendRate_summary += commaAnd(lineNames_constant_c) + " are roughly constant, "
-                # globalTrendRate_summary.append(summary_constant_c)
-            elif (len(lineNames_constant_c) == 1):
-                globalTrendRate_summary += commaAnd(lineNames_constant_c) + " is roughly constant, "
-                # globalTrendRate_summary.append(summary_constant_c)
-
-            globalTrendRate_summary += " throughout the " + stringLabels[0]
-            summaryArr.append(globalTrendRate_summary)
+            if (len(xVal_sorted)> 1): 
+                globalTrendRate_summary = "Overall "
+    
+                # Lines that rapidly increase
+                # summary_increasing_r= ""
+                if (len(lineNames_increasing_r) > 1):
+                    globalTrendRate_summary += commaAnd(lineNames_increasing_r) + " are rapidly increasing, "
+                    # globalTrendRate_summary.append(summary_increasing_r)
+                elif (len(lineNames_increasing_r) == 1):
+                    globalTrendRate_summary += commaAnd(lineNames_increasing_r) + " is rapidly increasing, "
+                    # globalTrendRate_summary.append(summary_increasing_r)
+    
+                # Lines that gradually increase
+                # summary_increasing_g= ""
+                if (len(lineNames_increasing_g) > 1):
+                    globalTrendRate_summary += commaAnd(lineNames_increasing_g) + " are gradually increasing, "
+                    # globalTrendRate_summary.append(summary_increasing_g)
+                elif (len(lineNames_increasing_g) == 1):
+                    globalTrendRate_summary += commaAnd(lineNames_increasing_g) + " is gradually increasing, "
+                    # globalTrendRate_summary.append(summary_increasing_g)
+    
+                # Lines that rapidly decrease
+                # summary_decreasing_r= ""
+                if (len(lineNames_decreasing_r) > 1):
+                    globalTrendRate_summary += commaAnd(lineNames_decreasing_r) + " are rapidly decreasing, "
+                    # globalTrendRate_summary.append(lineNames_decreasing_r)
+                elif (len(lineNames_decreasing_r) == 1):
+                    globalTrendRate_summary += commaAnd(lineNames_decreasing_r) + " is rapidly decreasing, "
+                    # globalTrendRate_summary.append(lineNames_decreasing_r)
+    
+                # Lines that gradually decrease
+                # summary_decreasing_g= ""
+                if (len(lineNames_decreasing_g) > 1):
+                    globalTrendRate_summary += commaAnd(lineNames_decreasing_g) + " are gradually decreasing, "
+                    # globalTrendRate_summary.append(lineNames_decreasing_g)
+                elif (len(lineNames_decreasing_g) == 1):
+                    globalTrendRate_summary += commaAnd(lineNames_decreasing_g) + " is gradually decreasing, "
+                    # globalTrendRate_summary.append(lineNames_decreasing_g)
+    
+                # Lines that stay constant
+                # summary_constant_c= ""
+                if (len(lineNames_constant_c) > 1):
+                    globalTrendRate_summary += commaAnd(lineNames_constant_c) + " are roughly constant, "
+                    # globalTrendRate_summary.append(summary_constant_c)
+                elif (len(lineNames_constant_c) == 1):
+                    globalTrendRate_summary += commaAnd(lineNames_constant_c) + " is roughly constant, "
+                    # globalTrendRate_summary.append(summary_constant_c)
+    
+                globalTrendRate_summary += " throughout the " + stringLabels[0]
+                
+                if(len(xVal_sorted)>1):
+                    summaryArr.append(globalTrendRate_summary)
             
             
             ##Zig Zag
             ## If >zigZagNum points and lines not constant then they are considered zig zag
             sum_zigzag_arr=[]
-            if (len(yVals_sorted[0])> zigZagNum and len(zig_zagLineNames)!= 0):
-                sum_zigzag=  str(commaAnd(zig_zagLineNames)) + " has in general many fluctuations."
-                sum_zigzag_arr.append(sum_zigzag)
-                sum_zigzag= "The lines" + str(commaAnd(zig_zagLineNames)) + " in general has a zig zag shape."
-                sum_zigzag_arr.append(sum_zigzag)
-                summaryArr.append(random.choice(sum_zigzag_arr))
+            
+            if (len(xVal_sorted)> 1): 
+                if (len(yVals_sorted[0])> zigZagNum and len(zig_zagLineNames)!= 0):
+                    sum_zigzag=  str(commaAnd(zig_zagLineNames)) + " has in general many fluctuations."
+                    sum_zigzag_arr.append(sum_zigzag)
+                    sum_zigzag= "The lines" + str(commaAnd(zig_zagLineNames)) + " in general has a zig zag shape."
+                    sum_zigzag_arr.append(sum_zigzag)
+                    summaryArr.append(random.choice(sum_zigzag_arr))
             
 
             #### Order/Ranking of all lines given total no of lines is < 5
@@ -1496,15 +1643,17 @@ def summarize(data, all_y_label, name, title):
                 sum_rank_arr.append(summary_rank1)
                 
                 # 2nd Version of wording the sentence
-                summary_rank2 = "The lines ordered according to average values of " + y_label+  " in descending order is: "
+                summary_rank2 = "The order of lines according to average values of " + y_label+  ", in descending order is: "
                 for i in range(0, len(sortedLines_descending) - 1):
                     summary_rank2 += str(i + 1) + ". " + sortedLines_descending[i][0] + ", "
                 summary_rank2 += "and lastly, " + str(len(sortedLines_descending)) + ". " + \
                                 sortedLines_descending[len(sortedLines_descending) - 1][0] + ". "
                 
                 sum_rank_arr.append(summary_rank2)
+                
                 #Choose randomly between 2 versions
-                summaryArr.append(random.choice(sum_rank_arr))     
+                if(len(xVal_sorted)>1):
+                    summaryArr.append(random.choice(sum_rank_arr))     
             
             
 
@@ -1520,8 +1669,8 @@ def summarize(data, all_y_label, name, title):
                                                            0]) + " mostly maintained the highest " + y_label+ " when compared to others" + " with a mean value of " + str(
                 meanOfTopmost) + ", and it peaked at " + str(max_xVal_ofTopmost)+ ".") 
                 
-
-            summaryArr.append(random.choice(summary2))
+            if (lasso==0): # Means lasso is not on                                                  
+                summaryArr.append(random.choice(summary2))
            
 
             ## Talks about the second topmost line
@@ -1538,7 +1687,8 @@ def summarize(data, all_y_label, name, title):
                     secondLine[1])+ " "+ y_label + ",reaching its highest point  at " + str(secondXValue) + " with a value of " + str(secondLineData) + ". "
                 summ_2top_arr.append(summary4)
                 
-                summaryArr.append(random.choice(summ_2top_arr))
+                if (lasso==0): # Means lasso is not on
+                    summaryArr.append(random.choice(summ_2top_arr))
 
             ## Talks about the bottomost line
             sum_bottom_arr=[]
@@ -1552,7 +1702,8 @@ def summarize(data, all_y_label, name, title):
                 meanOfBotommost) + ", and peaked at " + str(max_xVal_ofBotommost) + ". "
             sum_bottom_arr.append(summary6)
             
-            summaryArr.append(random.choice(sum_bottom_arr))
+            if (lasso==0): # Means lasso is not on
+                summaryArr.append(random.choice(sum_bottom_arr))
 
 
             # Additional summaries -shehnaz
@@ -1617,17 +1768,17 @@ def summarize(data, all_y_label, name, title):
             
             
             #Comparison
-            
-            # Randomly picking abosolute vs relative comparison
-            # Append randomly the factor of chnage given the chnage was rapid
-            if (len(lineNames_increasing_r) != 0 or len(lineNames_decreasing_r) != 0):
-                summaryArr.append(selectedChange)
+            if (len(xVal_sorted)> 1): 
+                # Randomly picking abosolute vs relative comparison
+                # Append randomly the factor of chnage given the chnage was rapid
+                if (len(lineNames_increasing_r) != 0 or len(lineNames_decreasing_r) != 0):
+                    summaryArr.append(selectedChange)
                 
             #Gap
             
             ###### The gap between two lines
             summary_Gap =[]
-            if (len(lineNames) == 2):
+            if (len(lineNames) == 2 and len(xVal_sorted)>1):
                 summary10 ="The difference of " + y_label + " between " + lineNames[0] + " and " + lineNames[
                     1] + " is " + diff_direction + " at " + stringLabels[0] + " " + xVal_sorted[
                                 -1] + " compared to the " + stringLabels[0] + " " + xVal_sorted[0] + "."
@@ -1637,9 +1788,17 @@ def summarize(data, all_y_label, name, title):
                             lineNames[1] + " occurs at " + stringLabels[0] + " " + str(
                     xVal_sorted[max_diff_indx[0]]) + " and the smallest difference occurs at " + str(
                     xVal_sorted[min_diff_indx[0]]) + "."  # Assumes there is only one max and min gap or difference
+                
                 summary_Gap.append(summary11)
                 
                 summaryArr.append(random.choice(summary_Gap))
+               
+            ##### Gap when only 1 x value selected
+            gap=""
+            if(len(lineNames) == 2 and len(xVal_sorted)==1):
+                gap+= "The gap between the lines at "+ stringLabels[0]+ " " + str(xVal_sorted[0]) +" is " + str(abs_difference_arr[0].round(2)) + " ."
+                summaryArr.append(gap)
+                    
                 
             # print("summary_Gap" + str(summary_Gap))
                 
@@ -1651,45 +1810,57 @@ def summarize(data, all_y_label, name, title):
             mid_summary = [] # Medium length summary
             max_summary = [] # Maximum length summary
 
-            min_summary.append(random.choice(summary1)) #intro
-            min_summary.append(globalTrendRate_summary) # Global Trend
-            min_summary.append(random.choice(summary2)) #Topmost
-            if (len(summ_2top_arr)!=0):
+            if (lasso==0): # Means lasso is not on
+                min_summary.append(random.choice(summary1)) #intro
+            if(len(xVal_sorted)>1):
+                min_summary.append(globalTrendRate_summary) # Global Trend
+            if (lasso==0):
+                min_summary.append(random.choice(summary2)) #Topmost
+            if (len(summ_2top_arr)!=0 and lasso==0):
                 min_summary.append(random.choice(summ_2top_arr)) # Second Topmost
-            min_summary.append(random.choice(sum_bottom_arr)) # Botommost
+            if (lasso==0):
+                min_summary.append(random.choice(sum_bottom_arr)) # Botommost
             if (len(sum_zigzag_arr)!=0):
                 min_summary.append(random.choice(sum_zigzag_arr)) # Zig Zag 
             
-            # print( "min_summary" + str(min_summary) + "/n")
+            print( "min_summary" + str(min_summary) + "/n")
             
             # Medium Summary
-            mid_summary.append(random.choice(summary1)) #intro
-            mid_summary.append(globalTrendRate_summary) # Global Trend
-            if (len(lineNames_increasing_r) != 0 or len(lineNames_decreasing_r) != 0):
+            if (lasso==0): 
+                mid_summary.append(random.choice(summary1)) #intro
+            if(len(xVal_sorted)>1):
+                mid_summary.append(globalTrendRate_summary) # Global Trend
+            if (len(xVal_sorted)>1 and (len(lineNames_increasing_r) != 0 or len(lineNames_decreasing_r) != 0)):
                 mid_summary.append(selectedChange) # Comparison
-            if (len(sum_rank_arr)!=0):
-                mid_summary.append(random.choice(sum_rank_arr))  #Order/Rank  
-            mid_summary.append(random.choice(summary2)) #Topmost
-            if (len(summ_2top_arr)!=0):
+            if (len(sum_rank_arr)!=0 and lasso==0):
+                mid_summary.append(random.choice(sum_rank_arr))  #Order/Rank
+            if (lasso==0):
+                mid_summary.append(random.choice(summary2)) #Topmost
+            if (len(summ_2top_arr)!=0 and lasso==0):
                 mid_summary.append(random.choice(summ_2top_arr)) #Second Topmost
-            mid_summary.append(random.choice(sum_bottom_arr)) # Botommost
+            if (lasso==0):
+                mid_summary.append(random.choice(sum_bottom_arr)) # Botommost
             if (len(sum_zigzag_arr)!=0):
                 mid_summary.append(random.choice(sum_zigzag_arr)) # Zig Zag 
             
             
-            # print( "mid_summary" + str(mid_summary) + "/n")
+            print( "mid_summary" + str(mid_summary) + "/n")
             
             # Maximum Summary
-            max_summary.append(random.choice(summary1)) #intro
-            max_summary.append(globalTrendRate_summary) # Global Trend
-            if (len(lineNames_increasing_r) != 0 or len(lineNames_decreasing_r) != 0):
+            if (lasso==0): 
+                max_summary.append(random.choice(summary1)) #intro
+            if(len(xVal_sorted)>1):
+                max_summary.append(globalTrendRate_summary) # Global Trend
+            if (len(xVal_sorted)>1 and (len(lineNames_increasing_r) != 0 or len(lineNames_decreasing_r) != 0)):
                 max_summary.append(selectedChange) # Comparison 
-            if (len(sum_rank_arr)!=0):
-                max_summary.append(random.choice(sum_rank_arr))  #Order/Rank  
-            max_summary.append(random.choice(summary2)) #Topmost
-            if (len(summ_2top_arr)!=0):
+            if (len(sum_rank_arr)!=0 and lasso==0):
+                max_summary.append(random.choice(sum_rank_arr))  #Order/Rank 
+            if (lasso==0):
+                max_summary.append(random.choice(summary2)) #Topmost
+            if (len(summ_2top_arr)!=0 and lasso==0):
                 max_summary.append(random.choice(summ_2top_arr)) #Second Topmost
-            max_summary.append(random.choice(sum_bottom_arr)) # Botommost
+            if (lasso==0):
+                max_summary.append(random.choice(sum_bottom_arr)) # Botommost
             if (len(sum_max_arr)!=0):
                 max_summary.append(random.choice(sum_max_arr)) # Global Max
             if (len(sum_min_arr)!=0):
@@ -1698,6 +1869,9 @@ def summarize(data, all_y_label, name, title):
                 max_summary.append(random.choice(sum_zigzag_arr)) # Zig Zag 
             if (len(summary_Gap)!=0):
                 max_summary.append(random.choice(summary_Gap)) # Gap (if 2 lines only )
+            if (len(gap)!=0):
+                max_summary.append(gap) # Gap (if 2 lines only )
+                
             
             
             print( "max_summary" + str(max_summary) + "/n")
@@ -2056,6 +2230,9 @@ def summarize(data, all_y_label, name, title):
         ## for single line charts
         # run line  
         elif (chartType == "line"): # Single Line
+            
+            lasso=0  #Means lasso selection is false or off
+            
             trendArray = []
             numericXValueArr = []
             for xVal, index in zip(xValueArr, range(
@@ -2112,6 +2289,69 @@ def summarize(data, all_y_label, name, title):
 
             yValueArrCorrectOrder = np.array(values)  # yValueArr[len(yValueArr)::-1]  ## Ordered correctly this time
             xValueArrCorrectOrder = np.array(keys)  # xValueArr[len(xValueArr)::-1]  ## Ordered correctly this time
+
+
+
+
+            
+            ## LASSO SELECTION
+            ### Random X values for Lasso Selection
+            
+            lasso = 1 #Means lasso selection is true or on
+            
+            if (len(xValueArrCorrectOrder)!=1): # If chart originally has only 1 point then leave it as is
+            
+                randIndx=[]
+                for i in range(1, len(xValueArrCorrectOrder)):
+                    randIndx.append(i)
+                print( "randIndx:  " + str(randIndx))
+                
+                
+                from random import randrange
+                b = xValueArrCorrectOrder
+                
+                # n = 5  # manullay specify
+                n= random.choice(randIndx)
+                
+                print("n: " + str(n))
+                
+                k = randrange(len(b)-n+1)
+                result = b[k:k+n]
+                print(result)
+                            
+                
+                # rand_XVal= random.sample(list(xValueArrCorrectOrder), 1)
+                # print("rand_XVal:   " + str(rand_XVal))
+                
+                x_min= min(result)
+                x_max= max(result)
+                
+                min_indx= get_indexes(xValueArrCorrectOrder, x_min)
+                max_indx= get_indexes(xValueArrCorrectOrder, x_max)
+                
+                print("x_min:   " + str(x_min) + " min_indx:   "+ str(min_indx))
+                print("x_max:   " + str(x_max)+ " max_indx:   "+ str(max_indx))
+                
+                
+                xVal_lasso=xValueArrCorrectOrder[min_indx:max_indx+1]
+                yVal_lasso= yValueArrCorrectOrder[min_indx:max_indx+1]
+                
+                
+                print("xVal_lasso: " + str(xVal_lasso))
+                print("yVal_lasso: " + str(yVal_lasso))
+                
+                xValueArrCorrectOrder= xVal_lasso
+                yValueArrCorrectOrder= yVal_lasso
+            
+            print("Lasso X vals")
+            print(xValueArrCorrectOrder)
+            print("Lasso Y vals")
+            print(yValueArrCorrectOrder)
+            
+
+
+
+
 
             ##### Smooth the entire chart first
 
@@ -2190,363 +2430,368 @@ def summarize(data, all_y_label, name, title):
             percentArray = []
             # directionArray = []
             i = 1
-            while i < (len(yValueArrCorrectOrder)):
-                old = yValueArrCorrectOrder[i - 1]
-                if (old == 0 or old == 0.0):
-                    old = 0.00000000001
-                variance1 = float(yValueArrCorrectOrder[i]) - float(
-                    old)  # 2nd yVal- Prev yVal # Note that xValueArr and yValueArr are ordered such that the start values are written at the end of the array
-                localPercentChange = (variance1 / float(old)) * 100
-
-                # o= yValueArrCorrectOrder[i - 1]
-                # n= yValueArrCorrectOrder[i]
-                # m=max(yValueArrCorrectOrder)
-                # variance1 = n-o
-                # localPercentChange= percentChnageRangeFunc(n, o, m)
-                # d= globalDirectionTrend(localPercentChange, constant)
-
-                varianceArray.append(variance1)
-                percentArray.append(localPercentChange)
-                # directionArray.append(d)
-                i = i + 1
-
-            # print(varianceArray)
-            # print(percentArray)
-            # print(directionArray)
-
-            # print(varianceArray)
-            # print(percentArray)
-
-            # ##### Slope apporach
-            # yValueArrCorrectOrder = yValueArr[len(yValueArr)::-1]  ## Ordered correctly this time
-            # # print(yValueArrCorrectOrder)
-
-            # xValueArrCorrectOrder = xValueArr[len(xValueArr)::-1]  ## Ordered correctly this time
-            # # print(xValueArrCorrectOrder)
-
-            # slopeArray = []
-            # i = 0
-            # while i < (len(yValueArrCorrectOrder)-1):
-            #     neumerator= yValueArrCorrectOrder[i+1]- yValueArrCorrectOrder[i]
-            #     denominator= (i+1)- (i)
-            #     slope= neumerator/denominator
-            #     slopeArray.append(slope)
-            #     i = i + 1
-
-            # print(slopeArray)
-
-            ##Start here # Plan: Normalize percentages and then use them to determine direction and trends everywhere and check if it works.
-
-            ## Normalization of percentArray for smoothing
-            # normalized_percentArray= []
-            # mean_percentArray= mean(percentArray)
-            # sd_percentArray = stdev(percentArray)
-            # for i in range(0, len(percentArray)):
-            #     normalized_val= (percentArray[i]- mean_percentArray)/sd_percentArray
-            #     normalized_percentArray.append(normalized_val)
-            # print("normalized_percentArray")
-
-            ##### percentArraynormalization apporach
-            # normalized_percentArray= []
-            # min_val= min(percentArray)
-            # max_val= max(percentArray)
-            # # min_val= 0
-            # # max_val= 100
-
-            # for i in range(0, len(percentArray)):
-            #     normalized_val= (100*(percentArray[i]- min_val))/(max_val-min_val)
-            #     normalized_percentArray.append(normalized_val)
-            # print("normalized_percentArray")
-
-            # normalized_percentArrayCorrectOrder= normalized_percentArray[len(normalized_percentArray)::-1]
-            # print(normalized_percentArrayCorrectOrder)
-
-            # abs_slopeArray= [abs(number) for number in slopeArray] #neww
-            # print(abs_slopeArray)
-
-            # normalized_slopeArray= []
-
-            # # minValSlope= min(abs_slopeArray)
-            # # maxValSlope= max(abs_slopeArray)
-
-            # meanSlope= mean(abs_slopeArray)
-            # sdSlope= stdev(abs_slopeArray)
-
-            # # for i in range(0, len(abs_slopeArray)):
-            # #     normalized_slope= (100*(abs_slopeArray[i]- minValSlope))/(maxValSlope-minValSlope)
-            # #     normalized_slopeArray.append(normalized_slope)
-            # # print("normalized_slopeArray")
-
-            # for i in range(0, len(abs_slopeArray)):
-            #     normalized_slope= (abs_slopeArray[i]- meanSlope)/sdSlope
-            #     normalized_slopeArray.append(normalized_slope)
-            # print("normalized_slopeArray")
-
-            # print(normalized_slopeArray)
-
-            varianceArrayCorrectOrder = varianceArray  # varianceArray[len(varianceArray)::-1]  ## Ordered correctly this time
-            percentArrayCorrectOrder = percentArray  # percentArray[len(percentArray)::-1]  ## Ordered correctly this time
-
-            # print(varianceArrayCorrectOrder)
-            # print(percentArrayCorrectOrder) #neww
-
-            ## percentArray Appraoch
-            ## Mean of abs_percentArrayCorrectOrder
-            abs_percentArrayCorrectOrder = [abs(number) for number in percentArrayCorrectOrder]  # neww
-            # print(abs_percentArrayCorrectOrder)
-            mean_percentArray = mean(abs_percentArrayCorrectOrder)  # mean of abosulte values of percentArray
-            # print(mean_percentArray)
-            # sd_percentArray= stdev(abs_percentArrayCorrectOrder)
-            # print(sd_percentArray)
-
-            constant_rate = c_rate * mean_percentArray  # avg(% chnage)*0.1 # Meaning any chnage less than 5% is considered roughly constant slope  # Determines if a trend is increasing, decreasing or constant
-            significant_rate = s_rate * mean_percentArray
-            gradually_rate = g_rate * mean_percentArray
-            rapidly_rate = r_rate * mean_percentArray
-
-            # significant_rate=sig
-
-            # constant_rate = mean_percentArray- 1*(sd_percentArray) # avg(% chnage)*0.1 # Meaning any chnage less than 5% is considered roughly constant slope  # Determines if a trend is increasing, decreasing or constant
-            # significant_rate = mean_percentArray# avg(% chnage)*0.1 # Meaning any chnage >constant rate and less than this rate is considered not significant and so it's trend direction is chnaged to the trend of the succesive interval # Determines the start and end of the trend
-            # gradually_rate= mean_percentArray+ 1*(sd_percentArray)
-            # rapidly_rate= mean_percentArray+ 2*(sd_percentArray)
-
-            # ## Standard Deviation of abs_percentArrayCorrectOrder
-            # sd_percentArray= stdev(abs_percentArrayCorrectOrder)  # standard deviation of abosulte values of percentArray
-            # print(sd_percentArray)
-
-            directionArray = []
-            i = 1
-            while i < (len(yValueArrCorrectOrder)):
-                d = directionTrend(yValueArrCorrectOrder[i],
-                                   yValueArrCorrectOrder[i - 1],
-                                   constant_rate)  # direction e.g. increase, decrease or constant
-                directionArray.append(d)
-                i = i + 1
-            # print("Orginal Direction Trend:")
-            # print(directionArray)
-
-            ### Previously indexs reported for only increasing and decresing trends
-            # trendChangeIdx = []
-            # for idx in range(0, len(varianceArrayCorrectOrder) - 1):
-
-            #     # checking for successive opposite index
-            #     if varianceArrayCorrectOrder[idx] > 0 and varianceArrayCorrectOrder[idx + 1] < 0 or varianceArrayCorrectOrder[idx] < 0 and varianceArrayCorrectOrder[idx + 1] > 0:
-            #         trendChangeIdx.append(idx)
-
-            # print("Sign shift indices : " + str(trendChangeIdx))
-
-            # percentArray approach to smoothing
-            ## Smoothing directionArray. If percentChange >10% then direction of trend is that of the next interval (regardless if it was increasing or decreasing)
-            directionArraySmoothed = []
-            for idx in range(0, len(percentArrayCorrectOrder) - 1):  # neww
-                # checking for percent chnage >5% (not constant) and <10% (not significant) and chnaging their direction to be the direction of the succesive interval
-                if (abs(percentArrayCorrectOrder[idx]) > constant_rate and abs(
-                        percentArrayCorrectOrder[idx]) < significant_rate):  # neww
-                    d = directionArray[idx + 1]
-                    directionArraySmoothed.append(d)
+            
+            if(len(xValueArrCorrectOrder)>1):
+            
+                while i < (len(yValueArrCorrectOrder)):
+                    old = yValueArrCorrectOrder[i - 1]
+                    if (old == 0 or old == 0.0):
+                        old = 0.00000000001
+                    variance1 = float(yValueArrCorrectOrder[i]) - float(
+                        old)  # 2nd yVal- Prev yVal # Note that xValueArr and yValueArr are ordered such that the start values are written at the end of the array
+                    localPercentChange = (variance1 / float(old)) * 100
+    
+                    # o= yValueArrCorrectOrder[i - 1]
+                    # n= yValueArrCorrectOrder[i]
+                    # m=max(yValueArrCorrectOrder)
+                    # variance1 = n-o
+                    # localPercentChange= percentChnageRangeFunc(n, o, m)
+                    # d= globalDirectionTrend(localPercentChange, constant)
+    
+                    varianceArray.append(variance1)
+                    percentArray.append(localPercentChange)
+                    # directionArray.append(d)
+                    i = i + 1
+    
+                # print(varianceArray)
+                # print(percentArray)
+                # print(directionArray)
+    
+                # print(varianceArray)
+                # print(percentArray)
+    
+                # ##### Slope apporach
+                # yValueArrCorrectOrder = yValueArr[len(yValueArr)::-1]  ## Ordered correctly this time
+                # # print(yValueArrCorrectOrder)
+    
+                # xValueArrCorrectOrder = xValueArr[len(xValueArr)::-1]  ## Ordered correctly this time
+                # # print(xValueArrCorrectOrder)
+    
+                # slopeArray = []
+                # i = 0
+                # while i < (len(yValueArrCorrectOrder)-1):
+                #     neumerator= yValueArrCorrectOrder[i+1]- yValueArrCorrectOrder[i]
+                #     denominator= (i+1)- (i)
+                #     slope= neumerator/denominator
+                #     slopeArray.append(slope)
+                #     i = i + 1
+    
+                # print(slopeArray)
+    
+                ##Start here # Plan: Normalize percentages and then use them to determine direction and trends everywhere and check if it works.
+    
+                ## Normalization of percentArray for smoothing
+                # normalized_percentArray= []
+                # mean_percentArray= mean(percentArray)
+                # sd_percentArray = stdev(percentArray)
+                # for i in range(0, len(percentArray)):
+                #     normalized_val= (percentArray[i]- mean_percentArray)/sd_percentArray
+                #     normalized_percentArray.append(normalized_val)
+                # print("normalized_percentArray")
+    
+                ##### percentArraynormalization apporach
+                # normalized_percentArray= []
+                # min_val= min(percentArray)
+                # max_val= max(percentArray)
+                # # min_val= 0
+                # # max_val= 100
+    
+                # for i in range(0, len(percentArray)):
+                #     normalized_val= (100*(percentArray[i]- min_val))/(max_val-min_val)
+                #     normalized_percentArray.append(normalized_val)
+                # print("normalized_percentArray")
+    
+                # normalized_percentArrayCorrectOrder= normalized_percentArray[len(normalized_percentArray)::-1]
+                # print(normalized_percentArrayCorrectOrder)
+    
+                # abs_slopeArray= [abs(number) for number in slopeArray] #neww
+                # print(abs_slopeArray)
+    
+                # normalized_slopeArray= []
+    
+                # # minValSlope= min(abs_slopeArray)
+                # # maxValSlope= max(abs_slopeArray)
+    
+                # meanSlope= mean(abs_slopeArray)
+                # sdSlope= stdev(abs_slopeArray)
+    
+                # # for i in range(0, len(abs_slopeArray)):
+                # #     normalized_slope= (100*(abs_slopeArray[i]- minValSlope))/(maxValSlope-minValSlope)
+                # #     normalized_slopeArray.append(normalized_slope)
+                # # print("normalized_slopeArray")
+    
+                # for i in range(0, len(abs_slopeArray)):
+                #     normalized_slope= (abs_slopeArray[i]- meanSlope)/sdSlope
+                #     normalized_slopeArray.append(normalized_slope)
+                # print("normalized_slopeArray")
+    
+                # print(normalized_slopeArray)
+    
+                varianceArrayCorrectOrder = varianceArray  # varianceArray[len(varianceArray)::-1]  ## Ordered correctly this time
+                percentArrayCorrectOrder = percentArray  # percentArray[len(percentArray)::-1]  ## Ordered correctly this time
+    
+                # print(varianceArrayCorrectOrder)
+                # print(percentArrayCorrectOrder) #neww
+    
+                ## percentArray Appraoch
+                ## Mean of abs_percentArrayCorrectOrder
+                abs_percentArrayCorrectOrder = [abs(number) for number in percentArrayCorrectOrder]  # neww
+                # print(abs_percentArrayCorrectOrder)
+                mean_percentArray = mean(abs_percentArrayCorrectOrder)  # mean of abosulte values of percentArray
+                # print(mean_percentArray)
+                # sd_percentArray= stdev(abs_percentArrayCorrectOrder)
+                # print(sd_percentArray)
+    
+                constant_rate = c_rate * mean_percentArray  # avg(% chnage)*0.1 # Meaning any chnage less than 5% is considered roughly constant slope  # Determines if a trend is increasing, decreasing or constant
+                significant_rate = s_rate * mean_percentArray
+                gradually_rate = g_rate * mean_percentArray
+                rapidly_rate = r_rate * mean_percentArray
+    
+                # significant_rate=sig
+    
+                # constant_rate = mean_percentArray- 1*(sd_percentArray) # avg(% chnage)*0.1 # Meaning any chnage less than 5% is considered roughly constant slope  # Determines if a trend is increasing, decreasing or constant
+                # significant_rate = mean_percentArray# avg(% chnage)*0.1 # Meaning any chnage >constant rate and less than this rate is considered not significant and so it's trend direction is chnaged to the trend of the succesive interval # Determines the start and end of the trend
+                # gradually_rate= mean_percentArray+ 1*(sd_percentArray)
+                # rapidly_rate= mean_percentArray+ 2*(sd_percentArray)
+    
+                # ## Standard Deviation of abs_percentArrayCorrectOrder
+                # sd_percentArray= stdev(abs_percentArrayCorrectOrder)  # standard deviation of abosulte values of percentArray
+                # print(sd_percentArray)
+    
+                directionArray = []
+                i = 1
+                while i < (len(yValueArrCorrectOrder)):
+                    d = directionTrend(yValueArrCorrectOrder[i],
+                                       yValueArrCorrectOrder[i - 1],
+                                       constant_rate)  # direction e.g. increase, decrease or constant
+                    directionArray.append(d)
+                    i = i + 1
+                # print("Orginal Direction Trend:")
+                # print(directionArray)
+    
+                ### Previously indexs reported for only increasing and decresing trends
+                # trendChangeIdx = []
+                # for idx in range(0, len(varianceArrayCorrectOrder) - 1):
+    
+                #     # checking for successive opposite index
+                #     if varianceArrayCorrectOrder[idx] > 0 and varianceArrayCorrectOrder[idx + 1] < 0 or varianceArrayCorrectOrder[idx] < 0 and varianceArrayCorrectOrder[idx + 1] > 0:
+                #         trendChangeIdx.append(idx)
+    
+                # print("Sign shift indices : " + str(trendChangeIdx))
+    
+                # percentArray approach to smoothing
+                ## Smoothing directionArray. If percentChange >10% then direction of trend is that of the next interval (regardless if it was increasing or decreasing)
+                directionArraySmoothed = []
+                for idx in range(0, len(percentArrayCorrectOrder) - 1):  # neww
+                    # checking for percent chnage >5% (not constant) and <10% (not significant) and chnaging their direction to be the direction of the succesive interval
+                    if (abs(percentArrayCorrectOrder[idx]) > constant_rate and abs(
+                            percentArrayCorrectOrder[idx]) < significant_rate):  # neww
+                        d = directionArray[idx + 1]
+                        directionArraySmoothed.append(d)
+                    else:
+                        directionArraySmoothed.append(directionArray[idx])
+                directionArraySmoothed.append(directionArray[len(
+                    percentArrayCorrectOrder) - 1])  # neww # The last value doesn't have a succesive interval so it will be appended as is
+                #print("Smoothed Direction Trend:")
+                #print(directionArraySmoothed)
+    
+                # constant_rate = meanSlope- 1*(sdSlope)
+                # significant_rate = meanSlope
+                # gradually_rate= meanSlope+ 1*(sdSlope)
+                # rapidly_rate= meanSlope + 2*(sdSlope)
+    
+                # slopeArray approach to smoothing
+                ## Smoothing directionArray. If percentChange >10% then direction of trend is that of the next interval (regardless if it was increasing or decreasing)
+                # directionArraySmoothed = []
+                # for idx in range(0, len(normalized_slopeArray) - 1): #neww
+                #     # checking for percent chnage >5% (not constant) and <10% (not significant) and chnaging their direction to be the direction of the succesive interval
+                #     if (abs(normalized_slopeArray[idx]) > constant_rate and abs(normalized_slopeArray[idx]) < significant_rate): #neww
+                #         d = directionArray[idx + 1]
+                #         directionArraySmoothed.append(d)
+                #     else:
+                #         directionArraySmoothed.append(directionArray[idx])
+                # directionArraySmoothed.append(directionArray[len(
+                #     normalized_slopeArray) - 1])  #neww # The last value doesn't have a succesive interval so it will be appended as is
+                # print("Smoothed Direction Trend:")
+                # print(directionArraySmoothed)
+    
+                trendChangeIdx = []
+                for idx in range(0, len(directionArraySmoothed) - 1):
+    
+                    # checking for successive opposite index
+                    if directionArraySmoothed[idx] != directionArraySmoothed[idx + 1]:
+                        trendChangeIdx.append(idx)
+    
+                print("Sign shift indices : " + str(trendChangeIdx))
+    
+                # yValueArrCorrectOrder = yValueArr[len(yValueArr)::-1]  ## Ordered correctly this time
+                # print(yValueArrCorrectOrder)
+    
+                # xValueArrCorrectOrder = xValueArr[len(xValueArr)::-1]  ## Ordered correctly this time
+                # print(xValueArrCorrectOrder)
+    
+                # trendArrayCorrectOrder = trendArray[len(trendArray)::-1] # no need since have my own directionArray now ordered correctly
+                # print(trendArrayCorrectOrder)
+    
+                # print(trendChangeIdx)
+    
+                # Slope Approach
+                ## Find the new slopes for the trendChangeIdx points
+                # refinedSlope_array= []
+                refinedPercentChnage_array = []
+                x = 0
+                # max_y= max(yValueArrCorrectOrder)
+    
+                if trendChangeIdx:  # if trendChangeIdx is not empty
+                    for i in trendChangeIdx:
+                        if (x == 0):
+                            # neumerator= yValueArrCorrectOrder[i+1]- yValueArrCorrectOrder[0]
+                            # denominator= (i+1)- (0)
+                            # slope= neumerator/denominator
+                            # refinedSlope_array.append(slope)
+                            new = yValueArrCorrectOrder[i + 1]
+                            old = yValueArrCorrectOrder[0]
+    
+                            # percentChange= ((new-old)/old)*100
+                            percentChange = percentChnageFunc(new, old)  # to account for error: float division by zero
+                            refinedPercentChnage_array.append(percentChange)
+    
+                            # localPercentChange= percentChnageRangeFunc(new, old, max_y)
+                            # refinedPercentChnage_array.append(localPercentChange)
+    
+    
+                        elif (x > 0 or x < len(trendChangeIdx) - 1):
+                            # neumerator= yValueArrCorrectOrder[i+1]-  yValueArrCorrectOrder[trendChangeIdx[x - 1] + 1]
+                            # denominator= (i+1)- (trendChangeIdx[x - 1] + 1)
+                            # slope= neumerator/denominator
+                            # refinedSlope_array.append(slope)
+    
+                            new = yValueArrCorrectOrder[i + 1]
+                            old = yValueArrCorrectOrder[trendChangeIdx[x - 1] + 1]
+                            # percentChange= ((new-old)/old)*100
+                            percentChange = percentChnageFunc(new, old)  # to account for error: float division by zero
+                            refinedPercentChnage_array.append(percentChange)
+    
+                            # localPercentChange= percentChnageRangeFunc(new, old, max_y)
+                            # refinedPercentChnage_array.append(localPercentChange)
+    
+                        x = x + 1
+    
+                    # neumerator= yValueArrCorrectOrder[-1]-  yValueArrCorrectOrder[trendChangeIdx[-1] + 1]
+                    # denominator= (x)- (trendChangeIdx[-1] + 1)
+                    # slope= neumerator/denominator
+                    # refinedSlope_array.append(slope)
+    
+                    new = yValueArrCorrectOrder[-1]
+                    old = yValueArrCorrectOrder[trendChangeIdx[-1] + 1]
+                    # percentChange= ((new-old)/old)*100
+                    percentChange = percentChnageFunc(new, old)  # to account for error: float division by zero
+                    refinedPercentChnage_array.append(percentChange)
+    
+                    # localPercentChange= percentChnageRangeFunc(new, old, max_y)
+                    # refinedPercentChnage_array.append(localPercentChange)
+    
+    
                 else:
-                    directionArraySmoothed.append(directionArray[idx])
-            directionArraySmoothed.append(directionArray[len(
-                percentArrayCorrectOrder) - 1])  # neww # The last value doesn't have a succesive interval so it will be appended as is
-            #print("Smoothed Direction Trend:")
-            #print(directionArraySmoothed)
-
-            # constant_rate = meanSlope- 1*(sdSlope)
-            # significant_rate = meanSlope
-            # gradually_rate= meanSlope+ 1*(sdSlope)
-            # rapidly_rate= meanSlope + 2*(sdSlope)
-
-            # slopeArray approach to smoothing
-            ## Smoothing directionArray. If percentChange >10% then direction of trend is that of the next interval (regardless if it was increasing or decreasing)
-            # directionArraySmoothed = []
-            # for idx in range(0, len(normalized_slopeArray) - 1): #neww
-            #     # checking for percent chnage >5% (not constant) and <10% (not significant) and chnaging their direction to be the direction of the succesive interval
-            #     if (abs(normalized_slopeArray[idx]) > constant_rate and abs(normalized_slopeArray[idx]) < significant_rate): #neww
-            #         d = directionArray[idx + 1]
-            #         directionArraySmoothed.append(d)
-            #     else:
-            #         directionArraySmoothed.append(directionArray[idx])
-            # directionArraySmoothed.append(directionArray[len(
-            #     normalized_slopeArray) - 1])  #neww # The last value doesn't have a succesive interval so it will be appended as is
-            # print("Smoothed Direction Trend:")
-            # print(directionArraySmoothed)
-
-            trendChangeIdx = []
-            for idx in range(0, len(directionArraySmoothed) - 1):
-
-                # checking for successive opposite index
-                if directionArraySmoothed[idx] != directionArraySmoothed[idx + 1]:
-                    trendChangeIdx.append(idx)
-
-            print("Sign shift indices : " + str(trendChangeIdx))
-
-            # yValueArrCorrectOrder = yValueArr[len(yValueArr)::-1]  ## Ordered correctly this time
-            # print(yValueArrCorrectOrder)
-
-            # xValueArrCorrectOrder = xValueArr[len(xValueArr)::-1]  ## Ordered correctly this time
-            # print(xValueArrCorrectOrder)
-
-            # trendArrayCorrectOrder = trendArray[len(trendArray)::-1] # no need since have my own directionArray now ordered correctly
-            # print(trendArrayCorrectOrder)
-
-            # print(trendChangeIdx)
-
-            # Slope Approach
-            ## Find the new slopes for the trendChangeIdx points
-            # refinedSlope_array= []
-            refinedPercentChnage_array = []
-            x = 0
-            # max_y= max(yValueArrCorrectOrder)
-
-            if trendChangeIdx:  # if trendChangeIdx is not empty
-                for i in trendChangeIdx:
-                    if (x == 0):
-                        # neumerator= yValueArrCorrectOrder[i+1]- yValueArrCorrectOrder[0]
-                        # denominator= (i+1)- (0)
-                        # slope= neumerator/denominator
-                        # refinedSlope_array.append(slope)
-                        new = yValueArrCorrectOrder[i + 1]
-                        old = yValueArrCorrectOrder[0]
-
-                        # percentChange= ((new-old)/old)*100
-                        percentChange = percentChnageFunc(new, old)  # to account for error: float division by zero
-                        refinedPercentChnage_array.append(percentChange)
-
-                        # localPercentChange= percentChnageRangeFunc(new, old, max_y)
-                        # refinedPercentChnage_array.append(localPercentChange)
-
-
-                    elif (x > 0 or x < len(trendChangeIdx) - 1):
-                        # neumerator= yValueArrCorrectOrder[i+1]-  yValueArrCorrectOrder[trendChangeIdx[x - 1] + 1]
-                        # denominator= (i+1)- (trendChangeIdx[x - 1] + 1)
-                        # slope= neumerator/denominator
-                        # refinedSlope_array.append(slope)
-
-                        new = yValueArrCorrectOrder[i + 1]
-                        old = yValueArrCorrectOrder[trendChangeIdx[x - 1] + 1]
-                        # percentChange= ((new-old)/old)*100
-                        percentChange = percentChnageFunc(new, old)  # to account for error: float division by zero
-                        refinedPercentChnage_array.append(percentChange)
-
-                        # localPercentChange= percentChnageRangeFunc(new, old, max_y)
-                        # refinedPercentChnage_array.append(localPercentChange)
-
-                    x = x + 1
-
-                # neumerator= yValueArrCorrectOrder[-1]-  yValueArrCorrectOrder[trendChangeIdx[-1] + 1]
-                # denominator= (x)- (trendChangeIdx[-1] + 1)
-                # slope= neumerator/denominator
-                # refinedSlope_array.append(slope)
-
-                new = yValueArrCorrectOrder[-1]
-                old = yValueArrCorrectOrder[trendChangeIdx[-1] + 1]
-                # percentChange= ((new-old)/old)*100
-                percentChange = percentChnageFunc(new, old)  # to account for error: float division by zero
-                refinedPercentChnage_array.append(percentChange)
-
-                # localPercentChange= percentChnageRangeFunc(new, old, max_y)
-                # refinedPercentChnage_array.append(localPercentChange)
-
-
-            else:
-                # neumerator= yValueArrCorrectOrder[-1]- yValueArrCorrectOrder[0]
-                # denominator= (len(yValueArrCorrectOrder)-1)- 0
-                # slope= neumerator/denominator
-                # refinedSlope_array.append(slope)
-
-                new = yValueArrCorrectOrder[-1]
-                old = yValueArrCorrectOrder[0]
-                # percentChange= ((new-old)/old)*100
-                percentChange = percentChnageFunc(new, old)  # to account for error: float division by zero
-                refinedPercentChnage_array.append(percentChange)
-
-                # localPercentChange= percentChnageRangeFunc(new, old, max_y)
-                # refinedPercentChnage_array.append(localPercentChange)
-
-            # print("Refined Slope")
-            # print(refinedSlope_array)
-
-            print("Refined Percent Change")
-            print(refinedPercentChnage_array)
-
-            # Mean of abs_refinedPercentChnage_array
-            abs_refinedPercentChnage_array = [abs(number) for number in refinedPercentChnage_array]  # neww
-            # print(abs_percentArrayCorrectOrder)
-            mean_abs_refinedPercentChnage = mean(
-                abs_refinedPercentChnage_array)  # mean of abosulte values of percentArray
-            print(mean_abs_refinedPercentChnage)
-            # sd_abs_refinedPercentChnage= stdev(abs_refinedPercentChnage_array)
-            # print(sd_abs_refinedPercentChnage)
-
-            constant_rate = c_rate * mean_abs_refinedPercentChnage  # avg(% chnage)*0.1 # Meaning any chnage less than 5% is considered roughly constant slope  # Determines if a trend is increasing, decreasing or constant
-            significant_rate = s_rate * mean_abs_refinedPercentChnage
-            gradually_rate = g_rate * mean_abs_refinedPercentChnage
-            rapidly_rate = r_rate * mean_abs_refinedPercentChnage
-
-            # constant_rate = mean_abs_refinedPercentChnage- 1*(sd_abs_refinedPercentChnage) # avg(% chnage)*0.1 # Meaning any chnage less than 5% is considered roughly constant slope  # Determines if a trend is increasing, decreasing or constant
-            # significant_rate = mean_abs_refinedPercentChnage# avg(% chnage)*0.1 # Meaning any chnage >constant rate and less than this rate is considered not significant and so it's trend direction is chnaged to the trend of the succesive interval # Determines the start and end of the trend
-            # gradually_rate= mean_abs_refinedPercentChnage+ 1*(sd_abs_refinedPercentChnage)
-            # rapidly_rate= mean_abs_refinedPercentChnage+ 2*(sd_abs_refinedPercentChnage)
-
-            # Trying out the percentage using max-0 range of charts instead of dividing by old
-            # constant_rate = constant
-            # gradually_rate= gradual
-            # rapidly_rate= rapid
-
-            print(constant_rate)
-            print(significant_rate)
-            print(gradually_rate)
-            print(rapidly_rate)
-
-            ## Normalize refined Slope
-            # abs_refinedSlope_array= [abs(number) for number in refinedSlope_array] #neww
-            # print(abs_refinedSlope_array)
-
-            # normalized_refinedSlope_array= []
-
-            # minValRefinedSlope= min(abs_refinedSlope_array)
-            # maxValRefinedSlope= max(abs_refinedSlope_array)
-
-            # for i in range(0, len(abs_refinedSlope_array)):
-            #     normalized_slope= (100*(abs_refinedSlope_array[i]- minValRefinedSlope))/(maxValRefinedSlope-minValRefinedSlope)
-            #     normalized_refinedSlope_array.append(normalized_slope)
-            # print("normalized_refinedSlopeArray")
-
-            # meanRefinedSlope= mean(abs_refinedSlope_array)
-            # sdRefinedSlope= stdev(abs_refinedSlope_array)
-
-            # for i in range(0, len(abs_refinedSlope_array)):
-            #     normalized_slope= (abs_refinedSlope_array[i]- meanRefinedSlope)/sdRefinedSlope
-            #     normalized_refinedSlope_array.append(normalized_slope)
-            # print("normalized_refinedSlopeArray")
-
-            # print(normalized_refinedSlope_array)
-
-            # constant_rate = meanRefinedSlope- 1*(sdRefinedSlope)
-            # significant_rate = meanRefinedSlope
-            # gradually_rate= meanRefinedSlope+ 1*(sdRefinedSlope)
-            # rapidly_rate= meanRefinedSlope + 2*(sdRefinedSlope)
-            # print(constant_rate)
-            # print(significant_rate)
-            # print(gradually_rate)
-            # print(rapidly_rate)
+                    # neumerator= yValueArrCorrectOrder[-1]- yValueArrCorrectOrder[0]
+                    # denominator= (len(yValueArrCorrectOrder)-1)- 0
+                    # slope= neumerator/denominator
+                    # refinedSlope_array.append(slope)
+    
+                    new = yValueArrCorrectOrder[-1]
+                    old = yValueArrCorrectOrder[0]
+                    # percentChange= ((new-old)/old)*100
+                    percentChange = percentChnageFunc(new, old)  # to account for error: float division by zero
+                    refinedPercentChnage_array.append(percentChange)
+    
+                    # localPercentChange= percentChnageRangeFunc(new, old, max_y)
+                    # refinedPercentChnage_array.append(localPercentChange)
+    
+                # print("Refined Slope")
+                # print(refinedSlope_array)
+    
+                print("Refined Percent Change")
+                print(refinedPercentChnage_array)
+    
+                # Mean of abs_refinedPercentChnage_array
+                abs_refinedPercentChnage_array = [abs(number) for number in refinedPercentChnage_array]  # neww
+                # print(abs_percentArrayCorrectOrder)
+                mean_abs_refinedPercentChnage = mean(
+                    abs_refinedPercentChnage_array)  # mean of abosulte values of percentArray
+                print(mean_abs_refinedPercentChnage)
+                # sd_abs_refinedPercentChnage= stdev(abs_refinedPercentChnage_array)
+                # print(sd_abs_refinedPercentChnage)
+    
+                constant_rate = c_rate * mean_abs_refinedPercentChnage  # avg(% chnage)*0.1 # Meaning any chnage less than 5% is considered roughly constant slope  # Determines if a trend is increasing, decreasing or constant
+                significant_rate = s_rate * mean_abs_refinedPercentChnage
+                gradually_rate = g_rate * mean_abs_refinedPercentChnage
+                rapidly_rate = r_rate * mean_abs_refinedPercentChnage
+    
+                # constant_rate = mean_abs_refinedPercentChnage- 1*(sd_abs_refinedPercentChnage) # avg(% chnage)*0.1 # Meaning any chnage less than 5% is considered roughly constant slope  # Determines if a trend is increasing, decreasing or constant
+                # significant_rate = mean_abs_refinedPercentChnage# avg(% chnage)*0.1 # Meaning any chnage >constant rate and less than this rate is considered not significant and so it's trend direction is chnaged to the trend of the succesive interval # Determines the start and end of the trend
+                # gradually_rate= mean_abs_refinedPercentChnage+ 1*(sd_abs_refinedPercentChnage)
+                # rapidly_rate= mean_abs_refinedPercentChnage+ 2*(sd_abs_refinedPercentChnage)
+    
+                # Trying out the percentage using max-0 range of charts instead of dividing by old
+                # constant_rate = constant
+                # gradually_rate= gradual
+                # rapidly_rate= rapid
+    
+                print(constant_rate)
+                print(significant_rate)
+                print(gradually_rate)
+                print(rapidly_rate)
+    
+                ## Normalize refined Slope
+                # abs_refinedSlope_array= [abs(number) for number in refinedSlope_array] #neww
+                # print(abs_refinedSlope_array)
+    
+                # normalized_refinedSlope_array= []
+    
+                # minValRefinedSlope= min(abs_refinedSlope_array)
+                # maxValRefinedSlope= max(abs_refinedSlope_array)
+    
+                # for i in range(0, len(abs_refinedSlope_array)):
+                #     normalized_slope= (100*(abs_refinedSlope_array[i]- minValRefinedSlope))/(maxValRefinedSlope-minValRefinedSlope)
+                #     normalized_refinedSlope_array.append(normalized_slope)
+                # print("normalized_refinedSlopeArray")
+    
+                # meanRefinedSlope= mean(abs_refinedSlope_array)
+                # sdRefinedSlope= stdev(abs_refinedSlope_array)
+    
+                # for i in range(0, len(abs_refinedSlope_array)):
+                #     normalized_slope= (abs_refinedSlope_array[i]- meanRefinedSlope)/sdRefinedSlope
+                #     normalized_refinedSlope_array.append(normalized_slope)
+                # print("normalized_refinedSlopeArray")
+    
+                # print(normalized_refinedSlope_array)
+    
+                # constant_rate = meanRefinedSlope- 1*(sdRefinedSlope)
+                # significant_rate = meanRefinedSlope
+                # gradually_rate= meanRefinedSlope+ 1*(sdRefinedSlope)
+                # rapidly_rate= meanRefinedSlope + 2*(sdRefinedSlope)
+                # print(constant_rate)
+                # print(significant_rate)
+                # print(gradually_rate)
+                # print(rapidly_rate)
             
             
 
 
             ############# Steepest Slope ##############
-
-            # Absolute value of varianceArrayCorrectOrder elements
-            absoluteVariance = [abs(ele) for ele in varianceArrayCorrectOrder]
-
-            max_value = max(absoluteVariance)
-            max_index = absoluteVariance.index(max_value)
-
-            # print(absoluteVariance)
-            # print(max_value)
-            # print(max_index)
-            # print(directionArraySmoothed)
+            
+            if (len(xValueArrCorrectOrder)>1):
+            
+                # Absolute value of varianceArrayCorrectOrder elements
+                absoluteVariance = [abs(ele) for ele in varianceArrayCorrectOrder]
+    
+                max_value = max(absoluteVariance)
+                max_index = absoluteVariance.index(max_value)
+    
+                # print(absoluteVariance)
+                # print(max_value)
+                # print(max_index)
+                # print(directionArraySmoothed)
 
 
 
@@ -2569,7 +2814,8 @@ def summarize(data, all_y_label, name, title):
                                   + "."
             summary1.append(localTrendSentence1)
             
-            summaryArray.append(random.choice(summary1))
+            if (lasso == 0): 
+                summaryArray.append(random.choice(summary1))
             
             
             
@@ -2604,89 +2850,95 @@ def summarize(data, all_y_label, name, title):
             summary2 += " over the " + xLabel + "."
             summary2_arr.append(summary2)
             
-            summaryArray.append(random.choice(summary2_arr))
+            if (len(xValueArrCorrectOrder)>1):
+                summaryArray.append(random.choice(summary2_arr))
             
             
             
             # LOCAL TREND
+            
+            
             summary3 = yLabel
             rateOfchange_array = []
             # rateOfchange_num_array= []
             x = 0
-            if trendChangeIdx:  # if trendChangeIdx is not empty
-                for i in trendChangeIdx:
-                    if (x == 0):
-                        # rateOfChange_num= rateOfChnageVal(yValueArrCorrectOrder[i + 1],yValueArrCorrectOrder[0], directionArraySmoothed[i], (i + 1), 0, max_val, min_val)
-                        # rateOfchange_num_array.append(rateOfChange_num)
-
-                        rateOfChange = rateOfChnage(refinedPercentChnage_array[x], directionArraySmoothed[i],
-                                                    constant_rate, gradually_rate, rapidly_rate)
-                        rateOfchange_array.append(rateOfChange)
-
-                        summary3 += " is " + rateOfChange + " " + directionArraySmoothed[
-                            i] + " from " + str(xValueArrCorrectOrder[0]) + " to " + str(xValueArrCorrectOrder[
-                                                                                             i + 1]) + ", "
-                    elif (x > 0 or x < len(trendChangeIdx) - 1):
-                        # rateOfChange_num= rateOfChange(yValueArrCorrectOrder[i + 1], yValueArrCorrectOrder[trendChangeIdx[x - 1] + 1], directionArraySmoothed[i], (i + 1), (trendChangeIdx[x - 1] + 1), max_val, min_val)
-                        # rateOfchange_num_array.append(rateOfChange_num)
-
-                        rateOfChange = rateOfChnage(refinedPercentChnage_array[x], directionArraySmoothed[i],
-                                                    constant_rate, gradually_rate, rapidly_rate)
-                        rateOfchange_array.append(rateOfChange)
-
-                        summary3 += rateOfChange + " " + \
-                                    directionArraySmoothed[i] + " from " + str(xValueArrCorrectOrder[
-                                                                                   trendChangeIdx[
-                                                                                       x - 1] + 1]) + " to " + str(
-                            xValueArrCorrectOrder[i + 1]) + ", "
-
-                    x = x + 1
-
-                # rateOfChange_num= rateOfChnageVal(yValueArrCorrectOrder[-1], yValueArrCorrectOrder[trendChangeIdx[-1] + 1], directionArraySmoothed[-1], (-1), (trendChangeIdx[-1] + 1), max_val, min_val)
-                # rateOfchange_num_array.append(rateOfChange_num)
-
-                rateOfChange = rateOfChnage(refinedPercentChnage_array[x], directionArraySmoothed[-1], constant_rate,
-                                            gradually_rate, rapidly_rate)
-                rateOfchange_array.append(rateOfChange)
+            
+            if (len(xValueArrCorrectOrder)>1):
+            
+                if trendChangeIdx:  # if trendChangeIdx is not empty
+                    for i in trendChangeIdx:
+                        if (x == 0):
+                            # rateOfChange_num= rateOfChnageVal(yValueArrCorrectOrder[i + 1],yValueArrCorrectOrder[0], directionArraySmoothed[i], (i + 1), 0, max_val, min_val)
+                            # rateOfchange_num_array.append(rateOfChange_num)
+    
+                            rateOfChange = rateOfChnage(refinedPercentChnage_array[x], directionArraySmoothed[i],
+                                                        constant_rate, gradually_rate, rapidly_rate)
+                            rateOfchange_array.append(rateOfChange)
+    
+                            summary3 += " is " + rateOfChange + " " + directionArraySmoothed[
+                                i] + " from " + str(xValueArrCorrectOrder[0]) + " to " + str(xValueArrCorrectOrder[
+                                                                                                 i + 1]) + ", "
+                        elif (x > 0 or x < len(trendChangeIdx) - 1):
+                            # rateOfChange_num= rateOfChange(yValueArrCorrectOrder[i + 1], yValueArrCorrectOrder[trendChangeIdx[x - 1] + 1], directionArraySmoothed[i], (i + 1), (trendChangeIdx[x - 1] + 1), max_val, min_val)
+                            # rateOfchange_num_array.append(rateOfChange_num)
+    
+                            rateOfChange = rateOfChnage(refinedPercentChnage_array[x], directionArraySmoothed[i],
+                                                        constant_rate, gradually_rate, rapidly_rate)
+                            rateOfchange_array.append(rateOfChange)
+    
+                            summary3 += rateOfChange + " " + \
+                                        directionArraySmoothed[i] + " from " + str(xValueArrCorrectOrder[
+                                                                                       trendChangeIdx[
+                                                                                           x - 1] + 1]) + " to " + str(
+                                xValueArrCorrectOrder[i + 1]) + ", "
+    
+                        x = x + 1
+    
+                    # rateOfChange_num= rateOfChnageVal(yValueArrCorrectOrder[-1], yValueArrCorrectOrder[trendChangeIdx[-1] + 1], directionArraySmoothed[-1], (-1), (trendChangeIdx[-1] + 1), max_val, min_val)
+                    # rateOfchange_num_array.append(rateOfChange_num)
+    
+                    rateOfChange = rateOfChnage(refinedPercentChnage_array[x], directionArraySmoothed[-1], constant_rate,
+                                                gradually_rate, rapidly_rate)
+                    rateOfchange_array.append(rateOfChange)
+                    
+                    synonym= ["lastly", "finally"]
+                    word= random.choice(synonym)
+                    
+    
+                    summary3 += "and "+ str(word) + " " + rateOfChange + " " + \
+                                directionArraySmoothed[-1] + " from " + str(xValueArrCorrectOrder[
+                                                                                trendChangeIdx[-1] + 1]) + " to " + str(
+                        xValueArrCorrectOrder[-1]) + "."
+                else:
+                    # rateOfChange_num= rateOfChnageVal(yValueArrCorrectOrder[-1], yValueArrCorrectOrder[0], directionArraySmoothed[-1], (-1), (0), max_val, min_val)
+                    # rateOfchange_num_array.append(rateOfChange_num)
+    
+                    rateOfChange = rateOfChnage(refinedPercentChnage_array[x], directionArraySmoothed[-1], constant_rate,
+                                                gradually_rate, rapidly_rate)
+                    rateOfchange_array.append(rateOfChange)
+    
+                    summary3 += " is " + rateOfChange + " " + \
+                                directionArraySmoothed[-1] + " from " + str(xValueArrCorrectOrder[0]) + " to " + \
+                                str(xValueArrCorrectOrder[-1]) + "."
                 
-                synonym= ["lastly", "finally"]
-                word= random.choice(synonym)
+                sum_zigzag_arr=[] #for ZIG Zag
                 
-
-                summary3 += "and "+ str(word) + " " + rateOfChange + " " + \
-                            directionArraySmoothed[-1] + " from " + str(xValueArrCorrectOrder[
-                                                                            trendChangeIdx[-1] + 1]) + " to " + str(
-                    xValueArrCorrectOrder[-1]) + "."
-            else:
-                # rateOfChange_num= rateOfChnageVal(yValueArrCorrectOrder[-1], yValueArrCorrectOrder[0], directionArraySmoothed[-1], (-1), (0), max_val, min_val)
-                # rateOfchange_num_array.append(rateOfChange_num)
-
-                rateOfChange = rateOfChnage(refinedPercentChnage_array[x], directionArraySmoothed[-1], constant_rate,
-                                            gradually_rate, rapidly_rate)
-                rateOfchange_array.append(rateOfChange)
-
-                summary3 += " is " + rateOfChange + " " + \
-                            directionArraySmoothed[-1] + " from " + str(xValueArrCorrectOrder[0]) + " to " + \
-                            str(xValueArrCorrectOrder[-1]) + "."
-            
-            sum_zigzag_arr=[] #for ZIG Zag
-            
-            if (len(trendChangeIdx) < 5):
-                summaryArray.append(summary3)
+                if (len(trendChangeIdx) < 5):
+                    summaryArray.append(summary3)
+                    
+                # ZIG ZAG
+                elif(len(yValueArrCorrectOrder)>zigZagNum):
+                    sum_zigzag= "The chart in general has a zig-zag shape."
+                    sum_zigzag_arr.append(sum_zigzag)
+                    sum_zigzag= "The chart generally has many fluctuations."
+                    sum_zigzag_arr.append(sum_zigzag)
+                    summaryArray.append(random.choice(sum_zigzag_arr))
+    
+                # print(rateOfchange_num_array)
                 
-            # ZIG ZAG
-            elif(len(yValueArrCorrectOrder)>zigZagNum):
-                sum_zigzag= "The chart in general has a zig-zag shape."
-                sum_zigzag_arr.append(sum_zigzag)
-                sum_zigzag= "The chart generally has many fluctuations."
-                sum_zigzag_arr.append(sum_zigzag)
-                summaryArray.append(random.choice(sum_zigzag_arr))
-
-            # print(rateOfchange_num_array)
-            
-            #print("percentArrayCorrectOrder:     " + str(percentArrayCorrectOrder))
-            #print("directionArray:     " + str(directionArray))
-            
+                #print("percentArrayCorrectOrder:     " + str(percentArrayCorrectOrder))
+                #print("directionArray:     " + str(directionArray))
+                
             
             
             # COMPARISON
@@ -2699,84 +2951,91 @@ def summarize(data, all_y_label, name, title):
             #print(rapid)
             
             
-            # To find the number of rapid trends
-            x=0
-            for i in range(0, len(percentArrayCorrectOrder)):
-                if (abs(percentArrayCorrectOrder[i])>rapid ):
-                    x=x+1
-                    
-            m=0 
-            for i in range(0, len(percentArrayCorrectOrder)):
-                if (abs(percentArrayCorrectOrder[i])>rapid ):
-                    m=m+1
-                    
-                    n = float(yValueArrCorrectOrder[i+1])
-                    o = float(yValueArrCorrectOrder[i])
-                    print(n)
-                    print(o)
-                    if (o == 0):
-                        o = 0.00000000001
-                    if (n == 0):
-                        n = 0.00000000001
-                    #percentage chnage  
-                    p = abs(percentChnageFunc(n, o))
-                    
-                    #Factor 
-                    f=""
-                    if (n != 0.00000000001 and o != 0.00000000001):
-                        if (n>o):
-                            f = round(n / o, 1)
-                        else:
-                            f = round(o / n, 1)
+            if (len(xValueArrCorrectOrder)>1):
+            
+                # To find the number of rapid trends
+                x=0
+                for i in range(0, len(percentArrayCorrectOrder)):
+                    if (abs(percentArrayCorrectOrder[i])>rapid ):
+                        x=x+1
                         
-                    
-                    # Absolue difference
-                    absolute_diff= abs(n-o)
-                    
-                    end= ","
-                    conjucntion=""
-                    if (m == x):  # It is the last line to be printed and it is not only 1 line
-                        end= "." 
-                        if (x!=1):
-                            conjucntion=" and lastly, "
-        
-                    
-                    #Version1
-                    summ_Comp1+= conjucntion+ str(increasedDecreased(directionArray[i])) + " by " + str(round(p,2)) + "% from " + str(xLabel) + " "+ str(xValueArrCorrectOrder[i])+ " to " + str(xValueArrCorrectOrder[i+1])  + end 
-                    
-                    #Version 2
-                    if (bool(f)):
-                        summ_Comp2+= conjucntion+ str(increasedDecreased(directionArray[i])) + " by " + str(f) + " times from " + str(xLabel) + " "+ str(xValueArrCorrectOrder[i])+ " to " + str(xValueArrCorrectOrder[i+1]) + end
-                    
-                    #Version 3
-                    summ_Comp3+= conjucntion+ str(increasedDecreased(directionArray[i])) + " by " + str(round(absolute_diff,2)) + " from " + str(xLabel) + " "+ str(xValueArrCorrectOrder[i])+ " to " + str(xValueArrCorrectOrder[i+1]) + end
-                    
-            summ_Comp.append(summ_Comp1)
-            if (len(summ_Comp2)!=0):
-                summ_Comp.append(summ_Comp2)
-            summ_Comp.append(summ_Comp3)
-                
-            summaryArray.append(random.choice(summ_Comp))
+                m=0 
+                f=""  # Variable for factor
+                for i in range(0, len(percentArrayCorrectOrder)):
+                    if (abs(percentArrayCorrectOrder[i])>rapid ):
+                        m=m+1
+                        
+                        n = float(yValueArrCorrectOrder[i+1])
+                        o = float(yValueArrCorrectOrder[i])
+                        print(n)
+                        print(o)
+                        if (o == 0):
+                            o = 0.00000000001
+                        if (n == 0):
+                            n = 0.00000000001
+                        #percentage chnage  
+                        p = abs(percentChnageFunc(n, o))
+                        
+                        #Factor 
+                        
+                        if (n != 0.00000000001 and o != 0.00000000001):
+                            if (n>o):
+                                f = round(n / o, 1)
+                            else:
+                                f = round(o / n, 1)
+                            
+                        
+                        # Absolue difference
+                        absolute_diff= abs(n-o)
+                        
+                        end= ","
+                        conjucntion=""
+                        if (m == x):  # It is the last line to be printed and it is not only 1 line
+                            end= "." 
+                            if (x!=1):
+                                conjucntion=" and lastly, "
+            
+                        
+                        #Version1
+                        summ_Comp1+= conjucntion+ str(increasedDecreased(directionArray[i])) + " by " + str(round(p,2)) + "% from " + str(xLabel) + " "+ str(xValueArrCorrectOrder[i])+ " to " + str(xValueArrCorrectOrder[i+1])  + end 
+                        
+                        #Version 2
+                        if (bool(f)):
+                            summ_Comp2+= conjucntion+ str(increasedDecreased(directionArray[i])) + " by " + str(f) + " times from " + str(xLabel) + " "+ str(xValueArrCorrectOrder[i])+ " to " + str(xValueArrCorrectOrder[i+1]) + end
+                        
+                        #Version 3
+                        summ_Comp3+= conjucntion+ str(increasedDecreased(directionArray[i])) + " by " + str(round(absolute_diff,2)) + " from " + str(xLabel) + " "+ str(xValueArrCorrectOrder[i])+ " to " + str(xValueArrCorrectOrder[i+1]) + end
+                        
+                summ_Comp.append(summ_Comp1)
+                if (bool(f)):
+                    summ_Comp.append(summ_Comp2)
+                summ_Comp.append(summ_Comp3)
+                 
+                if (x!=0):
+                    summaryArray.append(random.choice(summ_Comp))
                     
             
             
             
             # STEEPEST SLOPE
             summary4_arr=[]
-            if increaseDecrease(directionArraySmoothed[max_index]) != "stays the same":
-                summary4 = "The steepest " + increaseDecrease(
-                    directionArraySmoothed[max_index]) + " occurs in between the " + xLabel + " " + str(
-                    xValueArrCorrectOrder[
-                        max_index]) + " and " + str(xValueArrCorrectOrder[max_index + 1]) + "."
-                summary4_arr.append(summary4)
-                
-                #Version 2
-                summary4 = "The most drastic " + increaseDecrease(
-                    directionArraySmoothed[max_index]) + " took place within the " + xLabel + " " + str(
-                    xValueArrCorrectOrder[
-                        max_index]) + " and " + str(xValueArrCorrectOrder[max_index + 1]) + "."
-                summary4_arr.append(summary4)
-                summaryArray.append(random.choice(summary4_arr))
+            
+            if (len(xValueArrCorrectOrder)>1):
+            
+                if increaseDecrease(directionArraySmoothed[max_index]) != "stays the same":
+                    summary4 = "The steepest " + increaseDecrease(
+                        directionArraySmoothed[max_index]) + " occurs in between the " + xLabel + " " + str(
+                        xValueArrCorrectOrder[
+                            max_index]) + " and " + str(xValueArrCorrectOrder[max_index + 1]) + "."
+                    summary4_arr.append(summary4)
+                    
+                    #Version 2
+                    summary4 = "The most drastic " + increaseDecrease(
+                        directionArraySmoothed[max_index]) + " took place within the " + xLabel + " " + str(
+                        xValueArrCorrectOrder[
+                            max_index]) + " and " + str(xValueArrCorrectOrder[max_index + 1]) + "."
+                    summary4_arr.append(summary4)
+                    summaryArray.append(random.choice(summary4_arr))
                 
                 
             # EXTREMA MAX
@@ -2854,25 +3113,29 @@ def summarize(data, all_y_label, name, title):
             min_summary = [] # Minimum length summary
             mid_summary = [] # Medium length summary
             max_summary = [] # Maximum length summary
-
-            min_summary.append(random.choice(summary1)) #intro
-            min_summary.append(random.choice(summary2_arr)) # Global Trend
+            
+            if (lasso == 0): 
+                min_summary.append(random.choice(summary1)) #intro
+            if (len(xValueArrCorrectOrder)>1):
+                min_summary.append(random.choice(summary2_arr)) # Global Trend
             if(len(yValueArrCorrectOrder)>zigZagNum and len(sum_zigzag_arr)!=0):
                 max_summary.append(random.choice(sum_zigzag_arr)) # Zig zag
-            if (len(trendChangeIdx) < 5): 
+            if (len(xValueArrCorrectOrder)>1 and len(trendChangeIdx) < 5): 
                 min_summary.append(summary3)  # Local Trends
 
             print( "min_summary:   " + str(min_summary) + "/n")
             
             
             # Medium Summary
-            mid_summary.append(random.choice(summary1)) #intro
-            mid_summary.append(random.choice(summary2_arr)) # Global Trend
+            if (lasso == 0): 
+                mid_summary.append(random.choice(summary1)) #intro
+            if (len(xValueArrCorrectOrder)>1):
+                mid_summary.append(random.choice(summary2_arr)) # Global Trend
             if(len(yValueArrCorrectOrder)>zigZagNum and len(sum_zigzag_arr)!=0):
                 max_summary.append(random.choice(sum_zigzag_arr)) # Zig zag
-            if (len(trendChangeIdx) < 5): 
+            if (len(xValueArrCorrectOrder)>1 and len(trendChangeIdx) < 5): 
                 mid_summary.append(summary3)  # Local Trends
-            if (len(summary4_arr)!= 0):
+            if (len(xValueArrCorrectOrder)>1 and len(summary4_arr)!= 0):
                 mid_summary.append(random.choice(summary4_arr)) # Steepest Slope
             mid_summary.append(chosen_max)  #Extrema max
             mid_summary.append(chosen_min) # Extrema Min
@@ -2881,17 +3144,19 @@ def summarize(data, all_y_label, name, title):
             
             
             # Maximum Summary
-            max_summary.append(random.choice(summary1)) #intro
-            max_summary.append(random.choice(summary2_arr)) # Global Trend
+            if (lasso == 0): 
+                max_summary.append(random.choice(summary1)) #intro
+            if (len(xValueArrCorrectOrder)>1):
+                max_summary.append(random.choice(summary2_arr)) # Global Trend
             if(len(yValueArrCorrectOrder)>zigZagNum and len(sum_zigzag_arr)!=0):
                 max_summary.append(random.choice(sum_zigzag_arr)) # Zig zag
-            if (len(trendChangeIdx) < 5): 
+            if (len(xValueArrCorrectOrder)>1 and len(trendChangeIdx) < 5): 
                 max_summary.append(summary3)  # Local Trends
-            if (len(summary4_arr)!= 0):
+            if (len(xValueArrCorrectOrder)>1 and len(summary4_arr)!= 0):
                 max_summary.append(random.choice(summary4_arr)) # Steepest Slope
             max_summary.append(chosen_max)  #Extrema max
             max_summary.append(chosen_min) # Extrema Min
-            if (len(summ_Comp)!=0):
+            if (len(xValueArrCorrectOrder)>1 and x!=0): #x Counts the number of rapid trends to be compared
                 max_summary.append(random.choice(summ_Comp))  #Comparison
             
             
@@ -3046,7 +3311,7 @@ multi_line_data = "Year|2018|0|line_chart Export|55968.7|1|line_chart Import|108
 # summarize(data=bar_data, all_y_label="TEST", name="bar_data", title="Test")
 # summarize(data = group_bar_data,all_y_label="TEST", name = "group_bar_data", title="Test")
 # summarize(data = single_line_data, all_y_label="TEST", name = "single_line_data", title="Test")
-# summarize(data = multi_line_data,all_y_label="TEST", name = "multi_line_data", title="Test")
+summarize(data = multi_line_data,all_y_label="TEST", name = "multi_line_data", title="Test")
 
 # summarize(data=group_bar_data, all_y_label=grp_bar_y_label.rstrip('\n'), name=grp_bar_title, title=grp_bar_title.rstrip('\n'))
 
@@ -3065,9 +3330,9 @@ multi_line_data = "Year|2018|0|line_chart Export|55968.7|1|line_chart Import|108
 
 # Single Line Charts
 
-print("\nChart 2")
-single_line_chart_7 = "Year|2018|x|line_chart Number_of_employees|12239|y|line_chart Year|2017|x|line_chart Number_of_employees|11886|y|line_chart Year|2016|x|line_chart Number_of_employees|11865|y|line_chart Year|2015|x|line_chart Number_of_employees|10997|y|line_chart Year|2014|x|line_chart Number_of_employees|10410|y|line_chart Year|2013|x|line_chart Number_of_employees|9694|y|line_chart Year|2012|x|line_chart Number_of_employees|8966|y|line_chart Year|2011|x|line_chart Number_of_employees|8294|y|line_chart"
-summarize(data = single_line_chart_7,all_y_label="TEST", name = "single_line_chart_7", title="Test")
+# print("\nChart 2")
+# single_line_chart_7 = "Year|2018|x|line_chart Number_of_employees|12239|y|line_chart Year|2017|x|line_chart Number_of_employees|11886|y|line_chart Year|2016|x|line_chart Number_of_employees|11865|y|line_chart Year|2015|x|line_chart Number_of_employees|10997|y|line_chart Year|2014|x|line_chart Number_of_employees|10410|y|line_chart Year|2013|x|line_chart Number_of_employees|9694|y|line_chart Year|2012|x|line_chart Number_of_employees|8966|y|line_chart Year|2011|x|line_chart Number_of_employees|8294|y|line_chart"
+# summarize(data = single_line_chart_7,all_y_label="TEST", name = "single_line_chart_7", title="Test")
 
 # print("\nChart 3")
 # single_line_chart_9 = "Year|2019|x|line_chart Average_attendance|67431|y|line_chart Year|2018|x|line_chart Average_attendance|65765|y|line_chart Year|2017|x|line_chart Average_attendance|63882|y|line_chart Year|2016|x|line_chart Average_attendance|64311|y|line_chart Year|2015|x|line_chart Average_attendance|66186|y|line_chart Year|2014|x|line_chart Average_attendance|67425|y|line_chart Year|2013|x|line_chart Average_attendance|71242|y|line_chart Year|2012|x|line_chart Average_attendance|66632|y|line_chart Year|2011|x|line_chart Average_attendance|65859|y|line_chart Year|2010|x|line_chart Average_attendance|66116|y|line_chart Year|2009|x|line_chart Average_attendance|68888|y|line_chart Year|2008|x|line_chart Average_attendance|72778|y|line_chart "
@@ -3077,9 +3342,9 @@ summarize(data = single_line_chart_7,all_y_label="TEST", name = "single_line_cha
 # single_line_chart_15 = "Year|2018|x|line_chart Production_in_billion_cubic_meters|831.8|y|line_chart Year|2017|x|line_chart Production_in_billion_cubic_meters|745.8|y|line_chart Year|2016|x|line_chart Production_in_billion_cubic_meters|727.4|y|line_chart Year|2015|x|line_chart Production_in_billion_cubic_meters|740.3|y|line_chart Year|2014|x|line_chart Production_in_billion_cubic_meters|704.7|y|line_chart Year|2013|x|line_chart Production_in_billion_cubic_meters|655.7|y|line_chart Year|2012|x|line_chart Production_in_billion_cubic_meters|649.1|y|line_chart Year|2011|x|line_chart Production_in_billion_cubic_meters|617.4|y|line_chart Year|2010|x|line_chart Production_in_billion_cubic_meters|575.2|y|line_chart Year|2009|x|line_chart Production_in_billion_cubic_meters|557.6|y|line_chart Year|2008|x|line_chart Production_in_billion_cubic_meters|546.1|y|line_chart Year|2007|x|line_chart Production_in_billion_cubic_meters|521.9|y|line_chart Year|2006|x|line_chart Production_in_billion_cubic_meters|524.0|y|line_chart Year|2005|x|line_chart Production_in_billion_cubic_meters|511.1|y|line_chart Year|2004|x|line_chart Production_in_billion_cubic_meters|526.4|y|line_chart Year|2003|x|line_chart Production_in_billion_cubic_meters|540.8|y|line_chart Year|2002|x|line_chart Production_in_billion_cubic_meters|536.0|y|line_chart Year|2001|x|line_chart Production_in_billion_cubic_meters|555.5|y|line_chart Year|2000|x|line_chart Production_in_billion_cubic_meters|543.2|y|line_chart Year|1998|x|line_chart Production_in_billion_cubic_meters|538.7|y|line_chart "
 # summarize(data = single_line_chart_15, all_y_label="TEST",name = "single_line_chart_15", title="Test")
 
-print("\nChart 5")
-single_line_chart_19 = "Year|2024|x|line_chart Inflation_rate_compared_to_previous_year|3.97|y|line_chart Year|2023|x|line_chart Inflation_rate_compared_to_previous_year|3.98|y|line_chart Year|2022|x|line_chart Inflation_rate_compared_to_previous_year|4.05|y|line_chart Year|2021|x|line_chart Inflation_rate_compared_to_previous_year|4.07|y|line_chart Year|2020|x|line_chart Inflation_rate_compared_to_previous_year|4.09|y|line_chart Year|2019|x|line_chart Inflation_rate_compared_to_previous_year|3.44|y|line_chart Year|2018|x|line_chart Inflation_rate_compared_to_previous_year|3.43|y|line_chart Year|2017|x|line_chart Inflation_rate_compared_to_previous_year|3.6|y|line_chart Year|2016|x|line_chart Inflation_rate_compared_to_previous_year|4.5|y|line_chart Year|2015|x|line_chart Inflation_rate_compared_to_previous_year|4.9|y|line_chart Year|2014|x|line_chart Inflation_rate_compared_to_previous_year|5.8|y|line_chart Year|2013|x|line_chart Inflation_rate_compared_to_previous_year|9.4|y|line_chart Year|2012|x|line_chart Inflation_rate_compared_to_previous_year|10|y|line_chart Year|2011|x|line_chart Inflation_rate_compared_to_previous_year|9.5|y|line_chart Year|2010|x|line_chart Inflation_rate_compared_to_previous_year|10.53|y|line_chart Year|2009|x|line_chart Inflation_rate_compared_to_previous_year|12.31|y|line_chart Year|2008|x|line_chart Inflation_rate_compared_to_previous_year|9.09|y|line_chart Year|2007|x|line_chart Inflation_rate_compared_to_previous_year|6.2|y|line_chart Year|2006|x|line_chart Inflation_rate_compared_to_previous_year|6.7|y|line_chart Year|2005|x|line_chart Inflation_rate_compared_to_previous_year|4.4|y|line_chart Year|2004|x|line_chart Inflation_rate_compared_to_previous_year|3.82|y|line_chart Year|2003|x|line_chart Inflation_rate_compared_to_previous_year|3.86|y|line_chart Year|2002|x|line_chart Inflation_rate_compared_to_previous_year|3.98|y|line_chart Year|2001|x|line_chart Inflation_rate_compared_to_previous_year|4.31|y|line_chart Year|2000|x|line_chart Inflation_rate_compared_to_previous_year|3.83|y|line_chart Year|1999|x|line_chart Inflation_rate_compared_to_previous_year|5.7|y|line_chart Year|1998|x|line_chart Inflation_rate_compared_to_previous_year|13.13|y|line_chart Year|1997|x|line_chart Inflation_rate_compared_to_previous_year|6.84|y|line_chart Year|1996|x|line_chart Inflation_rate_compared_to_previous_year|9.43|y|line_chart Year|1995|x|line_chart Inflation_rate_compared_to_previous_year|9.96|y|line_chart Year|1994|x|line_chart Inflation_rate_compared_to_previous_year|10.28|y|line_chart Year|1993|x|line_chart Inflation_rate_compared_to_previous_year|7.28|y|line_chart Year|1992|x|line_chart Inflation_rate_compared_to_previous_year|9.86|y|line_chart Year|1991|x|line_chart Inflation_rate_compared_to_previous_year|13.48|y|line_chart Year|1990|x|line_chart Inflation_rate_compared_to_previous_year|11.2|y|line_chart Year|1989|x|line_chart Inflation_rate_compared_to_previous_year|4.57|y|line_chart Year|1988|x|line_chart Inflation_rate_compared_to_previous_year|7.21|y|line_chart Year|1987|x|line_chart Inflation_rate_compared_to_previous_year|9.06|y|line_chart Year|1986|x|line_chart Inflation_rate_compared_to_previous_year|8.89|y|line_chart Year|1985|x|line_chart Inflation_rate_compared_to_previous_year|6.25|y|line_chart Year|1984|x|line_chart Inflation_rate_compared_to_previous_year|6.52|y|line_chart "
-summarize(data = single_line_chart_19,all_y_label="TEST", name = "single_line_chart_19", title="Test")
+# print("\nChart 5")
+# single_line_chart_19 = "Year|2024|x|line_chart Inflation_rate_compared_to_previous_year|3.97|y|line_chart Year|2023|x|line_chart Inflation_rate_compared_to_previous_year|3.98|y|line_chart Year|2022|x|line_chart Inflation_rate_compared_to_previous_year|4.05|y|line_chart Year|2021|x|line_chart Inflation_rate_compared_to_previous_year|4.07|y|line_chart Year|2020|x|line_chart Inflation_rate_compared_to_previous_year|4.09|y|line_chart Year|2019|x|line_chart Inflation_rate_compared_to_previous_year|3.44|y|line_chart Year|2018|x|line_chart Inflation_rate_compared_to_previous_year|3.43|y|line_chart Year|2017|x|line_chart Inflation_rate_compared_to_previous_year|3.6|y|line_chart Year|2016|x|line_chart Inflation_rate_compared_to_previous_year|4.5|y|line_chart Year|2015|x|line_chart Inflation_rate_compared_to_previous_year|4.9|y|line_chart Year|2014|x|line_chart Inflation_rate_compared_to_previous_year|5.8|y|line_chart Year|2013|x|line_chart Inflation_rate_compared_to_previous_year|9.4|y|line_chart Year|2012|x|line_chart Inflation_rate_compared_to_previous_year|10|y|line_chart Year|2011|x|line_chart Inflation_rate_compared_to_previous_year|9.5|y|line_chart Year|2010|x|line_chart Inflation_rate_compared_to_previous_year|10.53|y|line_chart Year|2009|x|line_chart Inflation_rate_compared_to_previous_year|12.31|y|line_chart Year|2008|x|line_chart Inflation_rate_compared_to_previous_year|9.09|y|line_chart Year|2007|x|line_chart Inflation_rate_compared_to_previous_year|6.2|y|line_chart Year|2006|x|line_chart Inflation_rate_compared_to_previous_year|6.7|y|line_chart Year|2005|x|line_chart Inflation_rate_compared_to_previous_year|4.4|y|line_chart Year|2004|x|line_chart Inflation_rate_compared_to_previous_year|3.82|y|line_chart Year|2003|x|line_chart Inflation_rate_compared_to_previous_year|3.86|y|line_chart Year|2002|x|line_chart Inflation_rate_compared_to_previous_year|3.98|y|line_chart Year|2001|x|line_chart Inflation_rate_compared_to_previous_year|4.31|y|line_chart Year|2000|x|line_chart Inflation_rate_compared_to_previous_year|3.83|y|line_chart Year|1999|x|line_chart Inflation_rate_compared_to_previous_year|5.7|y|line_chart Year|1998|x|line_chart Inflation_rate_compared_to_previous_year|13.13|y|line_chart Year|1997|x|line_chart Inflation_rate_compared_to_previous_year|6.84|y|line_chart Year|1996|x|line_chart Inflation_rate_compared_to_previous_year|9.43|y|line_chart Year|1995|x|line_chart Inflation_rate_compared_to_previous_year|9.96|y|line_chart Year|1994|x|line_chart Inflation_rate_compared_to_previous_year|10.28|y|line_chart Year|1993|x|line_chart Inflation_rate_compared_to_previous_year|7.28|y|line_chart Year|1992|x|line_chart Inflation_rate_compared_to_previous_year|9.86|y|line_chart Year|1991|x|line_chart Inflation_rate_compared_to_previous_year|13.48|y|line_chart Year|1990|x|line_chart Inflation_rate_compared_to_previous_year|11.2|y|line_chart Year|1989|x|line_chart Inflation_rate_compared_to_previous_year|4.57|y|line_chart Year|1988|x|line_chart Inflation_rate_compared_to_previous_year|7.21|y|line_chart Year|1987|x|line_chart Inflation_rate_compared_to_previous_year|9.06|y|line_chart Year|1986|x|line_chart Inflation_rate_compared_to_previous_year|8.89|y|line_chart Year|1985|x|line_chart Inflation_rate_compared_to_previous_year|6.25|y|line_chart Year|1984|x|line_chart Inflation_rate_compared_to_previous_year|6.52|y|line_chart "
+# summarize(data = single_line_chart_19,all_y_label="TEST", name = "single_line_chart_19", title="Test")
 
 # print("\nChart 6")
 # single_line_chart_24= "Year|2024|x|line_chart Gross_domestic_product_in_billion_U.S._dollars|90.56|y|line_chart Year|2023|x|line_chart Gross_domestic_product_in_billion_U.S._dollars|87.02|y|line_chart Year|2022|x|line_chart Gross_domestic_product_in_billion_U.S._dollars|84.05|y|line_chart Year|2021|x|line_chart Gross_domestic_product_in_billion_U.S._dollars|81.9|y|line_chart Year|2020|x|line_chart Gross_domestic_product_in_billion_U.S._dollars|78.66|y|line_chart Year|2019|x|line_chart Gross_domestic_product_in_billion_U.S._dollars|76.61|y|line_chart Year|2018|x|line_chart Gross_domestic_product_in_billion_U.S._dollars|79.28|y|line_chart Year|2017|x|line_chart Gross_domestic_product_in_billion_U.S._dollars|70.6|y|line_chart Year|2016|x|line_chart Gross_domestic_product_in_billion_U.S._dollars|65.48|y|line_chart Year|2015|x|line_chart Gross_domestic_product_in_billion_U.S._dollars|68.92|y|line_chart Year|2014|x|line_chart Gross_domestic_product_in_billion_U.S._dollars|81.08|y|line_chart Year|2013|x|line_chart Gross_domestic_product_in_billion_U.S._dollars|78.78|y|line_chart Year|2012|x|line_chart Gross_domestic_product_in_billion_U.S._dollars|76.62|y|line_chart Year|2011|x|line_chart Gross_domestic_product_in_billion_U.S._dollars|68.02|y|line_chart Year|2010|x|line_chart Gross_domestic_product_in_billion_U.S._dollars|57.05|y|line_chart Year|2009|x|line_chart Gross_domestic_product_in_billion_U.S._dollars|48.39|y|line_chart Year|2008|x|line_chart Gross_domestic_product_in_billion_U.S._dollars|60.91|y|line_chart Year|2007|x|line_chart Gross_domestic_product_in_billion_U.S._dollars|42.09|y|line_chart Year|2006|x|line_chart Gross_domestic_product_in_billion_U.S._dollars|37.22|y|line_chart Year|2005|x|line_chart Gross_domestic_product_in_billion_U.S._dollars|31.08|y|line_chart Year|2004|x|line_chart Gross_domestic_product_in_billion_U.S._dollars|24.76|y|line_chart Year|2003|x|line_chart Gross_domestic_product_in_billion_U.S._dollars|21.63|y|line_chart Year|2002|x|line_chart Gross_domestic_product_in_billion_U.S._dollars|20.14|y|line_chart Year|2001|x|line_chart Gross_domestic_product_in_billion_U.S._dollars|19.45|y|line_chart Year|2000|x|line_chart Gross_domestic_product_in_billion_U.S._dollars|19.51|y|line_chart Year|1999|x|line_chart Gross_domestic_product_in_billion_U.S._dollars|15.59|y|line_chart Year|1998|x|line_chart Gross_domestic_product_in_billion_U.S._dollars|14.0|y|line_chart Year|1997|x|line_chart Gross_domestic_product_in_billion_U.S._dollars|15.84|y|line_chart Year|1996|x|line_chart Gross_domestic_product_in_billion_U.S._dollars|15.28|y|line_chart Year|1995|x|line_chart Gross_domestic_product_in_billion_U.S._dollars|13.8|y|line_chart Year|1994|x|line_chart Gross_domestic_product_in_billion_U.S._dollars|12.92|y|line_chart Year|1993|x|line_chart Gross_domestic_product_in_billion_U.S._dollars|12.49|y|line_chart Year|1992|x|line_chart Gross_domestic_product_in_billion_U.S._dollars|12.45|y|line_chart Year|1991|x|line_chart Gross_domestic_product_in_billion_U.S._dollars|11.34|y|line_chart Year|1990|x|line_chart Gross_domestic_product_in_billion_U.S._dollars|11.69|y|line_chart Year|1989|x|line_chart Gross_domestic_product_in_billion_U.S._dollars|9.37|y|line_chart Year|1988|x|line_chart Gross_domestic_product_in_billion_U.S._dollars|8.39|y|line_chart Year|1987|x|line_chart Gross_domestic_product_in_billion_U.S._dollars|8.63|y|line_chart Year|1986|x|line_chart Gross_domestic_product_in_billion_U.S._dollars|8.23|y|line_chart Year|1985|x|line_chart Gross_domestic_product_in_billion_U.S._dollars|10.4|y|line_chart Year|1984|x|line_chart Gross_domestic_product_in_billion_U.S._dollars|9.36|y|line_chart "

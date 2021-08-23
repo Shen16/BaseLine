@@ -9,28 +9,28 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart represents 6 different Countrys on X-axis for 2 groups Male, and Female. On the Y-axis it shows their corresponding Share of population. ",
-      " Out of all 2 groups, Male had the highest Share of population in Country Europe and Female had the lowest Share of population in Country CIS. ",
-      " In Country Europe, Female had the maximum Share of population and it saw the lowest in Country CIS out of all 6 Countrys. ",
-      " There is a gap of 732.0 between the highest and lowest Share of population found for Female in Country Europe and CIS. "
+      "This grouped bar chart shows Share of population on the Y-axis for 6 different Countrys for 2 groups Male, and Female that are presented on the X-axis. ",
+      " Country Europe had the maximum Share of population among all 2 groups, and it was for Male. The minimum Share of population was observed in Country CIS for Female. ",
+      " Among all the Countrys, Male had the highest Share of population in Country Europe and lowest Share of population in Country Africa. ",
+      " There is a gap of 511.0 between the highest and lowest Share of population found for Male in Country Europe and Africa. "
    ],
    "xAxis": "Country",
    "yAxis": "Share of population",
    "min_summary": [
-      "This grouped bar chart represents 6 different Countrys on X-axis for 2 groups Male, and Female. On the Y-axis it shows their corresponding Share of population. ",
-      " Country Europe had the maximum Share of population among all 2 groups, and it was for Male. The minimum Share of population was observed in Country CIS for Female. "
+      "This grouped bar chart shows Share of population on the Y-axis for 6 different Countrys for 2 groups Male, and Female that are presented on the X-axis. ",
+      " Out of all 2 groups, Male had the highest Share of population in Country Europe and Female had the lowest Share of population in Country CIS. "
    ],
    "mid_summary": [
-      "This grouped bar chart represents 6 different Countrys on X-axis for 2 groups Male, and Female. On the Y-axis it shows their corresponding Share of population. ",
-      " Out of all 2 groups, Male had the highest Share of population in Country Europe and Female had the lowest Share of population in Country CIS. ",
-      " In Country Europe, Female had the maximum Share of population and it saw the lowest in Country CIS out of all 6 Countrys. ",
-      " There is a gap of 732.0 between the highest and lowest Share of population found for Female in Country Europe and CIS. "
+      "This grouped bar chart shows Share of population on the Y-axis for 6 different Countrys for 2 groups Male, and Female that are presented on the X-axis. ",
+      " Country Europe had the maximum Share of population among all 2 groups, and it was for Male. The minimum Share of population was observed in Country CIS for Female. ",
+      " Among all the Countrys, Male had the highest Share of population in Country Europe and lowest Share of population in Country Africa. ",
+      " There is a gap of 511.0 between the highest and lowest Share of population found for Male in Country Europe and Africa. "
    ],
    "max_summary": [
       "This grouped bar chart represents 6 different Countrys on X-axis for 2 groups Male, and Female. On the Y-axis it shows their corresponding Share of population. ",
-      " Country Europe had the maximum Share of population among all 2 groups, and it was for Male. The minimum Share of population was observed in Country CIS for Female. ",
-      " In Country Europe, Female had the highest Share of population among all 6 Countrys and it has the lowest Share of population in Country CIS. ",
-      "Country Europe and CIS had the biggest gap of 732.0 between the highest and lowest Share of population found for Female. ",
+      " In Country Europe, Male had the highest Share of population 849.0 among the 2 groups and in CIS, Female had the lowest Share of population 71.0. ",
+      " In Country Europe, Male had the highest Share of population among all 6 Countrys and it has the lowest Share of population in Country Africa. ",
+      "Country Europe and Africa had the biggest gap of 511.0 between the highest and lowest Share of population found for Male. ",
       " Among the groups, Male had the biggest difference in Share of population. Where the maximum Share of population was 2.51 times larger than the minimum Share of population. ",
       "On average, the Country Europe had the highest Share of population for all 2 groups Male, and Female. Whereas Africa had the lowest average Share of population. "
    ],

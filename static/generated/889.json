@@ -8,25 +8,26 @@
    "summary": [
       "This is a bar chart. It shows Exhibition space in thousand square feet for 10 number of Buildingss. ",
       "The Exhibition space in thousand square feet is highest at Buildings Enercare Centre and lowest at Buildings Vancouver Convention Centre. ",
-      "The difference of Exhibition space in thousand square feet between the highest and lowest Buildings is 688.5. "
+      "The highest Buildings Enercare Centre has 688.5 more Exhibition space in thousand square feet than the lowest Buildings Vancouver Convention Centre. "
    ],
    "min_summary": [
-      "This is a bar chart. It shows Exhibition space in thousand square feet for 10 number of Buildingss. ",
-      "The Exhibition space in thousand square feet is highest at Buildings Enercare Centre and lowest at Buildings Vancouver Convention Centre. "
+      "This is a bar chart representing Buildings in the x axis and Exhibition space in thousand square feet in the y axis. ",
+      "The Exhibition space in thousand square feet is appeared to be the highest at Buildings Enercare Centre and lowest at Buildings Vancouver Convention Centre. "
    ],
    "mid_summary": [
       "This is a bar chart. It shows Exhibition space in thousand square feet for 10 number of Buildingss. ",
       "The Exhibition space in thousand square feet is highest at Buildings Enercare Centre and lowest at Buildings Vancouver Convention Centre. ",
-      "The difference of Exhibition space in thousand square feet between the highest and lowest Buildings is 688.5. "
+      "The highest Buildings Enercare Centre has 688.5 more Exhibition space in thousand square feet than the lowest Buildings Vancouver Convention Centre. "
    ],
    "max_summary": [
       "This bar chart has 10 columns on the x axis representing Buildings, and Exhibition space in thousand square feet in each Buildings on the y axis. ",
       "The Exhibition space in thousand square feet is highest at Buildings Enercare Centre and lowest at Buildings Vancouver Convention Centre. ",
       "Buildings The Toronto Congress Centre has the second highest value for Exhibition space in thousand square feet. ",
-      "The highest Buildings Enercare Centre has 688.5 more Exhibition space in thousand square feet than the lowest Buildings Vancouver Convention Centre. ",
-      "The Buildings Enercare Centre has the highest Exhibition space in thousand square feet, followed by The Toronto Congress Centre, and The International Centre Toronto. Down to the Buildings Vancouver Convention Centre which is the lowest. ",
+      "The difference of Exhibition space in thousand square feet between the highest and lowest Buildings is 688.5. ",
+      "Buildings Enercare Centre is higher than any other Buildingss with value 1000.0, followed by The Toronto Congress Centre, and The International Centre Toronto. Down to Buildings Vancouver Convention Centre with the lowest value 311.5. ",
       "Buildings Enercare Centre, and The Toronto Congress Centre have a similar Exhibition space in thousand square feet that is 1000.0. ",
-      "The Buildings Vancouver Convention Centre has 1.9 times less Exhibition space in thousand square feet than average. "
+      "The Buildings Enercare Centre has 1.9 times more Exhibition space in thousand square feet than average. ",
+      "Summing up the values of all Buildingss, we get total 5249.5. "
    ],
    "trends": [
       {},

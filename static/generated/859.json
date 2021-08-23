@@ -7,26 +7,25 @@
    "summaryType": "baseline",
    "summary": [
       "This is a bar chart. It shows Employment in thousands for 13 number of Industrys. ",
-      "The Employment in thousands is appeared to be the highest at Industry Education and health services and lowest at Industry Mining quarrying and oil and gas extraction. ",
-      "The highest value at Industry Education and health services is 47.86x times more than the lowest value at Mining quarrying and oil and gas extraction. "
+      "The maximum Employment in thousands 35894.0 is found at Industry Education and health services and the minimum is found at Mining quarrying and oil and gas extraction where Industry is 750.0. ",
+      "The highest Industry Education and health services has 35144.0 more Employment in thousands than the lowest Industry Mining quarrying and oil and gas extraction. "
    ],
    "min_summary": [
-      "This bar chart has 13 columns on the x axis representing Industry, and Employment in thousands in each Industry on the y axis. ",
-      "The Employment in thousands is appeared to be the highest at Industry Education and health services and lowest at Industry Mining quarrying and oil and gas extraction. "
+      "This is a bar chart. It shows Employment in thousands for 13 number of Industrys. ",
+      "The maximum Employment in thousands 35894.0 is found at Industry Education and health services and the minimum is found at Mining quarrying and oil and gas extraction where Industry is 750.0. "
    ],
    "mid_summary": [
       "This is a bar chart. It shows Employment in thousands for 13 number of Industrys. ",
-      "The Employment in thousands is appeared to be the highest at Industry Education and health services and lowest at Industry Mining quarrying and oil and gas extraction. ",
-      "The highest value at Industry Education and health services is 47.86x times more than the lowest value at Mining quarrying and oil and gas extraction. "
+      "The maximum Employment in thousands 35894.0 is found at Industry Education and health services and the minimum is found at Mining quarrying and oil and gas extraction where Industry is 750.0. ",
+      "The highest Industry Education and health services has 35144.0 more Employment in thousands than the lowest Industry Mining quarrying and oil and gas extraction. "
    ],
    "max_summary": [
-      "This is a bar chart. It shows Employment in thousands for 13 number of Industrys. ",
-      "The Employment in thousands is appeared to be the highest at Industry Education and health services and lowest at Industry Mining quarrying and oil and gas extraction. ",
+      "This is a bar chart representing Industry in the x axis and Employment in thousands in the y axis. ",
+      "The Employment in thousands is highest at Industry Education and health services and lowest at Industry Mining quarrying and oil and gas extraction. ",
       "The second highest Employment in thousands is appeared to be the Industry Wholesale and retail trade. ",
-      "The lowest value at Industry Mining quarrying and oil and gas extraction is 47.86x times less than the highest value at Education and health services. ",
+      "The difference of Employment in thousands between the highest and lowest Industry is 35144.0. ",
       "Industry Education and health services is higher than any other Industrys with value 35894.0, followed by Wholesale and retail trade, and Professional and business services. Down to Industry Mining quarrying and oil and gas extraction with the lowest value 750.0. ",
-      "The Industry Education and health services tends to be 2.96 percent higher than average. ",
-      "The Employment in thousands is 157538.0 if we add up values of all Industrys. "
+      "The Industry Education and health services tends to be 2.96 percent higher than average. "
    ],
    "trends": [
       {},

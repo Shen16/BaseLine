@@ -6,26 +6,26 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This is a bar chart representing Country in the x axis and Share in total export in the y axis. ",
-      "Country China has the highest Share in total export and Netherlands has the lowest Share in total export. ",
-      "The highest Country China has 17.5 more Share in total export than the lowest Country Netherlands. "
+      "This bar chart has 4 columns on the x axis representing Country, and Share in total export in each Country on the y axis. ",
+      "The Share in total export is highest at Country China and lowest at Country Netherlands. ",
+      "There is a difference of 17.5 between the maximum Country China and minimum Country Netherlands. "
    ],
    "min_summary": [
       "This bar chart has 4 columns on the x axis representing Country, and Share in total export in each Country on the y axis. ",
       "The Share in total export is highest at Country China and lowest at Country Netherlands. "
    ],
    "mid_summary": [
-      "This is a bar chart representing Country in the x axis and Share in total export in the y axis. ",
-      "Country China has the highest Share in total export and Netherlands has the lowest Share in total export. ",
-      "The highest Country China has 17.5 more Share in total export than the lowest Country Netherlands. "
+      "This bar chart has 4 columns on the x axis representing Country, and Share in total export in each Country on the y axis. ",
+      "The Share in total export is highest at Country China and lowest at Country Netherlands. ",
+      "There is a difference of 17.5 between the maximum Country China and minimum Country Netherlands. "
    ],
    "max_summary": [
-      "This is a bar chart representing Country in the x axis and Share in total export in the y axis. ",
+      "This bar chart has 4 columns on the x axis representing Country, and Share in total export in each Country on the y axis. ",
       "The maximum Share in total export 21.8 is found at Country China and the minimum is found at Netherlands where Country is 4.3. ",
       "Country United States has the second highest value for Share in total export. ",
       "There is a difference of 17.5 between the maximum Country China and minimum Country Netherlands. ",
-      "Share in total export at Country China is 21.8 , second place is United States at 12.5, and thirdly is Argentina at 8.1.",
-      "The lowest value 4.3 at Netherlands is almost 1.87 times smaller than the average value 11.67. "
+      "Country China is higher than any other Countrys with value 21.8, followed by United States, and Argentina. Down to Country Netherlands with the lowest value 4.3. ",
+      "The Country Netherlands has 1.87 times less Share in total export than average. "
    ],
    "trends": [
       {},

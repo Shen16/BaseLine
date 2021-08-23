@@ -11,39 +11,19 @@
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "The given chart is of multi-line type with 4 lines namely Northeast, Midwest, South, and West. The y axis represents SOME LABEL and the x axis represents Year.",
       "Overall Midwest, and West are gradually increasing, Northeast, and South are gradually decreasing,  throughout the Year",
-      "The lines ordered according to average values of SOME LABEL in descending order is: 1. South, 2. Northeast, 3. Midwest, and lastly, 4. West. ",
-      "Throughout the period, South generally had the highest SOME LABEL relative to others with an average of 36.75, and it reached its maximum at 1790 with a value of 49.9.",
-      "Followed by Northeast which ranks as the second topmpost line , with an average of 29.1 SOME LABEL,reaching its highest point  at 1790 with a value of 50.1. ",
-      "The botommost line, West,  has a mean of 10.97, and peaked at 2019. ",
-      "The maximum SOME LABEL about 50.1, occured at 1790 by Northeast."
+      "The ranking of the lines from topmost to botommmost is as follows: 1. South, 2. Midwest, 3. Northeast, and lastly, 4. West. "
    ],
    "xAxis": "Year",
    "yAxis": "SOME LABEL",
    "min_summary": [
-      "You are viewing a chart of multi-line type with 4 lines denoting Northeast, Midwest, South, and West. The y axis indicates the SOME LABEL and the x axis indicates Year.",
-      "Overall Midwest, and West are gradually increasing, Northeast, and South are gradually decreasing,  throughout the Year",
-      "Throughout the period, South generally had the highest SOME LABEL relative to others with an average of 36.75, and it reached its maximum at 1790 with a value of 49.9.",
-      "After South, Northeast overall has the second highest values , with a mean value of 29.1, peaking at 1790. ",
-      "The botommost line, West,  has a mean of 10.97, and peaked at 2019. "
+      "Overall Midwest, and West are gradually increasing, Northeast, and South are gradually decreasing,  throughout the Year"
    ],
    "mid_summary": [
-      "This is a multi-line chart with 4 lines representing Northeast, Midwest, South, and West. The y axis denotes SOME LABEL and the x axis denotes Year.",
-      "Overall Midwest, and West are gradually increasing, Northeast, and South are gradually decreasing,  throughout the Year",
-      "The lines ordered according to average values of SOME LABEL in descending order is: 1. South, 2. Northeast, 3. Midwest, and lastly, 4. West. ",
-      "Throughout the period, South generally had the highest SOME LABEL relative to others with an average of 36.75, and it reached its maximum at 1790 with a value of 49.9.",
-      "Followed by Northeast which ranks as the second topmpost line , with an average of 29.1 SOME LABEL,reaching its highest point  at 1790 with a value of 50.1. ",
-      "West mostly had the least SOME LABEL with a mean value of 10.97, which peaked at 2019 with a value of 23.9. "
+      "Overall Midwest, and West are gradually increasing, Northeast, and South are gradually decreasing,  throughout the Year"
    ],
    "max_summary": [
-      "This is a multi-line chart with 4 lines representing Northeast, Midwest, South, and West. The y axis denotes SOME LABEL and the x axis denotes Year.",
-      "Overall Midwest, and West are gradually increasing, Northeast, and South are gradually decreasing,  throughout the Year",
-      "The lines ordered according to average values of SOME LABEL in descending order is: 1. South, 2. Northeast, 3. Midwest, and lastly, 4. West. ",
-      "Throughout the period, South generally had the highest SOME LABEL relative to others with an average of 36.75, and it reached its maximum at 1790 with a value of 49.9.",
-      "After South, Northeast overall has the second highest values , with a mean value of 29.1, peaking at 1790. ",
-      "The botommost line, West,  has a mean of 10.97, and peaked at 2019. ",
-      "Northeast reported the highest SOME LABEL about 50.1 in Year 1790"
+      "Overall Midwest, and West are gradually increasing, Northeast, and South are gradually decreasing,  throughout the Year"
    ],
    "trends": [
       {},
@@ -70,21 +50,21 @@
       {
          "2": [
             "0",
-            "0"
+            "1"
          ],
          "15": [
             "27",
-            "0"
+            "1"
          ]
       },
       {
          "1": [
-            "0",
-            "0"
+            "6",
+            "1"
          ],
          "10": [
-            "0",
-            "0"
+            "6",
+            "1"
          ]
       }
    ],

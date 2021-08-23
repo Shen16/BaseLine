@@ -6,27 +6,27 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This is a bar chart representing Response in the x axis and Share of respondents in the y axis. ",
+      "This is a bar chart. It shows Share of respondents for 20 number of Responses. ",
       "The Share of respondents is appeared to be the highest at Response Manchester United and lowest at Response Bournemouth. ",
-      "The highest Response Manchester United has 32.0 more Share of respondents than the lowest Response Bournemouth. "
+      "The difference of Share of respondents between the highest and lowest Response is 32.0. "
    ],
    "min_summary": [
-      "This bar chart has 20 columns on the x axis representing Response, and Share of respondents in each Response on the y axis. ",
+      "This is a bar chart representing Response in the x axis and Share of respondents in the y axis. ",
       "Response Manchester United has the highest Share of respondents and Bournemouth has the lowest Share of respondents. "
    ],
    "mid_summary": [
-      "This is a bar chart representing Response in the x axis and Share of respondents in the y axis. ",
+      "This is a bar chart. It shows Share of respondents for 20 number of Responses. ",
       "The Share of respondents is appeared to be the highest at Response Manchester United and lowest at Response Bournemouth. ",
-      "The highest Response Manchester United has 32.0 more Share of respondents than the lowest Response Bournemouth. "
+      "The difference of Share of respondents between the highest and lowest Response is 32.0. "
    ],
    "max_summary": [
-      "This is a bar chart. It shows Share of respondents for 20 number of Responses. ",
-      "The maximum Share of respondents 32.0 is found at Response Manchester United and the minimum is found at Bournemouth where Response is 0.0. ",
-      "Response Liverpool has the second highest value for Share of respondents. ",
-      "There is a difference of 32.0 between the maximum Response Manchester United and minimum Response Bournemouth. ",
-      "The Response Manchester United has the highest Share of respondents, followed by Liverpool, and Manchester City. Down to the Response Bournemouth which is the lowest. ",
+      "This bar chart has 20 columns on the x axis representing Response, and Share of respondents in each Response on the y axis. ",
+      "The Share of respondents is appeared to be the highest at Response Manchester United and lowest at Response Bournemouth. ",
+      "Second maximum Share of respondents is found at Response Liverpool. ",
+      "The difference of Share of respondents between the highest and lowest Response is 32.0. ",
+      "Response Manchester United is higher than any other Responses with value 32.0, followed by Liverpool, and Manchester City. Down to Response Bournemouth with the lowest value 0.0. ",
       "Response Aston Villa, Brighton & Hove Albion, Burnley, Everton, Leicester City, Norwich City, Sheffield United, Southampton, Watford, West Ham United, and Wolverhamption Wanderers share the same value 1.0. ",
-      "The Response Manchester United has 7.62 times more Share of respondents than average. ",
+      "The lowest value 0.0 at Bournemouth is almost 7.62 times smaller than the average value 4.2. ",
       "The Share of respondents is 84.0 if we add up values of all Responses. "
    ],
    "trends": [

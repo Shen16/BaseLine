@@ -6,31 +6,29 @@
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Rate per 1,000 members. In total the number of data points it has is 15.",
-      " In general Rate per 1,000 members has fallen over the Year.",
-      "The line drastically increased by 4.0 times from Year 1-4_years to 10-14_years,increased by 1.8 times from Year 10-14_years to 15-17_years, and lastly, increased by 1.8 times from Year 45-49_years to 5-9_years.",
-      "The most drastic decrease took place within the Year 15-17_years and 18-19_years.",
-      "Maximum Rate per 1,000 members, about 18.8 was reported at Year 15-17_years",
-      "Minimum Rate per 1,000 members about 1.0 was reached at Year <1_year"
+      " Overall Rate per 1,000 members has decreased over the Year.",
+      "Rate per 1,000 members is slightly decreasing from 18-19_years to 25-29_years, and finally roughly constant from 25-29_years to 35-39_years.",
+      "The steepest decrease occurs in between the Year 18-19_years and 20-24_years.",
+      "Maximum Rate per 1,000 members, about 10.1 was reported at Year 18-19_years",
+      "Minimum Rate per 1,000 members about 2.0 was reached at Year 30-34_years, and 35-39_years"
    ],
    "min_summary": [
-      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Rate per 1,000 members. In total the number of data points it has is 15.",
-      " Overall Rate per 1,000 members has decreased over the Year."
+      " Overall Rate per 1,000 members has decreased over the Year.",
+      "Rate per 1,000 members is slightly decreasing from 18-19_years to 25-29_years, and finally roughly constant from 25-29_years to 35-39_years."
    ],
    "mid_summary": [
-      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Rate per 1,000 members. In total the number of data points it has is 15.",
-      " In general Rate per 1,000 members has fallen over the Year.",
-      "The steepest decrease occurs in between the Year 15-17_years and 18-19_years.",
-      "Maximum Rate per 1,000 members, about 18.8 was reported at Year 15-17_years",
-      "Minimum Rate per 1,000 members about 1.0 was reached at Year <1_year"
+      " Overall Rate per 1,000 members has decreased over the Year.",
+      "Rate per 1,000 members is slightly decreasing from 18-19_years to 25-29_years, and finally roughly constant from 25-29_years to 35-39_years.",
+      "The steepest decrease occurs in between the Year 18-19_years and 20-24_years.",
+      "Maximum Rate per 1,000 members, about 10.1 was reported at Year 18-19_years",
+      "Minimum Rate per 1,000 members about 2.0 was reached at Year 30-34_years, and 35-39_years"
    ],
    "max_summary": [
-      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Rate per 1,000 members. In total the number of data points it has is 15.",
-      " In general Rate per 1,000 members has fallen over the Year.",
-      "The most drastic decrease took place within the Year 15-17_years and 18-19_years.",
-      "Maximum Rate per 1,000 members, about 18.8 was reported at Year 15-17_years",
-      "Minimum Rate per 1,000 members about 1.0 was reached at Year <1_year",
-      "The line significantly increased by 8.0 from Year 1-4_years to 10-14_years,increased by 8.1 from Year 10-14_years to 15-17_years, and lastly, increased by 1.6 from Year 45-49_years to 5-9_years."
+      " Overall Rate per 1,000 members has decreased over the Year.",
+      "Rate per 1,000 members is slightly decreasing from 18-19_years to 25-29_years, and finally roughly constant from 25-29_years to 35-39_years.",
+      "The most drastic decrease took place within the Year 18-19_years and 20-24_years.",
+      "Maximum Rate per 1,000 members, about 10.1 was reported at Year 18-19_years",
+      "Minimum Rate per 1,000 members about 2.0 was reached at Year 30-34_years, and 35-39_years"
    ],
    "trends": [],
    "data": [

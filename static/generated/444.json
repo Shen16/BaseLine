@@ -7,25 +7,26 @@
    "summaryType": "baseline",
    "summary": [
       "This is a bar chart. It shows Share of respondents for 14 number of Countrys. ",
-      "The Share of respondents is highest at Country Mexico and lowest at Country Japan. ",
-      "The highest Country Mexico has 25.0 more Share of respondents than the lowest Country Japan. "
+      "The Share of respondents is appeared to be the highest at Country Mexico and lowest at Country Japan. ",
+      "There is a difference of 25.0 between the maximum Country Mexico and minimum Country Japan. "
    ],
    "min_summary": [
       "This is a bar chart representing Country in the x axis and Share of respondents in the y axis. ",
-      "The maximum Share of respondents 97.0 is found at Country Mexico and the minimum is found at Japan where Country is 72.0. "
+      "Country Mexico has the highest Share of respondents and Japan has the lowest Share of respondents. "
    ],
    "mid_summary": [
       "This is a bar chart. It shows Share of respondents for 14 number of Countrys. ",
-      "The Share of respondents is highest at Country Mexico and lowest at Country Japan. ",
-      "The highest Country Mexico has 25.0 more Share of respondents than the lowest Country Japan. "
+      "The Share of respondents is appeared to be the highest at Country Mexico and lowest at Country Japan. ",
+      "There is a difference of 25.0 between the maximum Country Mexico and minimum Country Japan. "
    ],
    "max_summary": [
-      "This bar chart has 14 columns on the x axis representing Country, and Share of respondents in each Country on the y axis. ",
-      "The Share of respondents is highest at Country Mexico and lowest at Country Japan. ",
-      "The highest Country Mexico has 25.0 more Share of respondents than the lowest Country Japan. ",
-      "Country Mexico is higher than any other Countrys with value 97.0, followed by Brazil, and Spain. Down to Country Japan with the lowest value 72.0. ",
-      "Country Italy, and Spain have the same Share of respondents. ",
-      "The lowest value 72.0 at Japan is almost 1.15 times smaller than the average value 84.07. "
+      "This is a bar chart. It shows Share of respondents for 14 number of Countrys. ",
+      "Country Mexico has the highest Share of respondents and Japan has the lowest Share of respondents. ",
+      "Second maximum Share of respondents is found at Country Brazil. ",
+      "There is a difference of 25.0 between the maximum Country Mexico and minimum Country Japan. ",
+      "Share of respondents at Country Mexico is 97.0 , second place is Brazil at 95.0, and thirdly is Spain at 90.0.",
+      "Country Italy, and Spain have a similar Share of respondents that is 90.0. ",
+      "The Country Mexico tends to be 1.15 percent higher than average. "
    ],
    "trends": [
       {},

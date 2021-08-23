@@ -6,7 +6,7 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This is a bar chart representing Selected Cosmetics in the x axis and Amount of category views in billions in the y axis. ",
+      "This is a bar chart. It shows Amount of category views in billions for 9 number of Selected Cosmeticss. ",
       "The Amount of category views in billions is highest at Selected Cosmetics Beauty - overall and lowest at Selected Cosmetics Nails. ",
       "The highest Selected Cosmetics Beauty - overall has 215.0 more Amount of category views in billions than the lowest Selected Cosmetics Nails. "
    ],
@@ -15,18 +15,17 @@
       "The maximum Amount of category views in billions 219.0 is found at Selected Cosmetics Beauty - overall and the minimum is found at Nails where Selected Cosmetics is 4.0. "
    ],
    "mid_summary": [
-      "This is a bar chart representing Selected Cosmetics in the x axis and Amount of category views in billions in the y axis. ",
+      "This is a bar chart. It shows Amount of category views in billions for 9 number of Selected Cosmeticss. ",
       "The Amount of category views in billions is highest at Selected Cosmetics Beauty - overall and lowest at Selected Cosmetics Nails. ",
       "The highest Selected Cosmetics Beauty - overall has 215.0 more Amount of category views in billions than the lowest Selected Cosmetics Nails. "
    ],
    "max_summary": [
-      "This is a bar chart. It shows Amount of category views in billions for 9 number of Selected Cosmeticss. ",
-      "The maximum Amount of category views in billions 219.0 is found at Selected Cosmetics Beauty - overall and the minimum is found at Nails where Selected Cosmetics is 4.0. ",
-      "Selected Cosmetics Cosmetics has the second highest value for Amount of category views in billions. ",
-      "The difference of Amount of category views in billions between the highest and lowest Selected Cosmetics is 215.0. ",
+      "This is a bar chart representing Selected Cosmetics in the x axis and Amount of category views in billions in the y axis. ",
+      "Selected Cosmetics Beauty - overall has the highest Amount of category views in billions and Nails has the lowest Amount of category views in billions. ",
+      "There is a difference of 215.0 between the maximum Selected Cosmetics Beauty - overall and minimum Selected Cosmetics Nails. ",
       "Selected Cosmetics Beauty - overall is higher than any other Selected Cosmeticss with value 219.0, followed by Cosmetics, and Hair. Down to Selected Cosmetics Nails with the lowest value 4.0. ",
-      "The Selected Cosmetics Nails has 3.16 times less Amount of category views in billions than average. ",
-      "The Amount of category views in billions is 624.0 if we add up values of all Selected Cosmeticss. "
+      "The lowest value 4.0 at Nails is almost 3.16 times smaller than the average value 69.33. ",
+      "Summing up the values of all Selected Cosmeticss, we get total 624.0. "
    ],
    "trends": [
       {},

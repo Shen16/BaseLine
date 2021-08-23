@@ -6,25 +6,26 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This is a bar chart. It shows Total prize pool in million U.S. dollars for 10 number of Game Names. ",
-      "The maximum Total prize pool in million U.S. dollars 64.37 is found at Game Name Fortnite and the minimum is found at Rainbow Six Siege where Game Name is 3.88. ",
-      "The difference of Total prize pool in million U.S. dollars between the highest and lowest Game Name is 60.49. "
+      "This is a bar chart representing Game Name in the x axis and Total prize pool in million U.S. dollars in the y axis. ",
+      "Game Name Fortnite has the highest Total prize pool in million U.S. dollars and Rainbow Six Siege has the lowest Total prize pool in million U.S. dollars. ",
+      "Game Name Fortnite has 16.59 times more Total prize pool in million U.S. dollars than Game Name Rainbow Six Siege which is has the lowest. "
    ],
    "min_summary": [
       "This is a bar chart representing Game Name in the x axis and Total prize pool in million U.S. dollars in the y axis. ",
-      "The Total prize pool in million U.S. dollars is highest at Game Name Fortnite and lowest at Game Name Rainbow Six Siege. "
+      "The maximum Total prize pool in million U.S. dollars 64.37 is found at Game Name Fortnite and the minimum is found at Rainbow Six Siege where Game Name is 3.88. "
    ],
    "mid_summary": [
-      "This is a bar chart. It shows Total prize pool in million U.S. dollars for 10 number of Game Names. ",
-      "The maximum Total prize pool in million U.S. dollars 64.37 is found at Game Name Fortnite and the minimum is found at Rainbow Six Siege where Game Name is 3.88. ",
-      "The difference of Total prize pool in million U.S. dollars between the highest and lowest Game Name is 60.49. "
+      "This is a bar chart representing Game Name in the x axis and Total prize pool in million U.S. dollars in the y axis. ",
+      "Game Name Fortnite has the highest Total prize pool in million U.S. dollars and Rainbow Six Siege has the lowest Total prize pool in million U.S. dollars. ",
+      "Game Name Fortnite has 16.59 times more Total prize pool in million U.S. dollars than Game Name Rainbow Six Siege which is has the lowest. "
    ],
    "max_summary": [
-      "This bar chart has 10 columns on the x axis representing Game Name, and Total prize pool in million U.S. dollars in each Game Name on the y axis. ",
-      "Game Name Fortnite has the highest Total prize pool in million U.S. dollars and Rainbow Six Siege has the lowest Total prize pool in million U.S. dollars. ",
-      "The highest Game Name Fortnite has 60.49 more Total prize pool in million U.S. dollars than the lowest Game Name Rainbow Six Siege. ",
-      "Game Name Fortnite is higher than any other Game Names with value 64.37, followed by DOTA 2, and Counter-Strike: Global Offensive. Down to Game Name Rainbow Six Siege with the lowest value 3.88. ",
-      "The highest value 64.37 at Fortnite is almost 3.59 times larger than the average value 17.95. ",
+      "This is a bar chart. It shows Total prize pool in million U.S. dollars for 10 number of Game Names. ",
+      "The Total prize pool in million U.S. dollars is highest at Game Name Fortnite and lowest at Game Name Rainbow Six Siege. ",
+      "Second maximum Total prize pool in million U.S. dollars is found at Game Name DOTA 2. ",
+      "The lowest value at Game Name Rainbow Six Siege is 16.59x times less than the highest value at Fortnite. ",
+      "Total prize pool in million U.S. dollars at Game Name Fortnite is 64.37 , second place is DOTA 2 at 46.15, and thirdly is Counter-Strike: Global Offensive at 18.22.",
+      "The Game Name Rainbow Six Siege has 3.59 times less Total prize pool in million U.S. dollars than average. ",
       "The Total prize pool in million U.S. dollars is 179.46 if we add up values of all Game Names. "
    ],
    "trends": [

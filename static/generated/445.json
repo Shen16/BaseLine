@@ -12,32 +12,32 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart represents Sales in billion CAD on the Y-axis. And, its value throughout 12 Months for 2015, 2016, 2017, 2018, and 2019. ",
-      " Over the 12 Months, the Sales in billion CAD for 2015 have been declined whereas grew for Month. ",
-      " Month Aug had the maximum Sales in billion CAD among all 5 groups, and it was for 2018. The minimum Sales in billion CAD was observed in Month Dec for 2019. ",
-      " Among all the Months, 2015 had the highest Sales in billion CAD 184.0 in Month Aug and lowest value 18.0 in Month Jul. "
+      "This is a grouped bar chart showing Sales in billion CAD on the Y-axis throughout 12 Months for 2015, 2016, 2017, 2018, and 2019 on the X-axis. ",
+      " Over the 12 Months, the Sales in billion CAD for both 2017 and 2016 have lowered. ",
+      " Out of all 5 groups, 2018 had the highest Sales in billion CAD in Month Aug and 2019 had the lowest Sales in billion CAD in Month Dec. ",
+      " In Month Dec, 2017 had the maximum Sales in billion CAD and it saw the lowest in Month May out of all 12 Months. "
    ],
    "xAxis": "Month",
    "yAxis": "Sales in billion CAD",
    "min_summary": [
-      "This grouped bar chart represents Sales in billion CAD on the Y-axis. And, its value throughout 12 Months for 2015, 2016, 2017, 2018, and 2019. ",
-      " All through the Months, the Sales in billion CAD for 2015 have declined. On the other hand, for Month the Sales in billion CAD have grew. "
+      "This is a grouped bar chart showing Sales in billion CAD on the Y-axis throughout 12 Months for 2015, 2016, 2017, 2018, and 2019 on the X-axis. ",
+      " All through the Months, similar trend was observed for 2017 and 2016. In both cases, the Sales in billion CAD have lowered. "
    ],
    "mid_summary": [
-      "This grouped bar chart represents Sales in billion CAD on the Y-axis. And, its value throughout 12 Months for 2015, 2016, 2017, 2018, and 2019. ",
-      " Over the 12 Months, the Sales in billion CAD for 2015 have been declined whereas grew for Month. ",
-      " Month Aug had the maximum Sales in billion CAD among all 5 groups, and it was for 2018. The minimum Sales in billion CAD was observed in Month Dec for 2019. ",
-      " Among all the Months, 2015 had the highest Sales in billion CAD 184.0 in Month Aug and lowest value 18.0 in Month Jul. "
+      "This is a grouped bar chart showing Sales in billion CAD on the Y-axis throughout 12 Months for 2015, 2016, 2017, 2018, and 2019 on the X-axis. ",
+      " Over the 12 Months, the Sales in billion CAD for both 2017 and 2016 have lowered. ",
+      " Out of all 5 groups, 2018 had the highest Sales in billion CAD in Month Aug and 2019 had the lowest Sales in billion CAD in Month Dec. ",
+      " In Month Dec, 2017 had the maximum Sales in billion CAD and it saw the lowest in Month May out of all 12 Months. "
    ],
    "max_summary": [
-      "This grouped bar chart represents Sales in billion CAD on the Y-axis. And, how the value changed throughout 12 Months for 2015, 2016, 2017, 2018, and 2019. ",
-      " Over the 12 Months, the Sales in billion CAD for 2015 have been declined whereas grew for Month. ",
-      " In Month Aug, 2018 had the highest Sales in billion CAD 202.0 among the 5 groups and in Dec, 2019 had the lowest Sales in billion CAD 0.0. ",
-      " Among all the Months, 2015 had the highest Sales in billion CAD 184.0 in Month Aug and lowest value 18.0 in Month Jul. ",
-      " There is a gap of 166.0 between the highest and lowest Sales in billion CAD found for 2015 in Month Aug and Jul. ",
-      " Among all 5 groups, 2017 had the gap of 175.0 between the maximum and minimum Sales in billion CAD observed in Month Dec and May respectively. ",
-      " In Month Aug, 2018 had the highest Sales in billion CAD 202.0 among the 5 groups and in Dec, 2019 had the lowest Sales in billion CAD 0.0. The second highest Sales in billion CAD 188.0 was observed for 2018 in Month Aug. ",
-      "On average, the Month Feb had the highest Sales in billion CAD for all 5 groups 2015, 2016, 2017, 2018, and 2019. Whereas Apr had the lowest average Sales in billion CAD. "
+      "This grouped bar chart represents Sales in billion CAD on the Y-axis. And, its value throughout 12 Months for 2015, 2016, 2017, 2018, and 2019. ",
+      " All through the Months, similar trend was observed for 2017 and 2016. In both cases, the Sales in billion CAD have lowered. ",
+      " Month Aug had the maximum Sales in billion CAD among all 5 groups, and it was for 2018. The minimum Sales in billion CAD was observed in Month Dec for 2019. ",
+      " In Month Dec, 2017 had the maximum Sales in billion CAD and it saw the lowest in Month May out of all 12 Months. ",
+      "Month Dec and May had the biggest gap of 175.0 between the highest and lowest Sales in billion CAD found for 2017. ",
+      " Out of all 5 groups, the highest gap between the maximum and minimum Sales in billion CAD was found in case of 2017. ",
+      " 2018 had the maximum Sales in billion CAD out of all 5 groups in Month Aug followed by 2018 in Aug, and the minimum Sales in billion CAD is found for 2019 in Dec. ",
+      "Averaging all 5 groups 2015, 2016, 2017, 2018, and 2019, the Month Feb is the maximum Sales in billion CAD and Apr is the minimum Sales in billion CAD. "
    ],
    "trends": [
       {},

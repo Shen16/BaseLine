@@ -6,27 +6,26 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This is a bar chart. It shows Number in thousands for 10 number of States. ",
-      "State Iowa has the highest Number in thousands and Kansas has the lowest Number in thousands. ",
+      "This bar chart has 10 columns on the x axis representing State, and Number in thousands in each State on the y axis. ",
+      "The maximum Number in thousands 23500.0 is found at State Iowa and the minimum is found at Kansas where State is 2040.0. ",
       "There is a difference of 21460.0 between the maximum State Iowa and minimum State Kansas. "
    ],
    "min_summary": [
-      "This is a bar chart representing State in the x axis and Number in thousands in the y axis. ",
-      "The Number in thousands is appeared to be the highest at State Iowa and lowest at State Kansas. "
+      "This is a bar chart. It shows Number in thousands for 10 number of States. ",
+      "The maximum Number in thousands 23500.0 is found at State Iowa and the minimum is found at Kansas where State is 2040.0. "
    ],
    "mid_summary": [
-      "This is a bar chart. It shows Number in thousands for 10 number of States. ",
-      "State Iowa has the highest Number in thousands and Kansas has the lowest Number in thousands. ",
+      "This bar chart has 10 columns on the x axis representing State, and Number in thousands in each State on the y axis. ",
+      "The maximum Number in thousands 23500.0 is found at State Iowa and the minimum is found at Kansas where State is 2040.0. ",
       "There is a difference of 21460.0 between the maximum State Iowa and minimum State Kansas. "
    ],
    "max_summary": [
       "This bar chart has 10 columns on the x axis representing State, and Number in thousands in each State on the y axis. ",
-      "State Iowa has the highest Number in thousands and Kansas has the lowest Number in thousands. ",
-      "State North Carolina has the second highest value for Number in thousands. ",
+      "The maximum Number in thousands 23500.0 is found at State Iowa and the minimum is found at Kansas where State is 2040.0. ",
+      "Second maximum Number in thousands is found at State North Carolina. ",
       "The difference of Number in thousands between the highest and lowest State is 21460.0. ",
-      "Number in thousands at State Iowa is 23500.0 , second place is North Carolina at 8900.0, and thirdly is Minnesota at 8700.0.",
-      "The State Kansas tends to be 3.65 percent lower than average. ",
-      "The Number in thousands is 64310.0 if we add up values of all States. "
+      "The State Iowa has the highest Number in thousands, followed by North Carolina, and Minnesota. Down to the State Kansas which is the lowest. ",
+      "The lowest value 2040.0 at Kansas is almost 3.65 times smaller than the average value 6431.0. "
    ],
    "trends": [
       {},

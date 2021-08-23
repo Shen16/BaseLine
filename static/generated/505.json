@@ -6,26 +6,26 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This is a bar chart. It shows Average salary in U.S. dollars for 4 number of Disciplines. ",
+      "This is a bar chart representing Discipline in the x axis and Average salary in U.S. dollars in the y axis. ",
       "The Average salary in U.S. dollars is highest at Discipline Computer Science and lowest at Discipline Business. ",
-      "There is a difference of 4596.0 between the maximum Discipline Computer Science and minimum Discipline Business. "
+      "The highest Discipline Computer Science has 4596.0 more Average salary in U.S. dollars than the lowest Discipline Business. "
    ],
    "min_summary": [
-      "This bar chart has 4 columns on the x axis representing Discipline, and Average salary in U.S. dollars in each Discipline on the y axis. ",
+      "This is a bar chart. It shows Average salary in U.S. dollars for 4 number of Disciplines. ",
       "The maximum Average salary in U.S. dollars 79793.0 is found at Discipline Computer Science and the minimum is found at Business where Discipline is 75197.0. "
    ],
    "mid_summary": [
-      "This is a bar chart. It shows Average salary in U.S. dollars for 4 number of Disciplines. ",
+      "This is a bar chart representing Discipline in the x axis and Average salary in U.S. dollars in the y axis. ",
       "The Average salary in U.S. dollars is highest at Discipline Computer Science and lowest at Discipline Business. ",
-      "There is a difference of 4596.0 between the maximum Discipline Computer Science and minimum Discipline Business. "
+      "The highest Discipline Computer Science has 4596.0 more Average salary in U.S. dollars than the lowest Discipline Business. "
    ],
    "max_summary": [
-      "This is a bar chart. It shows Average salary in U.S. dollars for 4 number of Disciplines. ",
-      "The Average salary in U.S. dollars is highest at Discipline Computer Science and lowest at Discipline Business. ",
-      "Discipline Business has 1.06 times less Average salary in U.S. dollars than Discipline Computer Science which is the highest. ",
-      "Discipline Computer Science is higher than any other Disciplines with value 79793.0, followed by Math & Sciences, and Engineering. Down to Discipline Business with the lowest value 75197.0. ",
-      "The Discipline Business tends to be 1.02 percent lower than average. ",
-      "The Average salary in U.S. dollars is 312005.0 if we add up values of all Disciplines. "
+      "This bar chart has 4 columns on the x axis representing Discipline, and Average salary in U.S. dollars in each Discipline on the y axis. ",
+      "The maximum Average salary in U.S. dollars 79793.0 is found at Discipline Computer Science and the minimum is found at Business where Discipline is 75197.0. ",
+      "Discipline Math & Sciences has the second highest value for Average salary in U.S. dollars. ",
+      "The highest Discipline Computer Science has 4596.0 more Average salary in U.S. dollars than the lowest Discipline Business. ",
+      "The Discipline Computer Science has the highest Average salary in U.S. dollars, followed by Math & Sciences, and Engineering. Down to the Discipline Business which is the lowest. ",
+      "The Discipline Computer Science tends to be 1.02 percent higher than average. "
    ],
    "trends": [
       {},

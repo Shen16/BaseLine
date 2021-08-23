@@ -6,26 +6,26 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This is a bar chart. It shows Misery index score for 20 number of Countrys. ",
-      "Country Venezuela has the highest Misery index score and Paraguay has the lowest Misery index score. ",
+      "This is a bar chart representing Country in the x axis and Misery index score in the y axis. ",
+      "The Misery index score is highest at Country Venezuela and lowest at Country Paraguay. ",
       "There is a difference of 1746416.2 between the maximum Country Venezuela and minimum Country Paraguay. "
    ],
    "min_summary": [
-      "This is a bar chart representing Country in the x axis and Misery index score in the y axis. ",
-      "Country Venezuela has the highest Misery index score and Paraguay has the lowest Misery index score. "
+      "This is a bar chart. It shows Misery index score for 20 number of Countrys. ",
+      "The Misery index score is appeared to be the highest at Country Venezuela and lowest at Country Paraguay. "
    ],
    "mid_summary": [
-      "This is a bar chart. It shows Misery index score for 20 number of Countrys. ",
-      "Country Venezuela has the highest Misery index score and Paraguay has the lowest Misery index score. ",
+      "This is a bar chart representing Country in the x axis and Misery index score in the y axis. ",
+      "The Misery index score is highest at Country Venezuela and lowest at Country Paraguay. ",
       "There is a difference of 1746416.2 between the maximum Country Venezuela and minimum Country Paraguay. "
    ],
    "max_summary": [
       "This bar chart has 20 columns on the x axis representing Country, and Misery index score in each Country on the y axis. ",
-      "Country Venezuela has the highest Misery index score and Paraguay has the lowest Misery index score. ",
-      "The maximum Country Venezuela has got 76263.72 times higher Misery index score than the minimum Country Paraguay. ",
+      "The Misery index score is highest at Country Venezuela and lowest at Country Paraguay. ",
+      "Second maximum Misery index score is found at Country Argentina. ",
+      "The difference of Misery index score between the highest and lowest Country is 1746416.2. ",
       "Misery index score at Country Venezuela is 1746439.1 , second place is Argentina at 105.6, and thirdly is Iran at 75.7.",
-      "The Country Paraguay has 19.99 times less Misery index score than average. ",
-      "Summing up the values of all Countrys, we get total 1747183.6. "
+      "The Country Venezuela has 19.99 times more Misery index score than average. "
    ],
    "trends": [
       {},

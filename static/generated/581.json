@@ -6,32 +6,27 @@
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Inflation rate compared to previous year. In total the number of data points it has is 41.",
       " In general Inflation rate compared to previous year has fallen over the Year.",
-      "Inflation rate compared to previous year is roughly constant from 1984 to 2016, gradually increasing from 2016 to 2017, and finally roughly constant from 2017 to 2024.",
-      "The line rapidly increased by 111.49% from Year 1993 to 1994,remained stable by 88.76% from Year 2004 to 2005,increased by 119.28% from Year 2007 to 2008,remained stable by 71.43% from Year 2008 to 2009,increased by 111.54% from Year 2009 to 2010,remained stable by 77.87% from Year 2012 to 2013,remained stable by 91.3% from Year 2015 to 2016,increased by 5200.0% from Year 2016 to 2017, and lastly, remained stable by 83.1% from Year 2018 to 2019.",
-      "The highest Inflation rate compared to previous year, of value 6.84 was reached at Year 1990",
-      "The lowest Inflation rate compared to previous year, of value 0.02 was reported at Year 2016"
+      "The line significantly increased by 0.97 from Year 1993 to 1994,increased by 0.79 from Year 2004 to 2005,increased by 1.98 from Year 2007 to 2008,decreased by 2.6 from Year 2008 to 2009, and lastly, increased by 1.16 from Year 2009 to 2010.",
+      "The most drastic decrease took place within the Year 1990 and 1991.",
+      "Maximum Inflation rate compared to previous year, about 6.84 was reported at Year 1990",
+      "Minimum Inflation rate compared to previous year about 0.87 was reached at Year 1993"
    ],
    "min_summary": [
-      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Inflation rate compared to previous year. In total the number of data points it has is 41.",
-      " In general Inflation rate compared to previous year has fallen over the Year.",
-      "Inflation rate compared to previous year is roughly constant from 1984 to 2016, gradually increasing from 2016 to 2017, and finally roughly constant from 2017 to 2024."
+      " Overall Inflation rate compared to previous year has decreased over the Year."
    ],
    "mid_summary": [
-      "This is a line chart with an x axis representing Year and a y axis representing Inflation rate compared to previous year, containing a total of 41 data points.",
       " In general Inflation rate compared to previous year has fallen over the Year.",
-      "Inflation rate compared to previous year is roughly constant from 1984 to 2016, gradually increasing from 2016 to 2017, and finally roughly constant from 2017 to 2024.",
-      "The highest Inflation rate compared to previous year, of value 6.84 was reached at Year 1990",
-      "The lowest Inflation rate compared to previous year, of value 0.02 was reported at Year 2016"
+      "The steepest decrease occurs in between the Year 1990 and 1991.",
+      "Maximum Inflation rate compared to previous year, about 6.84 was reported at Year 1990",
+      "Minimum Inflation rate compared to previous year about 0.87 was reached at Year 1993"
    ],
    "max_summary": [
-      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Inflation rate compared to previous year. In total the number of data points it has is 41.",
       " Overall Inflation rate compared to previous year has decreased over the Year.",
-      "Inflation rate compared to previous year is roughly constant from 1984 to 2016, gradually increasing from 2016 to 2017, and finally roughly constant from 2017 to 2024.",
-      "The highest Inflation rate compared to previous year, of value 6.84 was reached at Year 1990",
-      "The lowest Inflation rate compared to previous year, of value 0.02 was reported at Year 2016",
-      "The line significantly increased by 0.97 from Year 1993 to 1994,remained stable by 0.79 from Year 2004 to 2005,increased by 1.98 from Year 2007 to 2008,remained stable by 2.6 from Year 2008 to 2009,increased by 1.16 from Year 2009 to 2010,remained stable by 1.83 from Year 2012 to 2013,remained stable by 0.21 from Year 2015 to 2016,increased by 1.04 from Year 2016 to 2017, and lastly, remained stable by 0.59 from Year 2018 to 2019."
+      "The steepest decrease occurs in between the Year 1990 and 1991.",
+      "Maximum Inflation rate compared to previous year, about 6.84 was reported at Year 1990",
+      "Minimum Inflation rate compared to previous year about 0.87 was reached at Year 1993",
+      "The line significantly increased by 0.97 from Year 1993 to 1994,increased by 0.79 from Year 2004 to 2005,increased by 1.98 from Year 2007 to 2008,decreased by 2.6 from Year 2008 to 2009, and lastly, increased by 1.16 from Year 2009 to 2010."
    ],
    "trends": [],
    "data": [

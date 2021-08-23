@@ -6,27 +6,26 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This is a bar chart. It shows Revenue in million U.S. dollars for 12 number of Months. ",
-      "Month Jan to Dec 2017 has the highest Revenue in million U.S. dollars and Feb 2006 to Jan 2007 has the lowest Revenue in million U.S. dollars. ",
-      "Month Feb 2006 to Jan 2007 has 330.75 times less Revenue in million U.S. dollars than Month Jan to Dec 2017 which is the highest. "
+      "This bar chart has 12 columns on the x axis representing Month, and Revenue in million U.S. dollars in each Month on the y axis. ",
+      "The maximum Revenue in million U.S. dollars 1074.93 is found at Month Jan to Dec 2017 and the minimum is found at Feb 2006 to Jan 2007 where Month is 3.25. ",
+      "There is a difference of 1071.68 between the maximum Month Jan to Dec 2017 and minimum Month Feb 2006 to Jan 2007. "
    ],
    "min_summary": [
-      "This is a bar chart representing Month in the x axis and Revenue in million U.S. dollars in the y axis. ",
-      "The Revenue in million U.S. dollars is appeared to be the highest at Month Jan to Dec 2017 and lowest at Month Feb 2006 to Jan 2007. "
+      "This is a bar chart. It shows Revenue in million U.S. dollars for 12 number of Months. ",
+      "The Revenue in million U.S. dollars is highest at Month Jan to Dec 2017 and lowest at Month Feb 2006 to Jan 2007. "
    ],
    "mid_summary": [
-      "This is a bar chart. It shows Revenue in million U.S. dollars for 12 number of Months. ",
-      "Month Jan to Dec 2017 has the highest Revenue in million U.S. dollars and Feb 2006 to Jan 2007 has the lowest Revenue in million U.S. dollars. ",
-      "Month Feb 2006 to Jan 2007 has 330.75 times less Revenue in million U.S. dollars than Month Jan to Dec 2017 which is the highest. "
+      "This bar chart has 12 columns on the x axis representing Month, and Revenue in million U.S. dollars in each Month on the y axis. ",
+      "The maximum Revenue in million U.S. dollars 1074.93 is found at Month Jan to Dec 2017 and the minimum is found at Feb 2006 to Jan 2007 where Month is 3.25. ",
+      "There is a difference of 1071.68 between the maximum Month Jan to Dec 2017 and minimum Month Feb 2006 to Jan 2007. "
    ],
    "max_summary": [
-      "This is a bar chart representing Month in the x axis and Revenue in million U.S. dollars in the y axis. ",
+      "This bar chart has 12 columns on the x axis representing Month, and Revenue in million U.S. dollars in each Month on the y axis. ",
       "The Revenue in million U.S. dollars is appeared to be the highest at Month Jan to Dec 2017 and lowest at Month Feb 2006 to Jan 2007. ",
-      "The highest Month Jan to Dec 2017 has 1071.68 more Revenue in million U.S. dollars than the lowest Month Feb 2006 to Jan 2007. ",
-      "Month Jan to Dec 2017 is higher than any other Months with value 1074.93, followed by Jan to Dec 2016, and Jan to Dec 2015. Down to Month Feb 2006 to Jan 2007 with the lowest value 3.25. ",
-      "Overall Revenue in million U.S. dollars has reduced over the Months. ",
-      "The Month Feb 2006 to Jan 2007 tends to be 2.52 percent lower than average. ",
-      "The Revenue in million U.S. dollars is 5121.88 if we add up values of all Months. "
+      "The minimum Month Feb 2006 to Jan 2007 has got 330.75 times less Revenue in million U.S. dollars than the maximum Month Jan to Dec 2017. ",
+      "Revenue in million U.S. dollars at Month Jan to Dec 2017 is 1074.93 , second place is Jan to Dec 2016 at 1072.49, and thirdly is Jan to Dec 2015 at 933.31.",
+      "Over the past 12 Months, the Revenue in million U.S. dollars has lowered. ",
+      "Considered together, the average Revenue in million U.S. dollars in all 12 Months is roughly 426.82. "
    ],
    "trends": [
       {},

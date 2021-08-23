@@ -6,32 +6,29 @@
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This is a line chart with an x axis representing Year and a y axis representing Share of respondents, containing a total of 4 data points.",
-      " Overall Share of respondents has decreased over the Year.",
-      "Share of respondents is roughly constant from 18-29_years to 50-64_years, and finally slightly decreasing from 50-64_years to 65+_years.",
-      "The line significantly decreased by 9.0 from Year 50-64_years to 65+_years.",
-      "The highest Share of respondents, of value 22.0 was reached at Year 18-29_years",
-      "Minimum Share of respondents about 3.0 was reached at Year 65+_years"
+      " In general Share of respondents has fallen over the Year.",
+      "Share of respondents is slightly decreasing from 18-29_years to 30-49_years.",
+      "The steepest decrease occurs in between the Year 18-29_years and 30-49_years.",
+      "Maximum Share of respondents, about 22.0 was reported at Year 18-29_years",
+      "Minimum Share of respondents about 11.0 was reached at Year 30-49_years"
    ],
    "min_summary": [
-      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Share of respondents. In total the number of data points it has is 4.",
       " In general Share of respondents has fallen over the Year.",
-      "Share of respondents is roughly constant from 18-29_years to 50-64_years, and finally slightly decreasing from 50-64_years to 65+_years."
+      "Share of respondents is slightly decreasing from 18-29_years to 30-49_years."
    ],
    "mid_summary": [
-      "This is a line chart with an x axis representing Year and a y axis representing Share of respondents, containing a total of 4 data points.",
       " Overall Share of respondents has decreased over the Year.",
-      "Share of respondents is roughly constant from 18-29_years to 50-64_years, and finally slightly decreasing from 50-64_years to 65+_years.",
-      "The highest Share of respondents, of value 22.0 was reached at Year 18-29_years",
-      "Minimum Share of respondents about 3.0 was reached at Year 65+_years"
+      "Share of respondents is slightly decreasing from 18-29_years to 30-49_years.",
+      "The most drastic decrease took place within the Year 18-29_years and 30-49_years.",
+      "Maximum Share of respondents, about 22.0 was reported at Year 18-29_years",
+      "Minimum Share of respondents about 11.0 was reached at Year 30-49_years"
    ],
    "max_summary": [
-      "This is a line chart with an x axis representing Year and a y axis representing Share of respondents, containing a total of 4 data points.",
-      " Overall Share of respondents has decreased over the Year.",
-      "Share of respondents is roughly constant from 18-29_years to 50-64_years, and finally slightly decreasing from 50-64_years to 65+_years.",
-      "The highest Share of respondents, of value 22.0 was reached at Year 18-29_years",
-      "Minimum Share of respondents about 3.0 was reached at Year 65+_years",
-      "The line significantly decreased by 9.0 from Year 50-64_years to 65+_years."
+      " In general Share of respondents has fallen over the Year.",
+      "Share of respondents is slightly decreasing from 18-29_years to 30-49_years.",
+      "The steepest decrease occurs in between the Year 18-29_years and 30-49_years.",
+      "Maximum Share of respondents, about 22.0 was reported at Year 18-29_years",
+      "Minimum Share of respondents about 11.0 was reached at Year 30-49_years"
    ],
    "trends": [],
    "data": [

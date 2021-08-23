@@ -9,37 +9,23 @@
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "You are viewing a chart of multi-line type with 2 lines denoting Commercial vehicles, and Passenger cars. The y axis indicates the SOME LABEL and the x axis indicates Year.",
-      "Overall Commercial vehicles, and Passenger cars are gradually increasing,  throughout the Year",
-      "The lines ordered according to average values of SOME LABEL in descending order is: 1. Passenger cars, and lastly, 2. Commercial vehicles. ",
-      "Throughout the period, Passenger cars generally had the highest SOME LABEL relative to others with an average of 799826.3, and it reached its maximum at 2015 with a value of 947080.0.",
-      "Commercial vehicles mostly had the least SOME LABEL with a mean value of 289727.9, which peaked at 2015 with a value of 335190.0. ",
-      "Commercial vehicles reported the lowest SOME LABEL about 247488.0 in Year 2006",
-      "The greatest difference of SOME LABEL between Commercial vehicles and Passenger cars occurs at Year 2015 and the smallest difference occurs at 2006."
+      "Overall Passenger cars is gradually increasing, Commercial vehicles is roughly constant,  throughout the Year",
+      "The ranking of the lines from topmost to botommmost is as follows: 1. Passenger cars, and lastly, 2. Commercial vehicles. ",
+      "The minimum SOME LABEL about 264970.0, occured at 2008 by Commercial vehicles.",
+      "The greatest difference of SOME LABEL between Commercial vehicles and Passenger cars occurs at Year 2010 and the smallest difference occurs at 2008."
    ],
    "xAxis": "Year",
    "yAxis": "SOME LABEL",
    "min_summary": [
-      "This is a multi-line chart with 2 lines representing Commercial vehicles, and Passenger cars. The y axis denotes SOME LABEL and the x axis denotes Year.",
-      "Overall Commercial vehicles, and Passenger cars are gradually increasing,  throughout the Year",
-      "Throughout the period, Passenger cars generally had the highest SOME LABEL relative to others with an average of 799826.3, and it reached its maximum at 2015 with a value of 947080.0.",
-      "The botommost line, Commercial vehicles,  has a mean of 289727.9, and peaked at 2015. "
+      "Overall Passenger cars is gradually increasing, Commercial vehicles is roughly constant,  throughout the Year"
    ],
    "mid_summary": [
-      "This is a multi-line chart with 2 lines representing Commercial vehicles, and Passenger cars. The y axis denotes SOME LABEL and the x axis denotes Year.",
-      "Overall Commercial vehicles, and Passenger cars are gradually increasing,  throughout the Year",
-      "The lines ordered according to average values of SOME LABEL in descending order is: 1. Passenger cars, and lastly, 2. Commercial vehicles. ",
-      "Throughout the period, Passenger cars generally had the highest SOME LABEL relative to others with an average of 799826.3, and it reached its maximum at 2015 with a value of 947080.0.",
-      "Commercial vehicles mostly had the least SOME LABEL with a mean value of 289727.9, which peaked at 2015 with a value of 335190.0. "
+      "Overall Passenger cars is gradually increasing, Commercial vehicles is roughly constant,  throughout the Year"
    ],
    "max_summary": [
-      "This is a multi-line chart with 2 lines representing Commercial vehicles, and Passenger cars. The y axis denotes SOME LABEL and the x axis denotes Year.",
-      "Overall Commercial vehicles, and Passenger cars are gradually increasing,  throughout the Year",
-      "The lines ordered according to average values of SOME LABEL in descending order is: 1. Passenger cars, and lastly, 2. Commercial vehicles. ",
-      "Throughout the period, Passenger cars generally had the highest SOME LABEL relative to others with an average of 799826.3, and it reached its maximum at 2015 with a value of 947080.0.",
-      "The botommost line, Commercial vehicles,  has a mean of 289727.9, and peaked at 2015. ",
-      "The minimum SOME LABEL about 247488.0, occured at 2006 by Commercial vehicles.",
-      "The difference of SOME LABEL between Commercial vehicles and Passenger cars is greater at Year 2015 compared to the Year 2006."
+      "Overall Passenger cars is gradually increasing, Commercial vehicles is roughly constant,  throughout the Year",
+      "The minimum SOME LABEL about 264970.0, occured at 2008 by Commercial vehicles.",
+      "The greatest difference of SOME LABEL between Commercial vehicles and Passenger cars occurs at Year 2010 and the smallest difference occurs at 2008."
    ],
    "trends": [
       {},
@@ -55,11 +41,11 @@
       },
       {
          "1": [
-            "0",
+            "2",
             "1"
          ],
          "9": [
-            "0",
+            "2",
             "1"
          ]
       },
@@ -75,11 +61,11 @@
       },
       {
          "1": [
-            "0",
+            "2",
             "0"
          ],
          "10": [
-            "0",
+            "2",
             "0"
          ]
       }

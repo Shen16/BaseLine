@@ -6,26 +6,26 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This is a bar chart representing Teams in the x axis and Revenue in million U.S. dollars in the y axis. ",
-      "Teams Hendrick Motorsports has the highest Revenue in million U.S. dollars and Front Row Motorsports has the lowest Revenue in million U.S. dollars. ",
+      "This is a bar chart. It shows Revenue in million U.S. dollars for 8 number of Teamss. ",
+      "The Revenue in million U.S. dollars is highest at Teams Hendrick Motorsports and lowest at Teams Front Row Motorsports. ",
       "The Revenue in million U.S. dollars of Teams Hendrick Motorsports is 9.47% larger than the minimum value at Front Row Motorsports. "
    ],
    "min_summary": [
-      "This is a bar chart representing Teams in the x axis and Revenue in million U.S. dollars in the y axis. ",
+      "This is a bar chart. It shows Revenue in million U.S. dollars for 8 number of Teamss. ",
       "The Revenue in million U.S. dollars is appeared to be the highest at Teams Hendrick Motorsports and lowest at Teams Front Row Motorsports. "
    ],
    "mid_summary": [
-      "This is a bar chart representing Teams in the x axis and Revenue in million U.S. dollars in the y axis. ",
-      "Teams Hendrick Motorsports has the highest Revenue in million U.S. dollars and Front Row Motorsports has the lowest Revenue in million U.S. dollars. ",
+      "This is a bar chart. It shows Revenue in million U.S. dollars for 8 number of Teamss. ",
+      "The Revenue in million U.S. dollars is highest at Teams Hendrick Motorsports and lowest at Teams Front Row Motorsports. ",
       "The Revenue in million U.S. dollars of Teams Hendrick Motorsports is 9.47% larger than the minimum value at Front Row Motorsports. "
    ],
    "max_summary": [
       "This bar chart has 8 columns on the x axis representing Teams, and Revenue in million U.S. dollars in each Teams on the y axis. ",
-      "The Revenue in million U.S. dollars is appeared to be the highest at Teams Hendrick Motorsports and lowest at Teams Front Row Motorsports. ",
-      "Teams Richard Childress Racing has the second highest value for Revenue in million U.S. dollars. ",
-      "The difference of Revenue in million U.S. dollars between the highest and lowest Teams is 161.0. ",
-      "The Teams Hendrick Motorsports has the highest Revenue in million U.S. dollars, followed by Richard Childress Racing, and Joe Gibbs Racing. Down to the Teams Front Row Motorsports which is the lowest. ",
-      "The highest value 180.0 at Hendrick Motorsports is almost 1.82 times larger than the average value 99.12. "
+      "The Revenue in million U.S. dollars is highest at Teams Hendrick Motorsports and lowest at Teams Front Row Motorsports. ",
+      "The highest Teams Hendrick Motorsports has 161.0 more Revenue in million U.S. dollars than the lowest Teams Front Row Motorsports. ",
+      "Teams Hendrick Motorsports is higher than any other Teamss with value 180.0, followed by Richard Childress Racing, and Joe Gibbs Racing. Down to Teams Front Row Motorsports with the lowest value 19.0. ",
+      "The Teams Front Row Motorsports has 1.82 times less Revenue in million U.S. dollars than average. ",
+      "Summing up the values of all Teamss, we get total 793.0. "
    ],
    "trends": [
       {},

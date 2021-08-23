@@ -6,27 +6,27 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 22 columns on the x axis representing Threatened Species, and Number of species in each Threatened Species on the y axis. ",
-      "The Number of species is appeared to be the highest at Threatened Species Flowering Plants and lowest at Threatened Species Green Algae. ",
-      "Threatened Species Green Algae has 1493800000000000.0 times less Number of species than Threatened Species Flowering Plants which is the highest. "
+      "This is a bar chart representing Threatened Species in the x axis and Number of species in the y axis. ",
+      "The maximum Number of species 14938.0 is found at Threatened Species Flowering Plants and the minimum is found at Green Algae where Threatened Species is 0.0. ",
+      "The difference of Number of species between the highest and lowest Threatened Species is 14938.0. "
    ],
    "min_summary": [
-      "This is a bar chart representing Threatened Species in the x axis and Number of species in the y axis. ",
-      "The Number of species is highest at Threatened Species Flowering Plants and lowest at Threatened Species Green Algae. "
+      "This is a bar chart. It shows Number of species for 22 number of Threatened Speciess. ",
+      "Threatened Species Flowering Plants has the highest Number of species and Green Algae has the lowest Number of species. "
    ],
    "mid_summary": [
-      "This bar chart has 22 columns on the x axis representing Threatened Species, and Number of species in each Threatened Species on the y axis. ",
-      "The Number of species is appeared to be the highest at Threatened Species Flowering Plants and lowest at Threatened Species Green Algae. ",
-      "Threatened Species Green Algae has 1493800000000000.0 times less Number of species than Threatened Species Flowering Plants which is the highest. "
+      "This is a bar chart representing Threatened Species in the x axis and Number of species in the y axis. ",
+      "The maximum Number of species 14938.0 is found at Threatened Species Flowering Plants and the minimum is found at Green Algae where Threatened Species is 0.0. ",
+      "The difference of Number of species between the highest and lowest Threatened Species is 14938.0. "
    ],
    "max_summary": [
-      "This is a bar chart representing Threatened Species in the x axis and Number of species in the y axis. ",
-      "Threatened Species Flowering Plants has the highest Number of species and Green Algae has the lowest Number of species. ",
+      "This bar chart has 22 columns on the x axis representing Threatened Species, and Number of species in each Threatened Species on the y axis. ",
+      "The Number of species is appeared to be the highest at Threatened Species Flowering Plants and lowest at Threatened Species Green Algae. ",
       "Second maximum Number of species is found at Threatened Species Fishes. ",
       "The highest Threatened Species Flowering Plants has 14938.0 more Number of species than the lowest Threatened Species Green Algae. ",
-      "Threatened Species Flowering Plants is higher than any other Threatened Speciess with value 14938.0, followed by Fishes, and Molluscs. Down to Threatened Species Green Algae with the lowest value 0.0. ",
+      "Number of species at Threatened Species Flowering Plants is 14938.0 , second place is Fishes at 2674.0, and thirdly is Molluscs at 2250.0.",
       "Threatened Species Velvet Worms, and Red Algae share the same value 9.0. ",
-      "The Threatened Species Flowering Plants tends to be 10.89 percent higher than average. "
+      "The Threatened Species Flowering Plants has 10.89 times more Number of species than average. "
    ],
    "trends": [
       {},

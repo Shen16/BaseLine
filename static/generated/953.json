@@ -6,28 +6,26 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This is a bar chart. It shows Average player age in years for 32 number of Countrys. ",
-      "Country Costa Rica has the highest Average player age in years and Nigeria has the lowest Average player age in years. ",
-      "The minimum Country Nigeria has got 1.14 times less Average player age in years than the maximum Country Costa Rica. "
+      "This bar chart has 32 columns on the x axis representing Country, and Average player age in years in each Country on the y axis. ",
+      "The maximum Average player age in years 29.6 is found at Country Costa Rica and the minimum is found at Nigeria where Country is 25.9. ",
+      "There is a difference of 3.7 between the maximum Country Costa Rica and minimum Country Nigeria. "
    ],
    "min_summary": [
       "This bar chart has 32 columns on the x axis representing Country, and Average player age in years in each Country on the y axis. ",
-      "Country Costa Rica has the highest Average player age in years and Nigeria has the lowest Average player age in years. "
+      "The Average player age in years is highest at Country Costa Rica and lowest at Country Nigeria. "
    ],
    "mid_summary": [
-      "This is a bar chart. It shows Average player age in years for 32 number of Countrys. ",
-      "Country Costa Rica has the highest Average player age in years and Nigeria has the lowest Average player age in years. ",
-      "The minimum Country Nigeria has got 1.14 times less Average player age in years than the maximum Country Costa Rica. "
+      "This bar chart has 32 columns on the x axis representing Country, and Average player age in years in each Country on the y axis. ",
+      "The maximum Average player age in years 29.6 is found at Country Costa Rica and the minimum is found at Nigeria where Country is 25.9. ",
+      "There is a difference of 3.7 between the maximum Country Costa Rica and minimum Country Nigeria. "
    ],
    "max_summary": [
-      "This is a bar chart representing Country in the x axis and Average player age in years in the y axis. ",
+      "This is a bar chart. It shows Average player age in years for 32 number of Countrys. ",
       "The Average player age in years is highest at Country Costa Rica and lowest at Country Nigeria. ",
-      "Second maximum Average player age in years is found at Country Mexico. ",
-      "The difference of Average player age in years between the highest and lowest Country is 3.7. ",
-      "Country Costa Rica is higher than any other Countrys with value 29.6, followed by Mexico, and Argentina. Down to Country Nigeria with the lowest value 25.9. ",
-      "Country Sweden, Uruguay, Colombia, and Australia have a similar Average player age in years that is 28.1. ",
-      "The Country Nigeria tends to be 1.06 percent lower than average. ",
-      "Summing up the values of all Countrys, we get total 891.6. "
+      "Country Nigeria has 1.14 times less Average player age in years than Country Costa Rica which is the highest. ",
+      "The Country Costa Rica has the highest Average player age in years, followed by Mexico, and Argentina. Down to the Country Nigeria which is the lowest. ",
+      "Similar Average player age in years is found in Country Sweden, Uruguay, Colombia, and Australia. ",
+      "Considered together, the average Average player age in years in all 32 Countrys is roughly 27.86. "
    ],
    "trends": [
       {},

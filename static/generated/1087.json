@@ -6,25 +6,27 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This is a bar chart representing Insurance Companies in the x axis and Profit in million U.S. dollars in the y axis. ",
-      "The maximum Profit in million U.S. dollars 8788.4 is found at Insurance Companies State Farm Insurance Cos. and the minimum is found at Farmers Insurance Exchange where Insurance Companies is 70.5. ",
+      "This is a bar chart. It shows Profit in million U.S. dollars for 8 number of Insurance Companiess. ",
+      "The Profit in million U.S. dollars is highest at Insurance Companies State Farm Insurance Cos. and lowest at Insurance Companies Farmers Insurance Exchange. ",
       "The highest Insurance Companies State Farm Insurance Cos. has 8717.9 more Profit in million U.S. dollars than the lowest Insurance Companies Farmers Insurance Exchange. "
    ],
    "min_summary": [
-      "This bar chart has 8 columns on the x axis representing Insurance Companies, and Profit in million U.S. dollars in each Insurance Companies on the y axis. ",
-      "The maximum Profit in million U.S. dollars 8788.4 is found at Insurance Companies State Farm Insurance Cos. and the minimum is found at Farmers Insurance Exchange where Insurance Companies is 70.5. "
+      "This is a bar chart representing Insurance Companies in the x axis and Profit in million U.S. dollars in the y axis. ",
+      "Insurance Companies State Farm Insurance Cos. has the highest Profit in million U.S. dollars and Farmers Insurance Exchange has the lowest Profit in million U.S. dollars. "
    ],
    "mid_summary": [
-      "This is a bar chart representing Insurance Companies in the x axis and Profit in million U.S. dollars in the y axis. ",
-      "The maximum Profit in million U.S. dollars 8788.4 is found at Insurance Companies State Farm Insurance Cos. and the minimum is found at Farmers Insurance Exchange where Insurance Companies is 70.5. ",
+      "This is a bar chart. It shows Profit in million U.S. dollars for 8 number of Insurance Companiess. ",
+      "The Profit in million U.S. dollars is highest at Insurance Companies State Farm Insurance Cos. and lowest at Insurance Companies Farmers Insurance Exchange. ",
       "The highest Insurance Companies State Farm Insurance Cos. has 8717.9 more Profit in million U.S. dollars than the lowest Insurance Companies Farmers Insurance Exchange. "
    ],
    "max_summary": [
       "This is a bar chart. It shows Profit in million U.S. dollars for 8 number of Insurance Companiess. ",
-      "Insurance Companies State Farm Insurance Cos. has the highest Profit in million U.S. dollars and Farmers Insurance Exchange has the lowest Profit in million U.S. dollars. ",
-      "The difference of Profit in million U.S. dollars between the highest and lowest Insurance Companies is 8717.9. ",
-      "The Insurance Companies State Farm Insurance Cos. has the highest Profit in million U.S. dollars, followed by Auto-Owners Insurance, and Erie Insurance Group. Down to the Insurance Companies Farmers Insurance Exchange which is the lowest. ",
-      "The Insurance Companies Farmers Insurance Exchange tends to be 6.15 percent lower than average. "
+      "The Profit in million U.S. dollars is appeared to be the highest at Insurance Companies State Farm Insurance Cos. and lowest at Insurance Companies Farmers Insurance Exchange. ",
+      "Second maximum Profit in million U.S. dollars is found at Insurance Companies Auto-Owners Insurance. ",
+      "There is a difference of 8717.9 between the maximum Insurance Companies State Farm Insurance Cos. and minimum Insurance Companies Farmers Insurance Exchange. ",
+      "Profit in million U.S. dollars at Insurance Companies State Farm Insurance Cos. is 8788.4 , second place is Auto-Owners Insurance at 754.5, and thirdly is Erie Insurance Group at 686.3.",
+      "The highest value 8788.4 at State Farm Insurance Cos. is almost 6.15 times larger than the average value 1428.15. ",
+      "The Profit in million U.S. dollars is 11425.2 if we add up values of all Insurance Companiess. "
    ],
    "trends": [
       {},

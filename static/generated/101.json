@@ -11,7 +11,7 @@
       "There is a difference of 1900.0 between the maximum Month November 2018 and minimum Month September 2012. "
    ],
    "min_summary": [
-      "This bar chart has 6 columns on the x axis representing Month, and Number of users in thousands in each Month on the y axis. ",
+      "This is a bar chart. It shows Number of users in thousands for 6 number of Months. ",
       "Month November 2018 has the highest Number of users in thousands and September 2012 has the lowest Number of users in thousands. "
    ],
    "mid_summary": [
@@ -21,13 +21,12 @@
    ],
    "max_summary": [
       "This is a bar chart representing Month in the x axis and Number of users in thousands in the y axis. ",
-      "The Number of users in thousands is highest at Month November 2018 and lowest at Month September 2012. ",
-      "The second highest Number of users in thousands is appeared to be the Month February 2017. ",
-      "The highest Month November 2018 has 1900.0 more Number of users in thousands than the lowest Month September 2012. ",
-      "The Month November 2018 has the highest Number of users in thousands, followed by February 2017, and November 2015. Down to the Month September 2012 which is the lowest. ",
-      "Over the past 6 Months, the Number of users in thousands has lowered. ",
-      "The lowest value 100.0 at September 2012 is almost 2.7 times smaller than the average value 741.67. ",
-      "Summing up the values of all Months, we get total 4450.0. "
+      "Month November 2018 has the highest Number of users in thousands and September 2012 has the lowest Number of users in thousands. ",
+      "Second maximum Number of users in thousands is found at Month February 2017. ",
+      "The highest value at Month November 2018 is 20.0x times more than the lowest value at September 2012. ",
+      "Number of users in thousands at Month November 2018 is 2000.0 , second place is February 2017 at 1000.0, and thirdly is November 2015 at 750.0.",
+      "Overall Number of users in thousands has lowered over the Months. ",
+      "The Month September 2012 has 2.7 times less Number of users in thousands than average. "
    ],
    "trends": [
       {},

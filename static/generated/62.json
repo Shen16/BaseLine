@@ -6,27 +6,26 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This is a bar chart representing Quarter in the x axis and Unit shipments in thousands in the y axis. ",
-      "The Unit shipments in thousands is appeared to be the highest at Quarter 4Q '19 and lowest at Quarter 1Q '12. ",
-      "The lowest value at Quarter 1Q '12 is 1.68x times less than the highest value at 4Q '19. "
+      "This bar chart has 32 columns on the x axis representing Quarter, and Unit shipments in thousands in each Quarter on the y axis. ",
+      "The maximum Unit shipments in thousands 2905.3 is found at Quarter 4Q '19 and the minimum is found at 1Q '12 where Quarter is 1732.2. ",
+      "The difference of Unit shipments in thousands between the highest and lowest Quarter is 1173.1. "
    ],
    "min_summary": [
-      "This bar chart has 32 columns on the x axis representing Quarter, and Unit shipments in thousands in each Quarter on the y axis. ",
-      "The maximum Unit shipments in thousands 2905.3 is found at Quarter 4Q '19 and the minimum is found at 1Q '12 where Quarter is 1732.2. "
+      "This is a bar chart. It shows Unit shipments in thousands for 32 number of Quarters. ",
+      "The Unit shipments in thousands is appeared to be the highest at Quarter 4Q '19 and lowest at Quarter 1Q '12. "
    ],
    "mid_summary": [
-      "This is a bar chart representing Quarter in the x axis and Unit shipments in thousands in the y axis. ",
-      "The Unit shipments in thousands is appeared to be the highest at Quarter 4Q '19 and lowest at Quarter 1Q '12. ",
-      "The lowest value at Quarter 1Q '12 is 1.68x times less than the highest value at 4Q '19. "
+      "This bar chart has 32 columns on the x axis representing Quarter, and Unit shipments in thousands in each Quarter on the y axis. ",
+      "The maximum Unit shipments in thousands 2905.3 is found at Quarter 4Q '19 and the minimum is found at 1Q '12 where Quarter is 1732.2. ",
+      "The difference of Unit shipments in thousands between the highest and lowest Quarter is 1173.1. "
    ],
    "max_summary": [
-      "This bar chart has 32 columns on the x axis representing Quarter, and Unit shipments in thousands in each Quarter on the y axis. ",
-      "The Unit shipments in thousands is highest at Quarter 4Q '19 and lowest at Quarter 1Q '12. ",
-      "The second highest Unit shipments in thousands is appeared to be the Quarter 2Q '19'. ",
-      "The minimum Quarter 1Q '12 has got 1.68 times less Unit shipments in thousands than the maximum Quarter 4Q '19. ",
-      "The Quarter 4Q '19 has the highest Unit shipments in thousands, followed by 2Q '19', and 4Q '18. Down to the Quarter 1Q '12 which is the lowest. ",
-      "The Unit shipments in thousands has reduced over the past 32 Quarters. ",
-      "The highest value 2905.3 at 4Q '19 is almost 1.25 times larger than the average value 2326.48. ",
+      "This is a bar chart representing Quarter in the x axis and Unit shipments in thousands in the y axis. ",
+      "The Unit shipments in thousands is appeared to be the highest at Quarter 4Q '19 and lowest at Quarter 1Q '12. ",
+      "The difference of Unit shipments in thousands between the highest and lowest Quarter is 1173.1. ",
+      "Unit shipments in thousands at Quarter 4Q '19 is 2905.3 , second place is 2Q '19' at 2811.7, and thirdly is 4Q '18 at 2774.9.",
+      "The Unit shipments in thousands has lowered over the past 32 Quarters. ",
+      "Considered together, the average Unit shipments in thousands in all 32 Quarters is roughly 2326.48. ",
       "The Unit shipments in thousands is 74447.3 if we add up values of all Quarters. "
    ],
    "trends": [

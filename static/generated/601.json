@@ -9,28 +9,28 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart shows SOME LABEL on the Y-axis for 14 different Regions for 2 groups Oct' 18, and Oct '19 that are presented on the X-axis. ",
-      " In Region London, Oct' 18 had the highest SOME LABEL 366.0 among the 2 groups and in Yorkshire & Humber, Oct' 18 had the lowest SOME LABEL 26.0. ",
-      " Among all the Regions, Oct '19 had the highest SOME LABEL 356.0 in Region London and lowest value 27.0 in Region Scotland. ",
-      " The maximum SOME LABEL for Oct '19 that was found in Region London was 13.19 times larger than the minimum SOME LABEL observed in Region Scotland. "
+      "This grouped bar chart represents 14 different Regions on X-axis for 2 groups Oct' 18, and Oct '19. On the Y-axis it shows their corresponding SOME LABEL. ",
+      " Region London had the maximum SOME LABEL among all 2 groups, and it was for Oct' 18. The minimum SOME LABEL was observed in Region Yorkshire & Humber for Oct' 18. ",
+      " Among all the Regions, Oct' 18 had the highest SOME LABEL in Region London and lowest SOME LABEL in Region Yorkshire & Humber. ",
+      " The maximum SOME LABEL for Oct' 18 that was found in Region London was 14.08 times larger than the minimum SOME LABEL observed in Region Yorkshire & Humber. "
    ],
    "xAxis": "Region",
    "yAxis": "SOME LABEL",
    "min_summary": [
-      "This grouped bar chart shows SOME LABEL on the Y-axis for 14 different Regions for 2 groups Oct' 18, and Oct '19 that are presented on the X-axis. ",
+      "This grouped bar chart represents 14 different Regions on X-axis for 2 groups Oct' 18, and Oct '19. On the Y-axis it shows their corresponding SOME LABEL. ",
       " In Region London, Oct' 18 had the highest SOME LABEL 366.0 among the 2 groups and in Yorkshire & Humber, Oct' 18 had the lowest SOME LABEL 26.0. "
    ],
    "mid_summary": [
-      "This grouped bar chart shows SOME LABEL on the Y-axis for 14 different Regions for 2 groups Oct' 18, and Oct '19 that are presented on the X-axis. ",
-      " In Region London, Oct' 18 had the highest SOME LABEL 366.0 among the 2 groups and in Yorkshire & Humber, Oct' 18 had the lowest SOME LABEL 26.0. ",
-      " Among all the Regions, Oct '19 had the highest SOME LABEL 356.0 in Region London and lowest value 27.0 in Region Scotland. ",
-      " The maximum SOME LABEL for Oct '19 that was found in Region London was 13.19 times larger than the minimum SOME LABEL observed in Region Scotland. "
+      "This grouped bar chart represents 14 different Regions on X-axis for 2 groups Oct' 18, and Oct '19. On the Y-axis it shows their corresponding SOME LABEL. ",
+      " Region London had the maximum SOME LABEL among all 2 groups, and it was for Oct' 18. The minimum SOME LABEL was observed in Region Yorkshire & Humber for Oct' 18. ",
+      " Among all the Regions, Oct' 18 had the highest SOME LABEL in Region London and lowest SOME LABEL in Region Yorkshire & Humber. ",
+      " The maximum SOME LABEL for Oct' 18 that was found in Region London was 14.08 times larger than the minimum SOME LABEL observed in Region Yorkshire & Humber. "
    ],
    "max_summary": [
-      "This grouped bar chart represents 14 different Regions on X-axis for 2 groups Oct' 18, and Oct '19. On the Y-axis it shows their corresponding SOME LABEL. ",
-      " In Region London, Oct' 18 had the highest SOME LABEL 366.0 among the 2 groups and in Yorkshire & Humber, Oct' 18 had the lowest SOME LABEL 26.0. ",
-      " Among all the Regions, Oct '19 had the highest SOME LABEL 356.0 in Region London and lowest value 27.0 in Region Scotland. ",
-      "Region London and Scotland had the biggest gap of 329.0 between the highest and lowest SOME LABEL found for Oct '19. ",
+      "This grouped bar chart shows SOME LABEL on the Y-axis for 14 different Regions for 2 groups Oct' 18, and Oct '19 that are presented on the X-axis. ",
+      " Region London had the maximum SOME LABEL among all 2 groups, and it was for Oct' 18. The minimum SOME LABEL was observed in Region Yorkshire & Humber for Oct' 18. ",
+      " Among all the Regions, Oct' 18 had the highest SOME LABEL in Region London and lowest SOME LABEL in Region Yorkshire & Humber. ",
+      " The maximum SOME LABEL for Oct' 18 that was found in Region London was 14.08 times larger than the minimum SOME LABEL observed in Region Yorkshire & Humber. ",
       " Among the groups, Oct' 18 had the biggest difference in SOME LABEL. Where the maximum SOME LABEL was 14.08 times larger than the minimum SOME LABEL. ",
       "On average, the Region London had the highest SOME LABEL for all 2 groups Oct' 18, and Oct '19. Whereas North East had the lowest average SOME LABEL. "
    ],

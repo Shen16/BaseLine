@@ -9,37 +9,23 @@
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "You are viewing a chart of multi-line type with 2 lines denoting Revenue, and Spending. The y axis indicates the SOME LABEL and the x axis indicates Year.",
       "Overall Revenue, and Spending are gradually increasing,  throughout the Year",
-      "The ranking of the lines from topmost to botommmost is as follows: 1. Spending, and lastly, 2. Revenue. ",
-      "Throughout the period, Spending generally had the highest SOME LABEL relative to others with an average of 92.11, and it reached its maximum at 2024 with a value of 100.51.",
-      "Revenue mostly had the least SOME LABEL with a mean value of 90.18, which peaked at 2024 with a value of 96.93. ",
-      "The minimum SOME LABEL about 82.39, occured at 2014 by Revenue.",
-      "The greatest difference of SOME LABEL between Revenue and Spending occurs at Year 2014 and the smallest difference occurs at 2019."
+      "The order of lines according to average values of SOME LABEL, in descending order is: 1. Spending, and lastly, 2. Revenue. ",
+      "Spending reported the lowest SOME LABEL about 86.29 in Year 2018",
+      "The greatest difference of SOME LABEL between Revenue and Spending occurs at Year 2024 and the smallest difference occurs at 2019."
    ],
    "xAxis": "Year",
    "yAxis": "SOME LABEL",
    "min_summary": [
-      "You are viewing a chart of multi-line type with 2 lines denoting Revenue, and Spending. The y axis indicates the SOME LABEL and the x axis indicates Year.",
-      "Overall Revenue, and Spending are gradually increasing,  throughout the Year",
-      "Overall across the Year, Spending mostly maintained the highest SOME LABEL when compared to others with a mean value of 92.11, and it peaked at 2024.",
-      "Revenue mostly had the least SOME LABEL with a mean value of 90.18, which peaked at 2024 with a value of 96.93. "
+      "Overall Revenue, and Spending are gradually increasing,  throughout the Year"
    ],
    "mid_summary": [
-      "You are viewing a chart of multi-line type with 2 lines denoting Revenue, and Spending. The y axis indicates the SOME LABEL and the x axis indicates Year.",
-      "Overall Revenue, and Spending are gradually increasing,  throughout the Year",
-      "The ranking of the lines from topmost to botommmost is as follows: 1. Spending, and lastly, 2. Revenue. ",
-      "Throughout the period, Spending generally had the highest SOME LABEL relative to others with an average of 92.11, and it reached its maximum at 2024 with a value of 100.51.",
-      "The botommost line, Revenue,  has a mean of 90.18, and peaked at 2024. "
+      "Overall Revenue, and Spending are gradually increasing,  throughout the Year"
    ],
    "max_summary": [
-      "You are viewing a chart of multi-line type with 2 lines denoting Revenue, and Spending. The y axis indicates the SOME LABEL and the x axis indicates Year.",
       "Overall Revenue, and Spending are gradually increasing,  throughout the Year",
-      "The ranking of the lines from topmost to botommmost is as follows: 1. Spending, and lastly, 2. Revenue. ",
-      "Throughout the period, Spending generally had the highest SOME LABEL relative to others with an average of 92.11, and it reached its maximum at 2024 with a value of 100.51.",
-      "The botommost line, Revenue,  has a mean of 90.18, and peaked at 2024. ",
-      "The minimum SOME LABEL about 82.39, occured at 2014 by Revenue.",
-      "The difference of SOME LABEL between Revenue and Spending is smaller at Year 2024 compared to the Year 2014."
+      "The minimum SOME LABEL about 86.29, occured at 2018 by Spending.",
+      "The difference of SOME LABEL between Revenue and Spending is greater at Year 2024 compared to the Year 2018."
    ],
    "trends": [
       {},
@@ -55,11 +41,11 @@
       },
       {
          "1": [
-            "0",
+            "6",
             "1"
          ],
          "9": [
-            "0",
+            "6",
             "1"
          ]
       },
@@ -75,11 +61,11 @@
       },
       {
          "1": [
-            "0",
+            "6",
             "0"
          ],
          "10": [
-            "0",
+            "6",
             "0"
          ]
       }

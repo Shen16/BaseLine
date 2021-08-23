@@ -6,27 +6,26 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This is a bar chart representing Name in the x axis and Number of subscribers in millions in the y axis. ",
-      "The maximum Number of subscribers in millions 11.39 is found at Name Cyprien and the minimum is found at Tibo InShape where Name is 3.87. ",
+      "This is a bar chart. It shows Number of subscribers in millions for 10 number of Names. ",
+      "The Number of subscribers in millions is appeared to be the highest at Name Cyprien and lowest at Name Tibo InShape. ",
       "The difference of Number of subscribers in millions between the highest and lowest Name is 7.52. "
    ],
    "min_summary": [
-      "This is a bar chart representing Name in the x axis and Number of subscribers in millions in the y axis. ",
-      "The Number of subscribers in millions is highest at Name Cyprien and lowest at Name Tibo InShape. "
+      "This is a bar chart. It shows Number of subscribers in millions for 10 number of Names. ",
+      "The Number of subscribers in millions is appeared to be the highest at Name Cyprien and lowest at Name Tibo InShape. "
    ],
    "mid_summary": [
-      "This is a bar chart representing Name in the x axis and Number of subscribers in millions in the y axis. ",
-      "The maximum Number of subscribers in millions 11.39 is found at Name Cyprien and the minimum is found at Tibo InShape where Name is 3.87. ",
+      "This is a bar chart. It shows Number of subscribers in millions for 10 number of Names. ",
+      "The Number of subscribers in millions is appeared to be the highest at Name Cyprien and lowest at Name Tibo InShape. ",
       "The difference of Number of subscribers in millions between the highest and lowest Name is 7.52. "
    ],
    "max_summary": [
-      "This is a bar chart representing Name in the x axis and Number of subscribers in millions in the y axis. ",
-      "Name Cyprien has the highest Number of subscribers in millions and Tibo InShape has the lowest Number of subscribers in millions. ",
-      "Name Norman fait des vid\u00e9os has the second highest value for Number of subscribers in millions. ",
-      "The minimum Name Tibo InShape has got 2.94 times less Number of subscribers in millions than the maximum Name Cyprien. ",
-      "The Name Cyprien has the highest Number of subscribers in millions, followed by Norman fait des vid\u00e9os, and Squeezie. Down to the Name Tibo InShape which is the lowest. ",
-      "The lowest value 3.87 at Tibo InShape is almost 1.84 times smaller than the average value 6.19. ",
-      "The Number of subscribers in millions is 61.89 if we add up values of all Names. "
+      "This bar chart has 10 columns on the x axis representing Name, and Number of subscribers in millions in each Name on the y axis. ",
+      "The Number of subscribers in millions is highest at Name Cyprien and lowest at Name Tibo InShape. ",
+      "The second highest Number of subscribers in millions is appeared to be the Name Norman fait des vid\u00e9os. ",
+      "The highest Name Cyprien has 7.52 more Number of subscribers in millions than the lowest Name Tibo InShape. ",
+      "Name Cyprien is higher than any other Names with value 11.39, followed by Norman fait des vid\u00e9os, and Squeezie. Down to Name Tibo InShape with the lowest value 3.87. ",
+      "The Name Cyprien tends to be 1.84 percent higher than average. "
    ],
    "trends": [
       {},

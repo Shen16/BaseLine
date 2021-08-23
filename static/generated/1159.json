@@ -6,30 +6,26 @@
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This is a line chart with an x axis representing Year and a y axis representing FIFA World Ranking position, containing a total of 26 data points.",
-      " In general FIFA World Ranking position has rose over the Year.",
+      " Overall FIFA World Ranking position has increased over the Year.",
       "The line rapidly increased by 333.33% from Year 1994 to 1995, and lastly, increased by 71.43% from Year 2006 to 2007.",
-      "The steepest decrease occurs in between the Year 2016 and 2017.",
-      "Maximum FIFA World Ranking position, about 44.0 was reported at Year 2014",
-      "The lowest FIFA World Ranking position, of value 3.0 was reported at Year 1994"
+      "The steepest increase occurs in between the Year 2013 and 2014.",
+      "The highest FIFA World Ranking position, of value 44.0 was reached at Year 2014",
+      "Minimum FIFA World Ranking position about 3.0 was reached at Year 1994"
    ],
    "min_summary": [
-      "This is a line chart with an x axis representing Year and a y axis representing FIFA World Ranking position, containing a total of 26 data points.",
-      " Overall FIFA World Ranking position has increased over the Year."
+      " In general FIFA World Ranking position has rose over the Year."
    ],
    "mid_summary": [
-      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes FIFA World Ranking position. In total the number of data points it has is 26.",
       " In general FIFA World Ranking position has rose over the Year.",
-      "The steepest decrease occurs in between the Year 2016 and 2017.",
-      "Maximum FIFA World Ranking position, about 44.0 was reported at Year 2014",
-      "The lowest FIFA World Ranking position, of value 3.0 was reported at Year 1994"
+      "The steepest increase occurs in between the Year 2013 and 2014.",
+      "The highest FIFA World Ranking position, of value 44.0 was reached at Year 2014",
+      "Minimum FIFA World Ranking position about 3.0 was reached at Year 1994"
    ],
    "max_summary": [
-      "This is a line chart with an x axis representing Year and a y axis representing FIFA World Ranking position, containing a total of 26 data points.",
       " Overall FIFA World Ranking position has increased over the Year.",
-      "The steepest decrease occurs in between the Year 2016 and 2017.",
-      "Maximum FIFA World Ranking position, about 44.0 was reported at Year 2014",
-      "The lowest FIFA World Ranking position, of value 3.0 was reported at Year 1994",
+      "The steepest increase occurs in between the Year 2013 and 2014.",
+      "The highest FIFA World Ranking position, of value 44.0 was reached at Year 2014",
+      "Minimum FIFA World Ranking position about 3.0 was reached at Year 1994",
       "The line drastically increased by 4.3 times from Year 1994 to 1995, and lastly, increased by 1.7 times from Year 2006 to 2007."
    ],
    "trends": [],

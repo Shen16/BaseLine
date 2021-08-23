@@ -12,36 +12,14 @@
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "You are viewing a chart of multi-line type with 5 lines denoting U.S., Canada, Europe, Middle East, Africa (EMEA), Asia-Pacific, and Latin America. The y axis indicates the Retail sales in units and the x axis indicates Year.",
-      "Overall U.S. is gradually decreasing, Canada, Europe, Middle East, Africa (EMEA), Asia-Pacific, and Latin America are roughly constant,  throughout the Year",
-      "Overall across the Year, U.S. mostly maintained the highest Retail sales in units when compared to others with a mean value of 140420.0, and it peaked at 2017.",
-      "Followed by Europe, Middle East, Africa (EMEA) which ranks as the second topmpost line , with an average of 45768.5 Retail sales in units,reaching its highest point  at 2018 with a value of 46602.0. ",
-      "The botommost line, Latin America,  has a mean of 9809.5, and peaked at 2018. ",
-      "The minimum Retail sales in units about 9452.0, occured at 2017 by Latin America."
+      "Canada reported the lowest Retail sales in units about 9690.0 in Year 2018"
    ],
    "xAxis": "Year",
    "yAxis": "Retail sales in units",
-   "min_summary": [
-      "This is a multi-line chart with 5 lines representing U.S., Canada, Europe, Middle East, Africa (EMEA), Asia-Pacific, and Latin America. The y axis denotes Retail sales in units and the x axis denotes Year.",
-      "Overall U.S. is gradually decreasing, Canada, Europe, Middle East, Africa (EMEA), Asia-Pacific, and Latin America are roughly constant,  throughout the Year",
-      "Overall across the Year, U.S. mostly maintained the highest Retail sales in units when compared to others with a mean value of 140420.0, and it peaked at 2017.",
-      "After U.S., Europe, Middle East, Africa (EMEA) overall has the second highest values , with a mean value of 45768.5, peaking at 2018. ",
-      "Latin America mostly had the least Retail sales in units with a mean value of 9809.5, which peaked at 2018 with a value of 10167.0. "
-   ],
-   "mid_summary": [
-      "You are viewing a chart of multi-line type with 5 lines denoting U.S., Canada, Europe, Middle East, Africa (EMEA), Asia-Pacific, and Latin America. The y axis indicates the Retail sales in units and the x axis indicates Year.",
-      "Overall U.S. is gradually decreasing, Canada, Europe, Middle East, Africa (EMEA), Asia-Pacific, and Latin America are roughly constant,  throughout the Year",
-      "Throughout the period, U.S. generally had the highest Retail sales in units relative to others with an average of 140420.0, and it reached its maximum at 2017 with a value of 147972.0.",
-      "Followed by Europe, Middle East, Africa (EMEA) which ranks as the second topmpost line , with an average of 45768.5 Retail sales in units,reaching its highest point  at 2018 with a value of 46602.0. ",
-      "Latin America mostly had the least Retail sales in units with a mean value of 9809.5, which peaked at 2018 with a value of 10167.0. "
-   ],
+   "min_summary": [],
+   "mid_summary": [],
    "max_summary": [
-      "The given chart is of multi-line type with 5 lines namely U.S., Canada, Europe, Middle East, Africa (EMEA), Asia-Pacific, and Latin America. The y axis represents Retail sales in units and the x axis represents Year.",
-      "Overall U.S. is gradually decreasing, Canada, Europe, Middle East, Africa (EMEA), Asia-Pacific, and Latin America are roughly constant,  throughout the Year",
-      "Overall across the Year, U.S. mostly maintained the highest Retail sales in units when compared to others with a mean value of 140420.0, and it peaked at 2017.",
-      "After U.S., Europe, Middle East, Africa (EMEA) overall has the second highest values , with a mean value of 45768.5, peaking at 2018. ",
-      "The botommost line, Latin America,  has a mean of 9809.5, and peaked at 2018. ",
-      "The minimum Retail sales in units about 9452.0, occured at 2017 by Latin America."
+      "The minimum Retail sales in units about 9690.0, occured at 2018 by Canada."
    ],
    "trends": [
       {},
@@ -77,11 +55,11 @@
       },
       {
          "1": [
-            "1",
+            "0",
             "2"
          ],
          "10": [
-            "1",
+            "0",
             "2"
          ]
       }

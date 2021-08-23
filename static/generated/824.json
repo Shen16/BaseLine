@@ -7,26 +7,25 @@
    "summaryType": "baseline",
    "summary": [
       "This bar chart has 42 columns on the x axis representing Quarter, and Size of global sales force in each Quarter on the y axis. ",
-      "The maximum Size of global sales force 5735.0 is found at Quarter Q1 '12 and the minimum is found at Q1 '09 where Quarter is 2.0. ",
-      "The difference of Size of global sales force between the highest and lowest Quarter is 5733.0. "
+      "The Size of global sales force is highest at Quarter Q1 '12 and lowest at Quarter Q1 '09. ",
+      "The highest Quarter Q1 '12 has 5733.0 more Size of global sales force than the lowest Quarter Q1 '09. "
    ],
    "min_summary": [
-      "This is a bar chart representing Quarter in the x axis and Size of global sales force in the y axis. ",
-      "The maximum Size of global sales force 5735.0 is found at Quarter Q1 '12 and the minimum is found at Q1 '09 where Quarter is 2.0. "
+      "This is a bar chart. It shows Size of global sales force for 42 number of Quarters. ",
+      "The Size of global sales force is appeared to be the highest at Quarter Q1 '12 and lowest at Quarter Q1 '09. "
    ],
    "mid_summary": [
       "This bar chart has 42 columns on the x axis representing Quarter, and Size of global sales force in each Quarter on the y axis. ",
-      "The maximum Size of global sales force 5735.0 is found at Quarter Q1 '12 and the minimum is found at Q1 '09 where Quarter is 2.0. ",
-      "The difference of Size of global sales force between the highest and lowest Quarter is 5733.0. "
+      "The Size of global sales force is highest at Quarter Q1 '12 and lowest at Quarter Q1 '09. ",
+      "The highest Quarter Q1 '12 has 5733.0 more Size of global sales force than the lowest Quarter Q1 '09. "
    ],
    "max_summary": [
-      "This is a bar chart representing Quarter in the x axis and Size of global sales force in the y axis. ",
-      "The Size of global sales force is appeared to be the highest at Quarter Q1 '12 and lowest at Quarter Q1 '09. ",
+      "This is a bar chart. It shows Size of global sales force for 42 number of Quarters. ",
+      "The Size of global sales force is highest at Quarter Q1 '12 and lowest at Quarter Q1 '09. ",
       "There is a difference of 5733.0 between the maximum Quarter Q1 '12 and minimum Quarter Q1 '09. ",
-      "Quarter Q1 '12 is higher than any other Quarters with value 5735.0, followed by Q2 '12, and Q4 '11. Down to Quarter Q1 '09 with the lowest value 2.0. ",
-      "The Size of global sales force has lowered over the past 42 Quarters. ",
-      "The lowest value 2.0 at Q1 '09 is almost 1.85 times smaller than the average value 3107.64. ",
-      "The Size of global sales force is 130521.0 if we add up values of all Quarters. "
+      "The Quarter Q1 '12 has the highest Size of global sales force, followed by Q2 '12, and Q4 '11. Down to the Quarter Q1 '09 which is the lowest. ",
+      "Over the past 42 Quarters, the Size of global sales force has decreased. ",
+      "Considered together, the average Size of global sales force in all 42 Quarters is roughly 3107.64. "
    ],
    "trends": [
       {},

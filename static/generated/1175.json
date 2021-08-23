@@ -9,35 +9,21 @@
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "You are viewing a chart of multi-line type with 2 lines denoting Domestic market, and Total market. The y axis indicates the SOME LABEL and the x axis indicates Year.",
       "Overall Domestic market, and Total market are roughly constant,  throughout the Year",
-      "The lines ordered according to average values of SOME LABEL in descending order is: 1. Total market, and lastly, 2. Domestic market. ",
-      "Overall across the Year, Total market mostly maintained the highest SOME LABEL when compared to others with a mean value of 118.4, and it peaked at 2013, 2014, and 2015.",
-      "The botommost line, Domestic market,  has a mean of 118.4, and peaked at 2013, 2014, and 2015. ",
-      "The difference of SOME LABEL between Domestic market and Total market is roughly same at Year 2015 compared to the Year 2011."
+      "The ranking of the lines from topmost to botommmost is as follows: 1. Total market, and lastly, 2. Domestic market. ",
+      "The greatest difference of SOME LABEL between Domestic market and Total market occurs at Year 2013 and the smallest difference occurs at 2013."
    ],
    "xAxis": "Year",
    "yAxis": "SOME LABEL",
    "min_summary": [
-      "You are viewing a chart of multi-line type with 2 lines denoting Domestic market, and Total market. The y axis indicates the SOME LABEL and the x axis indicates Year.",
-      "Overall Domestic market, and Total market are roughly constant,  throughout the Year",
-      "Overall across the Year, Total market mostly maintained the highest SOME LABEL when compared to others with a mean value of 118.4, and it peaked at 2013, 2014, and 2015.",
-      "The botommost line, Domestic market,  has a mean of 118.4, and peaked at 2013, 2014, and 2015. "
+      "Overall Domestic market, and Total market are roughly constant,  throughout the Year"
    ],
    "mid_summary": [
-      "This is a multi-line chart with 2 lines representing Domestic market, and Total market. The y axis denotes SOME LABEL and the x axis denotes Year.",
-      "Overall Domestic market, and Total market are roughly constant,  throughout the Year",
-      "The ranking of the lines from topmost to botommmost is as follows: 1. Total market, and lastly, 2. Domestic market. ",
-      "Throughout the period, Total market generally had the highest SOME LABEL relative to others with an average of 118.4, and it reached its maximum at 2013, 2014, and 2015 with a value of 119.0.",
-      "Domestic market mostly had the least SOME LABEL with a mean value of 118.4, which peaked at 2013, 2014, and 2015 with a value of 119.0. "
+      "Overall Domestic market, and Total market are roughly constant,  throughout the Year"
    ],
    "max_summary": [
-      "The given chart is of multi-line type with 2 lines namely Domestic market, and Total market. The y axis represents SOME LABEL and the x axis represents Year.",
       "Overall Domestic market, and Total market are roughly constant,  throughout the Year",
-      "The lines ordered according to average values of SOME LABEL in descending order is: 1. Total market, and lastly, 2. Domestic market. ",
-      "Overall across the Year, Total market mostly maintained the highest SOME LABEL when compared to others with a mean value of 118.4, and it peaked at 2013, 2014, and 2015.",
-      "Domestic market mostly had the least SOME LABEL with a mean value of 118.4, which peaked at 2013, 2014, and 2015 with a value of 119.0. ",
-      "The difference of SOME LABEL between Domestic market and Total market is roughly same at Year 2015 compared to the Year 2011."
+      "The greatest difference of SOME LABEL between Domestic market and Total market occurs at Year 2013 and the smallest difference occurs at 2013."
    ],
    "trends": [
       {},

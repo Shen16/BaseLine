@@ -6,27 +6,27 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This is a bar chart representing Companies in the x axis and Industrial robot revenue in million euros in the y axis. ",
+      "This is a bar chart. It shows Industrial robot revenue in million euros for 6 number of Companiess. ",
       "The maximum Industrial robot revenue in million euros 6819.0 is found at Companies ABB and the minimum is found at KUKA where Companies is 1200.0. ",
-      "The minimum Companies KUKA has got 5.68 times less Industrial robot revenue in million euros than the maximum Companies ABB. "
+      "The difference of Industrial robot revenue in million euros between the highest and lowest Companies is 5619.0. "
    ],
    "min_summary": [
-      "This is a bar chart representing Companies in the x axis and Industrial robot revenue in million euros in the y axis. ",
-      "The Industrial robot revenue in million euros is appeared to be the highest at Companies ABB and lowest at Companies KUKA. "
+      "This is a bar chart. It shows Industrial robot revenue in million euros for 6 number of Companiess. ",
+      "Companies ABB has the highest Industrial robot revenue in million euros and KUKA has the lowest Industrial robot revenue in million euros. "
    ],
    "mid_summary": [
-      "This is a bar chart representing Companies in the x axis and Industrial robot revenue in million euros in the y axis. ",
+      "This is a bar chart. It shows Industrial robot revenue in million euros for 6 number of Companiess. ",
       "The maximum Industrial robot revenue in million euros 6819.0 is found at Companies ABB and the minimum is found at KUKA where Companies is 1200.0. ",
-      "The minimum Companies KUKA has got 5.68 times less Industrial robot revenue in million euros than the maximum Companies ABB. "
+      "The difference of Industrial robot revenue in million euros between the highest and lowest Companies is 5619.0. "
    ],
    "max_summary": [
-      "This is a bar chart representing Companies in the x axis and Industrial robot revenue in million euros in the y axis. ",
-      "Companies ABB has the highest Industrial robot revenue in million euros and KUKA has the lowest Industrial robot revenue in million euros. ",
+      "This is a bar chart. It shows Industrial robot revenue in million euros for 6 number of Companiess. ",
+      "The Industrial robot revenue in million euros is highest at Companies ABB and lowest at Companies KUKA. ",
       "Companies Omron has the second highest value for Industrial robot revenue in million euros. ",
-      "The highest Companies ABB has 5619.0 more Industrial robot revenue in million euros than the lowest Companies KUKA. ",
-      "Industrial robot revenue in million euros at Companies ABB is 6819.0 , second place is Omron at 3010.0, and thirdly is Fanuc at 1730.0.",
-      "Companies KUKA, and Yaskawa have the same Industrial robot revenue in million euros. ",
-      "The average Industrial robot revenue in million euros in all 6 Companiess is 2578.17. ",
+      "There is a difference of 5619.0 between the maximum Companies ABB and minimum Companies KUKA. ",
+      "The Companies ABB has the highest Industrial robot revenue in million euros, followed by Omron, and Fanuc. Down to the Companies KUKA which is the lowest. ",
+      "Companies KUKA, and Yaskawa share the same value 1200.0. ",
+      "Considered together, the average Industrial robot revenue in million euros in all 6 Companiess is roughly 2578.17. ",
       "Summing up the values of all Companiess, we get total 15469.0. "
    ],
    "trends": [

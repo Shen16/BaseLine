@@ -6,27 +6,28 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This is a bar chart representing Country in the x axis and Number of earthquakes in the y axis. ",
-      "Country China has the highest Number of earthquakes and Afghanistan has the lowest Number of earthquakes. ",
-      "The difference of Number of earthquakes between the highest and lowest Country is 125.0. "
+      "This is a bar chart. It shows Number of earthquakes for 12 number of Countrys. ",
+      "The Number of earthquakes is appeared to be the highest at Country China and lowest at Country Afghanistan. ",
+      "There is a difference of 125.0 between the maximum Country China and minimum Country Afghanistan. "
    ],
    "min_summary": [
-      "This is a bar chart. It shows Number of earthquakes for 12 number of Countrys. ",
-      "The Number of earthquakes is highest at Country China and lowest at Country Afghanistan. "
+      "This is a bar chart representing Country in the x axis and Number of earthquakes in the y axis. ",
+      "The Number of earthquakes is appeared to be the highest at Country China and lowest at Country Afghanistan. "
    ],
    "mid_summary": [
-      "This is a bar chart representing Country in the x axis and Number of earthquakes in the y axis. ",
-      "Country China has the highest Number of earthquakes and Afghanistan has the lowest Number of earthquakes. ",
-      "The difference of Number of earthquakes between the highest and lowest Country is 125.0. "
+      "This is a bar chart. It shows Number of earthquakes for 12 number of Countrys. ",
+      "The Number of earthquakes is appeared to be the highest at Country China and lowest at Country Afghanistan. ",
+      "There is a difference of 125.0 between the maximum Country China and minimum Country Afghanistan. "
    ],
    "max_summary": [
       "This bar chart has 12 columns on the x axis representing Country, and Number of earthquakes in each Country on the y axis. ",
       "The Number of earthquakes is highest at Country China and lowest at Country Afghanistan. ",
       "The second highest Number of earthquakes is appeared to be the Country Indonesia. ",
-      "The highest Country China has 125.0 more Number of earthquakes than the lowest Country Afghanistan. ",
+      "The highest value at Country China is 4.91x times more than the lowest value at Afghanistan. ",
       "The Country China has the highest Number of earthquakes, followed by Indonesia, and Iran (Islamic Republic of). Down to the Country Afghanistan which is the lowest. ",
-      "Country Afghanistan, India, Greece, and Mexico have the same Number of earthquakes. ",
-      "The Country Afghanistan tends to be 2.48 percent lower than average. "
+      "Country Afghanistan, India, Greece, and Mexico have a similar Number of earthquakes that is 32.0. ",
+      "The average Number of earthquakes in all 12 Countrys is 63.33. ",
+      "The Number of earthquakes is 760.0 if we add up values of all Countrys. "
    ],
    "trends": [
       {},

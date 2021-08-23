@@ -7,25 +7,25 @@
    "summaryType": "baseline",
    "summary": [
       "This is a bar chart. It shows Share of shipments for 7 number of Brands. ",
-      "Brand Lenovo has the highest Share of shipments and Asus has the lowest Share of shipments. ",
-      "The difference of Share of shipments between the highest and lowest Brand is 18.6. "
+      "The Share of shipments is highest at Brand Lenovo and lowest at Brand Asus. ",
+      "The highest Brand Lenovo has 18.6 more Share of shipments than the lowest Brand Asus. "
    ],
    "min_summary": [
-      "This is a bar chart. It shows Share of shipments for 7 number of Brands. ",
-      "The maximum Share of shipments 24.1 is found at Brand Lenovo and the minimum is found at Asus where Brand is 5.5. "
+      "This is a bar chart representing Brand in the x axis and Share of shipments in the y axis. ",
+      "The Share of shipments is highest at Brand Lenovo and lowest at Brand Asus. "
    ],
    "mid_summary": [
       "This is a bar chart. It shows Share of shipments for 7 number of Brands. ",
-      "Brand Lenovo has the highest Share of shipments and Asus has the lowest Share of shipments. ",
-      "The difference of Share of shipments between the highest and lowest Brand is 18.6. "
+      "The Share of shipments is highest at Brand Lenovo and lowest at Brand Asus. ",
+      "The highest Brand Lenovo has 18.6 more Share of shipments than the lowest Brand Asus. "
    ],
    "max_summary": [
       "This bar chart has 7 columns on the x axis representing Brand, and Share of shipments in each Brand on the y axis. ",
-      "The Share of shipments is appeared to be the highest at Brand Lenovo and lowest at Brand Asus. ",
+      "Brand Lenovo has the highest Share of shipments and Asus has the lowest Share of shipments. ",
       "Second maximum Share of shipments is found at Brand HP Inc. ",
-      "There is a difference of 18.6 between the maximum Brand Lenovo and minimum Brand Asus. ",
+      "The minimum Brand Asus has got 4.38 times less Share of shipments than the maximum Brand Lenovo. ",
       "Brand Lenovo is higher than any other Brands with value 24.1, followed by HP Inc, and Others. Down to Brand Asus with the lowest value 5.5. ",
-      "The lowest value 5.5 at Asus is almost 1.69 times smaller than the average value 14.29. ",
+      "The Brand Asus tends to be 1.69 percent lower than average. ",
       "The Share of shipments is 100.0 if we add up values of all Brands. "
    ],
    "trends": [

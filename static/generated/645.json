@@ -9,35 +9,21 @@
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "The given chart is of multi-line type with 2 lines namely Total, and Offshore. The y axis represents SOME LABEL and the x axis represents Year.",
-      "Overall Total is gradually increasing, Offshore is roughly constant,  throughout the Year",
-      "The ranking of the lines from topmost to botommmost is as follows: 1. Total, and lastly, 2. Offshore. ",
-      "Overall across the Year, Total mostly maintained the highest SOME LABEL when compared to others with a mean value of 38727.53, and it peaked at 2018/19.",
-      "The botommost line, Offshore,  has a mean of 4274.74, and peaked at 2008/09. ",
-      "The difference of SOME LABEL between Total and Offshore is greater at Year 2018/19 compared to the Year 2000/01."
+      "Overall Total, and Offshore are gradually increasing,  throughout the Year",
+      "The order of lines according to average values of SOME LABEL, in descending order is: 1. Total, and lastly, 2. Offshore. ",
+      "The greatest difference of SOME LABEL between Total and Offshore occurs at Year 2010/11 and the smallest difference occurs at 2002/03."
    ],
    "xAxis": "Year",
    "yAxis": "SOME LABEL",
    "min_summary": [
-      "You are viewing a chart of multi-line type with 2 lines denoting Total, and Offshore. The y axis indicates the SOME LABEL and the x axis indicates Year.",
-      "Overall Total is gradually increasing, Offshore is roughly constant,  throughout the Year",
-      "Overall across the Year, Total mostly maintained the highest SOME LABEL when compared to others with a mean value of 38727.53, and it peaked at 2018/19.",
-      "Offshore mostly had the least SOME LABEL with a mean value of 4274.74, which peaked at 2008/09 with a value of 9826.0. "
+      "Overall Total, and Offshore are gradually increasing,  throughout the Year"
    ],
    "mid_summary": [
-      "You are viewing a chart of multi-line type with 2 lines denoting Total, and Offshore. The y axis indicates the SOME LABEL and the x axis indicates Year.",
-      "Overall Total is gradually increasing, Offshore is roughly constant,  throughout the Year",
-      "The ranking of the lines from topmost to botommmost is as follows: 1. Total, and lastly, 2. Offshore. ",
-      "Overall across the Year, Total mostly maintained the highest SOME LABEL when compared to others with a mean value of 38727.53, and it peaked at 2018/19.",
-      "The botommost line, Offshore,  has a mean of 4274.74, and peaked at 2008/09. "
+      "Overall Total, and Offshore are gradually increasing,  throughout the Year"
    ],
    "max_summary": [
-      "This is a multi-line chart with 2 lines representing Total, and Offshore. The y axis denotes SOME LABEL and the x axis denotes Year.",
-      "Overall Total is gradually increasing, Offshore is roughly constant,  throughout the Year",
-      "The ranking of the lines from topmost to botommmost is as follows: 1. Total, and lastly, 2. Offshore. ",
-      "Throughout the period, Total generally had the highest SOME LABEL relative to others with an average of 38727.53, and it reached its maximum at 2018/19 with a value of 57202.0.",
-      "The botommost line, Offshore,  has a mean of 4274.74, and peaked at 2008/09. ",
-      "The greatest difference of SOME LABEL between Total and Offshore occurs at Year 2018/19 and the smallest difference occurs at 2002/03."
+      "Overall Total, and Offshore are gradually increasing,  throughout the Year",
+      "The greatest difference of SOME LABEL between Total and Offshore occurs at Year 2010/11 and the smallest difference occurs at 2002/03."
    ],
    "trends": [
       {},
@@ -53,11 +39,11 @@
       },
       {
          "1": [
-            "0",
+            "10",
             "0"
          ],
          "9": [
-            "0",
+            "10",
             "0"
          ]
       },
@@ -73,11 +59,11 @@
       },
       {
          "1": [
-            "10",
+            "8",
             "1"
          ],
          "10": [
-            "10",
+            "8",
             "1"
          ]
       }

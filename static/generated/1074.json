@@ -15,31 +15,31 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart shows SOME LABEL on the Y-axis for 5 different Platforms for 8 groups 2012, 2013, 2014, 2015, 2016, 2017, 2018, and 2019 that are presented on the X-axis. ",
-      " Platform Google had the maximum SOME LABEL among all 8 groups, and it was for 2019. The minimum SOME LABEL was observed in Platform AOL for 2015. ",
-      " Among all the Platforms, 2017 had the highest SOME LABEL 9558.0 in Platform Google and lowest value 0.0 in Platform AOL. ",
-      "Platform Google and AOL had the biggest gap of 9557.0 between the highest and lowest SOME LABEL found for 2017. "
+      "This grouped bar chart represents 5 different Platforms on X-axis for 8 groups 2012, 2013, 2014, 2015, 2016, 2017, 2018, and 2019. On the Y-axis it shows their corresponding SOME LABEL. ",
+      " In Platform Google, 2019 had the highest SOME LABEL 13481.0 among the 8 groups and in AOL, 2015 had the lowest SOME LABEL 0.0. ",
+      " Among all the Platforms, 2018 had the highest SOME LABEL in Platform Google and lowest SOME LABEL in Platform AOL. ",
+      "Platform Google and AOL had the biggest gap of 11645.0 between the highest and lowest SOME LABEL found for 2018. "
    ],
    "xAxis": "Platform",
    "yAxis": "SOME LABEL",
    "min_summary": [
-      "This grouped bar chart shows SOME LABEL on the Y-axis for 5 different Platforms for 8 groups 2012, 2013, 2014, 2015, 2016, 2017, 2018, and 2019 that are presented on the X-axis. ",
-      " In Platform Google, 2019 had the highest SOME LABEL 13481.0 among the 8 groups and in AOL, 2015 had the lowest SOME LABEL 0.0. "
+      "This grouped bar chart represents 5 different Platforms on X-axis for 8 groups 2012, 2013, 2014, 2015, 2016, 2017, 2018, and 2019. On the Y-axis it shows their corresponding SOME LABEL. ",
+      " Out of all 8 groups, 2019 had the highest SOME LABEL in Platform Google and 2015 had the lowest SOME LABEL in Platform AOL. "
    ],
    "mid_summary": [
-      "This grouped bar chart shows SOME LABEL on the Y-axis for 5 different Platforms for 8 groups 2012, 2013, 2014, 2015, 2016, 2017, 2018, and 2019 that are presented on the X-axis. ",
-      " Platform Google had the maximum SOME LABEL among all 8 groups, and it was for 2019. The minimum SOME LABEL was observed in Platform AOL for 2015. ",
-      " Among all the Platforms, 2017 had the highest SOME LABEL 9558.0 in Platform Google and lowest value 0.0 in Platform AOL. ",
-      "Platform Google and AOL had the biggest gap of 9557.0 between the highest and lowest SOME LABEL found for 2017. "
+      "This grouped bar chart represents 5 different Platforms on X-axis for 8 groups 2012, 2013, 2014, 2015, 2016, 2017, 2018, and 2019. On the Y-axis it shows their corresponding SOME LABEL. ",
+      " In Platform Google, 2019 had the highest SOME LABEL 13481.0 among the 8 groups and in AOL, 2015 had the lowest SOME LABEL 0.0. ",
+      " Among all the Platforms, 2018 had the highest SOME LABEL in Platform Google and lowest SOME LABEL in Platform AOL. ",
+      "Platform Google and AOL had the biggest gap of 11645.0 between the highest and lowest SOME LABEL found for 2018. "
    ],
    "max_summary": [
       "This grouped bar chart represents 5 different Platforms on X-axis for 8 groups 2012, 2013, 2014, 2015, 2016, 2017, 2018, and 2019. On the Y-axis it shows their corresponding SOME LABEL. ",
-      " In Platform Google, 2019 had the highest SOME LABEL 13481.0 among the 8 groups and in AOL, 2015 had the lowest SOME LABEL 0.0. ",
-      " Among all the Platforms, 2017 had the highest SOME LABEL 9558.0 in Platform Google and lowest value 0.0 in Platform AOL. ",
-      " The maximum SOME LABEL for 2017 that was found in Platform Google was 9558.0 times larger than the minimum SOME LABEL observed in Platform AOL. ",
-      " Among all 8 groups, 2018 had the gap of 11646.0 between the maximum and minimum SOME LABEL observed in Platform Google and AOL respectively. ",
+      " Out of all 8 groups, 2019 had the highest SOME LABEL in Platform Google and 2015 had the lowest SOME LABEL in Platform AOL. ",
+      " Among all the Platforms, 2018 had the highest SOME LABEL 11646.0 in Platform Google and lowest value 0.0 in Platform AOL. ",
+      " The maximum SOME LABEL for 2018 that was found in Platform Google was 11646.0 times larger than the minimum SOME LABEL observed in Platform AOL. ",
+      " Among the groups, 2018 had the biggest difference in SOME LABEL. Where the maximum SOME LABEL was 11646.0 times larger than the minimum SOME LABEL. ",
       " In Platform Google, 2019 had the highest SOME LABEL 13481.0 among the 8 groups and in AOL, 2015 had the lowest SOME LABEL 0.0. The second highest SOME LABEL 5107.0 was observed for 2019 in Platform Google. ",
-      "On average, the Platform Google had the highest SOME LABEL for all 8 groups 2012, 2013, 2014, 2015, 2016, 2017, 2018, and 2019. Whereas AOL had the lowest average SOME LABEL. "
+      "Averaging all 8 groups 2012, 2013, 2014, 2015, 2016, 2017, 2018, and 2019, the Platform Google is the maximum SOME LABEL and AOL is the minimum SOME LABEL. "
    ],
    "trends": [
       {},

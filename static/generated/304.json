@@ -11,10 +11,10 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart shows Units sold on the Y-axis for 10 different Responses for 4 groups 2016, 2017, 2018, and 2019 that are presented on the X-axis. ",
+      "This grouped bar chart represents 10 different Responses on X-axis for 4 groups 2016, 2017, 2018, and 2019. On the Y-axis it shows their corresponding Units sold. ",
       " Response Fiat had the maximum Units sold among all 4 groups, and it was for 2017. The minimum Units sold was observed in Response Jeep/Dodge for 2016. ",
-      " Among all the Responses, 2016 had the highest Units sold in Response Fiat and lowest Units sold in Response Jeep/Dodge. ",
-      " The maximum Units sold for 2016 that was found in Response Fiat was 9.54 times larger than the minimum Units sold observed in Response Jeep/Dodge. "
+      " Among all the Responses, 2019 had the highest Units sold 285888.0 in Response Fiat and lowest value 81510.0 in Response Jeep/Dodge. ",
+      "Response Fiat and Jeep/Dodge had the biggest gap of 204378.0 between the highest and lowest Units sold found for 2019. "
    ],
    "xAxis": "Response",
    "yAxis": "Units sold",
@@ -23,16 +23,16 @@
       " Out of all 4 groups, 2017 had the highest Units sold in Response Fiat and 2016 had the lowest Units sold in Response Jeep/Dodge. "
    ],
    "mid_summary": [
-      "This grouped bar chart shows Units sold on the Y-axis for 10 different Responses for 4 groups 2016, 2017, 2018, and 2019 that are presented on the X-axis. ",
+      "This grouped bar chart represents 10 different Responses on X-axis for 4 groups 2016, 2017, 2018, and 2019. On the Y-axis it shows their corresponding Units sold. ",
       " Response Fiat had the maximum Units sold among all 4 groups, and it was for 2017. The minimum Units sold was observed in Response Jeep/Dodge for 2016. ",
-      " Among all the Responses, 2016 had the highest Units sold in Response Fiat and lowest Units sold in Response Jeep/Dodge. ",
-      " The maximum Units sold for 2016 that was found in Response Fiat was 9.54 times larger than the minimum Units sold observed in Response Jeep/Dodge. "
+      " Among all the Responses, 2019 had the highest Units sold 285888.0 in Response Fiat and lowest value 81510.0 in Response Jeep/Dodge. ",
+      "Response Fiat and Jeep/Dodge had the biggest gap of 204378.0 between the highest and lowest Units sold found for 2019. "
    ],
    "max_summary": [
-      "This grouped bar chart represents 10 different Responses on X-axis for 4 groups 2016, 2017, 2018, and 2019. On the Y-axis it shows their corresponding Units sold. ",
+      "This grouped bar chart shows Units sold on the Y-axis for 10 different Responses for 4 groups 2016, 2017, 2018, and 2019 that are presented on the X-axis. ",
       " In Response Fiat, 2017 had the highest Units sold 402430.0 among the 4 groups and in Jeep/Dodge, 2016 had the lowest Units sold 40456.0. ",
-      " In Response Fiat, 2016 had the highest Units sold among all 10 Responses and it has the lowest Units sold in Response Jeep/Dodge. ",
-      "Response Fiat and Jeep/Dodge had the biggest gap of 345342.0 between the highest and lowest Units sold found for 2016. ",
+      " In Response Fiat, 2019 had the maximum Units sold and it saw the lowest in Response Jeep/Dodge out of all 10 Responses. ",
+      "Response Fiat and Jeep/Dodge had the biggest gap of 204378.0 between the highest and lowest Units sold found for 2019. ",
       " Out of all 4 groups, the highest gap between the maximum and minimum Units sold was found in case of 2017. ",
       " In Response Fiat, 2017 had the highest Units sold 402430.0 among the 4 groups and in Jeep/Dodge, 2016 had the lowest Units sold 40456.0. The second highest Units sold 323342.0 was observed for 2017 in Response Fiat. ",
       "Averaging all 4 groups 2016, 2017, 2018, and 2019, the Response Fiat is the maximum Units sold and Dacia is the minimum Units sold. "

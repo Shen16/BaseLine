@@ -6,25 +6,26 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This is a bar chart representing Country in the x axis and Monthly minimum wage in U.S. dollars in the y axis. ",
+      "This bar chart has 11 columns on the x axis representing Country, and Monthly minimum wage in U.S. dollars in each Country on the y axis. ",
       "The Monthly minimum wage in U.S. dollars is highest at Country Uruguay and lowest at Country Venezuela. ",
-      "The difference of Monthly minimum wage in U.S. dollars between the highest and lowest Country is 455.3. "
+      "There is a difference of 455.3 between the maximum Country Uruguay and minimum Country Venezuela. "
    ],
    "min_summary": [
-      "This bar chart has 11 columns on the x axis representing Country, and Monthly minimum wage in U.S. dollars in each Country on the y axis. ",
-      "The Monthly minimum wage in U.S. dollars is appeared to be the highest at Country Uruguay and lowest at Country Venezuela. "
+      "This is a bar chart. It shows Monthly minimum wage in U.S. dollars for 11 number of Countrys. ",
+      "The maximum Monthly minimum wage in U.S. dollars 462.3 is found at Country Uruguay and the minimum is found at Venezuela where Country is 7.0. "
    ],
    "mid_summary": [
-      "This is a bar chart representing Country in the x axis and Monthly minimum wage in U.S. dollars in the y axis. ",
+      "This bar chart has 11 columns on the x axis representing Country, and Monthly minimum wage in U.S. dollars in each Country on the y axis. ",
       "The Monthly minimum wage in U.S. dollars is highest at Country Uruguay and lowest at Country Venezuela. ",
-      "The difference of Monthly minimum wage in U.S. dollars between the highest and lowest Country is 455.3. "
+      "There is a difference of 455.3 between the maximum Country Uruguay and minimum Country Venezuela. "
    ],
    "max_summary": [
-      "This is a bar chart. It shows Monthly minimum wage in U.S. dollars for 11 number of Countrys. ",
+      "This bar chart has 11 columns on the x axis representing Country, and Monthly minimum wage in U.S. dollars in each Country on the y axis. ",
       "The Monthly minimum wage in U.S. dollars is highest at Country Uruguay and lowest at Country Venezuela. ",
-      "The difference of Monthly minimum wage in U.S. dollars between the highest and lowest Country is 455.3. ",
+      "The second highest Monthly minimum wage in U.S. dollars is appeared to be the Country Chile. ",
+      "There is a difference of 455.3 between the maximum Country Uruguay and minimum Country Venezuela. ",
       "Monthly minimum wage in U.S. dollars at Country Uruguay is 462.3 , second place is Chile at 431.7, and thirdly is Ecuador at 394.0.",
-      "The highest value 462.3 at Uruguay is almost 1.59 times larger than the average value 290.1. "
+      "Considered together, the average Monthly minimum wage in U.S. dollars in all 11 Countrys is roughly 290.1. "
    ],
    "trends": [
       {},

@@ -6,27 +6,26 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This is a bar chart representing Month in the x axis and Unit sales in millions in the y axis. ",
-      "Month June 2018 has the highest Unit sales in millions and May 2017 has the lowest Unit sales in millions. ",
-      "The highest value at Month June 2018 is 25.0x times more than the lowest value at May 2017. "
+      "This is a bar chart. It shows Unit sales in millions for 5 number of Months. ",
+      "The Unit sales in millions is highest at Month June 2018 and lowest at Month May 2017. ",
+      "There is a difference of 48.0 between the maximum Month June 2018 and minimum Month May 2017. "
    ],
    "min_summary": [
-      "This is a bar chart. It shows Unit sales in millions for 5 number of Months. ",
+      "This bar chart has 5 columns on the x axis representing Month, and Unit sales in millions in each Month on the y axis. ",
       "The maximum Unit sales in millions 50.0 is found at Month June 2018 and the minimum is found at May 2017 where Month is 2.0. "
    ],
    "mid_summary": [
-      "This is a bar chart representing Month in the x axis and Unit sales in millions in the y axis. ",
-      "Month June 2018 has the highest Unit sales in millions and May 2017 has the lowest Unit sales in millions. ",
-      "The highest value at Month June 2018 is 25.0x times more than the lowest value at May 2017. "
+      "This is a bar chart. It shows Unit sales in millions for 5 number of Months. ",
+      "The Unit sales in millions is highest at Month June 2018 and lowest at Month May 2017. ",
+      "There is a difference of 48.0 between the maximum Month June 2018 and minimum Month May 2017. "
    ],
    "max_summary": [
-      "This is a bar chart representing Month in the x axis and Unit sales in millions in the y axis. ",
-      "Month June 2018 has the highest Unit sales in millions and May 2017 has the lowest Unit sales in millions. ",
-      "The second highest Unit sales in millions is appeared to be the Month September 2017. ",
-      "The highest Month June 2018 has 48.0 more Unit sales in millions than the lowest Month May 2017. ",
-      "Unit sales in millions at Month June 2018 is 50.0 , second place is September 2017 at 10.0, and thirdly is August 2017 at 8.0.",
-      "Over the past 5 Months, the Unit sales in millions has declined. ",
-      "The highest value 50.0 at June 2018 is almost 3.38 times larger than the average value 14.8. ",
+      "This is a bar chart. It shows Unit sales in millions for 5 number of Months. ",
+      "The maximum Unit sales in millions 50.0 is found at Month June 2018 and the minimum is found at May 2017 where Month is 2.0. ",
+      "The difference of Unit sales in millions between the highest and lowest Month is 48.0. ",
+      "The Month June 2018 has the highest Unit sales in millions, followed by September 2017, and August 2017. Down to the Month May 2017 which is the lowest. ",
+      "The Unit sales in millions has decreased over the past 5 Months. ",
+      "The average Unit sales in millions in all 5 Months is 14.8. ",
       "Summing up the values of all Months, we get total 74.0. "
    ],
    "trends": [

@@ -6,27 +6,26 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This is a bar chart. It shows Own a boat for 5 number of Age (in years)s. ",
+      "This bar chart has 5 columns on the x axis representing Age (in years), and Own a boat in each Age (in years) on the y axis. ",
       "Age (in years) 16 to 34 has the highest Own a boat and 65+ has the lowest Own a boat. ",
       "There is a difference of 2.2 between the maximum Age (in years) 16 to 34 and minimum Age (in years) 65+. "
    ],
    "min_summary": [
-      "This is a bar chart representing Age (in years) in the x axis and Own a boat in the y axis. ",
-      "The Own a boat is appeared to be the highest at Age (in years) 16 to 34 and lowest at Age (in years) 65+. "
+      "This bar chart has 5 columns on the x axis representing Age (in years), and Own a boat in each Age (in years) on the y axis. ",
+      "The maximum Own a boat 8.2 is found at Age (in years) 16 to 34 and the minimum is found at 65+ where Age (in years) is 6.0. "
    ],
    "mid_summary": [
-      "This is a bar chart. It shows Own a boat for 5 number of Age (in years)s. ",
+      "This bar chart has 5 columns on the x axis representing Age (in years), and Own a boat in each Age (in years) on the y axis. ",
       "Age (in years) 16 to 34 has the highest Own a boat and 65+ has the lowest Own a boat. ",
       "There is a difference of 2.2 between the maximum Age (in years) 16 to 34 and minimum Age (in years) 65+. "
    ],
    "max_summary": [
       "This is a bar chart representing Age (in years) in the x axis and Own a boat in the y axis. ",
-      "The maximum Own a boat 8.2 is found at Age (in years) 16 to 34 and the minimum is found at 65+ where Age (in years) is 6.0. ",
-      "The second highest Own a boat is appeared to be the Age (in years) 35 to 44. ",
-      "The highest Age (in years) 16 to 34 has 2.2 more Own a boat than the lowest Age (in years) 65+. ",
+      "The Own a boat is highest at Age (in years) 16 to 34 and lowest at Age (in years) 65+. ",
+      "Second maximum Own a boat is found at Age (in years) 35 to 44. ",
+      "There is a difference of 2.2 between the maximum Age (in years) 16 to 34 and minimum Age (in years) 65+. ",
       "The Age (in years) 16 to 34 has the highest Own a boat, followed by 35 to 44, and 45 to 64. Down to the Age (in years) 65+ which is the lowest. ",
-      "The highest value 8.2 at 16 to 34 is almost 1.13 times larger than the average value 7.28. ",
-      "The Own a boat is 36.4 if we add up values of all Age (in years)s. "
+      "The Age (in years) 16 to 34 tends to be 1.13 percent higher than average. "
    ],
    "trends": [
       {},

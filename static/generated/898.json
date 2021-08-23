@@ -6,26 +6,26 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 9 columns on the x axis representing Spending Type, and Spending in U.S. dollars in each Spending Type on the y axis. ",
-      "Spending Type Housing has the highest Spending in U.S. dollars and Apparel and services has the lowest Spending in U.S. dollars. ",
-      "There is a difference of 18225.0 between the maximum Spending Type Housing and minimum Spending Type Apparel and services. "
+      "This is a bar chart representing Spending Type in the x axis and Spending in U.S. dollars in the y axis. ",
+      "The Spending in U.S. dollars is appeared to be the highest at Spending Type Housing and lowest at Spending Type Apparel and services. ",
+      "The highest Spending Type Housing has 18225.0 more Spending in U.S. dollars than the lowest Spending Type Apparel and services. "
    ],
    "min_summary": [
       "This bar chart has 9 columns on the x axis representing Spending Type, and Spending in U.S. dollars in each Spending Type on the y axis. ",
-      "The maximum Spending in U.S. dollars 20091.0 is found at Spending Type Housing and the minimum is found at Apparel and services where Spending Type is 1866.0. "
+      "The Spending in U.S. dollars is highest at Spending Type Housing and lowest at Spending Type Apparel and services. "
    ],
    "mid_summary": [
-      "This bar chart has 9 columns on the x axis representing Spending Type, and Spending in U.S. dollars in each Spending Type on the y axis. ",
-      "Spending Type Housing has the highest Spending in U.S. dollars and Apparel and services has the lowest Spending in U.S. dollars. ",
-      "There is a difference of 18225.0 between the maximum Spending Type Housing and minimum Spending Type Apparel and services. "
+      "This is a bar chart representing Spending Type in the x axis and Spending in U.S. dollars in the y axis. ",
+      "The Spending in U.S. dollars is appeared to be the highest at Spending Type Housing and lowest at Spending Type Apparel and services. ",
+      "The highest Spending Type Housing has 18225.0 more Spending in U.S. dollars than the lowest Spending Type Apparel and services. "
    ],
    "max_summary": [
-      "This bar chart has 9 columns on the x axis representing Spending Type, and Spending in U.S. dollars in each Spending Type on the y axis. ",
-      "The Spending in U.S. dollars is appeared to be the highest at Spending Type Housing and lowest at Spending Type Apparel and services. ",
-      "Second maximum Spending in U.S. dollars is found at Spending Type Transportation. ",
-      "The difference of Spending in U.S. dollars between the highest and lowest Spending Type is 18225.0. ",
-      "Spending Type Housing is higher than any other Spending Types with value 20091.0, followed by Transportation, and Food. Down to Spending Type Apparel and services with the lowest value 1866.0. ",
-      "Considered together, the average Spending in U.S. dollars in all 9 Spending Types is roughly 6561.0. ",
+      "This is a bar chart representing Spending Type in the x axis and Spending in U.S. dollars in the y axis. ",
+      "The Spending in U.S. dollars is highest at Spending Type Housing and lowest at Spending Type Apparel and services. ",
+      "Spending Type Transportation has the second highest value for Spending in U.S. dollars. ",
+      "The highest value at Spending Type Housing is 10.77x times more than the lowest value at Apparel and services. ",
+      "The Spending Type Housing has the highest Spending in U.S. dollars, followed by Transportation, and Food. Down to the Spending Type Apparel and services which is the lowest. ",
+      "The Spending Type Housing tends to be 3.06 percent higher than average. ",
       "The Spending in U.S. dollars is 59049.0 if we add up values of all Spending Types. "
    ],
    "trends": [

@@ -9,37 +9,23 @@
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This is a multi-line chart with 2 lines representing United States, and Rest of World. The y axis denotes Number of employees and the x axis denotes Year.",
-      "Overall Rest of World is gradually increasing, United States is roughly constant,  throughout the Year",
-      "The ranking of the lines from topmost to botommmost is as follows: 1. United States, and lastly, 2. Rest of World. ",
-      "Throughout the period, United States generally had the highest Number of employees relative to others with an average of 37327.4, and it reached its maximum at 2019 with a value of 39000.0.",
-      "The botommost line, Rest of World,  has a mean of 35351.4, and peaked at 2013. ",
-      "Rest of World reported the lowest Number of employees about 30587.0 in Year 2012",
-      "The greatest difference of Number of employees between United States and Rest of World occurs at Year 2010 and the smallest difference occurs at 2013."
+      "Overall United States, and Rest of World are roughly constant,  throughout the Year",
+      "The order of lines according to average values of Number of employees, in descending order is: 1. United States, and lastly, 2. Rest of World. ",
+      "Rest of World reported the lowest Number of employees about 35900.0 in Year 2017",
+      "The difference of Number of employees between United States and Rest of World is roughly same at Year 2018 compared to the Year 2016."
    ],
    "xAxis": "Year",
    "yAxis": "Number of employees",
    "min_summary": [
-      "This is a multi-line chart with 2 lines representing United States, and Rest of World. The y axis denotes Number of employees and the x axis denotes Year.",
-      "Overall Rest of World is gradually increasing, United States is roughly constant,  throughout the Year",
-      "Throughout the period, United States generally had the highest Number of employees relative to others with an average of 37327.4, and it reached its maximum at 2019 with a value of 39000.0.",
-      "The botommost line, Rest of World,  has a mean of 35351.4, and peaked at 2013. "
+      "Overall United States, and Rest of World are roughly constant,  throughout the Year"
    ],
    "mid_summary": [
-      "This is a multi-line chart with 2 lines representing United States, and Rest of World. The y axis denotes Number of employees and the x axis denotes Year.",
-      "Overall Rest of World is gradually increasing, United States is roughly constant,  throughout the Year",
-      "The lines ordered according to average values of Number of employees in descending order is: 1. United States, and lastly, 2. Rest of World. ",
-      "Overall across the Year, United States mostly maintained the highest Number of employees when compared to others with a mean value of 37327.4, and it peaked at 2019.",
-      "The botommost line, Rest of World,  has a mean of 35351.4, and peaked at 2013. "
+      "Overall United States, and Rest of World are roughly constant,  throughout the Year"
    ],
    "max_summary": [
-      "This is a multi-line chart with 2 lines representing United States, and Rest of World. The y axis denotes Number of employees and the x axis denotes Year.",
-      "Overall Rest of World is gradually increasing, United States is roughly constant,  throughout the Year",
-      "The lines ordered according to average values of Number of employees in descending order is: 1. United States, and lastly, 2. Rest of World. ",
-      "Throughout the period, United States generally had the highest Number of employees relative to others with an average of 37327.4, and it reached its maximum at 2019 with a value of 39000.0.",
-      "The botommost line, Rest of World,  has a mean of 35351.4, and peaked at 2013. ",
-      "The minimum Number of employees about 30587.0, occured at 2012 by Rest of World.",
-      "The difference of Number of employees between United States and Rest of World is smaller at Year 2019 compared to the Year 2010."
+      "Overall United States, and Rest of World are roughly constant,  throughout the Year",
+      "The minimum Number of employees about 35900.0, occured at 2017 by Rest of World.",
+      "The difference of Number of employees between United States and Rest of World is roughly same at Year 2018 compared to the Year 2016."
    ],
    "trends": [
       {},
@@ -55,11 +41,11 @@
       },
       {
          "1": [
-            "9",
+            "2",
             "0"
          ],
          "9": [
-            "9",
+            "2",
             "0"
          ]
       },
@@ -75,11 +61,11 @@
       },
       {
          "1": [
-            "3",
+            "2",
             "1"
          ],
          "10": [
-            "3",
+            "2",
             "1"
          ]
       }

@@ -6,35 +6,29 @@
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Share of beer consumption. In total the number of data points it has is 5.",
-      " In general Share of beer consumption has rose over the Year.",
-      "Share of beer consumption is slightly increasing from 12_to_17 to 18_to_34, and finally roughly constant from 18_to_34 to 65_and_over.",
-      "The line significantly increased by 37.7 from Year 12_to_17 to 18_to_34.",
-      "The steepest increase occurs in between the Year 12_to_17 and 18_to_34.",
-      "The highest Share of beer consumption, of value 38.7 was reached at Year 18_to_34",
-      "The lowest Share of beer consumption, of value 1.0 was reported at Year 12_to_17"
+      " In general Share of beer consumption has fallen over the Year.",
+      "Share of beer consumption is roughly constant from 35_to_49 to 50_to_64, and finally slightly decreasing from 50_to_64 to 65_and_over.",
+      "The most drastic decrease took place within the Year 50_to_64 and 65_and_over.",
+      "The highest Share of beer consumption, of value 29.9 was reached at Year 35_to_49",
+      "The lowest Share of beer consumption, of value 8.0 was reported at Year 65_and_over"
    ],
    "min_summary": [
-      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Share of beer consumption. In total the number of data points it has is 5.",
-      " In general Share of beer consumption has rose over the Year.",
-      "Share of beer consumption is slightly increasing from 12_to_17 to 18_to_34, and finally roughly constant from 18_to_34 to 65_and_over."
+      " In general Share of beer consumption has fallen over the Year.",
+      "Share of beer consumption is roughly constant from 35_to_49 to 50_to_64, and finally slightly decreasing from 50_to_64 to 65_and_over."
    ],
    "mid_summary": [
-      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Share of beer consumption. In total the number of data points it has is 5.",
-      " Overall Share of beer consumption has increased over the Year.",
-      "Share of beer consumption is slightly increasing from 12_to_17 to 18_to_34, and finally roughly constant from 18_to_34 to 65_and_over.",
-      "The most drastic increase took place within the Year 12_to_17 and 18_to_34.",
-      "The highest Share of beer consumption, of value 38.7 was reached at Year 18_to_34",
-      "The lowest Share of beer consumption, of value 1.0 was reported at Year 12_to_17"
+      " In general Share of beer consumption has fallen over the Year.",
+      "Share of beer consumption is roughly constant from 35_to_49 to 50_to_64, and finally slightly decreasing from 50_to_64 to 65_and_over.",
+      "The steepest decrease occurs in between the Year 50_to_64 and 65_and_over.",
+      "The highest Share of beer consumption, of value 29.9 was reached at Year 35_to_49",
+      "The lowest Share of beer consumption, of value 8.0 was reported at Year 65_and_over"
    ],
    "max_summary": [
-      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Share of beer consumption. In total the number of data points it has is 5.",
-      " In general Share of beer consumption has rose over the Year.",
-      "Share of beer consumption is slightly increasing from 12_to_17 to 18_to_34, and finally roughly constant from 18_to_34 to 65_and_over.",
-      "The steepest increase occurs in between the Year 12_to_17 and 18_to_34.",
-      "The highest Share of beer consumption, of value 38.7 was reached at Year 18_to_34",
-      "The lowest Share of beer consumption, of value 1.0 was reported at Year 12_to_17",
-      "The line drastically increased by 38.7 times from Year 12_to_17 to 18_to_34."
+      " In general Share of beer consumption has fallen over the Year.",
+      "Share of beer consumption is roughly constant from 35_to_49 to 50_to_64, and finally slightly decreasing from 50_to_64 to 65_and_over.",
+      "The steepest decrease occurs in between the Year 50_to_64 and 65_and_over.",
+      "The highest Share of beer consumption, of value 29.9 was reached at Year 35_to_49",
+      "The lowest Share of beer consumption, of value 8.0 was reported at Year 65_and_over"
    ],
    "trends": [],
    "data": [

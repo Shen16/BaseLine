@@ -6,35 +6,31 @@
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Inflation rate compared to previous year. In total the number of data points it has is 41.",
-      " Overall Inflation rate compared to previous year has decreased over the Year.",
-      "The chart in general has a zig-zag shape.",
-      "The line drastically decreased by 7.4 times from Year 1985 to 1986,increased by 2.1 times from Year 1986 to 1987,increased by 8.8 times from Year 1988 to 1989,increased by 2.0 times from Year 1997 to 1998,increased by 2.1 times from Year 2004 to 2005,increased by 2.7 times from Year 2007 to 2008,decreased by 9.1 times from Year 2008 to 2009,increased by 2.9 times from Year 2009 to 2010,increased by 1.8 times from Year 2010 to 2011,increased by 1.8 times from Year 2016 to 2017,decreased by 3.9 times from Year 2017 to 2018, and lastly, increased by 2.0 times from Year 2019 to 2020.",
-      "The most drastic decrease took place within the Year 2008 and 2009.",
-      "Maximum Inflation rate compared to previous year, about 5.43 was reported at Year 2008",
-      "The lowest Inflation rate compared to previous year, of value 0.29 was reported at Year 1988"
-   ],
-   "min_summary": [
-      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Inflation rate compared to previous year. In total the number of data points it has is 41.",
-      " In general Inflation rate compared to previous year has fallen over the Year."
-   ],
-   "mid_summary": [
-      "This is a line chart with an x axis representing Year and a y axis representing Inflation rate compared to previous year, containing a total of 41 data points.",
       " In general Inflation rate compared to previous year has fallen over the Year.",
+      "Inflation rate compared to previous year is roughly constant from 1999 to 2004, slightly increasing from 2004 to 2005, roughly constant from 2005 to 2006, slightly increasing from 2006 to 2008, and lastly slightly decreasing from 2008 to 2009.",
+      "The line rapidly increased by 114.08% from Year 2004 to 2005,increased by 167.49% from Year 2007 to 2008, and lastly, decreased by 88.95% from Year 2008 to 2009.",
       "The steepest decrease occurs in between the Year 2008 and 2009.",
       "Maximum Inflation rate compared to previous year, about 5.43 was reported at Year 2008",
-      "The lowest Inflation rate compared to previous year, of value 0.29 was reported at Year 1988"
+      "The lowest Inflation rate compared to previous year, of value 0.6 was reported at Year 2009"
    ],
-   "max_summary": [
-      "The chart in general has a zig-zag shape.",
-      "The chart in general has a zig-zag shape.",
-      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Inflation rate compared to previous year. In total the number of data points it has is 41.",
+   "min_summary": [
+      " In general Inflation rate compared to previous year has fallen over the Year.",
+      "Inflation rate compared to previous year is roughly constant from 1999 to 2004, slightly increasing from 2004 to 2005, roughly constant from 2005 to 2006, slightly increasing from 2006 to 2008, and lastly slightly decreasing from 2008 to 2009."
+   ],
+   "mid_summary": [
       " Overall Inflation rate compared to previous year has decreased over the Year.",
-      "The chart in general has a zig-zag shape.",
+      "Inflation rate compared to previous year is roughly constant from 1999 to 2004, slightly increasing from 2004 to 2005, roughly constant from 2005 to 2006, slightly increasing from 2006 to 2008, and lastly slightly decreasing from 2008 to 2009.",
       "The most drastic decrease took place within the Year 2008 and 2009.",
       "Maximum Inflation rate compared to previous year, about 5.43 was reported at Year 2008",
-      "The lowest Inflation rate compared to previous year, of value 0.29 was reported at Year 1988",
-      "The line drastically decreased by 7.4 times from Year 1985 to 1986,increased by 2.1 times from Year 1986 to 1987,increased by 8.8 times from Year 1988 to 1989,increased by 2.0 times from Year 1997 to 1998,increased by 2.1 times from Year 2004 to 2005,increased by 2.7 times from Year 2007 to 2008,decreased by 9.1 times from Year 2008 to 2009,increased by 2.9 times from Year 2009 to 2010,increased by 1.8 times from Year 2010 to 2011,increased by 1.8 times from Year 2016 to 2017,decreased by 3.9 times from Year 2017 to 2018, and lastly, increased by 2.0 times from Year 2019 to 2020."
+      "The lowest Inflation rate compared to previous year, of value 0.6 was reported at Year 2009"
+   ],
+   "max_summary": [
+      " Overall Inflation rate compared to previous year has decreased over the Year.",
+      "Inflation rate compared to previous year is roughly constant from 1999 to 2004, slightly increasing from 2004 to 2005, roughly constant from 2005 to 2006, slightly increasing from 2006 to 2008, and lastly slightly decreasing from 2008 to 2009.",
+      "The most drastic decrease took place within the Year 2008 and 2009.",
+      "Maximum Inflation rate compared to previous year, about 5.43 was reported at Year 2008",
+      "The lowest Inflation rate compared to previous year, of value 0.6 was reported at Year 2009",
+      "The line drastically increased by 2.1 times from Year 2004 to 2005,increased by 2.7 times from Year 2007 to 2008, and lastly, decreased by 9.1 times from Year 2008 to 2009."
    ],
    "trends": [],
    "data": [

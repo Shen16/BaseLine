@@ -8,25 +8,24 @@
    "summary": [
       "This bar chart has 10 columns on the x axis representing Population Group, and Population number in each Population Group on the y axis. ",
       "The Population number is appeared to be the highest at Population Group Queens County NY and lowest at Population Group Suffolk County NY. ",
-      "The minimum Population Group Suffolk County NY has got 5.59 times less Population number than the maximum Population Group Queens County NY. "
+      "The lowest value at Population Group Suffolk County NY is 5.59x times less than the highest value at Queens County NY. "
    ],
    "min_summary": [
       "This is a bar chart representing Population Group in the x axis and Population number in the y axis. ",
-      "The maximum Population number 98512.0 is found at Population Group Queens County NY and the minimum is found at Suffolk County NY where Population Group is 17638.0. "
+      "Population Group Queens County NY has the highest Population number and Suffolk County NY has the lowest Population number. "
    ],
    "mid_summary": [
       "This bar chart has 10 columns on the x axis representing Population Group, and Population number in each Population Group on the y axis. ",
       "The Population number is appeared to be the highest at Population Group Queens County NY and lowest at Population Group Suffolk County NY. ",
-      "The minimum Population Group Suffolk County NY has got 5.59 times less Population number than the maximum Population Group Queens County NY. "
+      "The lowest value at Population Group Suffolk County NY is 5.59x times less than the highest value at Queens County NY. "
    ],
    "max_summary": [
-      "This bar chart has 10 columns on the x axis representing Population Group, and Population number in each Population Group on the y axis. ",
-      "The Population number is appeared to be the highest at Population Group Queens County NY and lowest at Population Group Suffolk County NY. ",
-      "Population Group Kings County NJ has the second highest value for Population number. ",
+      "This is a bar chart. It shows Population number for 10 number of Population Groups. ",
+      "Population Group Queens County NY has the highest Population number and Suffolk County NY has the lowest Population number. ",
+      "The second highest Population number is appeared to be the Population Group Kings County NJ. ",
       "The highest Population Group Queens County NY has 80874.0 more Population number than the lowest Population Group Suffolk County NY. ",
-      "Population number at Population Group Queens County NY is 98512.0 , second place is Kings County NJ at 28684.0, and thirdly is Hudson County NJ at 26650.0.",
-      "The highest value 98512.0 at Queens County NY is almost 3.27 times larger than the average value 30118.9. ",
-      "The Population number is 301189.0 if we add up values of all Population Groups. "
+      "Population Group Queens County NY is higher than any other Population Groups with value 98512.0, followed by Kings County NJ, and Hudson County NJ. Down to Population Group Suffolk County NY with the lowest value 17638.0. ",
+      "Considered together, the average Population number in all 10 Population Groups is roughly 30118.9. "
    ],
    "trends": [
       {},

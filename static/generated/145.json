@@ -6,29 +6,29 @@
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of inhabitants. In total the number of data points it has is 20.",
-      " Overall Number of inhabitants has decreased over the Year.",
+      " In general Number of inhabitants has fallen over the Year.",
+      "Number of inhabitants is roughly constant from 20-24_years to 45-49_years, roughly increasing from 45-49_years to 50-54_years, roughly constant from 50-54_years to 55-59_years, and finally gradually decreasing from 55-59_years to 95_years_and_older.",
       "The line significantly decreased by 2411.0 from Year 90-94_years to 95_years_and_older.",
       "The most drastic increase took place within the Year 5-9_years and 50-54_years.",
-      "The highest Number of inhabitants, of value 48111.0 was reached at Year 35-39_years",
+      "Maximum Number of inhabitants, about 48111.0 was reported at Year 35-39_years",
       "Minimum Number of inhabitants about 766.0 was reached at Year 95_years_and_older"
    ],
    "min_summary": [
-      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of inhabitants. In total the number of data points it has is 20.",
-      " Overall Number of inhabitants has decreased over the Year."
+      " Overall Number of inhabitants has decreased over the Year.",
+      "Number of inhabitants is roughly constant from 20-24_years to 45-49_years, roughly increasing from 45-49_years to 50-54_years, roughly constant from 50-54_years to 55-59_years, and finally gradually decreasing from 55-59_years to 95_years_and_older."
    ],
    "mid_summary": [
-      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of inhabitants. In total the number of data points it has is 20.",
       " In general Number of inhabitants has fallen over the Year.",
+      "Number of inhabitants is roughly constant from 20-24_years to 45-49_years, roughly increasing from 45-49_years to 50-54_years, roughly constant from 50-54_years to 55-59_years, and finally gradually decreasing from 55-59_years to 95_years_and_older.",
       "The most drastic increase took place within the Year 5-9_years and 50-54_years.",
-      "The highest Number of inhabitants, of value 48111.0 was reached at Year 35-39_years",
+      "Maximum Number of inhabitants, about 48111.0 was reported at Year 35-39_years",
       "Minimum Number of inhabitants about 766.0 was reached at Year 95_years_and_older"
    ],
    "max_summary": [
-      "This is a line chart with an x axis representing Year and a y axis representing Number of inhabitants, containing a total of 20 data points.",
-      " Overall Number of inhabitants has decreased over the Year.",
+      " In general Number of inhabitants has fallen over the Year.",
+      "Number of inhabitants is roughly constant from 20-24_years to 45-49_years, roughly increasing from 45-49_years to 50-54_years, roughly constant from 50-54_years to 55-59_years, and finally gradually decreasing from 55-59_years to 95_years_and_older.",
       "The steepest increase occurs in between the Year 5-9_years and 50-54_years.",
-      "The highest Number of inhabitants, of value 48111.0 was reached at Year 35-39_years",
+      "Maximum Number of inhabitants, about 48111.0 was reported at Year 35-39_years",
       "Minimum Number of inhabitants about 766.0 was reached at Year 95_years_and_older",
       "The line rapidly decreased by 75.89% from Year 90-94_years to 95_years_and_older."
    ],

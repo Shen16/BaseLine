@@ -6,24 +6,24 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This is a bar chart representing Country in the x axis and Number of affected people (in millions) in the y axis. ",
-      "The Number of affected people (in millions) is appeared to be the highest at Country China and lowest at Country Haiti. ",
-      "The difference of Number of affected people (in millions) between the highest and lowest Country is 67.5. "
+      "This is a bar chart. It shows Number of affected people (in millions) for 10 number of Countrys. ",
+      "The Number of affected people (in millions) is highest at Country China and lowest at Country Haiti. ",
+      "The highest Country China has 67.5 more Number of affected people (in millions) than the lowest Country Haiti. "
    ],
    "min_summary": [
-      "This is a bar chart. It shows Number of affected people (in millions) for 10 number of Countrys. ",
-      "The Number of affected people (in millions) is highest at Country China and lowest at Country Haiti. "
+      "This is a bar chart representing Country in the x axis and Number of affected people (in millions) in the y axis. ",
+      "Country China has the highest Number of affected people (in millions) and Haiti has the lowest Number of affected people (in millions). "
    ],
    "mid_summary": [
-      "This is a bar chart representing Country in the x axis and Number of affected people (in millions) in the y axis. ",
-      "The Number of affected people (in millions) is appeared to be the highest at Country China and lowest at Country Haiti. ",
-      "The difference of Number of affected people (in millions) between the highest and lowest Country is 67.5. "
+      "This is a bar chart. It shows Number of affected people (in millions) for 10 number of Countrys. ",
+      "The Number of affected people (in millions) is highest at Country China and lowest at Country Haiti. ",
+      "The highest Country China has 67.5 more Number of affected people (in millions) than the lowest Country Haiti. "
    ],
    "max_summary": [
       "This is a bar chart representing Country in the x axis and Number of affected people (in millions) in the y axis. ",
-      "Country China has the highest Number of affected people (in millions) and Haiti has the lowest Number of affected people (in millions). ",
+      "The maximum Number of affected people (in millions) 70.9 is found at Country China and the minimum is found at Haiti where Country is 3.4. ",
       "Second maximum Number of affected people (in millions) is found at Country India. ",
-      "The highest Country China has 67.5 more Number of affected people (in millions) than the lowest Country Haiti. ",
+      "The difference of Number of affected people (in millions) between the highest and lowest Country is 67.5. ",
       "Country China is higher than any other Countrys with value 70.9, followed by India, and Chile. Down to Country Haiti with the lowest value 3.4. ",
       "Considered together, the average Number of affected people (in millions) in all 10 Countrys is roughly 14.51. ",
       "Summing up the values of all Countrys, we get total 145.12. "

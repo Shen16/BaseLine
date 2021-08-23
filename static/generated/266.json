@@ -6,31 +6,29 @@
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This is a line chart with an x axis representing Year and a y axis representing Exchange rate, containing a total of 21 data points.",
-      " In general Exchange rate has stayed the same over the Year.",
-      "The line drastically ",
-      "The most drastic decrease took place within the Year 2014 and 2015.",
-      "Maximum Exchange rate, about 1.47 was reported at Year 2008",
-      "The lowest Exchange rate, of value 0.9 was reported at Year 2001"
+      " Overall Exchange rate has increased over the Year.",
+      "Exchange rate is gradually increasing from 2002 to 2004, roughly constant from 2004 to 2006, slightly increasing from 2006 to 2007, and finally roughly decreasing from 2007 to 2010.",
+      "The most drastic increase took place within the Year 2002 and 2003.",
+      "The highest Exchange rate, of value 1.47 was reached at Year 2008",
+      "Minimum Exchange rate about 0.95 was reached at Year 2002"
    ],
    "min_summary": [
-      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Exchange rate. In total the number of data points it has is 21.",
-      " In general Exchange rate has stayed the same over the Year."
+      " Overall Exchange rate has increased over the Year.",
+      "Exchange rate is gradually increasing from 2002 to 2004, roughly constant from 2004 to 2006, slightly increasing from 2006 to 2007, and finally roughly decreasing from 2007 to 2010."
    ],
    "mid_summary": [
-      "This is a line chart with an x axis representing Year and a y axis representing Exchange rate, containing a total of 21 data points.",
-      " In general Exchange rate has stayed the same over the Year.",
-      "The steepest decrease occurs in between the Year 2014 and 2015.",
-      "Maximum Exchange rate, about 1.47 was reported at Year 2008",
-      "The lowest Exchange rate, of value 0.9 was reported at Year 2001"
+      " In general Exchange rate has rose over the Year.",
+      "Exchange rate is gradually increasing from 2002 to 2004, roughly constant from 2004 to 2006, slightly increasing from 2006 to 2007, and finally roughly decreasing from 2007 to 2010.",
+      "The most drastic increase took place within the Year 2002 and 2003.",
+      "The highest Exchange rate, of value 1.47 was reached at Year 2008",
+      "Minimum Exchange rate about 0.95 was reached at Year 2002"
    ],
    "max_summary": [
-      "This is a line chart with an x axis representing Year and a y axis representing Exchange rate, containing a total of 21 data points.",
-      " In general Exchange rate has stayed the same over the Year.",
-      "The steepest decrease occurs in between the Year 2014 and 2015.",
-      "Maximum Exchange rate, about 1.47 was reported at Year 2008",
-      "The lowest Exchange rate, of value 0.9 was reported at Year 2001",
-      "The line significantly "
+      " Overall Exchange rate has increased over the Year.",
+      "Exchange rate is gradually increasing from 2002 to 2004, roughly constant from 2004 to 2006, slightly increasing from 2006 to 2007, and finally roughly decreasing from 2007 to 2010.",
+      "The steepest increase occurs in between the Year 2002 and 2003.",
+      "The highest Exchange rate, of value 1.47 was reached at Year 2008",
+      "Minimum Exchange rate about 0.95 was reached at Year 2002"
    ],
    "trends": [],
    "data": [

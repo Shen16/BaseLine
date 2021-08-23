@@ -6,26 +6,26 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This is a bar chart representing Tourist Places in the x axis and Overtourism score (1-10) in the y axis. ",
-      "Tourist Places Nantes France has the highest Overtourism score (1-10) and Barcelona Spain has the lowest Overtourism score (1-10). ",
-      "The difference of Overtourism score (1-10) between the highest and lowest Tourist Places is 1.56. "
+      "This is a bar chart. It shows Overtourism score (1-10) for 10 number of Tourist Placess. ",
+      "The maximum Overtourism score (1-10) 3.61 is found at Tourist Places Nantes France and the minimum is found at Barcelona Spain where Tourist Places is 2.05. ",
+      "The highest Tourist Places Nantes France has 1.56 more Overtourism score (1-10) than the lowest Tourist Places Barcelona Spain. "
    ],
    "min_summary": [
       "This is a bar chart representing Tourist Places in the x axis and Overtourism score (1-10) in the y axis. ",
-      "Tourist Places Nantes France has the highest Overtourism score (1-10) and Barcelona Spain has the lowest Overtourism score (1-10). "
+      "The Overtourism score (1-10) is highest at Tourist Places Nantes France and lowest at Tourist Places Barcelona Spain. "
    ],
    "mid_summary": [
-      "This is a bar chart representing Tourist Places in the x axis and Overtourism score (1-10) in the y axis. ",
-      "Tourist Places Nantes France has the highest Overtourism score (1-10) and Barcelona Spain has the lowest Overtourism score (1-10). ",
-      "The difference of Overtourism score (1-10) between the highest and lowest Tourist Places is 1.56. "
+      "This is a bar chart. It shows Overtourism score (1-10) for 10 number of Tourist Placess. ",
+      "The maximum Overtourism score (1-10) 3.61 is found at Tourist Places Nantes France and the minimum is found at Barcelona Spain where Tourist Places is 2.05. ",
+      "The highest Tourist Places Nantes France has 1.56 more Overtourism score (1-10) than the lowest Tourist Places Barcelona Spain. "
    ],
    "max_summary": [
-      "This is a bar chart representing Tourist Places in the x axis and Overtourism score (1-10) in the y axis. ",
+      "This is a bar chart. It shows Overtourism score (1-10) for 10 number of Tourist Placess. ",
       "The Overtourism score (1-10) is highest at Tourist Places Nantes France and lowest at Tourist Places Barcelona Spain. ",
-      "Tourist Places Athens Greece has the second highest value for Overtourism score (1-10). ",
-      "The difference of Overtourism score (1-10) between the highest and lowest Tourist Places is 1.56. ",
-      "Tourist Places Nantes France is higher than any other Tourist Placess with value 3.61, followed by Athens Greece, and Moscow Russia. Down to Tourist Places Barcelona Spain with the lowest value 2.05. ",
-      "The Tourist Places Nantes France has 1.25 times more Overtourism score (1-10) than average. "
+      "There is a difference of 1.56 between the maximum Tourist Places Nantes France and minimum Tourist Places Barcelona Spain. ",
+      "Overtourism score (1-10) at Tourist Places Nantes France is 3.61 , second place is Athens Greece at 3.45, and thirdly is Moscow Russia at 3.27.",
+      "The Tourist Places Barcelona Spain has 1.25 times less Overtourism score (1-10) than average. ",
+      "The Overtourism score (1-10) is 28.78 if we add up values of all Tourist Placess. "
    ],
    "trends": [
       {},

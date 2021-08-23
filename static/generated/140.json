@@ -11,28 +11,28 @@
    "summary": [
       "This grouped bar chart shows Population on the Y-axis for 19 different Communitys for 2 groups Male, and Female that are presented on the X-axis. ",
       " Community Andalusia had the maximum Population among all 2 groups, and it was for Female. The minimum Population was observed in Community Ceuta for Female. ",
-      " In Community Andalusia, Female had the highest Population among all 19 Communitys and it has the lowest Population in Community Ceuta. ",
-      " There is a gap of 4236011.0 between the highest and lowest Population found for Female in Community Andalusia and Ceuta. "
+      " In Community Andalusia, Male had the highest Population among all 19 Communitys and it has the lowest Population in Community Melilla. ",
+      "Community Andalusia and Melilla had the biggest gap of 4126403.0 between the highest and lowest Population found for Male. "
    ],
    "xAxis": "Community",
    "yAxis": "Population",
    "min_summary": [
-      "This grouped bar chart shows Population on the Y-axis for 19 different Communitys for 2 groups Male, and Female that are presented on the X-axis. ",
+      "This grouped bar chart represents 19 different Communitys on X-axis for 2 groups Male, and Female. On the Y-axis it shows their corresponding Population. ",
       " In Community Andalusia, Female had the highest Population 4277660.0 among the 2 groups and in Ceuta, Female had the lowest Population 41649.0. "
    ],
    "mid_summary": [
       "This grouped bar chart shows Population on the Y-axis for 19 different Communitys for 2 groups Male, and Female that are presented on the X-axis. ",
       " Community Andalusia had the maximum Population among all 2 groups, and it was for Female. The minimum Population was observed in Community Ceuta for Female. ",
-      " In Community Andalusia, Female had the highest Population among all 19 Communitys and it has the lowest Population in Community Ceuta. ",
-      " There is a gap of 4236011.0 between the highest and lowest Population found for Female in Community Andalusia and Ceuta. "
+      " In Community Andalusia, Male had the highest Population among all 19 Communitys and it has the lowest Population in Community Melilla. ",
+      "Community Andalusia and Melilla had the biggest gap of 4126403.0 between the highest and lowest Population found for Male. "
    ],
    "max_summary": [
-      "This grouped bar chart represents 19 different Communitys on X-axis for 2 groups Male, and Female. On the Y-axis it shows their corresponding Population. ",
-      " Community Andalusia had the maximum Population among all 2 groups, and it was for Female. The minimum Population was observed in Community Ceuta for Female. ",
-      " Among all the Communitys, Female had the highest Population in Community Andalusia and lowest Population in Community Ceuta. ",
-      " There is a gap of 4236011.0 between the highest and lowest Population found for Female in Community Andalusia and Ceuta. ",
+      "This grouped bar chart shows Population on the Y-axis for 19 different Communitys for 2 groups Male, and Female that are presented on the X-axis. ",
+      " In Community Andalusia, Female had the highest Population 4277660.0 among the 2 groups and in Ceuta, Female had the lowest Population 41649.0. ",
+      " In Community Andalusia, Male had the highest Population among all 19 Communitys and it has the lowest Population in Community Melilla. ",
+      " There is a gap of 4126403.0 between the highest and lowest Population found for Male in Community Andalusia and Melilla. ",
       " Among the groups, Male had the biggest difference in Population. Where the maximum Population was 98.1 times larger than the minimum Population. ",
-      "On average, the Community Andalusia had the highest Population for all 2 groups Male, and Female. Whereas Melilla had the lowest average Population. "
+      "Averaging all 2 groups Male, and Female, the Community Andalusia is the maximum Population and Melilla is the minimum Population. "
    ],
    "trends": [
       {},

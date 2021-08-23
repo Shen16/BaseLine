@@ -9,10 +9,10 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart represents 7 different Responses on X-axis for 2 groups Male, and Female. On the Y-axis it shows their corresponding Share of respondents. ",
-      " In Response Several times a day, Male had the highest Share of respondents 49.0 among the 2 groups and in Never, Male had the lowest Share of respondents 1.0. ",
-      " In Response Several times a day, Male had the highest Share of respondents among all 7 Responses and it has the lowest Share of respondents in Response Never. ",
-      " The maximum Share of respondents for Male that was found in Response Several times a day was 49.0 times larger than the minimum Share of respondents observed in Response Never. "
+      "This grouped bar chart shows Share of respondents on the Y-axis for 7 different Responses for 2 groups Male, and Female that are presented on the X-axis. ",
+      " Response Several times a day had the maximum Share of respondents among all 2 groups, and it was for Male. The minimum Share of respondents was observed in Response Never for Male. ",
+      " Among all the Responses, Male had the highest Share of respondents 49.0 in Response Several times a day and lowest value 1.0 in Response Never. ",
+      " There is a gap of 48.0 between the highest and lowest Share of respondents found for Male in Response Several times a day and Never. "
    ],
    "xAxis": "Response",
    "yAxis": "Share of respondents",
@@ -21,17 +21,17 @@
       " In Response Several times a day, Male had the highest Share of respondents 49.0 among the 2 groups and in Never, Male had the lowest Share of respondents 1.0. "
    ],
    "mid_summary": [
-      "This grouped bar chart represents 7 different Responses on X-axis for 2 groups Male, and Female. On the Y-axis it shows their corresponding Share of respondents. ",
-      " In Response Several times a day, Male had the highest Share of respondents 49.0 among the 2 groups and in Never, Male had the lowest Share of respondents 1.0. ",
-      " In Response Several times a day, Male had the highest Share of respondents among all 7 Responses and it has the lowest Share of respondents in Response Never. ",
-      " The maximum Share of respondents for Male that was found in Response Several times a day was 49.0 times larger than the minimum Share of respondents observed in Response Never. "
+      "This grouped bar chart shows Share of respondents on the Y-axis for 7 different Responses for 2 groups Male, and Female that are presented on the X-axis. ",
+      " Response Several times a day had the maximum Share of respondents among all 2 groups, and it was for Male. The minimum Share of respondents was observed in Response Never for Male. ",
+      " Among all the Responses, Male had the highest Share of respondents 49.0 in Response Several times a day and lowest value 1.0 in Response Never. ",
+      " There is a gap of 48.0 between the highest and lowest Share of respondents found for Male in Response Several times a day and Never. "
    ],
    "max_summary": [
-      "This grouped bar chart shows Share of respondents on the Y-axis for 7 different Responses for 2 groups Male, and Female that are presented on the X-axis. ",
+      "This grouped bar chart represents 7 different Responses on X-axis for 2 groups Male, and Female. On the Y-axis it shows their corresponding Share of respondents. ",
       " Out of all 2 groups, Male had the highest Share of respondents in Response Several times a day and Male had the lowest Share of respondents in Response Never. ",
-      " Among all the Responses, Male had the highest Share of respondents in Response Several times a day and lowest Share of respondents in Response Never. ",
-      " The maximum Share of respondents for Male that was found in Response Several times a day was 49.0 times larger than the minimum Share of respondents observed in Response Never. ",
-      " Among the groups, Male had the biggest difference in Share of respondents. Where the maximum Share of respondents was 49.0 times larger than the minimum Share of respondents. ",
+      " In Response Several times a day, Male had the highest Share of respondents among all 7 Responses and it has the lowest Share of respondents in Response Never. ",
+      "Response Several times a day and Never had the biggest gap of 48.0 between the highest and lowest Share of respondents found for Male. ",
+      " Among all 2 groups, Male had the gap of 48.0 between the maximum and minimum Share of respondents observed in Response Several times a day and Never respectively. ",
       "Averaging all 2 groups Male, and Female, the Response Several times a day is the maximum Share of respondents and Never is the minimum Share of respondents. "
    ],
    "trends": [

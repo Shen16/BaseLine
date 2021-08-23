@@ -6,27 +6,29 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This is a bar chart representing Month in the x axis and USD GBP exchange rate in the y axis. ",
-      "The USD GBP exchange rate is highest at Month Aug 19 and lowest at Month Mar 18. ",
-      "There is a difference of 0.11 between the maximum Month Aug 19 and minimum Month Mar 18. "
+      "This is a bar chart. It shows USD GBP exchange rate for 25 number of Months. ",
+      "The USD GBP exchange rate is appeared to be the highest at Month Aug 19 and lowest at Month Mar 18. ",
+      "The maximum Month Aug 19 has got 1.15 times higher USD GBP exchange rate than the minimum Month Mar 18. "
    ],
    "min_summary": [
       "This is a bar chart representing Month in the x axis and USD GBP exchange rate in the y axis. ",
       "Month Aug 19 has the highest USD GBP exchange rate and Mar 18 has the lowest USD GBP exchange rate. "
    ],
    "mid_summary": [
-      "This is a bar chart representing Month in the x axis and USD GBP exchange rate in the y axis. ",
-      "The USD GBP exchange rate is highest at Month Aug 19 and lowest at Month Mar 18. ",
-      "There is a difference of 0.11 between the maximum Month Aug 19 and minimum Month Mar 18. "
+      "This is a bar chart. It shows USD GBP exchange rate for 25 number of Months. ",
+      "The USD GBP exchange rate is appeared to be the highest at Month Aug 19 and lowest at Month Mar 18. ",
+      "The maximum Month Aug 19 has got 1.15 times higher USD GBP exchange rate than the minimum Month Mar 18. "
    ],
    "max_summary": [
-      "This bar chart has 25 columns on the x axis representing Month, and USD GBP exchange rate in each Month on the y axis. ",
+      "This is a bar chart representing Month in the x axis and USD GBP exchange rate in the y axis. ",
       "Month Aug 19 has the highest USD GBP exchange rate and Mar 18 has the lowest USD GBP exchange rate. ",
-      "The difference of USD GBP exchange rate between the highest and lowest Month is 0.11. ",
-      "The Month Aug 19 has the highest USD GBP exchange rate, followed by Jul 19, and Oct 18. Down to the Month Mar 18 which is the lowest. ",
-      "The USD GBP exchange rate has decreased over the past 25 Months. ",
-      "Month Jan 19, Sep 18, Jul 18, Jun 18, and Oct 17 have a similar USD GBP exchange rate that is 0.76. ",
-      "The Month Aug 19 has 1.07 times more USD GBP exchange rate than average. "
+      "The second highest USD GBP exchange rate is appeared to be the Month Jul 19. ",
+      "There is a difference of 0.11 between the maximum Month Aug 19 and minimum Month Mar 18. ",
+      "USD GBP exchange rate at Month Aug 19 is 0.82 , second place is Jul 19 at 0.82, and thirdly is Oct 18 at 0.79.",
+      "Overall USD GBP exchange rate has lowered over the Months. ",
+      "Similar USD GBP exchange rate is found in Month Jan 19, Sep 18, Jul 18, Jun 18, and Oct 17. ",
+      "The Month Aug 19 has 1.07 times more USD GBP exchange rate than average. ",
+      "The USD GBP exchange rate is 19.07 if we add up values of all Months. "
    ],
    "trends": [
       {},

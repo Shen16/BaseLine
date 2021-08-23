@@ -6,26 +6,27 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 5 columns on the x axis representing Football League, and Income (in million euros) in each Football League on the y axis. ",
-      "The Income (in million euros) is appeared to be the highest at Football League Championship (England) and lowest at Football League Segunda Division (Spain). ",
-      "The highest Football League Championship (England) has 389.2 more Income (in million euros) than the lowest Football League Segunda Division (Spain). "
+      "This is a bar chart. It shows Income (in million euros) for 5 number of Football Leagues. ",
+      "The maximum Income (in million euros) 590.3 is found at Football League Championship (England) and the minimum is found at Segunda Division (Spain) where Football League is 201.1. ",
+      "There is a difference of 389.2 between the maximum Football League Championship (England) and minimum Football League Segunda Division (Spain). "
    ],
    "min_summary": [
-      "This is a bar chart. It shows Income (in million euros) for 5 number of Football Leagues. ",
-      "Football League Championship (England) has the highest Income (in million euros) and Segunda Division (Spain) has the lowest Income (in million euros). "
+      "This is a bar chart representing Football League in the x axis and Income (in million euros) in the y axis. ",
+      "The maximum Income (in million euros) 590.3 is found at Football League Championship (England) and the minimum is found at Segunda Division (Spain) where Football League is 201.1. "
    ],
    "mid_summary": [
-      "This bar chart has 5 columns on the x axis representing Football League, and Income (in million euros) in each Football League on the y axis. ",
-      "The Income (in million euros) is appeared to be the highest at Football League Championship (England) and lowest at Football League Segunda Division (Spain). ",
-      "The highest Football League Championship (England) has 389.2 more Income (in million euros) than the lowest Football League Segunda Division (Spain). "
+      "This is a bar chart. It shows Income (in million euros) for 5 number of Football Leagues. ",
+      "The maximum Income (in million euros) 590.3 is found at Football League Championship (England) and the minimum is found at Segunda Division (Spain) where Football League is 201.1. ",
+      "There is a difference of 389.2 between the maximum Football League Championship (England) and minimum Football League Segunda Division (Spain). "
    ],
    "max_summary": [
       "This is a bar chart representing Football League in the x axis and Income (in million euros) in the y axis. ",
       "Football League Championship (England) has the highest Income (in million euros) and Segunda Division (Spain) has the lowest Income (in million euros). ",
       "Football League 2. Bundesliga (Germany) has the second highest value for Income (in million euros). ",
-      "The highest Football League Championship (England) has 389.2 more Income (in million euros) than the lowest Football League Segunda Division (Spain). ",
+      "Football League Championship (England) has 2.94 times more Income (in million euros) than Football League Segunda Division (Spain) which is has the lowest. ",
       "Income (in million euros) at Football League Championship (England) is 590.3 , second place is 2. Bundesliga (Germany) at 361.7, and thirdly is Serie B (Italy) at 275.5.",
-      "The Football League Segunda Division (Spain) tends to be 1.8 percent lower than average. "
+      "The Football League Segunda Division (Spain) tends to be 1.8 percent lower than average. ",
+      "The Income (in million euros) is 1642.3 if we add up values of all Football Leagues. "
    ],
    "trends": [
       {},

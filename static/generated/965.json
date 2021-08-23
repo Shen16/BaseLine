@@ -6,30 +6,26 @@
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This is a line chart with an x axis representing Year and a y axis representing Stock price in U.S. dollars, containing a total of 16 data points.",
-      " In general Stock price in U.S. dollars has rose over the Year.",
-      "The line drastically increased by 2.0 times from Year 2008 to 2009.",
+      " Overall Stock price in U.S. dollars has increased over the Year.",
+      "The line rapidly increased by 100.07% from Year 2008 to 2009.",
       "The steepest decrease occurs in between the Year 2007 and 2008.",
       "The highest Stock price in U.S. dollars, of value 254.76 was reached at Year 2017",
-      "Minimum Stock price in U.S. dollars about 84.39 was reached at Year 2008"
+      "The lowest Stock price in U.S. dollars, of value 84.39 was reported at Year 2008"
    ],
    "min_summary": [
-      "This is a line chart with an x axis representing Year and a y axis representing Stock price in U.S. dollars, containing a total of 16 data points.",
       " Overall Stock price in U.S. dollars has increased over the Year."
    ],
    "mid_summary": [
-      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Stock price in U.S. dollars. In total the number of data points it has is 16.",
       " In general Stock price in U.S. dollars has rose over the Year.",
-      "The most drastic decrease took place within the Year 2007 and 2008.",
+      "The steepest decrease occurs in between the Year 2007 and 2008.",
       "The highest Stock price in U.S. dollars, of value 254.76 was reached at Year 2017",
-      "Minimum Stock price in U.S. dollars about 84.39 was reached at Year 2008"
+      "The lowest Stock price in U.S. dollars, of value 84.39 was reported at Year 2008"
    ],
    "max_summary": [
-      "This is a line chart with an x axis representing Year and a y axis representing Stock price in U.S. dollars, containing a total of 16 data points.",
       " In general Stock price in U.S. dollars has rose over the Year.",
       "The most drastic decrease took place within the Year 2007 and 2008.",
       "The highest Stock price in U.S. dollars, of value 254.76 was reached at Year 2017",
-      "Minimum Stock price in U.S. dollars about 84.39 was reached at Year 2008",
+      "The lowest Stock price in U.S. dollars, of value 84.39 was reported at Year 2008",
       "The line drastically increased by 2.0 times from Year 2008 to 2009."
    ],
    "trends": [],

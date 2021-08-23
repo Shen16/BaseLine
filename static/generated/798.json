@@ -6,35 +6,17 @@
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This is a line chart with an x axis representing Year and a y axis representing Share of respondents, containing a total of 5 data points.",
-      " Overall Share of respondents has increased over the Year.",
-      "Share of respondents is roughly constant from 0_to_100 to 201_to_300, and lastly slightly increasing from 201_to_300 to Don't_know.",
-      "The line drastically increased by 2.0 times from Year 201_to_300 to 301_and_more, and lastly, increased by 4.4 times from Year 301_and_more to Don't_know.",
-      "The steepest increase occurs in between the Year 301_and_more and Don't_know.",
-      "The highest Share of respondents, of value 44.0 was reached at Year Don't_know",
-      "Minimum Share of respondents about 5.0 was reached at Year 201_to_300"
+      "Maximum Share of respondents, about 29.0 was reported at Year 0_to_100",
+      "The lowest Share of respondents, of value 29.0 was reported at Year 0_to_100"
    ],
-   "min_summary": [
-      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Share of respondents. In total the number of data points it has is 5.",
-      " Overall Share of respondents has increased over the Year.",
-      "Share of respondents is roughly constant from 0_to_100 to 201_to_300, and lastly slightly increasing from 201_to_300 to Don't_know."
-   ],
+   "min_summary": [],
    "mid_summary": [
-      "This is a line chart with an x axis representing Year and a y axis representing Share of respondents, containing a total of 5 data points.",
-      " In general Share of respondents has rose over the Year.",
-      "Share of respondents is roughly constant from 0_to_100 to 201_to_300, and lastly slightly increasing from 201_to_300 to Don't_know.",
-      "The most drastic increase took place within the Year 301_and_more and Don't_know.",
-      "The highest Share of respondents, of value 44.0 was reached at Year Don't_know",
-      "Minimum Share of respondents about 5.0 was reached at Year 201_to_300"
+      "Maximum Share of respondents, about 29.0 was reported at Year 0_to_100",
+      "The lowest Share of respondents, of value 29.0 was reported at Year 0_to_100"
    ],
    "max_summary": [
-      "This is a line chart with an x axis representing Year and a y axis representing Share of respondents, containing a total of 5 data points.",
-      " In general Share of respondents has rose over the Year.",
-      "Share of respondents is roughly constant from 0_to_100 to 201_to_300, and lastly slightly increasing from 201_to_300 to Don't_know.",
-      "The most drastic increase took place within the Year 301_and_more and Don't_know.",
-      "The highest Share of respondents, of value 44.0 was reached at Year Don't_know",
-      "Minimum Share of respondents about 5.0 was reached at Year 201_to_300",
-      "The line drastically increased by 2.0 times from Year 201_to_300 to 301_and_more, and lastly, increased by 4.4 times from Year 301_and_more to Don't_know."
+      "Maximum Share of respondents, about 29.0 was reported at Year 0_to_100",
+      "The lowest Share of respondents, of value 29.0 was reported at Year 0_to_100"
    ],
    "trends": [],
    "data": [

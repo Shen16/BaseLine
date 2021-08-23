@@ -6,28 +6,27 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This is a bar chart representing Month in the x axis and Units sold in the y axis. ",
-      "Month Sep 18 has the highest Units sold and Aug 17 has the lowest Units sold. ",
+      "This bar chart has 42 columns on the x axis representing Month, and Units sold in each Month on the y axis. ",
+      "The Units sold is appeared to be the highest at Month Sep 18 and lowest at Month Aug 17. ",
       "There is a difference of 785.0 between the maximum Month Sep 18 and minimum Month Aug 17. "
    ],
    "min_summary": [
       "This bar chart has 42 columns on the x axis representing Month, and Units sold in each Month on the y axis. ",
-      "The maximum Units sold 829.0 is found at Month Sep 18 and the minimum is found at Aug 17 where Month is 44.0. "
+      "The Units sold is highest at Month Sep 18 and lowest at Month Aug 17. "
    ],
    "mid_summary": [
-      "This is a bar chart representing Month in the x axis and Units sold in the y axis. ",
-      "Month Sep 18 has the highest Units sold and Aug 17 has the lowest Units sold. ",
+      "This bar chart has 42 columns on the x axis representing Month, and Units sold in each Month on the y axis. ",
+      "The Units sold is appeared to be the highest at Month Sep 18 and lowest at Month Aug 17. ",
       "There is a difference of 785.0 between the maximum Month Sep 18 and minimum Month Aug 17. "
    ],
    "max_summary": [
       "This is a bar chart. It shows Units sold for 42 number of Months. ",
       "The Units sold is appeared to be the highest at Month Sep 18 and lowest at Month Aug 17. ",
-      "The second highest Units sold is appeared to be the Month Sep 16. ",
-      "The highest Month Sep 18 has 785.0 more Units sold than the lowest Month Aug 17. ",
+      "There is a difference of 785.0 between the maximum Month Sep 18 and minimum Month Aug 17. ",
       "Units sold at Month Sep 18 is 829.0 , second place is Sep 16 at 762.0, and thirdly is Mar 18 at 761.0.",
-      "Overall Units sold has lowered over the Months. ",
-      "Similar Units sold is found in Month Jan 18, and May 17. ",
-      "The Month Sep 18 tends to be 3.28 percent higher than average. ",
+      "The Units sold has declined over the past 42 Months. ",
+      "Month Jan 18, and May 17 share the same value 155.0. ",
+      "The lowest value 44.0 at Aug 17 is almost 3.28 times smaller than the average value 252.4. ",
       "Summing up the values of all Months, we get total 10601.0. "
    ],
    "trends": [

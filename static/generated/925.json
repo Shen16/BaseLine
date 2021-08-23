@@ -6,28 +6,28 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This is a bar chart representing Country in the x axis and Annual average GDP growth in percent in the y axis. ",
+      "This bar chart has 10 columns on the x axis representing Country, and Annual average GDP growth in percent in each Country on the y axis. ",
       "The Annual average GDP growth in percent is appeared to be the highest at Country Angola and lowest at Country Rwanda. ",
-      "The highest Country Angola has 3.5 more Annual average GDP growth in percent than the lowest Country Rwanda. "
+      "There is a difference of 3.5 between the maximum Country Angola and minimum Country Rwanda. "
    ],
    "min_summary": [
-      "This is a bar chart. It shows Annual average GDP growth in percent for 10 number of Countrys. ",
+      "This is a bar chart representing Country in the x axis and Annual average GDP growth in percent in the y axis. ",
       "The maximum Annual average GDP growth in percent 11.1 is found at Country Angola and the minimum is found at Rwanda where Country is 7.6. "
    ],
    "mid_summary": [
-      "This is a bar chart representing Country in the x axis and Annual average GDP growth in percent in the y axis. ",
+      "This bar chart has 10 columns on the x axis representing Country, and Annual average GDP growth in percent in each Country on the y axis. ",
       "The Annual average GDP growth in percent is appeared to be the highest at Country Angola and lowest at Country Rwanda. ",
-      "The highest Country Angola has 3.5 more Annual average GDP growth in percent than the lowest Country Rwanda. "
+      "There is a difference of 3.5 between the maximum Country Angola and minimum Country Rwanda. "
    ],
    "max_summary": [
-      "This is a bar chart. It shows Annual average GDP growth in percent for 10 number of Countrys. ",
-      "Country Angola has the highest Annual average GDP growth in percent and Rwanda has the lowest Annual average GDP growth in percent. ",
-      "Second maximum Annual average GDP growth in percent is found at Country China. ",
-      "The difference of Annual average GDP growth in percent between the highest and lowest Country is 3.5. ",
-      "Country Angola is higher than any other Countrys with value 11.1, followed by China, and Myanmar. Down to Country Rwanda with the lowest value 7.6. ",
-      "Similar Annual average GDP growth in percent is found in Country Chad, and Mozambique. ",
-      "The Country Rwanda tends to be 1.25 percent lower than average. ",
-      "Summing up the values of all Countrys, we get total 88.5. "
+      "This bar chart has 10 columns on the x axis representing Country, and Annual average GDP growth in percent in each Country on the y axis. ",
+      "The Annual average GDP growth in percent is highest at Country Angola and lowest at Country Rwanda. ",
+      "Country China has the second highest value for Annual average GDP growth in percent. ",
+      "The maximum Country Angola has got 1.46 times higher Annual average GDP growth in percent than the minimum Country Rwanda. ",
+      "Annual average GDP growth in percent at Country Angola is 11.1 , second place is China at 10.5, and thirdly is Myanmar at 10.3.",
+      "Country Chad, and Mozambique have the same Annual average GDP growth in percent. ",
+      "The highest value 11.1 at Angola is almost 1.25 times larger than the average value 8.85. ",
+      "The Annual average GDP growth in percent is 88.5 if we add up values of all Countrys. "
    ],
    "trends": [
       {},

@@ -6,25 +6,27 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This is a bar chart. It shows GDP in billion U.S. dollars for 20 number of Countrys. ",
-      "Country Saudi Arabia has the highest GDP in billion U.S. dollars and Comoros has the lowest GDP in billion U.S. dollars. ",
-      "There is a difference of 785.34 between the maximum Country Saudi Arabia and minimum Country Comoros. "
+      "This bar chart has 20 columns on the x axis representing Country, and GDP in billion U.S. dollars in each Country on the y axis. ",
+      "The maximum GDP in billion U.S. dollars 786.52 is found at Country Saudi Arabia and the minimum is found at Comoros where Country is 1.18. ",
+      "Country Saudi Arabia has 666.54 times more GDP in billion U.S. dollars than Country Comoros which is has the lowest. "
    ],
    "min_summary": [
       "This is a bar chart representing Country in the x axis and GDP in billion U.S. dollars in the y axis. ",
-      "The maximum GDP in billion U.S. dollars 786.52 is found at Country Saudi Arabia and the minimum is found at Comoros where Country is 1.18. "
+      "The GDP in billion U.S. dollars is appeared to be the highest at Country Saudi Arabia and lowest at Country Comoros. "
    ],
    "mid_summary": [
-      "This is a bar chart. It shows GDP in billion U.S. dollars for 20 number of Countrys. ",
-      "Country Saudi Arabia has the highest GDP in billion U.S. dollars and Comoros has the lowest GDP in billion U.S. dollars. ",
-      "There is a difference of 785.34 between the maximum Country Saudi Arabia and minimum Country Comoros. "
+      "This bar chart has 20 columns on the x axis representing Country, and GDP in billion U.S. dollars in each Country on the y axis. ",
+      "The maximum GDP in billion U.S. dollars 786.52 is found at Country Saudi Arabia and the minimum is found at Comoros where Country is 1.18. ",
+      "Country Saudi Arabia has 666.54 times more GDP in billion U.S. dollars than Country Comoros which is has the lowest. "
    ],
    "max_summary": [
-      "This is a bar chart representing Country in the x axis and GDP in billion U.S. dollars in the y axis. ",
-      "The GDP in billion U.S. dollars is appeared to be the highest at Country Saudi Arabia and lowest at Country Comoros. ",
+      "This is a bar chart. It shows GDP in billion U.S. dollars for 20 number of Countrys. ",
+      "The GDP in billion U.S. dollars is highest at Country Saudi Arabia and lowest at Country Comoros. ",
+      "Country United Arab Emirates  has the second highest value for GDP in billion U.S. dollars. ",
       "There is a difference of 785.34 between the maximum Country Saudi Arabia and minimum Country Comoros. ",
-      "GDP in billion U.S. dollars at Country Saudi Arabia is 786.52 , second place is United Arab Emirates  at 414.18, and thirdly is Egypt at 249.56.",
-      "The average GDP in billion U.S. dollars in all 20 Countrys is 133.61. "
+      "The Country Saudi Arabia has the highest GDP in billion U.S. dollars, followed by United Arab Emirates , and Egypt. Down to the Country Comoros which is the lowest. ",
+      "The Country Comoros has 5.89 times less GDP in billion U.S. dollars than average. ",
+      "The GDP in billion U.S. dollars is 2672.26 if we add up values of all Countrys. "
    ],
    "trends": [
       {},

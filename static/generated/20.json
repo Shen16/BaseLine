@@ -6,28 +6,26 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This is a bar chart. It shows Total number of mentions for 10 number of Hashtags. ",
-      "The maximum Total number of mentions 6961.0 is found at Hashtag #forthepeople and the minimum is found at #hr1 where Hashtag is 1683.0. ",
-      "The difference of Total number of mentions between the highest and lowest Hashtag is 5278.0. "
+      "This is a bar chart representing Hashtag in the x axis and Total number of mentions in the y axis. ",
+      "Hashtag #forthepeople has the highest Total number of mentions and #hr1 has the lowest Total number of mentions. ",
+      "The Total number of mentions of Hashtag #hr1 is 4.14% smaller than the maximum value at #forthepeople. "
    ],
    "min_summary": [
-      "This is a bar chart representing Hashtag in the x axis and Total number of mentions in the y axis. ",
-      "The Total number of mentions is highest at Hashtag #forthepeople and lowest at Hashtag #hr1. "
+      "This bar chart has 10 columns on the x axis representing Hashtag, and Total number of mentions in each Hashtag on the y axis. ",
+      "Hashtag #forthepeople has the highest Total number of mentions and #hr1 has the lowest Total number of mentions. "
    ],
    "mid_summary": [
-      "This is a bar chart. It shows Total number of mentions for 10 number of Hashtags. ",
-      "The maximum Total number of mentions 6961.0 is found at Hashtag #forthepeople and the minimum is found at #hr1 where Hashtag is 1683.0. ",
-      "The difference of Total number of mentions between the highest and lowest Hashtag is 5278.0. "
+      "This is a bar chart representing Hashtag in the x axis and Total number of mentions in the y axis. ",
+      "Hashtag #forthepeople has the highest Total number of mentions and #hr1 has the lowest Total number of mentions. ",
+      "The Total number of mentions of Hashtag #hr1 is 4.14% smaller than the maximum value at #forthepeople. "
    ],
    "max_summary": [
-      "This bar chart has 10 columns on the x axis representing Hashtag, and Total number of mentions in each Hashtag on the y axis. ",
+      "This is a bar chart. It shows Total number of mentions for 10 number of Hashtags. ",
       "The Total number of mentions is highest at Hashtag #forthepeople and lowest at Hashtag #hr1. ",
-      "The second highest Total number of mentions is appeared to be the Hashtag #trumpshutdown. ",
-      "The difference of Total number of mentions between the highest and lowest Hashtag is 5278.0. ",
-      "Total number of mentions at Hashtag #forthepeople is 6961.0 , second place is #trumpshutdown at 3992.0, and thirdly is #protectourcare at 2810.0.",
+      "The highest Hashtag #forthepeople has 5278.0 more Total number of mentions than the lowest Hashtag #hr1. ",
+      "The Hashtag #forthepeople has the highest Total number of mentions, followed by #trumpshutdown, and #protectourcare. Down to the Hashtag #hr1 which is the lowest. ",
       "Hashtag #hr8, and #actonclimate have the same Total number of mentions. ",
-      "The Hashtag #forthepeople has 2.54 times more Total number of mentions than average. ",
-      "Summing up the values of all Hashtags, we get total 27456.0. "
+      "The lowest value 1683.0 at #hr1 is almost 2.54 times smaller than the average value 2745.6. "
    ],
    "trends": [
       {},

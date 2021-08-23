@@ -9,35 +9,21 @@
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "You are viewing a chart of multi-line type with 2 lines denoting Male, and Female. The y axis indicates the SOME LABEL and the x axis indicates Year.",
       "Overall Male is gradually increasing, Female is roughly constant,  throughout the Year",
-      "The ranking of the lines from topmost to botommmost is as follows: 1. Male, and lastly, 2. Female. ",
-      "Overall across the Year, Male mostly maintained the highest SOME LABEL when compared to others with a mean value of 315.69, and it peaked at Finland_(2009-10).",
-      "The botommost line, Female,  has a mean of 275.34, and peaked at Norway_(2010). ",
-      "The greatest difference of SOME LABEL between Male and Female occurs at Year Portugal_(1999) and the smallest difference occurs at Japan_(2011)."
+      "The order of lines according to average values of SOME LABEL, in descending order is: 1. Male, and lastly, 2. Female. ",
+      "The difference of SOME LABEL between Male and Female is greater at Year South_Africa_(2010) compared to the Year Australia_(2006)."
    ],
    "xAxis": "Year",
    "yAxis": "SOME LABEL",
    "min_summary": [
-      "The given chart is of multi-line type with 2 lines namely Male, and Female. The y axis represents SOME LABEL and the x axis represents Year.",
-      "Overall Male is gradually increasing, Female is roughly constant,  throughout the Year",
-      "Overall across the Year, Male mostly maintained the highest SOME LABEL when compared to others with a mean value of 315.69, and it peaked at Finland_(2009-10).",
-      "The botommost line, Female,  has a mean of 275.34, and peaked at Norway_(2010). "
+      "Overall Male is gradually increasing, Female is roughly constant,  throughout the Year"
    ],
    "mid_summary": [
-      "The given chart is of multi-line type with 2 lines namely Male, and Female. The y axis represents SOME LABEL and the x axis represents Year.",
-      "Overall Male is gradually increasing, Female is roughly constant,  throughout the Year",
-      "The ranking of the lines from topmost to botommmost is as follows: 1. Male, and lastly, 2. Female. ",
-      "Throughout the period, Male generally had the highest SOME LABEL relative to others with an average of 315.69, and it reached its maximum at Finland_(2009-10) with a value of 386.0.",
-      "Female mostly had the least SOME LABEL with a mean value of 275.34, which peaked at Norway_(2010) with a value of 355.0. "
+      "Overall Male is gradually increasing, Female is roughly constant,  throughout the Year"
    ],
    "max_summary": [
-      "This is a multi-line chart with 2 lines representing Male, and Female. The y axis denotes SOME LABEL and the x axis denotes Year.",
       "Overall Male is gradually increasing, Female is roughly constant,  throughout the Year",
-      "The lines ordered according to average values of SOME LABEL in descending order is: 1. Male, and lastly, 2. Female. ",
-      "Overall across the Year, Male mostly maintained the highest SOME LABEL when compared to others with a mean value of 315.69, and it peaked at Finland_(2009-10).",
-      "The botommost line, Female,  has a mean of 275.34, and peaked at Norway_(2010). ",
-      "The difference of SOME LABEL between Male and Female is greater at Year United_States_(2014) compared to the Year Australia_(2006)."
+      "The greatest difference of SOME LABEL between Male and Female occurs at Year Portugal_(1999) and the smallest difference occurs at Japan_(2011)."
    ],
    "trends": [
       {},
@@ -53,11 +39,11 @@
       },
       {
          "1": [
-            "0",
+            "7",
             "0"
          ],
          "9": [
-            "0",
+            "7",
             "0"
          ]
       },
@@ -73,11 +59,11 @@
       },
       {
          "1": [
-            "2",
+            "19",
             "1"
          ],
          "10": [
-            "2",
+            "19",
             "1"
          ]
       }

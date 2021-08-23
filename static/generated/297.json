@@ -8,22 +8,23 @@
    "summary": [
       "This bar chart has 2 columns on the x axis representing Sex, and Percentage of users in each Sex on the y axis. ",
       "The Percentage of users is highest at Sex Female and lowest at Sex Male. ",
-      "The highest Sex Female has 7.4 more Percentage of users than the lowest Sex Male. "
+      "The minimum Sex Male has got 1.16 times less Percentage of users than the maximum Sex Female. "
    ],
    "min_summary": [
-      "This is a bar chart. It shows Percentage of users for 2 number of Sexs. ",
-      "The maximum Percentage of users 53.7 is found at Sex Female and the minimum is found at Male where Sex is 46.3. "
+      "This bar chart has 2 columns on the x axis representing Sex, and Percentage of users in each Sex on the y axis. ",
+      "The Percentage of users is highest at Sex Female and lowest at Sex Male. "
    ],
    "mid_summary": [
       "This bar chart has 2 columns on the x axis representing Sex, and Percentage of users in each Sex on the y axis. ",
       "The Percentage of users is highest at Sex Female and lowest at Sex Male. ",
-      "The highest Sex Female has 7.4 more Percentage of users than the lowest Sex Male. "
+      "The minimum Sex Male has got 1.16 times less Percentage of users than the maximum Sex Female. "
    ],
    "max_summary": [
-      "This bar chart has 2 columns on the x axis representing Sex, and Percentage of users in each Sex on the y axis. ",
-      "The maximum Percentage of users 53.7 is found at Sex Female and the minimum is found at Male where Sex is 46.3. ",
-      "The highest Sex Female has 7.4 more Percentage of users than the lowest Sex Male. ",
-      "The lowest value 46.3 at Male is almost 1.07 times smaller than the average value 50.0. "
+      "This is a bar chart. It shows Percentage of users for 2 number of Sexs. ",
+      "Sex Female has the highest Percentage of users and Male has the lowest Percentage of users. ",
+      "The highest value at Sex Female is 1.16x times more than the lowest value at Male. ",
+      "The Sex Female has 1.07 times more Percentage of users than average. ",
+      "The Percentage of users is 100.0 if we add up values of all Sexs. "
    ],
    "trends": [
       {},

@@ -9,10 +9,10 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart shows SOME LABEL on the Y-axis for 2 different Countrys for 2 groups Men, and Women that are presented on the X-axis. ",
+      "This grouped bar chart represents 2 different Countrys on X-axis for 2 groups Men, and Women. On the Y-axis it shows their corresponding SOME LABEL. ",
       " In Country 65 years, Women had the highest SOME LABEL 211.0 among the 2 groups and in 45 years, Men had the lowest SOME LABEL 103.0. ",
-      " In Country 65 years, Men had the highest SOME LABEL among all 2 Countrys and it has the lowest SOME LABEL in Country 45 years. ",
-      " The maximum SOME LABEL for Men that was found in Country 65 years was 1.89 times larger than the minimum SOME LABEL observed in Country 45 years. "
+      " Among all the Countrys, Women had the highest SOME LABEL 211.0 in Country 65 years and lowest value 116.0 in Country 45 years. ",
+      "Country 65 years and 45 years had the biggest gap of 95.0 between the highest and lowest SOME LABEL found for Women. "
    ],
    "xAxis": "Country",
    "yAxis": "SOME LABEL",
@@ -21,18 +21,18 @@
       " Country 65 years had the maximum SOME LABEL among all 2 groups, and it was for Women. The minimum SOME LABEL was observed in Country 45 years for Men. "
    ],
    "mid_summary": [
-      "This grouped bar chart shows SOME LABEL on the Y-axis for 2 different Countrys for 2 groups Men, and Women that are presented on the X-axis. ",
+      "This grouped bar chart represents 2 different Countrys on X-axis for 2 groups Men, and Women. On the Y-axis it shows their corresponding SOME LABEL. ",
       " In Country 65 years, Women had the highest SOME LABEL 211.0 among the 2 groups and in 45 years, Men had the lowest SOME LABEL 103.0. ",
-      " In Country 65 years, Men had the highest SOME LABEL among all 2 Countrys and it has the lowest SOME LABEL in Country 45 years. ",
-      " The maximum SOME LABEL for Men that was found in Country 65 years was 1.89 times larger than the minimum SOME LABEL observed in Country 45 years. "
+      " Among all the Countrys, Women had the highest SOME LABEL 211.0 in Country 65 years and lowest value 116.0 in Country 45 years. ",
+      "Country 65 years and 45 years had the biggest gap of 95.0 between the highest and lowest SOME LABEL found for Women. "
    ],
    "max_summary": [
-      "This grouped bar chart shows SOME LABEL on the Y-axis for 2 different Countrys for 2 groups Men, and Women that are presented on the X-axis. ",
-      " Country 65 years had the maximum SOME LABEL among all 2 groups, and it was for Women. The minimum SOME LABEL was observed in Country 45 years for Men. ",
-      " Among all the Countrys, Men had the highest SOME LABEL 195.0 in Country 65 years and lowest value 103.0 in Country 45 years. ",
-      " There is a gap of 92.0 between the highest and lowest SOME LABEL found for Men in Country 65 years and 45 years. ",
-      " Among all 2 groups, Men had the gap of 92.0 between the maximum and minimum SOME LABEL observed in Country 65 years and 45 years respectively. ",
-      "On average, the Country 65 years had the highest SOME LABEL for all 2 groups Men, and Women. Whereas 45 years had the lowest average SOME LABEL. "
+      "This grouped bar chart represents 2 different Countrys on X-axis for 2 groups Men, and Women. On the Y-axis it shows their corresponding SOME LABEL. ",
+      " Out of all 2 groups, Women had the highest SOME LABEL in Country 65 years and Men had the lowest SOME LABEL in Country 45 years. ",
+      " Among all the Countrys, Women had the highest SOME LABEL in Country 65 years and lowest SOME LABEL in Country 45 years. ",
+      " There is a gap of 95.0 between the highest and lowest SOME LABEL found for Women in Country 65 years and 45 years. ",
+      " Out of all 2 groups, the highest gap between the maximum and minimum SOME LABEL was found in case of Men. ",
+      "Averaging all 2 groups Men, and Women, the Country 65 years is the maximum SOME LABEL and 45 years is the minimum SOME LABEL. "
    ],
    "trends": [
       {},

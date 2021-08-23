@@ -7,24 +7,24 @@
    "summaryType": "baseline",
    "summary": [
       "This bar chart has 4 columns on the x axis representing Company, and Market share in each Company on the y axis. ",
-      "The Market share is appeared to be the highest at Company VNPT and lowest at Company Others. ",
-      "The highest Company VNPT has 50.0 more Market share than the lowest Company Others. "
+      "The Market share is highest at Company VNPT and lowest at Company Others. ",
+      "The highest value at Company VNPT is 8.58x times more than the lowest value at Others. "
    ],
    "min_summary": [
-      "This is a bar chart representing Company in the x axis and Market share in the y axis. ",
-      "The Market share is highest at Company VNPT and lowest at Company Others. "
+      "This bar chart has 4 columns on the x axis representing Company, and Market share in each Company on the y axis. ",
+      "The maximum Market share 56.6 is found at Company VNPT and the minimum is found at Others where Company is 6.6. "
    ],
    "mid_summary": [
       "This bar chart has 4 columns on the x axis representing Company, and Market share in each Company on the y axis. ",
-      "The Market share is appeared to be the highest at Company VNPT and lowest at Company Others. ",
-      "The highest Company VNPT has 50.0 more Market share than the lowest Company Others. "
+      "The Market share is highest at Company VNPT and lowest at Company Others. ",
+      "The highest value at Company VNPT is 8.58x times more than the lowest value at Others. "
    ],
    "max_summary": [
-      "This is a bar chart. It shows Market share for 4 number of Companys. ",
-      "The Market share is highest at Company VNPT and lowest at Company Others. ",
-      "The second highest Market share is appeared to be the Company FPT Telecom. ",
-      "Company VNPT has 8.58 times more Market share than Company Others which is has the lowest. ",
-      "Company VNPT is higher than any other Companys with value 56.6, followed by FPT Telecom, and Viettel. Down to Company Others with the lowest value 6.6. ",
+      "This bar chart has 4 columns on the x axis representing Company, and Market share in each Company on the y axis. ",
+      "The Market share is appeared to be the highest at Company VNPT and lowest at Company Others. ",
+      "Company FPT Telecom has the second highest value for Market share. ",
+      "The Market share of Company Others is 8.58% smaller than the maximum value at VNPT. ",
+      "The Company VNPT has the highest Market share, followed by FPT Telecom, and Viettel. Down to the Company Others which is the lowest. ",
       "The Company VNPT has 2.26 times more Market share than average. ",
       "The Market share is 100.0 if we add up values of all Companys. "
    ],

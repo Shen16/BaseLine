@@ -6,31 +6,29 @@
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This is a line chart with an x axis representing Year and a y axis representing Income in U.S. dollars, containing a total of 19 data points.",
-      " In general Income in U.S. dollars has rose over the Year.",
-      "The line rapidly ",
+      " Overall Income in U.S. dollars has increased over the Year.",
+      "Income in U.S. dollars is slightly increasing from '04 to '06, roughly constant from '06 to '08, slightly increasing from '08 to '12, roughly constant from '12 to '13, and finally gradually increasing from '13 to '18.",
       "The steepest increase occurs in between the Year '14 and '15.",
       "Maximum Income in U.S. dollars, about 63557.0 was reported at Year '18",
-      "The lowest Income in U.S. dollars, of value 33364.0 was reported at Year '00"
+      "Minimum Income in U.S. dollars about 37369.0 was reached at Year '04"
    ],
    "min_summary": [
-      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Income in U.S. dollars. In total the number of data points it has is 19.",
-      " In general Income in U.S. dollars has rose over the Year."
+      " In general Income in U.S. dollars has rose over the Year.",
+      "Income in U.S. dollars is slightly increasing from '04 to '06, roughly constant from '06 to '08, slightly increasing from '08 to '12, roughly constant from '12 to '13, and finally gradually increasing from '13 to '18."
    ],
    "mid_summary": [
-      "This is a line chart with an x axis representing Year and a y axis representing Income in U.S. dollars, containing a total of 19 data points.",
       " Overall Income in U.S. dollars has increased over the Year.",
+      "Income in U.S. dollars is slightly increasing from '04 to '06, roughly constant from '06 to '08, slightly increasing from '08 to '12, roughly constant from '12 to '13, and finally gradually increasing from '13 to '18.",
       "The steepest increase occurs in between the Year '14 and '15.",
       "Maximum Income in U.S. dollars, about 63557.0 was reported at Year '18",
-      "The lowest Income in U.S. dollars, of value 33364.0 was reported at Year '00"
+      "Minimum Income in U.S. dollars about 37369.0 was reached at Year '04"
    ],
    "max_summary": [
-      "This is a line chart with an x axis representing Year and a y axis representing Income in U.S. dollars, containing a total of 19 data points.",
-      " Overall Income in U.S. dollars has increased over the Year.",
-      "The most drastic increase took place within the Year '14 and '15.",
+      " In general Income in U.S. dollars has rose over the Year.",
+      "Income in U.S. dollars is slightly increasing from '04 to '06, roughly constant from '06 to '08, slightly increasing from '08 to '12, roughly constant from '12 to '13, and finally gradually increasing from '13 to '18.",
+      "The steepest increase occurs in between the Year '14 and '15.",
       "Maximum Income in U.S. dollars, about 63557.0 was reported at Year '18",
-      "The lowest Income in U.S. dollars, of value 33364.0 was reported at Year '00",
-      "The line significantly "
+      "Minimum Income in U.S. dollars about 37369.0 was reached at Year '04"
    ],
    "trends": [],
    "data": [

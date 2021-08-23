@@ -6,26 +6,26 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This is a bar chart. It shows Revenue per employee in U.S. dollars for 12 number of It Services Vendors. ",
-      "It Services Vendor IBM has the highest Revenue per employee in U.S. dollars and TCS has the lowest Revenue per employee in U.S. dollars. ",
-      "The difference of Revenue per employee in U.S. dollars between the highest and lowest It Services Vendor is 253124.0. "
+      "This bar chart has 12 columns on the x axis representing It Services Vendor, and Revenue per employee in U.S. dollars in each It Services Vendor on the y axis. ",
+      "The Revenue per employee in U.S. dollars is highest at It Services Vendor IBM and lowest at It Services Vendor TCS. ",
+      "The Revenue per employee in U.S. dollars of It Services Vendor TCS is 7.96% smaller than the maximum value at IBM. "
    ],
    "min_summary": [
-      "This is a bar chart representing It Services Vendor in the x axis and Revenue per employee in U.S. dollars in the y axis. ",
-      "The Revenue per employee in U.S. dollars is highest at It Services Vendor IBM and lowest at It Services Vendor TCS. "
+      "This bar chart has 12 columns on the x axis representing It Services Vendor, and Revenue per employee in U.S. dollars in each It Services Vendor on the y axis. ",
+      "The Revenue per employee in U.S. dollars is appeared to be the highest at It Services Vendor IBM and lowest at It Services Vendor TCS. "
    ],
    "mid_summary": [
-      "This is a bar chart. It shows Revenue per employee in U.S. dollars for 12 number of It Services Vendors. ",
-      "It Services Vendor IBM has the highest Revenue per employee in U.S. dollars and TCS has the lowest Revenue per employee in U.S. dollars. ",
-      "The difference of Revenue per employee in U.S. dollars between the highest and lowest It Services Vendor is 253124.0. "
+      "This bar chart has 12 columns on the x axis representing It Services Vendor, and Revenue per employee in U.S. dollars in each It Services Vendor on the y axis. ",
+      "The Revenue per employee in U.S. dollars is highest at It Services Vendor IBM and lowest at It Services Vendor TCS. ",
+      "The Revenue per employee in U.S. dollars of It Services Vendor TCS is 7.96% smaller than the maximum value at IBM. "
    ],
    "max_summary": [
-      "This is a bar chart representing It Services Vendor in the x axis and Revenue per employee in U.S. dollars in the y axis. ",
-      "The maximum Revenue per employee in U.S. dollars 289474.0 is found at It Services Vendor IBM and the minimum is found at TCS where It Services Vendor is 36350.0. ",
+      "This is a bar chart. It shows Revenue per employee in U.S. dollars for 12 number of It Services Vendors. ",
+      "The Revenue per employee in U.S. dollars is highest at It Services Vendor IBM and lowest at It Services Vendor TCS. ",
+      "It Services Vendor ACN has the second highest value for Revenue per employee in U.S. dollars. ",
       "The difference of Revenue per employee in U.S. dollars between the highest and lowest It Services Vendor is 253124.0. ",
-      "It Services Vendor IBM is higher than any other It Services Vendors with value 289474.0, followed by ACN, and Dell. Down to It Services Vendor TCS with the lowest value 36350.0. ",
-      "The It Services Vendor TCS tends to be 2.23 percent lower than average. ",
-      "Summing up the values of all It Services Vendors, we get total 1554506.0. "
+      "The It Services Vendor IBM has the highest Revenue per employee in U.S. dollars, followed by ACN, and Dell. Down to the It Services Vendor TCS which is the lowest. ",
+      "The highest value 289474.0 at IBM is almost 2.23 times larger than the average value 129542.17. "
    ],
    "trends": [
       {},

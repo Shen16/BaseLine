@@ -6,29 +6,27 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This is a bar chart representing Quarter in the x axis and Number of monetizable daily active users in millions in the y axis. ",
-      "Quarter Q4 '19 has the highest Number of monetizable daily active users in millions and Q4 '17 has the lowest Number of monetizable daily active users in millions. ",
-      "There is a difference of 6.0 between the maximum Quarter Q4 '19 and minimum Quarter Q4 '17. "
+      "This bar chart has 12 columns on the x axis representing Quarter, and Number of monetizable daily active users in millions in each Quarter on the y axis. ",
+      "The Number of monetizable daily active users in millions is appeared to be the highest at Quarter Q4 '19 and lowest at Quarter Q4 '17. ",
+      "The highest Quarter Q4 '19 has 6.0 more Number of monetizable daily active users in millions than the lowest Quarter Q4 '17. "
    ],
    "min_summary": [
       "This is a bar chart representing Quarter in the x axis and Number of monetizable daily active users in millions in the y axis. ",
       "The Number of monetizable daily active users in millions is highest at Quarter Q4 '19 and lowest at Quarter Q4 '17. "
    ],
    "mid_summary": [
-      "This is a bar chart representing Quarter in the x axis and Number of monetizable daily active users in millions in the y axis. ",
-      "Quarter Q4 '19 has the highest Number of monetizable daily active users in millions and Q4 '17 has the lowest Number of monetizable daily active users in millions. ",
-      "There is a difference of 6.0 between the maximum Quarter Q4 '19 and minimum Quarter Q4 '17. "
+      "This bar chart has 12 columns on the x axis representing Quarter, and Number of monetizable daily active users in millions in each Quarter on the y axis. ",
+      "The Number of monetizable daily active users in millions is appeared to be the highest at Quarter Q4 '19 and lowest at Quarter Q4 '17. ",
+      "The highest Quarter Q4 '19 has 6.0 more Number of monetizable daily active users in millions than the lowest Quarter Q4 '17. "
    ],
    "max_summary": [
-      "This is a bar chart representing Quarter in the x axis and Number of monetizable daily active users in millions in the y axis. ",
-      "The Number of monetizable daily active users in millions is highest at Quarter Q4 '19 and lowest at Quarter Q4 '17. ",
-      "The second highest Number of monetizable daily active users in millions is appeared to be the Quarter Q3 '19. ",
-      "The Number of monetizable daily active users in millions of Quarter Q4 '19 is 1.24% larger than the minimum value at Q4 '17. ",
+      "This bar chart has 12 columns on the x axis representing Quarter, and Number of monetizable daily active users in millions in each Quarter on the y axis. ",
+      "Quarter Q4 '19 has the highest Number of monetizable daily active users in millions and Q4 '17 has the lowest Number of monetizable daily active users in millions. ",
+      "The highest Quarter Q4 '19 has 6.0 more Number of monetizable daily active users in millions than the lowest Quarter Q4 '17. ",
       "Quarter Q4 '19 is higher than any other Quarters with value 31.0, followed by Q3 '19, and Q2 '19. Down to Quarter Q4 '17 with the lowest value 25.0. ",
-      "Overall Number of monetizable daily active users in millions has reduced over the Quarters. ",
-      "Similar Number of monetizable daily active users in millions is found in Quarter Q3 '18, Q2 '18, Q1 '18, Q3 '17, and Q1 '17. ",
-      "The lowest value 25.0 at Q4 '17 is almost 1.14 times smaller than the average value 27.08. ",
-      "The Number of monetizable daily active users in millions is 325.0 if we add up values of all Quarters. "
+      "Over the past 12 Quarters, the Number of monetizable daily active users in millions has reduced. ",
+      "Quarter Q3 '18, Q2 '18, Q1 '18, Q3 '17, and Q1 '17 have a similar Number of monetizable daily active users in millions that is 26.0. ",
+      "The average Number of monetizable daily active users in millions in all 12 Quarters is 27.08. "
    ],
    "trends": [
       {},

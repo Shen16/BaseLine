@@ -6,27 +6,26 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This is a bar chart. It shows CT scanners per million population for 29 number of Countrys. ",
-      "The maximum CT scanners per million population 64.35 is found at Country Australia and the minimum is found at Mexico where Country is 6.12. ",
-      "The highest Country Australia has 58.23 more CT scanners per million population than the lowest Country Mexico. "
+      "This is a bar chart representing Country in the x axis and CT scanners per million population in the y axis. ",
+      "The CT scanners per million population is appeared to be the highest at Country Australia and lowest at Country Mexico. ",
+      "The difference of CT scanners per million population between the highest and lowest Country is 58.23. "
    ],
    "min_summary": [
       "This is a bar chart. It shows CT scanners per million population for 29 number of Countrys. ",
-      "The CT scanners per million population is highest at Country Australia and lowest at Country Mexico. "
+      "Country Australia has the highest CT scanners per million population and Mexico has the lowest CT scanners per million population. "
    ],
    "mid_summary": [
-      "This is a bar chart. It shows CT scanners per million population for 29 number of Countrys. ",
-      "The maximum CT scanners per million population 64.35 is found at Country Australia and the minimum is found at Mexico where Country is 6.12. ",
-      "The highest Country Australia has 58.23 more CT scanners per million population than the lowest Country Mexico. "
+      "This is a bar chart representing Country in the x axis and CT scanners per million population in the y axis. ",
+      "The CT scanners per million population is appeared to be the highest at Country Australia and lowest at Country Mexico. ",
+      "The difference of CT scanners per million population between the highest and lowest Country is 58.23. "
    ],
    "max_summary": [
-      "This bar chart has 29 columns on the x axis representing Country, and CT scanners per million population in each Country on the y axis. ",
-      "Country Australia has the highest CT scanners per million population and Mexico has the lowest CT scanners per million population. ",
-      "Country Iceland has the second highest value for CT scanners per million population. ",
-      "There is a difference of 58.23 between the maximum Country Australia and minimum Country Mexico. ",
+      "This is a bar chart. It shows CT scanners per million population for 29 number of Countrys. ",
+      "The CT scanners per million population is appeared to be the highest at Country Australia and lowest at Country Mexico. ",
+      "The highest Country Australia has 58.23 more CT scanners per million population than the lowest Country Mexico. ",
       "The Country Australia has the highest CT scanners per million population, followed by Iceland, and United States. Down to the Country Mexico which is the lowest. ",
-      "Similar CT scanners per million population is found in Country Poland, and France. ",
-      "The highest value 64.35 at Australia is almost 2.56 times larger than the average value 25.1. "
+      "Country Poland, and France have the same CT scanners per million population. ",
+      "The Country Australia tends to be 2.56 percent higher than average. "
    ],
    "trends": [
       {},

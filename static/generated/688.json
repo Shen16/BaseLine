@@ -6,27 +6,27 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 21 columns on the x axis representing Uefa Club, and Games played in each Uefa Club on the y axis. ",
-      "The Games played is highest at Uefa Club Real Madrid CF and lowest at Uefa Club Panathinaikos FC. ",
-      "There is a difference of 274.0 between the maximum Uefa Club Real Madrid CF and minimum Uefa Club Panathinaikos FC. "
+      "This is a bar chart. It shows Games played for 21 number of Uefa Clubs. ",
+      "The maximum Games played 431.0 is found at Uefa Club Real Madrid CF and the minimum is found at Panathinaikos FC where Uefa Club is 157.0. ",
+      "The difference of Games played between the highest and lowest Uefa Club is 274.0. "
    ],
    "min_summary": [
-      "This is a bar chart. It shows Games played for 21 number of Uefa Clubs. ",
+      "This is a bar chart representing Uefa Club in the x axis and Games played in the y axis. ",
       "The Games played is appeared to be the highest at Uefa Club Real Madrid CF and lowest at Uefa Club Panathinaikos FC. "
    ],
    "mid_summary": [
-      "This bar chart has 21 columns on the x axis representing Uefa Club, and Games played in each Uefa Club on the y axis. ",
-      "The Games played is highest at Uefa Club Real Madrid CF and lowest at Uefa Club Panathinaikos FC. ",
-      "There is a difference of 274.0 between the maximum Uefa Club Real Madrid CF and minimum Uefa Club Panathinaikos FC. "
-   ],
-   "max_summary": [
       "This is a bar chart. It shows Games played for 21 number of Uefa Clubs. ",
       "The maximum Games played 431.0 is found at Uefa Club Real Madrid CF and the minimum is found at Panathinaikos FC where Uefa Club is 157.0. ",
-      "Uefa Club FC Bayern M\u00fcnchen has the second highest value for Games played. ",
-      "The difference of Games played between the highest and lowest Uefa Club is 274.0. ",
+      "The difference of Games played between the highest and lowest Uefa Club is 274.0. "
+   ],
+   "max_summary": [
+      "This bar chart has 21 columns on the x axis representing Uefa Club, and Games played in each Uefa Club on the y axis. ",
+      "The Games played is highest at Uefa Club Real Madrid CF and lowest at Uefa Club Panathinaikos FC. ",
+      "Uefa Club Panathinaikos FC has 2.75 times less Games played than Uefa Club Real Madrid CF which is the highest. ",
       "Uefa Club Real Madrid CF is higher than any other Uefa Clubs with value 431.0, followed by FC Bayern M\u00fcnchen, and FC Barcelona. Down to Uefa Club Panathinaikos FC with the lowest value 157.0. ",
-      "Uefa Club Chelsea FC, and Olympiacos FC have the same Games played. ",
-      "The Uefa Club Panathinaikos FC tends to be 1.89 percent lower than average. "
+      "Similar Games played is found in Uefa Club Chelsea FC, and Olympiacos FC. ",
+      "The Uefa Club Panathinaikos FC has 1.89 times less Games played than average. ",
+      "Summing up the values of all Uefa Clubs, we get total 4794.0. "
    ],
    "trends": [
       {},

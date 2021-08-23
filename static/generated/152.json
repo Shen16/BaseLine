@@ -6,28 +6,27 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This is a bar chart. It shows Share of social media users for 12 number of Countrys. ",
+      "This is a bar chart representing Country in the x axis and Share of social media users in the y axis. ",
       "The Share of social media users is appeared to be the highest at Country East Asia and lowest at Country Central Asia. ",
-      "The difference of Share of social media users between the highest and lowest Country is 32.0. "
+      "The highest Country East Asia has 32.0 more Share of social media users than the lowest Country Central Asia. "
    ],
    "min_summary": [
-      "This is a bar chart. It shows Share of social media users for 12 number of Countrys. ",
+      "This bar chart has 12 columns on the x axis representing Country, and Share of social media users in each Country on the y axis. ",
       "Country East Asia has the highest Share of social media users and Central Asia has the lowest Share of social media users. "
    ],
    "mid_summary": [
-      "This is a bar chart. It shows Share of social media users for 12 number of Countrys. ",
+      "This is a bar chart representing Country in the x axis and Share of social media users in the y axis. ",
       "The Share of social media users is appeared to be the highest at Country East Asia and lowest at Country Central Asia. ",
-      "The difference of Share of social media users between the highest and lowest Country is 32.0. "
+      "The highest Country East Asia has 32.0 more Share of social media users than the lowest Country Central Asia. "
    ],
    "max_summary": [
       "This bar chart has 12 columns on the x axis representing Country, and Share of social media users in each Country on the y axis. ",
       "The Share of social media users is highest at Country East Asia and lowest at Country Central Asia. ",
-      "The second highest Share of social media users is appeared to be the Country Southeast Asia. ",
-      "The highest Country East Asia has 32.0 more Share of social media users than the lowest Country Central Asia. ",
-      "Share of social media users at Country East Asia is 33.0 , second place is Southeast Asia at 11.0, and thirdly is South Asia at 9.0.",
-      "Country South America, and South Asia have a similar Share of social media users that is 9.0. ",
-      "The Country East Asia has 3.96 times more Share of social media users than average. ",
-      "The Share of social media users is 100.0 if we add up values of all Countrys. "
+      "Country Southeast Asia has the second highest value for Share of social media users. ",
+      "The highest value at Country East Asia is 33.0x times more than the lowest value at Central Asia. ",
+      "The Country East Asia has the highest Share of social media users, followed by Southeast Asia, and South Asia. Down to the Country Central Asia which is the lowest. ",
+      "Country South America, and South Asia have the same Share of social media users. ",
+      "The lowest value 1.0 at Central Asia is almost 3.96 times smaller than the average value 8.33. "
    ],
    "trends": [
       {},

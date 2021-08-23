@@ -6,35 +6,29 @@
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of employees. In total the number of data points it has is 8.",
       " Overall Number of employees has increased over the Year.",
-      "Number of employees is roughly constant from 2011 to 2014, gradually increasing from 2014 to 2015, roughly constant from 2015 to 2016, and lastly slightly increasing from 2016 to 2018.",
-      "The line drastically increased by 1.8 times from Year 2017 to 2018.",
-      "The steepest increase occurs in between the Year 2017 and 2018.",
-      "The highest Number of employees, of value 76032.0 was reached at Year 2018",
-      "Minimum Number of employees about 29400.0 was reached at Year 2011"
+      "Number of employees is roughly constant from 2011 to 2014, gradually increasing from 2014 to 2015, and finally roughly constant from 2015 to 2016.",
+      "The most drastic increase took place within the Year 2014 and 2015.",
+      "Maximum Number of employees, about 50900.0 was reported at Year 2016",
+      "The lowest Number of employees, of value 29400.0 was reported at Year 2011"
    ],
    "min_summary": [
-      "This is a line chart with an x axis representing Year and a y axis representing Number of employees, containing a total of 8 data points.",
-      " Overall Number of employees has increased over the Year.",
-      "Number of employees is roughly constant from 2011 to 2014, gradually increasing from 2014 to 2015, roughly constant from 2015 to 2016, and lastly slightly increasing from 2016 to 2018."
+      " In general Number of employees has rose over the Year.",
+      "Number of employees is roughly constant from 2011 to 2014, gradually increasing from 2014 to 2015, and finally roughly constant from 2015 to 2016."
    ],
    "mid_summary": [
-      "This is a line chart with an x axis representing Year and a y axis representing Number of employees, containing a total of 8 data points.",
       " Overall Number of employees has increased over the Year.",
-      "Number of employees is roughly constant from 2011 to 2014, gradually increasing from 2014 to 2015, roughly constant from 2015 to 2016, and lastly slightly increasing from 2016 to 2018.",
-      "The most drastic increase took place within the Year 2017 and 2018.",
-      "The highest Number of employees, of value 76032.0 was reached at Year 2018",
-      "Minimum Number of employees about 29400.0 was reached at Year 2011"
+      "Number of employees is roughly constant from 2011 to 2014, gradually increasing from 2014 to 2015, and finally roughly constant from 2015 to 2016.",
+      "The most drastic increase took place within the Year 2014 and 2015.",
+      "Maximum Number of employees, about 50900.0 was reported at Year 2016",
+      "The lowest Number of employees, of value 29400.0 was reported at Year 2011"
    ],
    "max_summary": [
-      "This is a line chart with an x axis representing Year and a y axis representing Number of employees, containing a total of 8 data points.",
-      " In general Number of employees has rose over the Year.",
-      "Number of employees is roughly constant from 2011 to 2014, gradually increasing from 2014 to 2015, roughly constant from 2015 to 2016, and lastly slightly increasing from 2016 to 2018.",
-      "The steepest increase occurs in between the Year 2017 and 2018.",
-      "The highest Number of employees, of value 76032.0 was reached at Year 2018",
-      "Minimum Number of employees about 29400.0 was reached at Year 2011",
-      "The line significantly increased by 34132.0 from Year 2017 to 2018."
+      " Overall Number of employees has increased over the Year.",
+      "Number of employees is roughly constant from 2011 to 2014, gradually increasing from 2014 to 2015, and finally roughly constant from 2015 to 2016.",
+      "The most drastic increase took place within the Year 2014 and 2015.",
+      "Maximum Number of employees, about 50900.0 was reported at Year 2016",
+      "The lowest Number of employees, of value 29400.0 was reported at Year 2011"
    ],
    "trends": [],
    "data": [

@@ -6,27 +6,27 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 20 columns on the x axis representing Month, and Average age in each Month on the y axis. ",
-      "The Average age is highest at Month Aosta Valley and lowest at Month Calabria. ",
+      "This is a bar chart. It shows Average age for 20 number of Months. ",
+      "The Average age is appeared to be the highest at Month Aosta Valley and lowest at Month Calabria. ",
       "There is a difference of 4.1 between the maximum Month Aosta Valley and minimum Month Calabria. "
    ],
    "min_summary": [
-      "This is a bar chart. It shows Average age for 20 number of Months. ",
+      "This is a bar chart representing Month in the x axis and Average age in the y axis. ",
       "Month Aosta Valley has the highest Average age and Calabria has the lowest Average age. "
    ],
    "mid_summary": [
-      "This bar chart has 20 columns on the x axis representing Month, and Average age in each Month on the y axis. ",
-      "The Average age is highest at Month Aosta Valley and lowest at Month Calabria. ",
+      "This is a bar chart. It shows Average age for 20 number of Months. ",
+      "The Average age is appeared to be the highest at Month Aosta Valley and lowest at Month Calabria. ",
       "There is a difference of 4.1 between the maximum Month Aosta Valley and minimum Month Calabria. "
    ],
    "max_summary": [
-      "This is a bar chart. It shows Average age for 20 number of Months. ",
-      "The maximum Average age 34.7 is found at Month Aosta Valley and the minimum is found at Calabria where Month is 30.6. ",
-      "The difference of Average age between the highest and lowest Month is 4.1. ",
-      "Month Aosta Valley is higher than any other Months with value 34.7, followed by Liguria, and Sardinia. Down to Month Calabria with the lowest value 30.6. ",
-      "Over the past 20 Months, the Average age has decreased. ",
-      "Similar Average age is found in Month Emilia-Romagna, Tuscany, and Sardinia. ",
-      "The average Average age in all 20 Months is 32.86. "
+      "This bar chart has 20 columns on the x axis representing Month, and Average age in each Month on the y axis. ",
+      "The Average age is appeared to be the highest at Month Aosta Valley and lowest at Month Calabria. ",
+      "There is a difference of 4.1 between the maximum Month Aosta Valley and minimum Month Calabria. ",
+      "The Month Aosta Valley has the highest Average age, followed by Liguria, and Sardinia. Down to the Month Calabria which is the lowest. ",
+      "Over the past 20 Months, the Average age has reduced. ",
+      "Month Emilia-Romagna, Tuscany, and Sardinia have the same Average age. ",
+      "The Month Calabria has 1.06 times less Average age than average. "
    ],
    "trends": [
       {},

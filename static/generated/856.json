@@ -6,27 +6,27 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This is a bar chart. It shows Number of dogs in thousands for 24 number of Countrys. ",
+      "This bar chart has 24 columns on the x axis representing Country, and Number of dogs in thousands in each Country on the y axis. ",
       "The Number of dogs in thousands is appeared to be the highest at Country Germany and lowest at Country Estonia. ",
-      "Country Germany has 44.76 times more Number of dogs in thousands than Country Estonia which is has the lowest. "
+      "There is a difference of 9190.0 between the maximum Country Germany and minimum Country Estonia. "
    ],
    "min_summary": [
-      "This is a bar chart representing Country in the x axis and Number of dogs in thousands in the y axis. ",
-      "The Number of dogs in thousands is highest at Country Germany and lowest at Country Estonia. "
+      "This is a bar chart. It shows Number of dogs in thousands for 24 number of Countrys. ",
+      "Country Germany has the highest Number of dogs in thousands and Estonia has the lowest Number of dogs in thousands. "
    ],
    "mid_summary": [
-      "This is a bar chart. It shows Number of dogs in thousands for 24 number of Countrys. ",
+      "This bar chart has 24 columns on the x axis representing Country, and Number of dogs in thousands in each Country on the y axis. ",
       "The Number of dogs in thousands is appeared to be the highest at Country Germany and lowest at Country Estonia. ",
-      "Country Germany has 44.76 times more Number of dogs in thousands than Country Estonia which is has the lowest. "
+      "There is a difference of 9190.0 between the maximum Country Germany and minimum Country Estonia. "
    ],
    "max_summary": [
       "This is a bar chart representing Country in the x axis and Number of dogs in thousands in the y axis. ",
-      "Country Germany has the highest Number of dogs in thousands and Estonia has the lowest Number of dogs in thousands. ",
-      "Second maximum Number of dogs in thousands is found at Country United Kingdom. ",
+      "The Number of dogs in thousands is highest at Country Germany and lowest at Country Estonia. ",
+      "The second highest Number of dogs in thousands is appeared to be the Country United Kingdom. ",
       "There is a difference of 9190.0 between the maximum Country Germany and minimum Country Estonia. ",
-      "Number of dogs in thousands at Country Germany is 9400.0 , second place is United Kingdom at 9000.0, and thirdly is Poland at 7600.0.",
-      "The lowest value 210.0 at Estonia is almost 3.44 times smaller than the average value 2729.54. ",
-      "Summing up the values of all Countrys, we get total 65509.0. "
+      "Country Germany is higher than any other Countrys with value 9400.0, followed by United Kingdom, and Poland. Down to Country Estonia with the lowest value 210.0. ",
+      "The average Number of dogs in thousands in all 24 Countrys is 2729.54. ",
+      "The Number of dogs in thousands is 65509.0 if we add up values of all Countrys. "
    ],
    "trends": [
       {},

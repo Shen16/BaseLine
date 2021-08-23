@@ -6,25 +6,27 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This is a bar chart. It shows Number of people for 18 number of Age groups. ",
+      "This is a bar chart representing Age group in the x axis and Number of people in the y axis. ",
       "The Number of people is appeared to be the highest at Age group 55 to 59 years and lowest at Age group 100 years and over. ",
-      "Age group 100 years and over has 2552.9 times less Number of people than Age group 55 to 59 years which is the highest. "
+      "The difference of Number of people between the highest and lowest Age group is 1623006.0. "
    ],
    "min_summary": [
-      "This is a bar chart representing Age group in the x axis and Number of people in the y axis. ",
-      "The maximum Number of people 1623642.0 is found at Age group 55 to 59 years and the minimum is found at 100 years and over where Age group is 636.0. "
+      "This bar chart has 18 columns on the x axis representing Age group, and Number of people in each Age group on the y axis. ",
+      "The Number of people is highest at Age group 55 to 59 years and lowest at Age group 100 years and over. "
    ],
    "mid_summary": [
-      "This is a bar chart. It shows Number of people for 18 number of Age groups. ",
+      "This is a bar chart representing Age group in the x axis and Number of people in the y axis. ",
       "The Number of people is appeared to be the highest at Age group 55 to 59 years and lowest at Age group 100 years and over. ",
-      "Age group 100 years and over has 2552.9 times less Number of people than Age group 55 to 59 years which is the highest. "
+      "The difference of Number of people between the highest and lowest Age group is 1623006.0. "
    ],
    "max_summary": [
       "This is a bar chart representing Age group in the x axis and Number of people in the y axis. ",
       "Age group 55 to 59 years has the highest Number of people and 100 years and over has the lowest Number of people. ",
-      "There is a difference of 1623006.0 between the maximum Age group 55 to 59 years and minimum Age group 100 years and over. ",
-      "Number of people at Age group 55 to 59 years is 1623642.0 , second place is 60 to 64 years at 1526827.0, and thirdly is 50 to 54 years at 1475369.0.",
-      "The highest value 1623642.0 at 55 to 59 years is almost 2.1 times larger than the average value 772701.0. "
+      "Age group 60 to 64 years has the second highest value for Number of people. ",
+      "The minimum Age group 100 years and over has got 2552.9 times less Number of people than the maximum Age group 55 to 59 years. ",
+      "Age group 55 to 59 years is higher than any other Age groups with value 1623642.0, followed by 60 to 64 years, and 50 to 54 years. Down to Age group 100 years and over with the lowest value 636.0. ",
+      "Considered together, the average Number of people in all 18 Age groups is roughly 772701.0. ",
+      "Summing up the values of all Age groups, we get total 13908618.0. "
    ],
    "trends": [
       {},

@@ -9,39 +9,23 @@
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "The given chart is of multi-line type with 2 lines namely Franchise, and Company-owned. The y axis represents SOME LABEL and the x axis represents Year.",
       "Overall Company-owned is gradually increasing, Franchise is roughly constant,  throughout the Year",
       "The ranking of the lines from topmost to botommmost is as follows: 1. Franchise, and lastly, 2. Company-owned. ",
-      "Overall across the Year, Franchise mostly maintained the highest SOME LABEL when compared to others with a mean value of 329.71, and it peaked at 2017.",
-      "Company-owned mostly had the least SOME LABEL with a mean value of 320.14, which peaked at 2017 with a value of 385.0. ",
-      "Company-owned reported the highest SOME LABEL about 385.0 in Year 2017",
       "The minimum SOME LABEL about 245.0, occured at 2011 by Company-owned.",
-      "The difference of SOME LABEL between Franchise and Company-owned is smaller at Year 2017 compared to the Year 2011."
+      "The difference of SOME LABEL between Franchise and Company-owned is smaller at Year 2015 compared to the Year 2011."
    ],
    "xAxis": "Year",
    "yAxis": "SOME LABEL",
    "min_summary": [
-      "You are viewing a chart of multi-line type with 2 lines denoting Franchise, and Company-owned. The y axis indicates the SOME LABEL and the x axis indicates Year.",
-      "Overall Company-owned is gradually increasing, Franchise is roughly constant,  throughout the Year",
-      "Throughout the period, Franchise generally had the highest SOME LABEL relative to others with an average of 329.71, and it reached its maximum at 2017 with a value of 341.0.",
-      "Company-owned mostly had the least SOME LABEL with a mean value of 320.14, which peaked at 2017 with a value of 385.0. "
+      "Overall Company-owned is gradually increasing, Franchise is roughly constant,  throughout the Year"
    ],
    "mid_summary": [
-      "This is a multi-line chart with 2 lines representing Franchise, and Company-owned. The y axis denotes SOME LABEL and the x axis denotes Year.",
-      "Overall Company-owned is gradually increasing, Franchise is roughly constant,  throughout the Year",
-      "The lines ordered according to average values of SOME LABEL in descending order is: 1. Franchise, and lastly, 2. Company-owned. ",
-      "Overall across the Year, Franchise mostly maintained the highest SOME LABEL when compared to others with a mean value of 329.71, and it peaked at 2017.",
-      "The botommost line, Company-owned,  has a mean of 320.14, and peaked at 2017. "
+      "Overall Company-owned is gradually increasing, Franchise is roughly constant,  throughout the Year"
    ],
    "max_summary": [
-      "This is a multi-line chart with 2 lines representing Franchise, and Company-owned. The y axis denotes SOME LABEL and the x axis denotes Year.",
       "Overall Company-owned is gradually increasing, Franchise is roughly constant,  throughout the Year",
-      "The ranking of the lines from topmost to botommmost is as follows: 1. Franchise, and lastly, 2. Company-owned. ",
-      "Overall across the Year, Franchise mostly maintained the highest SOME LABEL when compared to others with a mean value of 329.71, and it peaked at 2017.",
-      "The botommost line, Company-owned,  has a mean of 320.14, and peaked at 2017. ",
-      "The maximum SOME LABEL about 385.0, occured at 2017 by Company-owned.",
-      "The minimum SOME LABEL about 245.0, occured at 2011 by Company-owned.",
-      "The greatest difference of SOME LABEL between Franchise and Company-owned occurs at Year 2011 and the smallest difference occurs at 2012."
+      "Company-owned reported the lowest SOME LABEL about 245.0 in Year 2011",
+      "The difference of SOME LABEL between Franchise and Company-owned is smaller at Year 2015 compared to the Year 2011."
    ],
    "trends": [
       {},
@@ -57,11 +41,11 @@
       },
       {
          "1": [
-            "0",
+            "4",
             "0"
          ],
          "9": [
-            "0",
+            "4",
             "0"
          ]
       },
@@ -77,11 +61,11 @@
       },
       {
          "1": [
-            "0",
+            "4",
             "1"
          ],
          "10": [
-            "0",
+            "4",
             "1"
          ]
       }

@@ -6,28 +6,28 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 72 columns on the x axis representing Month, and Number of hours in each Month on the y axis. ",
-      "The maximum Number of hours 246.0 is found at Month May '18 and the minimum is found at Dec '15 where Month is 29.2. ",
-      "The highest Month May '18 has 216.8 more Number of hours than the lowest Month Dec '15. "
+      "This is a bar chart representing Month in the x axis and Number of hours in the y axis. ",
+      "The Number of hours is appeared to be the highest at Month May '18 and lowest at Month Dec '15. ",
+      "There is a difference of 216.8 between the maximum Month May '18 and minimum Month Dec '15. "
    ],
    "min_summary": [
-      "This bar chart has 72 columns on the x axis representing Month, and Number of hours in each Month on the y axis. ",
-      "Month May '18 has the highest Number of hours and Dec '15 has the lowest Number of hours. "
+      "This is a bar chart representing Month in the x axis and Number of hours in the y axis. ",
+      "The maximum Number of hours 246.0 is found at Month May '18 and the minimum is found at Dec '15 where Month is 29.2. "
    ],
    "mid_summary": [
-      "This bar chart has 72 columns on the x axis representing Month, and Number of hours in each Month on the y axis. ",
-      "The maximum Number of hours 246.0 is found at Month May '18 and the minimum is found at Dec '15 where Month is 29.2. ",
-      "The highest Month May '18 has 216.8 more Number of hours than the lowest Month Dec '15. "
+      "This is a bar chart representing Month in the x axis and Number of hours in the y axis. ",
+      "The Number of hours is appeared to be the highest at Month May '18 and lowest at Month Dec '15. ",
+      "There is a difference of 216.8 between the maximum Month May '18 and minimum Month Dec '15. "
    ],
    "max_summary": [
-      "This is a bar chart. It shows Number of hours for 72 number of Months. ",
-      "The Number of hours is appeared to be the highest at Month May '18 and lowest at Month Dec '15. ",
-      "Second maximum Number of hours is found at Month Jun '18. ",
+      "This is a bar chart representing Month in the x axis and Number of hours in the y axis. ",
+      "The Number of hours is highest at Month May '18 and lowest at Month Dec '15. ",
+      "Month Jun '18 has the second highest value for Number of hours. ",
       "The highest Month May '18 has 216.8 more Number of hours than the lowest Month Dec '15. ",
-      "Number of hours at Month May '18 is 246.0 , second place is Jun '18 at 239.9, and thirdly is Jul '18 at 237.6.",
-      "Overall Number of hours has lowered over the Months. ",
+      "The Month May '18 has the highest Number of hours, followed by Jun '18, and Jul '18. Down to the Month Dec '15 which is the lowest. ",
+      "Overall Number of hours has reduced over the Months. ",
       "Similar Number of hours is found in Month Jun '19, and Apr '16. ",
-      "The lowest value 29.2 at Dec '15 is almost 2.03 times smaller than the average value 121.08. ",
+      "The Month May '18 tends to be 2.03 percent higher than average. ",
       "Summing up the values of all Months, we get total 8718.1. "
    ],
    "trends": [

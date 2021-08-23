@@ -6,31 +6,29 @@
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of skier visits in millions. In total the number of data points it has is 19.",
-      " In general Number of skier visits in millions has stayed the same over the Year.",
-      "The line drastically ",
-      "The steepest decrease occurs in between the Year 10/11 and 11/12.",
-      "Maximum Number of skier visits in millions, about 60.54 was reported at Year 10/11",
-      "The lowest Number of skier visits in millions, of value 50.97 was reported at Year 11/12"
+      " In general Number of skier visits in millions has rose over the Year.",
+      "Number of skier visits in millions is slightly decreasing from 04/05 to 06/07, slightly increasing from 06/07 to 08/09, and lastly roughly constant from 08/09 to 10/11.",
+      "The most drastic increase took place within the Year 06/07 and 07/08.",
+      "The highest Number of skier visits in millions, of value 60.54 was reached at Year 10/11",
+      "The lowest Number of skier visits in millions, of value 55.07 was reported at Year 06/07"
    ],
    "min_summary": [
-      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of skier visits in millions. In total the number of data points it has is 19.",
-      " In general Number of skier visits in millions has stayed the same over the Year."
+      " In general Number of skier visits in millions has rose over the Year.",
+      "Number of skier visits in millions is slightly decreasing from 04/05 to 06/07, slightly increasing from 06/07 to 08/09, and lastly roughly constant from 08/09 to 10/11."
    ],
    "mid_summary": [
-      "This is a line chart with an x axis representing Year and a y axis representing Number of skier visits in millions, containing a total of 19 data points.",
       " Overall Number of skier visits in millions has increased over the Year.",
-      "The most drastic decrease took place within the Year 10/11 and 11/12.",
-      "Maximum Number of skier visits in millions, about 60.54 was reported at Year 10/11",
-      "The lowest Number of skier visits in millions, of value 50.97 was reported at Year 11/12"
+      "Number of skier visits in millions is slightly decreasing from 04/05 to 06/07, slightly increasing from 06/07 to 08/09, and lastly roughly constant from 08/09 to 10/11.",
+      "The most drastic increase took place within the Year 06/07 and 07/08.",
+      "The highest Number of skier visits in millions, of value 60.54 was reached at Year 10/11",
+      "The lowest Number of skier visits in millions, of value 55.07 was reported at Year 06/07"
    ],
    "max_summary": [
-      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of skier visits in millions. In total the number of data points it has is 19.",
       " Overall Number of skier visits in millions has increased over the Year.",
-      "The steepest decrease occurs in between the Year 10/11 and 11/12.",
-      "Maximum Number of skier visits in millions, about 60.54 was reported at Year 10/11",
-      "The lowest Number of skier visits in millions, of value 50.97 was reported at Year 11/12",
-      "The line significantly "
+      "Number of skier visits in millions is slightly decreasing from 04/05 to 06/07, slightly increasing from 06/07 to 08/09, and lastly roughly constant from 08/09 to 10/11.",
+      "The steepest increase occurs in between the Year 06/07 and 07/08.",
+      "The highest Number of skier visits in millions, of value 60.54 was reached at Year 10/11",
+      "The lowest Number of skier visits in millions, of value 55.07 was reported at Year 06/07"
    ],
    "trends": [],
    "data": [

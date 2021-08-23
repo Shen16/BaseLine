@@ -6,29 +6,28 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This is a bar chart. It shows Number of days for 72 number of Months. ",
+      "This is a bar chart representing Month in the x axis and Number of days in the y axis. ",
       "The Number of days is highest at Month Jan '14 and lowest at Month Sep '14. ",
-      "The maximum Month Jan '14 has got 4.78 times higher Number of days than the minimum Month Sep '14. "
+      "There is a difference of 18.5 between the maximum Month Jan '14 and minimum Month Sep '14. "
    ],
    "min_summary": [
       "This is a bar chart representing Month in the x axis and Number of days in the y axis. ",
-      "Month Jan '14 has the highest Number of days and Sep '14 has the lowest Number of days. "
+      "The maximum Number of days 23.4 is found at Month Jan '14 and the minimum is found at Sep '14 where Month is 4.9. "
    ],
    "mid_summary": [
-      "This is a bar chart. It shows Number of days for 72 number of Months. ",
+      "This is a bar chart representing Month in the x axis and Number of days in the y axis. ",
       "The Number of days is highest at Month Jan '14 and lowest at Month Sep '14. ",
-      "The maximum Month Jan '14 has got 4.78 times higher Number of days than the minimum Month Sep '14. "
+      "There is a difference of 18.5 between the maximum Month Jan '14 and minimum Month Sep '14. "
    ],
    "max_summary": [
-      "This bar chart has 72 columns on the x axis representing Month, and Number of days in each Month on the y axis. ",
-      "Month Jan '14 has the highest Number of days and Sep '14 has the lowest Number of days. ",
+      "This is a bar chart representing Month in the x axis and Number of days in the y axis. ",
+      "The maximum Number of days 23.4 is found at Month Jan '14 and the minimum is found at Sep '14 where Month is 4.9. ",
       "Second maximum Number of days is found at Month Dec '15. ",
-      "There is a difference of 18.5 between the maximum Month Jan '14 and minimum Month Sep '14. ",
+      "The highest Month Jan '14 has 18.5 more Number of days than the lowest Month Sep '14. ",
       "The Month Jan '14 has the highest Number of days, followed by Dec '15, and Nov '15. Down to the Month Sep '14 which is the lowest. ",
-      "The Number of days has risen over the past 72 Months. ",
-      "Month Nov '16, Jul '16, and Mar '15 have the same Number of days. ",
-      "The highest value 23.4 at Jan '14 is almost 1.73 times larger than the average value 13.55. ",
-      "The Number of days is 975.3 if we add up values of all Months. "
+      "Overall Number of days has grew over the Months. ",
+      "Similar Number of days is found in Month Nov '16, Jul '16, and Mar '15. ",
+      "The Month Jan '14 has 1.73 times more Number of days than average. "
    ],
    "trends": [
       {},

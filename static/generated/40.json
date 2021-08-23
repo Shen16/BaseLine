@@ -6,28 +6,27 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This is a bar chart representing Month in the x axis and Rushing yards in the y axis. ",
-      "The Rushing yards is appeared to be the highest at Month Steven Jackson and lowest at Month Tommy Wilson. ",
-      "The maximum Month Steven Jackson has got 4.76 times higher Rushing yards than the minimum Month Tommy Wilson. "
+      "This is a bar chart. It shows Rushing yards for 20 number of Months. ",
+      "The maximum Rushing yards 10138.0 is found at Month Steven Jackson and the minimum is found at Tommy Wilson where Month is 2130.0. ",
+      "The highest value at Month Steven Jackson is 4.76x times more than the lowest value at Tommy Wilson. "
    ],
    "min_summary": [
-      "This is a bar chart representing Month in the x axis and Rushing yards in the y axis. ",
-      "The Rushing yards is appeared to be the highest at Month Steven Jackson and lowest at Month Tommy Wilson. "
+      "This is a bar chart. It shows Rushing yards for 20 number of Months. ",
+      "The maximum Rushing yards 10138.0 is found at Month Steven Jackson and the minimum is found at Tommy Wilson where Month is 2130.0. "
    ],
    "mid_summary": [
-      "This is a bar chart representing Month in the x axis and Rushing yards in the y axis. ",
-      "The Rushing yards is appeared to be the highest at Month Steven Jackson and lowest at Month Tommy Wilson. ",
-      "The maximum Month Steven Jackson has got 4.76 times higher Rushing yards than the minimum Month Tommy Wilson. "
+      "This is a bar chart. It shows Rushing yards for 20 number of Months. ",
+      "The maximum Rushing yards 10138.0 is found at Month Steven Jackson and the minimum is found at Tommy Wilson where Month is 2130.0. ",
+      "The highest value at Month Steven Jackson is 4.76x times more than the lowest value at Tommy Wilson. "
    ],
    "max_summary": [
-      "This bar chart has 20 columns on the x axis representing Month, and Rushing yards in each Month on the y axis. ",
-      "The Rushing yards is appeared to be the highest at Month Steven Jackson and lowest at Month Tommy Wilson. ",
-      "Month Eric Dickerson has the second highest value for Rushing yards. ",
+      "This is a bar chart representing Month in the x axis and Rushing yards in the y axis. ",
+      "Month Steven Jackson has the highest Rushing yards and Tommy Wilson has the lowest Rushing yards. ",
       "There is a difference of 8008.0 between the maximum Month Steven Jackson and minimum Month Tommy Wilson. ",
-      "Rushing yards at Month Steven Jackson is 10138.0 , second place is Eric Dickerson at 7245.0, and thirdly is Marshall Faulk at 6959.0.",
-      "The Rushing yards has declined over the past 20 Months. ",
-      "The average Rushing yards in all 20 Months is 4039.9. ",
-      "Summing up the values of all Months, we get total 80798.0. "
+      "The Month Steven Jackson has the highest Rushing yards, followed by Eric Dickerson, and Marshall Faulk. Down to the Month Tommy Wilson which is the lowest. ",
+      "Over the past 20 Months, the Rushing yards has decreased. ",
+      "The Month Steven Jackson tends to be 2.51 percent higher than average. ",
+      "The Rushing yards is 80798.0 if we add up values of all Months. "
    ],
    "trends": [
       {},

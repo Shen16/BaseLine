@@ -7,24 +7,23 @@
    "summaryType": "baseline",
    "summary": [
       "This is a bar chart. It shows Total population for 3 number of Genders. ",
-      "The Total population is highest at Gender Total and lowest at Gender Males. ",
-      "The lowest value at Gender Males is 2.06x times less than the highest value at Total. "
+      "The Total population is appeared to be the highest at Gender Total and lowest at Gender Males. ",
+      "The difference of Total population between the highest and lowest Gender is 5559538.0. "
    ],
    "min_summary": [
-      "This is a bar chart. It shows Total population for 3 number of Genders. ",
-      "The Total population is highest at Gender Total and lowest at Gender Males. "
+      "This bar chart has 3 columns on the x axis representing Gender, and Total population in each Gender on the y axis. ",
+      "The maximum Total population 10783748.0 is found at Gender Total and the minimum is found at Males where Gender is 5224210.0. "
    ],
    "mid_summary": [
       "This is a bar chart. It shows Total population for 3 number of Genders. ",
-      "The Total population is highest at Gender Total and lowest at Gender Males. ",
-      "The lowest value at Gender Males is 2.06x times less than the highest value at Total. "
+      "The Total population is appeared to be the highest at Gender Total and lowest at Gender Males. ",
+      "The difference of Total population between the highest and lowest Gender is 5559538.0. "
    ],
    "max_summary": [
-      "This is a bar chart representing Gender in the x axis and Total population in the y axis. ",
+      "This bar chart has 3 columns on the x axis representing Gender, and Total population in each Gender on the y axis. ",
       "The maximum Total population 10783748.0 is found at Gender Total and the minimum is found at Males where Gender is 5224210.0. ",
-      "The second highest Total population is appeared to be the Gender Females. ",
       "The highest Gender Total has 5559538.0 more Total population than the lowest Gender Males. ",
-      "The average Total population in all 3 Genders is 7189165.33. ",
+      "Considered together, the average Total population in all 3 Genders is roughly 7189165.33. ",
       "Summing up the values of all Genders, we get total 21567496.0. "
    ],
    "trends": [

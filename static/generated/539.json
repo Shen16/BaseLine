@@ -9,37 +9,23 @@
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "You are viewing a chart of multi-line type with 2 lines denoting Canada, and United States. The y axis indicates the Rate of himicide per 100 thousand residents and the x axis indicates Year.",
       "Overall United States is gradually decreasing, Canada is roughly constant,  throughout the Year",
-      "The lines ordered according to average values of Rate of himicide per 100 thousand residents in descending order is: 1. United States, and lastly, 2. Canada. ",
-      "Throughout the period, United States generally had the highest Rate of himicide per 100 thousand residents relative to others with an average of 5.25, and it reached its maximum at 2007 with a value of 5.8.",
-      "The botommost line, Canada,  has a mean of 1.75, and peaked at 2005. ",
-      "Canada reported the lowest Rate of himicide per 100 thousand residents about 1.46 in Year 2013",
-      "The difference of Rate of himicide per 100 thousand residents between Canada and United States is smaller at Year 2018 compared to the Year 2000."
+      "The order of lines according to average values of Rate of himicide per 100 thousand residents, in descending order is: 1. United States, and lastly, 2. Canada. ",
+      "The minimum Rate of himicide per 100 thousand residents about 1.56, occured at 2012 by Canada.",
+      "The greatest difference of Rate of himicide per 100 thousand residents between Canada and United States occurs at Year 2007 and the smallest difference occurs at 2011."
    ],
    "xAxis": "Year",
    "yAxis": "Rate of himicide per 100 thousand residents",
    "min_summary": [
-      "The given chart is of multi-line type with 2 lines namely Canada, and United States. The y axis represents Rate of himicide per 100 thousand residents and the x axis represents Year.",
-      "Overall United States is gradually decreasing, Canada is roughly constant,  throughout the Year",
-      "Overall across the Year, United States mostly maintained the highest Rate of himicide per 100 thousand residents when compared to others with a mean value of 5.25, and it peaked at 2007.",
-      "Canada mostly had the least Rate of himicide per 100 thousand residents with a mean value of 1.75, which peaked at 2005 with a value of 2.06. "
+      "Overall United States is gradually decreasing, Canada is roughly constant,  throughout the Year"
    ],
    "mid_summary": [
-      "You are viewing a chart of multi-line type with 2 lines denoting Canada, and United States. The y axis indicates the Rate of himicide per 100 thousand residents and the x axis indicates Year.",
-      "Overall United States is gradually decreasing, Canada is roughly constant,  throughout the Year",
-      "The lines ordered according to average values of Rate of himicide per 100 thousand residents in descending order is: 1. United States, and lastly, 2. Canada. ",
-      "Throughout the period, United States generally had the highest Rate of himicide per 100 thousand residents relative to others with an average of 5.25, and it reached its maximum at 2007 with a value of 5.8.",
-      "The botommost line, Canada,  has a mean of 1.75, and peaked at 2005. "
+      "Overall United States is gradually decreasing, Canada is roughly constant,  throughout the Year"
    ],
    "max_summary": [
-      "You are viewing a chart of multi-line type with 2 lines denoting Canada, and United States. The y axis indicates the Rate of himicide per 100 thousand residents and the x axis indicates Year.",
       "Overall United States is gradually decreasing, Canada is roughly constant,  throughout the Year",
-      "The ranking of the lines from topmost to botommmost is as follows: 1. United States, and lastly, 2. Canada. ",
-      "Throughout the period, United States generally had the highest Rate of himicide per 100 thousand residents relative to others with an average of 5.25, and it reached its maximum at 2007 with a value of 5.8.",
-      "The botommost line, Canada,  has a mean of 1.75, and peaked at 2005. ",
-      "The minimum Rate of himicide per 100 thousand residents about 1.46, occured at 2013 by Canada.",
-      "The difference of Rate of himicide per 100 thousand residents between Canada and United States is smaller at Year 2018 compared to the Year 2000."
+      "The minimum Rate of himicide per 100 thousand residents about 1.56, occured at 2012 by Canada.",
+      "The greatest difference of Rate of himicide per 100 thousand residents between Canada and United States occurs at Year 2007 and the smallest difference occurs at 2011."
    ],
    "trends": [
       {},
@@ -55,11 +41,11 @@
       },
       {
          "1": [
-            "7",
+            "6",
             "1"
          ],
          "9": [
-            "7",
+            "6",
             "1"
          ]
       },
@@ -75,11 +61,11 @@
       },
       {
          "1": [
-            "5",
+            "4",
             "0"
          ],
          "10": [
-            "5",
+            "4",
             "0"
          ]
       }

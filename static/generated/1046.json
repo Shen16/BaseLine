@@ -6,35 +6,29 @@
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Consumption in grams. In total the number of data points it has is 5.",
-      " In general Consumption in grams has stayed the same over the Year.",
-      "Consumption in grams is roughly constant from 1.5-3_years to 19-64_years, gradually increasing from 19-64_years to 4-10_years, and finally roughly decreasing from 4-10_years to 65_years_and_over.",
-      "The line significantly increased by 8.0 from Year 19-64_years to 4-10_years.",
-      "The most drastic increase took place within the Year 19-64_years and 4-10_years.",
-      "The highest Consumption in grams, of value 13.0 was reached at Year 4-10_years",
-      "Minimum Consumption in grams about 5.0 was reached at Year 19-64_years"
+      " Overall Consumption in grams has decreased over the Year.",
+      "Consumption in grams is slightly decreasing from 11-18_years to 19-64_years.",
+      "The steepest decrease occurs in between the Year 11-18_years and 19-64_years.",
+      "The highest Consumption in grams, of value 8.0 was reached at Year 11-18_years",
+      "The lowest Consumption in grams, of value 5.0 was reported at Year 19-64_years"
    ],
    "min_summary": [
-      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Consumption in grams. In total the number of data points it has is 5.",
-      " In general Consumption in grams has stayed the same over the Year.",
-      "Consumption in grams is roughly constant from 1.5-3_years to 19-64_years, gradually increasing from 19-64_years to 4-10_years, and finally roughly decreasing from 4-10_years to 65_years_and_over."
+      " Overall Consumption in grams has decreased over the Year.",
+      "Consumption in grams is slightly decreasing from 11-18_years to 19-64_years."
    ],
    "mid_summary": [
-      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Consumption in grams. In total the number of data points it has is 5.",
-      " In general Consumption in grams has stayed the same over the Year.",
-      "Consumption in grams is roughly constant from 1.5-3_years to 19-64_years, gradually increasing from 19-64_years to 4-10_years, and finally roughly decreasing from 4-10_years to 65_years_and_over.",
-      "The most drastic increase took place within the Year 19-64_years and 4-10_years.",
-      "The highest Consumption in grams, of value 13.0 was reached at Year 4-10_years",
-      "Minimum Consumption in grams about 5.0 was reached at Year 19-64_years"
+      " In general Consumption in grams has fallen over the Year.",
+      "Consumption in grams is slightly decreasing from 11-18_years to 19-64_years.",
+      "The most drastic decrease took place within the Year 11-18_years and 19-64_years.",
+      "The highest Consumption in grams, of value 8.0 was reached at Year 11-18_years",
+      "The lowest Consumption in grams, of value 5.0 was reported at Year 19-64_years"
    ],
    "max_summary": [
-      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Consumption in grams. In total the number of data points it has is 5.",
-      " In general Consumption in grams has stayed the same over the Year.",
-      "Consumption in grams is roughly constant from 1.5-3_years to 19-64_years, gradually increasing from 19-64_years to 4-10_years, and finally roughly decreasing from 4-10_years to 65_years_and_over.",
-      "The most drastic increase took place within the Year 19-64_years and 4-10_years.",
-      "The highest Consumption in grams, of value 13.0 was reached at Year 4-10_years",
-      "Minimum Consumption in grams about 5.0 was reached at Year 19-64_years",
-      "The line significantly increased by 8.0 from Year 19-64_years to 4-10_years."
+      " Overall Consumption in grams has decreased over the Year.",
+      "Consumption in grams is slightly decreasing from 11-18_years to 19-64_years.",
+      "The steepest decrease occurs in between the Year 11-18_years and 19-64_years.",
+      "The highest Consumption in grams, of value 8.0 was reached at Year 11-18_years",
+      "The lowest Consumption in grams, of value 5.0 was reported at Year 19-64_years"
    ],
    "trends": [],
    "data": [

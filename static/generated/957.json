@@ -6,25 +6,26 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 7 columns on the x axis representing Platform, and Share of logins in each Platform on the y axis. ",
+      "This is a bar chart. It shows Share of logins for 7 number of Platforms. ",
       "Platform Facebook has the highest Share of logins and Live has the lowest Share of logins. ",
-      "There is a difference of 52.99 between the maximum Platform Facebook and minimum Platform Live. "
+      "The Share of logins of Platform Live is 482.73% smaller than the maximum value at Facebook. "
    ],
    "min_summary": [
       "This is a bar chart representing Platform in the x axis and Share of logins in the y axis. ",
-      "The Share of logins is appeared to be the highest at Platform Facebook and lowest at Platform Live. "
+      "The Share of logins is highest at Platform Facebook and lowest at Platform Live. "
    ],
    "mid_summary": [
-      "This bar chart has 7 columns on the x axis representing Platform, and Share of logins in each Platform on the y axis. ",
+      "This is a bar chart. It shows Share of logins for 7 number of Platforms. ",
       "Platform Facebook has the highest Share of logins and Live has the lowest Share of logins. ",
-      "There is a difference of 52.99 between the maximum Platform Facebook and minimum Platform Live. "
+      "The Share of logins of Platform Live is 482.73% smaller than the maximum value at Facebook. "
    ],
    "max_summary": [
-      "This is a bar chart representing Platform in the x axis and Share of logins in the y axis. ",
-      "The maximum Share of logins 53.1 is found at Platform Facebook and the minimum is found at Live where Platform is 0.11. ",
-      "There is a difference of 52.99 between the maximum Platform Facebook and minimum Platform Live. ",
-      "Platform Facebook is higher than any other Platforms with value 53.1, followed by GooglePlus, and Twitter. Down to Platform Live with the lowest value 0.11. ",
-      "The Platform Facebook has 3.72 times more Share of logins than average. "
+      "This bar chart has 7 columns on the x axis representing Platform, and Share of logins in each Platform on the y axis. ",
+      "The Share of logins is highest at Platform Facebook and lowest at Platform Live. ",
+      "The second highest Share of logins is appeared to be the Platform GooglePlus. ",
+      "The highest Platform Facebook has 52.99 more Share of logins than the lowest Platform Live. ",
+      "Share of logins at Platform Facebook is 53.1 , second place is GooglePlus at 44.8, and thirdly is Twitter at 1.01.",
+      "The highest value 53.1 at Facebook is almost 3.72 times larger than the average value 14.29. "
    ],
    "trends": [
       {},

@@ -6,27 +6,28 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This is a bar chart. It shows Box office grosses in million U.S. dollars for 20 number of Months. ",
+      "This bar chart has 20 columns on the x axis representing Month, and Box office grosses in million U.S. dollars in each Month on the y axis. ",
       "The Box office grosses in million U.S. dollars is appeared to be the highest at Month Samuel L. Jackson and lowest at Month Mark Ruffalo. ",
-      "The highest Month Samuel L. Jackson has 3343.1 more Box office grosses in million U.S. dollars than the lowest Month Mark Ruffalo. "
+      "The difference of Box office grosses in million U.S. dollars between the highest and lowest Month is 3343.1. "
    ],
    "min_summary": [
-      "This bar chart has 20 columns on the x axis representing Month, and Box office grosses in million U.S. dollars in each Month on the y axis. ",
+      "This is a bar chart representing Month in the x axis and Box office grosses in million U.S. dollars in the y axis. ",
       "The Box office grosses in million U.S. dollars is highest at Month Samuel L. Jackson and lowest at Month Mark Ruffalo. "
    ],
    "mid_summary": [
-      "This is a bar chart. It shows Box office grosses in million U.S. dollars for 20 number of Months. ",
+      "This bar chart has 20 columns on the x axis representing Month, and Box office grosses in million U.S. dollars in each Month on the y axis. ",
       "The Box office grosses in million U.S. dollars is appeared to be the highest at Month Samuel L. Jackson and lowest at Month Mark Ruffalo. ",
-      "The highest Month Samuel L. Jackson has 3343.1 more Box office grosses in million U.S. dollars than the lowest Month Mark Ruffalo. "
+      "The difference of Box office grosses in million U.S. dollars between the highest and lowest Month is 3343.1. "
    ],
    "max_summary": [
-      "This is a bar chart. It shows Box office grosses in million U.S. dollars for 20 number of Months. ",
-      "The maximum Box office grosses in million U.S. dollars 7107.8 is found at Month Samuel L. Jackson and the minimum is found at Mark Ruffalo where Month is 3764.7. ",
-      "Month Robert Downey Jr. has the second highest value for Box office grosses in million U.S. dollars. ",
-      "There is a difference of 3343.1 between the maximum Month Samuel L. Jackson and minimum Month Mark Ruffalo. ",
-      "Month Samuel L. Jackson is higher than any other Months with value 7107.8, followed by Robert Downey Jr., and Scarlett Johannsson. Down to Month Mark Ruffalo with the lowest value 3764.7. ",
-      "Over the past 20 Months, the Box office grosses in million U.S. dollars has declined. ",
-      "The Month Mark Ruffalo tends to be 1.58 percent lower than average. "
+      "This bar chart has 20 columns on the x axis representing Month, and Box office grosses in million U.S. dollars in each Month on the y axis. ",
+      "Month Samuel L. Jackson has the highest Box office grosses in million U.S. dollars and Mark Ruffalo has the lowest Box office grosses in million U.S. dollars. ",
+      "The second highest Box office grosses in million U.S. dollars is appeared to be the Month Robert Downey Jr.. ",
+      "The highest Month Samuel L. Jackson has 3343.1 more Box office grosses in million U.S. dollars than the lowest Month Mark Ruffalo. ",
+      "Box office grosses in million U.S. dollars at Month Samuel L. Jackson is 7107.8 , second place is Robert Downey Jr. at 5818.8, and thirdly is Scarlett Johannsson at 5244.1.",
+      "Overall Box office grosses in million U.S. dollars has lowered over the Months. ",
+      "The lowest value 3764.7 at Mark Ruffalo is almost 1.58 times smaller than the average value 4500.83. ",
+      "The Box office grosses in million U.S. dollars is 90016.5 if we add up values of all Months. "
    ],
    "trends": [
       {},

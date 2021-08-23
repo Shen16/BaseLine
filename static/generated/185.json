@@ -11,9 +11,9 @@
    "summaryType": "baseline",
    "summary": [
       "This grouped bar chart represents 4 different Countrys on X-axis for 3 groups 1-2 physicians, 3-6 physicians, and 7 or more physicians. On the Y-axis it shows their corresponding Number of new patients. ",
-      " Country South had the maximum Number of new patients among all 3 groups, and it was for 7 or more physicians. The minimum Number of new patients was observed in Country West for 1-2 physicians. ",
-      " Among all the Countrys, 7 or more physicians had the highest Number of new patients in Country South and lowest Number of new patients in Country Northeast. ",
-      " There is a gap of 35.0 between the highest and lowest Number of new patients found for 7 or more physicians in Country South and Northeast. "
+      " Out of all 3 groups, 7 or more physicians had the highest Number of new patients in Country South and 1-2 physicians had the lowest Number of new patients in Country West. ",
+      " In Country West, 3-6 physicians had the maximum Number of new patients and it saw the lowest in Country South out of all 4 Countrys. ",
+      "Country West and South had the biggest gap of 17.0 between the highest and lowest Number of new patients found for 3-6 physicians. "
    ],
    "xAxis": "Country",
    "yAxis": "Number of new patients",
@@ -23,18 +23,18 @@
    ],
    "mid_summary": [
       "This grouped bar chart represents 4 different Countrys on X-axis for 3 groups 1-2 physicians, 3-6 physicians, and 7 or more physicians. On the Y-axis it shows their corresponding Number of new patients. ",
-      " Country South had the maximum Number of new patients among all 3 groups, and it was for 7 or more physicians. The minimum Number of new patients was observed in Country West for 1-2 physicians. ",
-      " Among all the Countrys, 7 or more physicians had the highest Number of new patients in Country South and lowest Number of new patients in Country Northeast. ",
-      " There is a gap of 35.0 between the highest and lowest Number of new patients found for 7 or more physicians in Country South and Northeast. "
+      " Out of all 3 groups, 7 or more physicians had the highest Number of new patients in Country South and 1-2 physicians had the lowest Number of new patients in Country West. ",
+      " In Country West, 3-6 physicians had the maximum Number of new patients and it saw the lowest in Country South out of all 4 Countrys. ",
+      "Country West and South had the biggest gap of 17.0 between the highest and lowest Number of new patients found for 3-6 physicians. "
    ],
    "max_summary": [
       "This grouped bar chart represents 4 different Countrys on X-axis for 3 groups 1-2 physicians, 3-6 physicians, and 7 or more physicians. On the Y-axis it shows their corresponding Number of new patients. ",
-      " Country South had the maximum Number of new patients among all 3 groups, and it was for 7 or more physicians. The minimum Number of new patients was observed in Country West for 1-2 physicians. ",
-      " In Country South, 7 or more physicians had the highest Number of new patients among all 4 Countrys and it has the lowest Number of new patients in Country Northeast. ",
-      "Country South and Northeast had the biggest gap of 35.0 between the highest and lowest Number of new patients found for 7 or more physicians. ",
-      " Among the groups, 1-2 physicians had the biggest difference in Number of new patients. Where the maximum Number of new patients was 2.46 times larger than the minimum Number of new patients. ",
-      " 7 or more physicians had the maximum Number of new patients out of all 3 groups in Country South followed by 7 or more physicians in South, and the minimum Number of new patients is found for 1-2 physicians in West. ",
-      "On average, the Country South had the highest Number of new patients for all 3 groups 1-2 physicians, 3-6 physicians, and 7 or more physicians. Whereas Northeast had the lowest average Number of new patients. "
+      " Out of all 3 groups, 7 or more physicians had the highest Number of new patients in Country South and 1-2 physicians had the lowest Number of new patients in Country West. ",
+      " In Country West, 3-6 physicians had the highest Number of new patients among all 4 Countrys and it has the lowest Number of new patients in Country South. ",
+      " The maximum Number of new patients for 3-6 physicians that was found in Country West was 1.59 times larger than the minimum Number of new patients observed in Country South. ",
+      " Out of all 3 groups, the highest gap between the maximum and minimum Number of new patients was found in case of 1-2 physicians. ",
+      " In Country South, 7 or more physicians had the highest Number of new patients 75.0 among the 3 groups and in West, 1-2 physicians had the lowest Number of new patients 24.0. The second highest Number of new patients 59.0 was observed for 7 or more physicians in Country South. ",
+      "Averaging all 3 groups 1-2 physicians, 3-6 physicians, and 7 or more physicians, the Country South is the maximum Number of new patients and Northeast is the minimum Number of new patients. "
    ],
    "trends": [
       {},

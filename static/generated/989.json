@@ -6,27 +6,27 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 10 columns on the x axis representing DNS names, and Share of global TLD in each DNS names on the y axis. ",
+      "This is a bar chart representing DNS names in the x axis and Share of global TLD in the y axis. ",
       "DNS names .com has the highest Share of global TLD and .au has the lowest Share of global TLD. ",
-      "There is a difference of 46.7 between the maximum DNS names .com and minimum DNS names .au. "
+      "The Share of global TLD of DNS names .au is 36.92% smaller than the maximum value at .com. "
    ],
    "min_summary": [
-      "This is a bar chart. It shows Share of global TLD for 10 number of DNS namess. ",
+      "This bar chart has 10 columns on the x axis representing DNS names, and Share of global TLD in each DNS names on the y axis. ",
       "DNS names .com has the highest Share of global TLD and .au has the lowest Share of global TLD. "
    ],
    "mid_summary": [
-      "This bar chart has 10 columns on the x axis representing DNS names, and Share of global TLD in each DNS names on the y axis. ",
+      "This is a bar chart representing DNS names in the x axis and Share of global TLD in the y axis. ",
       "DNS names .com has the highest Share of global TLD and .au has the lowest Share of global TLD. ",
-      "There is a difference of 46.7 between the maximum DNS names .com and minimum DNS names .au. "
+      "The Share of global TLD of DNS names .au is 36.92% smaller than the maximum value at .com. "
    ],
    "max_summary": [
-      "This is a bar chart representing DNS names in the x axis and Share of global TLD in the y axis. ",
-      "The maximum Share of global TLD 48.0 is found at DNS names .com and the minimum is found at .au where DNS names is 1.3. ",
-      "The lowest value at DNS names .au is 36.92x times less than the highest value at .com. ",
-      "Share of global TLD at DNS names .com is 48.0 , second place is .ru at 5.2, and thirdly is .org at 4.9.",
-      "Similar Share of global TLD is found in DNS names .au, and .jp. ",
-      "The DNS names .au has 6.66 times less Share of global TLD than average. ",
-      "The Share of global TLD is 72.1 if we add up values of all DNS namess. "
+      "This is a bar chart. It shows Share of global TLD for 10 number of DNS namess. ",
+      "The Share of global TLD is highest at DNS names .com and lowest at DNS names .au. ",
+      "Second maximum Share of global TLD is found at DNS names .ru. ",
+      "There is a difference of 46.7 between the maximum DNS names .com and minimum DNS names .au. ",
+      "DNS names .com is higher than any other DNS namess with value 48.0, followed by .ru, and .org. Down to DNS names .au with the lowest value 1.3. ",
+      "DNS names .au, and .jp share the same value 1.3. ",
+      "The lowest value 1.3 at .au is almost 6.66 times smaller than the average value 7.21. "
    ],
    "trends": [
       {},

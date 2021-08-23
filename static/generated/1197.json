@@ -10,78 +10,62 @@
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "You are viewing a chart of multi-line type with 3 lines denoting 0-14 years, 15-64 years, and 65 years and older. The y axis indicates the SOME LABEL and the x axis indicates Year.",
       "Overall 0-14 years, 15-64 years, and 65 years and older are roughly constant,  throughout the Year",
-      "The lines ordered according to average values of SOME LABEL in descending order is: 1. 15-64 years, 2. 0-14 years, and lastly, 3. 65 years and older. ",
-      "Throughout the period, 15-64 years generally had the highest SOME LABEL relative to others with an average of 49.73, and it reached its maximum at 2018 with a value of 51.13.",
-      "After 15-64 years, 0-14 years overall has the second highest values , with a mean value of 48.3, peaking at 2008. ",
-      "The botommost line, 65 years and older,  has a mean of 1.89, and peaked at 2018. "
+      "The ranking of the lines from topmost to botommmost is as follows: 1. 0-14 years, 2. 15-64 years, and lastly, 3. 65 years and older. ",
+      "65 years and older reported the lowest SOME LABEL about 1.87 in Year 2010"
    ],
    "xAxis": "Year",
    "yAxis": "SOME LABEL",
    "min_summary": [
-      "The given chart is of multi-line type with 3 lines namely 0-14 years, 15-64 years, and 65 years and older. The y axis represents SOME LABEL and the x axis represents Year.",
-      "Overall 0-14 years, 15-64 years, and 65 years and older are roughly constant,  throughout the Year",
-      "Overall across the Year, 15-64 years mostly maintained the highest SOME LABEL when compared to others with a mean value of 49.73, and it peaked at 2018.",
-      "Followed by 0-14 years which ranks as the second topmpost line , with an average of 48.3 SOME LABEL,reaching its highest point  at 2008 with a value of 49.4. ",
-      "The botommost line, 65 years and older,  has a mean of 1.89, and peaked at 2018. "
+      "Overall 0-14 years, 15-64 years, and 65 years and older are roughly constant,  throughout the Year"
    ],
    "mid_summary": [
-      "The given chart is of multi-line type with 3 lines namely 0-14 years, 15-64 years, and 65 years and older. The y axis represents SOME LABEL and the x axis represents Year.",
-      "Overall 0-14 years, 15-64 years, and 65 years and older are roughly constant,  throughout the Year",
-      "The ranking of the lines from topmost to botommmost is as follows: 1. 15-64 years, 2. 0-14 years, and lastly, 3. 65 years and older. ",
-      "Throughout the period, 15-64 years generally had the highest SOME LABEL relative to others with an average of 49.73, and it reached its maximum at 2018 with a value of 51.13.",
-      "Followed by 0-14 years which ranks as the second topmpost line , with an average of 48.3 SOME LABEL,reaching its highest point  at 2008 with a value of 49.4. ",
-      "65 years and older mostly had the least SOME LABEL with a mean value of 1.89, which peaked at 2018 with a value of 1.94. "
+      "Overall 0-14 years, 15-64 years, and 65 years and older are roughly constant,  throughout the Year"
    ],
    "max_summary": [
-      "This is a multi-line chart with 3 lines representing 0-14 years, 15-64 years, and 65 years and older. The y axis denotes SOME LABEL and the x axis denotes Year.",
       "Overall 0-14 years, 15-64 years, and 65 years and older are roughly constant,  throughout the Year",
-      "The lines ordered according to average values of SOME LABEL in descending order is: 1. 15-64 years, 2. 0-14 years, and lastly, 3. 65 years and older. ",
-      "Throughout the period, 15-64 years generally had the highest SOME LABEL relative to others with an average of 49.73, and it reached its maximum at 2018 with a value of 51.13.",
-      "After 15-64 years, 0-14 years overall has the second highest values , with a mean value of 48.3, peaking at 2008. ",
-      "65 years and older mostly had the least SOME LABEL with a mean value of 1.89, which peaked at 2018 with a value of 1.94. "
+      "65 years and older reported the lowest SOME LABEL about 1.87 in Year 2010"
    ],
    "trends": [
       {},
       {
          "2": [
             "0",
-            "1"
+            "0"
          ],
          "16": [
             "10",
-            "1"
+            "0"
          ]
       },
       {
          "1": [
             "0",
-            "1"
+            "0"
          ],
          "9": [
             "0",
-            "1"
+            "0"
          ]
       },
       {
          "2": [
             "0",
-            "0"
+            "1"
          ],
          "15": [
             "10",
-            "0"
+            "1"
          ]
       },
       {
          "1": [
-            "10",
-            "0"
+            "2",
+            "1"
          ],
          "10": [
-            "10",
-            "0"
+            "2",
+            "1"
          ]
       }
    ],

@@ -10,28 +10,28 @@
    "summaryType": "baseline",
    "summary": [
       "This grouped bar chart represents 20 different Responses on X-axis for 2 groups 2012, and 2013. On the Y-axis it shows their corresponding SOME LABEL. ",
-      " Response Hayat had the maximum SOME LABEL among all 2 groups, and it was for 2012. The minimum SOME LABEL was observed in Response Volvic for 2012. ",
-      " In Response Erikli, 2013 had the maximum SOME LABEL and it saw the lowest in Response Volvic out of all 20 Responses. ",
-      "Response Erikli and Volvic had the biggest gap of 28.0 between the highest and lowest SOME LABEL found for 2013. "
+      " Out of all 2 groups, 2012 had the highest SOME LABEL in Response Hayat and 2012 had the lowest SOME LABEL in Response Volvic. ",
+      " In Response Hayat, 2012 had the maximum SOME LABEL and it saw the lowest in Response Volvic out of all 20 Responses. ",
+      " The maximum SOME LABEL for 2012 that was found in Response Hayat was 48.0 times larger than the minimum SOME LABEL observed in Response Volvic. "
    ],
    "xAxis": "Response",
    "yAxis": "SOME LABEL",
    "min_summary": [
       "This grouped bar chart represents 20 different Responses on X-axis for 2 groups 2012, and 2013. On the Y-axis it shows their corresponding SOME LABEL. ",
-      " Out of all 2 groups, 2012 had the highest SOME LABEL in Response Hayat and 2012 had the lowest SOME LABEL in Response Volvic. "
+      " In Response Hayat, 2012 had the highest SOME LABEL 48.0 among the 2 groups and in Volvic, 2012 had the lowest SOME LABEL 0.0. "
    ],
    "mid_summary": [
       "This grouped bar chart represents 20 different Responses on X-axis for 2 groups 2012, and 2013. On the Y-axis it shows their corresponding SOME LABEL. ",
-      " Response Hayat had the maximum SOME LABEL among all 2 groups, and it was for 2012. The minimum SOME LABEL was observed in Response Volvic for 2012. ",
-      " In Response Erikli, 2013 had the maximum SOME LABEL and it saw the lowest in Response Volvic out of all 20 Responses. ",
-      "Response Erikli and Volvic had the biggest gap of 28.0 between the highest and lowest SOME LABEL found for 2013. "
+      " Out of all 2 groups, 2012 had the highest SOME LABEL in Response Hayat and 2012 had the lowest SOME LABEL in Response Volvic. ",
+      " In Response Hayat, 2012 had the maximum SOME LABEL and it saw the lowest in Response Volvic out of all 20 Responses. ",
+      " The maximum SOME LABEL for 2012 that was found in Response Hayat was 48.0 times larger than the minimum SOME LABEL observed in Response Volvic. "
    ],
    "max_summary": [
-      "This grouped bar chart shows SOME LABEL on the Y-axis for 20 different Responses for 2 groups 2012, and 2013 that are presented on the X-axis. ",
-      " Out of all 2 groups, 2012 had the highest SOME LABEL in Response Hayat and 2012 had the lowest SOME LABEL in Response Volvic. ",
-      " Among all the Responses, 2013 had the highest SOME LABEL 28.0 in Response Erikli and lowest value 0.0 in Response Volvic. ",
-      " There is a gap of 28.0 between the highest and lowest SOME LABEL found for 2013 in Response Erikli and Volvic. ",
-      " Among all 2 groups, 2012 had the gap of 48.0 between the maximum and minimum SOME LABEL observed in Response Hayat and Volvic respectively. ",
+      "This grouped bar chart represents 20 different Responses on X-axis for 2 groups 2012, and 2013. On the Y-axis it shows their corresponding SOME LABEL. ",
+      " In Response Hayat, 2012 had the highest SOME LABEL 48.0 among the 2 groups and in Volvic, 2012 had the lowest SOME LABEL 0.0. ",
+      " Among all the Responses, 2012 had the highest SOME LABEL in Response Hayat and lowest SOME LABEL in Response Volvic. ",
+      "Response Hayat and Volvic had the biggest gap of 47.0 between the highest and lowest SOME LABEL found for 2012. ",
+      " Among the groups, 2012 had the biggest difference in SOME LABEL. Where the maximum SOME LABEL was 48.0 times larger than the minimum SOME LABEL. ",
       "Averaging all 2 groups 2012, and 2013, the Response Hayat is the maximum SOME LABEL and Buxton is the minimum SOME LABEL. "
    ],
    "trends": [

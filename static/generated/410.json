@@ -6,27 +6,27 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 10 columns on the x axis representing Age group, and Share of respondents in each Age group on the y axis. ",
+      "This is a bar chart. It shows Share of respondents for 10 number of Age groups. ",
       "The Share of respondents is appeared to be the highest at Age group 25-29 and lowest at Age group 14-15. ",
-      "Age group 25-29 has 6.85 times more Share of respondents than Age group 14-15 which is has the lowest. "
+      "The highest Age group 25-29 has 76.0 more Share of respondents than the lowest Age group 14-15. "
    ],
    "min_summary": [
-      "This bar chart has 10 columns on the x axis representing Age group, and Share of respondents in each Age group on the y axis. ",
-      "Age group 25-29 has the highest Share of respondents and 14-15 has the lowest Share of respondents. "
+      "This is a bar chart. It shows Share of respondents for 10 number of Age groups. ",
+      "The maximum Share of respondents 89.0 is found at Age group 25-29 and the minimum is found at 14-15 where Age group is 13.0. "
    ],
    "mid_summary": [
-      "This bar chart has 10 columns on the x axis representing Age group, and Share of respondents in each Age group on the y axis. ",
+      "This is a bar chart. It shows Share of respondents for 10 number of Age groups. ",
       "The Share of respondents is appeared to be the highest at Age group 25-29 and lowest at Age group 14-15. ",
-      "Age group 25-29 has 6.85 times more Share of respondents than Age group 14-15 which is has the lowest. "
+      "The highest Age group 25-29 has 76.0 more Share of respondents than the lowest Age group 14-15. "
    ],
    "max_summary": [
-      "This is a bar chart. It shows Share of respondents for 10 number of Age groups. ",
-      "The maximum Share of respondents 89.0 is found at Age group 25-29 and the minimum is found at 14-15 where Age group is 13.0. ",
-      "The second highest Share of respondents is appeared to be the Age group 40-49. ",
-      "There is a difference of 76.0 between the maximum Age group 25-29 and minimum Age group 14-15. ",
+      "This bar chart has 10 columns on the x axis representing Age group, and Share of respondents in each Age group on the y axis. ",
+      "Age group 25-29 has the highest Share of respondents and 14-15 has the lowest Share of respondents. ",
+      "Second maximum Share of respondents is found at Age group 40-49. ",
+      "The highest Age group 25-29 has 76.0 more Share of respondents than the lowest Age group 14-15. ",
       "The Age group 25-29 has the highest Share of respondents, followed by 40-49, and 50-59. Down to the Age group 14-15 which is the lowest. ",
       "Similar Share of respondents is found in Age group 30-39, and 50-59. ",
-      "The Age group 14-15 tends to be 1.41 percent lower than average. "
+      "The lowest value 13.0 at 14-15 is almost 1.41 times smaller than the average value 62.9. "
    ],
    "trends": [
       {},

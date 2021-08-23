@@ -10,29 +10,29 @@
    "summaryType": "baseline",
    "summary": [
       "This grouped bar chart shows SOME LABEL on the Y-axis for 17 different Models for 2 groups 2019, and 2018 that are presented on the X-axis. ",
-      " In Model Tesla Model 3, 2019 had the highest SOME LABEL 161100.0 among the 2 groups and in Acura RLX, 2019 had the lowest SOME LABEL 1019.0. ",
-      " In Model Tesla Model 3, 2019 had the highest SOME LABEL among all 17 Models and it has the lowest SOME LABEL in Model Acura RLX. ",
-      "Model Tesla Model 3 and Acura RLX had the biggest gap of 160081.0 between the highest and lowest SOME LABEL found for 2019. "
+      " Out of all 2 groups, 2019 had the highest SOME LABEL in Model Tesla Model 3 and 2019 had the lowest SOME LABEL in Model Acura RLX. ",
+      " In Model Tesla Model 3, 2018 had the highest SOME LABEL among all 17 Models and it has the lowest SOME LABEL in Model Acura RLX. ",
+      " There is a gap of 138386.0 between the highest and lowest SOME LABEL found for 2018 in Model Tesla Model 3 and Acura RLX. "
    ],
    "xAxis": "Model",
    "yAxis": "SOME LABEL",
    "min_summary": [
-      "This grouped bar chart shows SOME LABEL on the Y-axis for 17 different Models for 2 groups 2019, and 2018 that are presented on the X-axis. ",
+      "This grouped bar chart represents 17 different Models on X-axis for 2 groups 2019, and 2018. On the Y-axis it shows their corresponding SOME LABEL. ",
       " In Model Tesla Model 3, 2019 had the highest SOME LABEL 161100.0 among the 2 groups and in Acura RLX, 2019 had the lowest SOME LABEL 1019.0. "
    ],
    "mid_summary": [
       "This grouped bar chart shows SOME LABEL on the Y-axis for 17 different Models for 2 groups 2019, and 2018 that are presented on the X-axis. ",
-      " In Model Tesla Model 3, 2019 had the highest SOME LABEL 161100.0 among the 2 groups and in Acura RLX, 2019 had the lowest SOME LABEL 1019.0. ",
-      " In Model Tesla Model 3, 2019 had the highest SOME LABEL among all 17 Models and it has the lowest SOME LABEL in Model Acura RLX. ",
-      "Model Tesla Model 3 and Acura RLX had the biggest gap of 160081.0 between the highest and lowest SOME LABEL found for 2019. "
+      " Out of all 2 groups, 2019 had the highest SOME LABEL in Model Tesla Model 3 and 2019 had the lowest SOME LABEL in Model Acura RLX. ",
+      " In Model Tesla Model 3, 2018 had the highest SOME LABEL among all 17 Models and it has the lowest SOME LABEL in Model Acura RLX. ",
+      " There is a gap of 138386.0 between the highest and lowest SOME LABEL found for 2018 in Model Tesla Model 3 and Acura RLX. "
    ],
    "max_summary": [
-      "This grouped bar chart shows SOME LABEL on the Y-axis for 17 different Models for 2 groups 2019, and 2018 that are presented on the X-axis. ",
-      " Out of all 2 groups, 2019 had the highest SOME LABEL in Model Tesla Model 3 and 2019 had the lowest SOME LABEL in Model Acura RLX. ",
-      " In Model Tesla Model 3, 2019 had the maximum SOME LABEL and it saw the lowest in Model Acura RLX out of all 17 Models. ",
-      " There is a gap of 160081.0 between the highest and lowest SOME LABEL found for 2019 in Model Tesla Model 3 and Acura RLX. ",
-      " Among all 2 groups, 2019 had the gap of 160081.0 between the maximum and minimum SOME LABEL observed in Model Tesla Model 3 and Acura RLX respectively. ",
-      "Averaging all 2 groups 2019, and 2018, the Model Tesla Model 3 is the maximum SOME LABEL and Acura RLX is the minimum SOME LABEL. "
+      "This grouped bar chart represents 17 different Models on X-axis for 2 groups 2019, and 2018. On the Y-axis it shows their corresponding SOME LABEL. ",
+      " In Model Tesla Model 3, 2019 had the highest SOME LABEL 161100.0 among the 2 groups and in Acura RLX, 2019 had the lowest SOME LABEL 1019.0. ",
+      " In Model Tesla Model 3, 2018 had the maximum SOME LABEL and it saw the lowest in Model Acura RLX out of all 17 Models. ",
+      " There is a gap of 138386.0 between the highest and lowest SOME LABEL found for 2018 in Model Tesla Model 3 and Acura RLX. ",
+      " Out of all 2 groups, the highest gap between the maximum and minimum SOME LABEL was found in case of 2019. ",
+      "On average, the Model Tesla Model 3 had the highest SOME LABEL for all 2 groups 2019, and 2018. Whereas Acura RLX had the lowest average SOME LABEL. "
    ],
    "trends": [
       {},

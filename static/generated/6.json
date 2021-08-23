@@ -6,27 +6,28 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 17 columns on the x axis representing Month, and Market share in each Month on the y axis. ",
+      "This is a bar chart representing Month in the x axis and Market share in the y axis. ",
       "The Market share is highest at Month Sep 18 and lowest at Month Aug 18. ",
       "The difference of Market share between the highest and lowest Month is 2.6. "
    ],
    "min_summary": [
-      "This is a bar chart. It shows Market share for 17 number of Months. ",
-      "The maximum Market share 7.2 is found at Month Sep 18 and the minimum is found at Aug 18 where Month is 4.6. "
+      "This bar chart has 17 columns on the x axis representing Month, and Market share in each Month on the y axis. ",
+      "Month Sep 18 has the highest Market share and Aug 18 has the lowest Market share. "
    ],
    "mid_summary": [
-      "This bar chart has 17 columns on the x axis representing Month, and Market share in each Month on the y axis. ",
+      "This is a bar chart representing Month in the x axis and Market share in the y axis. ",
       "The Market share is highest at Month Sep 18 and lowest at Month Aug 18. ",
       "The difference of Market share between the highest and lowest Month is 2.6. "
    ],
    "max_summary": [
-      "This bar chart has 17 columns on the x axis representing Month, and Market share in each Month on the y axis. ",
-      "The maximum Market share 7.2 is found at Month Sep 18 and the minimum is found at Aug 18 where Month is 4.6. ",
-      "The difference of Market share between the highest and lowest Month is 2.6. ",
-      "The Month Sep 18 has the highest Market share, followed by Sep 19, and Oct 18. Down to the Month Aug 18 which is the lowest. ",
+      "This is a bar chart representing Month in the x axis and Market share in the y axis. ",
+      "The Market share is highest at Month Sep 18 and lowest at Month Aug 18. ",
+      "The second highest Market share is appeared to be the Month Sep 19. ",
+      "Month Sep 18 has 1.57 times more Market share than Month Aug 18 which is has the lowest. ",
+      "Month Sep 18 is higher than any other Months with value 7.2, followed by Sep 19, and Oct 18. Down to Month Aug 18 with the lowest value 4.6. ",
       "Over the past 17 Months, the Market share has reduced. ",
       "Month May 19, Feb 19, and Jan 19 have a similar Market share that is 5.3. ",
-      "The average Market share in all 17 Months is 5.85. "
+      "Considered together, the average Market share in all 17 Months is roughly 5.85. "
    ],
    "trends": [
       {},

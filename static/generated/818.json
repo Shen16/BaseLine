@@ -12,32 +12,32 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart represents SOME LABEL on the Y-axis. And, its value throughout 12 Months for 2015, 2016, 2017, 2018, and 2019. ",
-      " Over the 12 Months, the SOME LABEL for both 2017 and 2016 have declined. ",
-      " In Month May, 2018 had the highest SOME LABEL 1359.0 among the 5 groups and in Feb, 2016 had the lowest SOME LABEL 867.0. ",
-      " In Month Nov, 2017 had the highest SOME LABEL among all 12 Months and it has the lowest SOME LABEL in Month Mar. "
+      "This grouped bar chart represents SOME LABEL on the Y-axis. And, how the value changed throughout 12 Months for 2015, 2016, 2017, 2018, and 2019. ",
+      " Over the 12 Months, the SOME LABEL for 2019 have been decreased whereas increased for 2018. ",
+      " Out of all 5 groups, 2018 had the highest SOME LABEL in Month May and 2016 had the lowest SOME LABEL in Month Feb. ",
+      " Among all the Months, 2019 had the highest SOME LABEL 1307.0 in Month May and lowest value 1031.0 in Month Jan. "
    ],
    "xAxis": "Month",
    "yAxis": "SOME LABEL",
    "min_summary": [
-      "This grouped bar chart represents SOME LABEL on the Y-axis. And, its value throughout 12 Months for 2015, 2016, 2017, 2018, and 2019. ",
-      " Over the 12 Months, the SOME LABEL for both 2017 and 2016 have declined. "
+      "This is a grouped bar chart showing SOME LABEL on the Y-axis throughout 12 Months for 2015, 2016, 2017, 2018, and 2019 on the X-axis. ",
+      " Over the 12 Months, the SOME LABEL for 2019 have been decreased whereas increased for 2018. "
    ],
    "mid_summary": [
-      "This grouped bar chart represents SOME LABEL on the Y-axis. And, its value throughout 12 Months for 2015, 2016, 2017, 2018, and 2019. ",
-      " Over the 12 Months, the SOME LABEL for both 2017 and 2016 have declined. ",
-      " In Month May, 2018 had the highest SOME LABEL 1359.0 among the 5 groups and in Feb, 2016 had the lowest SOME LABEL 867.0. ",
-      " In Month Nov, 2017 had the highest SOME LABEL among all 12 Months and it has the lowest SOME LABEL in Month Mar. "
+      "This grouped bar chart represents SOME LABEL on the Y-axis. And, how the value changed throughout 12 Months for 2015, 2016, 2017, 2018, and 2019. ",
+      " Over the 12 Months, the SOME LABEL for 2019 have been decreased whereas increased for 2018. ",
+      " Out of all 5 groups, 2018 had the highest SOME LABEL in Month May and 2016 had the lowest SOME LABEL in Month Feb. ",
+      " Among all the Months, 2019 had the highest SOME LABEL 1307.0 in Month May and lowest value 1031.0 in Month Jan. "
    ],
    "max_summary": [
       "This grouped bar chart represents SOME LABEL on the Y-axis. And, how the value changed throughout 12 Months for 2015, 2016, 2017, 2018, and 2019. ",
-      " Over the 12 Months, the SOME LABEL for both 2017 and 2016 have declined. ",
-      " Month May had the maximum SOME LABEL among all 5 groups, and it was for 2018. The minimum SOME LABEL was observed in Month Feb for 2016. ",
-      " In Month Nov, 2017 had the highest SOME LABEL among all 12 Months and it has the lowest SOME LABEL in Month Mar. ",
-      " There is a gap of 148.0 between the highest and lowest SOME LABEL found for 2017 in Month Nov and Mar. ",
-      " Among the groups, 2018 had the biggest difference in SOME LABEL. Where the maximum SOME LABEL was 1.28 times larger than the minimum SOME LABEL. ",
+      " Over the 12 Months, the SOME LABEL for 2019 have been decreased whereas increased for 2018. ",
+      " In Month May, 2018 had the highest SOME LABEL 1359.0 among the 5 groups and in Feb, 2016 had the lowest SOME LABEL 867.0. ",
+      " Among all the Months, 2019 had the highest SOME LABEL in Month May and lowest SOME LABEL in Month Jan. ",
+      "Month May and Jan had the biggest gap of 276.0 between the highest and lowest SOME LABEL found for 2019. ",
+      " Among all 5 groups, 2018 had the gap of 295.0 between the maximum and minimum SOME LABEL observed in Month May and Dec respectively. ",
       " 2018 had the maximum SOME LABEL out of all 5 groups in Month May followed by 2018 in May, and the minimum SOME LABEL is found for 2016 in Feb. ",
-      "Averaging all 5 groups 2015, 2016, 2017, 2018, and 2019, the Month May is the maximum SOME LABEL and Feb is the minimum SOME LABEL. "
+      "On average, the Month May had the highest SOME LABEL for all 5 groups 2015, 2016, 2017, 2018, and 2019. Whereas Feb had the lowest average SOME LABEL. "
    ],
    "trends": [
       {},

@@ -12,7 +12,7 @@
    ],
    "min_summary": [
       "This is a bar chart representing State in the x axis and Number of hashtagged posts in millions in the y axis. ",
-      "The Number of hashtagged posts in millions is highest at State London and lowest at State Bangkok. "
+      "The maximum Number of hashtagged posts in millions 88.78 is found at State London and the minimum is found at Bangkok where State is 17.66. "
    ],
    "mid_summary": [
       "This is a bar chart. It shows Number of hashtagged posts in millions for 20 number of States. ",
@@ -21,11 +21,12 @@
    ],
    "max_summary": [
       "This bar chart has 20 columns on the x axis representing State, and Number of hashtagged posts in millions in each State on the y axis. ",
-      "The Number of hashtagged posts in millions is highest at State London and lowest at State Bangkok. ",
-      "The highest State London has 71.12 more Number of hashtagged posts in millions than the lowest State Bangkok. ",
-      "Number of hashtagged posts in millions at State London is 88.78 , second place is New York at 88.51, and thirdly is Paris at 75.01.",
-      "Considered together, the average Number of hashtagged posts in millions in all 20 States is roughly 38.42. ",
-      "The Number of hashtagged posts in millions is 768.45 if we add up values of all States. "
+      "The Number of hashtagged posts in millions is appeared to be the highest at State London and lowest at State Bangkok. ",
+      "Second maximum Number of hashtagged posts in millions is found at State New York. ",
+      "The maximum State London has got 5.03 times higher Number of hashtagged posts in millions than the minimum State Bangkok. ",
+      "The State London has the highest Number of hashtagged posts in millions, followed by New York, and Paris. Down to the State Bangkok which is the lowest. ",
+      "The average Number of hashtagged posts in millions in all 20 States is 38.42. ",
+      "Summing up the values of all States, we get total 768.45. "
    ],
    "trends": [
       {},

@@ -6,31 +6,31 @@
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This is a line chart with an x axis representing Year and a y axis representing Sales in thousand units, containing a total of 15 data points.",
-      " In general Sales in thousand units has rose over the Year.",
+      " Overall Sales in thousand units has increased over the Year.",
+      "Sales in thousand units is roughly constant from 2005 to 2008, slightly decreasing from 2008 to 2009, rapidly increasing from 2009 to 2011, and finally roughly constant from 2011 to 2012.",
       "The line rapidly increased by 101.67% from Year 2009 to 2010.",
-      "The most drastic increase took place within the Year 2016 and 2017.",
-      "Maximum Sales in thousand units, about 384.0 was reported at Year 2018",
-      "Minimum Sales in thousand units about 60.0 was reached at Year 2009"
+      "The steepest increase occurs in between the Year 2009 and 2010.",
+      "The highest Sales in thousand units, of value 166.0 was reached at Year 2011",
+      "The lowest Sales in thousand units, of value 60.0 was reported at Year 2009"
    ],
    "min_summary": [
-      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Sales in thousand units. In total the number of data points it has is 15.",
-      " In general Sales in thousand units has rose over the Year."
+      " In general Sales in thousand units has rose over the Year.",
+      "Sales in thousand units is roughly constant from 2005 to 2008, slightly decreasing from 2008 to 2009, rapidly increasing from 2009 to 2011, and finally roughly constant from 2011 to 2012."
    ],
    "mid_summary": [
-      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Sales in thousand units. In total the number of data points it has is 15.",
       " Overall Sales in thousand units has increased over the Year.",
-      "The most drastic increase took place within the Year 2016 and 2017.",
-      "Maximum Sales in thousand units, about 384.0 was reported at Year 2018",
-      "Minimum Sales in thousand units about 60.0 was reached at Year 2009"
+      "Sales in thousand units is roughly constant from 2005 to 2008, slightly decreasing from 2008 to 2009, rapidly increasing from 2009 to 2011, and finally roughly constant from 2011 to 2012.",
+      "The steepest increase occurs in between the Year 2009 and 2010.",
+      "The highest Sales in thousand units, of value 166.0 was reached at Year 2011",
+      "The lowest Sales in thousand units, of value 60.0 was reported at Year 2009"
    ],
    "max_summary": [
-      "This is a line chart with an x axis representing Year and a y axis representing Sales in thousand units, containing a total of 15 data points.",
       " Overall Sales in thousand units has increased over the Year.",
-      "The steepest increase occurs in between the Year 2016 and 2017.",
-      "Maximum Sales in thousand units, about 384.0 was reported at Year 2018",
-      "Minimum Sales in thousand units about 60.0 was reached at Year 2009",
-      "The line significantly increased by 61.0 from Year 2009 to 2010."
+      "Sales in thousand units is roughly constant from 2005 to 2008, slightly decreasing from 2008 to 2009, rapidly increasing from 2009 to 2011, and finally roughly constant from 2011 to 2012.",
+      "The most drastic increase took place within the Year 2009 and 2010.",
+      "The highest Sales in thousand units, of value 166.0 was reached at Year 2011",
+      "The lowest Sales in thousand units, of value 60.0 was reported at Year 2009",
+      "The line rapidly increased by 101.67% from Year 2009 to 2010."
    ],
    "trends": [],
    "data": [

@@ -6,26 +6,27 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This is a bar chart representing Streaming Device in the x axis and Market share in the y axis. ",
+      "This bar chart has 5 columns on the x axis representing Streaming Device, and Market share in each Streaming Device on the y axis. ",
       "Streaming Device Apple TV has the highest Market share and Tivo has the lowest Market share. ",
-      "The highest Streaming Device Apple TV has 37.0 more Market share than the lowest Streaming Device Tivo. "
+      "The difference of Market share between the highest and lowest Streaming Device is 37.0. "
    ],
    "min_summary": [
-      "This is a bar chart representing Streaming Device in the x axis and Market share in the y axis. ",
-      "The maximum Market share 43.0 is found at Streaming Device Apple TV and the minimum is found at Tivo where Streaming Device is 6.0. "
+      "This is a bar chart. It shows Market share for 5 number of Streaming Devices. ",
+      "The Market share is highest at Streaming Device Apple TV and lowest at Streaming Device Tivo. "
    ],
    "mid_summary": [
-      "This is a bar chart representing Streaming Device in the x axis and Market share in the y axis. ",
+      "This bar chart has 5 columns on the x axis representing Streaming Device, and Market share in each Streaming Device on the y axis. ",
       "Streaming Device Apple TV has the highest Market share and Tivo has the lowest Market share. ",
-      "The highest Streaming Device Apple TV has 37.0 more Market share than the lowest Streaming Device Tivo. "
+      "The difference of Market share between the highest and lowest Streaming Device is 37.0. "
    ],
    "max_summary": [
-      "This is a bar chart representing Streaming Device in the x axis and Market share in the y axis. ",
-      "The maximum Market share 43.0 is found at Streaming Device Apple TV and the minimum is found at Tivo where Streaming Device is 6.0. ",
-      "Streaming Device Roku has the second highest value for Market share. ",
-      "The Market share of Streaming Device Tivo is 7.17% smaller than the maximum value at Apple TV. ",
+      "This is a bar chart. It shows Market share for 5 number of Streaming Devices. ",
+      "Streaming Device Apple TV has the highest Market share and Tivo has the lowest Market share. ",
+      "The second highest Market share is appeared to be the Streaming Device Roku. ",
+      "The highest Streaming Device Apple TV has 37.0 more Market share than the lowest Streaming Device Tivo. ",
       "Market share at Streaming Device Apple TV is 43.0 , second place is Roku at 24.0, and thirdly is Chromecast at 14.0.",
-      "The lowest value 6.0 at Tivo is almost 2.15 times smaller than the average value 20.0. "
+      "The Streaming Device Tivo has 2.15 times less Market share than average. ",
+      "The Market share is 100.0 if we add up values of all Streaming Devices. "
    ],
    "trends": [
       {},

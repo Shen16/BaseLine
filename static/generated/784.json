@@ -7,25 +7,25 @@
    "summaryType": "baseline",
    "summary": [
       "This is a bar chart representing Category in the x axis and Costs in U.S. dollars in the y axis. ",
-      "The Costs in U.S. dollars is highest at Category Overall Wedding (with ring and lowest at Category Catering (price per person). ",
-      "The Costs in U.S. dollars of Category Overall Wedding (with ring is 477.01% larger than the minimum value at Catering (price per person). "
+      "The maximum Costs in U.S. dollars 33391.0 is found at Category Overall Wedding (with ring and the minimum is found at Catering (price per person) where Category is 70.0. ",
+      "The difference of Costs in U.S. dollars between the highest and lowest Category is 33321.0. "
    ],
    "min_summary": [
       "This is a bar chart. It shows Costs in U.S. dollars for 20 number of Categorys. ",
-      "Category Overall Wedding (with ring has the highest Costs in U.S. dollars and Catering (price per person) has the lowest Costs in U.S. dollars. "
+      "The Costs in U.S. dollars is appeared to be the highest at Category Overall Wedding (with ring and lowest at Category Catering (price per person). "
    ],
    "mid_summary": [
       "This is a bar chart representing Category in the x axis and Costs in U.S. dollars in the y axis. ",
-      "The Costs in U.S. dollars is highest at Category Overall Wedding (with ring and lowest at Category Catering (price per person). ",
-      "The Costs in U.S. dollars of Category Overall Wedding (with ring is 477.01% larger than the minimum value at Catering (price per person). "
+      "The maximum Costs in U.S. dollars 33391.0 is found at Category Overall Wedding (with ring and the minimum is found at Catering (price per person) where Category is 70.0. ",
+      "The difference of Costs in U.S. dollars between the highest and lowest Category is 33321.0. "
    ],
    "max_summary": [
-      "This is a bar chart. It shows Costs in U.S. dollars for 20 number of Categorys. ",
-      "Category Overall Wedding (with ring has the highest Costs in U.S. dollars and Catering (price per person) has the lowest Costs in U.S. dollars. ",
-      "The highest Category Overall Wedding (with ring has 33321.0 more Costs in U.S. dollars than the lowest Category Catering (price per person). ",
+      "This is a bar chart representing Category in the x axis and Costs in U.S. dollars in the y axis. ",
+      "The Costs in U.S. dollars is appeared to be the highest at Category Overall Wedding (with ring and lowest at Category Catering (price per person). ",
+      "The difference of Costs in U.S. dollars between the highest and lowest Category is 33321.0. ",
       "Category Overall Wedding (with ring is higher than any other Categorys with value 33391.0, followed by Venue (reception hall), and Engagement ring. Down to Category Catering (price per person) with the lowest value 70.0. ",
-      "The lowest value 70.0 at Catering (price per person) is almost 8.67 times smaller than the average value 3850.65. ",
-      "The Costs in U.S. dollars is 77013.0 if we add up values of all Categorys. "
+      "Considered together, the average Costs in U.S. dollars in all 20 Categorys is roughly 3850.65. ",
+      "Summing up the values of all Categorys, we get total 77013.0. "
    ],
    "trends": [
       {},

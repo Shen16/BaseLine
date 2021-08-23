@@ -9,37 +9,23 @@
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "The given chart is of multi-line type with 2 lines namely England and Wales, and Scotland. The y axis represents Divorce rate per thousad married person and the x axis represents Year.",
       "Overall Scotland is rapidly decreasing, England and Wales is gradually decreasing,  throughout the Year",
-      "The lines ordered according to average values of Divorce rate per thousad married person in descending order is: 1. England and Wales, and lastly, 2. Scotland. ",
-      "Overall across the Year, England and Wales mostly maintained the highest Divorce rate per thousad married person when compared to others with a mean value of 10.85, and it peaked at 2003, and 2004.",
-      "The botommost line, Scotland,  has a mean of 5.37, and peaked at 2006. ",
-      "Scotland has decreased by 99.99999999990293 percent.",
-      "The difference of Divorce rate per thousad married person between England and Wales and Scotland is greater at Year 2017 compared to the Year 2000."
+      "The order of lines according to average values of Divorce rate per thousad married person, in descending order is: 1. England and Wales, and lastly, 2. Scotland. ",
+      "Scotland has decreased by 99.99999999989691 percent.",
+      "The difference of Divorce rate per thousad married person between England and Wales and Scotland is greater at Year 2017 compared to the Year 2001."
    ],
    "xAxis": "Year",
    "yAxis": "Divorce rate per thousad married person",
    "min_summary": [
-      "You are viewing a chart of multi-line type with 2 lines denoting England and Wales, and Scotland. The y axis indicates the Divorce rate per thousad married person and the x axis indicates Year.",
-      "Overall Scotland is rapidly decreasing, England and Wales is gradually decreasing,  throughout the Year",
-      "Overall across the Year, England and Wales mostly maintained the highest Divorce rate per thousad married person when compared to others with a mean value of 10.85, and it peaked at 2003, and 2004.",
-      "The botommost line, Scotland,  has a mean of 5.37, and peaked at 2006. "
+      "Overall Scotland is rapidly decreasing, England and Wales is gradually decreasing,  throughout the Year"
    ],
    "mid_summary": [
-      "You are viewing a chart of multi-line type with 2 lines denoting England and Wales, and Scotland. The y axis indicates the Divorce rate per thousad married person and the x axis indicates Year.",
       "Overall Scotland is rapidly decreasing, England and Wales is gradually decreasing,  throughout the Year",
-      "Scotland has decreased by 99.99999999990293 percent.",
-      "The lines ordered according to average values of Divorce rate per thousad married person in descending order is: 1. England and Wales, and lastly, 2. Scotland. ",
-      "Throughout the period, England and Wales generally had the highest Divorce rate per thousad married person relative to others with an average of 10.85, and it reached its maximum at 2003, and 2004 with a value of 13.3.",
-      "Scotland mostly had the least Divorce rate per thousad married person with a mean value of 5.37, which peaked at 2006 with a value of 12.4. "
+      "Scotland has decreased by 99.99999999989691 percent."
    ],
    "max_summary": [
-      "The given chart is of multi-line type with 2 lines namely England and Wales, and Scotland. The y axis represents Divorce rate per thousad married person and the x axis represents Year.",
       "Overall Scotland is rapidly decreasing, England and Wales is gradually decreasing,  throughout the Year",
-      "Scotland has decreased by 99.99999999990293 percent.",
-      "The ranking of the lines from topmost to botommmost is as follows: 1. England and Wales, and lastly, 2. Scotland. ",
-      "Throughout the period, England and Wales generally had the highest Divorce rate per thousad married person relative to others with an average of 10.85, and it reached its maximum at 2003, and 2004 with a value of 13.3.",
-      "The botommost line, Scotland,  has a mean of 5.37, and peaked at 2006. ",
+      "Scotland has decreased by 99.99999999989691 percent.",
       "The greatest difference of Divorce rate per thousad married person between England and Wales and Scotland occurs at Year 2010 and the smallest difference occurs at 2008."
    ],
    "trends": [
@@ -56,11 +42,11 @@
       },
       {
          "1": [
-            "13",
+            "2",
             "0"
          ],
          "9": [
-            "13",
+            "2",
             "0"
          ]
       },
@@ -76,11 +62,11 @@
       },
       {
          "1": [
-            "11",
+            "5",
             "1"
          ],
          "10": [
-            "11",
+            "5",
             "1"
          ]
       }

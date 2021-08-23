@@ -9,36 +9,22 @@
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "You are viewing a chart of multi-line type with 2 lines denoting Europe, and U.S.. The y axis indicates the SOME LABEL and the x axis indicates Year.",
       "Overall Europe, and U.S. are gradually increasing,  throughout the Year",
-      "The lines ordered according to average values of SOME LABEL in descending order is: 1. Europe, and lastly, 2. U.S.. ",
-      "Overall across the Year, Europe mostly maintained the highest SOME LABEL when compared to others with a mean value of 6.44, and it peaked at 2013.",
-      "U.S. mostly had the least SOME LABEL with a mean value of 3.09, which peaked at 2000 with a value of 4.8. ",
+      "The ranking of the lines from topmost to botommmost is as follows: 1. Europe, and lastly, 2. U.S.. ",
       "U.S. reported the lowest SOME LABEL about 1.8 in Year 1990",
-      "The difference of SOME LABEL between Europe and U.S. is smaller at Year 2030 compared to the Year 1980."
+      "The difference of SOME LABEL between Europe and U.S. is greater at Year 2025 compared to the Year 1990."
    ],
    "xAxis": "Year",
    "yAxis": "SOME LABEL",
    "min_summary": [
-      "This is a multi-line chart with 2 lines representing Europe, and U.S.. The y axis denotes SOME LABEL and the x axis denotes Year.",
-      "Overall Europe, and U.S. are gradually increasing,  throughout the Year",
-      "Throughout the period, Europe generally had the highest SOME LABEL relative to others with an average of 6.44, and it reached its maximum at 2013 with a value of 11.1.",
-      "The botommost line, U.S.,  has a mean of 3.09, and peaked at 2000. "
+      "Overall Europe, and U.S. are gradually increasing,  throughout the Year"
    ],
    "mid_summary": [
-      "This is a multi-line chart with 2 lines representing Europe, and U.S.. The y axis denotes SOME LABEL and the x axis denotes Year.",
-      "Overall Europe, and U.S. are gradually increasing,  throughout the Year",
-      "The ranking of the lines from topmost to botommmost is as follows: 1. Europe, and lastly, 2. U.S.. ",
-      "Overall across the Year, Europe mostly maintained the highest SOME LABEL when compared to others with a mean value of 6.44, and it peaked at 2013.",
-      "The botommost line, U.S.,  has a mean of 3.09, and peaked at 2000. "
+      "Overall Europe, and U.S. are gradually increasing,  throughout the Year"
    ],
    "max_summary": [
-      "You are viewing a chart of multi-line type with 2 lines denoting Europe, and U.S.. The y axis indicates the SOME LABEL and the x axis indicates Year.",
       "Overall Europe, and U.S. are gradually increasing,  throughout the Year",
-      "The ranking of the lines from topmost to botommmost is as follows: 1. Europe, and lastly, 2. U.S.. ",
-      "Overall across the Year, Europe mostly maintained the highest SOME LABEL when compared to others with a mean value of 6.44, and it peaked at 2013.",
-      "U.S. mostly had the least SOME LABEL with a mean value of 3.09, which peaked at 2000 with a value of 4.8. ",
-      "U.S. reported the lowest SOME LABEL about 1.8 in Year 1990",
+      "The minimum SOME LABEL about 1.8, occured at 1990 by U.S..",
       "The greatest difference of SOME LABEL between Europe and U.S. occurs at Year 2013 and the smallest difference occurs at 2000."
    ],
    "trends": [
@@ -55,11 +41,11 @@
       },
       {
          "1": [
-            "11",
+            "5",
             "0"
          ],
          "9": [
-            "11",
+            "5",
             "0"
          ]
       },
@@ -75,11 +61,11 @@
       },
       {
          "1": [
-            "15",
+            "1",
             "1"
          ],
          "10": [
-            "15",
+            "1",
             "1"
          ]
       }

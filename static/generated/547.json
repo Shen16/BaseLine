@@ -7,25 +7,25 @@
    "summaryType": "baseline",
    "summary": [
       "This is a bar chart representing State in the x axis and Number of specialist physicians in the y axis. ",
-      "The maximum Number of specialist physicians 112906.0 is found at State California and the minimum is found at New Jersey where State is 30502.0. ",
-      "The difference of Number of specialist physicians between the highest and lowest State is 82404.0. "
+      "The Number of specialist physicians is highest at State California and lowest at State New Jersey. ",
+      "There is a difference of 82404.0 between the maximum State California and minimum State New Jersey. "
    ],
    "min_summary": [
-      "This is a bar chart representing State in the x axis and Number of specialist physicians in the y axis. ",
+      "This is a bar chart. It shows Number of specialist physicians for 10 number of States. ",
       "The maximum Number of specialist physicians 112906.0 is found at State California and the minimum is found at New Jersey where State is 30502.0. "
    ],
    "mid_summary": [
       "This is a bar chart representing State in the x axis and Number of specialist physicians in the y axis. ",
-      "The maximum Number of specialist physicians 112906.0 is found at State California and the minimum is found at New Jersey where State is 30502.0. ",
-      "The difference of Number of specialist physicians between the highest and lowest State is 82404.0. "
+      "The Number of specialist physicians is highest at State California and lowest at State New Jersey. ",
+      "There is a difference of 82404.0 between the maximum State California and minimum State New Jersey. "
    ],
    "max_summary": [
       "This is a bar chart. It shows Number of specialist physicians for 10 number of States. ",
-      "The Number of specialist physicians is highest at State California and lowest at State New Jersey. ",
-      "State New York has the second highest value for Number of specialist physicians. ",
-      "The highest State California has 82404.0 more Number of specialist physicians than the lowest State New Jersey. ",
+      "The maximum Number of specialist physicians 112906.0 is found at State California and the minimum is found at New Jersey where State is 30502.0. ",
+      "The difference of Number of specialist physicians between the highest and lowest State is 82404.0. ",
       "The State California has the highest Number of specialist physicians, followed by New York, and Texas. Down to the State New Jersey which is the lowest. ",
-      "The State California tends to be 1.99 percent higher than average. "
+      "Considered together, the average Number of specialist physicians in all 10 States is roughly 56615.3. ",
+      "Summing up the values of all States, we get total 566153.0. "
    ],
    "trends": [
       {},

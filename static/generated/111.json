@@ -6,35 +6,29 @@
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of restaurants. In total the number of data points it has is 14.",
       " Overall Number of restaurants has increased over the Year.",
-      "Number of restaurants is gradually increasing from 2000 to 2004, roughly constant from 2004 to 2008, slightly increasing from 2008 to 2012, and finally roughly constant from 2012 to 2013.",
-      "The line significantly ",
-      "The steepest increase occurs in between the Year 2008 and 2009.",
-      "The highest Number of restaurants, of value 705.0 was reached at Year 2013",
-      "The lowest Number of restaurants, of value 654.0 was reported at Year 2000"
+      "Number of restaurants is gradually increasing from 2002 to 2004, roughly constant from 2004 to 2005, slightly decreasing from 2005 to 2006, and finally roughly constant from 2006 to 2008.",
+      "The most drastic increase took place within the Year 2003 and 2004.",
+      "The highest Number of restaurants, of value 682.0 was reached at Year 2006",
+      "Minimum Number of restaurants about 667.0 was reached at Year 2002"
    ],
    "min_summary": [
-      "This is a line chart with an x axis representing Year and a y axis representing Number of restaurants, containing a total of 14 data points.",
-      " In general Number of restaurants has rose over the Year.",
-      "Number of restaurants is gradually increasing from 2000 to 2004, roughly constant from 2004 to 2008, slightly increasing from 2008 to 2012, and finally roughly constant from 2012 to 2013."
+      " In general Number of restaurants has stayed the same over the Year.",
+      "Number of restaurants is gradually increasing from 2002 to 2004, roughly constant from 2004 to 2005, slightly decreasing from 2005 to 2006, and finally roughly constant from 2006 to 2008."
    ],
    "mid_summary": [
-      "This is a line chart with an x axis representing Year and a y axis representing Number of restaurants, containing a total of 14 data points.",
-      " In general Number of restaurants has rose over the Year.",
-      "Number of restaurants is gradually increasing from 2000 to 2004, roughly constant from 2004 to 2008, slightly increasing from 2008 to 2012, and finally roughly constant from 2012 to 2013.",
-      "The most drastic increase took place within the Year 2008 and 2009.",
-      "The highest Number of restaurants, of value 705.0 was reached at Year 2013",
-      "The lowest Number of restaurants, of value 654.0 was reported at Year 2000"
+      " Overall Number of restaurants has increased over the Year.",
+      "Number of restaurants is gradually increasing from 2002 to 2004, roughly constant from 2004 to 2005, slightly decreasing from 2005 to 2006, and finally roughly constant from 2006 to 2008.",
+      "The steepest increase occurs in between the Year 2003 and 2004.",
+      "The highest Number of restaurants, of value 682.0 was reached at Year 2006",
+      "Minimum Number of restaurants about 667.0 was reached at Year 2002"
    ],
    "max_summary": [
-      "This is a line chart with an x axis representing Year and a y axis representing Number of restaurants, containing a total of 14 data points.",
-      " In general Number of restaurants has rose over the Year.",
-      "Number of restaurants is gradually increasing from 2000 to 2004, roughly constant from 2004 to 2008, slightly increasing from 2008 to 2012, and finally roughly constant from 2012 to 2013.",
-      "The steepest increase occurs in between the Year 2008 and 2009.",
-      "The highest Number of restaurants, of value 705.0 was reached at Year 2013",
-      "The lowest Number of restaurants, of value 654.0 was reported at Year 2000",
-      "The line rapidly "
+      " Overall Number of restaurants has increased over the Year.",
+      "Number of restaurants is gradually increasing from 2002 to 2004, roughly constant from 2004 to 2005, slightly decreasing from 2005 to 2006, and finally roughly constant from 2006 to 2008.",
+      "The most drastic increase took place within the Year 2003 and 2004.",
+      "The highest Number of restaurants, of value 682.0 was reached at Year 2006",
+      "Minimum Number of restaurants about 667.0 was reached at Year 2002"
    ],
    "trends": [],
    "data": [

@@ -10,29 +10,29 @@
    "summaryType": "baseline",
    "summary": [
       "This grouped bar chart represents 11 different Countrys on X-axis for 2 groups Cases, and Deaths. On the Y-axis it shows their corresponding Number of cases/deaths. ",
-      " In Country Total, Cases had the highest Number of cases/deaths 28646.0 among the 2 groups and in Senegal, Deaths had the lowest Number of cases/deaths 0.0. ",
+      " Country Total had the maximum Number of cases/deaths among all 2 groups, and it was for Cases. The minimum Number of cases/deaths was observed in Country Senegal for Deaths. ",
       " In Country Total, Deaths had the maximum Number of cases/deaths and it saw the lowest in Country Senegal out of all 11 Countrys. ",
-      "Country Total and Senegal had the biggest gap of 11323.0 between the highest and lowest Number of cases/deaths found for Deaths. "
+      " There is a gap of 11323.0 between the highest and lowest Number of cases/deaths found for Deaths in Country Total and Senegal. "
    ],
    "xAxis": "Country",
    "yAxis": "Number of cases/deaths",
    "min_summary": [
-      "This grouped bar chart represents 11 different Countrys on X-axis for 2 groups Cases, and Deaths. On the Y-axis it shows their corresponding Number of cases/deaths. ",
+      "This grouped bar chart shows Number of cases/deaths on the Y-axis for 11 different Countrys for 2 groups Cases, and Deaths that are presented on the X-axis. ",
       " In Country Total, Cases had the highest Number of cases/deaths 28646.0 among the 2 groups and in Senegal, Deaths had the lowest Number of cases/deaths 0.0. "
    ],
    "mid_summary": [
       "This grouped bar chart represents 11 different Countrys on X-axis for 2 groups Cases, and Deaths. On the Y-axis it shows their corresponding Number of cases/deaths. ",
-      " In Country Total, Cases had the highest Number of cases/deaths 28646.0 among the 2 groups and in Senegal, Deaths had the lowest Number of cases/deaths 0.0. ",
+      " Country Total had the maximum Number of cases/deaths among all 2 groups, and it was for Cases. The minimum Number of cases/deaths was observed in Country Senegal for Deaths. ",
       " In Country Total, Deaths had the maximum Number of cases/deaths and it saw the lowest in Country Senegal out of all 11 Countrys. ",
-      "Country Total and Senegal had the biggest gap of 11323.0 between the highest and lowest Number of cases/deaths found for Deaths. "
+      " There is a gap of 11323.0 between the highest and lowest Number of cases/deaths found for Deaths in Country Total and Senegal. "
    ],
    "max_summary": [
       "This grouped bar chart shows Number of cases/deaths on the Y-axis for 11 different Countrys for 2 groups Cases, and Deaths that are presented on the X-axis. ",
-      " Out of all 2 groups, Cases had the highest Number of cases/deaths in Country Total and Deaths had the lowest Number of cases/deaths in Country Senegal. ",
-      " Among all the Countrys, Deaths had the highest Number of cases/deaths in Country Total and lowest Number of cases/deaths in Country Senegal. ",
+      " In Country Total, Cases had the highest Number of cases/deaths 28646.0 among the 2 groups and in Senegal, Deaths had the lowest Number of cases/deaths 0.0. ",
+      " In Country Total, Deaths had the maximum Number of cases/deaths and it saw the lowest in Country Senegal out of all 11 Countrys. ",
       "Country Total and Senegal had the biggest gap of 11323.0 between the highest and lowest Number of cases/deaths found for Deaths. ",
       " Out of all 2 groups, the highest gap between the maximum and minimum Number of cases/deaths was found in case of Cases. ",
-      "On average, the Country Total had the highest Number of cases/deaths for all 2 groups Cases, and Deaths. Whereas Senegal had the lowest average Number of cases/deaths. "
+      "Averaging all 2 groups Cases, and Deaths, the Country Total is the maximum Number of cases/deaths and Senegal is the minimum Number of cases/deaths. "
    ],
    "trends": [
       {},

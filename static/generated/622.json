@@ -10,28 +10,28 @@
    "summaryType": "baseline",
    "summary": [
       "This grouped bar chart represents 13 different Countrys on X-axis for 2 groups Winner, and Runner-up. On the Y-axis it shows their corresponding SOME LABEL. ",
-      " In Country Spain, Winner had the highest SOME LABEL 3.0 among the 2 groups and in Yugoslavia, Winner had the lowest SOME LABEL 0.0. ",
-      " Among all the Countrys, Runner-up had the highest SOME LABEL in Country USSR and lowest SOME LABEL in Country Czechoslovakia. ",
-      " The maximum SOME LABEL for Runner-up that was found in Country USSR was 0 times larger than the minimum SOME LABEL observed in Country Czechoslovakia. "
+      " Country Spain had the maximum SOME LABEL among all 2 groups, and it was for Winner. The minimum SOME LABEL was observed in Country Yugoslavia for Winner. ",
+      " In Country USSR, Runner-up had the maximum SOME LABEL and it saw the lowest in Country Czechoslovakia out of all 13 Countrys. ",
+      "Country USSR and Czechoslovakia had the biggest gap of 3.0 between the highest and lowest SOME LABEL found for Runner-up. "
    ],
    "xAxis": "Country",
    "yAxis": "SOME LABEL",
    "min_summary": [
-      "This grouped bar chart represents 13 different Countrys on X-axis for 2 groups Winner, and Runner-up. On the Y-axis it shows their corresponding SOME LABEL. ",
-      " Country Spain had the maximum SOME LABEL among all 2 groups, and it was for Winner. The minimum SOME LABEL was observed in Country Yugoslavia for Winner. "
+      "This grouped bar chart shows SOME LABEL on the Y-axis for 13 different Countrys for 2 groups Winner, and Runner-up that are presented on the X-axis. ",
+      " In Country Spain, Winner had the highest SOME LABEL 3.0 among the 2 groups and in Yugoslavia, Winner had the lowest SOME LABEL 0.0. "
    ],
    "mid_summary": [
       "This grouped bar chart represents 13 different Countrys on X-axis for 2 groups Winner, and Runner-up. On the Y-axis it shows their corresponding SOME LABEL. ",
-      " In Country Spain, Winner had the highest SOME LABEL 3.0 among the 2 groups and in Yugoslavia, Winner had the lowest SOME LABEL 0.0. ",
-      " Among all the Countrys, Runner-up had the highest SOME LABEL in Country USSR and lowest SOME LABEL in Country Czechoslovakia. ",
-      " The maximum SOME LABEL for Runner-up that was found in Country USSR was 0 times larger than the minimum SOME LABEL observed in Country Czechoslovakia. "
+      " Country Spain had the maximum SOME LABEL among all 2 groups, and it was for Winner. The minimum SOME LABEL was observed in Country Yugoslavia for Winner. ",
+      " In Country USSR, Runner-up had the maximum SOME LABEL and it saw the lowest in Country Czechoslovakia out of all 13 Countrys. ",
+      "Country USSR and Czechoslovakia had the biggest gap of 3.0 between the highest and lowest SOME LABEL found for Runner-up. "
    ],
    "max_summary": [
       "This grouped bar chart shows SOME LABEL on the Y-axis for 13 different Countrys for 2 groups Winner, and Runner-up that are presented on the X-axis. ",
-      " Out of all 2 groups, Winner had the highest SOME LABEL in Country Spain and Winner had the lowest SOME LABEL in Country Yugoslavia. ",
+      " In Country Spain, Winner had the highest SOME LABEL 3.0 among the 2 groups and in Yugoslavia, Winner had the lowest SOME LABEL 0.0. ",
       " In Country USSR, Runner-up had the highest SOME LABEL among all 13 Countrys and it has the lowest SOME LABEL in Country Czechoslovakia. ",
       " The maximum SOME LABEL for Runner-up that was found in Country USSR was 0 times larger than the minimum SOME LABEL observed in Country Czechoslovakia. ",
-      " Among all 2 groups, Winner had the gap of 3.0 between the maximum and minimum SOME LABEL observed in Country Spain and Yugoslavia respectively. ",
+      " Among the groups, Winner had the biggest difference in SOME LABEL. Where the maximum SOME LABEL was 3.0 times larger than the minimum SOME LABEL. ",
       "On average, the Country Germany had the highest SOME LABEL for all 2 groups Winner, and Runner-up. Whereas Czechoslovakia had the lowest average SOME LABEL. "
    ],
    "trends": [
