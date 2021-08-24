@@ -6,28 +6,26 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This is a bar chart. It shows Medals won (gold, silver, bronze) for 50 number of Countrys. ",
-      "The Medals won (gold, silver, bronze) is highest at Country United States and lowest at Country Indonesia. ",
-      "The highest Country United States has 2490.0 more Medals won (gold, silver, bronze) than the lowest Country Indonesia. "
+      "This bar chart has 50 columns on the x axis representing Country, and Medals won (gold, silver, bronze) in each Country on the y axis. ",
+      "The Medals won (gold, silver, bronze) is appeared to be the highest at Country United States and lowest at Country Indonesia. ",
+      "The Medals won (gold, silver, bronze) of Country Indonesia is 84.0% smaller than the maximum value at United States. "
    ],
    "min_summary": [
-      "This is a bar chart representing Country in the x axis and Medals won (gold, silver, bronze) in the y axis. ",
-      "The Medals won (gold, silver, bronze) is highest at Country United States and lowest at Country Indonesia. "
+      "This bar chart has 50 columns on the x axis representing Country, and Medals won (gold, silver, bronze) in each Country on the y axis. ",
+      "The maximum Medals won (gold, silver, bronze) 2520.0 is found at Country United States and the minimum is found at Indonesia where Country is 30.0. "
    ],
    "mid_summary": [
-      "This is a bar chart. It shows Medals won (gold, silver, bronze) for 50 number of Countrys. ",
-      "The Medals won (gold, silver, bronze) is highest at Country United States and lowest at Country Indonesia. ",
-      "The highest Country United States has 2490.0 more Medals won (gold, silver, bronze) than the lowest Country Indonesia. "
+      "This bar chart has 50 columns on the x axis representing Country, and Medals won (gold, silver, bronze) in each Country on the y axis. ",
+      "The Medals won (gold, silver, bronze) is appeared to be the highest at Country United States and lowest at Country Indonesia. ",
+      "The Medals won (gold, silver, bronze) of Country Indonesia is 84.0% smaller than the maximum value at United States. "
    ],
    "max_summary": [
-      "This bar chart has 50 columns on the x axis representing Country, and Medals won (gold, silver, bronze) in each Country on the y axis. ",
+      "This is a bar chart. It shows Medals won (gold, silver, bronze) for 50 number of Countrys. ",
       "The maximum Medals won (gold, silver, bronze) 2520.0 is found at Country United States and the minimum is found at Indonesia where Country is 30.0. ",
-      "Second maximum Medals won (gold, silver, bronze) is found at Country Russia. ",
-      "Country United States has 84.0 times more Medals won (gold, silver, bronze) than Country Indonesia which is has the lowest. ",
-      "Country United States is higher than any other Countrys with value 2520.0, followed by Russia, and Germany. Down to Country Indonesia with the lowest value 30.0. ",
-      "Country Belgium, and Spain have the same Medals won (gold, silver, bronze). ",
-      "The Country United States tends to be 8.05 percent higher than average. ",
-      "Summing up the values of all Countrys, we get total 15648.0. "
+      "There is a difference of 2490.0 between the maximum Country United States and minimum Country Indonesia. ",
+      "The Country United States has the highest Medals won (gold, silver, bronze), followed by Russia, and Germany. Down to the Country Indonesia which is the lowest. ",
+      "Country Belgium, and Spain share the same value 148.0. ",
+      "The highest value 2520.0 at United States is almost 8.05 times larger than the average value 312.96. "
    ],
    "trends": [
       {},

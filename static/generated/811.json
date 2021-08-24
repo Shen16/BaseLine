@@ -9,30 +9,30 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart represents 28 different Car Manufacturers on X-axis for 2 groups July 2014, and January 2017. On the Y-axis it shows their corresponding SOME LABEL. ",
-      " Out of all 2 groups, July 2014 had the highest SOME LABEL in Car Manufacturer Ford and July 2014 had the lowest SOME LABEL in Car Manufacturer Mercedes. ",
-      " In Car Manufacturer Ford, July 2014 had the highest SOME LABEL among all 28 Car Manufacturers and it has the lowest SOME LABEL in Car Manufacturer Mercedes. ",
-      "Car Manufacturer Ford and Mercedes had the biggest gap of 471.0 between the highest and lowest SOME LABEL found for July 2014. "
+      "This grouped bar chart represents 28 different Car Manufacturers on X-axis for 2 groups July 2014, and January 2017. On the Y-axis it shows their corresponding Number of car dealerships. ",
+      " Car Manufacturer Ford had the maximum Number of car dealerships among all 2 groups, and it was for July 2014. The minimum Number of car dealerships was observed in Car Manufacturer Mercedes for July 2014. ",
+      " Among all the Car Manufacturers, July 2014 had the highest Number of car dealerships 506.0 in Car Manufacturer Ford and lowest value 35.0 in Car Manufacturer Mercedes. ",
+      " There is a gap of 471.0 between the highest and lowest Number of car dealerships found for July 2014 in Car Manufacturer Ford and Mercedes. "
    ],
    "xAxis": "Car Manufacturer",
-   "yAxis": "SOME LABEL",
+   "yAxis": "Number of car dealerships",
    "min_summary": [
-      "This grouped bar chart represents 28 different Car Manufacturers on X-axis for 2 groups July 2014, and January 2017. On the Y-axis it shows their corresponding SOME LABEL. ",
-      " Out of all 2 groups, July 2014 had the highest SOME LABEL in Car Manufacturer Ford and July 2014 had the lowest SOME LABEL in Car Manufacturer Mercedes. "
+      "This grouped bar chart represents 28 different Car Manufacturers on X-axis for 2 groups July 2014, and January 2017. On the Y-axis it shows their corresponding Number of car dealerships. ",
+      " Car Manufacturer Ford had the maximum Number of car dealerships among all 2 groups, and it was for July 2014. The minimum Number of car dealerships was observed in Car Manufacturer Mercedes for July 2014. "
    ],
    "mid_summary": [
-      "This grouped bar chart represents 28 different Car Manufacturers on X-axis for 2 groups July 2014, and January 2017. On the Y-axis it shows their corresponding SOME LABEL. ",
-      " Out of all 2 groups, July 2014 had the highest SOME LABEL in Car Manufacturer Ford and July 2014 had the lowest SOME LABEL in Car Manufacturer Mercedes. ",
-      " In Car Manufacturer Ford, July 2014 had the highest SOME LABEL among all 28 Car Manufacturers and it has the lowest SOME LABEL in Car Manufacturer Mercedes. ",
-      "Car Manufacturer Ford and Mercedes had the biggest gap of 471.0 between the highest and lowest SOME LABEL found for July 2014. "
+      "This grouped bar chart represents 28 different Car Manufacturers on X-axis for 2 groups July 2014, and January 2017. On the Y-axis it shows their corresponding Number of car dealerships. ",
+      " Car Manufacturer Ford had the maximum Number of car dealerships among all 2 groups, and it was for July 2014. The minimum Number of car dealerships was observed in Car Manufacturer Mercedes for July 2014. ",
+      " Among all the Car Manufacturers, July 2014 had the highest Number of car dealerships 506.0 in Car Manufacturer Ford and lowest value 35.0 in Car Manufacturer Mercedes. ",
+      " There is a gap of 471.0 between the highest and lowest Number of car dealerships found for July 2014 in Car Manufacturer Ford and Mercedes. "
    ],
    "max_summary": [
-      "This grouped bar chart represents 28 different Car Manufacturers on X-axis for 2 groups July 2014, and January 2017. On the Y-axis it shows their corresponding SOME LABEL. ",
-      " In Car Manufacturer Ford, July 2014 had the highest SOME LABEL 506.0 among the 2 groups and in Mercedes, July 2014 had the lowest SOME LABEL 35.0. ",
-      " Among all the Car Manufacturers, July 2014 had the highest SOME LABEL 506.0 in Car Manufacturer Ford and lowest value 35.0 in Car Manufacturer Mercedes. ",
-      " There is a gap of 471.0 between the highest and lowest SOME LABEL found for July 2014 in Car Manufacturer Ford and Mercedes. ",
-      " Among all 2 groups, July 2014 had the gap of 471.0 between the maximum and minimum SOME LABEL observed in Car Manufacturer Ford and Mercedes respectively. ",
-      "On average, the Car Manufacturer Ford had the highest SOME LABEL for all 2 groups July 2014, and January 2017. Whereas Mercedes had the lowest average SOME LABEL. "
+      "This grouped bar chart shows Number of car dealerships on the Y-axis for 28 different Car Manufacturers for 2 groups July 2014, and January 2017 that are presented on the X-axis. ",
+      " In Car Manufacturer Ford, July 2014 had the highest Number of car dealerships 506.0 among the 2 groups and in Mercedes, July 2014 had the lowest Number of car dealerships 35.0. ",
+      " In Car Manufacturer Ford, July 2014 had the maximum Number of car dealerships and it saw the lowest in Car Manufacturer Mercedes out of all 28 Car Manufacturers. ",
+      " The maximum Number of car dealerships for July 2014 that was found in Car Manufacturer Ford was 14.46 times larger than the minimum Number of car dealerships observed in Car Manufacturer Mercedes. ",
+      " Among the groups, July 2014 had the biggest difference in Number of car dealerships. Where the maximum Number of car dealerships was 14.46 times larger than the minimum Number of car dealerships. ",
+      "Averaging all 2 groups July 2014, and January 2017, the Car Manufacturer Ford is the maximum Number of car dealerships and Mercedes is the minimum Number of car dealerships. "
    ],
    "trends": [
       {},

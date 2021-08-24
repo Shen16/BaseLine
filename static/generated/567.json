@@ -6,27 +6,28 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 7 columns on the x axis representing Religion, and Percentage of population in each Religion on the y axis. ",
-      "The maximum Percentage of population 77.0 is found at Religion Christians and the minimum is found at Muslims where Religion is 1.0. ",
-      "There is a difference of 76.0 between the maximum Religion Christians and minimum Religion Muslims. "
+      "This is a bar chart representing Religion in the x axis and Percentage of population in the y axis. ",
+      "The Percentage of population is highest at Religion Christians and lowest at Religion Muslims. ",
+      "The minimum Religion Muslims has got 77.0 times less Percentage of population than the maximum Religion Christians. "
    ],
    "min_summary": [
-      "This is a bar chart representing Religion in the x axis and Percentage of population in the y axis. ",
-      "The Percentage of population is appeared to be the highest at Religion Christians and lowest at Religion Muslims. "
+      "This bar chart has 7 columns on the x axis representing Religion, and Percentage of population in each Religion on the y axis. ",
+      "Religion Christians has the highest Percentage of population and Muslims has the lowest Percentage of population. "
    ],
    "mid_summary": [
-      "This bar chart has 7 columns on the x axis representing Religion, and Percentage of population in each Religion on the y axis. ",
-      "The maximum Percentage of population 77.0 is found at Religion Christians and the minimum is found at Muslims where Religion is 1.0. ",
-      "There is a difference of 76.0 between the maximum Religion Christians and minimum Religion Muslims. "
+      "This is a bar chart representing Religion in the x axis and Percentage of population in the y axis. ",
+      "The Percentage of population is highest at Religion Christians and lowest at Religion Muslims. ",
+      "The minimum Religion Muslims has got 77.0 times less Percentage of population than the maximum Religion Christians. "
    ],
    "max_summary": [
-      "This is a bar chart representing Religion in the x axis and Percentage of population in the y axis. ",
+      "This is a bar chart. It shows Percentage of population for 7 number of Religions. ",
       "Religion Christians has the highest Percentage of population and Muslims has the lowest Percentage of population. ",
       "Second maximum Percentage of population is found at Religion Unaffiliated. ",
-      "The Percentage of population of Religion Muslims is 77.0% smaller than the maximum value at Christians. ",
-      "The Religion Christians has the highest Percentage of population, followed by Unaffiliated, and Jews. Down to the Religion Muslims which is the lowest. ",
+      "The highest Religion Christians has 76.0 more Percentage of population than the lowest Religion Muslims. ",
+      "Percentage of population at Religion Christians is 77.0 , second place is Unaffiliated at 17.0, and thirdly is Jews at 2.0.",
       "Religion Muslims, Other religions, Hindus, and Buddhists have a similar Percentage of population that is 1.0. ",
-      "The Religion Christians has 5.39 times more Percentage of population than average. "
+      "The Religion Muslims has 5.39 times less Percentage of population than average. ",
+      "Summing up the values of all Religions, we get total 100.0. "
    ],
    "trends": [
       {},

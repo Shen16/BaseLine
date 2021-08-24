@@ -6,34 +6,34 @@
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of sold automobiles. In total the number of data points it has is 12.",
-      " Overall Number of sold automobiles has increased over the Year.",
+      "This is a line chart with an x axis representing Year and a y axis representing Number of sold automobiles, containing a total of 12 data points.",
+      " In general Number of sold automobiles has rose over the Year.",
       "Number of sold automobiles is roughly decreasing from 2007 to 2008, gradually increasing from 2008 to 2010, roughly constant from 2010 to 2017, and finally roughly increasing from 2017 to 2018.",
-      "The line drastically increased by 2.7 times from Year 2009 to 2010.",
+      "The line rapidly increased by 170.56% from Year 2009 to 2010.",
       "The steepest increase occurs in between the Year 2009 and 2010.",
       "Maximum Number of sold automobiles, about 4107.0 was reported at Year 2018",
-      "The lowest Number of sold automobiles, of value 1002.0 was reported at Year 2009"
+      "Minimum Number of sold automobiles about 1002.0 was reached at Year 2009"
    ],
    "min_summary": [
-      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of sold automobiles. In total the number of data points it has is 12.",
+      "This is a line chart with an x axis representing Year and a y axis representing Number of sold automobiles, containing a total of 12 data points.",
       " Overall Number of sold automobiles has increased over the Year.",
       "Number of sold automobiles is roughly decreasing from 2007 to 2008, gradually increasing from 2008 to 2010, roughly constant from 2010 to 2017, and finally roughly increasing from 2017 to 2018."
    ],
    "mid_summary": [
       "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of sold automobiles. In total the number of data points it has is 12.",
-      " Overall Number of sold automobiles has increased over the Year.",
-      "Number of sold automobiles is roughly decreasing from 2007 to 2008, gradually increasing from 2008 to 2010, roughly constant from 2010 to 2017, and finally roughly increasing from 2017 to 2018.",
-      "The most drastic increase took place within the Year 2009 and 2010.",
-      "Maximum Number of sold automobiles, about 4107.0 was reported at Year 2018",
-      "The lowest Number of sold automobiles, of value 1002.0 was reported at Year 2009"
-   ],
-   "max_summary": [
-      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of sold automobiles. In total the number of data points it has is 12.",
       " In general Number of sold automobiles has rose over the Year.",
       "Number of sold automobiles is roughly decreasing from 2007 to 2008, gradually increasing from 2008 to 2010, roughly constant from 2010 to 2017, and finally roughly increasing from 2017 to 2018.",
       "The most drastic increase took place within the Year 2009 and 2010.",
       "Maximum Number of sold automobiles, about 4107.0 was reported at Year 2018",
-      "The lowest Number of sold automobiles, of value 1002.0 was reported at Year 2009",
+      "Minimum Number of sold automobiles about 1002.0 was reached at Year 2009"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Number of sold automobiles, containing a total of 12 data points.",
+      " In general Number of sold automobiles has rose over the Year.",
+      "Number of sold automobiles is roughly decreasing from 2007 to 2008, gradually increasing from 2008 to 2010, roughly constant from 2010 to 2017, and finally roughly increasing from 2017 to 2018.",
+      "The most drastic increase took place within the Year 2009 and 2010.",
+      "Maximum Number of sold automobiles, about 4107.0 was reported at Year 2018",
+      "Minimum Number of sold automobiles about 1002.0 was reached at Year 2009",
       "The line significantly increased by 1709.0 from Year 2009 to 2010."
    ],
    "trends": [],

@@ -6,26 +6,26 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This is a bar chart representing Country in the x axis and Number of procedures in the y axis. ",
-      "The maximum Number of procedures 4361867.0 is found at Country United States and the minimum is found at Thailand where Country is 140123.0. ",
+      "This bar chart has 10 columns on the x axis representing Country, and Number of procedures in each Country on the y axis. ",
+      "Country United States has the highest Number of procedures and Thailand has the lowest Number of procedures. ",
       "There is a difference of 4221744.0 between the maximum Country United States and minimum Country Thailand. "
    ],
    "min_summary": [
-      "This is a bar chart. It shows Number of procedures for 10 number of Countrys. ",
-      "Country United States has the highest Number of procedures and Thailand has the lowest Number of procedures. "
+      "This is a bar chart representing Country in the x axis and Number of procedures in the y axis. ",
+      "The Number of procedures is appeared to be the highest at Country United States and lowest at Country Thailand. "
    ],
    "mid_summary": [
-      "This is a bar chart representing Country in the x axis and Number of procedures in the y axis. ",
-      "The maximum Number of procedures 4361867.0 is found at Country United States and the minimum is found at Thailand where Country is 140123.0. ",
+      "This bar chart has 10 columns on the x axis representing Country, and Number of procedures in each Country on the y axis. ",
+      "Country United States has the highest Number of procedures and Thailand has the lowest Number of procedures. ",
       "There is a difference of 4221744.0 between the maximum Country United States and minimum Country Thailand. "
    ],
    "max_summary": [
       "This bar chart has 10 columns on the x axis representing Country, and Number of procedures in each Country on the y axis. ",
-      "The Number of procedures is highest at Country United States and lowest at Country Thailand. ",
-      "Country Brazil has the second highest value for Number of procedures. ",
-      "The highest Country United States has 4221744.0 more Number of procedures than the lowest Country Thailand. ",
+      "Country United States has the highest Number of procedures and Thailand has the lowest Number of procedures. ",
+      "There is a difference of 4221744.0 between the maximum Country United States and minimum Country Thailand. ",
       "Number of procedures at Country United States is 4361867.0 , second place is Brazil at 2267405.0, and thirdly is Mexico at 1043247.0.",
-      "The highest value 4361867.0 at United States is almost 3.73 times larger than the average value 1170519.3. "
+      "The Country Thailand tends to be 3.73 percent lower than average. ",
+      "Summing up the values of all Countrys, we get total 11705193.0. "
    ],
    "trends": [
       {},

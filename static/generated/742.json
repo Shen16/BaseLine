@@ -6,26 +6,26 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This is a bar chart. It shows Brand value in million U.S. dollars for 20 number of Brands. ",
-      "The Brand value in million U.S. dollars is appeared to be the highest at Brand Amazon and lowest at Brand Nike. ",
-      "The highest Brand Amazon has 155484.0 more Brand value in million U.S. dollars than the lowest Brand Nike. "
+      "This is a bar chart representing Brand in the x axis and Brand value in million U.S. dollars in the y axis. ",
+      "Brand Amazon has the highest Brand value in million U.S. dollars and Nike has the lowest Brand value in million U.S. dollars. ",
+      "There is a difference of 155484.0 between the maximum Brand Amazon and minimum Brand Nike. "
    ],
    "min_summary": [
-      "This is a bar chart. It shows Brand value in million U.S. dollars for 20 number of Brands. ",
-      "The Brand value in million U.S. dollars is highest at Brand Amazon and lowest at Brand Nike. "
+      "This bar chart has 20 columns on the x axis representing Brand, and Brand value in million U.S. dollars in each Brand on the y axis. ",
+      "The maximum Brand value in million U.S. dollars 187905.0 is found at Brand Amazon and the minimum is found at Nike where Brand is 32421.0. "
    ],
    "mid_summary": [
-      "This is a bar chart. It shows Brand value in million U.S. dollars for 20 number of Brands. ",
-      "The Brand value in million U.S. dollars is appeared to be the highest at Brand Amazon and lowest at Brand Nike. ",
-      "The highest Brand Amazon has 155484.0 more Brand value in million U.S. dollars than the lowest Brand Nike. "
+      "This is a bar chart representing Brand in the x axis and Brand value in million U.S. dollars in the y axis. ",
+      "Brand Amazon has the highest Brand value in million U.S. dollars and Nike has the lowest Brand value in million U.S. dollars. ",
+      "There is a difference of 155484.0 between the maximum Brand Amazon and minimum Brand Nike. "
    ],
    "max_summary": [
       "This is a bar chart representing Brand in the x axis and Brand value in million U.S. dollars in the y axis. ",
-      "Brand Amazon has the highest Brand value in million U.S. dollars and Nike has the lowest Brand value in million U.S. dollars. ",
-      "The second highest Brand value in million U.S. dollars is appeared to be the Brand Apple. ",
+      "The Brand value in million U.S. dollars is appeared to be the highest at Brand Amazon and lowest at Brand Nike. ",
+      "Second maximum Brand value in million U.S. dollars is found at Brand Apple. ",
       "The highest Brand Amazon has 155484.0 more Brand value in million U.S. dollars than the lowest Brand Nike. ",
-      "Brand value in million U.S. dollars at Brand Amazon is 187905.0 , second place is Apple at 153634.0, and thirdly is Google at 142755.0.",
-      "The Brand Nike has 2.75 times less Brand value in million U.S. dollars than average. ",
+      "The Brand Amazon has the highest Brand value in million U.S. dollars, followed by Apple, and Google. Down to the Brand Nike which is the lowest. ",
+      "Considered together, the average Brand value in million U.S. dollars in all 20 Brands is roughly 68368.85. ",
       "The Brand value in million U.S. dollars is 1367377.0 if we add up values of all Brands. "
    ],
    "trends": [

@@ -9,30 +9,30 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart shows SOME LABEL on the Y-axis for 12 different Countrys for 2 groups 2012, and 2013 that are presented on the X-axis. ",
-      " In Country Australia, 2013 had the highest SOME LABEL 371.0 among the 2 groups and in Philippines, 2012 had the lowest SOME LABEL 29.0. ",
-      " Among all the Countrys, 2012 had the highest SOME LABEL in Country Australia and lowest SOME LABEL in Country Philippines. ",
-      "Country Australia and Philippines had the biggest gap of 328.0 between the highest and lowest SOME LABEL found for 2012. "
+      "This grouped bar chart shows Number of restaurants on the Y-axis for 12 different Countrys for 2 groups 2012, and 2013 that are presented on the X-axis. ",
+      " In Country Australia, 2013 had the highest Number of restaurants 371.0 among the 2 groups and in Philippines, 2012 had the lowest Number of restaurants 29.0. ",
+      " In Country Australia, 2012 had the maximum Number of restaurants and it saw the lowest in Country Philippines out of all 12 Countrys. ",
+      "Country Australia and Philippines had the biggest gap of 328.0 between the highest and lowest Number of restaurants found for 2012. "
    ],
    "xAxis": "Country",
-   "yAxis": "SOME LABEL",
+   "yAxis": "Number of restaurants",
    "min_summary": [
-      "This grouped bar chart shows SOME LABEL on the Y-axis for 12 different Countrys for 2 groups 2012, and 2013 that are presented on the X-axis. ",
-      " In Country Australia, 2013 had the highest SOME LABEL 371.0 among the 2 groups and in Philippines, 2012 had the lowest SOME LABEL 29.0. "
+      "This grouped bar chart represents 12 different Countrys on X-axis for 2 groups 2012, and 2013. On the Y-axis it shows their corresponding Number of restaurants. ",
+      " Out of all 2 groups, 2013 had the highest Number of restaurants in Country Australia and 2012 had the lowest Number of restaurants in Country Philippines. "
    ],
    "mid_summary": [
-      "This grouped bar chart shows SOME LABEL on the Y-axis for 12 different Countrys for 2 groups 2012, and 2013 that are presented on the X-axis. ",
-      " In Country Australia, 2013 had the highest SOME LABEL 371.0 among the 2 groups and in Philippines, 2012 had the lowest SOME LABEL 29.0. ",
-      " Among all the Countrys, 2012 had the highest SOME LABEL in Country Australia and lowest SOME LABEL in Country Philippines. ",
-      "Country Australia and Philippines had the biggest gap of 328.0 between the highest and lowest SOME LABEL found for 2012. "
+      "This grouped bar chart shows Number of restaurants on the Y-axis for 12 different Countrys for 2 groups 2012, and 2013 that are presented on the X-axis. ",
+      " In Country Australia, 2013 had the highest Number of restaurants 371.0 among the 2 groups and in Philippines, 2012 had the lowest Number of restaurants 29.0. ",
+      " In Country Australia, 2012 had the maximum Number of restaurants and it saw the lowest in Country Philippines out of all 12 Countrys. ",
+      "Country Australia and Philippines had the biggest gap of 328.0 between the highest and lowest Number of restaurants found for 2012. "
    ],
    "max_summary": [
-      "This grouped bar chart represents 12 different Countrys on X-axis for 2 groups 2012, and 2013. On the Y-axis it shows their corresponding SOME LABEL. ",
-      " In Country Australia, 2013 had the highest SOME LABEL 371.0 among the 2 groups and in Philippines, 2012 had the lowest SOME LABEL 29.0. ",
-      " In Country Australia, 2012 had the highest SOME LABEL among all 12 Countrys and it has the lowest SOME LABEL in Country Philippines. ",
-      " There is a gap of 328.0 between the highest and lowest SOME LABEL found for 2012 in Country Australia and Philippines. ",
-      " Among all 2 groups, 2012 had the gap of 328.0 between the maximum and minimum SOME LABEL observed in Country Australia and Philippines respectively. ",
-      "On average, the Country Australia had the highest SOME LABEL for all 2 groups 2012, and 2013. Whereas Thailand had the lowest average SOME LABEL. "
+      "This grouped bar chart represents 12 different Countrys on X-axis for 2 groups 2012, and 2013. On the Y-axis it shows their corresponding Number of restaurants. ",
+      " Country Australia had the maximum Number of restaurants among all 2 groups, and it was for 2013. The minimum Number of restaurants was observed in Country Philippines for 2012. ",
+      " Among all the Countrys, 2012 had the highest Number of restaurants 357.0 in Country Australia and lowest value 29.0 in Country Philippines. ",
+      "Country Australia and Philippines had the biggest gap of 328.0 between the highest and lowest Number of restaurants found for 2012. ",
+      " Out of all 2 groups, the highest gap between the maximum and minimum Number of restaurants was found in case of 2012. ",
+      "Averaging all 2 groups 2012, and 2013, the Country Australia is the maximum Number of restaurants and Thailand is the minimum Number of restaurants. "
    ],
    "trends": [
       {},

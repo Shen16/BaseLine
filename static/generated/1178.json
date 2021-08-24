@@ -6,35 +6,33 @@
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Percentage of population. In total the number of data points it has is 11.",
-      " Overall Percentage of population has increased over the Year.",
-      "Percentage of population is gradually increasing from 2009 to 2014, roughly constant from 2014 to 2018, and lastly roughly decreasing from 2018 to 2019.",
-      "The line significantly ",
-      "The most drastic increase took place within the Year 2010 and 2011.",
-      "The highest Percentage of population, of value 66.0 was reached at Year 2013",
-      "Minimum Percentage of population about 47.0 was reached at Year 2009"
-   ],
-   "min_summary": [
-      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Percentage of population. In total the number of data points it has is 11.",
-      " Overall Percentage of population has increased over the Year.",
-      "Percentage of population is gradually increasing from 2009 to 2014, roughly constant from 2014 to 2018, and lastly roughly decreasing from 2018 to 2019."
-   ],
-   "mid_summary": [
       "This is a line chart with an x axis representing Year and a y axis representing Percentage of population, containing a total of 11 data points.",
-      " In general Percentage of population has rose over the Year.",
-      "Percentage of population is gradually increasing from 2009 to 2014, roughly constant from 2014 to 2018, and lastly roughly decreasing from 2018 to 2019.",
-      "The most drastic increase took place within the Year 2010 and 2011.",
-      "The highest Percentage of population, of value 66.0 was reached at Year 2013",
-      "Minimum Percentage of population about 47.0 was reached at Year 2009"
-   ],
-   "max_summary": [
-      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Percentage of population. In total the number of data points it has is 11.",
       " Overall Percentage of population has increased over the Year.",
-      "Percentage of population is gradually increasing from 2009 to 2014, roughly constant from 2014 to 2018, and lastly roughly decreasing from 2018 to 2019.",
+      "Percentage of population is gradually increasing from 2009 to 2014, roughly constant from 2014 to 2018, and finally roughly decreasing from 2018 to 2019.",
       "The steepest increase occurs in between the Year 2010 and 2011.",
       "The highest Percentage of population, of value 66.0 was reached at Year 2013",
-      "Minimum Percentage of population about 47.0 was reached at Year 2009",
-      "The line drastically "
+      "The lowest Percentage of population, of value 47.0 was reported at Year 2009"
+   ],
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Percentage of population, containing a total of 11 data points.",
+      " Overall Percentage of population has increased over the Year.",
+      "Percentage of population is gradually increasing from 2009 to 2014, roughly constant from 2014 to 2018, and finally roughly decreasing from 2018 to 2019."
+   ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Percentage of population. In total the number of data points it has is 11.",
+      " In general Percentage of population has rose over the Year.",
+      "Percentage of population is gradually increasing from 2009 to 2014, roughly constant from 2014 to 2018, and finally roughly decreasing from 2018 to 2019.",
+      "The steepest increase occurs in between the Year 2010 and 2011.",
+      "The highest Percentage of population, of value 66.0 was reached at Year 2013",
+      "The lowest Percentage of population, of value 47.0 was reported at Year 2009"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Percentage of population, containing a total of 11 data points.",
+      " In general Percentage of population has rose over the Year.",
+      "Percentage of population is gradually increasing from 2009 to 2014, roughly constant from 2014 to 2018, and finally roughly decreasing from 2018 to 2019.",
+      "The steepest increase occurs in between the Year 2010 and 2011.",
+      "The highest Percentage of population, of value 66.0 was reached at Year 2013",
+      "The lowest Percentage of population, of value 47.0 was reported at Year 2009"
    ],
    "trends": [],
    "data": [

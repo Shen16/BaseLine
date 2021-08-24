@@ -6,27 +6,27 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This is a bar chart representing State in the x axis and Black elected officials in the y axis. ",
-      "State Florida has the highest Black elected officials and Texas has the lowest Black elected officials. ",
-      "The highest State Florida has 56.0 more Black elected officials than the lowest State Texas. "
+      "This bar chart has 51 columns on the x axis representing State, and Black elected officials in each State on the y axis. ",
+      "The Black elected officials is appeared to be the highest at State Florida and lowest at State Texas. ",
+      "The Black elected officials of State Texas is 5600000000000.0% smaller than the maximum value at Florida. "
    ],
    "min_summary": [
       "This bar chart has 51 columns on the x axis representing State, and Black elected officials in each State on the y axis. ",
-      "The Black elected officials is highest at State Florida and lowest at State Texas. "
+      "The Black elected officials is appeared to be the highest at State Florida and lowest at State Texas. "
    ],
    "mid_summary": [
-      "This is a bar chart representing State in the x axis and Black elected officials in the y axis. ",
-      "State Florida has the highest Black elected officials and Texas has the lowest Black elected officials. ",
-      "The highest State Florida has 56.0 more Black elected officials than the lowest State Texas. "
+      "This bar chart has 51 columns on the x axis representing State, and Black elected officials in each State on the y axis. ",
+      "The Black elected officials is appeared to be the highest at State Florida and lowest at State Texas. ",
+      "The Black elected officials of State Texas is 5600000000000.0% smaller than the maximum value at Florida. "
    ],
    "max_summary": [
-      "This bar chart has 51 columns on the x axis representing State, and Black elected officials in each State on the y axis. ",
+      "This is a bar chart. It shows Black elected officials for 51 number of States. ",
       "State Florida has the highest Black elected officials and Texas has the lowest Black elected officials. ",
-      "There is a difference of 56.0 between the maximum State Florida and minimum State Texas. ",
-      "Black elected officials at State Florida is 56.0 , second place is Minnesota at 49.0, and thirdly is Maine at 44.0.",
-      "Similar Black elected officials is found in State Texas, Georgia, North Carolina, Louisiana, South Carolina, Wyoming, and Missouri. ",
-      "The State Texas has 4.53 times less Black elected officials than average. ",
-      "Summing up the values of all States, we get total 630.0. "
+      "State Minnesota has the second highest value for Black elected officials. ",
+      "The highest value at State Florida is 5600000000000.0x times more than the lowest value at Texas. ",
+      "State Florida is higher than any other States with value 56.0, followed by Minnesota, and Maine. Down to State Texas with the lowest value 0.0. ",
+      "State Texas, Georgia, North Carolina, Louisiana, South Carolina, Wyoming, and Missouri share the same value 0.0. ",
+      "The State Florida has 4.53 times more Black elected officials than average. "
    ],
    "trends": [
       {},

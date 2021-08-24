@@ -6,31 +6,29 @@
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This is a line chart with an x axis representing Year and a y axis representing Infant mortality rate per thousand live births, containing a total of 29 data points.",
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Infant mortality rate per thousand live births. In total the number of data points it has is 29.",
       " Overall Infant mortality rate per thousand live births has decreased over the Year.",
-      "The line drastically ",
       "The steepest decrease occurs in between the Year 1990 and 1991.",
-      "Maximum Infant mortality rate per thousand live births, about 9.4 was reported at Year 1990",
-      "The lowest Infant mortality rate per thousand live births, of value 5.6 was reported at Year 2018"
+      "The highest Infant mortality rate per thousand live births, of value 9.4 was reached at Year 1990",
+      "Minimum Infant mortality rate per thousand live births about 5.6 was reached at Year 2018"
    ],
    "min_summary": [
-      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Infant mortality rate per thousand live births. In total the number of data points it has is 29.",
-      " In general Infant mortality rate per thousand live births has fallen over the Year."
+      "This is a line chart with an x axis representing Year and a y axis representing Infant mortality rate per thousand live births, containing a total of 29 data points.",
+      " Overall Infant mortality rate per thousand live births has decreased over the Year."
    ],
    "mid_summary": [
       "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Infant mortality rate per thousand live births. In total the number of data points it has is 29.",
-      " Overall Infant mortality rate per thousand live births has decreased over the Year.",
-      "The most drastic decrease took place within the Year 1990 and 1991.",
-      "Maximum Infant mortality rate per thousand live births, about 9.4 was reported at Year 1990",
-      "The lowest Infant mortality rate per thousand live births, of value 5.6 was reported at Year 2018"
-   ],
-   "max_summary": [
-      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Infant mortality rate per thousand live births. In total the number of data points it has is 29.",
       " In general Infant mortality rate per thousand live births has fallen over the Year.",
       "The steepest decrease occurs in between the Year 1990 and 1991.",
-      "Maximum Infant mortality rate per thousand live births, about 9.4 was reported at Year 1990",
-      "The lowest Infant mortality rate per thousand live births, of value 5.6 was reported at Year 2018",
-      "The line significantly "
+      "The highest Infant mortality rate per thousand live births, of value 9.4 was reached at Year 1990",
+      "Minimum Infant mortality rate per thousand live births about 5.6 was reached at Year 2018"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Infant mortality rate per thousand live births, containing a total of 29 data points.",
+      " In general Infant mortality rate per thousand live births has fallen over the Year.",
+      "The steepest decrease occurs in between the Year 1990 and 1991.",
+      "The highest Infant mortality rate per thousand live births, of value 9.4 was reached at Year 1990",
+      "Minimum Infant mortality rate per thousand live births about 5.6 was reached at Year 2018"
    ],
    "trends": [],
    "data": [

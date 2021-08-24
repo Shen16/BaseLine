@@ -7,24 +7,24 @@
    "summaryType": "baseline",
    "summary": [
       "This bar chart has 4 columns on the x axis representing Duration, and Share of individuals in each Duration on the y axis. ",
-      "The Share of individuals is highest at Duration Once a week (including every day) and lowest at Duration Less than once a week. ",
-      "The highest Duration Once a week (including every day) has 75.0 more Share of individuals than the lowest Duration Less than once a week. "
+      "The maximum Share of individuals 80.0 is found at Duration Once a week (including every day) and the minimum is found at Less than once a week where Duration is 5.0. ",
+      "The difference of Share of individuals between the highest and lowest Duration is 75.0. "
    ],
    "min_summary": [
-      "This bar chart has 4 columns on the x axis representing Duration, and Share of individuals in each Duration on the y axis. ",
-      "The Share of individuals is highest at Duration Once a week (including every day) and lowest at Duration Less than once a week. "
+      "This is a bar chart. It shows Share of individuals for 4 number of Durations. ",
+      "The Share of individuals is appeared to be the highest at Duration Once a week (including every day) and lowest at Duration Less than once a week. "
    ],
    "mid_summary": [
       "This bar chart has 4 columns on the x axis representing Duration, and Share of individuals in each Duration on the y axis. ",
-      "The Share of individuals is highest at Duration Once a week (including every day) and lowest at Duration Less than once a week. ",
-      "The highest Duration Once a week (including every day) has 75.0 more Share of individuals than the lowest Duration Less than once a week. "
+      "The maximum Share of individuals 80.0 is found at Duration Once a week (including every day) and the minimum is found at Less than once a week where Duration is 5.0. ",
+      "The difference of Share of individuals between the highest and lowest Duration is 75.0. "
    ],
    "max_summary": [
       "This is a bar chart. It shows Share of individuals for 4 number of Durations. ",
       "Duration Once a week (including every day) has the highest Share of individuals and Less than once a week has the lowest Share of individuals. ",
-      "Duration Less than once a week has 16.0 times less Share of individuals than Duration Once a week (including every day) which is the highest. ",
-      "Duration Once a week (including every day) is higher than any other Durations with value 80.0, followed by Daily, and At least once a week (but not every day). Down to Duration Less than once a week with the lowest value 5.0. ",
-      "The Duration Less than once a week has 1.94 times less Share of individuals than average. ",
+      "The highest Duration Once a week (including every day) has 75.0 more Share of individuals than the lowest Duration Less than once a week. ",
+      "Share of individuals at Duration Once a week (including every day) is 80.0 , second place is Daily at 69.0, and thirdly is At least once a week (but not every day) at 11.0.",
+      "The lowest value 5.0 at Less than once a week is almost 1.94 times smaller than the average value 41.25. ",
       "Summing up the values of all Durations, we get total 165.0. "
    ],
    "trends": [

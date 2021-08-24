@@ -7,25 +7,27 @@
    "summaryType": "baseline",
    "summary": [
       "This is a bar chart representing Month in the x axis and Index value in the y axis. ",
-      "The Index value is highest at Month Aug 19 and lowest at Month Feb 17. ",
-      "The maximum Month Aug 19 has got 1.15 times higher Index value than the minimum Month Feb 17. "
+      "The maximum Index value 212.06 is found at Month Aug 19 and the minimum is found at Feb 17 where Month is 185.14. ",
+      "The highest Month Aug 19 has 26.92 more Index value than the lowest Month Feb 17. "
    ],
    "min_summary": [
       "This is a bar chart. It shows Index value for 31 number of Months. ",
-      "The Index value is highest at Month Aug 19 and lowest at Month Feb 17. "
+      "The Index value is appeared to be the highest at Month Aug 19 and lowest at Month Feb 17. "
    ],
    "mid_summary": [
       "This is a bar chart representing Month in the x axis and Index value in the y axis. ",
-      "The Index value is highest at Month Aug 19 and lowest at Month Feb 17. ",
-      "The maximum Month Aug 19 has got 1.15 times higher Index value than the minimum Month Feb 17. "
+      "The maximum Index value 212.06 is found at Month Aug 19 and the minimum is found at Feb 17 where Month is 185.14. ",
+      "The highest Month Aug 19 has 26.92 more Index value than the lowest Month Feb 17. "
    ],
    "max_summary": [
-      "This is a bar chart. It shows Index value for 31 number of Months. ",
-      "Month Aug 19 has the highest Index value and Feb 17 has the lowest Index value. ",
-      "The highest Month Aug 19 has 26.92 more Index value than the lowest Month Feb 17. ",
+      "This is a bar chart representing Month in the x axis and Index value in the y axis. ",
+      "The maximum Index value 212.06 is found at Month Aug 19 and the minimum is found at Feb 17 where Month is 185.14. ",
+      "The second highest Index value is appeared to be the Month Jul 19. ",
+      "There is a difference of 26.92 between the maximum Month Aug 19 and minimum Month Feb 17. ",
       "The Month Aug 19 has the highest Index value, followed by Jul 19, and Jun 19. Down to the Month Feb 17 which is the lowest. ",
-      "Overall Index value has reduced over the Months. ",
-      "The lowest value 185.14 at Feb 17 is almost 1.06 times smaller than the average value 200.42. "
+      "Over the past 31 Months, the Index value has declined. ",
+      "The Month Feb 17 tends to be 1.06 percent lower than average. ",
+      "Summing up the values of all Months, we get total 6212.95. "
    ],
    "trends": [
       {},

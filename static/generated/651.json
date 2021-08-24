@@ -13,31 +13,31 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart represents 11 different Responses on X-axis for 6 groups Google, Yahoo, Bing, AOL, Ask, and Other. On the Y-axis it shows their corresponding SOME LABEL. ",
-      " In Response Five words, Bing had the highest SOME LABEL 8704.0 among the 6 groups and in Ten or more words, AOL had the lowest SOME LABEL 0.0. ",
-      " Among all the Responses, Other had the highest SOME LABEL 2958.0 in Response One word and lowest value 0.0 in Response Eight words. ",
-      " The maximum SOME LABEL for Other that was found in Response One word was 0 times larger than the minimum SOME LABEL observed in Response Eight words. "
+      "This grouped bar chart shows Market Share on the Y-axis for 11 different Responses for 6 groups Google, Yahoo, Bing, AOL, Ask, and Other that are presented on the X-axis. ",
+      " Out of all 6 groups, Bing had the highest Market Share in Response Five words and AOL had the lowest Market Share in Response Ten or more words. ",
+      " Among all the Responses, Ask had the highest Market Share 1937.0 in Response Ten or more words and lowest value 34.0 in Response Total. ",
+      " There is a gap of 1903.0 between the highest and lowest Market Share found for Ask in Response Ten or more words and Total. "
    ],
    "xAxis": "Response",
-   "yAxis": "SOME LABEL",
+   "yAxis": "Market Share",
    "min_summary": [
-      "This grouped bar chart represents 11 different Responses on X-axis for 6 groups Google, Yahoo, Bing, AOL, Ask, and Other. On the Y-axis it shows their corresponding SOME LABEL. ",
-      " In Response Five words, Bing had the highest SOME LABEL 8704.0 among the 6 groups and in Ten or more words, AOL had the lowest SOME LABEL 0.0. "
+      "This grouped bar chart represents 11 different Responses on X-axis for 6 groups Google, Yahoo, Bing, AOL, Ask, and Other. On the Y-axis it shows their corresponding Market Share. ",
+      " Response Five words had the maximum Market Share among all 6 groups, and it was for Bing. The minimum Market Share was observed in Response Ten or more words for AOL. "
    ],
    "mid_summary": [
-      "This grouped bar chart represents 11 different Responses on X-axis for 6 groups Google, Yahoo, Bing, AOL, Ask, and Other. On the Y-axis it shows their corresponding SOME LABEL. ",
-      " In Response Five words, Bing had the highest SOME LABEL 8704.0 among the 6 groups and in Ten or more words, AOL had the lowest SOME LABEL 0.0. ",
-      " Among all the Responses, Other had the highest SOME LABEL 2958.0 in Response One word and lowest value 0.0 in Response Eight words. ",
-      " The maximum SOME LABEL for Other that was found in Response One word was 0 times larger than the minimum SOME LABEL observed in Response Eight words. "
+      "This grouped bar chart shows Market Share on the Y-axis for 11 different Responses for 6 groups Google, Yahoo, Bing, AOL, Ask, and Other that are presented on the X-axis. ",
+      " Out of all 6 groups, Bing had the highest Market Share in Response Five words and AOL had the lowest Market Share in Response Ten or more words. ",
+      " Among all the Responses, Ask had the highest Market Share 1937.0 in Response Ten or more words and lowest value 34.0 in Response Total. ",
+      " There is a gap of 1903.0 between the highest and lowest Market Share found for Ask in Response Ten or more words and Total. "
    ],
    "max_summary": [
-      "This grouped bar chart shows SOME LABEL on the Y-axis for 11 different Responses for 6 groups Google, Yahoo, Bing, AOL, Ask, and Other that are presented on the X-axis. ",
-      " Response Five words had the maximum SOME LABEL among all 6 groups, and it was for Bing. The minimum SOME LABEL was observed in Response Ten or more words for AOL. ",
-      " Among all the Responses, Other had the highest SOME LABEL in Response One word and lowest SOME LABEL in Response Eight words. ",
-      "Response One word and Eight words had the biggest gap of 2958.0 between the highest and lowest SOME LABEL found for Other. ",
-      " Among all 6 groups, Bing had the gap of 6157.0 between the maximum and minimum SOME LABEL observed in Response Five words and One word respectively. ",
-      " In Response Five words, Bing had the highest SOME LABEL 8704.0 among the 6 groups and in Ten or more words, AOL had the lowest SOME LABEL 0.0. The second highest SOME LABEL 942.0 was observed for Bing in Response Five words. ",
-      "On average, the Response Total had the highest SOME LABEL for all 6 groups Google, Yahoo, Bing, AOL, Ask, and Other. Whereas Three words had the lowest average SOME LABEL. "
+      "This grouped bar chart represents 11 different Responses on X-axis for 6 groups Google, Yahoo, Bing, AOL, Ask, and Other. On the Y-axis it shows their corresponding Market Share. ",
+      " Out of all 6 groups, Bing had the highest Market Share in Response Five words and AOL had the lowest Market Share in Response Ten or more words. ",
+      " Among all the Responses, Ask had the highest Market Share 1937.0 in Response Ten or more words and lowest value 34.0 in Response Total. ",
+      " The maximum Market Share for Ask that was found in Response Ten or more words was 56.97 times larger than the minimum Market Share observed in Response Total. ",
+      " Out of all 6 groups, the highest gap between the maximum and minimum Market Share was found in case of Bing. ",
+      " Bing had the maximum Market Share out of all 6 groups in Response Five words followed by Bing in Five words, and the minimum Market Share is found for AOL in Ten or more words. ",
+      "On average, the Response Total had the highest Market Share for all 6 groups Google, Yahoo, Bing, AOL, Ask, and Other. Whereas Three words had the lowest average Market Share. "
    ],
    "trends": [
       {},

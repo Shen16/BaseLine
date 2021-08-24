@@ -9,37 +9,23 @@
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "You are viewing a chart of multi-line type with 2 lines denoting Public use, and Private use. The y axis indicates the Number of airports and the x axis indicates Year.",
-      "Overall Private use is gradually decreasing, Public use is roughly constant,  throughout the Year",
+      "Overall Public use, and Private use are roughly constant,  throughout the Year",
       "The ranking of the lines from topmost to botommmost is as follows: 1. Private use, and lastly, 2. Public use. ",
-      "Overall across the Year, Private use mostly maintained the highest Number of airports when compared to others with a mean value of 14126.75, and it peaked at 7.",
-      "The botommost line, Public use,  has a mean of 5236.2, and peaked at 90. ",
       "Public use reported the lowest Number of airports about 5087.0 in Year 18",
-      "The greatest difference of Number of airports between Public use and Private use occurs at Year 7 and the smallest difference occurs at 90."
+      "The difference of Number of airports between Public use and Private use is roughly same at Year 18 compared to the Year 10."
    ],
    "xAxis": "Year",
    "yAxis": "Number of airports",
    "min_summary": [
-      "The given chart is of multi-line type with 2 lines namely Public use, and Private use. The y axis represents Number of airports and the x axis represents Year.",
-      "Overall Private use is gradually decreasing, Public use is roughly constant,  throughout the Year",
-      "Overall across the Year, Private use mostly maintained the highest Number of airports when compared to others with a mean value of 14126.75, and it peaked at 7.",
-      "The botommost line, Public use,  has a mean of 5236.2, and peaked at 90. "
+      "Overall Public use, and Private use are roughly constant,  throughout the Year"
    ],
    "mid_summary": [
-      "The given chart is of multi-line type with 2 lines namely Public use, and Private use. The y axis represents Number of airports and the x axis represents Year.",
-      "Overall Private use is gradually decreasing, Public use is roughly constant,  throughout the Year",
-      "The ranking of the lines from topmost to botommmost is as follows: 1. Private use, and lastly, 2. Public use. ",
-      "Throughout the period, Private use generally had the highest Number of airports relative to others with an average of 14126.75, and it reached its maximum at 7 with a value of 14839.0.",
-      "Public use mostly had the least Number of airports with a mean value of 5236.2, which peaked at 90 with a value of 5589.0. "
+      "Overall Public use, and Private use are roughly constant,  throughout the Year"
    ],
    "max_summary": [
-      "You are viewing a chart of multi-line type with 2 lines denoting Public use, and Private use. The y axis indicates the Number of airports and the x axis indicates Year.",
-      "Overall Private use is gradually decreasing, Public use is roughly constant,  throughout the Year",
-      "The lines ordered according to average values of Number of airports in descending order is: 1. Private use, and lastly, 2. Public use. ",
-      "Throughout the period, Private use generally had the highest Number of airports relative to others with an average of 14126.75, and it reached its maximum at 7 with a value of 14839.0.",
-      "The botommost line, Public use,  has a mean of 5236.2, and peaked at 90. ",
+      "Overall Public use, and Private use are roughly constant,  throughout the Year",
       "The minimum Number of airports about 5087.0, occured at 18 by Public use.",
-      "The difference of Number of airports between Public use and Private use is smaller at Year 95 compared to the Year 0."
+      "The greatest difference of Number of airports between Public use and Private use occurs at Year 18 and the smallest difference occurs at 14."
    ],
    "trends": [
       {},
@@ -55,11 +41,11 @@
       },
       {
          "1": [
-            "10",
+            "7",
             "1"
          ],
          "9": [
-            "10",
+            "7",
             "1"
          ]
       },
@@ -75,11 +61,11 @@
       },
       {
          "1": [
-            "19",
+            "0",
             "0"
          ],
          "10": [
-            "19",
+            "0",
             "0"
          ]
       }

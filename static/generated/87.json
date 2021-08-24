@@ -6,26 +6,26 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 10 columns on the x axis representing Brand, and Brand value in million U.S. dollars in each Brand on the y axis. ",
-      "Brand Eni has the highest Brand value in million U.S. dollars and Poste Italiane Spa has the lowest Brand value in million U.S. dollars. ",
-      "The highest Brand Eni has 7591.0 more Brand value in million U.S. dollars than the lowest Brand Poste Italiane Spa. "
+      "This is a bar chart. It shows Brand value in million U.S. dollars for 10 number of Brands. ",
+      "The maximum Brand value in million U.S. dollars 10711.0 is found at Brand Eni and the minimum is found at Poste Italiane Spa where Brand is 3120.0. ",
+      "The minimum Brand Poste Italiane Spa has got 3.43 times less Brand value in million U.S. dollars than the maximum Brand Eni. "
    ],
    "min_summary": [
-      "This is a bar chart representing Brand in the x axis and Brand value in million U.S. dollars in the y axis. ",
-      "Brand Eni has the highest Brand value in million U.S. dollars and Poste Italiane Spa has the lowest Brand value in million U.S. dollars. "
+      "This bar chart has 10 columns on the x axis representing Brand, and Brand value in million U.S. dollars in each Brand on the y axis. ",
+      "The maximum Brand value in million U.S. dollars 10711.0 is found at Brand Eni and the minimum is found at Poste Italiane Spa where Brand is 3120.0. "
    ],
    "mid_summary": [
-      "This bar chart has 10 columns on the x axis representing Brand, and Brand value in million U.S. dollars in each Brand on the y axis. ",
-      "Brand Eni has the highest Brand value in million U.S. dollars and Poste Italiane Spa has the lowest Brand value in million U.S. dollars. ",
-      "The highest Brand Eni has 7591.0 more Brand value in million U.S. dollars than the lowest Brand Poste Italiane Spa. "
+      "This is a bar chart. It shows Brand value in million U.S. dollars for 10 number of Brands. ",
+      "The maximum Brand value in million U.S. dollars 10711.0 is found at Brand Eni and the minimum is found at Poste Italiane Spa where Brand is 3120.0. ",
+      "The minimum Brand Poste Italiane Spa has got 3.43 times less Brand value in million U.S. dollars than the maximum Brand Eni. "
    ],
    "max_summary": [
       "This bar chart has 10 columns on the x axis representing Brand, and Brand value in million U.S. dollars in each Brand on the y axis. ",
       "The Brand value in million U.S. dollars is highest at Brand Eni and lowest at Brand Poste Italiane Spa. ",
-      "Brand Enel has the second highest value for Brand value in million U.S. dollars. ",
-      "The maximum Brand Eni has got 3.43 times higher Brand value in million U.S. dollars than the minimum Brand Poste Italiane Spa. ",
-      "The Brand Eni has the highest Brand value in million U.S. dollars, followed by Enel, and Gucci. Down to the Brand Poste Italiane Spa which is the lowest. ",
-      "The Brand Poste Italiane Spa has 1.48 times less Brand value in million U.S. dollars than average. ",
+      "Second maximum Brand value in million U.S. dollars is found at Brand Enel. ",
+      "There is a difference of 7591.0 between the maximum Brand Eni and minimum Brand Poste Italiane Spa. ",
+      "Brand Eni is higher than any other Brands with value 10711.0, followed by Enel, and Gucci. Down to Brand Poste Italiane Spa with the lowest value 3120.0. ",
+      "The highest value 10711.0 at Eni is almost 1.48 times larger than the average value 7232.7. ",
       "The Brand value in million U.S. dollars is 72327.0 if we add up values of all Brands. "
    ],
    "trends": [

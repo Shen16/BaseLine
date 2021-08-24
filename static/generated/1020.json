@@ -6,25 +6,26 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This is a bar chart. It shows Share of respondents for 3 number of Responses. ",
-      "The Share of respondents is appeared to be the highest at Response Yes should and lowest at Response No opinion. ",
+      "This bar chart has 3 columns on the x axis representing Response, and Share of respondents in each Response on the y axis. ",
+      "Response Yes should has the highest Share of respondents and No opinion has the lowest Share of respondents. ",
       "The highest Response Yes should has 61.0 more Share of respondents than the lowest Response No opinion. "
    ],
    "min_summary": [
-      "This is a bar chart representing Response in the x axis and Share of respondents in the y axis. ",
-      "The Share of respondents is appeared to be the highest at Response Yes should and lowest at Response No opinion. "
+      "This bar chart has 3 columns on the x axis representing Response, and Share of respondents in each Response on the y axis. ",
+      "Response Yes should has the highest Share of respondents and No opinion has the lowest Share of respondents. "
    ],
    "mid_summary": [
-      "This is a bar chart. It shows Share of respondents for 3 number of Responses. ",
-      "The Share of respondents is appeared to be the highest at Response Yes should and lowest at Response No opinion. ",
+      "This bar chart has 3 columns on the x axis representing Response, and Share of respondents in each Response on the y axis. ",
+      "Response Yes should has the highest Share of respondents and No opinion has the lowest Share of respondents. ",
       "The highest Response Yes should has 61.0 more Share of respondents than the lowest Response No opinion. "
    ],
    "max_summary": [
       "This bar chart has 3 columns on the x axis representing Response, and Share of respondents in each Response on the y axis. ",
-      "The Share of respondents is highest at Response Yes should and lowest at Response No opinion. ",
-      "Second maximum Share of respondents is found at Response No should not. ",
-      "The difference of Share of respondents between the highest and lowest Response is 61.0. ",
-      "Considered together, the average Share of respondents in all 3 Responses is roughly 33.33. "
+      "The Share of respondents is appeared to be the highest at Response Yes should and lowest at Response No opinion. ",
+      "The second highest Share of respondents is appeared to be the Response No should not. ",
+      "There is a difference of 61.0 between the maximum Response Yes should and minimum Response No opinion. ",
+      "The highest value 63.0 at Yes should is almost 1.89 times larger than the average value 33.33. ",
+      "The Share of respondents is 100.0 if we add up values of all Responses. "
    ],
    "trends": [
       {},

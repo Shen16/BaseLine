@@ -6,25 +6,25 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This is a bar chart representing Ownership Type in the x axis and Number of TEUs in the y axis. ",
+      "This is a bar chart. It shows Number of TEUs for 3 number of Ownership Types. ",
       "The maximum Number of TEUs 2771795.0 is found at Ownership Type Chartered and the minimum is found at Orderbook where Ownership Type is 217500.0. ",
-      "The highest Ownership Type Chartered has 2554295.0 more Number of TEUs than the lowest Ownership Type Orderbook. "
+      "The difference of Number of TEUs between the highest and lowest Ownership Type is 2554295.0. "
    ],
    "min_summary": [
       "This is a bar chart. It shows Number of TEUs for 3 number of Ownership Types. ",
-      "Ownership Type Chartered has the highest Number of TEUs and Orderbook has the lowest Number of TEUs. "
+      "The Number of TEUs is appeared to be the highest at Ownership Type Chartered and lowest at Ownership Type Orderbook. "
    ],
    "mid_summary": [
-      "This is a bar chart representing Ownership Type in the x axis and Number of TEUs in the y axis. ",
+      "This is a bar chart. It shows Number of TEUs for 3 number of Ownership Types. ",
       "The maximum Number of TEUs 2771795.0 is found at Ownership Type Chartered and the minimum is found at Orderbook where Ownership Type is 217500.0. ",
-      "The highest Ownership Type Chartered has 2554295.0 more Number of TEUs than the lowest Ownership Type Orderbook. "
+      "The difference of Number of TEUs between the highest and lowest Ownership Type is 2554295.0. "
    ],
    "max_summary": [
-      "This is a bar chart representing Ownership Type in the x axis and Number of TEUs in the y axis. ",
-      "The maximum Number of TEUs 2771795.0 is found at Ownership Type Chartered and the minimum is found at Orderbook where Ownership Type is 217500.0. ",
-      "The second highest Number of TEUs is appeared to be the Ownership Type Owned. ",
-      "The highest Ownership Type Chartered has 2554295.0 more Number of TEUs than the lowest Ownership Type Orderbook. ",
-      "Considered together, the average Number of TEUs in all 3 Ownership Types is roughly 1344698.33. "
+      "This is a bar chart. It shows Number of TEUs for 3 number of Ownership Types. ",
+      "Ownership Type Chartered has the highest Number of TEUs and Orderbook has the lowest Number of TEUs. ",
+      "The minimum Ownership Type Orderbook has got 12.74 times less Number of TEUs than the maximum Ownership Type Chartered. ",
+      "The lowest value 217500.0 at Orderbook is almost 2.06 times smaller than the average value 1344698.33. ",
+      "Summing up the values of all Ownership Types, we get total 4034095.0. "
    ],
    "trends": [
       {},

@@ -6,26 +6,26 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This is a bar chart. It shows Number of households in millions for 8 number of Age of householders. ",
+      "This is a bar chart representing Age of householder in the x axis and Number of households in millions in the y axis. ",
       "The Number of households in millions is appeared to be the highest at Age of householder 45 to 54 years old and lowest at Age of householder 15 to 24 years old. ",
-      "The maximum Age of householder 45 to 54 years old has got 3.7 times higher Number of households in millions than the minimum Age of householder 15 to 24 years old. "
+      "The highest Age of householder 45 to 54 years old has 17.2 more Number of households in millions than the lowest Age of householder 15 to 24 years old. "
    ],
    "min_summary": [
-      "This is a bar chart representing Age of householder in the x axis and Number of households in millions in the y axis. ",
-      "The maximum Number of households in millions 23.57 is found at Age of householder 45 to 54 years old and the minimum is found at 15 to 24 years old where Age of householder is 6.37. "
+      "This bar chart has 8 columns on the x axis representing Age of householder, and Number of households in millions in each Age of householder on the y axis. ",
+      "The Number of households in millions is highest at Age of householder 45 to 54 years old and lowest at Age of householder 15 to 24 years old. "
    ],
    "mid_summary": [
-      "This is a bar chart. It shows Number of households in millions for 8 number of Age of householders. ",
+      "This is a bar chart representing Age of householder in the x axis and Number of households in millions in the y axis. ",
       "The Number of households in millions is appeared to be the highest at Age of householder 45 to 54 years old and lowest at Age of householder 15 to 24 years old. ",
-      "The maximum Age of householder 45 to 54 years old has got 3.7 times higher Number of households in millions than the minimum Age of householder 15 to 24 years old. "
+      "The highest Age of householder 45 to 54 years old has 17.2 more Number of households in millions than the lowest Age of householder 15 to 24 years old. "
    ],
    "max_summary": [
       "This is a bar chart representing Age of householder in the x axis and Number of households in millions in the y axis. ",
-      "The Number of households in millions is highest at Age of householder 45 to 54 years old and lowest at Age of householder 15 to 24 years old. ",
-      "The second highest Number of households in millions is appeared to be the Age of householder 55 to 64 years old. ",
-      "The lowest value at Age of householder 15 to 24 years old is 3.7x times less than the highest value at 45 to 54 years old. ",
-      "Age of householder 45 to 54 years old is higher than any other Age of householders with value 23.57, followed by 55 to 64 years old, and 35 to 44 years old. Down to Age of householder 15 to 24 years old with the lowest value 6.37. ",
-      "Considered together, the average Number of households in millions in all 8 Age of householders is roughly 15.58. ",
+      "The maximum Number of households in millions 23.57 is found at Age of householder 45 to 54 years old and the minimum is found at 15 to 24 years old where Age of householder is 6.37. ",
+      "Age of householder 55 to 64 years old has the second highest value for Number of households in millions. ",
+      "The minimum Age of householder 15 to 24 years old has got 3.7 times less Number of households in millions than the maximum Age of householder 45 to 54 years old. ",
+      "The Age of householder 45 to 54 years old has the highest Number of households in millions, followed by 55 to 64 years old, and 35 to 44 years old. Down to the Age of householder 15 to 24 years old which is the lowest. ",
+      "The Age of householder 15 to 24 years old has 1.51 times less Number of households in millions than average. ",
       "The Number of households in millions is 124.6 if we add up values of all Age of householders. "
    ],
    "trends": [

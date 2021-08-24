@@ -10,39 +10,21 @@
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This is a multi-line chart with 3 lines representing Agriculture, Industry, and Services. The y axis denotes Share of the workforce and the x axis denotes Year.",
-      "Overall Services is gradually increasing, Agriculture is gradually decreasing, Industry is roughly constant,  throughout the Year",
-      "The ranking of the lines from topmost to botommmost is as follows: 1. Services, 2. Agriculture, and lastly, 3. Industry. ",
-      "Overall across the Year, Services mostly maintained the highest Share of the workforce when compared to others with a mean value of 39.08, and it peaked at 2018.",
-      "After Services, Agriculture overall has the second highest values , with a mean value of 32.1, peaking at 2008. ",
-      "The botommost line, Industry,  has a mean of 28.85, and peaked at 2012. ",
-      "Agriculture reported the lowest Share of the workforce about 26.1 in Year 2018"
+      "Overall Services is gradually increasing, Agriculture, and Industry are roughly constant,  throughout the Year",
+      "The ranking of the lines from topmost to botommmost is as follows: 1. Services, 2. Industry, and lastly, 3. Agriculture. ",
+      "The minimum Share of the workforce about 27.0, occured at 2017 by Agriculture."
    ],
    "xAxis": "Year",
    "yAxis": "Share of the workforce",
    "min_summary": [
-      "The given chart is of multi-line type with 3 lines namely Agriculture, Industry, and Services. The y axis represents Share of the workforce and the x axis represents Year.",
-      "Overall Services is gradually increasing, Agriculture is gradually decreasing, Industry is roughly constant,  throughout the Year",
-      "Throughout the period, Services generally had the highest Share of the workforce relative to others with an average of 39.08, and it reached its maximum at 2018 with a value of 46.3.",
-      "After Services, Agriculture overall has the second highest values , with a mean value of 32.1, peaking at 2008. ",
-      "Industry mostly had the least Share of the workforce with a mean value of 28.85, which peaked at 2012 with a value of 30.3. "
+      "Overall Services is gradually increasing, Agriculture, and Industry are roughly constant,  throughout the Year"
    ],
    "mid_summary": [
-      "This is a multi-line chart with 3 lines representing Agriculture, Industry, and Services. The y axis denotes Share of the workforce and the x axis denotes Year.",
-      "Overall Services is gradually increasing, Agriculture is gradually decreasing, Industry is roughly constant,  throughout the Year",
-      "The lines ordered according to average values of Share of the workforce in descending order is: 1. Services, 2. Agriculture, and lastly, 3. Industry. ",
-      "Throughout the period, Services generally had the highest Share of the workforce relative to others with an average of 39.08, and it reached its maximum at 2018 with a value of 46.3.",
-      "Followed by Agriculture which ranks as the second topmpost line , with an average of 32.1 Share of the workforce,reaching its highest point  at 2008 with a value of 39.6. ",
-      "The botommost line, Industry,  has a mean of 28.85, and peaked at 2012. "
+      "Overall Services is gradually increasing, Agriculture, and Industry are roughly constant,  throughout the Year"
    ],
    "max_summary": [
-      "This is a multi-line chart with 3 lines representing Agriculture, Industry, and Services. The y axis denotes Share of the workforce and the x axis denotes Year.",
-      "Overall Services is gradually increasing, Agriculture is gradually decreasing, Industry is roughly constant,  throughout the Year",
-      "The lines ordered according to average values of Share of the workforce in descending order is: 1. Services, 2. Agriculture, and lastly, 3. Industry. ",
-      "Overall across the Year, Services mostly maintained the highest Share of the workforce when compared to others with a mean value of 39.08, and it peaked at 2018.",
-      "Followed by Agriculture which ranks as the second topmpost line , with an average of 32.1 Share of the workforce,reaching its highest point  at 2008 with a value of 39.6. ",
-      "The botommost line, Industry,  has a mean of 28.85, and peaked at 2012. ",
-      "The minimum Share of the workforce about 26.1, occured at 2018 by Agriculture."
+      "Overall Services is gradually increasing, Agriculture, and Industry are roughly constant,  throughout the Year",
+      "Agriculture reported the lowest Share of the workforce about 27.0 in Year 2017"
    ],
    "trends": [
       {},
@@ -58,32 +40,32 @@
       },
       {
          "1": [
-            "0",
+            "2",
             "2"
          ],
          "9": [
-            "0",
+            "2",
             "2"
          ]
       },
       {
          "2": [
             "0",
-            "0"
+            "1"
          ],
          "15": [
             "10",
-            "0"
+            "1"
          ]
       },
       {
          "1": [
-            "10",
-            "0"
+            "0",
+            "1"
          ],
          "10": [
-            "10",
-            "0"
+            "0",
+            "1"
          ]
       }
    ],

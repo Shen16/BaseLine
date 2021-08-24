@@ -6,26 +6,28 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 17 columns on the x axis representing Country, and Amount in million metric tons in each Country on the y axis. ",
+      "This is a bar chart. It shows Amount in million metric tons for 17 number of Countrys. ",
       "Country European Union has the highest Amount in million metric tons and Belarus has the lowest Amount in million metric tons. ",
-      "The minimum Country Belarus has got 33.14 times less Amount in million metric tons than the maximum Country European Union. "
+      "The maximum Country European Union has got 33.14 times higher Amount in million metric tons than the minimum Country Belarus. "
    ],
    "min_summary": [
-      "This is a bar chart representing Country in the x axis and Amount in million metric tons in the y axis. ",
-      "Country European Union has the highest Amount in million metric tons and Belarus has the lowest Amount in million metric tons. "
+      "This bar chart has 17 columns on the x axis representing Country, and Amount in million metric tons in each Country on the y axis. ",
+      "The maximum Amount in million metric tons 56.34 is found at Country European Union and the minimum is found at Belarus where Country is 1.7. "
    ],
    "mid_summary": [
-      "This bar chart has 17 columns on the x axis representing Country, and Amount in million metric tons in each Country on the y axis. ",
+      "This is a bar chart. It shows Amount in million metric tons for 17 number of Countrys. ",
       "Country European Union has the highest Amount in million metric tons and Belarus has the lowest Amount in million metric tons. ",
-      "The minimum Country Belarus has got 33.14 times less Amount in million metric tons than the maximum Country European Union. "
+      "The maximum Country European Union has got 33.14 times higher Amount in million metric tons than the minimum Country Belarus. "
    ],
    "max_summary": [
-      "This is a bar chart representing Country in the x axis and Amount in million metric tons in the y axis. ",
-      "The maximum Amount in million metric tons 56.34 is found at Country European Union and the minimum is found at Belarus where Country is 1.7. ",
+      "This bar chart has 17 columns on the x axis representing Country, and Amount in million metric tons in each Country on the y axis. ",
+      "Country European Union has the highest Amount in million metric tons and Belarus has the lowest Amount in million metric tons. ",
+      "The second highest Amount in million metric tons is appeared to be the Country Russia. ",
       "The difference of Amount in million metric tons between the highest and lowest Country is 54.64. ",
       "Amount in million metric tons at Country European Union is 56.34 , second place is Russia at 16.6, and thirdly is Others at 9.68.",
-      "Similar Amount in million metric tons is found in Country Ukraine, and Turkey. ",
-      "The Country European Union has 6.81 times more Amount in million metric tons than average. "
+      "Country Ukraine, and Turkey share the same value 7.4. ",
+      "The Country Belarus has 6.81 times less Amount in million metric tons than average. ",
+      "The Amount in million metric tons is 140.6 if we add up values of all Countrys. "
    ],
    "trends": [
       {},

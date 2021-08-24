@@ -7,27 +7,25 @@
    "summaryType": "baseline",
    "summary": [
       "This is a bar chart representing Player in the x axis and Number of appearances in the y axis. ",
-      "The Number of appearances is appeared to be the highest at Player Lothar Matth\u00e4us (Germany) and lowest at Player Cafu (Brazil). ",
-      "The highest Player Lothar Matth\u00e4us (Germany) has 5.0 more Number of appearances than the lowest Player Cafu (Brazil). "
+      "Player Lothar Matth\u00e4us (Germany) has the highest Number of appearances and Cafu (Brazil) has the lowest Number of appearances. ",
+      "There is a difference of 5.0 between the maximum Player Lothar Matth\u00e4us (Germany) and minimum Player Cafu (Brazil). "
    ],
    "min_summary": [
-      "This is a bar chart representing Player in the x axis and Number of appearances in the y axis. ",
+      "This bar chart has 10 columns on the x axis representing Player, and Number of appearances in each Player on the y axis. ",
       "Player Lothar Matth\u00e4us (Germany) has the highest Number of appearances and Cafu (Brazil) has the lowest Number of appearances. "
    ],
    "mid_summary": [
       "This is a bar chart representing Player in the x axis and Number of appearances in the y axis. ",
-      "The Number of appearances is appeared to be the highest at Player Lothar Matth\u00e4us (Germany) and lowest at Player Cafu (Brazil). ",
-      "The highest Player Lothar Matth\u00e4us (Germany) has 5.0 more Number of appearances than the lowest Player Cafu (Brazil). "
+      "Player Lothar Matth\u00e4us (Germany) has the highest Number of appearances and Cafu (Brazil) has the lowest Number of appearances. ",
+      "There is a difference of 5.0 between the maximum Player Lothar Matth\u00e4us (Germany) and minimum Player Cafu (Brazil). "
    ],
    "max_summary": [
       "This is a bar chart. It shows Number of appearances for 10 number of Players. ",
       "The maximum Number of appearances 25.0 is found at Player Lothar Matth\u00e4us (Germany) and the minimum is found at Cafu (Brazil) where Player is 20.0. ",
-      "Second maximum Number of appearances is found at Player Miroslav Klose (Germany). ",
-      "The minimum Player Cafu (Brazil) has got 1.25 times less Number of appearances than the maximum Player Lothar Matth\u00e4us (Germany). ",
-      "Player Lothar Matth\u00e4us (Germany) is higher than any other Players with value 25.0, followed by Miroslav Klose (Germany), and Paolo Maldini (Italy). Down to Player Cafu (Brazil) with the lowest value 20.0. ",
-      "Player Cafu (Brazil), Bastian Schweinsteiger (Germany), Philipp Lahm (Germany), and Grzegorz Lato (Poland) have a similar Number of appearances that is 20.0. ",
-      "Considered together, the average Number of appearances in all 10 Players is roughly 21.5. ",
-      "The Number of appearances is 215.0 if we add up values of all Players. "
+      "The maximum Player Lothar Matth\u00e4us (Germany) has got 1.25 times higher Number of appearances than the minimum Player Cafu (Brazil). ",
+      "Number of appearances at Player Lothar Matth\u00e4us (Germany) is 25.0 , second place is Miroslav Klose (Germany) at 24.0, and thirdly is Paolo Maldini (Italy) at 23.0.",
+      "Player Cafu (Brazil), Bastian Schweinsteiger (Germany), Philipp Lahm (Germany), and Grzegorz Lato (Poland) share the same value 20.0. ",
+      "The lowest value 20.0 at Cafu (Brazil) is almost 1.16 times smaller than the average value 21.5. "
    ],
    "trends": [
       {},

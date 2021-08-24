@@ -9,40 +9,21 @@
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "The given chart is of multi-line type with 2 lines namely Desktop, and Mobile. The y axis represents Time in minutes and the x axis represents Year.",
-      "Overall Mobile is rapidly increasing, Desktop is roughly constant,  throughout the Year",
-      "The lines ordered according to average values of Time in minutes in descending order is: 1. Mobile, and lastly, 2. Desktop. ",
-      "Throughout the period, Mobile generally had the highest Time in minutes relative to others with an average of 92.0, and it reached its maximum at 2021 with a value of 155.0.",
-      "Desktop mostly had the least Time in minutes with a mean value of 42.09, which peaked at 2013 with a value of 49.0. ",
-      "The minimum Time in minutes about 32.0, occured at 2011 by Mobile.",
-      "Mobile has increased by 384.375 percent.",
-      "The difference of Time in minutes between Desktop and Mobile is greater at Year 2021 compared to the Year 2011."
+      "Overall Mobile is gradually increasing, Desktop is gradually decreasing,  throughout the Year",
+      "The ranking of the lines from topmost to botommmost is as follows: 1. Mobile, and lastly, 2. Desktop. ",
+      "The difference of Time in minutes between Desktop and Mobile is greater at Year 2020_ compared to the Year 2013."
    ],
    "xAxis": "Year",
    "yAxis": "Time in minutes",
    "min_summary": [
-      "You are viewing a chart of multi-line type with 2 lines denoting Desktop, and Mobile. The y axis indicates the Time in minutes and the x axis indicates Year.",
-      "Overall Mobile is rapidly increasing, Desktop is roughly constant,  throughout the Year",
-      "Overall across the Year, Mobile mostly maintained the highest Time in minutes when compared to others with a mean value of 92.0, and it peaked at 2021.",
-      "Desktop mostly had the least Time in minutes with a mean value of 42.09, which peaked at 2013 with a value of 49.0. "
+      "Overall Mobile is gradually increasing, Desktop is gradually decreasing,  throughout the Year"
    ],
    "mid_summary": [
-      "You are viewing a chart of multi-line type with 2 lines denoting Desktop, and Mobile. The y axis indicates the Time in minutes and the x axis indicates Year.",
-      "Overall Mobile is rapidly increasing, Desktop is roughly constant,  throughout the Year",
-      "Mobile has increased by 384.375 percent.",
-      "The lines ordered according to average values of Time in minutes in descending order is: 1. Mobile, and lastly, 2. Desktop. ",
-      "Throughout the period, Mobile generally had the highest Time in minutes relative to others with an average of 92.0, and it reached its maximum at 2021 with a value of 155.0.",
-      "Desktop mostly had the least Time in minutes with a mean value of 42.09, which peaked at 2013 with a value of 49.0. "
+      "Overall Mobile is gradually increasing, Desktop is gradually decreasing,  throughout the Year"
    ],
    "max_summary": [
-      "This is a multi-line chart with 2 lines representing Desktop, and Mobile. The y axis denotes Time in minutes and the x axis denotes Year.",
-      "Overall Mobile is rapidly increasing, Desktop is roughly constant,  throughout the Year",
-      "Mobile has increased by 384.375 percent.",
-      "The lines ordered according to average values of Time in minutes in descending order is: 1. Mobile, and lastly, 2. Desktop. ",
-      "Overall across the Year, Mobile mostly maintained the highest Time in minutes when compared to others with a mean value of 92.0, and it peaked at 2021.",
-      "The botommost line, Desktop,  has a mean of 42.09, and peaked at 2013. ",
-      "The minimum Time in minutes about 32.0, occured at 2011 by Mobile.",
-      "The difference of Time in minutes between Desktop and Mobile is greater at Year 2021 compared to the Year 2011."
+      "Overall Mobile is gradually increasing, Desktop is gradually decreasing,  throughout the Year",
+      "The greatest difference of Time in minutes between Desktop and Mobile occurs at Year 2020_ and the smallest difference occurs at 2013."
    ],
    "trends": [
       {},
@@ -58,11 +39,11 @@
       },
       {
          "1": [
-            "10",
+            "7",
             "1"
          ],
          "9": [
-            "10",
+            "7",
             "1"
          ]
       },
@@ -78,11 +59,11 @@
       },
       {
          "1": [
-            "2",
+            "0",
             "0"
          ],
          "10": [
-            "2",
+            "0",
             "0"
          ]
       }

@@ -9,35 +9,23 @@
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "The given chart is of multi-line type with 2 lines namely Winning team, and Loosing team. The y axis represents SOME LABEL and the x axis represents Year.",
-      "Overall Winning team, and Loosing team are gradually increasing,  throughout the Year",
-      "The lines ordered according to average values of SOME LABEL in descending order is: 1. Winning team, and lastly, 2. Loosing team. ",
-      "Throughout the period, Winning team generally had the highest SOME LABEL relative to others with an average of 105.8, and it reached its maximum at 2020 with a value of 130.0.",
-      "Loosing team mostly had the least SOME LABEL with a mean value of 52.9, which peaked at 2020 with a value of 65.0. ",
-      "The greatest difference of SOME LABEL between Winning team and Loosing team occurs at Year 2020 and the smallest difference occurs at 2011."
-   ],
-   "xAxis": "Year",
-   "yAxis": "SOME LABEL",
-   "min_summary": [
-      "You are viewing a chart of multi-line type with 2 lines denoting Winning team, and Loosing team. The y axis indicates the SOME LABEL and the x axis indicates Year.",
-      "Overall Winning team, and Loosing team are gradually increasing,  throughout the Year",
-      "Overall across the Year, Winning team mostly maintained the highest SOME LABEL when compared to others with a mean value of 105.8, and it peaked at 2020.",
-      "The botommost line, Loosing team,  has a mean of 52.9, and peaked at 2020. "
-   ],
-   "mid_summary": [
-      "This is a multi-line chart with 2 lines representing Winning team, and Loosing team. The y axis denotes SOME LABEL and the x axis denotes Year.",
-      "Overall Winning team, and Loosing team are gradually increasing,  throughout the Year",
-      "The lines ordered according to average values of SOME LABEL in descending order is: 1. Winning team, and lastly, 2. Loosing team. ",
-      "Overall across the Year, Winning team mostly maintained the highest SOME LABEL when compared to others with a mean value of 105.8, and it peaked at 2020.",
-      "The botommost line, Loosing team,  has a mean of 52.9, and peaked at 2020. "
-   ],
-   "max_summary": [
-      "This is a multi-line chart with 2 lines representing Winning team, and Loosing team. The y axis denotes SOME LABEL and the x axis denotes Year.",
       "Overall Winning team, and Loosing team are gradually increasing,  throughout the Year",
       "The ranking of the lines from topmost to botommmost is as follows: 1. Winning team, and lastly, 2. Loosing team. ",
-      "Throughout the period, Winning team generally had the highest SOME LABEL relative to others with an average of 105.8, and it reached its maximum at 2020 with a value of 130.0.",
-      "The botommost line, Loosing team,  has a mean of 52.9, and peaked at 2020. ",
-      "The greatest difference of SOME LABEL between Winning team and Loosing team occurs at Year 2020 and the smallest difference occurs at 2011."
+      "Loosing team reported the lowest Pay in thousand U.S. dollars about 44.0 in Year 2012",
+      "The greatest difference of Pay in thousand U.S. dollars between Winning team and Loosing team occurs at Year 2016 and the smallest difference occurs at 2012."
+   ],
+   "xAxis": "Year",
+   "yAxis": "Pay in thousand U.S. dollars",
+   "min_summary": [
+      "Overall Winning team, and Loosing team are gradually increasing,  throughout the Year"
+   ],
+   "mid_summary": [
+      "Overall Winning team, and Loosing team are gradually increasing,  throughout the Year"
+   ],
+   "max_summary": [
+      "Overall Winning team, and Loosing team are gradually increasing,  throughout the Year",
+      "Loosing team reported the lowest Pay in thousand U.S. dollars about 44.0 in Year 2012",
+      "The greatest difference of Pay in thousand U.S. dollars between Winning team and Loosing team occurs at Year 2016 and the smallest difference occurs at 2012."
    ],
    "trends": [
       {},
@@ -53,11 +41,11 @@
       },
       {
          "1": [
-            "0",
+            "4",
             "0"
          ],
          "9": [
-            "0",
+            "4",
             "0"
          ]
       },
@@ -73,11 +61,11 @@
       },
       {
          "1": [
-            "0",
+            "4",
             "1"
          ],
          "10": [
-            "0",
+            "4",
             "1"
          ]
       }

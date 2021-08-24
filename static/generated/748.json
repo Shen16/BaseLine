@@ -11,31 +11,31 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart represents 3 different Responses on X-axis for 4 groups Under $50, $50 - $100, $100 - $200, and $200 and up. On the Y-axis it shows their corresponding SOME LABEL. ",
-      " Response Android owners had the maximum SOME LABEL among all 4 groups, and it was for Under $50. The minimum SOME LABEL was observed in Response BlackBerry owners for $200 and up. ",
-      " In Response iPhone owners, $100 - $200 had the maximum SOME LABEL and it saw the lowest in Response Android owners out of all 3 Responses. ",
-      " The maximum SOME LABEL for $100 - $200 that was found in Response iPhone owners was 2.38 times larger than the minimum SOME LABEL observed in Response Android owners. "
+      "This grouped bar chart shows Share of respondents on the Y-axis for 3 different Responses for 4 groups Under $50, $50 - $100, $100 - $200, and $200 and up that are presented on the X-axis. ",
+      " Out of all 4 groups, Under $50 had the highest Share of respondents in Response Android owners and $200 and up had the lowest Share of respondents in Response BlackBerry owners. ",
+      " Among all the Responses, $100 - $200 had the highest Share of respondents 19.0 in Response iPhone owners and lowest value 8.0 in Response Android owners. ",
+      "Response iPhone owners and Android owners had the biggest gap of 11.0 between the highest and lowest Share of respondents found for $100 - $200. "
    ],
    "xAxis": "Response",
-   "yAxis": "SOME LABEL",
+   "yAxis": "Share of respondents",
    "min_summary": [
-      "This grouped bar chart represents 3 different Responses on X-axis for 4 groups Under $50, $50 - $100, $100 - $200, and $200 and up. On the Y-axis it shows their corresponding SOME LABEL. ",
-      " Out of all 4 groups, Under $50 had the highest SOME LABEL in Response Android owners and $200 and up had the lowest SOME LABEL in Response BlackBerry owners. "
+      "This grouped bar chart represents 3 different Responses on X-axis for 4 groups Under $50, $50 - $100, $100 - $200, and $200 and up. On the Y-axis it shows their corresponding Share of respondents. ",
+      " In Response Android owners, Under $50 had the highest Share of respondents 60.0 among the 4 groups and in BlackBerry owners, $200 and up had the lowest Share of respondents 1.0. "
    ],
    "mid_summary": [
-      "This grouped bar chart represents 3 different Responses on X-axis for 4 groups Under $50, $50 - $100, $100 - $200, and $200 and up. On the Y-axis it shows their corresponding SOME LABEL. ",
-      " Response Android owners had the maximum SOME LABEL among all 4 groups, and it was for Under $50. The minimum SOME LABEL was observed in Response BlackBerry owners for $200 and up. ",
-      " In Response iPhone owners, $100 - $200 had the maximum SOME LABEL and it saw the lowest in Response Android owners out of all 3 Responses. ",
-      " The maximum SOME LABEL for $100 - $200 that was found in Response iPhone owners was 2.38 times larger than the minimum SOME LABEL observed in Response Android owners. "
+      "This grouped bar chart shows Share of respondents on the Y-axis for 3 different Responses for 4 groups Under $50, $50 - $100, $100 - $200, and $200 and up that are presented on the X-axis. ",
+      " Out of all 4 groups, Under $50 had the highest Share of respondents in Response Android owners and $200 and up had the lowest Share of respondents in Response BlackBerry owners. ",
+      " Among all the Responses, $100 - $200 had the highest Share of respondents 19.0 in Response iPhone owners and lowest value 8.0 in Response Android owners. ",
+      "Response iPhone owners and Android owners had the biggest gap of 11.0 between the highest and lowest Share of respondents found for $100 - $200. "
    ],
    "max_summary": [
-      "This grouped bar chart represents 3 different Responses on X-axis for 4 groups Under $50, $50 - $100, $100 - $200, and $200 and up. On the Y-axis it shows their corresponding SOME LABEL. ",
-      " Response Android owners had the maximum SOME LABEL among all 4 groups, and it was for Under $50. The minimum SOME LABEL was observed in Response BlackBerry owners for $200 and up. ",
-      " Among all the Responses, $100 - $200 had the highest SOME LABEL 19.0 in Response iPhone owners and lowest value 8.0 in Response Android owners. ",
-      "Response iPhone owners and Android owners had the biggest gap of 11.0 between the highest and lowest SOME LABEL found for $100 - $200. ",
-      " Among the groups, Under $50 had the biggest difference in SOME LABEL. Where the maximum SOME LABEL was 1.82 times larger than the minimum SOME LABEL. ",
-      " In Response Android owners, Under $50 had the highest SOME LABEL 60.0 among the 4 groups and in BlackBerry owners, $200 and up had the lowest SOME LABEL 1.0. The second highest SOME LABEL 19.0 was observed for Under $50 in Response Android owners. ",
-      "Averaging all 4 groups Under $50, $50 - $100, $100 - $200, and $200 and up, the Response BlackBerry owners is the maximum SOME LABEL and Android owners is the minimum SOME LABEL. "
+      "This grouped bar chart represents 3 different Responses on X-axis for 4 groups Under $50, $50 - $100, $100 - $200, and $200 and up. On the Y-axis it shows their corresponding Share of respondents. ",
+      " In Response Android owners, Under $50 had the highest Share of respondents 60.0 among the 4 groups and in BlackBerry owners, $200 and up had the lowest Share of respondents 1.0. ",
+      " In Response iPhone owners, $100 - $200 had the maximum Share of respondents and it saw the lowest in Response Android owners out of all 3 Responses. ",
+      "Response iPhone owners and Android owners had the biggest gap of 11.0 between the highest and lowest Share of respondents found for $100 - $200. ",
+      " Among all 4 groups, Under $50 had the gap of 27.0 between the maximum and minimum Share of respondents observed in Response Android owners and iPhone owners respectively. ",
+      " Under $50 had the maximum Share of respondents out of all 4 groups in Response Android owners followed by Under $50 in Android owners, and the minimum Share of respondents is found for $200 and up in BlackBerry owners. ",
+      "Averaging all 4 groups Under $50, $50 - $100, $100 - $200, and $200 and up, the Response BlackBerry owners is the maximum Share of respondents and Android owners is the minimum Share of respondents. "
    ],
    "trends": [
       {},

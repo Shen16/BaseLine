@@ -6,26 +6,26 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 4 columns on the x axis representing Ethnicity, and Population in thousands in each Ethnicity on the y axis. ",
-      "The maximum Population in thousands 2969.28 is found at Ethnicity Chinese and the minimum is found at Others where Ethnicity is 128.65. ",
+      "This is a bar chart representing Ethnicity in the x axis and Population in thousands in the y axis. ",
+      "The Population in thousands is appeared to be the highest at Ethnicity Chinese and lowest at Ethnicity Others. ",
       "The highest Ethnicity Chinese has 2840.63 more Population in thousands than the lowest Ethnicity Others. "
    ],
    "min_summary": [
       "This bar chart has 4 columns on the x axis representing Ethnicity, and Population in thousands in each Ethnicity on the y axis. ",
-      "The Population in thousands is highest at Ethnicity Chinese and lowest at Ethnicity Others. "
+      "Ethnicity Chinese has the highest Population in thousands and Others has the lowest Population in thousands. "
    ],
    "mid_summary": [
-      "This bar chart has 4 columns on the x axis representing Ethnicity, and Population in thousands in each Ethnicity on the y axis. ",
-      "The maximum Population in thousands 2969.28 is found at Ethnicity Chinese and the minimum is found at Others where Ethnicity is 128.65. ",
+      "This is a bar chart representing Ethnicity in the x axis and Population in thousands in the y axis. ",
+      "The Population in thousands is appeared to be the highest at Ethnicity Chinese and lowest at Ethnicity Others. ",
       "The highest Ethnicity Chinese has 2840.63 more Population in thousands than the lowest Ethnicity Others. "
    ],
    "max_summary": [
       "This is a bar chart. It shows Population in thousands for 4 number of Ethnicitys. ",
-      "The Population in thousands is highest at Ethnicity Chinese and lowest at Ethnicity Others. ",
-      "Ethnicity Malays has the second highest value for Population in thousands. ",
-      "The difference of Population in thousands between the highest and lowest Ethnicity is 2840.63. ",
-      "Population in thousands at Ethnicity Chinese is 2969.28 , second place is Malays at 535.82, and thirdly is Indians at 360.53.",
-      "Considered together, the average Population in thousands in all 4 Ethnicitys is roughly 998.57. "
+      "The Population in thousands is appeared to be the highest at Ethnicity Chinese and lowest at Ethnicity Others. ",
+      "The Population in thousands of Ethnicity Chinese is 23.08% larger than the minimum value at Others. ",
+      "The Ethnicity Chinese has the highest Population in thousands, followed by Malays, and Indians. Down to the Ethnicity Others which is the lowest. ",
+      "The Ethnicity Chinese tends to be 2.97 percent higher than average. ",
+      "The Population in thousands is 3994.28 if we add up values of all Ethnicitys. "
    ],
    "trends": [
       {},

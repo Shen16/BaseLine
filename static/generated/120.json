@@ -6,27 +6,26 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This is a bar chart representing Brand in the x axis and Sales in million U.S. dollars in the y axis. ",
-      "Brand Organix has the highest Sales in million U.S. dollars and L'Or\u00e9al EverPure has the lowest Sales in million U.S. dollars. ",
+      "This is a bar chart. It shows Sales in million U.S. dollars for 10 number of Brands. ",
+      "The maximum Sales in million U.S. dollars 133.7 is found at Brand Organix and the minimum is found at L'Or\u00e9al EverPure where Brand is 29.0. ",
       "The difference of Sales in million U.S. dollars between the highest and lowest Brand is 104.7. "
    ],
    "min_summary": [
-      "This is a bar chart representing Brand in the x axis and Sales in million U.S. dollars in the y axis. ",
+      "This is a bar chart. It shows Sales in million U.S. dollars for 10 number of Brands. ",
       "The Sales in million U.S. dollars is highest at Brand Organix and lowest at Brand L'Or\u00e9al EverPure. "
    ],
    "mid_summary": [
-      "This is a bar chart representing Brand in the x axis and Sales in million U.S. dollars in the y axis. ",
-      "Brand Organix has the highest Sales in million U.S. dollars and L'Or\u00e9al EverPure has the lowest Sales in million U.S. dollars. ",
+      "This is a bar chart. It shows Sales in million U.S. dollars for 10 number of Brands. ",
+      "The maximum Sales in million U.S. dollars 133.7 is found at Brand Organix and the minimum is found at L'Or\u00e9al EverPure where Brand is 29.0. ",
       "The difference of Sales in million U.S. dollars between the highest and lowest Brand is 104.7. "
    ],
    "max_summary": [
-      "This is a bar chart representing Brand in the x axis and Sales in million U.S. dollars in the y axis. ",
-      "The Sales in million U.S. dollars is appeared to be the highest at Brand Organix and lowest at Brand L'Or\u00e9al EverPure. ",
-      "Second maximum Sales in million U.S. dollars is found at Brand Shea Moisture. ",
-      "The difference of Sales in million U.S. dollars between the highest and lowest Brand is 104.7. ",
-      "Brand Organix is higher than any other Brands with value 133.7, followed by Shea Moisture, and Garnier Whole Blends. Down to Brand L'Or\u00e9al EverPure with the lowest value 29.0. ",
+      "This is a bar chart. It shows Sales in million U.S. dollars for 10 number of Brands. ",
+      "The maximum Sales in million U.S. dollars 133.7 is found at Brand Organix and the minimum is found at L'Or\u00e9al EverPure where Brand is 29.0. ",
+      "The lowest value at Brand L'Or\u00e9al EverPure is 4.61x times less than the highest value at Organix. ",
+      "The Brand Organix has the highest Sales in million U.S. dollars, followed by Shea Moisture, and Garnier Whole Blends. Down to the Brand L'Or\u00e9al EverPure which is the lowest. ",
       "The average Sales in million U.S. dollars in all 10 Brands is 55.87. ",
-      "Summing up the values of all Brands, we get total 558.7. "
+      "The Sales in million U.S. dollars is 558.7 if we add up values of all Brands. "
    ],
    "trends": [
       {},

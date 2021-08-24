@@ -6,27 +6,26 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This is a bar chart. It shows Share of respondents for 15 number of Responses. ",
-      "Response Rock has the highest Share of respondents and Other has the lowest Share of respondents. ",
+      "This is a bar chart representing Response in the x axis and Share of respondents in the y axis. ",
+      "The maximum Share of respondents 56.8 is found at Response Rock and the minimum is found at Other where Response is 9.3. ",
       "There is a difference of 47.5 between the maximum Response Rock and minimum Response Other. "
    ],
    "min_summary": [
       "This is a bar chart representing Response in the x axis and Share of respondents in the y axis. ",
-      "The maximum Share of respondents 56.8 is found at Response Rock and the minimum is found at Other where Response is 9.3. "
+      "The Share of respondents is highest at Response Rock and lowest at Response Other. "
    ],
    "mid_summary": [
-      "This is a bar chart. It shows Share of respondents for 15 number of Responses. ",
-      "Response Rock has the highest Share of respondents and Other has the lowest Share of respondents. ",
+      "This is a bar chart representing Response in the x axis and Share of respondents in the y axis. ",
+      "The maximum Share of respondents 56.8 is found at Response Rock and the minimum is found at Other where Response is 9.3. ",
       "There is a difference of 47.5 between the maximum Response Rock and minimum Response Other. "
    ],
    "max_summary": [
-      "This is a bar chart. It shows Share of respondents for 15 number of Responses. ",
-      "The maximum Share of respondents 56.8 is found at Response Rock and the minimum is found at Other where Response is 9.3. ",
+      "This is a bar chart representing Response in the x axis and Share of respondents in the y axis. ",
+      "The Share of respondents is highest at Response Rock and lowest at Response Other. ",
       "The second highest Share of respondents is appeared to be the Response Pop. ",
-      "The Share of respondents of Response Rock is 6.11% larger than the minimum value at Other. ",
+      "The Share of respondents of Response Other is 6.11% smaller than the maximum value at Rock. ",
       "Share of respondents at Response Rock is 56.8 , second place is Pop at 56.1, and thirdly is Country at 49.9.",
-      "The Response Rock has 2.04 times more Share of respondents than average. ",
-      "Summing up the values of all Responses, we get total 417.4. "
+      "Considered together, the average Share of respondents in all 15 Responses is roughly 27.83. "
    ],
    "trends": [
       {},

@@ -12,31 +12,31 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart represents 6 different Responses on X-axis for 5 groups 2014, 2015, 2016, 2017, and 2018. On the Y-axis it shows their corresponding SOME LABEL. ",
-      " In Response Yes for some types of businesses no for others, 2014 had the highest SOME LABEL 34.0 among the 5 groups and in Yes always, 2014 had the lowest SOME LABEL 0.0. ",
-      " In Response Yes for some types of businesses no for others, 2014 had the maximum SOME LABEL and it saw the lowest in Response Yes always out of all 6 Responses. ",
-      " The maximum SOME LABEL for 2014 that was found in Response Yes for some types of businesses no for others was 34.0 times larger than the minimum SOME LABEL observed in Response Yes always. "
+      "This grouped bar chart shows Trust Percentage on the Y-axis for 6 different Responses for 5 groups 2014, 2015, 2016, 2017, and 2018 that are presented on the X-axis. ",
+      " Response Yes for some types of businesses no for others had the maximum Trust Percentage among all 5 groups, and it was for 2014. The minimum Trust Percentage was observed in Response Yes always for 2014. ",
+      " In Response Yes if there are multiple customer reviews to read, 2018 had the maximum Trust Percentage and it saw the lowest in Response No I don't trust reviews at all out of all 6 Responses. ",
+      " There is a gap of 19.0 between the highest and lowest Trust Percentage found for 2018 in Response Yes if there are multiple customer reviews to read and No I don't trust reviews at all. "
    ],
    "xAxis": "Response",
-   "yAxis": "SOME LABEL",
+   "yAxis": "Trust Percentage",
    "min_summary": [
-      "This grouped bar chart shows SOME LABEL on the Y-axis for 6 different Responses for 5 groups 2014, 2015, 2016, 2017, and 2018 that are presented on the X-axis. ",
-      " In Response Yes for some types of businesses no for others, 2014 had the highest SOME LABEL 34.0 among the 5 groups and in Yes always, 2014 had the lowest SOME LABEL 0.0. "
+      "This grouped bar chart represents 6 different Responses on X-axis for 5 groups 2014, 2015, 2016, 2017, and 2018. On the Y-axis it shows their corresponding Trust Percentage. ",
+      " Out of all 5 groups, 2014 had the highest Trust Percentage in Response Yes for some types of businesses no for others and 2014 had the lowest Trust Percentage in Response Yes always. "
    ],
    "mid_summary": [
-      "This grouped bar chart represents 6 different Responses on X-axis for 5 groups 2014, 2015, 2016, 2017, and 2018. On the Y-axis it shows their corresponding SOME LABEL. ",
-      " In Response Yes for some types of businesses no for others, 2014 had the highest SOME LABEL 34.0 among the 5 groups and in Yes always, 2014 had the lowest SOME LABEL 0.0. ",
-      " In Response Yes for some types of businesses no for others, 2014 had the maximum SOME LABEL and it saw the lowest in Response Yes always out of all 6 Responses. ",
-      " The maximum SOME LABEL for 2014 that was found in Response Yes for some types of businesses no for others was 34.0 times larger than the minimum SOME LABEL observed in Response Yes always. "
+      "This grouped bar chart shows Trust Percentage on the Y-axis for 6 different Responses for 5 groups 2014, 2015, 2016, 2017, and 2018 that are presented on the X-axis. ",
+      " Response Yes for some types of businesses no for others had the maximum Trust Percentage among all 5 groups, and it was for 2014. The minimum Trust Percentage was observed in Response Yes always for 2014. ",
+      " In Response Yes if there are multiple customer reviews to read, 2018 had the maximum Trust Percentage and it saw the lowest in Response No I don't trust reviews at all out of all 6 Responses. ",
+      " There is a gap of 19.0 between the highest and lowest Trust Percentage found for 2018 in Response Yes if there are multiple customer reviews to read and No I don't trust reviews at all. "
    ],
    "max_summary": [
-      "This grouped bar chart shows SOME LABEL on the Y-axis for 6 different Responses for 5 groups 2014, 2015, 2016, 2017, and 2018 that are presented on the X-axis. ",
-      " Out of all 5 groups, 2014 had the highest SOME LABEL in Response Yes for some types of businesses no for others and 2014 had the lowest SOME LABEL in Response Yes always. ",
-      " Among all the Responses, 2014 had the highest SOME LABEL in Response Yes for some types of businesses no for others and lowest SOME LABEL in Response Yes always. ",
-      "Response Yes for some types of businesses no for others and Yes always had the biggest gap of 33.0 between the highest and lowest SOME LABEL found for 2014. ",
-      " Out of all 5 groups, the highest gap between the maximum and minimum SOME LABEL was found in case of 2014. ",
-      " 2014 had the maximum SOME LABEL out of all 5 groups in Response Yes for some types of businesses no for others followed by 2014 in Yes for some types of businesses no for others, and the minimum SOME LABEL is found for 2014 in Yes always. ",
-      "Averaging all 5 groups 2014, 2015, 2016, 2017, and 2018, the Response Yes if I believe the reviews are authentic is the maximum SOME LABEL and No I am often skeptical about online reviews is the minimum SOME LABEL. "
+      "This grouped bar chart shows Trust Percentage on the Y-axis for 6 different Responses for 5 groups 2014, 2015, 2016, 2017, and 2018 that are presented on the X-axis. ",
+      " Out of all 5 groups, 2014 had the highest Trust Percentage in Response Yes for some types of businesses no for others and 2014 had the lowest Trust Percentage in Response Yes always. ",
+      " Among all the Responses, 2018 had the highest Trust Percentage 25.0 in Response Yes if there are multiple customer reviews to read and lowest value 6.0 in Response No I don't trust reviews at all. ",
+      " There is a gap of 19.0 between the highest and lowest Trust Percentage found for 2018 in Response Yes if there are multiple customer reviews to read and No I don't trust reviews at all. ",
+      " Among all 5 groups, 2014 had the gap of 34.0 between the maximum and minimum Trust Percentage observed in Response Yes for some types of businesses no for others and Yes always respectively. ",
+      " 2014 had the maximum Trust Percentage out of all 5 groups in Response Yes for some types of businesses no for others followed by 2014 in Yes for some types of businesses no for others, and the minimum Trust Percentage is found for 2014 in Yes always. ",
+      "On average, the Response Yes if I believe the reviews are authentic had the highest Trust Percentage for all 5 groups 2014, 2015, 2016, 2017, and 2018. Whereas No I am often skeptical about online reviews had the lowest average Trust Percentage. "
    ],
    "trends": [
       {},

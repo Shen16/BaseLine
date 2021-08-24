@@ -6,26 +6,26 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This is a bar chart representing Response in the x axis and Share of respondents in the y axis. ",
-      "The Share of respondents is appeared to be the highest at Response Convenient and lowest at Response Other. ",
-      "The difference of Share of respondents between the highest and lowest Response is 61.6. "
+      "This bar chart has 5 columns on the x axis representing Response, and Share of respondents in each Response on the y axis. ",
+      "The Share of respondents is highest at Response Convenient and lowest at Response Other. ",
+      "The highest Response Convenient has 61.6 more Share of respondents than the lowest Response Other. "
    ],
    "min_summary": [
       "This is a bar chart representing Response in the x axis and Share of respondents in the y axis. ",
-      "The maximum Share of respondents 67.2 is found at Response Convenient and the minimum is found at Other where Response is 5.6. "
+      "The Share of respondents is highest at Response Convenient and lowest at Response Other. "
    ],
    "mid_summary": [
-      "This is a bar chart representing Response in the x axis and Share of respondents in the y axis. ",
-      "The Share of respondents is appeared to be the highest at Response Convenient and lowest at Response Other. ",
-      "The difference of Share of respondents between the highest and lowest Response is 61.6. "
+      "This bar chart has 5 columns on the x axis representing Response, and Share of respondents in each Response on the y axis. ",
+      "The Share of respondents is highest at Response Convenient and lowest at Response Other. ",
+      "The highest Response Convenient has 61.6 more Share of respondents than the lowest Response Other. "
    ],
    "max_summary": [
       "This is a bar chart. It shows Share of respondents for 5 number of Responses. ",
-      "Response Convenient has the highest Share of respondents and Other has the lowest Share of respondents. ",
-      "There is a difference of 61.6 between the maximum Response Convenient and minimum Response Other. ",
-      "Response Convenient is higher than any other Responses with value 67.2, followed by Cheap, and I just like it. Down to Response Other with the lowest value 5.6. ",
-      "The highest value 67.2 at Convenient is almost 2.27 times larger than the average value 29.66. ",
-      "The Share of respondents is 148.3 if we add up values of all Responses. "
+      "The Share of respondents is appeared to be the highest at Response Convenient and lowest at Response Other. ",
+      "The highest Response Convenient has 61.6 more Share of respondents than the lowest Response Other. ",
+      "Share of respondents at Response Convenient is 67.2 , second place is Cheap at 31.7, and thirdly is I just like it at 30.6.",
+      "The Response Convenient tends to be 2.27 percent higher than average. ",
+      "Summing up the values of all Responses, we get total 148.3. "
    ],
    "trends": [
       {},

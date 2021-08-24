@@ -6,27 +6,26 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This is a bar chart representing Month in the x axis and Sales in million units in the y axis. ",
-      "The maximum Sales in million units 30.8 is found at Month New Super Mario Bros. and the minimum is found at Super Mario 64 DS where Month is 11.06. ",
-      "The highest value at Month New Super Mario Bros. is 2.78x times more than the lowest value at Super Mario 64 DS. "
+      "This is a bar chart. It shows Sales in million units for 10 number of Months. ",
+      "The Sales in million units is appeared to be the highest at Month New Super Mario Bros. and lowest at Month Super Mario 64 DS. ",
+      "There is a difference of 19.74 between the maximum Month New Super Mario Bros. and minimum Month Super Mario 64 DS. "
    ],
    "min_summary": [
       "This bar chart has 10 columns on the x axis representing Month, and Sales in million units in each Month on the y axis. ",
-      "The Sales in million units is highest at Month New Super Mario Bros. and lowest at Month Super Mario 64 DS. "
+      "The maximum Sales in million units 30.8 is found at Month New Super Mario Bros. and the minimum is found at Super Mario 64 DS where Month is 11.06. "
    ],
    "mid_summary": [
-      "This is a bar chart representing Month in the x axis and Sales in million units in the y axis. ",
-      "The maximum Sales in million units 30.8 is found at Month New Super Mario Bros. and the minimum is found at Super Mario 64 DS where Month is 11.06. ",
-      "The highest value at Month New Super Mario Bros. is 2.78x times more than the lowest value at Super Mario 64 DS. "
+      "This is a bar chart. It shows Sales in million units for 10 number of Months. ",
+      "The Sales in million units is appeared to be the highest at Month New Super Mario Bros. and lowest at Month Super Mario 64 DS. ",
+      "There is a difference of 19.74 between the maximum Month New Super Mario Bros. and minimum Month Super Mario 64 DS. "
    ],
    "max_summary": [
-      "This is a bar chart representing Month in the x axis and Sales in million units in the y axis. ",
-      "The Sales in million units is highest at Month New Super Mario Bros. and lowest at Month Super Mario 64 DS. ",
-      "Month Nintendogs has the second highest value for Sales in million units. ",
+      "This bar chart has 10 columns on the x axis representing Month, and Sales in million units in each Month on the y axis. ",
+      "The maximum Sales in million units 30.8 is found at Month New Super Mario Bros. and the minimum is found at Super Mario 64 DS where Month is 11.06. ",
       "The difference of Sales in million units between the highest and lowest Month is 19.74. ",
-      "Month New Super Mario Bros. is higher than any other Months with value 30.8, followed by Nintendogs, and Mario Kart DS. Down to Month Super Mario 64 DS with the lowest value 11.06. ",
-      "The Sales in million units has decreased over the past 10 Months. ",
-      "The average Sales in million units in all 10 Months is 18.11. "
+      "The Month New Super Mario Bros. has the highest Sales in million units, followed by Nintendogs, and Mario Kart DS. Down to the Month Super Mario 64 DS which is the lowest. ",
+      "Over the past 10 Months, the Sales in million units has decreased. ",
+      "The Month Super Mario 64 DS has 1.7 times less Sales in million units than average. "
    ],
    "trends": [
       {},

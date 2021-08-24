@@ -6,26 +6,26 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This is a bar chart representing State in the x axis and Number of hashtagged posts in millions in the y axis. ",
-      "The maximum Number of hashtagged posts in millions 88.78 is found at State London and the minimum is found at Bangkok where State is 17.66. ",
+      "This bar chart has 20 columns on the x axis representing State, and Number of hashtagged posts in millions in each State on the y axis. ",
+      "State London has the highest Number of hashtagged posts in millions and Bangkok has the lowest Number of hashtagged posts in millions. ",
       "The difference of Number of hashtagged posts in millions between the highest and lowest State is 71.12. "
    ],
    "min_summary": [
       "This is a bar chart representing State in the x axis and Number of hashtagged posts in millions in the y axis. ",
-      "The Number of hashtagged posts in millions is appeared to be the highest at State London and lowest at State Bangkok. "
+      "State London has the highest Number of hashtagged posts in millions and Bangkok has the lowest Number of hashtagged posts in millions. "
    ],
    "mid_summary": [
-      "This is a bar chart representing State in the x axis and Number of hashtagged posts in millions in the y axis. ",
-      "The maximum Number of hashtagged posts in millions 88.78 is found at State London and the minimum is found at Bangkok where State is 17.66. ",
+      "This bar chart has 20 columns on the x axis representing State, and Number of hashtagged posts in millions in each State on the y axis. ",
+      "State London has the highest Number of hashtagged posts in millions and Bangkok has the lowest Number of hashtagged posts in millions. ",
       "The difference of Number of hashtagged posts in millions between the highest and lowest State is 71.12. "
    ],
    "max_summary": [
-      "This bar chart has 20 columns on the x axis representing State, and Number of hashtagged posts in millions in each State on the y axis. ",
+      "This is a bar chart representing State in the x axis and Number of hashtagged posts in millions in the y axis. ",
       "The Number of hashtagged posts in millions is appeared to be the highest at State London and lowest at State Bangkok. ",
-      "Second maximum Number of hashtagged posts in millions is found at State New York. ",
-      "The difference of Number of hashtagged posts in millions between the highest and lowest State is 71.12. ",
-      "Number of hashtagged posts in millions at State London is 88.78 , second place is New York at 88.51, and thirdly is Paris at 75.01.",
-      "The State Bangkok tends to be 2.31 percent lower than average. "
+      "The lowest value at State Bangkok is 5.03x times less than the highest value at London. ",
+      "State London is higher than any other States with value 88.78, followed by New York, and Paris. Down to State Bangkok with the lowest value 17.66. ",
+      "The State Bangkok has 2.31 times less Number of hashtagged posts in millions than average. ",
+      "Summing up the values of all States, we get total 768.45. "
    ],
    "trends": [
       {},

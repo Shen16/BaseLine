@@ -6,26 +6,27 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This is a bar chart. It shows Share of ethnic minorities for 21 number of Provinces. ",
+      "This bar chart has 21 columns on the x axis representing Province, and Share of ethnic minorities in each Province on the y axis. ",
       "Province Tibet has the highest Share of ethnic minorities and Zhejiang has the lowest Share of ethnic minorities. ",
-      "The Share of ethnic minorities of Province Zhejiang is 7.62% smaller than the maximum value at Tibet. "
+      "There is a difference of 78.24 between the maximum Province Tibet and minimum Province Zhejiang. "
    ],
    "min_summary": [
-      "This is a bar chart. It shows Share of ethnic minorities for 21 number of Provinces. ",
-      "The Share of ethnic minorities is appeared to be the highest at Province Tibet and lowest at Province Zhejiang. "
+      "This bar chart has 21 columns on the x axis representing Province, and Share of ethnic minorities in each Province on the y axis. ",
+      "The maximum Share of ethnic minorities 90.05 is found at Province Tibet and the minimum is found at Zhejiang where Province is 11.81. "
    ],
    "mid_summary": [
-      "This is a bar chart. It shows Share of ethnic minorities for 21 number of Provinces. ",
+      "This bar chart has 21 columns on the x axis representing Province, and Share of ethnic minorities in each Province on the y axis. ",
       "Province Tibet has the highest Share of ethnic minorities and Zhejiang has the lowest Share of ethnic minorities. ",
-      "The Share of ethnic minorities of Province Zhejiang is 7.62% smaller than the maximum value at Tibet. "
+      "There is a difference of 78.24 between the maximum Province Tibet and minimum Province Zhejiang. "
    ],
    "max_summary": [
       "This bar chart has 21 columns on the x axis representing Province, and Share of ethnic minorities in each Province on the y axis. ",
       "The Share of ethnic minorities is appeared to be the highest at Province Tibet and lowest at Province Zhejiang. ",
-      "The second highest Share of ethnic minorities is appeared to be the Province Hunan. ",
+      "Province Hunan has the second highest value for Share of ethnic minorities. ",
       "There is a difference of 78.24 between the maximum Province Tibet and minimum Province Zhejiang. ",
-      "Province Tibet is higher than any other Provinces with value 90.05, followed by Hunan, and Chongqing. Down to Province Zhejiang with the lowest value 11.81. ",
-      "The Province Zhejiang tends to be 1.7 percent lower than average. "
+      "Share of ethnic minorities at Province Tibet is 90.05 , second place is Hunan at 83.5, and thirdly is Chongqing at 74.39.",
+      "The Province Zhejiang tends to be 1.7 percent lower than average. ",
+      "Summing up the values of all Provinces, we get total 1109.41. "
    ],
    "trends": [
       {},

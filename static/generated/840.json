@@ -7,25 +7,25 @@
    "summaryType": "baseline",
    "summary": [
       "This is a bar chart. It shows Salary in thousand U.S. dollars for 23 number of Teams. ",
-      "The Salary in thousand U.S. dollars is appeared to be the highest at Team Toronto FC and lowest at Team Houston Dynamo. ",
-      "Team Toronto FC has 4.62 times more Salary in thousand U.S. dollars than Team Houston Dynamo which is has the lowest. "
+      "The maximum Salary in thousand U.S. dollars 902.41 is found at Team Toronto FC and the minimum is found at Houston Dynamo where Team is 195.52. ",
+      "The difference of Salary in thousand U.S. dollars between the highest and lowest Team is 706.89. "
    ],
    "min_summary": [
-      "This bar chart has 23 columns on the x axis representing Team, and Salary in thousand U.S. dollars in each Team on the y axis. ",
-      "Team Toronto FC has the highest Salary in thousand U.S. dollars and Houston Dynamo has the lowest Salary in thousand U.S. dollars. "
+      "This is a bar chart. It shows Salary in thousand U.S. dollars for 23 number of Teams. ",
+      "The maximum Salary in thousand U.S. dollars 902.41 is found at Team Toronto FC and the minimum is found at Houston Dynamo where Team is 195.52. "
    ],
    "mid_summary": [
       "This is a bar chart. It shows Salary in thousand U.S. dollars for 23 number of Teams. ",
-      "The Salary in thousand U.S. dollars is appeared to be the highest at Team Toronto FC and lowest at Team Houston Dynamo. ",
-      "Team Toronto FC has 4.62 times more Salary in thousand U.S. dollars than Team Houston Dynamo which is has the lowest. "
+      "The maximum Salary in thousand U.S. dollars 902.41 is found at Team Toronto FC and the minimum is found at Houston Dynamo where Team is 195.52. ",
+      "The difference of Salary in thousand U.S. dollars between the highest and lowest Team is 706.89. "
    ],
    "max_summary": [
-      "This is a bar chart representing Team in the x axis and Salary in thousand U.S. dollars in the y axis. ",
+      "This is a bar chart. It shows Salary in thousand U.S. dollars for 23 number of Teams. ",
       "Team Toronto FC has the highest Salary in thousand U.S. dollars and Houston Dynamo has the lowest Salary in thousand U.S. dollars. ",
-      "Team LA Galaxy has the second highest value for Salary in thousand U.S. dollars. ",
-      "There is a difference of 706.89 between the maximum Team Toronto FC and minimum Team Houston Dynamo. ",
+      "The second highest Salary in thousand U.S. dollars is appeared to be the Team LA Galaxy. ",
+      "The difference of Salary in thousand U.S. dollars between the highest and lowest Team is 706.89. ",
       "Team Toronto FC is higher than any other Teams with value 902.41, followed by LA Galaxy, and New York City FC. Down to Team Houston Dynamo with the lowest value 195.52. ",
-      "The Team Houston Dynamo tends to be 2.41 percent lower than average. "
+      "The Team Toronto FC tends to be 2.41 percent higher than average. "
    ],
    "trends": [
       {},

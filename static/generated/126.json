@@ -7,12 +7,11 @@
    "summaryType": "baseline",
    "summary": [
       "This is a line chart with an x axis representing Year and a y axis representing GDP in billion U.S. dollars, containing a total of 12 data points.",
-      " Overall GDP in billion U.S. dollars has increased over the Year.",
+      " In general GDP in billion U.S. dollars has rose over the Year.",
       "GDP in billion U.S. dollars is slightly increasing from 2019 to 2030.",
-      "The line drastically ",
       "The steepest increase occurs in between the Year 2029 and 2030.",
       "Maximum GDP in billion U.S. dollars, about 32003.0 was reported at Year 2030",
-      "The lowest GDP in billion U.S. dollars, of value 21220.0 was reported at Year 2019"
+      "Minimum GDP in billion U.S. dollars about 21220.0 was reached at Year 2019"
    ],
    "min_summary": [
       "This is a line chart with an x axis representing Year and a y axis representing GDP in billion U.S. dollars, containing a total of 12 data points.",
@@ -20,21 +19,20 @@
       "GDP in billion U.S. dollars is slightly increasing from 2019 to 2030."
    ],
    "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes GDP in billion U.S. dollars. In total the number of data points it has is 12.",
+      " Overall GDP in billion U.S. dollars has increased over the Year.",
+      "GDP in billion U.S. dollars is slightly increasing from 2019 to 2030.",
+      "The steepest increase occurs in between the Year 2029 and 2030.",
+      "Maximum GDP in billion U.S. dollars, about 32003.0 was reported at Year 2030",
+      "Minimum GDP in billion U.S. dollars about 21220.0 was reached at Year 2019"
+   ],
+   "max_summary": [
       "This is a line chart with an x axis representing Year and a y axis representing GDP in billion U.S. dollars, containing a total of 12 data points.",
       " In general GDP in billion U.S. dollars has rose over the Year.",
       "GDP in billion U.S. dollars is slightly increasing from 2019 to 2030.",
       "The steepest increase occurs in between the Year 2029 and 2030.",
       "Maximum GDP in billion U.S. dollars, about 32003.0 was reported at Year 2030",
-      "The lowest GDP in billion U.S. dollars, of value 21220.0 was reported at Year 2019"
-   ],
-   "max_summary": [
-      "This is a line chart with an x axis representing Year and a y axis representing GDP in billion U.S. dollars, containing a total of 12 data points.",
-      " Overall GDP in billion U.S. dollars has increased over the Year.",
-      "GDP in billion U.S. dollars is slightly increasing from 2019 to 2030.",
-      "The most drastic increase took place within the Year 2029 and 2030.",
-      "Maximum GDP in billion U.S. dollars, about 32003.0 was reported at Year 2030",
-      "The lowest GDP in billion U.S. dollars, of value 21220.0 was reported at Year 2019",
-      "The line rapidly "
+      "Minimum GDP in billion U.S. dollars about 21220.0 was reached at Year 2019"
    ],
    "trends": [],
    "data": [

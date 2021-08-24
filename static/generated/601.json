@@ -9,30 +9,30 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart shows SOME LABEL on the Y-axis for 14 different Regions for 2 groups Oct' 18, and Oct '19 that are presented on the X-axis. ",
-      " Out of all 2 groups, Oct' 18 had the highest SOME LABEL in Region London and Oct' 18 had the lowest SOME LABEL in Region Yorkshire & Humber. ",
-      " Among all the Regions, Oct' 18 had the highest SOME LABEL in Region London and lowest SOME LABEL in Region Yorkshire & Humber. ",
-      " The maximum SOME LABEL for Oct' 18 that was found in Region London was 14.08 times larger than the minimum SOME LABEL observed in Region Yorkshire & Humber. "
+      "This grouped bar chart represents 14 different Regions on X-axis for 2 groups Oct' 18, and Oct '19. On the Y-axis it shows their corresponding Rent to income ratio. ",
+      " Region London had the maximum Rent to income ratio among all 2 groups, and it was for Oct' 18. The minimum Rent to income ratio was observed in Region Yorkshire & Humber for Oct' 18. ",
+      " Among all the Regions, Oct '19 had the highest Rent to income ratio 356.0 in Region London and lowest value 27.0 in Region Scotland. ",
+      " There is a gap of 329.0 between the highest and lowest Rent to income ratio found for Oct '19 in Region London and Scotland. "
    ],
    "xAxis": "Region",
-   "yAxis": "SOME LABEL",
+   "yAxis": "Rent to income ratio",
    "min_summary": [
-      "This grouped bar chart represents 14 different Regions on X-axis for 2 groups Oct' 18, and Oct '19. On the Y-axis it shows their corresponding SOME LABEL. ",
-      " Region London had the maximum SOME LABEL among all 2 groups, and it was for Oct' 18. The minimum SOME LABEL was observed in Region Yorkshire & Humber for Oct' 18. "
+      "This grouped bar chart shows Rent to income ratio on the Y-axis for 14 different Regions for 2 groups Oct' 18, and Oct '19 that are presented on the X-axis. ",
+      " In Region London, Oct' 18 had the highest Rent to income ratio 366.0 among the 2 groups and in Yorkshire & Humber, Oct' 18 had the lowest Rent to income ratio 26.0. "
    ],
    "mid_summary": [
-      "This grouped bar chart shows SOME LABEL on the Y-axis for 14 different Regions for 2 groups Oct' 18, and Oct '19 that are presented on the X-axis. ",
-      " Out of all 2 groups, Oct' 18 had the highest SOME LABEL in Region London and Oct' 18 had the lowest SOME LABEL in Region Yorkshire & Humber. ",
-      " Among all the Regions, Oct' 18 had the highest SOME LABEL in Region London and lowest SOME LABEL in Region Yorkshire & Humber. ",
-      " The maximum SOME LABEL for Oct' 18 that was found in Region London was 14.08 times larger than the minimum SOME LABEL observed in Region Yorkshire & Humber. "
+      "This grouped bar chart represents 14 different Regions on X-axis for 2 groups Oct' 18, and Oct '19. On the Y-axis it shows their corresponding Rent to income ratio. ",
+      " Region London had the maximum Rent to income ratio among all 2 groups, and it was for Oct' 18. The minimum Rent to income ratio was observed in Region Yorkshire & Humber for Oct' 18. ",
+      " Among all the Regions, Oct '19 had the highest Rent to income ratio 356.0 in Region London and lowest value 27.0 in Region Scotland. ",
+      " There is a gap of 329.0 between the highest and lowest Rent to income ratio found for Oct '19 in Region London and Scotland. "
    ],
    "max_summary": [
-      "This grouped bar chart represents 14 different Regions on X-axis for 2 groups Oct' 18, and Oct '19. On the Y-axis it shows their corresponding SOME LABEL. ",
-      " In Region London, Oct' 18 had the highest SOME LABEL 366.0 among the 2 groups and in Yorkshire & Humber, Oct' 18 had the lowest SOME LABEL 26.0. ",
-      " In Region London, Oct' 18 had the highest SOME LABEL among all 14 Regions and it has the lowest SOME LABEL in Region Yorkshire & Humber. ",
-      "Region London and Yorkshire & Humber had the biggest gap of 340.0 between the highest and lowest SOME LABEL found for Oct' 18. ",
-      " Out of all 2 groups, the highest gap between the maximum and minimum SOME LABEL was found in case of Oct' 18. ",
-      "On average, the Region London had the highest SOME LABEL for all 2 groups Oct' 18, and Oct '19. Whereas North East had the lowest average SOME LABEL. "
+      "This grouped bar chart represents 14 different Regions on X-axis for 2 groups Oct' 18, and Oct '19. On the Y-axis it shows their corresponding Rent to income ratio. ",
+      " In Region London, Oct' 18 had the highest Rent to income ratio 366.0 among the 2 groups and in Yorkshire & Humber, Oct' 18 had the lowest Rent to income ratio 26.0. ",
+      " Among all the Regions, Oct '19 had the highest Rent to income ratio 356.0 in Region London and lowest value 27.0 in Region Scotland. ",
+      " The maximum Rent to income ratio for Oct '19 that was found in Region London was 13.19 times larger than the minimum Rent to income ratio observed in Region Scotland. ",
+      " Out of all 2 groups, the highest gap between the maximum and minimum Rent to income ratio was found in case of Oct' 18. ",
+      "On average, the Region London had the highest Rent to income ratio for all 2 groups Oct' 18, and Oct '19. Whereas North East had the lowest average Rent to income ratio. "
    ],
    "trends": [
       {},

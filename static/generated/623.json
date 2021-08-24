@@ -6,26 +6,28 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This is a bar chart representing Retail Categories in the x axis and Number of retail chains in the y axis. ",
-      "Retail Categories Fashion & Clothing has the highest Number of retail chains and Pet Care has the lowest Number of retail chains. ",
+      "This bar chart has 18 columns on the x axis representing Retail Categories, and Number of retail chains in each Retail Categories on the y axis. ",
+      "The Number of retail chains is appeared to be the highest at Retail Categories Fashion & Clothing and lowest at Retail Categories Pet Care. ",
       "The difference of Number of retail chains between the highest and lowest Retail Categories is 52.0. "
    ],
    "min_summary": [
       "This is a bar chart representing Retail Categories in the x axis and Number of retail chains in the y axis. ",
-      "The maximum Number of retail chains 57.0 is found at Retail Categories Fashion & Clothing and the minimum is found at Pet Care where Retail Categories is 5.0. "
+      "The Number of retail chains is appeared to be the highest at Retail Categories Fashion & Clothing and lowest at Retail Categories Pet Care. "
    ],
    "mid_summary": [
-      "This is a bar chart representing Retail Categories in the x axis and Number of retail chains in the y axis. ",
-      "Retail Categories Fashion & Clothing has the highest Number of retail chains and Pet Care has the lowest Number of retail chains. ",
+      "This bar chart has 18 columns on the x axis representing Retail Categories, and Number of retail chains in each Retail Categories on the y axis. ",
+      "The Number of retail chains is appeared to be the highest at Retail Categories Fashion & Clothing and lowest at Retail Categories Pet Care. ",
       "The difference of Number of retail chains between the highest and lowest Retail Categories is 52.0. "
    ],
    "max_summary": [
-      "This is a bar chart representing Retail Categories in the x axis and Number of retail chains in the y axis. ",
-      "The Number of retail chains is highest at Retail Categories Fashion & Clothing and lowest at Retail Categories Pet Care. ",
-      "The highest Retail Categories Fashion & Clothing has 52.0 more Number of retail chains than the lowest Retail Categories Pet Care. ",
+      "This bar chart has 18 columns on the x axis representing Retail Categories, and Number of retail chains in each Retail Categories on the y axis. ",
+      "The Number of retail chains is appeared to be the highest at Retail Categories Fashion & Clothing and lowest at Retail Categories Pet Care. ",
+      "Second maximum Number of retail chains is found at Retail Categories Footwear & Leather. ",
+      "The difference of Number of retail chains between the highest and lowest Retail Categories is 52.0. ",
       "Retail Categories Fashion & Clothing is higher than any other Retail Categoriess with value 57.0, followed by Footwear & Leather, and Footwear & Leather. Down to Retail Categories Pet Care with the lowest value 5.0. ",
-      "Retail Categories Toys & Games, Petrol, and Jewelry & Watches have a similar Number of retail chains that is 12.0. ",
-      "The lowest value 5.0 at Pet Care is almost 3.18 times smaller than the average value 17.94. "
+      "Similar Number of retail chains is found in Retail Categories Toys & Games, Petrol, and Jewelry & Watches. ",
+      "The Retail Categories Pet Care has 3.18 times less Number of retail chains than average. ",
+      "Summing up the values of all Retail Categoriess, we get total 323.0. "
    ],
    "trends": [
       {},

@@ -13,31 +13,31 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart shows SOME LABEL on the Y-axis for 2 different Countrys for 6 groups North America, EU, Eastern Europe, Asia-Pacific, Middle East & Africa, and South America that are presented on the X-axis. ",
-      " Out of all 6 groups, Asia-Pacific had the highest SOME LABEL in Country 2022 and Middle East & Africa had the lowest SOME LABEL in Country 2015. ",
-      " In Country 2022, South America had the highest SOME LABEL among all 2 Countrys and it has the lowest SOME LABEL in Country 2015. ",
-      " There is a gap of 6.0 between the highest and lowest SOME LABEL found for South America in Country 2022 and 2015. "
+      "This grouped bar chart represents 2 different Countrys on X-axis for 6 groups North America, EU, Eastern Europe, Asia-Pacific, Middle East & Africa, and South America. On the Y-axis it shows their corresponding Capacity in million units. ",
+      " In Country 2022, Asia-Pacific had the highest Capacity in million units 770.0 among the 6 groups and in 2015, Middle East & Africa had the lowest Capacity in million units 37.0. ",
+      " In Country 2022, South America had the maximum Capacity in million units and it saw the lowest in Country 2015 out of all 2 Countrys. ",
+      " There is a gap of 6.0 between the highest and lowest Capacity in million units found for South America in Country 2022 and 2015. "
    ],
    "xAxis": "Country",
-   "yAxis": "SOME LABEL",
+   "yAxis": "Capacity in million units",
    "min_summary": [
-      "This grouped bar chart represents 2 different Countrys on X-axis for 6 groups North America, EU, Eastern Europe, Asia-Pacific, Middle East & Africa, and South America. On the Y-axis it shows their corresponding SOME LABEL. ",
-      " In Country 2022, Asia-Pacific had the highest SOME LABEL 770.0 among the 6 groups and in 2015, Middle East & Africa had the lowest SOME LABEL 37.0. "
+      "This grouped bar chart represents 2 different Countrys on X-axis for 6 groups North America, EU, Eastern Europe, Asia-Pacific, Middle East & Africa, and South America. On the Y-axis it shows their corresponding Capacity in million units. ",
+      " In Country 2022, Asia-Pacific had the highest Capacity in million units 770.0 among the 6 groups and in 2015, Middle East & Africa had the lowest Capacity in million units 37.0. "
    ],
    "mid_summary": [
-      "This grouped bar chart shows SOME LABEL on the Y-axis for 2 different Countrys for 6 groups North America, EU, Eastern Europe, Asia-Pacific, Middle East & Africa, and South America that are presented on the X-axis. ",
-      " Out of all 6 groups, Asia-Pacific had the highest SOME LABEL in Country 2022 and Middle East & Africa had the lowest SOME LABEL in Country 2015. ",
-      " In Country 2022, South America had the highest SOME LABEL among all 2 Countrys and it has the lowest SOME LABEL in Country 2015. ",
-      " There is a gap of 6.0 between the highest and lowest SOME LABEL found for South America in Country 2022 and 2015. "
+      "This grouped bar chart represents 2 different Countrys on X-axis for 6 groups North America, EU, Eastern Europe, Asia-Pacific, Middle East & Africa, and South America. On the Y-axis it shows their corresponding Capacity in million units. ",
+      " In Country 2022, Asia-Pacific had the highest Capacity in million units 770.0 among the 6 groups and in 2015, Middle East & Africa had the lowest Capacity in million units 37.0. ",
+      " In Country 2022, South America had the maximum Capacity in million units and it saw the lowest in Country 2015 out of all 2 Countrys. ",
+      " There is a gap of 6.0 between the highest and lowest Capacity in million units found for South America in Country 2022 and 2015. "
    ],
    "max_summary": [
-      "This grouped bar chart represents 2 different Countrys on X-axis for 6 groups North America, EU, Eastern Europe, Asia-Pacific, Middle East & Africa, and South America. On the Y-axis it shows their corresponding SOME LABEL. ",
-      " Out of all 6 groups, Asia-Pacific had the highest SOME LABEL in Country 2022 and Middle East & Africa had the lowest SOME LABEL in Country 2015. ",
-      " Among all the Countrys, South America had the highest SOME LABEL in Country 2022 and lowest SOME LABEL in Country 2015. ",
-      " The maximum SOME LABEL for South America that was found in Country 2022 was 1.1 times larger than the minimum SOME LABEL observed in Country 2015. ",
-      " Among the groups, Asia-Pacific had the biggest difference in SOME LABEL. Where the maximum SOME LABEL was 1.13 times larger than the minimum SOME LABEL. ",
-      " Asia-Pacific had the maximum SOME LABEL out of all 6 groups in Country 2022 followed by Asia-Pacific in 2022, and the minimum SOME LABEL is found for Middle East & Africa in 2015. ",
-      "On average, the Country 2022 had the highest SOME LABEL for all 6 groups North America, EU, Eastern Europe, Asia-Pacific, Middle East & Africa, and South America. Whereas 2015 had the lowest average SOME LABEL. "
+      "This grouped bar chart shows Capacity in million units on the Y-axis for 2 different Countrys for 6 groups North America, EU, Eastern Europe, Asia-Pacific, Middle East & Africa, and South America that are presented on the X-axis. ",
+      " Out of all 6 groups, Asia-Pacific had the highest Capacity in million units in Country 2022 and Middle East & Africa had the lowest Capacity in million units in Country 2015. ",
+      " In Country 2022, South America had the highest Capacity in million units among all 2 Countrys and it has the lowest Capacity in million units in Country 2015. ",
+      " The maximum Capacity in million units for South America that was found in Country 2022 was 1.1 times larger than the minimum Capacity in million units observed in Country 2015. ",
+      " Out of all 6 groups, the highest gap between the maximum and minimum Capacity in million units was found in case of Asia-Pacific. ",
+      " In Country 2022, Asia-Pacific had the highest Capacity in million units 770.0 among the 6 groups and in 2015, Middle East & Africa had the lowest Capacity in million units 37.0. The second highest Capacity in million units 64.0 was observed for Asia-Pacific in Country 2022. ",
+      "On average, the Country 2022 had the highest Capacity in million units for all 6 groups North America, EU, Eastern Europe, Asia-Pacific, Middle East & Africa, and South America. Whereas 2015 had the lowest average Capacity in million units. "
    ],
    "trends": [
       {},

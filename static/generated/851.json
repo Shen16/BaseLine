@@ -6,25 +6,24 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This is a bar chart. It shows Share of respondents for 2 number of Responses. ",
-      "The maximum Share of respondents 77.0 is found at Response No and the minimum is found at Yes where Response is 23.0. ",
-      "The highest Response No has 54.0 more Share of respondents than the lowest Response Yes. "
-   ],
-   "min_summary": [
-      "This is a bar chart representing Response in the x axis and Share of respondents in the y axis. ",
-      "The Share of respondents is highest at Response No and lowest at Response Yes. "
-   ],
-   "mid_summary": [
-      "This is a bar chart. It shows Share of respondents for 2 number of Responses. ",
-      "The maximum Share of respondents 77.0 is found at Response No and the minimum is found at Yes where Response is 23.0. ",
-      "The highest Response No has 54.0 more Share of respondents than the lowest Response Yes. "
-   ],
-   "max_summary": [
       "This bar chart has 2 columns on the x axis representing Response, and Share of respondents in each Response on the y axis. ",
       "The Share of respondents is appeared to be the highest at Response No and lowest at Response Yes. ",
-      "The maximum Response No has got 3.35 times higher Share of respondents than the minimum Response Yes. ",
-      "The Response Yes has 1.54 times less Share of respondents than average. ",
-      "The Share of respondents is 100.0 if we add up values of all Responses. "
+      "The Share of respondents of Response Yes is 3.35% smaller than the maximum value at No. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Share of respondents for 2 number of Responses. ",
+      "Response No has the highest Share of respondents and Yes has the lowest Share of respondents. "
+   ],
+   "mid_summary": [
+      "This bar chart has 2 columns on the x axis representing Response, and Share of respondents in each Response on the y axis. ",
+      "The Share of respondents is appeared to be the highest at Response No and lowest at Response Yes. ",
+      "The Share of respondents of Response Yes is 3.35% smaller than the maximum value at No. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Share of respondents for 2 number of Responses. ",
+      "The Share of respondents is highest at Response No and lowest at Response Yes. ",
+      "There is a difference of 54.0 between the maximum Response No and minimum Response Yes. ",
+      "The average Share of respondents in all 2 Responses is 50.0. "
    ],
    "trends": [
       {},

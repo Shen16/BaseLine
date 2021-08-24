@@ -7,24 +7,26 @@
    "summaryType": "baseline",
    "summary": [
       "This is a bar chart representing Players in the x axis and Number of home runs in the y axis. ",
-      "Players Carlos Delgado has the highest Number of home runs and Ernie Whitt has the lowest Number of home runs. ",
-      "There is a difference of 205.0 between the maximum Players Carlos Delgado and minimum Players Ernie Whitt. "
+      "The Number of home runs is appeared to be the highest at Players Carlos Delgado and lowest at Players Ernie Whitt. ",
+      "The difference of Number of home runs between the highest and lowest Players is 205.0. "
    ],
    "min_summary": [
-      "This bar chart has 10 columns on the x axis representing Players, and Number of home runs in each Players on the y axis. ",
-      "Players Carlos Delgado has the highest Number of home runs and Ernie Whitt has the lowest Number of home runs. "
+      "This is a bar chart. It shows Number of home runs for 10 number of Playerss. ",
+      "The maximum Number of home runs 336.0 is found at Players Carlos Delgado and the minimum is found at Ernie Whitt where Players is 131.0. "
    ],
    "mid_summary": [
       "This is a bar chart representing Players in the x axis and Number of home runs in the y axis. ",
-      "Players Carlos Delgado has the highest Number of home runs and Ernie Whitt has the lowest Number of home runs. ",
-      "There is a difference of 205.0 between the maximum Players Carlos Delgado and minimum Players Ernie Whitt. "
+      "The Number of home runs is appeared to be the highest at Players Carlos Delgado and lowest at Players Ernie Whitt. ",
+      "The difference of Number of home runs between the highest and lowest Players is 205.0. "
    ],
    "max_summary": [
-      "This is a bar chart representing Players in the x axis and Number of home runs in the y axis. ",
-      "The maximum Number of home runs 336.0 is found at Players Carlos Delgado and the minimum is found at Ernie Whitt where Players is 131.0. ",
-      "Players Ernie Whitt has 2.56 times less Number of home runs than Players Carlos Delgado which is the highest. ",
-      "Number of home runs at Players Carlos Delgado is 336.0 , second place is Jose Bautista at 288.0, and thirdly is Edwin Encarnacion at 239.0.",
-      "The lowest value 131.0 at Ernie Whitt is almost 1.6 times smaller than the average value 209.6. "
+      "This is a bar chart. It shows Number of home runs for 10 number of Playerss. ",
+      "The Number of home runs is highest at Players Carlos Delgado and lowest at Players Ernie Whitt. ",
+      "The second highest Number of home runs is appeared to be the Players Jose Bautista. ",
+      "The Number of home runs of Players Carlos Delgado is 2.56% larger than the minimum value at Ernie Whitt. ",
+      "The Players Carlos Delgado has the highest Number of home runs, followed by Jose Bautista, and Edwin Encarnacion. Down to the Players Ernie Whitt which is the lowest. ",
+      "The Players Carlos Delgado has 1.6 times more Number of home runs than average. ",
+      "Summing up the values of all Playerss, we get total 2096.0. "
    ],
    "trends": [
       {},

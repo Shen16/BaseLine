@@ -6,26 +6,26 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This is a bar chart. It shows Sales price in million U.S. dollars for 10 number of Top Level Domainss. ",
-      "The Sales price in million U.S. dollars is highest at Top Level Domains .web (Jul '16) and lowest at Top Level Domains .vip (Sep '14). ",
-      "The highest Top Level Domains .web (Jul '16) has 132.0 more Sales price in million U.S. dollars than the lowest Top Level Domains .vip (Sep '14). "
+      "This bar chart has 10 columns on the x axis representing Top Level Domains, and Sales price in million U.S. dollars in each Top Level Domains on the y axis. ",
+      "The Sales price in million U.S. dollars is appeared to be the highest at Top Level Domains .web (Jul '16) and lowest at Top Level Domains .vip (Sep '14). ",
+      "The difference of Sales price in million U.S. dollars between the highest and lowest Top Level Domains is 132.0. "
    ],
    "min_summary": [
       "This is a bar chart representing Top Level Domains in the x axis and Sales price in million U.S. dollars in the y axis. ",
-      "The Sales price in million U.S. dollars is highest at Top Level Domains .web (Jul '16) and lowest at Top Level Domains .vip (Sep '14). "
+      "Top Level Domains .web (Jul '16) has the highest Sales price in million U.S. dollars and .vip (Sep '14) has the lowest Sales price in million U.S. dollars. "
    ],
    "mid_summary": [
-      "This is a bar chart. It shows Sales price in million U.S. dollars for 10 number of Top Level Domainss. ",
-      "The Sales price in million U.S. dollars is highest at Top Level Domains .web (Jul '16) and lowest at Top Level Domains .vip (Sep '14). ",
-      "The highest Top Level Domains .web (Jul '16) has 132.0 more Sales price in million U.S. dollars than the lowest Top Level Domains .vip (Sep '14). "
+      "This bar chart has 10 columns on the x axis representing Top Level Domains, and Sales price in million U.S. dollars in each Top Level Domains on the y axis. ",
+      "The Sales price in million U.S. dollars is appeared to be the highest at Top Level Domains .web (Jul '16) and lowest at Top Level Domains .vip (Sep '14). ",
+      "The difference of Sales price in million U.S. dollars between the highest and lowest Top Level Domains is 132.0. "
    ],
    "max_summary": [
-      "This is a bar chart representing Top Level Domains in the x axis and Sales price in million U.S. dollars in the y axis. ",
-      "The maximum Sales price in million U.S. dollars 135.0 is found at Top Level Domains .web (Jul '16) and the minimum is found at .vip (Sep '14) where Top Level Domains is 3.0. ",
-      "Second maximum Sales price in million U.S. dollars is found at Top Level Domains .shop (Jan '16). ",
-      "There is a difference of 132.0 between the maximum Top Level Domains .web (Jul '16) and minimum Top Level Domains .vip (Sep '14). ",
-      "The Top Level Domains .web (Jul '16) has the highest Sales price in million U.S. dollars, followed by .shop (Jan '16), and .app (Feb '15). Down to the Top Level Domains .vip (Sep '14) which is the lowest. ",
-      "The highest value 135.0 at .web (Jul '16) is almost 5.79 times larger than the average value 23.3. "
+      "This is a bar chart. It shows Sales price in million U.S. dollars for 10 number of Top Level Domainss. ",
+      "Top Level Domains .web (Jul '16) has the highest Sales price in million U.S. dollars and .vip (Sep '14) has the lowest Sales price in million U.S. dollars. ",
+      "The difference of Sales price in million U.S. dollars between the highest and lowest Top Level Domains is 132.0. ",
+      "Top Level Domains .web (Jul '16) is higher than any other Top Level Domainss with value 135.0, followed by .shop (Jan '16), and .app (Feb '15). Down to Top Level Domains .vip (Sep '14) with the lowest value 3.0. ",
+      "The Top Level Domains .web (Jul '16) tends to be 5.79 percent higher than average. ",
+      "The Sales price in million U.S. dollars is 232.99 if we add up values of all Top Level Domainss. "
    ],
    "trends": [
       {},

@@ -13,31 +13,31 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart represents 9 different Countrys on X-axis for 6 groups Facebook, Twitter, MySpace, Shaadi, Match, and Badoo. On the Y-axis it shows their corresponding Percentage of respondents. ",
-      " Out of all 6 groups, Facebook had the highest Percentage of respondents in Country Vietnam and MySpace had the lowest Percentage of respondents in Country India. ",
-      " In Country Indonesia, Twitter had the maximum Percentage of respondents and it saw the lowest in Country Brazil out of all 9 Countrys. ",
-      " There is a gap of 32.0 between the highest and lowest Percentage of respondents found for Twitter in Country Indonesia and Brazil. "
+      "This grouped bar chart shows Percentage of respondents on the Y-axis for 9 different Countrys for 6 groups Facebook, Twitter, MySpace, Shaadi, Match, and Badoo that are presented on the X-axis. ",
+      " Country Vietnam had the maximum Percentage of respondents among all 6 groups, and it was for Facebook. The minimum Percentage of respondents was observed in Country India for MySpace. ",
+      " In Country Vietnam, Facebook had the maximum Percentage of respondents and it saw the lowest in Country Brazil out of all 9 Countrys. ",
+      "Country Vietnam and Brazil had the biggest gap of 36.0 between the highest and lowest Percentage of respondents found for Facebook. "
    ],
    "xAxis": "Country",
    "yAxis": "Percentage of respondents",
    "min_summary": [
-      "This grouped bar chart represents 9 different Countrys on X-axis for 6 groups Facebook, Twitter, MySpace, Shaadi, Match, and Badoo. On the Y-axis it shows their corresponding Percentage of respondents. ",
+      "This grouped bar chart shows Percentage of respondents on the Y-axis for 9 different Countrys for 6 groups Facebook, Twitter, MySpace, Shaadi, Match, and Badoo that are presented on the X-axis. ",
       " Country Vietnam had the maximum Percentage of respondents among all 6 groups, and it was for Facebook. The minimum Percentage of respondents was observed in Country India for MySpace. "
    ],
    "mid_summary": [
-      "This grouped bar chart represents 9 different Countrys on X-axis for 6 groups Facebook, Twitter, MySpace, Shaadi, Match, and Badoo. On the Y-axis it shows their corresponding Percentage of respondents. ",
-      " Out of all 6 groups, Facebook had the highest Percentage of respondents in Country Vietnam and MySpace had the lowest Percentage of respondents in Country India. ",
-      " In Country Indonesia, Twitter had the maximum Percentage of respondents and it saw the lowest in Country Brazil out of all 9 Countrys. ",
-      " There is a gap of 32.0 between the highest and lowest Percentage of respondents found for Twitter in Country Indonesia and Brazil. "
+      "This grouped bar chart shows Percentage of respondents on the Y-axis for 9 different Countrys for 6 groups Facebook, Twitter, MySpace, Shaadi, Match, and Badoo that are presented on the X-axis. ",
+      " Country Vietnam had the maximum Percentage of respondents among all 6 groups, and it was for Facebook. The minimum Percentage of respondents was observed in Country India for MySpace. ",
+      " In Country Vietnam, Facebook had the maximum Percentage of respondents and it saw the lowest in Country Brazil out of all 9 Countrys. ",
+      "Country Vietnam and Brazil had the biggest gap of 36.0 between the highest and lowest Percentage of respondents found for Facebook. "
    ],
    "max_summary": [
       "This grouped bar chart shows Percentage of respondents on the Y-axis for 9 different Countrys for 6 groups Facebook, Twitter, MySpace, Shaadi, Match, and Badoo that are presented on the X-axis. ",
-      " In Country Vietnam, Facebook had the highest Percentage of respondents 85.0 among the 6 groups and in India, MySpace had the lowest Percentage of respondents 0.0. ",
-      " In Country Indonesia, Twitter had the highest Percentage of respondents among all 9 Countrys and it has the lowest Percentage of respondents in Country Brazil. ",
-      " There is a gap of 32.0 between the highest and lowest Percentage of respondents found for Twitter in Country Indonesia and Brazil. ",
+      " Out of all 6 groups, Facebook had the highest Percentage of respondents in Country Vietnam and MySpace had the lowest Percentage of respondents in Country India. ",
+      " Among all the Countrys, Facebook had the highest Percentage of respondents in Country Vietnam and lowest Percentage of respondents in Country Brazil. ",
+      "Country Vietnam and Brazil had the biggest gap of 36.0 between the highest and lowest Percentage of respondents found for Facebook. ",
       " Out of all 6 groups, the highest gap between the maximum and minimum Percentage of respondents was found in case of Facebook. ",
-      " Facebook had the maximum Percentage of respondents out of all 6 groups in Country Vietnam followed by Facebook in Vietnam, and the minimum Percentage of respondents is found for MySpace in India. ",
-      "Averaging all 6 groups Facebook, Twitter, MySpace, Shaadi, Match, and Badoo, the Country Indonesia is the maximum Percentage of respondents and Brazil is the minimum Percentage of respondents. "
+      " In Country Vietnam, Facebook had the highest Percentage of respondents 85.0 among the 6 groups and in India, MySpace had the lowest Percentage of respondents 0.0. The second highest Percentage of respondents 14.0 was observed for Facebook in Country Vietnam. ",
+      "On average, the Country Indonesia had the highest Percentage of respondents for all 6 groups Facebook, Twitter, MySpace, Shaadi, Match, and Badoo. Whereas Brazil had the lowest average Percentage of respondents. "
    ],
    "trends": [
       {},

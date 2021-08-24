@@ -6,27 +6,25 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This is a bar chart. It shows Costs in million U.S. dollars for 8 number of Breakdown of Projects. ",
-      "Breakdown of Project Stadium construction & renovation has the highest Costs in million U.S. dollars and Tourism infrastructure projects has the lowest Costs in million U.S. dollars. ",
-      "The highest Breakdown of Project Stadium construction & renovation has 3524.0 more Costs in million U.S. dollars than the lowest Breakdown of Project Tourism infrastructure projects. "
+      "This bar chart has 8 columns on the x axis representing Breakdown of Project, and Costs in million U.S. dollars in each Breakdown of Project on the y axis. ",
+      "The Costs in million U.S. dollars is highest at Breakdown of Project Stadium construction & renovation and lowest at Breakdown of Project Tourism infrastructure projects. ",
+      "The difference of Costs in million U.S. dollars between the highest and lowest Breakdown of Project is 3524.0. "
    ],
    "min_summary": [
-      "This is a bar chart. It shows Costs in million U.S. dollars for 8 number of Breakdown of Projects. ",
-      "Breakdown of Project Stadium construction & renovation has the highest Costs in million U.S. dollars and Tourism infrastructure projects has the lowest Costs in million U.S. dollars. "
+      "This is a bar chart representing Breakdown of Project in the x axis and Costs in million U.S. dollars in the y axis. ",
+      "The maximum Costs in million U.S. dollars 3600.0 is found at Breakdown of Project Stadium construction & renovation and the minimum is found at Tourism infrastructure projects where Breakdown of Project is 76.0. "
    ],
    "mid_summary": [
-      "This is a bar chart. It shows Costs in million U.S. dollars for 8 number of Breakdown of Projects. ",
-      "Breakdown of Project Stadium construction & renovation has the highest Costs in million U.S. dollars and Tourism infrastructure projects has the lowest Costs in million U.S. dollars. ",
-      "The highest Breakdown of Project Stadium construction & renovation has 3524.0 more Costs in million U.S. dollars than the lowest Breakdown of Project Tourism infrastructure projects. "
+      "This bar chart has 8 columns on the x axis representing Breakdown of Project, and Costs in million U.S. dollars in each Breakdown of Project on the y axis. ",
+      "The Costs in million U.S. dollars is highest at Breakdown of Project Stadium construction & renovation and lowest at Breakdown of Project Tourism infrastructure projects. ",
+      "The difference of Costs in million U.S. dollars between the highest and lowest Breakdown of Project is 3524.0. "
    ],
    "max_summary": [
       "This is a bar chart. It shows Costs in million U.S. dollars for 8 number of Breakdown of Projects. ",
-      "The maximum Costs in million U.S. dollars 3600.0 is found at Breakdown of Project Stadium construction & renovation and the minimum is found at Tourism infrastructure projects where Breakdown of Project is 76.0. ",
-      "Breakdown of Project Urban mobility projects has the second highest value for Costs in million U.S. dollars. ",
+      "Breakdown of Project Stadium construction & renovation has the highest Costs in million U.S. dollars and Tourism infrastructure projects has the lowest Costs in million U.S. dollars. ",
       "There is a difference of 3524.0 between the maximum Breakdown of Project Stadium construction & renovation and minimum Breakdown of Project Tourism infrastructure projects. ",
-      "The Breakdown of Project Stadium construction & renovation has the highest Costs in million U.S. dollars, followed by Urban mobility projects, and Upgrades at airports. Down to the Breakdown of Project Tourism infrastructure projects which is the lowest. ",
-      "The highest value 3600.0 at Stadium construction & renovation is almost 2.62 times larger than the average value 1372.62. ",
-      "The Costs in million U.S. dollars is 10981.0 if we add up values of all Breakdown of Projects. "
+      "Breakdown of Project Stadium construction & renovation is higher than any other Breakdown of Projects with value 3600.0, followed by Urban mobility projects, and Upgrades at airports. Down to Breakdown of Project Tourism infrastructure projects with the lowest value 76.0. ",
+      "The average Costs in million U.S. dollars in all 8 Breakdown of Projects is 1372.62. "
    ],
    "trends": [
       {},

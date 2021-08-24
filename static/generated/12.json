@@ -9,30 +9,30 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart shows Box office gross in million USD on the Y-axis for 9 different Movies for 2 groups North America, and Worldwide that are presented on the X-axis. ",
-      " Out of all 2 groups, Worldwide had the highest Box office gross in million USD in Movie Fast & Furious Presents: Hobbs & Shaw and Worldwide had the lowest Box office gross in million USD in Movie The Fast and the Furious: Tokyo Drift. ",
-      " Among all the Movies, Worldwide had the highest Box office gross in million USD 72104.0 in Movie Fast & Furious Presents: Hobbs & Shaw and lowest value 1585.0 in Movie The Fast and the Furious: Tokyo Drift. ",
-      "Movie Fast & Furious Presents: Hobbs & Shaw and The Fast and the Furious: Tokyo Drift had the biggest gap of 70519.0 between the highest and lowest Box office gross in million USD found for Worldwide. "
+      "This grouped bar chart represents 9 different Movies on X-axis for 2 groups North America, and Worldwide. On the Y-axis it shows their corresponding Box office gross in million USD. ",
+      " In Movie Fast & Furious Presents: Hobbs & Shaw, Worldwide had the highest Box office gross in million USD 72104.0 among the 2 groups and in The Fast and the Furious: Tokyo Drift, Worldwide had the lowest Box office gross in million USD 1585.0. ",
+      " Among all the Movies, North America had the highest Box office gross in million USD in Movie Furious 7 and lowest Box office gross in million USD in Movie The Fast and the Furious: Tokyo Drift. ",
+      "Movie Furious 7 and The Fast and the Furious: Tokyo Drift had the biggest gap of 29050.0 between the highest and lowest Box office gross in million USD found for North America. "
    ],
    "xAxis": "Movie",
    "yAxis": "Box office gross in million USD",
    "min_summary": [
       "This grouped bar chart represents 9 different Movies on X-axis for 2 groups North America, and Worldwide. On the Y-axis it shows their corresponding Box office gross in million USD. ",
-      " In Movie Fast & Furious Presents: Hobbs & Shaw, Worldwide had the highest Box office gross in million USD 72104.0 among the 2 groups and in The Fast and the Furious: Tokyo Drift, Worldwide had the lowest Box office gross in million USD 1585.0. "
+      " Out of all 2 groups, Worldwide had the highest Box office gross in million USD in Movie Fast & Furious Presents: Hobbs & Shaw and Worldwide had the lowest Box office gross in million USD in Movie The Fast and the Furious: Tokyo Drift. "
    ],
    "mid_summary": [
-      "This grouped bar chart shows Box office gross in million USD on the Y-axis for 9 different Movies for 2 groups North America, and Worldwide that are presented on the X-axis. ",
-      " Out of all 2 groups, Worldwide had the highest Box office gross in million USD in Movie Fast & Furious Presents: Hobbs & Shaw and Worldwide had the lowest Box office gross in million USD in Movie The Fast and the Furious: Tokyo Drift. ",
-      " Among all the Movies, Worldwide had the highest Box office gross in million USD 72104.0 in Movie Fast & Furious Presents: Hobbs & Shaw and lowest value 1585.0 in Movie The Fast and the Furious: Tokyo Drift. ",
-      "Movie Fast & Furious Presents: Hobbs & Shaw and The Fast and the Furious: Tokyo Drift had the biggest gap of 70519.0 between the highest and lowest Box office gross in million USD found for Worldwide. "
+      "This grouped bar chart represents 9 different Movies on X-axis for 2 groups North America, and Worldwide. On the Y-axis it shows their corresponding Box office gross in million USD. ",
+      " In Movie Fast & Furious Presents: Hobbs & Shaw, Worldwide had the highest Box office gross in million USD 72104.0 among the 2 groups and in The Fast and the Furious: Tokyo Drift, Worldwide had the lowest Box office gross in million USD 1585.0. ",
+      " Among all the Movies, North America had the highest Box office gross in million USD in Movie Furious 7 and lowest Box office gross in million USD in Movie The Fast and the Furious: Tokyo Drift. ",
+      "Movie Furious 7 and The Fast and the Furious: Tokyo Drift had the biggest gap of 29050.0 between the highest and lowest Box office gross in million USD found for North America. "
    ],
    "max_summary": [
-      "This grouped bar chart represents 9 different Movies on X-axis for 2 groups North America, and Worldwide. On the Y-axis it shows their corresponding Box office gross in million USD. ",
+      "This grouped bar chart shows Box office gross in million USD on the Y-axis for 9 different Movies for 2 groups North America, and Worldwide that are presented on the X-axis. ",
       " Movie Fast & Furious Presents: Hobbs & Shaw had the maximum Box office gross in million USD among all 2 groups, and it was for Worldwide. The minimum Box office gross in million USD was observed in Movie The Fast and the Furious: Tokyo Drift for Worldwide. ",
-      " In Movie Fast & Furious Presents: Hobbs & Shaw, Worldwide had the highest Box office gross in million USD among all 9 Movies and it has the lowest Box office gross in million USD in Movie The Fast and the Furious: Tokyo Drift. ",
-      " The maximum Box office gross in million USD for Worldwide that was found in Movie Fast & Furious Presents: Hobbs & Shaw was 45.49 times larger than the minimum Box office gross in million USD observed in Movie The Fast and the Furious: Tokyo Drift. ",
-      " Among the groups, North America had the biggest difference in Box office gross in million USD. Where the maximum Box office gross in million USD was 5.65 times larger than the minimum Box office gross in million USD. ",
-      "On average, the Movie Furious 7 had the highest Box office gross in million USD for all 2 groups North America, and Worldwide. Whereas The Fast and the Furious: Tokyo Drift had the lowest average Box office gross in million USD. "
+      " Among all the Movies, North America had the highest Box office gross in million USD in Movie Furious 7 and lowest Box office gross in million USD in Movie The Fast and the Furious: Tokyo Drift. ",
+      "Movie Furious 7 and The Fast and the Furious: Tokyo Drift had the biggest gap of 29050.0 between the highest and lowest Box office gross in million USD found for North America. ",
+      " Among all 2 groups, North America had the gap of 29050.0 between the maximum and minimum Box office gross in million USD observed in Movie Furious 7 and The Fast and the Furious: Tokyo Drift respectively. ",
+      "Averaging all 2 groups North America, and Worldwide, the Movie Furious 7 is the maximum Box office gross in million USD and The Fast and the Furious: Tokyo Drift is the minimum Box office gross in million USD. "
    ],
    "trends": [
       {},

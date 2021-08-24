@@ -6,27 +6,27 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This is a bar chart representing Country in the x axis and Inflation rate compared to previous year in the y axis. ",
+      "This bar chart has 20 columns on the x axis representing Country, and Inflation rate compared to previous year in each Country on the y axis. ",
       "The Inflation rate compared to previous year is appeared to be the highest at Country Eritrea and lowest at Country Panama. ",
-      "The highest Country Eritrea has 27.59 more Inflation rate compared to previous year than the lowest Country Panama. "
+      "There is a difference of 27.59 between the maximum Country Eritrea and minimum Country Panama. "
    ],
    "min_summary": [
-      "This is a bar chart representing Country in the x axis and Inflation rate compared to previous year in the y axis. ",
-      "The maximum Inflation rate compared to previous year 27.6 is found at Country Eritrea and the minimum is found at Panama where Country is 0.01. "
+      "This bar chart has 20 columns on the x axis representing Country, and Inflation rate compared to previous year in each Country on the y axis. ",
+      "Country Eritrea has the highest Inflation rate compared to previous year and Panama has the lowest Inflation rate compared to previous year. "
    ],
    "mid_summary": [
-      "This is a bar chart representing Country in the x axis and Inflation rate compared to previous year in the y axis. ",
+      "This bar chart has 20 columns on the x axis representing Country, and Inflation rate compared to previous year in each Country on the y axis. ",
       "The Inflation rate compared to previous year is appeared to be the highest at Country Eritrea and lowest at Country Panama. ",
-      "The highest Country Eritrea has 27.59 more Inflation rate compared to previous year than the lowest Country Panama. "
+      "There is a difference of 27.59 between the maximum Country Eritrea and minimum Country Panama. "
    ],
    "max_summary": [
-      "This bar chart has 20 columns on the x axis representing Country, and Inflation rate compared to previous year in each Country on the y axis. ",
-      "The Inflation rate compared to previous year is highest at Country Eritrea and lowest at Country Panama. ",
-      "Country Guinea-Bissau has the second highest value for Inflation rate compared to previous year. ",
-      "The highest Country Eritrea has 27.59 more Inflation rate compared to previous year than the lowest Country Panama. ",
+      "This is a bar chart. It shows Inflation rate compared to previous year for 20 number of Countrys. ",
+      "The maximum Inflation rate compared to previous year 27.6 is found at Country Eritrea and the minimum is found at Panama where Country is 0.01. ",
+      "Second maximum Inflation rate compared to previous year is found at Country Guinea-Bissau. ",
+      "There is a difference of 27.59 between the maximum Country Eritrea and minimum Country Panama. ",
       "Inflation rate compared to previous year at Country Eritrea is 27.6 , second place is Guinea-Bissau at 2.58, and thirdly is United Arab Emirates at 1.5.",
       "Country Switzerland, and Marshall Islands have a similar Inflation rate compared to previous year that is 0.57. ",
-      "The highest value 27.6 at Eritrea is almost 13.99 times larger than the average value 1.97. ",
+      "The Country Eritrea tends to be 13.99 percent higher than average. ",
       "Summing up the values of all Countrys, we get total 39.47. "
    ],
    "trends": [

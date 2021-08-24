@@ -6,27 +6,27 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This is a bar chart. It shows Growth in percentage for 20 number of Countrys. ",
-      "Country India has the highest Growth in percentage and Japan has the lowest Growth in percentage. ",
-      "The highest Country India has 115.0 more Growth in percentage than the lowest Country Japan. "
+      "This is a bar chart representing Country in the x axis and Growth in percentage in the y axis. ",
+      "The Growth in percentage is highest at Country India and lowest at Country Japan. ",
+      "The difference of Growth in percentage between the highest and lowest Country is 115.0. "
    ],
    "min_summary": [
       "This is a bar chart representing Country in the x axis and Growth in percentage in the y axis. ",
-      "The Growth in percentage is appeared to be the highest at Country India and lowest at Country Japan. "
+      "Country India has the highest Growth in percentage and Japan has the lowest Growth in percentage. "
    ],
    "mid_summary": [
-      "This is a bar chart. It shows Growth in percentage for 20 number of Countrys. ",
-      "Country India has the highest Growth in percentage and Japan has the lowest Growth in percentage. ",
-      "The highest Country India has 115.0 more Growth in percentage than the lowest Country Japan. "
+      "This is a bar chart representing Country in the x axis and Growth in percentage in the y axis. ",
+      "The Growth in percentage is highest at Country India and lowest at Country Japan. ",
+      "The difference of Growth in percentage between the highest and lowest Country is 115.0. "
    ],
    "max_summary": [
-      "This is a bar chart representing Country in the x axis and Growth in percentage in the y axis. ",
-      "The maximum Growth in percentage 232.0 is found at Country India and the minimum is found at Japan where Country is 117.0. ",
-      "The difference of Growth in percentage between the highest and lowest Country is 115.0. ",
-      "Growth in percentage at Country India is 232.0 , second place is China at 230.0, and thirdly is Indonesia at 196.0.",
-      "Country Spain, and France have a similar Growth in percentage that is 129.0. ",
-      "The lowest value 117.0 at Japan is almost 1.52 times smaller than the average value 152.55. ",
-      "Summing up the values of all Countrys, we get total 3051.0. "
+      "This is a bar chart. It shows Growth in percentage for 20 number of Countrys. ",
+      "The Growth in percentage is appeared to be the highest at Country India and lowest at Country Japan. ",
+      "Country China has the second highest value for Growth in percentage. ",
+      "There is a difference of 115.0 between the maximum Country India and minimum Country Japan. ",
+      "The Country India has the highest Growth in percentage, followed by China, and Indonesia. Down to the Country Japan which is the lowest. ",
+      "Country Spain, and France share the same value 129.0. ",
+      "The highest value 232.0 at India is almost 1.52 times larger than the average value 152.55. "
    ],
    "trends": [
       {},

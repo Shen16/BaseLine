@@ -7,26 +7,24 @@
    "summaryType": "baseline",
    "summary": [
       "This bar chart has 10 columns on the x axis representing Country, and Imports in metric tons in each Country on the y axis. ",
-      "The maximum Imports in metric tons 45170.0 is found at Country India and the minimum is found at Uruguay where Country is 4025.0. ",
-      "The highest Country India has 41145.0 more Imports in metric tons than the lowest Country Uruguay. "
+      "The Imports in metric tons is appeared to be the highest at Country India and lowest at Country Uruguay. ",
+      "The difference of Imports in metric tons between the highest and lowest Country is 41145.0. "
    ],
    "min_summary": [
-      "This is a bar chart representing Country in the x axis and Imports in metric tons in the y axis. ",
-      "The Imports in metric tons is appeared to be the highest at Country India and lowest at Country Uruguay. "
+      "This bar chart has 10 columns on the x axis representing Country, and Imports in metric tons in each Country on the y axis. ",
+      "Country India has the highest Imports in metric tons and Uruguay has the lowest Imports in metric tons. "
    ],
    "mid_summary": [
       "This bar chart has 10 columns on the x axis representing Country, and Imports in metric tons in each Country on the y axis. ",
-      "The maximum Imports in metric tons 45170.0 is found at Country India and the minimum is found at Uruguay where Country is 4025.0. ",
-      "The highest Country India has 41145.0 more Imports in metric tons than the lowest Country Uruguay. "
+      "The Imports in metric tons is appeared to be the highest at Country India and lowest at Country Uruguay. ",
+      "The difference of Imports in metric tons between the highest and lowest Country is 41145.0. "
    ],
    "max_summary": [
-      "This bar chart has 10 columns on the x axis representing Country, and Imports in metric tons in each Country on the y axis. ",
-      "The Imports in metric tons is highest at Country India and lowest at Country Uruguay. ",
-      "Second maximum Imports in metric tons is found at Country Vietnam. ",
-      "There is a difference of 41145.0 between the maximum Country India and minimum Country Uruguay. ",
-      "The Country India has the highest Imports in metric tons, followed by Vietnam, and Argentina. Down to the Country Uruguay which is the lowest. ",
-      "The average Imports in metric tons in all 10 Countrys is 19351.5. ",
-      "The Imports in metric tons is 193515.0 if we add up values of all Countrys. "
+      "This is a bar chart representing Country in the x axis and Imports in metric tons in the y axis. ",
+      "The maximum Imports in metric tons 45170.0 is found at Country India and the minimum is found at Uruguay where Country is 4025.0. ",
+      "The minimum Country Uruguay has got 11.22 times less Imports in metric tons than the maximum Country India. ",
+      "Imports in metric tons at Country India is 45170.0 , second place is Vietnam at 36288.0, and thirdly is Argentina at 35378.0.",
+      "Considered together, the average Imports in metric tons in all 10 Countrys is roughly 19351.5. "
    ],
    "trends": [
       {},

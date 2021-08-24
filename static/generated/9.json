@@ -6,31 +6,32 @@
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This is a line chart with an x axis representing Year and a y axis representing Average attendance, containing a total of 12 data points.",
-      " In general Average attendance has fallen over the Year.",
-      "The line rapidly ",
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Average attendance. In total the number of data points it has is 12.",
+      " Overall Average attendance has decreased over the Year.",
       "The steepest increase occurs in between the Year 2012 and 2013.",
-      "The highest Average attendance, of value 72778.0 was reached at Year 2008",
-      "The lowest Average attendance, of value 63882.0 was reported at Year 2017"
+      "Maximum Average attendance, about 72778.0 was reported at Year 2008",
+      "Minimum Average attendance about 63882.0 was reached at Year 2017"
    ],
    "min_summary": [
       "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Average attendance. In total the number of data points it has is 12.",
-      " Overall Average attendance has decreased over the Year."
+      " Overall Average attendance has decreased over the Year.",
+      "Average attendance is slightly decreasing from 2008 to 2010, roughly constant from 2010 to 2012, slightly increasing from 2012 to 2013, slightly decreasing from 2013 to 2014, roughly constant from 2014 to 2017, and lastly slightly increasing from 2017 to 2019."
    ],
    "mid_summary": [
       "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Average attendance. In total the number of data points it has is 12.",
       " In general Average attendance has fallen over the Year.",
-      "The most drastic increase took place within the Year 2012 and 2013.",
-      "The highest Average attendance, of value 72778.0 was reached at Year 2008",
-      "The lowest Average attendance, of value 63882.0 was reported at Year 2017"
+      "Average attendance is slightly decreasing from 2008 to 2010, roughly constant from 2010 to 2012, slightly increasing from 2012 to 2013, slightly decreasing from 2013 to 2014, roughly constant from 2014 to 2017, and lastly slightly increasing from 2017 to 2019.",
+      "The steepest increase occurs in between the Year 2012 and 2013.",
+      "Maximum Average attendance, about 72778.0 was reported at Year 2008",
+      "Minimum Average attendance about 63882.0 was reached at Year 2017"
    ],
    "max_summary": [
       "This is a line chart with an x axis representing Year and a y axis representing Average attendance, containing a total of 12 data points.",
-      " In general Average attendance has fallen over the Year.",
+      " Overall Average attendance has decreased over the Year.",
+      "Average attendance is slightly decreasing from 2008 to 2010, roughly constant from 2010 to 2012, slightly increasing from 2012 to 2013, slightly decreasing from 2013 to 2014, roughly constant from 2014 to 2017, and lastly slightly increasing from 2017 to 2019.",
       "The steepest increase occurs in between the Year 2012 and 2013.",
-      "The highest Average attendance, of value 72778.0 was reached at Year 2008",
-      "The lowest Average attendance, of value 63882.0 was reported at Year 2017",
-      "The line drastically "
+      "Maximum Average attendance, about 72778.0 was reported at Year 2008",
+      "Minimum Average attendance about 63882.0 was reached at Year 2017"
    ],
    "trends": [],
    "data": [

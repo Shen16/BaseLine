@@ -6,29 +6,29 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 8 columns on the x axis representing Month, and Earnings in million U.S. dollars in each Month on the y axis. ",
-      "Month May 2011 to May 2012 has the highest Earnings in million U.S. dollars and June 2016 to June 2017 has the lowest Earnings in million U.S. dollars. ",
-      "The maximum Month May 2011 to May 2012 has got 1.86 times higher Earnings in million U.S. dollars than the minimum Month June 2016 to June 2017. "
+      "This is a bar chart. It shows Earnings in million U.S. dollars for 8 number of Months. ",
+      "The Earnings in million U.S. dollars is appeared to be the highest at Month May 2011 to May 2012 and lowest at Month June 2016 to June 2017. ",
+      "The highest Month May 2011 to May 2012 has 12.0 more Earnings in million U.S. dollars than the lowest Month June 2016 to June 2017. "
    ],
    "min_summary": [
-      "This bar chart has 8 columns on the x axis representing Month, and Earnings in million U.S. dollars in each Month on the y axis. ",
-      "Month May 2011 to May 2012 has the highest Earnings in million U.S. dollars and June 2016 to June 2017 has the lowest Earnings in million U.S. dollars. "
+      "This is a bar chart. It shows Earnings in million U.S. dollars for 8 number of Months. ",
+      "The maximum Earnings in million U.S. dollars 26.0 is found at Month May 2011 to May 2012 and the minimum is found at June 2016 to June 2017 where Month is 14.0. "
    ],
    "mid_summary": [
-      "This bar chart has 8 columns on the x axis representing Month, and Earnings in million U.S. dollars in each Month on the y axis. ",
-      "Month May 2011 to May 2012 has the highest Earnings in million U.S. dollars and June 2016 to June 2017 has the lowest Earnings in million U.S. dollars. ",
-      "The maximum Month May 2011 to May 2012 has got 1.86 times higher Earnings in million U.S. dollars than the minimum Month June 2016 to June 2017. "
+      "This is a bar chart. It shows Earnings in million U.S. dollars for 8 number of Months. ",
+      "The Earnings in million U.S. dollars is appeared to be the highest at Month May 2011 to May 2012 and lowest at Month June 2016 to June 2017. ",
+      "The highest Month May 2011 to May 2012 has 12.0 more Earnings in million U.S. dollars than the lowest Month June 2016 to June 2017. "
    ],
    "max_summary": [
-      "This is a bar chart. It shows Earnings in million U.S. dollars for 8 number of Months. ",
+      "This bar chart has 8 columns on the x axis representing Month, and Earnings in million U.S. dollars in each Month on the y axis. ",
       "Month May 2011 to May 2012 has the highest Earnings in million U.S. dollars and June 2016 to June 2017 has the lowest Earnings in million U.S. dollars. ",
       "Second maximum Earnings in million U.S. dollars is found at Month June 2017 to June 2018. ",
       "There is a difference of 12.0 between the maximum Month May 2011 to May 2012 and minimum Month June 2016 to June 2017. ",
-      "The Month May 2011 to May 2012 has the highest Earnings in million U.S. dollars, followed by June 2017 to June 2018, and May 2010 to April 2011. Down to the Month June 2016 to June 2017 which is the lowest. ",
-      "Over the past 8 Months, the Earnings in million U.S. dollars has decreased. ",
-      "Similar Earnings in million U.S. dollars is found in Month June 2015 to June 2016, June 2012 to June 2013, and May 2010 to April 2011. ",
-      "Considered together, the average Earnings in million U.S. dollars in all 8 Months is roughly 18.25. ",
-      "Summing up the values of all Months, we get total 146.0. "
+      "Earnings in million U.S. dollars at Month May 2011 to May 2012 is 26.0 , second place is June 2017 to June 2018 at 21.0, and thirdly is May 2010 to April 2011 at 18.0.",
+      "Overall Earnings in million U.S. dollars has lowered over the Months. ",
+      "Month June 2015 to June 2016, June 2012 to June 2013, and May 2010 to April 2011 have a similar Earnings in million U.S. dollars that is 18.0. ",
+      "The Month June 2016 to June 2017 has 1.42 times less Earnings in million U.S. dollars than average. ",
+      "The Earnings in million U.S. dollars is 146.0 if we add up values of all Months. "
    ],
    "trends": [
       {},

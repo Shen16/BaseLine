@@ -7,30 +7,28 @@
    "summaryType": "baseline",
    "summary": [
       "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Unemployment rate. In total the number of data points it has is 21.",
-      " In general Unemployment rate has fallen over the Year.",
-      "The line significantly ",
-      "The most drastic decrease took place within the Year 2005 and 2006.",
-      "Maximum Unemployment rate, about 8.43 was reported at Year 1999",
-      "Minimum Unemployment rate about 5.38 was reached at Year 2019"
-   ],
-   "min_summary": [
-      "This is a line chart with an x axis representing Year and a y axis representing Unemployment rate, containing a total of 21 data points.",
-      " In general Unemployment rate has fallen over the Year."
-   ],
-   "mid_summary": [
-      "This is a line chart with an x axis representing Year and a y axis representing Unemployment rate, containing a total of 21 data points.",
       " Overall Unemployment rate has decreased over the Year.",
       "The steepest decrease occurs in between the Year 2005 and 2006.",
       "Maximum Unemployment rate, about 8.43 was reported at Year 1999",
-      "Minimum Unemployment rate about 5.38 was reached at Year 2019"
+      "The lowest Unemployment rate, of value 5.38 was reported at Year 2019"
    ],
-   "max_summary": [
+   "min_summary": [
       "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Unemployment rate. In total the number of data points it has is 21.",
-      " In general Unemployment rate has fallen over the Year.",
+      " Overall Unemployment rate has decreased over the Year."
+   ],
+   "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Unemployment rate. In total the number of data points it has is 21.",
+      " Overall Unemployment rate has decreased over the Year.",
       "The steepest decrease occurs in between the Year 2005 and 2006.",
       "Maximum Unemployment rate, about 8.43 was reported at Year 1999",
-      "Minimum Unemployment rate about 5.38 was reached at Year 2019",
-      "The line drastically "
+      "The lowest Unemployment rate, of value 5.38 was reported at Year 2019"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Unemployment rate, containing a total of 21 data points.",
+      " In general Unemployment rate has fallen over the Year.",
+      "The most drastic decrease took place within the Year 2005 and 2006.",
+      "Maximum Unemployment rate, about 8.43 was reported at Year 1999",
+      "The lowest Unemployment rate, of value 5.38 was reported at Year 2019"
    ],
    "trends": [],
    "data": [

@@ -6,26 +6,26 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This is a bar chart representing Country in the x axis and Share in total export in the y axis. ",
-      "The Share in total export is highest at Country Germany and lowest at Country Italy. ",
-      "The difference of Share in total export between the highest and lowest Country is 8.8. "
+      "This bar chart has 6 columns on the x axis representing Country, and Share in total export in each Country on the y axis. ",
+      "The Share in total export is appeared to be the highest at Country Germany and lowest at Country Italy. ",
+      "There is a difference of 8.8 between the maximum Country Germany and minimum Country Italy. "
    ],
    "min_summary": [
       "This bar chart has 6 columns on the x axis representing Country, and Share in total export in each Country on the y axis. ",
-      "Country Germany has the highest Share in total export and Italy has the lowest Share in total export. "
+      "The Share in total export is appeared to be the highest at Country Germany and lowest at Country Italy. "
    ],
    "mid_summary": [
-      "This is a bar chart representing Country in the x axis and Share in total export in the y axis. ",
-      "The Share in total export is highest at Country Germany and lowest at Country Italy. ",
-      "The difference of Share in total export between the highest and lowest Country is 8.8. "
-   ],
-   "max_summary": [
       "This bar chart has 6 columns on the x axis representing Country, and Share in total export in each Country on the y axis. ",
       "The Share in total export is appeared to be the highest at Country Germany and lowest at Country Italy. ",
-      "The difference of Share in total export between the highest and lowest Country is 8.8. ",
-      "Country Germany is higher than any other Countrys with value 12.9, followed by United States, and United Kingdom. Down to Country Italy with the lowest value 4.1. ",
-      "The Country Italy has 1.6 times less Share in total export than average. ",
-      "The Share in total export is 48.3 if we add up values of all Countrys. "
+      "There is a difference of 8.8 between the maximum Country Germany and minimum Country Italy. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Country in the x axis and Share in total export in the y axis. ",
+      "Country Germany has the highest Share in total export and Italy has the lowest Share in total export. ",
+      "The highest value at Country Germany is 3.15x times more than the lowest value at Italy. ",
+      "The Country Germany has the highest Share in total export, followed by United States, and United Kingdom. Down to the Country Italy which is the lowest. ",
+      "The Country Germany has 1.6 times more Share in total export than average. ",
+      "Summing up the values of all Countrys, we get total 48.3. "
    ],
    "trends": [
       {},

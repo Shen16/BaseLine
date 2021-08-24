@@ -6,24 +6,25 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 2 columns on the x axis representing Sex, and Percentage of users in each Sex on the y axis. ",
-      "Sex Female has the highest Percentage of users and Male has the lowest Percentage of users. ",
-      "There is a difference of 7.4 between the maximum Sex Female and minimum Sex Male. "
+      "This is a bar chart representing Sex in the x axis and Percentage of users in the y axis. ",
+      "The maximum Percentage of users 53.7 is found at Sex Female and the minimum is found at Male where Sex is 46.3. ",
+      "The difference of Percentage of users between the highest and lowest Sex is 7.4. "
    ],
    "min_summary": [
       "This is a bar chart. It shows Percentage of users for 2 number of Sexs. ",
-      "The Percentage of users is highest at Sex Female and lowest at Sex Male. "
+      "The maximum Percentage of users 53.7 is found at Sex Female and the minimum is found at Male where Sex is 46.3. "
    ],
    "mid_summary": [
-      "This bar chart has 2 columns on the x axis representing Sex, and Percentage of users in each Sex on the y axis. ",
-      "Sex Female has the highest Percentage of users and Male has the lowest Percentage of users. ",
-      "There is a difference of 7.4 between the maximum Sex Female and minimum Sex Male. "
+      "This is a bar chart representing Sex in the x axis and Percentage of users in the y axis. ",
+      "The maximum Percentage of users 53.7 is found at Sex Female and the minimum is found at Male where Sex is 46.3. ",
+      "The difference of Percentage of users between the highest and lowest Sex is 7.4. "
    ],
    "max_summary": [
-      "This is a bar chart. It shows Percentage of users for 2 number of Sexs. ",
-      "The Percentage of users is appeared to be the highest at Sex Female and lowest at Sex Male. ",
-      "Sex Female has 1.16 times more Percentage of users than Sex Male which is has the lowest. ",
-      "The Sex Female has 1.07 times more Percentage of users than average. "
+      "This bar chart has 2 columns on the x axis representing Sex, and Percentage of users in each Sex on the y axis. ",
+      "The maximum Percentage of users 53.7 is found at Sex Female and the minimum is found at Male where Sex is 46.3. ",
+      "The lowest value at Sex Male is 1.16x times less than the highest value at Female. ",
+      "Considered together, the average Percentage of users in all 2 Sexs is roughly 50.0. ",
+      "The Percentage of users is 100.0 if we add up values of all Sexs. "
    ],
    "trends": [
       {},

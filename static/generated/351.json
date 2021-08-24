@@ -6,26 +6,27 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This is a bar chart. It shows Female employees for 6 number of Countrys. ",
-      "The Female employees is appeared to be the highest at Country Latin America and lowest at Country Asia. ",
-      "The highest Country Latin America has 23.1 more Female employees than the lowest Country Asia. "
+      "This bar chart has 6 columns on the x axis representing Country, and Female employees in each Country on the y axis. ",
+      "Country Latin America has the highest Female employees and Asia has the lowest Female employees. ",
+      "The minimum Country Asia has got 1.65 times less Female employees than the maximum Country Latin America. "
    ],
    "min_summary": [
-      "This is a bar chart representing Country in the x axis and Female employees in the y axis. ",
+      "This is a bar chart. It shows Female employees for 6 number of Countrys. ",
       "The Female employees is highest at Country Latin America and lowest at Country Asia. "
    ],
    "mid_summary": [
-      "This is a bar chart. It shows Female employees for 6 number of Countrys. ",
-      "The Female employees is appeared to be the highest at Country Latin America and lowest at Country Asia. ",
-      "The highest Country Latin America has 23.1 more Female employees than the lowest Country Asia. "
+      "This bar chart has 6 columns on the x axis representing Country, and Female employees in each Country on the y axis. ",
+      "Country Latin America has the highest Female employees and Asia has the lowest Female employees. ",
+      "The minimum Country Asia has got 1.65 times less Female employees than the maximum Country Latin America. "
    ],
    "max_summary": [
-      "This bar chart has 6 columns on the x axis representing Country, and Female employees in each Country on the y axis. ",
+      "This is a bar chart. It shows Female employees for 6 number of Countrys. ",
       "The Female employees is appeared to be the highest at Country Latin America and lowest at Country Asia. ",
-      "The second highest Female employees is appeared to be the Country Caribbean. ",
+      "Second maximum Female employees is found at Country Caribbean. ",
       "The difference of Female employees between the highest and lowest Country is 23.1. ",
       "The Country Latin America has the highest Female employees, followed by Caribbean, and Average. Down to the Country Asia which is the lowest. ",
-      "The Country Latin America tends to be 1.2 percent higher than average. "
+      "The highest value 58.5 at Latin America is almost 1.2 times larger than the average value 48.62. ",
+      "Summing up the values of all Countrys, we get total 291.72. "
    ],
    "trends": [
       {},

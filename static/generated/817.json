@@ -11,39 +11,21 @@
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This is a multi-line chart with 4 lines representing Northeast, Midwest, South, and West. The y axis denotes SOME LABEL and the x axis denotes Year.",
-      "Overall Midwest, and West are gradually increasing, Northeast, and South are gradually decreasing,  throughout the Year",
-      "The lines ordered according to average values of SOME LABEL in descending order is: 1. South, 2. Northeast, 3. Midwest, and lastly, 4. West. ",
-      "Throughout the period, South generally had the highest SOME LABEL relative to others with an average of 36.75, and it reached its maximum at 1790 with a value of 49.9.",
-      "Followed by Northeast which ranks as the second topmpost line , with an average of 29.1 SOME LABEL,reaching its highest point  at 1790 with a value of 50.1. ",
-      "The botommost line, West,  has a mean of 10.97, and peaked at 2019. ",
-      "Northeast reported the highest SOME LABEL about 50.1 in Year 1790"
+      "Overall South, and West are gradually increasing, Northeast, and Midwest are gradually decreasing,  throughout the Year",
+      "The ranking of the lines from topmost to botommmost is as follows: 1. South, 2. Midwest, 3. Northeast, and lastly, 4. West. ",
+      "West reported the lowest Percentage of population about 10.0 in Year 1930"
    ],
    "xAxis": "Year",
-   "yAxis": "SOME LABEL",
+   "yAxis": "Percentage of population",
    "min_summary": [
-      "This is a multi-line chart with 4 lines representing Northeast, Midwest, South, and West. The y axis denotes SOME LABEL and the x axis denotes Year.",
-      "Overall Midwest, and West are gradually increasing, Northeast, and South are gradually decreasing,  throughout the Year",
-      "Throughout the period, South generally had the highest SOME LABEL relative to others with an average of 36.75, and it reached its maximum at 1790 with a value of 49.9.",
-      "After South, Northeast overall has the second highest values , with a mean value of 29.1, peaking at 1790. ",
-      "West mostly had the least SOME LABEL with a mean value of 10.97, which peaked at 2019 with a value of 23.9. "
+      "Overall South, and West are gradually increasing, Northeast, and Midwest are gradually decreasing,  throughout the Year"
    ],
    "mid_summary": [
-      "You are viewing a chart of multi-line type with 4 lines denoting Northeast, Midwest, South, and West. The y axis indicates the SOME LABEL and the x axis indicates Year.",
-      "Overall Midwest, and West are gradually increasing, Northeast, and South are gradually decreasing,  throughout the Year",
-      "The ranking of the lines from topmost to botommmost is as follows: 1. South, 2. Northeast, 3. Midwest, and lastly, 4. West. ",
-      "Throughout the period, South generally had the highest SOME LABEL relative to others with an average of 36.75, and it reached its maximum at 1790 with a value of 49.9.",
-      "After South, Northeast overall has the second highest values , with a mean value of 29.1, peaking at 1790. ",
-      "The botommost line, West,  has a mean of 10.97, and peaked at 2019. "
+      "Overall South, and West are gradually increasing, Northeast, and Midwest are gradually decreasing,  throughout the Year"
    ],
    "max_summary": [
-      "You are viewing a chart of multi-line type with 4 lines denoting Northeast, Midwest, South, and West. The y axis indicates the SOME LABEL and the x axis indicates Year.",
-      "Overall Midwest, and West are gradually increasing, Northeast, and South are gradually decreasing,  throughout the Year",
-      "The ranking of the lines from topmost to botommmost is as follows: 1. South, 2. Northeast, 3. Midwest, and lastly, 4. West. ",
-      "Overall across the Year, South mostly maintained the highest SOME LABEL when compared to others with a mean value of 36.75, and it peaked at 1790.",
-      "After South, Northeast overall has the second highest values , with a mean value of 29.1, peaking at 1790. ",
-      "The botommost line, West,  has a mean of 10.97, and peaked at 2019. ",
-      "Northeast reported the highest SOME LABEL about 50.1 in Year 1790"
+      "Overall South, and West are gradually increasing, Northeast, and Midwest are gradually decreasing,  throughout the Year",
+      "The minimum Percentage of population about 10.0, occured at 1930 by West."
    ],
    "trends": [
       {},
@@ -59,32 +41,32 @@
       },
       {
          "1": [
-            "0",
+            "13",
             "2"
          ],
          "9": [
-            "0",
+            "13",
             "2"
          ]
       },
       {
          "2": [
             "0",
-            "0"
+            "1"
          ],
          "15": [
             "27",
-            "0"
+            "1"
          ]
       },
       {
          "1": [
             "0",
-            "0"
+            "1"
          ],
          "10": [
             "0",
-            "0"
+            "1"
          ]
       }
    ],

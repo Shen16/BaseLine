@@ -6,27 +6,27 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 12 columns on the x axis representing Team, and Number of players in each Team on the y axis. ",
-      "Team Manchester City has the highest Number of players and Atl\u00e9tico Madrid has the lowest Number of players. ",
-      "The highest Team Manchester City has 7.0 more Number of players than the lowest Team Atl\u00e9tico Madrid. "
+      "This is a bar chart. It shows Number of players for 12 number of Teams. ",
+      "The Number of players is appeared to be the highest at Team Manchester City and lowest at Team Atl\u00e9tico Madrid. ",
+      "The difference of Number of players between the highest and lowest Team is 7.0. "
    ],
    "min_summary": [
-      "This is a bar chart representing Team in the x axis and Number of players in the y axis. ",
-      "The Number of players is highest at Team Manchester City and lowest at Team Atl\u00e9tico Madrid. "
+      "This bar chart has 12 columns on the x axis representing Team, and Number of players in each Team on the y axis. ",
+      "The maximum Number of players 16.0 is found at Team Manchester City and the minimum is found at Atl\u00e9tico Madrid where Team is 9.0. "
    ],
    "mid_summary": [
-      "This bar chart has 12 columns on the x axis representing Team, and Number of players in each Team on the y axis. ",
-      "Team Manchester City has the highest Number of players and Atl\u00e9tico Madrid has the lowest Number of players. ",
-      "The highest Team Manchester City has 7.0 more Number of players than the lowest Team Atl\u00e9tico Madrid. "
+      "This is a bar chart. It shows Number of players for 12 number of Teams. ",
+      "The Number of players is appeared to be the highest at Team Manchester City and lowest at Team Atl\u00e9tico Madrid. ",
+      "The difference of Number of players between the highest and lowest Team is 7.0. "
    ],
    "max_summary": [
-      "This is a bar chart representing Team in the x axis and Number of players in the y axis. ",
+      "This is a bar chart. It shows Number of players for 12 number of Teams. ",
       "Team Manchester City has the highest Number of players and Atl\u00e9tico Madrid has the lowest Number of players. ",
-      "Second maximum Number of players is found at Team Real Madrid. ",
-      "The Number of players of Team Atl\u00e9tico Madrid is 1.78% smaller than the maximum value at Manchester City. ",
-      "The Team Manchester City has the highest Number of players, followed by Real Madrid, and FC Barcelona. Down to the Team Atl\u00e9tico Madrid which is the lowest. ",
+      "The difference of Number of players between the highest and lowest Team is 7.0. ",
+      "Number of players at Team Manchester City is 16.0 , second place is Real Madrid at 15.0, and thirdly is FC Barcelona at 14.0.",
       "Team Tottenham Hotspur, FC Paris Saint-Germain, and Chelsea FC have a similar Number of players that is 12.0. ",
-      "The Team Manchester City tends to be 1.36 percent higher than average. "
+      "The average Number of players in all 12 Teams is 11.75. ",
+      "The Number of players is 141.0 if we add up values of all Teams. "
    ],
    "trends": [
       {},

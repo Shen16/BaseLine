@@ -10,37 +10,19 @@
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "You are viewing a chart of multi-line type with 3 lines denoting 2016, 2017, and 2018. The y axis indicates the Share of respondents and the x axis indicates Year.",
-      "Overall 2016, 2017, and 2018 are gradually decreasing,  throughout the Year",
-      "The ranking of the lines from topmost to botommmost is as follows: 1. 2018, 2. 2017, and lastly, 3. 2016. ",
-      "Throughout the period, 2018 generally had the highest Share of respondents relative to others with an average of 18.77, and it reached its maximum at 25-34_year_olds with a value of 23.1.",
-      "Followed by 2017 which ranks as the second topmpost line , with an average of 18.6 Share of respondents,reaching its highest point  at 25-34_year_olds with a value of 24.4. ",
-      "2016 mostly had the least Share of respondents with a mean value of 17.52, which peaked at 35-44_year_olds with a value of 21.5. "
+      "Overall 2016, and 2017 are gradually decreasing, 2018 is roughly constant,  throughout the Year",
+      "The ranking of the lines from topmost to botommmost is as follows: 1. 2018, 2. 2017, and lastly, 3. 2016. "
    ],
    "xAxis": "Year",
    "yAxis": "Share of respondents",
    "min_summary": [
-      "This is a multi-line chart with 3 lines representing 2016, 2017, and 2018. The y axis denotes Share of respondents and the x axis denotes Year.",
-      "Overall 2016, 2017, and 2018 are gradually decreasing,  throughout the Year",
-      "Throughout the period, 2018 generally had the highest Share of respondents relative to others with an average of 18.77, and it reached its maximum at 25-34_year_olds with a value of 23.1.",
-      "Followed by 2017 which ranks as the second topmpost line , with an average of 18.6 Share of respondents,reaching its highest point  at 25-34_year_olds with a value of 24.4. ",
-      "The botommost line, 2016,  has a mean of 17.52, and peaked at 35-44_year_olds. "
+      "Overall 2016, and 2017 are gradually decreasing, 2018 is roughly constant,  throughout the Year"
    ],
    "mid_summary": [
-      "You are viewing a chart of multi-line type with 3 lines denoting 2016, 2017, and 2018. The y axis indicates the Share of respondents and the x axis indicates Year.",
-      "Overall 2016, 2017, and 2018 are gradually decreasing,  throughout the Year",
-      "The ranking of the lines from topmost to botommmost is as follows: 1. 2018, 2. 2017, and lastly, 3. 2016. ",
-      "Overall across the Year, 2018 mostly maintained the highest Share of respondents when compared to others with a mean value of 18.77, and it peaked at 25-34_year_olds.",
-      "After 2018, 2017 overall has the second highest values , with a mean value of 18.6, peaking at 25-34_year_olds. ",
-      "The botommost line, 2016,  has a mean of 17.52, and peaked at 35-44_year_olds. "
+      "Overall 2016, and 2017 are gradually decreasing, 2018 is roughly constant,  throughout the Year"
    ],
    "max_summary": [
-      "You are viewing a chart of multi-line type with 3 lines denoting 2016, 2017, and 2018. The y axis indicates the Share of respondents and the x axis indicates Year.",
-      "Overall 2016, 2017, and 2018 are gradually decreasing,  throughout the Year",
-      "The ranking of the lines from topmost to botommmost is as follows: 1. 2018, 2. 2017, and lastly, 3. 2016. ",
-      "Overall across the Year, 2018 mostly maintained the highest Share of respondents when compared to others with a mean value of 18.77, and it peaked at 25-34_year_olds.",
-      "After 2018, 2017 overall has the second highest values , with a mean value of 18.6, peaking at 25-34_year_olds. ",
-      "The botommost line, 2016,  has a mean of 17.52, and peaked at 35-44_year_olds. "
+      "Overall 2016, and 2017 are gradually decreasing, 2018 is roughly constant,  throughout the Year"
    ],
    "trends": [
       {},
@@ -56,11 +38,11 @@
       },
       {
          "1": [
-            "4",
+            "2",
             "2"
          ],
          "9": [
-            "4",
+            "2",
             "2"
          ]
       },
@@ -76,11 +58,11 @@
       },
       {
          "1": [
-            "4",
+            "0",
             "1"
          ],
          "10": [
-            "4",
+            "0",
             "1"
          ]
       }

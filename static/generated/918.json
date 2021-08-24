@@ -6,26 +6,27 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This is a bar chart representing Specialty area in the x axis and Number of physicians in the y axis. ",
-      "The Number of physicians is highest at Specialty area Total specialty and lowest at Specialty area Endocrinology diabetes & metabolism. ",
-      "The difference of Number of physicians between the highest and lowest Specialty area is 6271.0. "
+      "This is a bar chart. It shows Number of physicians for 10 number of Specialty areas. ",
+      "The maximum Number of physicians 6342.0 is found at Specialty area Total specialty and the minimum is found at Endocrinology diabetes & metabolism where Specialty area is 71.0. ",
+      "The highest Specialty area Total specialty has 6271.0 more Number of physicians than the lowest Specialty area Endocrinology diabetes & metabolism. "
    ],
    "min_summary": [
-      "This is a bar chart representing Specialty area in the x axis and Number of physicians in the y axis. ",
+      "This bar chart has 10 columns on the x axis representing Specialty area, and Number of physicians in each Specialty area on the y axis. ",
       "The Number of physicians is highest at Specialty area Total specialty and lowest at Specialty area Endocrinology diabetes & metabolism. "
    ],
    "mid_summary": [
-      "This is a bar chart representing Specialty area in the x axis and Number of physicians in the y axis. ",
-      "The Number of physicians is highest at Specialty area Total specialty and lowest at Specialty area Endocrinology diabetes & metabolism. ",
-      "The difference of Number of physicians between the highest and lowest Specialty area is 6271.0. "
+      "This is a bar chart. It shows Number of physicians for 10 number of Specialty areas. ",
+      "The maximum Number of physicians 6342.0 is found at Specialty area Total specialty and the minimum is found at Endocrinology diabetes & metabolism where Specialty area is 71.0. ",
+      "The highest Specialty area Total specialty has 6271.0 more Number of physicians than the lowest Specialty area Endocrinology diabetes & metabolism. "
    ],
    "max_summary": [
-      "This bar chart has 10 columns on the x axis representing Specialty area, and Number of physicians in each Specialty area on the y axis. ",
-      "The Number of physicians is highest at Specialty area Total specialty and lowest at Specialty area Endocrinology diabetes & metabolism. ",
-      "The Number of physicians of Specialty area Endocrinology diabetes & metabolism is 89.32% smaller than the maximum value at Total specialty. ",
-      "Specialty area Total specialty is higher than any other Specialty areas with value 6342.0, followed by All other specialities, and Surgery. Down to Specialty area Endocrinology diabetes & metabolism with the lowest value 71.0. ",
-      "The lowest value 71.0 at Endocrinology diabetes & metabolism is almost 5.0 times smaller than the average value 1268.4. ",
-      "Summing up the values of all Specialty areas, we get total 12684.0. "
+      "This is a bar chart. It shows Number of physicians for 10 number of Specialty areas. ",
+      "The maximum Number of physicians 6342.0 is found at Specialty area Total specialty and the minimum is found at Endocrinology diabetes & metabolism where Specialty area is 71.0. ",
+      "The second highest Number of physicians is appeared to be the Specialty area All other specialities. ",
+      "The difference of Number of physicians between the highest and lowest Specialty area is 6271.0. ",
+      "Number of physicians at Specialty area Total specialty is 6342.0 , second place is All other specialities at 2619.0, and thirdly is Surgery at 754.0.",
+      "Considered together, the average Number of physicians in all 10 Specialty areas is roughly 1268.4. ",
+      "The Number of physicians is 12684.0 if we add up values of all Specialty areas. "
    ],
    "trends": [
       {},

@@ -7,30 +7,28 @@
    "summaryType": "baseline",
    "summary": [
       "This is a line chart with an x axis representing Year and a y axis representing Producer Price Index (100=1982), containing a total of 30 data points.",
-      " In general Producer Price Index (100=1982) has fallen over the Year.",
-      "The line significantly ",
-      "The steepest decrease occurs in between the Year '19 and '90.",
-      "Maximum Producer Price Index (100=1982), about 205.3 was reported at Year '14",
-      "Minimum Producer Price Index (100=1982) about 116.3 was reached at Year '90"
-   ],
-   "min_summary": [
-      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Producer Price Index (100=1982). In total the number of data points it has is 30.",
-      " Overall Producer Price Index (100=1982) has decreased over the Year."
-   ],
-   "mid_summary": [
-      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Producer Price Index (100=1982). In total the number of data points it has is 30.",
       " Overall Producer Price Index (100=1982) has decreased over the Year.",
       "The most drastic decrease took place within the Year '19 and '90.",
       "Maximum Producer Price Index (100=1982), about 205.3 was reported at Year '14",
-      "Minimum Producer Price Index (100=1982) about 116.3 was reached at Year '90"
+      "The lowest Producer Price Index (100=1982), of value 116.3 was reported at Year '90"
+   ],
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Producer Price Index (100=1982). In total the number of data points it has is 30.",
+      " In general Producer Price Index (100=1982) has fallen over the Year."
+   ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Producer Price Index (100=1982), containing a total of 30 data points.",
+      " Overall Producer Price Index (100=1982) has decreased over the Year.",
+      "The steepest decrease occurs in between the Year '19 and '90.",
+      "Maximum Producer Price Index (100=1982), about 205.3 was reported at Year '14",
+      "The lowest Producer Price Index (100=1982), of value 116.3 was reported at Year '90"
    ],
    "max_summary": [
-      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Producer Price Index (100=1982). In total the number of data points it has is 30.",
-      " In general Producer Price Index (100=1982) has fallen over the Year.",
+      "This is a line chart with an x axis representing Year and a y axis representing Producer Price Index (100=1982), containing a total of 30 data points.",
+      " Overall Producer Price Index (100=1982) has decreased over the Year.",
       "The most drastic decrease took place within the Year '19 and '90.",
       "Maximum Producer Price Index (100=1982), about 205.3 was reported at Year '14",
-      "Minimum Producer Price Index (100=1982) about 116.3 was reached at Year '90",
-      "The line significantly "
+      "The lowest Producer Price Index (100=1982), of value 116.3 was reported at Year '90"
    ],
    "trends": [],
    "data": [

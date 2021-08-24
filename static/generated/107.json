@@ -6,26 +6,28 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This is a bar chart representing Country in the x axis and Cesarean sections per 1,000 live births in the y axis. ",
-      "The Cesarean sections per 1,000 live births is appeared to be the highest at Country Turkey and lowest at Country Israel. ",
-      "The difference of Cesarean sections per 1,000 live births between the highest and lowest Country is 383.0. "
+      "This bar chart has 25 columns on the x axis representing Country, and Cesarean sections per 1,000 live births in each Country on the y axis. ",
+      "The maximum Cesarean sections per 1,000 live births 531.4 is found at Country Turkey and the minimum is found at Israel where Country is 148.4. ",
+      "Country Turkey has 3.58 times more Cesarean sections per 1,000 live births than Country Israel which is has the lowest. "
    ],
    "min_summary": [
-      "This bar chart has 25 columns on the x axis representing Country, and Cesarean sections per 1,000 live births in each Country on the y axis. ",
+      "This is a bar chart. It shows Cesarean sections per 1,000 live births for 25 number of Countrys. ",
       "The Cesarean sections per 1,000 live births is highest at Country Turkey and lowest at Country Israel. "
    ],
    "mid_summary": [
-      "This is a bar chart representing Country in the x axis and Cesarean sections per 1,000 live births in the y axis. ",
-      "The Cesarean sections per 1,000 live births is appeared to be the highest at Country Turkey and lowest at Country Israel. ",
-      "The difference of Cesarean sections per 1,000 live births between the highest and lowest Country is 383.0. "
+      "This bar chart has 25 columns on the x axis representing Country, and Cesarean sections per 1,000 live births in each Country on the y axis. ",
+      "The maximum Cesarean sections per 1,000 live births 531.4 is found at Country Turkey and the minimum is found at Israel where Country is 148.4. ",
+      "Country Turkey has 3.58 times more Cesarean sections per 1,000 live births than Country Israel which is has the lowest. "
    ],
    "max_summary": [
-      "This bar chart has 25 columns on the x axis representing Country, and Cesarean sections per 1,000 live births in each Country on the y axis. ",
-      "The Cesarean sections per 1,000 live births is highest at Country Turkey and lowest at Country Israel. ",
+      "This is a bar chart representing Country in the x axis and Cesarean sections per 1,000 live births in the y axis. ",
+      "Country Turkey has the highest Cesarean sections per 1,000 live births and Israel has the lowest Cesarean sections per 1,000 live births. ",
+      "Second maximum Cesarean sections per 1,000 live births is found at Country Korea. ",
       "The difference of Cesarean sections per 1,000 live births between the highest and lowest Country is 383.0. ",
-      "Cesarean sections per 1,000 live births at Country Turkey is 531.4 , second place is Korea at 451.9, and thirdly is Poland at 393.0.",
-      "Country Slovak Republic, and Luxembourg have the same Cesarean sections per 1,000 live births. ",
-      "The Country Turkey tends to be 1.97 percent higher than average. "
+      "The Country Turkey has the highest Cesarean sections per 1,000 live births, followed by Korea, and Poland. Down to the Country Israel which is the lowest. ",
+      "Country Slovak Republic, and Luxembourg share the same value 296.8. ",
+      "Considered together, the average Cesarean sections per 1,000 live births in all 25 Countrys is roughly 269.64. ",
+      "The Cesarean sections per 1,000 live births is 6741.0 if we add up values of all Countrys. "
    ],
    "trends": [
       {},

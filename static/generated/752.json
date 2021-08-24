@@ -9,80 +9,64 @@
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This is a multi-line chart with 2 lines representing Common stock, and Preferred stock. The y axis denotes SOME LABEL and the x axis denotes Year.",
       "Overall Common stock, and Preferred stock are gradually decreasing,  throughout the Year",
-      "The ranking of the lines from topmost to botommmost is as follows: 1. Common stock, and lastly, 2. Preferred stock. ",
-      "Throughout the period, Common stock generally had the highest SOME LABEL relative to others with an average of 160.64, and it reached its maximum at 2013 with a value of 196.9.",
-      "The botommost line, Preferred stock,  has a mean of 160.21, and peaked at 2013. ",
-      "Preferred stock reported the highest SOME LABEL about 204.15 in Year 2013",
-      "The minimum SOME LABEL about 133.35, occured at 2016 by Preferred stock.",
-      "The difference of SOME LABEL between Common stock and Preferred stock is smaller at Year 2018 compared to the Year 2013."
+      "The ranking of the lines from topmost to botommmost is as follows: 1. Preferred stock, and lastly, 2. Common stock. ",
+      "Preferred stock reported the lowest Share prices in euros about 133.35 in Year 2016",
+      "The greatest difference of Share prices in euros between Common stock and Preferred stock occurs at Year 2015 and the smallest difference occurs at 2016."
    ],
    "xAxis": "Year",
-   "yAxis": "SOME LABEL",
+   "yAxis": "Share prices in euros",
    "min_summary": [
-      "You are viewing a chart of multi-line type with 2 lines denoting Common stock, and Preferred stock. The y axis indicates the SOME LABEL and the x axis indicates Year.",
-      "Overall Common stock, and Preferred stock are gradually decreasing,  throughout the Year",
-      "Overall across the Year, Common stock mostly maintained the highest SOME LABEL when compared to others with a mean value of 160.64, and it peaked at 2013.",
-      "The botommost line, Preferred stock,  has a mean of 160.21, and peaked at 2013. "
+      "Overall Common stock, and Preferred stock are gradually decreasing,  throughout the Year"
    ],
    "mid_summary": [
-      "This is a multi-line chart with 2 lines representing Common stock, and Preferred stock. The y axis denotes SOME LABEL and the x axis denotes Year.",
-      "Overall Common stock, and Preferred stock are gradually decreasing,  throughout the Year",
-      "The lines ordered according to average values of SOME LABEL in descending order is: 1. Common stock, and lastly, 2. Preferred stock. ",
-      "Throughout the period, Common stock generally had the highest SOME LABEL relative to others with an average of 160.64, and it reached its maximum at 2013 with a value of 196.9.",
-      "The botommost line, Preferred stock,  has a mean of 160.21, and peaked at 2013. "
+      "Overall Common stock, and Preferred stock are gradually decreasing,  throughout the Year"
    ],
    "max_summary": [
-      "The given chart is of multi-line type with 2 lines namely Common stock, and Preferred stock. The y axis represents SOME LABEL and the x axis represents Year.",
       "Overall Common stock, and Preferred stock are gradually decreasing,  throughout the Year",
-      "The ranking of the lines from topmost to botommmost is as follows: 1. Common stock, and lastly, 2. Preferred stock. ",
-      "Overall across the Year, Common stock mostly maintained the highest SOME LABEL when compared to others with a mean value of 160.64, and it peaked at 2013.",
-      "The botommost line, Preferred stock,  has a mean of 160.21, and peaked at 2013. ",
-      "Preferred stock reported the highest SOME LABEL about 204.15 in Year 2013",
-      "The minimum SOME LABEL about 133.35, occured at 2016 by Preferred stock.",
-      "The greatest difference of SOME LABEL between Common stock and Preferred stock occurs at Year 2015 and the smallest difference occurs at 2018."
+      "The minimum Share prices in euros about 133.35, occured at 2016 by Preferred stock.",
+      "The difference of Share prices in euros between Common stock and Preferred stock is smaller at Year 2016 compared to the Year 2013."
    ],
    "trends": [
       {},
       {
          "2": [
             "0",
-            "0"
+            "1"
          ],
          "16": [
             "5",
-            "0"
+            "1"
          ]
       },
       {
          "1": [
-            "5",
-            "0"
+            "0",
+            "1"
          ],
          "9": [
-            "5",
-            "0"
+            "0",
+            "1"
          ]
       },
       {
          "2": [
             "0",
-            "1"
+            "0"
          ],
          "15": [
             "5",
-            "1"
+            "0"
          ]
       },
       {
          "1": [
-            "5",
-            "1"
+            "0",
+            "0"
          ],
          "10": [
-            "5",
-            "1"
+            "0",
+            "0"
          ]
       }
    ],

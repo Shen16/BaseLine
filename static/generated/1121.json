@@ -6,27 +6,28 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This is a bar chart representing Country in the x axis and Percentage of newly installed capacity in the y axis. ",
-      "The Percentage of newly installed capacity is highest at Country China and lowest at Country Netherlands. ",
-      "The Percentage of newly installed capacity of Country Netherlands is 45.0% smaller than the maximum value at China. "
+      "This bar chart has 10 columns on the x axis representing Country, and Percentage of newly installed capacity in each Country on the y axis. ",
+      "Country China has the highest Percentage of newly installed capacity and Netherlands has the lowest Percentage of newly installed capacity. ",
+      "Country China has 45.0 times more Percentage of newly installed capacity than Country Netherlands which is has the lowest. "
    ],
    "min_summary": [
       "This bar chart has 10 columns on the x axis representing Country, and Percentage of newly installed capacity in each Country on the y axis. ",
-      "The Percentage of newly installed capacity is appeared to be the highest at Country China and lowest at Country Netherlands. "
+      "Country China has the highest Percentage of newly installed capacity and Netherlands has the lowest Percentage of newly installed capacity. "
    ],
    "mid_summary": [
-      "This is a bar chart representing Country in the x axis and Percentage of newly installed capacity in the y axis. ",
-      "The Percentage of newly installed capacity is highest at Country China and lowest at Country Netherlands. ",
-      "The Percentage of newly installed capacity of Country Netherlands is 45.0% smaller than the maximum value at China. "
+      "This bar chart has 10 columns on the x axis representing Country, and Percentage of newly installed capacity in each Country on the y axis. ",
+      "Country China has the highest Percentage of newly installed capacity and Netherlands has the lowest Percentage of newly installed capacity. ",
+      "Country China has 45.0 times more Percentage of newly installed capacity than Country Netherlands which is has the lowest. "
    ],
    "max_summary": [
-      "This bar chart has 10 columns on the x axis representing Country, and Percentage of newly installed capacity in each Country on the y axis. ",
+      "This is a bar chart. It shows Percentage of newly installed capacity for 10 number of Countrys. ",
       "The maximum Percentage of newly installed capacity 45.0 is found at Country China and the minimum is found at Netherlands where Country is 1.0. ",
       "Second maximum Percentage of newly installed capacity is found at Country US. ",
-      "There is a difference of 44.0 between the maximum Country China and minimum Country Netherlands. ",
-      "Percentage of newly installed capacity at Country China is 45.0 , second place is US at 11.0, and thirdly is US at 11.0.",
-      "Country India, and US have a similar Percentage of newly installed capacity that is 11.0. ",
-      "The Country Netherlands tends to be 5.06 percent lower than average. "
+      "The difference of Percentage of newly installed capacity between the highest and lowest Country is 44.0. ",
+      "Country China is higher than any other Countrys with value 45.0, followed by US, and US. Down to Country Netherlands with the lowest value 1.0. ",
+      "Country India, and US have the same Percentage of newly installed capacity. ",
+      "The Country Netherlands tends to be 5.06 percent lower than average. ",
+      "Summing up the values of all Countrys, we get total 89.0. "
    ],
    "trends": [
       {},

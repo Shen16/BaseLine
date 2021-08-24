@@ -11,28 +11,28 @@
    "summary": [
       "This grouped bar chart represents 14 different Newspapers on X-axis for 2 groups Female, and Male. On the Y-axis it shows their corresponding Share of journalists. ",
       " In Newspaper USA Today, Male had the highest Share of journalists 69.0 among the 2 groups and in USA Today, Female had the lowest Share of journalists 31.0. ",
-      " Among all the Newspapers, Female had the highest Share of journalists 48.0 in Newspaper The Philadelphia Inquirer and lowest value 31.0 in Newspaper USA Today. ",
-      " The maximum Share of journalists for Female that was found in Newspaper The Philadelphia Inquirer was 1.55 times larger than the minimum Share of journalists observed in Newspaper USA Today. "
+      " Among all the Newspapers, Male had the highest Share of journalists in Newspaper USA Today and lowest Share of journalists in Newspaper The Philadelphia Inquirer. ",
+      "Newspaper USA Today and The Philadelphia Inquirer had the biggest gap of 17.0 between the highest and lowest Share of journalists found for Male. "
    ],
    "xAxis": "Newspaper",
    "yAxis": "Share of journalists",
    "min_summary": [
-      "This grouped bar chart shows Share of journalists on the Y-axis for 14 different Newspapers for 2 groups Female, and Male that are presented on the X-axis. ",
+      "This grouped bar chart represents 14 different Newspapers on X-axis for 2 groups Female, and Male. On the Y-axis it shows their corresponding Share of journalists. ",
       " Out of all 2 groups, Male had the highest Share of journalists in Newspaper USA Today and Female had the lowest Share of journalists in Newspaper USA Today. "
    ],
    "mid_summary": [
       "This grouped bar chart represents 14 different Newspapers on X-axis for 2 groups Female, and Male. On the Y-axis it shows their corresponding Share of journalists. ",
       " In Newspaper USA Today, Male had the highest Share of journalists 69.0 among the 2 groups and in USA Today, Female had the lowest Share of journalists 31.0. ",
-      " Among all the Newspapers, Female had the highest Share of journalists 48.0 in Newspaper The Philadelphia Inquirer and lowest value 31.0 in Newspaper USA Today. ",
-      " The maximum Share of journalists for Female that was found in Newspaper The Philadelphia Inquirer was 1.55 times larger than the minimum Share of journalists observed in Newspaper USA Today. "
+      " Among all the Newspapers, Male had the highest Share of journalists in Newspaper USA Today and lowest Share of journalists in Newspaper The Philadelphia Inquirer. ",
+      "Newspaper USA Today and The Philadelphia Inquirer had the biggest gap of 17.0 between the highest and lowest Share of journalists found for Male. "
    ],
    "max_summary": [
-      "This grouped bar chart shows Share of journalists on the Y-axis for 14 different Newspapers for 2 groups Female, and Male that are presented on the X-axis. ",
-      " Newspaper USA Today had the maximum Share of journalists among all 2 groups, and it was for Male. The minimum Share of journalists was observed in Newspaper USA Today for Female. ",
-      " Among all the Newspapers, Female had the highest Share of journalists 48.0 in Newspaper The Philadelphia Inquirer and lowest value 31.0 in Newspaper USA Today. ",
-      "Newspaper The Philadelphia Inquirer and USA Today had the biggest gap of 17.0 between the highest and lowest Share of journalists found for Female. ",
+      "This grouped bar chart represents 14 different Newspapers on X-axis for 2 groups Female, and Male. On the Y-axis it shows their corresponding Share of journalists. ",
+      " Out of all 2 groups, Male had the highest Share of journalists in Newspaper USA Today and Female had the lowest Share of journalists in Newspaper USA Today. ",
+      " In Newspaper USA Today, Male had the highest Share of journalists among all 14 Newspapers and it has the lowest Share of journalists in Newspaper The Philadelphia Inquirer. ",
+      " There is a gap of 17.0 between the highest and lowest Share of journalists found for Male in Newspaper USA Today and The Philadelphia Inquirer. ",
       " Among the groups, Female had the biggest difference in Share of journalists. Where the maximum Share of journalists was 1.55 times larger than the minimum Share of journalists. ",
-      "On average, the Newspaper The Philadelphia Inquirer had the highest Share of journalists for all 2 groups Female, and Male. Whereas USA Today had the lowest average Share of journalists. "
+      "Averaging all 2 groups Female, and Male, the Newspaper The Philadelphia Inquirer is the maximum Share of journalists and USA Today is the minimum Share of journalists. "
    ],
    "trends": [
       {},

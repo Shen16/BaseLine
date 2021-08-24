@@ -6,27 +6,27 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This is a bar chart representing Country in the x axis and Child deaths in the first year of life per 1,000 live births in the y axis. ",
-      "The Child deaths in the first year of life per 1,000 live births is highest at Country Luxembourg and lowest at Country Monaco. ",
-      "The difference of Child deaths in the first year of life per 1,000 live births between the highest and lowest Country is 1.6. "
+      "This bar chart has 20 columns on the x axis representing Country, and Child deaths in the first year of life per 1,000 live births in each Country on the y axis. ",
+      "The maximum Child deaths in the first year of life per 1,000 live births 3.4 is found at Country Luxembourg and the minimum is found at Monaco where Country is 1.8. ",
+      "The highest Country Luxembourg has 1.6 more Child deaths in the first year of life per 1,000 live births than the lowest Country Monaco. "
    ],
    "min_summary": [
-      "This bar chart has 20 columns on the x axis representing Country, and Child deaths in the first year of life per 1,000 live births in each Country on the y axis. ",
-      "Country Luxembourg has the highest Child deaths in the first year of life per 1,000 live births and Monaco has the lowest Child deaths in the first year of life per 1,000 live births. "
+      "This is a bar chart representing Country in the x axis and Child deaths in the first year of life per 1,000 live births in the y axis. ",
+      "The maximum Child deaths in the first year of life per 1,000 live births 3.4 is found at Country Luxembourg and the minimum is found at Monaco where Country is 1.8. "
    ],
    "mid_summary": [
-      "This is a bar chart representing Country in the x axis and Child deaths in the first year of life per 1,000 live births in the y axis. ",
-      "The Child deaths in the first year of life per 1,000 live births is highest at Country Luxembourg and lowest at Country Monaco. ",
-      "The difference of Child deaths in the first year of life per 1,000 live births between the highest and lowest Country is 1.6. "
+      "This bar chart has 20 columns on the x axis representing Country, and Child deaths in the first year of life per 1,000 live births in each Country on the y axis. ",
+      "The maximum Child deaths in the first year of life per 1,000 live births 3.4 is found at Country Luxembourg and the minimum is found at Monaco where Country is 1.8. ",
+      "The highest Country Luxembourg has 1.6 more Child deaths in the first year of life per 1,000 live births than the lowest Country Monaco. "
    ],
    "max_summary": [
       "This is a bar chart. It shows Child deaths in the first year of life per 1,000 live births for 20 number of Countrys. ",
-      "The Child deaths in the first year of life per 1,000 live births is appeared to be the highest at Country Luxembourg and lowest at Country Monaco. ",
-      "Country Germany has the second highest value for Child deaths in the first year of life per 1,000 live births. ",
-      "The difference of Child deaths in the first year of life per 1,000 live births between the highest and lowest Country is 1.6. ",
-      "Child deaths in the first year of life per 1,000 live births at Country Luxembourg is 3.4 , second place is Germany at 3.4, and thirdly is Germany at 3.4.",
-      "Country Luxembourg, Austria, Belgium, and Germany have a similar Child deaths in the first year of life per 1,000 live births that is 3.4. ",
-      "The Country Monaco has 1.2 times less Child deaths in the first year of life per 1,000 live births than average. "
+      "The Child deaths in the first year of life per 1,000 live births is highest at Country Luxembourg and lowest at Country Monaco. ",
+      "The highest Country Luxembourg has 1.6 more Child deaths in the first year of life per 1,000 live births than the lowest Country Monaco. ",
+      "Country Luxembourg is higher than any other Countrys with value 3.4, followed by Germany, and Germany. Down to Country Monaco with the lowest value 1.8. ",
+      "Country Luxembourg, Austria, Belgium, and Germany share the same value 3.4. ",
+      "The lowest value 1.8 at Monaco is almost 1.2 times smaller than the average value 2.82. ",
+      "Summing up the values of all Countrys, we get total 56.5. "
    ],
    "trends": [
       {},

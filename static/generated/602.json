@@ -12,34 +12,20 @@
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "You are viewing a chart of multi-line type with 5 lines denoting Total, United States, Europe, Emerging markets, and Rest of world. The y axis indicates the SOME LABEL and the x axis indicates Year.",
-      "Overall Total, United States, Europe, and Emerging markets are gradually decreasing, Rest of world is roughly constant,  throughout the Year",
-      "Throughout the period, Total generally had the highest SOME LABEL relative to others with an average of 3895.29, and it reached its maximum at 2013 with a value of 5274.0.",
-      "Followed by United States which ranks as the second topmpost line , with an average of 1953.6 SOME LABEL,reaching its highest point  at 2013 with a value of 2769.0. ",
-      "The botommost line, Emerging markets,  has a mean of 178.0, and peaked at 2013. "
+      "Overall Total, and United States are gradually decreasing, Europe, Emerging markets, and Rest of world are roughly constant,  throughout the Year",
+      "The minimum Revenue in million British pounds about 400.0, occured at 2014 by Emerging markets."
    ],
    "xAxis": "Year",
-   "yAxis": "SOME LABEL",
+   "yAxis": "Revenue in million British pounds",
    "min_summary": [
-      "This is a multi-line chart with 5 lines representing Total, United States, Europe, Emerging markets, and Rest of world. The y axis denotes SOME LABEL and the x axis denotes Year.",
-      "Overall Total, United States, Europe, and Emerging markets are gradually decreasing, Rest of world is roughly constant,  throughout the Year",
-      "Throughout the period, Total generally had the highest SOME LABEL relative to others with an average of 3895.29, and it reached its maximum at 2013 with a value of 5274.0.",
-      "Followed by United States which ranks as the second topmpost line , with an average of 1953.6 SOME LABEL,reaching its highest point  at 2013 with a value of 2769.0. ",
-      "Emerging markets mostly had the least SOME LABEL with a mean value of 178.0, which peaked at 2013 with a value of 429.0. "
+      "Overall Total, and United States are gradually decreasing, Europe, Emerging markets, and Rest of world are roughly constant,  throughout the Year"
    ],
    "mid_summary": [
-      "You are viewing a chart of multi-line type with 5 lines denoting Total, United States, Europe, Emerging markets, and Rest of world. The y axis indicates the SOME LABEL and the x axis indicates Year.",
-      "Overall Total, United States, Europe, and Emerging markets are gradually decreasing, Rest of world is roughly constant,  throughout the Year",
-      "Throughout the period, Total generally had the highest SOME LABEL relative to others with an average of 3895.29, and it reached its maximum at 2013 with a value of 5274.0.",
-      "After Total, United States overall has the second highest values , with a mean value of 1953.6, peaking at 2013. ",
-      "The botommost line, Emerging markets,  has a mean of 178.0, and peaked at 2013. "
+      "Overall Total, and United States are gradually decreasing, Europe, Emerging markets, and Rest of world are roughly constant,  throughout the Year"
    ],
    "max_summary": [
-      "You are viewing a chart of multi-line type with 5 lines denoting Total, United States, Europe, Emerging markets, and Rest of world. The y axis indicates the SOME LABEL and the x axis indicates Year.",
-      "Overall Total, United States, Europe, and Emerging markets are gradually decreasing, Rest of world is roughly constant,  throughout the Year",
-      "Throughout the period, Total generally had the highest SOME LABEL relative to others with an average of 3895.29, and it reached its maximum at 2013 with a value of 5274.0.",
-      "After Total, United States overall has the second highest values , with a mean value of 1953.6, peaking at 2013. ",
-      "Emerging markets mostly had the least SOME LABEL with a mean value of 178.0, which peaked at 2013 with a value of 429.0. "
+      "Overall Total, and United States are gradually decreasing, Europe, Emerging markets, and Rest of world are roughly constant,  throughout the Year",
+      "The minimum Revenue in million British pounds about 400.0, occured at 2014 by Emerging markets."
    ],
    "trends": [
       {},
@@ -55,11 +41,11 @@
       },
       {
          "1": [
-            "5",
+            "1",
             "0"
          ],
          "9": [
-            "5",
+            "1",
             "0"
          ]
       },
@@ -75,11 +61,11 @@
       },
       {
          "1": [
-            "5",
+            "1",
             "1"
          ],
          "10": [
-            "5",
+            "1",
             "1"
          ]
       }

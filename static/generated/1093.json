@@ -9,76 +9,55 @@
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "You are viewing a chart of multi-line type with 2 lines denoting Barack Obama, and Mitt Romney. The y axis indicates the SOME LABEL and the x axis indicates Year.",
-      "Overall Barack Obama is gradually increasing, Mitt Romney is gradually decreasing,  throughout the Year",
-      "The ranking of the lines from topmost to botommmost is as follows: 1. Barack Obama, and lastly, 2. Mitt Romney. ",
-      "Overall across the Year, Barack Obama mostly maintained the highest SOME LABEL when compared to others with a mean value of 52.25, and it peaked at Under_30000.",
-      "The botommost line, Mitt Romney,  has a mean of 46.0, and peaked at 100000_or_more. ",
-      "The difference of SOME LABEL between Barack Obama and Mitt Romney is greater at Year Under_30000 compared to the Year 100000_or_more."
+      "The gap between the lines at Year 50000_or_more is 8.0 ."
    ],
    "xAxis": "Year",
-   "yAxis": "SOME LABEL",
-   "min_summary": [
-      "This is a multi-line chart with 2 lines representing Barack Obama, and Mitt Romney. The y axis denotes SOME LABEL and the x axis denotes Year.",
-      "Overall Barack Obama is gradually increasing, Mitt Romney is gradually decreasing,  throughout the Year",
-      "Throughout the period, Barack Obama generally had the highest SOME LABEL relative to others with an average of 52.25, and it reached its maximum at Under_30000 with a value of 63.0.",
-      "Mitt Romney mostly had the least SOME LABEL with a mean value of 46.0, which peaked at 100000_or_more with a value of 54.0. "
-   ],
-   "mid_summary": [
-      "You are viewing a chart of multi-line type with 2 lines denoting Barack Obama, and Mitt Romney. The y axis indicates the SOME LABEL and the x axis indicates Year.",
-      "Overall Barack Obama is gradually increasing, Mitt Romney is gradually decreasing,  throughout the Year",
-      "The lines ordered according to average values of SOME LABEL in descending order is: 1. Barack Obama, and lastly, 2. Mitt Romney. ",
-      "Overall across the Year, Barack Obama mostly maintained the highest SOME LABEL when compared to others with a mean value of 52.25, and it peaked at Under_30000.",
-      "The botommost line, Mitt Romney,  has a mean of 46.0, and peaked at 100000_or_more. "
-   ],
+   "yAxis": "Percentage of votes",
+   "min_summary": [],
+   "mid_summary": [],
    "max_summary": [
-      "The given chart is of multi-line type with 2 lines namely Barack Obama, and Mitt Romney. The y axis represents SOME LABEL and the x axis represents Year.",
-      "Overall Barack Obama is gradually increasing, Mitt Romney is gradually decreasing,  throughout the Year",
-      "The ranking of the lines from topmost to botommmost is as follows: 1. Barack Obama, and lastly, 2. Mitt Romney. ",
-      "Throughout the period, Barack Obama generally had the highest SOME LABEL relative to others with an average of 52.25, and it reached its maximum at Under_30000 with a value of 63.0.",
-      "The botommost line, Mitt Romney,  has a mean of 46.0, and peaked at 100000_or_more. ",
-      "The greatest difference of SOME LABEL between Barack Obama and Mitt Romney occurs at Year Under_30000 and the smallest difference occurs at 50000_or_more."
+      "The gap between the lines at Year 50000_or_more is 8.0 ."
    ],
    "trends": [
       {},
       {
          "2": [
             "0",
-            "0"
+            "1"
          ],
          "16": [
             "3",
-            "0"
+            "1"
          ]
       },
       {
          "1": [
             "0",
-            "0"
+            "1"
          ],
          "9": [
             "0",
-            "0"
+            "1"
          ]
       },
       {
          "2": [
             "0",
-            "1"
+            "0"
          ],
          "15": [
             "3",
-            "1"
+            "0"
          ]
       },
       {
          "1": [
-            "3",
-            "1"
+            "0",
+            "0"
          ],
          "10": [
-            "3",
-            "1"
+            "0",
+            "0"
          ]
       }
    ],

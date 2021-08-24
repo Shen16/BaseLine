@@ -6,27 +6,27 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This is a bar chart representing Snack Brand in the x axis and Share of respondents currently purchasing in the y axis. ",
-      "The Share of respondents currently purchasing is appeared to be the highest at Snack Brand Walkers and lowest at Snack Brand KP nuts. ",
-      "The highest Snack Brand Walkers has 20.0 more Share of respondents currently purchasing than the lowest Snack Brand KP nuts. "
+      "This bar chart has 7 columns on the x axis representing Snack Brand, and Share of respondents currently purchasing in each Snack Brand on the y axis. ",
+      "The maximum Share of respondents currently purchasing 42.0 is found at Snack Brand Walkers and the minimum is found at KP nuts where Snack Brand is 22.0. ",
+      "There is a difference of 20.0 between the maximum Snack Brand Walkers and minimum Snack Brand KP nuts. "
    ],
    "min_summary": [
-      "This is a bar chart. It shows Share of respondents currently purchasing for 7 number of Snack Brands. ",
-      "The Share of respondents currently purchasing is highest at Snack Brand Walkers and lowest at Snack Brand KP nuts. "
+      "This bar chart has 7 columns on the x axis representing Snack Brand, and Share of respondents currently purchasing in each Snack Brand on the y axis. ",
+      "Snack Brand Walkers has the highest Share of respondents currently purchasing and KP nuts has the lowest Share of respondents currently purchasing. "
    ],
    "mid_summary": [
-      "This is a bar chart representing Snack Brand in the x axis and Share of respondents currently purchasing in the y axis. ",
-      "The Share of respondents currently purchasing is appeared to be the highest at Snack Brand Walkers and lowest at Snack Brand KP nuts. ",
-      "The highest Snack Brand Walkers has 20.0 more Share of respondents currently purchasing than the lowest Snack Brand KP nuts. "
+      "This bar chart has 7 columns on the x axis representing Snack Brand, and Share of respondents currently purchasing in each Snack Brand on the y axis. ",
+      "The maximum Share of respondents currently purchasing 42.0 is found at Snack Brand Walkers and the minimum is found at KP nuts where Snack Brand is 22.0. ",
+      "There is a difference of 20.0 between the maximum Snack Brand Walkers and minimum Snack Brand KP nuts. "
    ],
    "max_summary": [
-      "This is a bar chart. It shows Share of respondents currently purchasing for 7 number of Snack Brands. ",
-      "The Share of respondents currently purchasing is appeared to be the highest at Snack Brand Walkers and lowest at Snack Brand KP nuts. ",
-      "Snack Brand Walkers has 1.91 times more Share of respondents currently purchasing than Snack Brand KP nuts which is has the lowest. ",
-      "Share of respondents currently purchasing at Snack Brand Walkers is 42.0 , second place is Doritos at 32.0, and thirdly is Pringles at 26.0.",
-      "Snack Brand Hula Hoops, and Pringles have a similar Share of respondents currently purchasing that is 26.0. ",
-      "The Snack Brand KP nuts has 1.49 times less Share of respondents currently purchasing than average. ",
-      "Summing up the values of all Snack Brands, we get total 197.0. "
+      "This is a bar chart representing Snack Brand in the x axis and Share of respondents currently purchasing in the y axis. ",
+      "The Share of respondents currently purchasing is highest at Snack Brand Walkers and lowest at Snack Brand KP nuts. ",
+      "Second maximum Share of respondents currently purchasing is found at Snack Brand Doritos. ",
+      "The minimum Snack Brand KP nuts has got 1.91 times less Share of respondents currently purchasing than the maximum Snack Brand Walkers. ",
+      "Snack Brand Walkers is higher than any other Snack Brands with value 42.0, followed by Doritos, and Pringles. Down to Snack Brand KP nuts with the lowest value 22.0. ",
+      "Similar Share of respondents currently purchasing is found in Snack Brand Hula Hoops, and Pringles. ",
+      "The Snack Brand Walkers tends to be 1.49 percent higher than average. "
    ],
    "trends": [
       {},

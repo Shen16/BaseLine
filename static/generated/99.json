@@ -6,27 +6,25 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This is a bar chart representing Country in the x axis and Number of employees in the y axis. ",
-      "The Number of employees is appeared to be the highest at Country Germany and lowest at Country Luxembourg. ",
-      "There is a difference of 69864.0 between the maximum Country Germany and minimum Country Luxembourg. "
+      "This is a bar chart. It shows Number of employees for 18 number of Countrys. ",
+      "Country Germany has the highest Number of employees and Luxembourg has the lowest Number of employees. ",
+      "The maximum Country Germany has got 121.25 times higher Number of employees than the minimum Country Luxembourg. "
    ],
    "min_summary": [
-      "This is a bar chart. It shows Number of employees for 18 number of Countrys. ",
-      "Country Germany has the highest Number of employees and Luxembourg has the lowest Number of employees. "
+      "This is a bar chart representing Country in the x axis and Number of employees in the y axis. ",
+      "The Number of employees is highest at Country Germany and lowest at Country Luxembourg. "
    ],
    "mid_summary": [
-      "This is a bar chart representing Country in the x axis and Number of employees in the y axis. ",
-      "The Number of employees is appeared to be the highest at Country Germany and lowest at Country Luxembourg. ",
-      "There is a difference of 69864.0 between the maximum Country Germany and minimum Country Luxembourg. "
+      "This is a bar chart. It shows Number of employees for 18 number of Countrys. ",
+      "Country Germany has the highest Number of employees and Luxembourg has the lowest Number of employees. ",
+      "The maximum Country Germany has got 121.25 times higher Number of employees than the minimum Country Luxembourg. "
    ],
    "max_summary": [
-      "This bar chart has 18 columns on the x axis representing Country, and Number of employees in each Country on the y axis. ",
+      "This is a bar chart representing Country in the x axis and Number of employees in the y axis. ",
       "Country Germany has the highest Number of employees and Luxembourg has the lowest Number of employees. ",
-      "Second maximum Number of employees is found at Country Italy. ",
-      "The Number of employees of Country Germany is 121.25% larger than the minimum value at Luxembourg. ",
-      "Country Germany is higher than any other Countrys with value 70445.0, followed by Italy, and France. Down to Country Luxembourg with the lowest value 581.0. ",
-      "The Country Germany tends to be 4.73 percent higher than average. ",
-      "The Number of employees is 267941.0 if we add up values of all Countrys. "
+      "There is a difference of 69864.0 between the maximum Country Germany and minimum Country Luxembourg. ",
+      "Number of employees at Country Germany is 70445.0 , second place is Italy at 49552.0, and thirdly is France at 43167.0.",
+      "The Country Germany has 4.73 times more Number of employees than average. "
    ],
    "trends": [
       {},

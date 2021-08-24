@@ -13,36 +13,20 @@
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This is a multi-line chart with 6 lines representing Manchester United, Chelsea, Manchester City, Arsenal, Liverpool, and Tottenham Hotspur. The y axis denotes Value in million USD and the x axis denotes Year.",
       "Overall Manchester United, Chelsea, Manchester City, Arsenal, Liverpool, and Tottenham Hotspur are gradually increasing,  throughout the Year",
-      "Throughout the period, Manchester United generally had the highest Value in million USD relative to others with an average of 1193.89, and it reached its maximum at 2018 with a value of 1895.0.",
-      "Followed by Manchester City which ranks as the second topmpost line , with an average of 753.1 Value in million USD,reaching its highest point  at 2019 with a value of 1407.0. ",
-      "Tottenham Hotspur mostly had the least Value in million USD with a mean value of 440.0, which peaked at 2019 with a value of 850.0. ",
-      "Tottenham Hotspur reported the lowest Value in million USD about 127.0 in Year 2011"
+      "Tottenham Hotspur reported the lowest Value in million USD about 441.0 in Year 2016"
    ],
    "xAxis": "Year",
    "yAxis": "Value in million USD",
    "min_summary": [
-      "You are viewing a chart of multi-line type with 6 lines denoting Manchester United, Chelsea, Manchester City, Arsenal, Liverpool, and Tottenham Hotspur. The y axis indicates the Value in million USD and the x axis indicates Year.",
-      "Overall Manchester United, Chelsea, Manchester City, Arsenal, Liverpool, and Tottenham Hotspur are gradually increasing,  throughout the Year",
-      "Throughout the period, Manchester United generally had the highest Value in million USD relative to others with an average of 1193.89, and it reached its maximum at 2018 with a value of 1895.0.",
-      "After Manchester United, Manchester City overall has the second highest values , with a mean value of 753.1, peaking at 2019. ",
-      "Tottenham Hotspur mostly had the least Value in million USD with a mean value of 440.0, which peaked at 2019 with a value of 850.0. "
+      "Overall Manchester United, Chelsea, Manchester City, Arsenal, Liverpool, and Tottenham Hotspur are gradually increasing,  throughout the Year"
    ],
    "mid_summary": [
-      "This is a multi-line chart with 6 lines representing Manchester United, Chelsea, Manchester City, Arsenal, Liverpool, and Tottenham Hotspur. The y axis denotes Value in million USD and the x axis denotes Year.",
-      "Overall Manchester United, Chelsea, Manchester City, Arsenal, Liverpool, and Tottenham Hotspur are gradually increasing,  throughout the Year",
-      "Throughout the period, Manchester United generally had the highest Value in million USD relative to others with an average of 1193.89, and it reached its maximum at 2018 with a value of 1895.0.",
-      "After Manchester United, Manchester City overall has the second highest values , with a mean value of 753.1, peaking at 2019. ",
-      "Tottenham Hotspur mostly had the least Value in million USD with a mean value of 440.0, which peaked at 2019 with a value of 850.0. "
+      "Overall Manchester United, Chelsea, Manchester City, Arsenal, Liverpool, and Tottenham Hotspur are gradually increasing,  throughout the Year"
    ],
    "max_summary": [
-      "This is a multi-line chart with 6 lines representing Manchester United, Chelsea, Manchester City, Arsenal, Liverpool, and Tottenham Hotspur. The y axis denotes Value in million USD and the x axis denotes Year.",
       "Overall Manchester United, Chelsea, Manchester City, Arsenal, Liverpool, and Tottenham Hotspur are gradually increasing,  throughout the Year",
-      "Throughout the period, Manchester United generally had the highest Value in million USD relative to others with an average of 1193.89, and it reached its maximum at 2018 with a value of 1895.0.",
-      "After Manchester United, Manchester City overall has the second highest values , with a mean value of 753.1, peaking at 2019. ",
-      "The botommost line, Tottenham Hotspur,  has a mean of 440.0, and peaked at 2019. ",
-      "Tottenham Hotspur reported the lowest Value in million USD about 127.0 in Year 2011"
+      "The minimum Value in million USD about 441.0, occured at 2016 by Tottenham Hotspur."
    ],
    "trends": [
       {},
@@ -58,11 +42,11 @@
       },
       {
          "1": [
-            "7",
+            "2",
             "0"
          ],
          "9": [
-            "7",
+            "2",
             "0"
          ]
       },
@@ -78,11 +62,11 @@
       },
       {
          "1": [
-            "8",
+            "2",
             "2"
          ],
          "10": [
-            "8",
+            "2",
             "2"
          ]
       }

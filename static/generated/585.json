@@ -9,35 +9,21 @@
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "The given chart is of multi-line type with 2 lines namely Men, and Women. The y axis represents Life expectancy in years and the x axis represents Year.",
       "Overall Men, and Women are roughly constant,  throughout the Year",
-      "The lines ordered according to average values of Life expectancy in years in descending order is: 1. Women, and lastly, 2. Men. ",
-      "Throughout the period, Women generally had the highest Life expectancy in years relative to others with an average of 83.78, and it reached its maximum at 2014-2018 with a value of 84.1.",
-      "Men mostly had the least Life expectancy in years with a mean value of 80.06, which peaked at 2014-2018 with a value of 80.55. ",
-      "The difference of Life expectancy in years between Men and Women is smaller at Year 2014-2018 compared to the Year 2008-2012."
+      "The order of lines according to average values of Life expectancy in years, in descending order is: 1. Women, and lastly, 2. Men. ",
+      "The difference of Life expectancy in years between Men and Women is smaller at Year 2011-2015 compared to the Year 2008-2012."
    ],
    "xAxis": "Year",
    "yAxis": "Life expectancy in years",
    "min_summary": [
-      "This is a multi-line chart with 2 lines representing Men, and Women. The y axis denotes Life expectancy in years and the x axis denotes Year.",
-      "Overall Men, and Women are roughly constant,  throughout the Year",
-      "Overall across the Year, Women mostly maintained the highest Life expectancy in years when compared to others with a mean value of 83.78, and it peaked at 2014-2018.",
-      "The botommost line, Men,  has a mean of 80.06, and peaked at 2014-2018. "
+      "Overall Men, and Women are roughly constant,  throughout the Year"
    ],
    "mid_summary": [
-      "This is a multi-line chart with 2 lines representing Men, and Women. The y axis denotes Life expectancy in years and the x axis denotes Year.",
-      "Overall Men, and Women are roughly constant,  throughout the Year",
-      "The ranking of the lines from topmost to botommmost is as follows: 1. Women, and lastly, 2. Men. ",
-      "Throughout the period, Women generally had the highest Life expectancy in years relative to others with an average of 83.78, and it reached its maximum at 2014-2018 with a value of 84.1.",
-      "The botommost line, Men,  has a mean of 80.06, and peaked at 2014-2018. "
+      "Overall Men, and Women are roughly constant,  throughout the Year"
    ],
    "max_summary": [
-      "The given chart is of multi-line type with 2 lines namely Men, and Women. The y axis represents Life expectancy in years and the x axis represents Year.",
       "Overall Men, and Women are roughly constant,  throughout the Year",
-      "The ranking of the lines from topmost to botommmost is as follows: 1. Women, and lastly, 2. Men. ",
-      "Throughout the period, Women generally had the highest Life expectancy in years relative to others with an average of 83.78, and it reached its maximum at 2014-2018 with a value of 84.1.",
-      "The botommost line, Men,  has a mean of 80.06, and peaked at 2014-2018. ",
-      "The greatest difference of Life expectancy in years between Men and Women occurs at Year 2008-2012 and the smallest difference occurs at 2014-2018."
+      "The greatest difference of Life expectancy in years between Men and Women occurs at Year 2008-2012 and the smallest difference occurs at 2011-2015."
    ],
    "trends": [
       {},
@@ -53,11 +39,11 @@
       },
       {
          "1": [
-            "0",
+            "3",
             "1"
          ],
          "9": [
-            "0",
+            "3",
             "1"
          ]
       },
@@ -73,11 +59,11 @@
       },
       {
          "1": [
-            "0",
+            "3",
             "0"
          ],
          "10": [
-            "0",
+            "3",
             "0"
          ]
       }

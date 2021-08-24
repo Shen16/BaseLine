@@ -11,31 +11,31 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart represents 18 different Insurance Companys on X-axis for 4 groups 2015, 2016, 2017, and 2018. On the Y-axis it shows their corresponding SOME LABEL. ",
-      " Out of all 4 groups, 2016 had the highest SOME LABEL in Insurance Company AG Insurance and 2015 had the lowest SOME LABEL in Insurance Company Foyer. ",
-      " In Insurance Company AG Insurance, 2018 had the maximum SOME LABEL and it saw the lowest in Insurance Company Delta Lloyd out of all 18 Insurance Companys. ",
-      "Insurance Company AG Insurance and Delta Lloyd had the biggest gap of 217.0 between the highest and lowest SOME LABEL found for 2018. "
+      "This grouped bar chart represents 18 different Insurance Companys on X-axis for 4 groups 2015, 2016, 2017, and 2018. On the Y-axis it shows their corresponding Market share. ",
+      " Insurance Company AG Insurance had the maximum Market share among all 4 groups, and it was for 2016. The minimum Market share was observed in Insurance Company Foyer for 2015. ",
+      " In Insurance Company AG Insurance, 2016 had the highest Market share among all 18 Insurance Companys and it has the lowest Market share in Insurance Company Delta Lloyd. ",
+      " There is a gap of 223.0 between the highest and lowest Market share found for 2016 in Insurance Company AG Insurance and Delta Lloyd. "
    ],
    "xAxis": "Insurance Company",
-   "yAxis": "SOME LABEL",
+   "yAxis": "Market share",
    "min_summary": [
-      "This grouped bar chart shows SOME LABEL on the Y-axis for 18 different Insurance Companys for 4 groups 2015, 2016, 2017, and 2018 that are presented on the X-axis. ",
-      " In Insurance Company AG Insurance, 2016 had the highest SOME LABEL 224.0 among the 4 groups and in Foyer, 2015 had the lowest SOME LABEL 0.0. "
+      "This grouped bar chart represents 18 different Insurance Companys on X-axis for 4 groups 2015, 2016, 2017, and 2018. On the Y-axis it shows their corresponding Market share. ",
+      " In Insurance Company AG Insurance, 2016 had the highest Market share 224.0 among the 4 groups and in Foyer, 2015 had the lowest Market share 0.0. "
    ],
    "mid_summary": [
-      "This grouped bar chart represents 18 different Insurance Companys on X-axis for 4 groups 2015, 2016, 2017, and 2018. On the Y-axis it shows their corresponding SOME LABEL. ",
-      " Out of all 4 groups, 2016 had the highest SOME LABEL in Insurance Company AG Insurance and 2015 had the lowest SOME LABEL in Insurance Company Foyer. ",
-      " In Insurance Company AG Insurance, 2018 had the maximum SOME LABEL and it saw the lowest in Insurance Company Delta Lloyd out of all 18 Insurance Companys. ",
-      "Insurance Company AG Insurance and Delta Lloyd had the biggest gap of 217.0 between the highest and lowest SOME LABEL found for 2018. "
+      "This grouped bar chart represents 18 different Insurance Companys on X-axis for 4 groups 2015, 2016, 2017, and 2018. On the Y-axis it shows their corresponding Market share. ",
+      " Insurance Company AG Insurance had the maximum Market share among all 4 groups, and it was for 2016. The minimum Market share was observed in Insurance Company Foyer for 2015. ",
+      " In Insurance Company AG Insurance, 2016 had the highest Market share among all 18 Insurance Companys and it has the lowest Market share in Insurance Company Delta Lloyd. ",
+      " There is a gap of 223.0 between the highest and lowest Market share found for 2016 in Insurance Company AG Insurance and Delta Lloyd. "
    ],
    "max_summary": [
-      "This grouped bar chart represents 18 different Insurance Companys on X-axis for 4 groups 2015, 2016, 2017, and 2018. On the Y-axis it shows their corresponding SOME LABEL. ",
-      " Out of all 4 groups, 2016 had the highest SOME LABEL in Insurance Company AG Insurance and 2015 had the lowest SOME LABEL in Insurance Company Foyer. ",
-      " Among all the Insurance Companys, 2018 had the highest SOME LABEL in Insurance Company AG Insurance and lowest SOME LABEL in Insurance Company Delta Lloyd. ",
-      " There is a gap of 217.0 between the highest and lowest SOME LABEL found for 2018 in Insurance Company AG Insurance and Delta Lloyd. ",
-      " Among all 4 groups, 2016 had the gap of 224.0 between the maximum and minimum SOME LABEL observed in Insurance Company AG Insurance and Delta Lloyd respectively. ",
-      " In Insurance Company AG Insurance, 2016 had the highest SOME LABEL 224.0 among the 4 groups and in Foyer, 2015 had the lowest SOME LABEL 0.0. The second highest SOME LABEL 208.0 was observed for 2016 in Insurance Company AG Insurance. ",
-      "On average, the Insurance Company AG Insurance had the highest SOME LABEL for all 4 groups 2015, 2016, 2017, and 2018. Whereas Foyer had the lowest average SOME LABEL. "
+      "This grouped bar chart shows Market share on the Y-axis for 18 different Insurance Companys for 4 groups 2015, 2016, 2017, and 2018 that are presented on the X-axis. ",
+      " Insurance Company AG Insurance had the maximum Market share among all 4 groups, and it was for 2016. The minimum Market share was observed in Insurance Company Foyer for 2015. ",
+      " Among all the Insurance Companys, 2016 had the highest Market share 224.0 in Insurance Company AG Insurance and lowest value 0.0 in Insurance Company Delta Lloyd. ",
+      " The maximum Market share for 2016 that was found in Insurance Company AG Insurance was 224.0 times larger than the minimum Market share observed in Insurance Company Delta Lloyd. ",
+      " Out of all 4 groups, the highest gap between the maximum and minimum Market share was found in case of 2016. ",
+      " In Insurance Company AG Insurance, 2016 had the highest Market share 224.0 among the 4 groups and in Foyer, 2015 had the lowest Market share 0.0. The second highest Market share 208.0 was observed for 2016 in Insurance Company AG Insurance. ",
+      "Averaging all 4 groups 2015, 2016, 2017, and 2018, the Insurance Company AG Insurance is the maximum Market share and Foyer is the minimum Market share. "
    ],
    "trends": [
       {},

@@ -7,25 +7,25 @@
    "summaryType": "baseline",
    "summary": [
       "This is a bar chart. It shows Number of runners-up for 10 number of Countrys. ",
-      "The Number of runners-up is appeared to be the highest at Country Germany and lowest at Country France. ",
-      "The minimum Country France has got 4.0 times less Number of runners-up than the maximum Country Germany. "
+      "The Number of runners-up is highest at Country Germany and lowest at Country France. ",
+      "Country France has 4.0 times less Number of runners-up than Country Germany which is the highest. "
    ],
    "min_summary": [
-      "This is a bar chart. It shows Number of runners-up for 10 number of Countrys. ",
-      "The maximum Number of runners-up 4.0 is found at Country Germany and the minimum is found at France where Country is 1.0. "
+      "This bar chart has 10 columns on the x axis representing Country, and Number of runners-up in each Country on the y axis. ",
+      "Country Germany has the highest Number of runners-up and France has the lowest Number of runners-up. "
    ],
    "mid_summary": [
       "This is a bar chart. It shows Number of runners-up for 10 number of Countrys. ",
-      "The Number of runners-up is appeared to be the highest at Country Germany and lowest at Country France. ",
-      "The minimum Country France has got 4.0 times less Number of runners-up than the maximum Country Germany. "
+      "The Number of runners-up is highest at Country Germany and lowest at Country France. ",
+      "Country France has 4.0 times less Number of runners-up than Country Germany which is the highest. "
    ],
    "max_summary": [
       "This bar chart has 10 columns on the x axis representing Country, and Number of runners-up in each Country on the y axis. ",
       "The Number of runners-up is highest at Country Germany and lowest at Country France. ",
-      "The difference of Number of runners-up between the highest and lowest Country is 3.0. ",
-      "Number of runners-up at Country Germany is 4.0 , second place is Argentina at 3.0, and thirdly is Argentina at 3.0.",
-      "Country Czech Republic, Brazil, Czechoslovakia, Italy, and Hungary have a similar Number of runners-up that is 2.0. ",
-      "The highest value 4.0 at Germany is almost 1.82 times larger than the average value 2.2. "
+      "The highest Country Germany has 3.0 more Number of runners-up than the lowest Country France. ",
+      "The Country Germany has the highest Number of runners-up, followed by Argentina, and Argentina. Down to the Country France which is the lowest. ",
+      "Similar Number of runners-up is found in Country Czech Republic, Brazil, Czechoslovakia, Italy, and Hungary. ",
+      "The average Number of runners-up in all 10 Countrys is 2.2. "
    ],
    "trends": [
       {},

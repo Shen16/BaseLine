@@ -10,39 +10,14 @@
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "The given chart is of multi-line type with 3 lines namely Adult total, Adult male, and Adult female. The y axis represents Share of population ages 15 and above and the x axis represents Year.",
-      "Overall Adult total, and Adult female are gradually increasing, Adult male is roughly constant,  throughout the Year",
-      "The ranking of the lines from topmost to botommmost is as follows: 1. Adult male, 2. Adult total, and lastly, 3. Adult female. ",
-      "Throughout the period, Adult male generally had the highest Share of population ages 15 and above relative to others with an average of 94.13, and it reached its maximum at 2015 with a value of 95.4.",
-      "After Adult male, Adult total overall has the second highest values , with a mean value of 92.8, peaking at 2015. ",
-      "The botommost line, Adult female,  has a mean of 91.66, and peaked at 2015. ",
-      "Adult female reported the lowest Share of population ages 15 and above about 87.04 in Year 2007"
+      "The minimum Share of population ages 15 and above about 87.04, occured at 2007 by Adult female."
    ],
    "xAxis": "Year",
    "yAxis": "Share of population ages 15 and above",
-   "min_summary": [
-      "You are viewing a chart of multi-line type with 3 lines denoting Adult total, Adult male, and Adult female. The y axis indicates the Share of population ages 15 and above and the x axis indicates Year.",
-      "Overall Adult total, and Adult female are gradually increasing, Adult male is roughly constant,  throughout the Year",
-      "Overall across the Year, Adult male mostly maintained the highest Share of population ages 15 and above when compared to others with a mean value of 94.13, and it peaked at 2015.",
-      "After Adult male, Adult total overall has the second highest values , with a mean value of 92.8, peaking at 2015. ",
-      "Adult female mostly had the least Share of population ages 15 and above with a mean value of 91.66, which peaked at 2015 with a value of 93.41. "
-   ],
-   "mid_summary": [
-      "You are viewing a chart of multi-line type with 3 lines denoting Adult total, Adult male, and Adult female. The y axis indicates the Share of population ages 15 and above and the x axis indicates Year.",
-      "Overall Adult total, and Adult female are gradually increasing, Adult male is roughly constant,  throughout the Year",
-      "The lines ordered according to average values of Share of population ages 15 and above in descending order is: 1. Adult male, 2. Adult total, and lastly, 3. Adult female. ",
-      "Overall across the Year, Adult male mostly maintained the highest Share of population ages 15 and above when compared to others with a mean value of 94.13, and it peaked at 2015.",
-      "Followed by Adult total which ranks as the second topmpost line , with an average of 92.8 Share of population ages 15 and above,reaching its highest point  at 2015 with a value of 94.3. ",
-      "Adult female mostly had the least Share of population ages 15 and above with a mean value of 91.66, which peaked at 2015 with a value of 93.41. "
-   ],
+   "min_summary": [],
+   "mid_summary": [],
    "max_summary": [
-      "The given chart is of multi-line type with 3 lines namely Adult total, Adult male, and Adult female. The y axis represents Share of population ages 15 and above and the x axis represents Year.",
-      "Overall Adult total, and Adult female are gradually increasing, Adult male is roughly constant,  throughout the Year",
-      "The ranking of the lines from topmost to botommmost is as follows: 1. Adult male, 2. Adult total, and lastly, 3. Adult female. ",
-      "Throughout the period, Adult male generally had the highest Share of population ages 15 and above relative to others with an average of 94.13, and it reached its maximum at 2015 with a value of 95.4.",
-      "Followed by Adult total which ranks as the second topmpost line , with an average of 92.8 Share of population ages 15 and above,reaching its highest point  at 2015 with a value of 94.3. ",
-      "Adult female mostly had the least Share of population ages 15 and above with a mean value of 91.66, which peaked at 2015 with a value of 93.41. ",
-      "The minimum Share of population ages 15 and above about 87.04, occured at 2007 by Adult female."
+      "Adult female reported the lowest Share of population ages 15 and above about 87.04 in Year 2007"
    ],
    "trends": [
       {},

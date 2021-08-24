@@ -9,30 +9,30 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart represents 8 different TV Channels on X-axis for 2 groups Total audience (3 years and older), and 14-49 years. On the Y-axis it shows their corresponding Audience market share. ",
+      "This grouped bar chart shows Audience market share on the Y-axis for 8 different TV Channels for 2 groups Total audience (3 years and older), and 14-49 years that are presented on the X-axis. ",
       " Out of all 2 groups, Total audience (3 years and older) had the highest Audience market share in TV Channel ZDF and 14-49 years had the lowest Audience market share in TV Channel kabel eins. ",
-      " Among all the TV Channels, 14-49 years had the highest Audience market share in TV Channel RTL and lowest Audience market share in TV Channel kabel eins. ",
-      " There is a gap of 114.0 between the highest and lowest Audience market share found for 14-49 years in TV Channel RTL and kabel eins. "
+      " Among all the TV Channels, Total audience (3 years and older) had the highest Audience market share in TV Channel ZDF and lowest Audience market share in TV Channel RTL II. ",
+      " The maximum Audience market share for Total audience (3 years and older) that was found in TV Channel ZDF was 4.38 times larger than the minimum Audience market share observed in TV Channel RTL II. "
    ],
    "xAxis": "TV Channel",
    "yAxis": "Audience market share",
    "min_summary": [
-      "This grouped bar chart shows Audience market share on the Y-axis for 8 different TV Channels for 2 groups Total audience (3 years and older), and 14-49 years that are presented on the X-axis. ",
-      " In TV Channel ZDF, Total audience (3 years and older) had the highest Audience market share 127.0 among the 2 groups and in kabel eins, 14-49 years had the lowest Audience market share 5.0. "
+      "This grouped bar chart represents 8 different TV Channels on X-axis for 2 groups Total audience (3 years and older), and 14-49 years. On the Y-axis it shows their corresponding Audience market share. ",
+      " Out of all 2 groups, Total audience (3 years and older) had the highest Audience market share in TV Channel ZDF and 14-49 years had the lowest Audience market share in TV Channel kabel eins. "
    ],
    "mid_summary": [
-      "This grouped bar chart represents 8 different TV Channels on X-axis for 2 groups Total audience (3 years and older), and 14-49 years. On the Y-axis it shows their corresponding Audience market share. ",
+      "This grouped bar chart shows Audience market share on the Y-axis for 8 different TV Channels for 2 groups Total audience (3 years and older), and 14-49 years that are presented on the X-axis. ",
       " Out of all 2 groups, Total audience (3 years and older) had the highest Audience market share in TV Channel ZDF and 14-49 years had the lowest Audience market share in TV Channel kabel eins. ",
-      " Among all the TV Channels, 14-49 years had the highest Audience market share in TV Channel RTL and lowest Audience market share in TV Channel kabel eins. ",
-      " There is a gap of 114.0 between the highest and lowest Audience market share found for 14-49 years in TV Channel RTL and kabel eins. "
+      " Among all the TV Channels, Total audience (3 years and older) had the highest Audience market share in TV Channel ZDF and lowest Audience market share in TV Channel RTL II. ",
+      " The maximum Audience market share for Total audience (3 years and older) that was found in TV Channel ZDF was 4.38 times larger than the minimum Audience market share observed in TV Channel RTL II. "
    ],
    "max_summary": [
       "This grouped bar chart shows Audience market share on the Y-axis for 8 different TV Channels for 2 groups Total audience (3 years and older), and 14-49 years that are presented on the X-axis. ",
-      " TV Channel ZDF had the maximum Audience market share among all 2 groups, and it was for Total audience (3 years and older). The minimum Audience market share was observed in TV Channel kabel eins for 14-49 years. ",
-      " Among all the TV Channels, 14-49 years had the highest Audience market share in TV Channel RTL and lowest Audience market share in TV Channel kabel eins. ",
-      "TV Channel RTL and kabel eins had the biggest gap of 114.0 between the highest and lowest Audience market share found for 14-49 years. ",
+      " In TV Channel ZDF, Total audience (3 years and older) had the highest Audience market share 127.0 among the 2 groups and in kabel eins, 14-49 years had the lowest Audience market share 5.0. ",
+      " In TV Channel ZDF, Total audience (3 years and older) had the highest Audience market share among all 8 TV Channels and it has the lowest Audience market share in TV Channel RTL II. ",
+      "TV Channel ZDF and RTL II had the biggest gap of 98.0 between the highest and lowest Audience market share found for Total audience (3 years and older). ",
       " Among all 2 groups, Total audience (3 years and older) had the gap of 98.0 between the maximum and minimum Audience market share observed in TV Channel ZDF and RTL II respectively. ",
-      "Averaging all 2 groups Total audience (3 years and older), and 14-49 years, the TV Channel RTL is the maximum Audience market share and RTL II is the minimum Audience market share. "
+      "On average, the TV Channel RTL had the highest Audience market share for all 2 groups Total audience (3 years and older), and 14-49 years. Whereas RTL II had the lowest average Audience market share. "
    ],
    "trends": [
       {},

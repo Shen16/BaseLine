@@ -10,39 +10,21 @@
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "You are viewing a chart of multi-line type with 3 lines denoting Agriculture, Industry, and Services. The y axis indicates the SOME LABEL and the x axis indicates Year.",
-      "Overall Services is gradually increasing, Agriculture is gradually decreasing, Industry is roughly constant,  throughout the Year",
-      "The lines ordered according to average values of SOME LABEL in descending order is: 1. Services, 2. Agriculture, and lastly, 3. Industry. ",
-      "Overall across the Year, Services mostly maintained the highest SOME LABEL when compared to others with a mean value of 46.56, and it peaked at 2016.",
-      "Followed by Agriculture which ranks as the second topmpost line , with an average of 33.0 SOME LABEL,reaching its highest point  at 2010 with a value of 37.8. ",
-      "Industry mostly had the least SOME LABEL with a mean value of 20.38, which peaked at 2014 with a value of 22.02. ",
-      "Industry reported the lowest SOME LABEL about 18.64 in Year 2010"
-   ],
-   "xAxis": "Year",
-   "yAxis": "SOME LABEL",
-   "min_summary": [
-      "This is a multi-line chart with 3 lines representing Agriculture, Industry, and Services. The y axis denotes SOME LABEL and the x axis denotes Year.",
-      "Overall Services is gradually increasing, Agriculture is gradually decreasing, Industry is roughly constant,  throughout the Year",
-      "Throughout the period, Services generally had the highest SOME LABEL relative to others with an average of 46.56, and it reached its maximum at 2016 with a value of 51.07.",
-      "Followed by Agriculture which ranks as the second topmpost line , with an average of 33.0 SOME LABEL,reaching its highest point  at 2010 with a value of 37.8. ",
-      "The botommost line, Industry,  has a mean of 20.38, and peaked at 2014. "
-   ],
-   "mid_summary": [
-      "You are viewing a chart of multi-line type with 3 lines denoting Agriculture, Industry, and Services. The y axis indicates the SOME LABEL and the x axis indicates Year.",
-      "Overall Services is gradually increasing, Agriculture is gradually decreasing, Industry is roughly constant,  throughout the Year",
-      "The lines ordered according to average values of SOME LABEL in descending order is: 1. Services, 2. Agriculture, and lastly, 3. Industry. ",
-      "Overall across the Year, Services mostly maintained the highest SOME LABEL when compared to others with a mean value of 46.56, and it peaked at 2016.",
-      "After Services, Agriculture overall has the second highest values , with a mean value of 33.0, peaking at 2010. ",
-      "The botommost line, Industry,  has a mean of 20.38, and peaked at 2014. "
-   ],
-   "max_summary": [
-      "The given chart is of multi-line type with 3 lines namely Agriculture, Industry, and Services. The y axis represents SOME LABEL and the x axis represents Year.",
       "Overall Services is gradually increasing, Agriculture is gradually decreasing, Industry is roughly constant,  throughout the Year",
       "The ranking of the lines from topmost to botommmost is as follows: 1. Services, 2. Agriculture, and lastly, 3. Industry. ",
-      "Throughout the period, Services generally had the highest SOME LABEL relative to others with an average of 46.56, and it reached its maximum at 2016 with a value of 51.07.",
-      "After Services, Agriculture overall has the second highest values , with a mean value of 33.0, peaking at 2010. ",
-      "Industry mostly had the least SOME LABEL with a mean value of 20.38, which peaked at 2014 with a value of 22.02. ",
-      "The minimum SOME LABEL about 18.64, occured at 2010 by Industry."
+      "The minimum Share of total employment about 19.04, occured at 2013 by Industry."
+   ],
+   "xAxis": "Year",
+   "yAxis": "Share of total employment",
+   "min_summary": [
+      "Overall Services is gradually increasing, Agriculture is gradually decreasing, Industry is roughly constant,  throughout the Year"
+   ],
+   "mid_summary": [
+      "Overall Services is gradually increasing, Agriculture is gradually decreasing, Industry is roughly constant,  throughout the Year"
+   ],
+   "max_summary": [
+      "Overall Services is gradually increasing, Agriculture is gradually decreasing, Industry is roughly constant,  throughout the Year",
+      "Industry reported the lowest Share of total employment about 19.04 in Year 2013"
    ],
    "trends": [
       {},
@@ -58,11 +40,11 @@
       },
       {
          "1": [
-            "3",
+            "5",
             "2"
          ],
          "9": [
-            "3",
+            "5",
             "2"
          ]
       },
@@ -78,11 +60,11 @@
       },
       {
          "1": [
-            "9",
+            "1",
             "0"
          ],
          "10": [
-            "9",
+            "1",
             "0"
          ]
       }

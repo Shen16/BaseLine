@@ -6,26 +6,26 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This is a bar chart representing Country in the x axis and Average number of partners in the y axis. ",
+      "This bar chart has 42 columns on the x axis representing Country, and Average number of partners in each Country on the y axis. ",
       "Country Turkey has the highest Average number of partners and India has the lowest Average number of partners. ",
-      "There is a difference of 11.5 between the maximum Country Turkey and minimum Country India. "
+      "The difference of Average number of partners between the highest and lowest Country is 11.5. "
    ],
    "min_summary": [
       "This is a bar chart representing Country in the x axis and Average number of partners in the y axis. ",
-      "The Average number of partners is highest at Country Turkey and lowest at Country India. "
+      "The maximum Average number of partners 14.5 is found at Country Turkey and the minimum is found at India where Country is 3.0. "
    ],
    "mid_summary": [
-      "This is a bar chart representing Country in the x axis and Average number of partners in the y axis. ",
+      "This bar chart has 42 columns on the x axis representing Country, and Average number of partners in each Country on the y axis. ",
       "Country Turkey has the highest Average number of partners and India has the lowest Average number of partners. ",
-      "There is a difference of 11.5 between the maximum Country Turkey and minimum Country India. "
+      "The difference of Average number of partners between the highest and lowest Country is 11.5. "
    ],
    "max_summary": [
-      "This is a bar chart representing Country in the x axis and Average number of partners in the y axis. ",
-      "The maximum Average number of partners 14.5 is found at Country Turkey and the minimum is found at India where Country is 3.0. ",
+      "This is a bar chart. It shows Average number of partners for 42 number of Countrys. ",
+      "The Average number of partners is appeared to be the highest at Country Turkey and lowest at Country India. ",
       "The highest Country Turkey has 11.5 more Average number of partners than the lowest Country India. ",
-      "The Country Turkey has the highest Average number of partners, followed by Australia, and New Zealand. Down to the Country India which is the lowest. ",
+      "Country Turkey is higher than any other Countrys with value 14.5, followed by Australia, and New Zealand. Down to Country India with the lowest value 3.0. ",
       "Similar Average number of partners is found in Country Greece, Israel, and Thailand. ",
-      "The Country India has 1.63 times less Average number of partners than average. ",
+      "The lowest value 3.0 at India is almost 1.63 times smaller than the average value 8.91. ",
       "The Average number of partners is 374.4 if we add up values of all Countrys. "
    ],
    "trends": [

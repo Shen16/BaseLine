@@ -9,10 +9,10 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart represents 3 different Countrys on X-axis for 2 groups Males, and Females. On the Y-axis it shows their corresponding Life expectancy in years. ",
+      "This grouped bar chart shows Life expectancy in years on the Y-axis for 3 different Countrys for 2 groups Males, and Females that are presented on the X-axis. ",
       " In Country Canada, Females had the highest Life expectancy in years 84.0 among the 2 groups and in North America, Males had the lowest Life expectancy in years 76.0. ",
-      " In Country Canada, Females had the highest Life expectancy in years among all 3 Countrys and it has the lowest Life expectancy in years in Country North America. ",
-      " The maximum Life expectancy in years for Females that was found in Country Canada was 1.04 times larger than the minimum Life expectancy in years observed in Country North America. "
+      " In Country Canada, Males had the highest Life expectancy in years among all 3 Countrys and it has the lowest Life expectancy in years in Country North America. ",
+      "Country Canada and North America had the biggest gap of 4.0 between the highest and lowest Life expectancy in years found for Males. "
    ],
    "xAxis": "Country",
    "yAxis": "Life expectancy in years",
@@ -21,16 +21,16 @@
       " Country Canada had the maximum Life expectancy in years among all 2 groups, and it was for Females. The minimum Life expectancy in years was observed in Country North America for Males. "
    ],
    "mid_summary": [
-      "This grouped bar chart represents 3 different Countrys on X-axis for 2 groups Males, and Females. On the Y-axis it shows their corresponding Life expectancy in years. ",
+      "This grouped bar chart shows Life expectancy in years on the Y-axis for 3 different Countrys for 2 groups Males, and Females that are presented on the X-axis. ",
       " In Country Canada, Females had the highest Life expectancy in years 84.0 among the 2 groups and in North America, Males had the lowest Life expectancy in years 76.0. ",
-      " In Country Canada, Females had the highest Life expectancy in years among all 3 Countrys and it has the lowest Life expectancy in years in Country North America. ",
-      " The maximum Life expectancy in years for Females that was found in Country Canada was 1.04 times larger than the minimum Life expectancy in years observed in Country North America. "
+      " In Country Canada, Males had the highest Life expectancy in years among all 3 Countrys and it has the lowest Life expectancy in years in Country North America. ",
+      "Country Canada and North America had the biggest gap of 4.0 between the highest and lowest Life expectancy in years found for Males. "
    ],
    "max_summary": [
       "This grouped bar chart shows Life expectancy in years on the Y-axis for 3 different Countrys for 2 groups Males, and Females that are presented on the X-axis. ",
       " In Country Canada, Females had the highest Life expectancy in years 84.0 among the 2 groups and in North America, Males had the lowest Life expectancy in years 76.0. ",
-      " In Country Canada, Females had the maximum Life expectancy in years and it saw the lowest in Country North America out of all 3 Countrys. ",
-      " There is a gap of 3.0 between the highest and lowest Life expectancy in years found for Females in Country Canada and North America. ",
+      " In Country Canada, Males had the maximum Life expectancy in years and it saw the lowest in Country North America out of all 3 Countrys. ",
+      " There is a gap of 4.0 between the highest and lowest Life expectancy in years found for Males in Country Canada and North America. ",
       " Among all 2 groups, Males had the gap of 4.0 between the maximum and minimum Life expectancy in years observed in Country Canada and North America respectively. ",
       "On average, the Country Canada had the highest Life expectancy in years for all 2 groups Males, and Females. Whereas North America had the lowest average Life expectancy in years. "
    ],

@@ -6,25 +6,24 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This is a bar chart. It shows Funds raised in million U.S. dollars for 15 number of Kickstarter Projects. ",
-      "The Funds raised in million U.S. dollars is appeared to be the highest at Kickstarter Project Pebble Time (2015) and lowest at Kickstarter Project Shenmue 3 (2015). ",
+      "This bar chart has 15 columns on the x axis representing Kickstarter Project, and Funds raised in million U.S. dollars in each Kickstarter Project on the y axis. ",
+      "The Funds raised in million U.S. dollars is highest at Kickstarter Project Pebble Time (2015) and lowest at Kickstarter Project Shenmue 3 (2015). ",
       "The highest Kickstarter Project Pebble Time (2015) has 14.01 more Funds raised in million U.S. dollars than the lowest Kickstarter Project Shenmue 3 (2015). "
    ],
    "min_summary": [
-      "This bar chart has 15 columns on the x axis representing Kickstarter Project, and Funds raised in million U.S. dollars in each Kickstarter Project on the y axis. ",
-      "The Funds raised in million U.S. dollars is appeared to be the highest at Kickstarter Project Pebble Time (2015) and lowest at Kickstarter Project Shenmue 3 (2015). "
+      "This is a bar chart. It shows Funds raised in million U.S. dollars for 15 number of Kickstarter Projects. ",
+      "The Funds raised in million U.S. dollars is highest at Kickstarter Project Pebble Time (2015) and lowest at Kickstarter Project Shenmue 3 (2015). "
    ],
    "mid_summary": [
-      "This is a bar chart. It shows Funds raised in million U.S. dollars for 15 number of Kickstarter Projects. ",
-      "The Funds raised in million U.S. dollars is appeared to be the highest at Kickstarter Project Pebble Time (2015) and lowest at Kickstarter Project Shenmue 3 (2015). ",
+      "This bar chart has 15 columns on the x axis representing Kickstarter Project, and Funds raised in million U.S. dollars in each Kickstarter Project on the y axis. ",
+      "The Funds raised in million U.S. dollars is highest at Kickstarter Project Pebble Time (2015) and lowest at Kickstarter Project Shenmue 3 (2015). ",
       "The highest Kickstarter Project Pebble Time (2015) has 14.01 more Funds raised in million U.S. dollars than the lowest Kickstarter Project Shenmue 3 (2015). "
    ],
    "max_summary": [
-      "This is a bar chart. It shows Funds raised in million U.S. dollars for 15 number of Kickstarter Projects. ",
+      "This bar chart has 15 columns on the x axis representing Kickstarter Project, and Funds raised in million U.S. dollars in each Kickstarter Project on the y axis. ",
       "The maximum Funds raised in million U.S. dollars 20.34 is found at Kickstarter Project Pebble Time (2015) and the minimum is found at Shenmue 3 (2015) where Kickstarter Project is 6.33. ",
-      "The second highest Funds raised in million U.S. dollars is appeared to be the Kickstarter Project Coolest Cooler (2014). ",
-      "There is a difference of 14.01 between the maximum Kickstarter Project Pebble Time (2015) and minimum Kickstarter Project Shenmue 3 (2015). ",
-      "Funds raised in million U.S. dollars at Kickstarter Project Pebble Time (2015) is 20.34 , second place is Coolest Cooler (2014) at 13.29, and thirdly is Pebble 2 Time 2 + All-New Pebble Core (2016) at 12.78.",
+      "The difference of Funds raised in million U.S. dollars between the highest and lowest Kickstarter Project is 14.01. ",
+      "Kickstarter Project Pebble Time (2015) is higher than any other Kickstarter Projects with value 20.34, followed by Coolest Cooler (2014), and Pebble 2 Time 2 + All-New Pebble Core (2016). Down to Kickstarter Project Shenmue 3 (2015) with the lowest value 6.33. ",
       "The Kickstarter Project Shenmue 3 (2015) has 1.99 times less Funds raised in million U.S. dollars than average. "
    ],
    "trends": [

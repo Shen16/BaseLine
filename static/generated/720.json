@@ -10,31 +10,31 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart shows SOME LABEL on the Y-axis for 5 different Responses for 3 groups 2017, 2018, and 2019 that are presented on the X-axis. ",
-      " Out of all 3 groups, 2018 had the highest SOME LABEL in Response Somewhat agree and 2018 had the lowest SOME LABEL in Response Strongly disagree. ",
-      " Among all the Responses, 2018 had the highest SOME LABEL 434.0 in Response Somewhat agree and lowest value 82.0 in Response Strongly disagree. ",
-      " There is a gap of 352.0 between the highest and lowest SOME LABEL found for 2018 in Response Somewhat agree and Strongly disagree. "
+      "This grouped bar chart represents 5 different Responses on X-axis for 3 groups 2017, 2018, and 2019. On the Y-axis it shows their corresponding Share of respondents. ",
+      " Out of all 3 groups, 2018 had the highest Share of respondents in Response Somewhat agree and 2018 had the lowest Share of respondents in Response Strongly disagree. ",
+      " Among all the Responses, 2019 had the highest Share of respondents 341.0 in Response Somewhat agree and lowest value 105.0 in Response Strongly agree. ",
+      "Response Somewhat agree and Strongly agree had the biggest gap of 236.0 between the highest and lowest Share of respondents found for 2019. "
    ],
    "xAxis": "Response",
-   "yAxis": "SOME LABEL",
+   "yAxis": "Share of respondents",
    "min_summary": [
-      "This grouped bar chart represents 5 different Responses on X-axis for 3 groups 2017, 2018, and 2019. On the Y-axis it shows their corresponding SOME LABEL. ",
-      " Response Somewhat agree had the maximum SOME LABEL among all 3 groups, and it was for 2018. The minimum SOME LABEL was observed in Response Strongly disagree for 2018. "
+      "This grouped bar chart shows Share of respondents on the Y-axis for 5 different Responses for 3 groups 2017, 2018, and 2019 that are presented on the X-axis. ",
+      " In Response Somewhat agree, 2018 had the highest Share of respondents 434.0 among the 3 groups and in Strongly disagree, 2018 had the lowest Share of respondents 82.0. "
    ],
    "mid_summary": [
-      "This grouped bar chart shows SOME LABEL on the Y-axis for 5 different Responses for 3 groups 2017, 2018, and 2019 that are presented on the X-axis. ",
-      " Out of all 3 groups, 2018 had the highest SOME LABEL in Response Somewhat agree and 2018 had the lowest SOME LABEL in Response Strongly disagree. ",
-      " Among all the Responses, 2018 had the highest SOME LABEL 434.0 in Response Somewhat agree and lowest value 82.0 in Response Strongly disagree. ",
-      " There is a gap of 352.0 between the highest and lowest SOME LABEL found for 2018 in Response Somewhat agree and Strongly disagree. "
+      "This grouped bar chart represents 5 different Responses on X-axis for 3 groups 2017, 2018, and 2019. On the Y-axis it shows their corresponding Share of respondents. ",
+      " Out of all 3 groups, 2018 had the highest Share of respondents in Response Somewhat agree and 2018 had the lowest Share of respondents in Response Strongly disagree. ",
+      " Among all the Responses, 2019 had the highest Share of respondents 341.0 in Response Somewhat agree and lowest value 105.0 in Response Strongly agree. ",
+      "Response Somewhat agree and Strongly agree had the biggest gap of 236.0 between the highest and lowest Share of respondents found for 2019. "
    ],
    "max_summary": [
-      "This grouped bar chart shows SOME LABEL on the Y-axis for 5 different Responses for 3 groups 2017, 2018, and 2019 that are presented on the X-axis. ",
-      " Out of all 3 groups, 2018 had the highest SOME LABEL in Response Somewhat agree and 2018 had the lowest SOME LABEL in Response Strongly disagree. ",
-      " In Response Somewhat agree, 2018 had the maximum SOME LABEL and it saw the lowest in Response Strongly disagree out of all 5 Responses. ",
-      " The maximum SOME LABEL for 2018 that was found in Response Somewhat agree was 5.29 times larger than the minimum SOME LABEL observed in Response Strongly disagree. ",
-      " Among all 3 groups, 2018 had the gap of 352.0 between the maximum and minimum SOME LABEL observed in Response Somewhat agree and Strongly disagree respectively. ",
-      " 2018 had the maximum SOME LABEL out of all 3 groups in Response Somewhat agree followed by 2018 in Somewhat agree, and the minimum SOME LABEL is found for 2018 in Strongly disagree. ",
-      "On average, the Response Somewhat agree had the highest SOME LABEL for all 3 groups 2017, 2018, and 2019. Whereas Strongly disagree had the lowest average SOME LABEL. "
+      "This grouped bar chart shows Share of respondents on the Y-axis for 5 different Responses for 3 groups 2017, 2018, and 2019 that are presented on the X-axis. ",
+      " Response Somewhat agree had the maximum Share of respondents among all 3 groups, and it was for 2018. The minimum Share of respondents was observed in Response Strongly disagree for 2018. ",
+      " Among all the Responses, 2019 had the highest Share of respondents 341.0 in Response Somewhat agree and lowest value 105.0 in Response Strongly agree. ",
+      " There is a gap of 236.0 between the highest and lowest Share of respondents found for 2019 in Response Somewhat agree and Strongly agree. ",
+      " Among all 3 groups, 2018 had the gap of 352.0 between the maximum and minimum Share of respondents observed in Response Somewhat agree and Strongly disagree respectively. ",
+      " 2018 had the maximum Share of respondents out of all 3 groups in Response Somewhat agree followed by 2018 in Somewhat agree, and the minimum Share of respondents is found for 2018 in Strongly disagree. ",
+      "Averaging all 3 groups 2017, 2018, and 2019, the Response Somewhat agree is the maximum Share of respondents and Strongly disagree is the minimum Share of respondents. "
    ],
    "trends": [
       {},

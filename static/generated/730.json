@@ -7,26 +7,27 @@
    "summaryType": "baseline",
    "summary": [
       "This bar chart has 8 columns on the x axis representing Country, and Percentage of population in each Country on the y axis. ",
-      "Country Italy has the highest Percentage of population and United States has the lowest Percentage of population. ",
-      "Country Italy has 1.18 times more Percentage of population than Country United States which is has the lowest. "
+      "The Percentage of population is appeared to be the highest at Country Italy and lowest at Country United States. ",
+      "There is a difference of 12.0 between the maximum Country Italy and minimum Country United States. "
    ],
    "min_summary": [
-      "This is a bar chart representing Country in the x axis and Percentage of population in the y axis. ",
-      "The maximum Percentage of population 80.0 is found at Country Italy and the minimum is found at United States where Country is 68.0. "
+      "This bar chart has 8 columns on the x axis representing Country, and Percentage of population in each Country on the y axis. ",
+      "Country Italy has the highest Percentage of population and United States has the lowest Percentage of population. "
    ],
    "mid_summary": [
       "This bar chart has 8 columns on the x axis representing Country, and Percentage of population in each Country on the y axis. ",
-      "Country Italy has the highest Percentage of population and United States has the lowest Percentage of population. ",
-      "Country Italy has 1.18 times more Percentage of population than Country United States which is has the lowest. "
+      "The Percentage of population is appeared to be the highest at Country Italy and lowest at Country United States. ",
+      "There is a difference of 12.0 between the maximum Country Italy and minimum Country United States. "
    ],
    "max_summary": [
       "This is a bar chart. It shows Percentage of population for 8 number of Countrys. ",
-      "The Percentage of population is appeared to be the highest at Country Italy and lowest at Country United States. ",
-      "The highest Country Italy has 12.0 more Percentage of population than the lowest Country United States. ",
-      "The Country Italy has the highest Percentage of population, followed by United Kingdom, and Germany. Down to the Country United States which is the lowest. ",
-      "Country Australia, and Spain have a similar Percentage of population that is 71.0. ",
-      "Considered together, the average Percentage of population in all 8 Countrys is roughly 72.38. ",
-      "Summing up the values of all Countrys, we get total 579.0. "
+      "The maximum Percentage of population 80.0 is found at Country Italy and the minimum is found at United States where Country is 68.0. ",
+      "The second highest Percentage of population is appeared to be the Country United Kingdom. ",
+      "The difference of Percentage of population between the highest and lowest Country is 12.0. ",
+      "Country Italy is higher than any other Countrys with value 80.0, followed by United Kingdom, and Germany. Down to Country United States with the lowest value 68.0. ",
+      "Country Australia, and Spain share the same value 71.0. ",
+      "The Country Italy has 1.11 times more Percentage of population than average. ",
+      "The Percentage of population is 579.0 if we add up values of all Countrys. "
    ],
    "trends": [
       {},

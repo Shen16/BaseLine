@@ -6,35 +6,33 @@
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This is a line chart with an x axis representing Year and a y axis representing Deaths per 1,000 live births, containing a total of 11 data points.",
-      " Overall Deaths per 1,000 live births has decreased over the Year.",
-      "Deaths per 1,000 live births is slightly decreasing from 2008 to 2018.",
-      "The line significantly ",
-      "The steepest decrease occurs in between the Year 2016 and 2017.",
-      "The highest Deaths per 1,000 live births, of value 25.5 was reached at Year 2008",
-      "Minimum Deaths per 1,000 live births about 22.5 was reached at Year 2018"
-   ],
-   "min_summary": [
-      "This is a line chart with an x axis representing Year and a y axis representing Deaths per 1,000 live births, containing a total of 11 data points.",
-      " Overall Deaths per 1,000 live births has decreased over the Year.",
-      "Deaths per 1,000 live births is slightly decreasing from 2008 to 2018."
-   ],
-   "mid_summary": [
       "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Deaths per 1,000 live births. In total the number of data points it has is 11.",
       " In general Deaths per 1,000 live births has fallen over the Year.",
       "Deaths per 1,000 live births is slightly decreasing from 2008 to 2018.",
       "The steepest decrease occurs in between the Year 2016 and 2017.",
-      "The highest Deaths per 1,000 live births, of value 25.5 was reached at Year 2008",
-      "Minimum Deaths per 1,000 live births about 22.5 was reached at Year 2018"
+      "Maximum Deaths per 1,000 live births, about 25.5 was reported at Year 2008",
+      "The lowest Deaths per 1,000 live births, of value 22.5 was reported at Year 2018"
    ],
-   "max_summary": [
+   "min_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Deaths per 1,000 live births. In total the number of data points it has is 11.",
+      " In general Deaths per 1,000 live births has fallen over the Year.",
+      "Deaths per 1,000 live births is slightly decreasing from 2008 to 2018."
+   ],
+   "mid_summary": [
       "This is a line chart with an x axis representing Year and a y axis representing Deaths per 1,000 live births, containing a total of 11 data points.",
       " In general Deaths per 1,000 live births has fallen over the Year.",
       "Deaths per 1,000 live births is slightly decreasing from 2008 to 2018.",
       "The steepest decrease occurs in between the Year 2016 and 2017.",
-      "The highest Deaths per 1,000 live births, of value 25.5 was reached at Year 2008",
-      "Minimum Deaths per 1,000 live births about 22.5 was reached at Year 2018",
-      "The line drastically "
+      "Maximum Deaths per 1,000 live births, about 25.5 was reported at Year 2008",
+      "The lowest Deaths per 1,000 live births, of value 22.5 was reported at Year 2018"
+   ],
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Deaths per 1,000 live births. In total the number of data points it has is 11.",
+      " In general Deaths per 1,000 live births has fallen over the Year.",
+      "Deaths per 1,000 live births is slightly decreasing from 2008 to 2018.",
+      "The steepest decrease occurs in between the Year 2016 and 2017.",
+      "Maximum Deaths per 1,000 live births, about 25.5 was reported at Year 2008",
+      "The lowest Deaths per 1,000 live births, of value 22.5 was reported at Year 2018"
    ],
    "trends": [],
    "data": [

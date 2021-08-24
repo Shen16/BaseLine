@@ -9,30 +9,30 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart shows SOME LABEL on the Y-axis for 4 different Races for 2 groups Obama, and Romney that are presented on the X-axis. ",
-      " Race Black had the maximum SOME LABEL among all 2 groups, and it was for Obama. The minimum SOME LABEL was observed in Race Black for Romney. ",
-      " Among all the Races, Obama had the highest SOME LABEL 90.0 in Race Black and lowest value 37.0 in Race White (non-Hispanic). ",
-      " There is a gap of 53.0 between the highest and lowest SOME LABEL found for Obama in Race Black and White (non-Hispanic). "
+      "This grouped bar chart shows Share of respondents on the Y-axis for 4 different Races for 2 groups Obama, and Romney that are presented on the X-axis. ",
+      " Race Black had the maximum Share of respondents among all 2 groups, and it was for Obama. The minimum Share of respondents was observed in Race Black for Romney. ",
+      " In Race White (non-Hispanic), Romney had the highest Share of respondents among all 4 Races and it has the lowest Share of respondents in Race Black. ",
+      " The maximum Share of respondents for Romney that was found in Race White (non-Hispanic) was 11.8 times larger than the minimum Share of respondents observed in Race Black. "
    ],
    "xAxis": "Race",
-   "yAxis": "SOME LABEL",
+   "yAxis": "Share of respondents",
    "min_summary": [
-      "This grouped bar chart shows SOME LABEL on the Y-axis for 4 different Races for 2 groups Obama, and Romney that are presented on the X-axis. ",
-      " Race Black had the maximum SOME LABEL among all 2 groups, and it was for Obama. The minimum SOME LABEL was observed in Race Black for Romney. "
+      "This grouped bar chart represents 4 different Races on X-axis for 2 groups Obama, and Romney. On the Y-axis it shows their corresponding Share of respondents. ",
+      " Out of all 2 groups, Obama had the highest Share of respondents in Race Black and Romney had the lowest Share of respondents in Race Black. "
    ],
    "mid_summary": [
-      "This grouped bar chart shows SOME LABEL on the Y-axis for 4 different Races for 2 groups Obama, and Romney that are presented on the X-axis. ",
-      " Race Black had the maximum SOME LABEL among all 2 groups, and it was for Obama. The minimum SOME LABEL was observed in Race Black for Romney. ",
-      " Among all the Races, Obama had the highest SOME LABEL 90.0 in Race Black and lowest value 37.0 in Race White (non-Hispanic). ",
-      " There is a gap of 53.0 between the highest and lowest SOME LABEL found for Obama in Race Black and White (non-Hispanic). "
+      "This grouped bar chart shows Share of respondents on the Y-axis for 4 different Races for 2 groups Obama, and Romney that are presented on the X-axis. ",
+      " Race Black had the maximum Share of respondents among all 2 groups, and it was for Obama. The minimum Share of respondents was observed in Race Black for Romney. ",
+      " In Race White (non-Hispanic), Romney had the highest Share of respondents among all 4 Races and it has the lowest Share of respondents in Race Black. ",
+      " The maximum Share of respondents for Romney that was found in Race White (non-Hispanic) was 11.8 times larger than the minimum Share of respondents observed in Race Black. "
    ],
    "max_summary": [
-      "This grouped bar chart represents 4 different Races on X-axis for 2 groups Obama, and Romney. On the Y-axis it shows their corresponding SOME LABEL. ",
-      " Race Black had the maximum SOME LABEL among all 2 groups, and it was for Obama. The minimum SOME LABEL was observed in Race Black for Romney. ",
-      " In Race Black, Obama had the highest SOME LABEL among all 4 Races and it has the lowest SOME LABEL in Race White (non-Hispanic). ",
-      "Race Black and White (non-Hispanic) had the biggest gap of 53.0 between the highest and lowest SOME LABEL found for Obama. ",
-      " Among the groups, Obama had the biggest difference in SOME LABEL. Where the maximum SOME LABEL was 2.43 times larger than the minimum SOME LABEL. ",
-      "Averaging all 2 groups Obama, and Romney, the Race White (non-Hispanic) is the maximum SOME LABEL and Nonwhite is the minimum SOME LABEL. "
+      "This grouped bar chart represents 4 different Races on X-axis for 2 groups Obama, and Romney. On the Y-axis it shows their corresponding Share of respondents. ",
+      " Race Black had the maximum Share of respondents among all 2 groups, and it was for Obama. The minimum Share of respondents was observed in Race Black for Romney. ",
+      " In Race White (non-Hispanic), Romney had the highest Share of respondents among all 4 Races and it has the lowest Share of respondents in Race Black. ",
+      " The maximum Share of respondents for Romney that was found in Race White (non-Hispanic) was 11.8 times larger than the minimum Share of respondents observed in Race Black. ",
+      " Out of all 2 groups, the highest gap between the maximum and minimum Share of respondents was found in case of Obama. ",
+      "On average, the Race White (non-Hispanic) had the highest Share of respondents for all 2 groups Obama, and Romney. Whereas Nonwhite had the lowest average Share of respondents. "
    ],
    "trends": [
       {},

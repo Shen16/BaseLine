@@ -8,24 +8,24 @@
    "summary": [
       "This is a bar chart representing Automobile Manufacturers in the x axis and Percentage score in the y axis. ",
       "The maximum Percentage score 94.27 is found at Automobile Manufacturers Lexus and the minimum is found at Toyota where Automobile Manufacturers is 88.85. ",
-      "There is a difference of 5.42 between the maximum Automobile Manufacturers Lexus and minimum Automobile Manufacturers Toyota. "
+      "Automobile Manufacturers Lexus has 1.06 times more Percentage score than Automobile Manufacturers Toyota which is has the lowest. "
    ],
    "min_summary": [
-      "This is a bar chart. It shows Percentage score for 15 number of Automobile Manufacturerss. ",
-      "The Percentage score is appeared to be the highest at Automobile Manufacturers Lexus and lowest at Automobile Manufacturers Toyota. "
+      "This bar chart has 15 columns on the x axis representing Automobile Manufacturers, and Percentage score in each Automobile Manufacturers on the y axis. ",
+      "The maximum Percentage score 94.27 is found at Automobile Manufacturers Lexus and the minimum is found at Toyota where Automobile Manufacturers is 88.85. "
    ],
    "mid_summary": [
       "This is a bar chart representing Automobile Manufacturers in the x axis and Percentage score in the y axis. ",
       "The maximum Percentage score 94.27 is found at Automobile Manufacturers Lexus and the minimum is found at Toyota where Automobile Manufacturers is 88.85. ",
-      "There is a difference of 5.42 between the maximum Automobile Manufacturers Lexus and minimum Automobile Manufacturers Toyota. "
+      "Automobile Manufacturers Lexus has 1.06 times more Percentage score than Automobile Manufacturers Toyota which is has the lowest. "
    ],
    "max_summary": [
-      "This is a bar chart. It shows Percentage score for 15 number of Automobile Manufacturerss. ",
-      "Automobile Manufacturers Lexus has the highest Percentage score and Toyota has the lowest Percentage score. ",
-      "Automobile Manufacturers Porsche has the second highest value for Percentage score. ",
-      "The difference of Percentage score between the highest and lowest Automobile Manufacturers is 5.42. ",
-      "The Automobile Manufacturers Lexus has the highest Percentage score, followed by Porsche, and Audi. Down to the Automobile Manufacturers Toyota which is the lowest. ",
-      "The lowest value 88.85 at Toyota is almost 1.03 times smaller than the average value 91.71. "
+      "This bar chart has 15 columns on the x axis representing Automobile Manufacturers, and Percentage score in each Automobile Manufacturers on the y axis. ",
+      "The Percentage score is appeared to be the highest at Automobile Manufacturers Lexus and lowest at Automobile Manufacturers Toyota. ",
+      "The second highest Percentage score is appeared to be the Automobile Manufacturers Porsche. ",
+      "The highest Automobile Manufacturers Lexus has 5.42 more Percentage score than the lowest Automobile Manufacturers Toyota. ",
+      "Percentage score at Automobile Manufacturers Lexus is 94.27 , second place is Porsche at 94.02, and thirdly is Audi at 93.42.",
+      "The Automobile Manufacturers Lexus has 1.03 times more Percentage score than average. "
    ],
    "trends": [
       {},

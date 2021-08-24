@@ -9,37 +9,23 @@
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This is a multi-line chart with 2 lines representing DLC market, and Package market. The y axis denotes Value in billion USD and the x axis denotes Year.",
       "Overall DLC market is gradually increasing, Package market is gradually decreasing,  throughout the Year",
       "The ranking of the lines from topmost to botommmost is as follows: 1. Package market, and lastly, 2. DLC market. ",
-      "Throughout the period, Package market generally had the highest Value in billion USD relative to others with an average of 20.05, and it reached its maximum at 2020 with a value of 87.0.",
-      "DLC market mostly had the least Value in billion USD with a mean value of 14.17, which peaked at 2021 with a value of 28.9. ",
-      "DLC market reported the lowest Value in billion USD about 5.3 in Year 2011",
-      "The difference of Value in billion USD between DLC market and Package market is greater at Year 2021 compared to the Year 2011."
+      "DLC market reported the lowest Value in billion USD about 7.4 in Year 2013",
+      "The greatest difference of Value in billion USD between DLC market and Package market occurs at Year 2013 and the smallest difference occurs at 2015."
    ],
    "xAxis": "Year",
    "yAxis": "Value in billion USD",
    "min_summary": [
-      "This is a multi-line chart with 2 lines representing DLC market, and Package market. The y axis denotes Value in billion USD and the x axis denotes Year.",
-      "Overall DLC market is gradually increasing, Package market is gradually decreasing,  throughout the Year",
-      "Overall across the Year, Package market mostly maintained the highest Value in billion USD when compared to others with a mean value of 20.05, and it peaked at 2020.",
-      "The botommost line, DLC market,  has a mean of 14.17, and peaked at 2021. "
+      "Overall DLC market is gradually increasing, Package market is gradually decreasing,  throughout the Year"
    ],
    "mid_summary": [
-      "This is a multi-line chart with 2 lines representing DLC market, and Package market. The y axis denotes Value in billion USD and the x axis denotes Year.",
-      "Overall DLC market is gradually increasing, Package market is gradually decreasing,  throughout the Year",
-      "The lines ordered according to average values of Value in billion USD in descending order is: 1. Package market, and lastly, 2. DLC market. ",
-      "Throughout the period, Package market generally had the highest Value in billion USD relative to others with an average of 20.05, and it reached its maximum at 2020 with a value of 87.0.",
-      "The botommost line, DLC market,  has a mean of 14.17, and peaked at 2021. "
+      "Overall DLC market is gradually increasing, Package market is gradually decreasing,  throughout the Year"
    ],
    "max_summary": [
-      "You are viewing a chart of multi-line type with 2 lines denoting DLC market, and Package market. The y axis indicates the Value in billion USD and the x axis indicates Year.",
       "Overall DLC market is gradually increasing, Package market is gradually decreasing,  throughout the Year",
-      "The ranking of the lines from topmost to botommmost is as follows: 1. Package market, and lastly, 2. DLC market. ",
-      "Overall across the Year, Package market mostly maintained the highest Value in billion USD when compared to others with a mean value of 20.05, and it peaked at 2020.",
-      "The botommost line, DLC market,  has a mean of 14.17, and peaked at 2021. ",
-      "DLC market reported the lowest Value in billion USD about 5.3 in Year 2011",
-      "The difference of Value in billion USD between DLC market and Package market is greater at Year 2021 compared to the Year 2011."
+      "DLC market reported the lowest Value in billion USD about 7.4 in Year 2013",
+      "The difference of Value in billion USD between DLC market and Package market is smaller at Year 2015 compared to the Year 2013."
    ],
    "trends": [
       {},
@@ -55,11 +41,11 @@
       },
       {
          "1": [
-            "1",
+            "0",
             "1"
          ],
          "9": [
-            "1",
+            "0",
             "1"
          ]
       },
@@ -75,11 +61,11 @@
       },
       {
          "1": [
-            "0",
+            "2",
             "0"
          ],
          "10": [
-            "0",
+            "2",
             "0"
          ]
       }

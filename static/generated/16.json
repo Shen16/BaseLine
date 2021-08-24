@@ -7,8 +7,8 @@
    "summaryType": "baseline",
    "summary": [
       "This is a bar chart representing Month in the x axis and Number of users in millions in the y axis. ",
-      "The maximum Number of users in millions 45.0 is found at Month July 19 and the minimum is found at July 12 where Month is 21.0. ",
-      "The difference of Number of users in millions between the highest and lowest Month is 24.0. "
+      "Month July 19 has the highest Number of users in millions and July 12 has the lowest Number of users in millions. ",
+      "There is a difference of 24.0 between the maximum Month July 19 and minimum Month July 12. "
    ],
    "min_summary": [
       "This bar chart has 4 columns on the x axis representing Month, and Number of users in millions in each Month on the y axis. ",
@@ -16,17 +16,16 @@
    ],
    "mid_summary": [
       "This is a bar chart representing Month in the x axis and Number of users in millions in the y axis. ",
-      "The maximum Number of users in millions 45.0 is found at Month July 19 and the minimum is found at July 12 where Month is 21.0. ",
-      "The difference of Number of users in millions between the highest and lowest Month is 24.0. "
+      "Month July 19 has the highest Number of users in millions and July 12 has the lowest Number of users in millions. ",
+      "There is a difference of 24.0 between the maximum Month July 19 and minimum Month July 12. "
    ],
    "max_summary": [
-      "This bar chart has 4 columns on the x axis representing Month, and Number of users in millions in each Month on the y axis. ",
-      "The Number of users in millions is appeared to be the highest at Month July 19 and lowest at Month July 12. ",
-      "Second maximum Number of users in millions is found at Month August 16. ",
+      "This is a bar chart representing Month in the x axis and Number of users in millions in the y axis. ",
+      "The maximum Number of users in millions 45.0 is found at Month July 19 and the minimum is found at July 12 where Month is 21.0. ",
       "There is a difference of 24.0 between the maximum Month July 19 and minimum Month July 12. ",
-      "Number of users in millions at Month July 19 is 45.0 , second place is August 16 at 30.0, and thirdly is July 14 at 25.0.",
-      "Over the past 4 Months, the Number of users in millions has lowered. ",
-      "Considered together, the average Number of users in millions in all 4 Months is roughly 30.25. ",
+      "Month July 19 is higher than any other Months with value 45.0, followed by August 16, and July 14. Down to Month July 12 with the lowest value 21.0. ",
+      "Overall Number of users in millions has lowered over the Months. ",
+      "The Month July 12 has 1.49 times less Number of users in millions than average. ",
       "Summing up the values of all Months, we get total 121.0. "
    ],
    "trends": [

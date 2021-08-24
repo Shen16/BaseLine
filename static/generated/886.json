@@ -6,27 +6,26 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This is a bar chart representing Weapon used in the x axis and Number of assaults in the y axis. ",
-      "The Number of assaults is highest at Weapon used Other weapon and lowest at Weapon used Knife or cutting instrument. ",
-      "Weapon used Other weapon has 1.82 times more Number of assaults than Weapon used Knife or cutting instrument which is has the lowest. "
+      "This bar chart has 4 columns on the x axis representing Weapon used, and Number of assaults in each Weapon used on the y axis. ",
+      "The Number of assaults is appeared to be the highest at Weapon used Other weapon and lowest at Weapon used Knife or cutting instrument. ",
+      "The difference of Number of assaults between the highest and lowest Weapon used is 100744.0. "
    ],
    "min_summary": [
-      "This is a bar chart representing Weapon used in the x axis and Number of assaults in the y axis. ",
-      "The Number of assaults is appeared to be the highest at Weapon used Other weapon and lowest at Weapon used Knife or cutting instrument. "
+      "This is a bar chart. It shows Number of assaults for 4 number of Weapon useds. ",
+      "The Number of assaults is highest at Weapon used Other weapon and lowest at Weapon used Knife or cutting instrument. "
    ],
    "mid_summary": [
-      "This is a bar chart representing Weapon used in the x axis and Number of assaults in the y axis. ",
-      "The Number of assaults is highest at Weapon used Other weapon and lowest at Weapon used Knife or cutting instrument. ",
-      "Weapon used Other weapon has 1.82 times more Number of assaults than Weapon used Knife or cutting instrument which is has the lowest. "
+      "This bar chart has 4 columns on the x axis representing Weapon used, and Number of assaults in each Weapon used on the y axis. ",
+      "The Number of assaults is appeared to be the highest at Weapon used Other weapon and lowest at Weapon used Knife or cutting instrument. ",
+      "The difference of Number of assaults between the highest and lowest Weapon used is 100744.0. "
    ],
    "max_summary": [
       "This is a bar chart representing Weapon used in the x axis and Number of assaults in the y axis. ",
       "The Number of assaults is appeared to be the highest at Weapon used Other weapon and lowest at Weapon used Knife or cutting instrument. ",
-      "Weapon used Firearm has the second highest value for Number of assaults. ",
-      "The difference of Number of assaults between the highest and lowest Weapon used is 100744.0. ",
-      "Weapon used Other weapon is higher than any other Weapon useds with value 223997.0, followed by Firearm, and Personal weapons. Down to Weapon used Knife or cutting instrument with the lowest value 123253.0. ",
-      "The Weapon used Other weapon tends to be 1.26 percent higher than average. ",
-      "Summing up the values of all Weapon useds, we get total 711695.0. "
+      "Second maximum Number of assaults is found at Weapon used Firearm. ",
+      "There is a difference of 100744.0 between the maximum Weapon used Other weapon and minimum Weapon used Knife or cutting instrument. ",
+      "The Weapon used Other weapon has the highest Number of assaults, followed by Firearm, and Personal weapons. Down to the Weapon used Knife or cutting instrument which is the lowest. ",
+      "The Weapon used Other weapon has 1.26 times more Number of assaults than average. "
    ],
    "trends": [
       {},

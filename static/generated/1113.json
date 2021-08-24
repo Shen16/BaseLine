@@ -6,26 +6,27 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This is a bar chart. It shows Trade value in million U.S. dollars for 15 number of Countrys. ",
-      "Country Pakistan has the highest Trade value in million U.S. dollars and Canada has the lowest Trade value in million U.S. dollars. ",
-      "The highest Country Pakistan has 425.78 more Trade value in million U.S. dollars than the lowest Country Canada. "
+      "This bar chart has 15 columns on the x axis representing Country, and Trade value in million U.S. dollars in each Country on the y axis. ",
+      "The Trade value in million U.S. dollars is highest at Country Pakistan and lowest at Country Canada. ",
+      "The lowest value at Country Canada is 3.93x times less than the highest value at Pakistan. "
    ],
    "min_summary": [
-      "This is a bar chart representing Country in the x axis and Trade value in million U.S. dollars in the y axis. ",
-      "The Trade value in million U.S. dollars is highest at Country Pakistan and lowest at Country Canada. "
+      "This is a bar chart. It shows Trade value in million U.S. dollars for 15 number of Countrys. ",
+      "The Trade value in million U.S. dollars is appeared to be the highest at Country Pakistan and lowest at Country Canada. "
    ],
    "mid_summary": [
-      "This is a bar chart. It shows Trade value in million U.S. dollars for 15 number of Countrys. ",
-      "Country Pakistan has the highest Trade value in million U.S. dollars and Canada has the lowest Trade value in million U.S. dollars. ",
-      "The highest Country Pakistan has 425.78 more Trade value in million U.S. dollars than the lowest Country Canada. "
+      "This bar chart has 15 columns on the x axis representing Country, and Trade value in million U.S. dollars in each Country on the y axis. ",
+      "The Trade value in million U.S. dollars is highest at Country Pakistan and lowest at Country Canada. ",
+      "The lowest value at Country Canada is 3.93x times less than the highest value at Pakistan. "
    ],
    "max_summary": [
-      "This is a bar chart. It shows Trade value in million U.S. dollars for 15 number of Countrys. ",
-      "The Trade value in million U.S. dollars is appeared to be the highest at Country Pakistan and lowest at Country Canada. ",
-      "The second highest Trade value in million U.S. dollars is appeared to be the Country Russian Federation. ",
+      "This bar chart has 15 columns on the x axis representing Country, and Trade value in million U.S. dollars in each Country on the y axis. ",
+      "Country Pakistan has the highest Trade value in million U.S. dollars and Canada has the lowest Trade value in million U.S. dollars. ",
+      "Second maximum Trade value in million U.S. dollars is found at Country Russian Federation. ",
       "The difference of Trade value in million U.S. dollars between the highest and lowest Country is 425.78. ",
-      "Trade value in million U.S. dollars at Country Pakistan is 571.33 , second place is Russian Federation at 497.07, and thirdly is USA at 487.29.",
-      "The Country Pakistan tends to be 2.0 percent higher than average. "
+      "The Country Pakistan has the highest Trade value in million U.S. dollars, followed by Russian Federation, and USA. Down to the Country Canada which is the lowest. ",
+      "The Country Pakistan tends to be 2.0 percent higher than average. ",
+      "The Trade value in million U.S. dollars is 4289.19 if we add up values of all Countrys. "
    ],
    "trends": [
       {},

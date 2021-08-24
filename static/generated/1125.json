@@ -7,27 +7,25 @@
    "summaryType": "baseline",
    "summary": [
       "This is a bar chart. It shows Imports in million metric tons for 9 number of Countrys. ",
-      "The Imports in million metric tons is highest at Country Total and lowest at Country Russia. ",
-      "The difference of Imports in million metric tons between the highest and lowest Country is 28.9. "
+      "The maximum Imports in million metric tons 29.1 is found at Country Total and the minimum is found at Russia where Country is 0.2. ",
+      "The highest Country Total has 28.9 more Imports in million metric tons than the lowest Country Russia. "
    ],
    "min_summary": [
-      "This is a bar chart. It shows Imports in million metric tons for 9 number of Countrys. ",
-      "The maximum Imports in million metric tons 29.1 is found at Country Total and the minimum is found at Russia where Country is 0.2. "
+      "This bar chart has 9 columns on the x axis representing Country, and Imports in million metric tons in each Country on the y axis. ",
+      "Country Total has the highest Imports in million metric tons and Russia has the lowest Imports in million metric tons. "
    ],
    "mid_summary": [
       "This is a bar chart. It shows Imports in million metric tons for 9 number of Countrys. ",
-      "The Imports in million metric tons is highest at Country Total and lowest at Country Russia. ",
-      "The difference of Imports in million metric tons between the highest and lowest Country is 28.9. "
+      "The maximum Imports in million metric tons 29.1 is found at Country Total and the minimum is found at Russia where Country is 0.2. ",
+      "The highest Country Total has 28.9 more Imports in million metric tons than the lowest Country Russia. "
    ],
    "max_summary": [
-      "This is a bar chart representing Country in the x axis and Imports in million metric tons in the y axis. ",
+      "This bar chart has 9 columns on the x axis representing Country, and Imports in million metric tons in each Country on the y axis. ",
       "Country Total has the highest Imports in million metric tons and Russia has the lowest Imports in million metric tons. ",
-      "Second maximum Imports in million metric tons is found at Country United States. ",
-      "The Imports in million metric tons of Country Russia is 145.5% smaller than the maximum value at Total. ",
+      "The difference of Imports in million metric tons between the highest and lowest Country is 28.9. ",
       "Country Total is higher than any other Countrys with value 29.1, followed by United States, and Saudi Arabia. Down to Country Russia with the lowest value 0.2. ",
       "Country West Africa, and CIS (excluding Russia) share the same value 1.1. ",
-      "The highest value 29.1 at Total is almost 4.51 times larger than the average value 6.46. ",
-      "The Imports in million metric tons is 58.1 if we add up values of all Countrys. "
+      "The average Imports in million metric tons in all 9 Countrys is 6.46. "
    ],
    "trends": [
       {},

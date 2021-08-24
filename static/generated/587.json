@@ -6,28 +6,28 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This is a bar chart representing Country in the x axis and Litres consumed per capita in the y axis. ",
-      "The Litres consumed per capita is highest at Country Italy and lowest at Country Sweden. ",
-      "There is a difference of 178.0 between the maximum Country Italy and minimum Country Sweden. "
+      "This bar chart has 26 columns on the x axis representing Country, and Litres consumed per capita in each Country on the y axis. ",
+      "The Litres consumed per capita is appeared to be the highest at Country Italy and lowest at Country Sweden. ",
+      "The lowest value at Country Sweden is 18.8x times less than the highest value at Italy. "
    ],
    "min_summary": [
       "This bar chart has 26 columns on the x axis representing Country, and Litres consumed per capita in each Country on the y axis. ",
-      "Country Italy has the highest Litres consumed per capita and Sweden has the lowest Litres consumed per capita. "
+      "The Litres consumed per capita is appeared to be the highest at Country Italy and lowest at Country Sweden. "
    ],
    "mid_summary": [
-      "This is a bar chart representing Country in the x axis and Litres consumed per capita in the y axis. ",
-      "The Litres consumed per capita is highest at Country Italy and lowest at Country Sweden. ",
-      "There is a difference of 178.0 between the maximum Country Italy and minimum Country Sweden. "
+      "This bar chart has 26 columns on the x axis representing Country, and Litres consumed per capita in each Country on the y axis. ",
+      "The Litres consumed per capita is appeared to be the highest at Country Italy and lowest at Country Sweden. ",
+      "The lowest value at Country Sweden is 18.8x times less than the highest value at Italy. "
    ],
    "max_summary": [
       "This is a bar chart representing Country in the x axis and Litres consumed per capita in the y axis. ",
-      "The maximum Litres consumed per capita 188.0 is found at Country Italy and the minimum is found at Sweden where Country is 10.0. ",
+      "The Litres consumed per capita is highest at Country Italy and lowest at Country Sweden. ",
       "The second highest Litres consumed per capita is appeared to be the Country Germany. ",
-      "The highest Country Italy has 178.0 more Litres consumed per capita than the lowest Country Sweden. ",
-      "The Country Italy has the highest Litres consumed per capita, followed by Germany, and Belgium. Down to the Country Sweden which is the lowest. ",
-      "Country Hungary, and Spain have a similar Litres consumed per capita that is 126.0. ",
+      "There is a difference of 178.0 between the maximum Country Italy and minimum Country Sweden. ",
+      "Country Italy is higher than any other Countrys with value 188.0, followed by Germany, and Belgium. Down to Country Sweden with the lowest value 10.0. ",
+      "Country Hungary, and Spain share the same value 126.0. ",
       "The highest value 188.0 at Italy is almost 2.31 times larger than the average value 81.31. ",
-      "The Litres consumed per capita is 2114.0 if we add up values of all Countrys. "
+      "Summing up the values of all Countrys, we get total 2114.0. "
    ],
    "trends": [
       {},

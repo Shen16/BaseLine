@@ -12,36 +12,14 @@
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "The given chart is of multi-line type with 5 lines namely U.S. Long Grain 2.4, U.S. California Medium Grain 1.4, Thai Parboiled 100, India 25, and Pak Basmati. The y axis represents Price in USD per ton and the x axis represents Year.",
-      "Overall Thai Parboiled 100 is gradually decreasing, U.S. Long Grain 2.4, U.S. California Medium Grain 1.4, India 25, and Pak Basmati are roughly constant,  throughout the Year",
-      "Throughout the period, Pak Basmati generally had the highest Price in USD per ton relative to others with an average of 1086.38, and it reached its maximum at 2013 with a value of 1372.0.",
-      "Followed by U.S. California Medium Grain 1.4 which ranks as the second topmpost line , with an average of 788.4 Price in USD per ton,reaching its highest point  at 2014 with a value of 1007.0. ",
-      "India 25 mostly had the least Price in USD per ton with a mean value of 373.0, which peaked at 2011 with a value of 409.0. ",
-      "India 25 reported the lowest Price in USD per ton about 333.0 in Year 2016"
+      "India 25 reported the lowest Price in USD per ton about 402.0 in Year 2013"
    ],
    "xAxis": "Year",
    "yAxis": "Price in USD per ton",
-   "min_summary": [
-      "The given chart is of multi-line type with 5 lines namely U.S. Long Grain 2.4, U.S. California Medium Grain 1.4, Thai Parboiled 100, India 25, and Pak Basmati. The y axis represents Price in USD per ton and the x axis represents Year.",
-      "Overall Thai Parboiled 100 is gradually decreasing, U.S. Long Grain 2.4, U.S. California Medium Grain 1.4, India 25, and Pak Basmati are roughly constant,  throughout the Year",
-      "Throughout the period, Pak Basmati generally had the highest Price in USD per ton relative to others with an average of 1086.38, and it reached its maximum at 2013 with a value of 1372.0.",
-      "Followed by U.S. California Medium Grain 1.4 which ranks as the second topmpost line , with an average of 788.4 Price in USD per ton,reaching its highest point  at 2014 with a value of 1007.0. ",
-      "India 25 mostly had the least Price in USD per ton with a mean value of 373.0, which peaked at 2011 with a value of 409.0. "
-   ],
-   "mid_summary": [
-      "The given chart is of multi-line type with 5 lines namely U.S. Long Grain 2.4, U.S. California Medium Grain 1.4, Thai Parboiled 100, India 25, and Pak Basmati. The y axis represents Price in USD per ton and the x axis represents Year.",
-      "Overall Thai Parboiled 100 is gradually decreasing, U.S. Long Grain 2.4, U.S. California Medium Grain 1.4, India 25, and Pak Basmati are roughly constant,  throughout the Year",
-      "Overall across the Year, Pak Basmati mostly maintained the highest Price in USD per ton when compared to others with a mean value of 1086.38, and it peaked at 2013.",
-      "Followed by U.S. California Medium Grain 1.4 which ranks as the second topmpost line , with an average of 788.4 Price in USD per ton,reaching its highest point  at 2014 with a value of 1007.0. ",
-      "The botommost line, India 25,  has a mean of 373.0, and peaked at 2011. "
-   ],
+   "min_summary": [],
+   "mid_summary": [],
    "max_summary": [
-      "The given chart is of multi-line type with 5 lines namely U.S. Long Grain 2.4, U.S. California Medium Grain 1.4, Thai Parboiled 100, India 25, and Pak Basmati. The y axis represents Price in USD per ton and the x axis represents Year.",
-      "Overall Thai Parboiled 100 is gradually decreasing, U.S. Long Grain 2.4, U.S. California Medium Grain 1.4, India 25, and Pak Basmati are roughly constant,  throughout the Year",
-      "Throughout the period, Pak Basmati generally had the highest Price in USD per ton relative to others with an average of 1086.38, and it reached its maximum at 2013 with a value of 1372.0.",
-      "After Pak Basmati, U.S. California Medium Grain 1.4 overall has the second highest values , with a mean value of 788.4, peaking at 2014. ",
-      "The botommost line, India 25,  has a mean of 373.0, and peaked at 2011. ",
-      "India 25 reported the lowest Price in USD per ton about 333.0 in Year 2016"
+      "The minimum Price in USD per ton about 402.0, occured at 2013 by India 25."
    ],
    "trends": [
       {},
@@ -57,11 +35,11 @@
       },
       {
          "1": [
-            "5",
+            "0",
             "4"
          ],
          "9": [
-            "5",
+            "0",
             "4"
          ]
       },
@@ -77,11 +55,11 @@
       },
       {
          "1": [
-            "4",
+            "0",
             "1"
          ],
          "10": [
-            "4",
+            "0",
             "1"
          ]
       }

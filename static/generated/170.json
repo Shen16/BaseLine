@@ -11,82 +11,55 @@
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "You are viewing a chart of multi-line type with 4 lines denoting Brazil, China, India, and Russia. The y axis indicates the GDP per capita in USD and the x axis indicates Year.",
-      "Overall China, and India are gradually increasing, Brazil, and Russia are gradually decreasing,  throughout the Year",
-      "The lines ordered according to average values of GDP per capita in USD in descending order is: 1. Brazil, 2. China, 3. Russia, and lastly, 4. India. ",
-      "Overall across the Year, Brazil mostly maintained the highest GDP per capita in USD when compared to others with a mean value of 9660.57, and it peaked at 2014.",
-      "After Brazil, China overall has the second highest values , with a mean value of 4512.4, peaking at 2018. ",
-      "The botommost line, India,  has a mean of 2274.07, and peaked at 2024. ",
-      "China reported the highest GDP per capita in USD about 14811.79 in Year 2024",
-      "The minimum GDP per capita in USD about 1610.36, occured at 2014 by India."
+      "The minimum GDP per capita in USD about 1639.69, occured at 2015 by India."
    ],
    "xAxis": "Year",
    "yAxis": "GDP per capita in USD",
-   "min_summary": [
-      "You are viewing a chart of multi-line type with 4 lines denoting Brazil, China, India, and Russia. The y axis indicates the GDP per capita in USD and the x axis indicates Year.",
-      "Overall China, and India are gradually increasing, Brazil, and Russia are gradually decreasing,  throughout the Year",
-      "Overall across the Year, Brazil mostly maintained the highest GDP per capita in USD when compared to others with a mean value of 9660.57, and it peaked at 2014.",
-      "Followed by China which ranks as the second topmpost line , with an average of 4512.4 GDP per capita in USD,reaching its highest point  at 2018 with a value of 9580.0. ",
-      "India mostly had the least GDP per capita in USD with a mean value of 2274.07, which peaked at 2024 with a value of 3209.67. "
-   ],
-   "mid_summary": [
-      "The given chart is of multi-line type with 4 lines namely Brazil, China, India, and Russia. The y axis represents GDP per capita in USD and the x axis represents Year.",
-      "Overall China, and India are gradually increasing, Brazil, and Russia are gradually decreasing,  throughout the Year",
-      "The ranking of the lines from topmost to botommmost is as follows: 1. Brazil, 2. China, 3. Russia, and lastly, 4. India. ",
-      "Overall across the Year, Brazil mostly maintained the highest GDP per capita in USD when compared to others with a mean value of 9660.57, and it peaked at 2014.",
-      "After Brazil, China overall has the second highest values , with a mean value of 4512.4, peaking at 2018. ",
-      "The botommost line, India,  has a mean of 2274.07, and peaked at 2024. "
-   ],
+   "min_summary": [],
+   "mid_summary": [],
    "max_summary": [
-      "The given chart is of multi-line type with 4 lines namely Brazil, China, India, and Russia. The y axis represents GDP per capita in USD and the x axis represents Year.",
-      "Overall China, and India are gradually increasing, Brazil, and Russia are gradually decreasing,  throughout the Year",
-      "The lines ordered according to average values of GDP per capita in USD in descending order is: 1. Brazil, 2. China, 3. Russia, and lastly, 4. India. ",
-      "Overall across the Year, Brazil mostly maintained the highest GDP per capita in USD when compared to others with a mean value of 9660.57, and it peaked at 2014.",
-      "Followed by China which ranks as the second topmpost line , with an average of 4512.4 GDP per capita in USD,reaching its highest point  at 2018 with a value of 9580.0. ",
-      "India mostly had the least GDP per capita in USD with a mean value of 2274.07, which peaked at 2024 with a value of 3209.67. ",
-      "China reported the highest GDP per capita in USD about 14811.79 in Year 2024",
-      "India reported the lowest GDP per capita in USD about 1610.36 in Year 2014"
+      "India reported the lowest GDP per capita in USD about 1639.69 in Year 2015"
    ],
    "trends": [
       {},
       {
          "2": [
             "0",
-            "0"
+            "3"
          ],
          "16": [
             "10",
-            "0"
+            "3"
          ]
       },
       {
          "1": [
-            "7",
-            "0"
+            "0",
+            "3"
          ],
          "9": [
-            "7",
-            "0"
+            "0",
+            "3"
          ]
       },
       {
          "2": [
             "0",
-            "1"
+            "0"
          ],
          "15": [
             "10",
-            "1"
+            "0"
          ]
       },
       {
          "1": [
-            "6",
-            "1"
+            "0",
+            "0"
          ],
          "10": [
-            "6",
-            "1"
+            "0",
+            "0"
          ]
       }
    ],

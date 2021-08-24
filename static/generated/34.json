@@ -9,37 +9,23 @@
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "The given chart is of multi-line type with 2 lines namely Export, and Import. The y axis represents Trade in thousands metric tons and the x axis represents Year.",
       "Overall Export, and Import are gradually increasing,  throughout the Year",
-      "The lines ordered according to average values of Trade in thousands metric tons in descending order is: 1. Import, and lastly, 2. Export. ",
-      "Throughout the period, Import generally had the highest Trade in thousands metric tons relative to others with an average of 71087.69, and it reached its maximum at 2018 with a value of 108775.3.",
-      "The botommost line, Export,  has a mean of 49288.24, and peaked at 2013. ",
-      "The minimum Trade in thousands metric tons about 24045.7, occured at 2005 by Export.",
-      "The greatest difference of Trade in thousands metric tons between Export and Import occurs at Year 2018 and the smallest difference occurs at 2010."
+      "The order of lines according to average values of Trade in thousands metric tons, in descending order is: 1. Import, and lastly, 2. Export. ",
+      "Export reported the lowest Trade in thousands metric tons about 28678.0 in Year 2006",
+      "The greatest difference of Trade in thousands metric tons between Export and Import occurs at Year 2017 and the smallest difference occurs at 2010."
    ],
    "xAxis": "Year",
    "yAxis": "Trade in thousands metric tons",
    "min_summary": [
-      "This is a multi-line chart with 2 lines representing Export, and Import. The y axis denotes Trade in thousands metric tons and the x axis denotes Year.",
-      "Overall Export, and Import are gradually increasing,  throughout the Year",
-      "Throughout the period, Import generally had the highest Trade in thousands metric tons relative to others with an average of 71087.69, and it reached its maximum at 2018 with a value of 108775.3.",
-      "The botommost line, Export,  has a mean of 49288.24, and peaked at 2013. "
+      "Overall Export, and Import are gradually increasing,  throughout the Year"
    ],
    "mid_summary": [
-      "You are viewing a chart of multi-line type with 2 lines denoting Export, and Import. The y axis indicates the Trade in thousands metric tons and the x axis indicates Year.",
-      "Overall Export, and Import are gradually increasing,  throughout the Year",
-      "The lines ordered according to average values of Trade in thousands metric tons in descending order is: 1. Import, and lastly, 2. Export. ",
-      "Overall across the Year, Import mostly maintained the highest Trade in thousands metric tons when compared to others with a mean value of 71087.69, and it peaked at 2018.",
-      "Export mostly had the least Trade in thousands metric tons with a mean value of 49288.24, which peaked at 2013 with a value of 91886.1. "
+      "Overall Export, and Import are gradually increasing,  throughout the Year"
    ],
    "max_summary": [
-      "This is a multi-line chart with 2 lines representing Export, and Import. The y axis denotes Trade in thousands metric tons and the x axis denotes Year.",
       "Overall Export, and Import are gradually increasing,  throughout the Year",
-      "The lines ordered according to average values of Trade in thousands metric tons in descending order is: 1. Import, and lastly, 2. Export. ",
-      "Overall across the Year, Import mostly maintained the highest Trade in thousands metric tons when compared to others with a mean value of 71087.69, and it peaked at 2018.",
-      "The botommost line, Export,  has a mean of 49288.24, and peaked at 2013. ",
-      "Export reported the lowest Trade in thousands metric tons about 24045.7 in Year 2005",
-      "The difference of Trade in thousands metric tons between Export and Import is greater at Year 2018 compared to the Year 2005."
+      "The minimum Trade in thousands metric tons about 28678.0, occured at 2006 by Export.",
+      "The difference of Trade in thousands metric tons between Export and Import is greater at Year 2017 compared to the Year 2006."
    ],
    "trends": [
       {},
@@ -55,11 +41,11 @@
       },
       {
          "1": [
-            "1",
+            "7",
             "1"
          ],
          "9": [
-            "1",
+            "7",
             "1"
          ]
       },
@@ -75,11 +61,11 @@
       },
       {
          "1": [
-            "5",
+            "7",
             "0"
          ],
          "10": [
-            "5",
+            "7",
             "0"
          ]
       }

@@ -11,39 +11,21 @@
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "The given chart is of multi-line type with 4 lines namely One sentence, Two sentences, Three to five sentences, and Six or more sentences. The y axis represents SOME LABEL and the x axis represents Year.",
-      "Overall One sentence, Three to five sentences, and Six or more sentences are gradually decreasing, Two sentences is roughly constant,  throughout the Year",
-      "The lines ordered according to average values of SOME LABEL in descending order is: 1. Six or more sentences, 2. Three to five sentences, 3. Two sentences, and lastly, 4. One sentence. ",
-      "Throughout the period, Six or more sentences generally had the highest SOME LABEL relative to others with an average of 75.25, and it reached its maximum at 2007 with a value of 79.0.",
-      "After Six or more sentences, Three to five sentences overall has the second highest values , with a mean value of 68.0, peaking at 2006. ",
-      "One sentence mostly had the least SOME LABEL with a mean value of 42.0, which peaked at 2006 with a value of 49.0. ",
-      "One sentence reported the lowest SOME LABEL about 36.0 in Year 2012"
+      "Overall One sentence is gradually decreasing, Two sentences, Three to five sentences, and Six or more sentences are roughly constant,  throughout the Year",
+      "The order of lines according to average values of Rate of recidivism, in descending order is: 1. Six or more sentences, 2. Three to five sentences, 3. Two sentences, and lastly, 4. One sentence. ",
+      "The minimum Rate of recidivism about 45.0, occured at 2008 by One sentence."
    ],
    "xAxis": "Year",
-   "yAxis": "SOME LABEL",
+   "yAxis": "Rate of recidivism",
    "min_summary": [
-      "The given chart is of multi-line type with 4 lines namely One sentence, Two sentences, Three to five sentences, and Six or more sentences. The y axis represents SOME LABEL and the x axis represents Year.",
-      "Overall One sentence, Three to five sentences, and Six or more sentences are gradually decreasing, Two sentences is roughly constant,  throughout the Year",
-      "Overall across the Year, Six or more sentences mostly maintained the highest SOME LABEL when compared to others with a mean value of 75.25, and it peaked at 2007.",
-      "Followed by Three to five sentences which ranks as the second topmpost line , with an average of 68.0 SOME LABEL,reaching its highest point  at 2006 with a value of 72.0. ",
-      "The botommost line, One sentence,  has a mean of 42.0, and peaked at 2006. "
+      "Overall One sentence is gradually decreasing, Two sentences, Three to five sentences, and Six or more sentences are roughly constant,  throughout the Year"
    ],
    "mid_summary": [
-      "The given chart is of multi-line type with 4 lines namely One sentence, Two sentences, Three to five sentences, and Six or more sentences. The y axis represents SOME LABEL and the x axis represents Year.",
-      "Overall One sentence, Three to five sentences, and Six or more sentences are gradually decreasing, Two sentences is roughly constant,  throughout the Year",
-      "The ranking of the lines from topmost to botommmost is as follows: 1. Six or more sentences, 2. Three to five sentences, 3. Two sentences, and lastly, 4. One sentence. ",
-      "Throughout the period, Six or more sentences generally had the highest SOME LABEL relative to others with an average of 75.25, and it reached its maximum at 2007 with a value of 79.0.",
-      "After Six or more sentences, Three to five sentences overall has the second highest values , with a mean value of 68.0, peaking at 2006. ",
-      "The botommost line, One sentence,  has a mean of 42.0, and peaked at 2006. "
+      "Overall One sentence is gradually decreasing, Two sentences, Three to five sentences, and Six or more sentences are roughly constant,  throughout the Year"
    ],
    "max_summary": [
-      "You are viewing a chart of multi-line type with 4 lines denoting One sentence, Two sentences, Three to five sentences, and Six or more sentences. The y axis indicates the SOME LABEL and the x axis indicates Year.",
-      "Overall One sentence, Three to five sentences, and Six or more sentences are gradually decreasing, Two sentences is roughly constant,  throughout the Year",
-      "The ranking of the lines from topmost to botommmost is as follows: 1. Six or more sentences, 2. Three to five sentences, 3. Two sentences, and lastly, 4. One sentence. ",
-      "Throughout the period, Six or more sentences generally had the highest SOME LABEL relative to others with an average of 75.25, and it reached its maximum at 2007 with a value of 79.0.",
-      "After Six or more sentences, Three to five sentences overall has the second highest values , with a mean value of 68.0, peaking at 2006. ",
-      "The botommost line, One sentence,  has a mean of 42.0, and peaked at 2006. ",
-      "The minimum SOME LABEL about 36.0, occured at 2012 by One sentence."
+      "Overall One sentence is gradually decreasing, Two sentences, Three to five sentences, and Six or more sentences are roughly constant,  throughout the Year",
+      "The minimum Rate of recidivism about 45.0, occured at 2008 by One sentence."
    ],
    "trends": [
       {},
@@ -59,11 +41,11 @@
       },
       {
          "1": [
-            "6",
+            "1",
             "3"
          ],
          "9": [
-            "6",
+            "1",
             "3"
          ]
       },
@@ -79,11 +61,11 @@
       },
       {
          "1": [
-            "7",
+            "0",
             "2"
          ],
          "10": [
-            "7",
+            "0",
             "2"
          ]
       }

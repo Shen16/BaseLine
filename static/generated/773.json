@@ -9,30 +9,30 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart represents 6 different Regions on X-axis for 2 groups Males, and Females. On the Y-axis it shows their corresponding SOME LABEL. ",
-      " Out of all 2 groups, Females had the highest SOME LABEL in Region East Asia and Males had the lowest SOME LABEL in Region South Asia. ",
-      " In Region East Asia, Females had the maximum SOME LABEL and it saw the lowest in Region South Asia out of all 6 Regions. ",
-      " The maximum SOME LABEL for Females that was found in Region East Asia was 1.13 times larger than the minimum SOME LABEL observed in Region South Asia. "
+      "This grouped bar chart shows Life expectancy in years on the Y-axis for 6 different Regions for 2 groups Males, and Females that are presented on the X-axis. ",
+      " In Region East Asia, Females had the highest Life expectancy in years 80.0 among the 2 groups and in South Asia, Males had the lowest Life expectancy in years 68.0. ",
+      " Among all the Regions, Males had the highest Life expectancy in years in Region East Asia and lowest Life expectancy in years in Region South Asia. ",
+      " The maximum Life expectancy in years for Males that was found in Region East Asia was 1.1 times larger than the minimum Life expectancy in years observed in Region South Asia. "
    ],
    "xAxis": "Region",
-   "yAxis": "SOME LABEL",
+   "yAxis": "Life expectancy in years",
    "min_summary": [
-      "This grouped bar chart represents 6 different Regions on X-axis for 2 groups Males, and Females. On the Y-axis it shows their corresponding SOME LABEL. ",
-      " Out of all 2 groups, Females had the highest SOME LABEL in Region East Asia and Males had the lowest SOME LABEL in Region South Asia. "
+      "This grouped bar chart represents 6 different Regions on X-axis for 2 groups Males, and Females. On the Y-axis it shows their corresponding Life expectancy in years. ",
+      " Out of all 2 groups, Females had the highest Life expectancy in years in Region East Asia and Males had the lowest Life expectancy in years in Region South Asia. "
    ],
    "mid_summary": [
-      "This grouped bar chart represents 6 different Regions on X-axis for 2 groups Males, and Females. On the Y-axis it shows their corresponding SOME LABEL. ",
-      " Out of all 2 groups, Females had the highest SOME LABEL in Region East Asia and Males had the lowest SOME LABEL in Region South Asia. ",
-      " In Region East Asia, Females had the maximum SOME LABEL and it saw the lowest in Region South Asia out of all 6 Regions. ",
-      " The maximum SOME LABEL for Females that was found in Region East Asia was 1.13 times larger than the minimum SOME LABEL observed in Region South Asia. "
+      "This grouped bar chart shows Life expectancy in years on the Y-axis for 6 different Regions for 2 groups Males, and Females that are presented on the X-axis. ",
+      " In Region East Asia, Females had the highest Life expectancy in years 80.0 among the 2 groups and in South Asia, Males had the lowest Life expectancy in years 68.0. ",
+      " Among all the Regions, Males had the highest Life expectancy in years in Region East Asia and lowest Life expectancy in years in Region South Asia. ",
+      " The maximum Life expectancy in years for Males that was found in Region East Asia was 1.1 times larger than the minimum Life expectancy in years observed in Region South Asia. "
    ],
    "max_summary": [
-      "This grouped bar chart represents 6 different Regions on X-axis for 2 groups Males, and Females. On the Y-axis it shows their corresponding SOME LABEL. ",
-      " Out of all 2 groups, Females had the highest SOME LABEL in Region East Asia and Males had the lowest SOME LABEL in Region South Asia. ",
-      " Among all the Regions, Females had the highest SOME LABEL in Region East Asia and lowest SOME LABEL in Region South Asia. ",
-      " The maximum SOME LABEL for Females that was found in Region East Asia was 1.13 times larger than the minimum SOME LABEL observed in Region South Asia. ",
-      " Among the groups, Males had the biggest difference in SOME LABEL. Where the maximum SOME LABEL was 1.1 times larger than the minimum SOME LABEL. ",
-      "Averaging all 2 groups Males, and Females, the Region East Asia is the maximum SOME LABEL and South Asia is the minimum SOME LABEL. "
+      "This grouped bar chart represents 6 different Regions on X-axis for 2 groups Males, and Females. On the Y-axis it shows their corresponding Life expectancy in years. ",
+      " Out of all 2 groups, Females had the highest Life expectancy in years in Region East Asia and Males had the lowest Life expectancy in years in Region South Asia. ",
+      " In Region East Asia, Males had the maximum Life expectancy in years and it saw the lowest in Region South Asia out of all 6 Regions. ",
+      " The maximum Life expectancy in years for Males that was found in Region East Asia was 1.1 times larger than the minimum Life expectancy in years observed in Region South Asia. ",
+      " Out of all 2 groups, the highest gap between the maximum and minimum Life expectancy in years was found in case of Males. ",
+      "Averaging all 2 groups Males, and Females, the Region East Asia is the maximum Life expectancy in years and South Asia is the minimum Life expectancy in years. "
    ],
    "trends": [
       {},

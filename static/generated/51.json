@@ -9,35 +9,21 @@
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This is a multi-line chart with 2 lines representing Men, and Women. The y axis denotes Number of suicides in per 100 thousands and the x axis denotes Year.",
-      "Overall Men, and Women are gradually increasing,  throughout the Year",
-      "The ranking of the lines from topmost to botommmost is as follows: 1. Men, and lastly, 2. Women. ",
-      "Overall across the Year, Men mostly maintained the highest Number of suicides in per 100 thousands when compared to others with a mean value of 177.8, and it peaked at 15-44_years.",
-      "Women mostly had the least Number of suicides in per 100 thousands with a mean value of 76.6, which peaked at 15-44_years with a value of 151.0. ",
-      "The difference of Number of suicides in per 100 thousands between Men and Women is greater at Year 75_years_and_older compared to the Year 1-14_years."
+      "Overall Men, and Women are gradually decreasing,  throughout the Year",
+      "The order of lines according to average values of Number of suicides in per 100 thousands, in descending order is: 1. Men, and lastly, 2. Women. ",
+      "The difference of Number of suicides in per 100 thousands between Men and Women is smaller at Year 75_years_and_older compared to the Year 15-44_years."
    ],
    "xAxis": "Year",
    "yAxis": "Number of suicides in per 100 thousands",
    "min_summary": [
-      "The given chart is of multi-line type with 2 lines namely Men, and Women. The y axis represents Number of suicides in per 100 thousands and the x axis represents Year.",
-      "Overall Men, and Women are gradually increasing,  throughout the Year",
-      "Overall across the Year, Men mostly maintained the highest Number of suicides in per 100 thousands when compared to others with a mean value of 177.8, and it peaked at 15-44_years.",
-      "Women mostly had the least Number of suicides in per 100 thousands with a mean value of 76.6, which peaked at 15-44_years with a value of 151.0. "
+      "Overall Men, and Women are gradually decreasing,  throughout the Year"
    ],
    "mid_summary": [
-      "The given chart is of multi-line type with 2 lines namely Men, and Women. The y axis represents Number of suicides in per 100 thousands and the x axis represents Year.",
-      "Overall Men, and Women are gradually increasing,  throughout the Year",
-      "The ranking of the lines from topmost to botommmost is as follows: 1. Men, and lastly, 2. Women. ",
-      "Throughout the period, Men generally had the highest Number of suicides in per 100 thousands relative to others with an average of 177.8, and it reached its maximum at 15-44_years with a value of 361.0.",
-      "The botommost line, Women,  has a mean of 76.6, and peaked at 15-44_years. "
+      "Overall Men, and Women are gradually decreasing,  throughout the Year"
    ],
    "max_summary": [
-      "You are viewing a chart of multi-line type with 2 lines denoting Men, and Women. The y axis indicates the Number of suicides in per 100 thousands and the x axis indicates Year.",
-      "Overall Men, and Women are gradually increasing,  throughout the Year",
-      "The ranking of the lines from topmost to botommmost is as follows: 1. Men, and lastly, 2. Women. ",
-      "Overall across the Year, Men mostly maintained the highest Number of suicides in per 100 thousands when compared to others with a mean value of 177.8, and it peaked at 15-44_years.",
-      "The botommost line, Women,  has a mean of 76.6, and peaked at 15-44_years. ",
-      "The difference of Number of suicides in per 100 thousands between Men and Women is greater at Year 75_years_and_older compared to the Year 1-14_years."
+      "Overall Men, and Women are gradually decreasing,  throughout the Year",
+      "The greatest difference of Number of suicides in per 100 thousands between Men and Women occurs at Year 15-44_years and the smallest difference occurs at 75_years_and_older."
    ],
    "trends": [
       {},
@@ -53,11 +39,11 @@
       },
       {
          "1": [
-            "3",
+            "0",
             "0"
          ],
          "9": [
-            "3",
+            "0",
             "0"
          ]
       },
@@ -73,11 +59,11 @@
       },
       {
          "1": [
-            "3",
+            "0",
             "1"
          ],
          "10": [
-            "3",
+            "0",
             "1"
          ]
       }

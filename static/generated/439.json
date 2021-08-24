@@ -6,27 +6,26 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This is a bar chart. It shows Share of respondents for 10 number of Responses. ",
-      "Response Made a mobile payment has the highest Share of respondents and Sent money internationally has the lowest Share of respondents. ",
+      "This bar chart has 10 columns on the x axis representing Response, and Share of respondents in each Response on the y axis. ",
+      "The maximum Share of respondents 64.0 is found at Response Made a mobile payment and the minimum is found at Sent money internationally where Response is 2.0. ",
       "The highest Response Made a mobile payment has 62.0 more Share of respondents than the lowest Response Sent money internationally. "
    ],
    "min_summary": [
       "This bar chart has 10 columns on the x axis representing Response, and Share of respondents in each Response on the y axis. ",
-      "The maximum Share of respondents 64.0 is found at Response Made a mobile payment and the minimum is found at Sent money internationally where Response is 2.0. "
+      "The Share of respondents is appeared to be the highest at Response Made a mobile payment and lowest at Response Sent money internationally. "
    ],
    "mid_summary": [
-      "This is a bar chart. It shows Share of respondents for 10 number of Responses. ",
-      "Response Made a mobile payment has the highest Share of respondents and Sent money internationally has the lowest Share of respondents. ",
+      "This bar chart has 10 columns on the x axis representing Response, and Share of respondents in each Response on the y axis. ",
+      "The maximum Share of respondents 64.0 is found at Response Made a mobile payment and the minimum is found at Sent money internationally where Response is 2.0. ",
       "The highest Response Made a mobile payment has 62.0 more Share of respondents than the lowest Response Sent money internationally. "
    ],
    "max_summary": [
       "This is a bar chart representing Response in the x axis and Share of respondents in the y axis. ",
-      "The Share of respondents is appeared to be the highest at Response Made a mobile payment and lowest at Response Sent money internationally. ",
-      "Second maximum Share of respondents is found at Response Paid a bill. ",
-      "The highest Response Made a mobile payment has 62.0 more Share of respondents than the lowest Response Sent money internationally. ",
-      "The Response Made a mobile payment has the highest Share of respondents, followed by Paid a bill, and Purchase in-app or online. Down to the Response Sent money internationally which is the lowest. ",
-      "The average Share of respondents in all 10 Responses is 24.8. ",
-      "The Share of respondents is 248.0 if we add up values of all Responses. "
+      "Response Made a mobile payment has the highest Share of respondents and Sent money internationally has the lowest Share of respondents. ",
+      "The second highest Share of respondents is appeared to be the Response Paid a bill. ",
+      "The minimum Response Sent money internationally has got 32.0 times less Share of respondents than the maximum Response Made a mobile payment. ",
+      "Share of respondents at Response Made a mobile payment is 64.0 , second place is Paid a bill at 49.0, and thirdly is Purchase in-app or online at 44.0.",
+      "The Response Made a mobile payment has 2.58 times more Share of respondents than average. "
    ],
    "trends": [
       {},

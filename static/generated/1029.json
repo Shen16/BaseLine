@@ -6,28 +6,27 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 10 columns on the x axis representing Month, and Percentage of all causes of death in each Month on the y axis. ",
-      "The Percentage of all causes of death is highest at Month Diseases of the heart and lowest at Month Septicemia. ",
-      "The Percentage of all causes of death of Month Septicemia is 11.65% smaller than the maximum value at Diseases of the heart. "
+      "This is a bar chart representing Month in the x axis and Percentage of all causes of death in the y axis. ",
+      "The Percentage of all causes of death is appeared to be the highest at Month Diseases of the heart and lowest at Month Septicemia. ",
+      "There is a difference of 21.3 between the maximum Month Diseases of the heart and minimum Month Septicemia. "
    ],
    "min_summary": [
-      "This is a bar chart representing Month in the x axis and Percentage of all causes of death in the y axis. ",
-      "The Percentage of all causes of death is highest at Month Diseases of the heart and lowest at Month Septicemia. "
+      "This bar chart has 10 columns on the x axis representing Month, and Percentage of all causes of death in each Month on the y axis. ",
+      "The Percentage of all causes of death is appeared to be the highest at Month Diseases of the heart and lowest at Month Septicemia. "
    ],
    "mid_summary": [
-      "This bar chart has 10 columns on the x axis representing Month, and Percentage of all causes of death in each Month on the y axis. ",
-      "The Percentage of all causes of death is highest at Month Diseases of the heart and lowest at Month Septicemia. ",
-      "The Percentage of all causes of death of Month Septicemia is 11.65% smaller than the maximum value at Diseases of the heart. "
+      "This is a bar chart representing Month in the x axis and Percentage of all causes of death in the y axis. ",
+      "The Percentage of all causes of death is appeared to be the highest at Month Diseases of the heart and lowest at Month Septicemia. ",
+      "There is a difference of 21.3 between the maximum Month Diseases of the heart and minimum Month Septicemia. "
    ],
    "max_summary": [
-      "This is a bar chart representing Month in the x axis and Percentage of all causes of death in the y axis. ",
-      "Month Diseases of the heart has the highest Percentage of all causes of death and Septicemia has the lowest Percentage of all causes of death. ",
-      "Month Malignant neoplasms (cancers) has the second highest value for Percentage of all causes of death. ",
-      "Month Septicemia has 11.65 times less Percentage of all causes of death than Month Diseases of the heart which is the highest. ",
-      "Month Diseases of the heart is higher than any other Months with value 23.3, followed by Malignant neoplasms (cancers), and Accidents (unintentional injuries). Down to Month Septicemia with the lowest value 2.0. ",
-      "Over the past 10 Months, the Percentage of all causes of death has decreased. ",
-      "The Month Diseases of the heart tends to be 3.15 percent higher than average. ",
-      "The Percentage of all causes of death is 73.9 if we add up values of all Months. "
+      "This bar chart has 10 columns on the x axis representing Month, and Percentage of all causes of death in each Month on the y axis. ",
+      "The maximum Percentage of all causes of death 23.3 is found at Month Diseases of the heart and the minimum is found at Septicemia where Month is 2.0. ",
+      "The difference of Percentage of all causes of death between the highest and lowest Month is 21.3. ",
+      "Percentage of all causes of death at Month Diseases of the heart is 23.3 , second place is Malignant neoplasms (cancers) at 20.8, and thirdly is Accidents (unintentional injuries) at 5.9.",
+      "Overall Percentage of all causes of death has lowered over the Months. ",
+      "The Month Septicemia has 3.15 times less Percentage of all causes of death than average. ",
+      "Summing up the values of all Months, we get total 73.9. "
    ],
    "trends": [
       {},

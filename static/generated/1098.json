@@ -9,35 +9,21 @@
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "You are viewing a chart of multi-line type with 2 lines denoting Yes, and No. The y axis indicates the SOME LABEL and the x axis indicates Year.",
-      "Overall No is gradually increasing, Yes is gradually decreasing,  throughout the Year",
-      "The lines ordered according to average values of SOME LABEL in descending order is: 1. Yes, and lastly, 2. No. ",
-      "Overall across the Year, Yes mostly maintained the highest SOME LABEL when compared to others with a mean value of 52.33, and it peaked at 18-34_years.",
-      "No mostly had the least SOME LABEL with a mean value of 47.67, which peaked at 65+_years with a value of 53.0. ",
-      "The greatest difference of SOME LABEL between Yes and No occurs at Year 18-34_years and the smallest difference occurs at 35-44_years."
+      "Overall Yes is gradually increasing, No is gradually decreasing,  throughout the Year",
+      "The order of lines according to average values of Share of respondents, in descending order is: 1. Yes, and lastly, 2. No. ",
+      "The greatest difference of Share of respondents between Yes and No occurs at Year 45-54_years and the smallest difference occurs at 35-44_years."
    ],
    "xAxis": "Year",
-   "yAxis": "SOME LABEL",
+   "yAxis": "Share of respondents",
    "min_summary": [
-      "You are viewing a chart of multi-line type with 2 lines denoting Yes, and No. The y axis indicates the SOME LABEL and the x axis indicates Year.",
-      "Overall No is gradually increasing, Yes is gradually decreasing,  throughout the Year",
-      "Overall across the Year, Yes mostly maintained the highest SOME LABEL when compared to others with a mean value of 52.33, and it peaked at 18-34_years.",
-      "The botommost line, No,  has a mean of 47.67, and peaked at 65+_years. "
+      "Overall Yes is gradually increasing, No is gradually decreasing,  throughout the Year"
    ],
    "mid_summary": [
-      "This is a multi-line chart with 2 lines representing Yes, and No. The y axis denotes SOME LABEL and the x axis denotes Year.",
-      "Overall No is gradually increasing, Yes is gradually decreasing,  throughout the Year",
-      "The lines ordered according to average values of SOME LABEL in descending order is: 1. Yes, and lastly, 2. No. ",
-      "Overall across the Year, Yes mostly maintained the highest SOME LABEL when compared to others with a mean value of 52.33, and it peaked at 18-34_years.",
-      "The botommost line, No,  has a mean of 47.67, and peaked at 65+_years. "
+      "Overall Yes is gradually increasing, No is gradually decreasing,  throughout the Year"
    ],
    "max_summary": [
-      "This is a multi-line chart with 2 lines representing Yes, and No. The y axis denotes SOME LABEL and the x axis denotes Year.",
-      "Overall No is gradually increasing, Yes is gradually decreasing,  throughout the Year",
-      "The lines ordered according to average values of SOME LABEL in descending order is: 1. Yes, and lastly, 2. No. ",
-      "Overall across the Year, Yes mostly maintained the highest SOME LABEL when compared to others with a mean value of 52.33, and it peaked at 18-34_years.",
-      "The botommost line, No,  has a mean of 47.67, and peaked at 65+_years. ",
-      "The difference of SOME LABEL between Yes and No is smaller at Year Total compared to the Year 18-34_years."
+      "Overall Yes is gradually increasing, No is gradually decreasing,  throughout the Year",
+      "The greatest difference of Share of respondents between Yes and No occurs at Year 45-54_years and the smallest difference occurs at 35-44_years."
    ],
    "trends": [
       {},
@@ -73,11 +59,11 @@
       },
       {
          "1": [
-            "5",
+            "3",
             "1"
          ],
          "10": [
-            "5",
+            "3",
             "1"
          ]
       }

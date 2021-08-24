@@ -12,77 +12,61 @@
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This is a multi-line chart with 5 lines representing Immunology, Cardiovascular/Metabolism/Other, Oncology, Central nervous system, and Anti-infectives. The y axis denotes SOME LABEL and the x axis denotes Year.",
-      "Overall Immunology, Cardiovascular/Metabolism/Other, Oncology, Central nervous system, and Anti-infectives are roughly constant,  throughout the Year",
-      "Throughout the period, Oncology generally had the highest SOME LABEL relative to others with an average of 83.81, and it reached its maximum at 2019 with a value of 988.0.",
-      "Followed by Immunology which ranks as the second topmpost line , with an average of 10.8 SOME LABEL,reaching its highest point  at 2019 with a value of 12.4. ",
-      "Anti-infectives mostly had the least SOME LABEL with a mean value of 4.16, which peaked at 2024 with a value of 5.94. ",
-      "Oncology reported the lowest SOME LABEL about 2.63 in Year 2012"
+      "Overall Immunology, Cardiovascular/Metabolism/Other, and Oncology are gradually increasing, Anti-infectives is gradually decreasing, Central nervous system is roughly constant,  throughout the Year",
+      "Anti-infectives reported the lowest Revenue in billion U.S. dollars about 3.15 in Year 2017"
    ],
    "xAxis": "Year",
-   "yAxis": "SOME LABEL",
+   "yAxis": "Revenue in billion U.S. dollars",
    "min_summary": [
-      "You are viewing a chart of multi-line type with 5 lines denoting Immunology, Cardiovascular/Metabolism/Other, Oncology, Central nervous system, and Anti-infectives. The y axis indicates the SOME LABEL and the x axis indicates Year.",
-      "Overall Immunology, Cardiovascular/Metabolism/Other, Oncology, Central nervous system, and Anti-infectives are roughly constant,  throughout the Year",
-      "Overall across the Year, Oncology mostly maintained the highest SOME LABEL when compared to others with a mean value of 83.81, and it peaked at 2019.",
-      "Followed by Immunology which ranks as the second topmpost line , with an average of 10.8 SOME LABEL,reaching its highest point  at 2019 with a value of 12.4. ",
-      "Anti-infectives mostly had the least SOME LABEL with a mean value of 4.16, which peaked at 2024 with a value of 5.94. "
+      "Overall Immunology, Cardiovascular/Metabolism/Other, and Oncology are gradually increasing, Anti-infectives is gradually decreasing, Central nervous system is roughly constant,  throughout the Year"
    ],
    "mid_summary": [
-      "You are viewing a chart of multi-line type with 5 lines denoting Immunology, Cardiovascular/Metabolism/Other, Oncology, Central nervous system, and Anti-infectives. The y axis indicates the SOME LABEL and the x axis indicates Year.",
-      "Overall Immunology, Cardiovascular/Metabolism/Other, Oncology, Central nervous system, and Anti-infectives are roughly constant,  throughout the Year",
-      "Overall across the Year, Oncology mostly maintained the highest SOME LABEL when compared to others with a mean value of 83.81, and it peaked at 2019.",
-      "After Oncology, Immunology overall has the second highest values , with a mean value of 10.8, peaking at 2019. ",
-      "The botommost line, Anti-infectives,  has a mean of 4.16, and peaked at 2024. "
+      "Overall Immunology, Cardiovascular/Metabolism/Other, and Oncology are gradually increasing, Anti-infectives is gradually decreasing, Central nervous system is roughly constant,  throughout the Year"
    ],
    "max_summary": [
-      "This is a multi-line chart with 5 lines representing Immunology, Cardiovascular/Metabolism/Other, Oncology, Central nervous system, and Anti-infectives. The y axis denotes SOME LABEL and the x axis denotes Year.",
-      "Overall Immunology, Cardiovascular/Metabolism/Other, Oncology, Central nervous system, and Anti-infectives are roughly constant,  throughout the Year",
-      "Overall across the Year, Oncology mostly maintained the highest SOME LABEL when compared to others with a mean value of 83.81, and it peaked at 2019.",
-      "Followed by Immunology which ranks as the second topmpost line , with an average of 10.8 SOME LABEL,reaching its highest point  at 2019 with a value of 12.4. ",
-      "The botommost line, Anti-infectives,  has a mean of 4.16, and peaked at 2024. ",
-      "The minimum SOME LABEL about 2.63, occured at 2012 by Oncology."
+      "Overall Immunology, Cardiovascular/Metabolism/Other, and Oncology are gradually increasing, Anti-infectives is gradually decreasing, Central nervous system is roughly constant,  throughout the Year",
+      "The minimum Revenue in billion U.S. dollars about 3.15, occured at 2017 by Anti-infectives."
    ],
    "trends": [
       {},
       {
          "2": [
             "0",
-            "2"
+            "0"
          ],
          "16": [
             "12",
-            "2"
+            "0"
          ]
       },
       {
          "1": [
-            "7",
-            "2"
+            "3",
+            "0"
          ],
          "9": [
-            "7",
-            "2"
+            "3",
+            "0"
          ]
       },
       {
          "2": [
             "0",
-            "0"
+            "3"
          ],
          "15": [
             "12",
-            "0"
+            "3"
          ]
       },
       {
          "1": [
-            "7",
-            "0"
+            "0",
+            "3"
          ],
          "10": [
-            "7",
-            "0"
+            "0",
+            "3"
          ]
       }
    ],

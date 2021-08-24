@@ -9,30 +9,30 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart shows SOME LABEL on the Y-axis for 9 different Countrys for 2 groups Q2 2019, and Q3 2019 that are presented on the X-axis. ",
-      " In Country United States, Q2 2019 had the highest SOME LABEL 3607.0 among the 2 groups and in Belgium, Q2 2019 had the lowest SOME LABEL 0.0. ",
-      " In Country United States, Q2 2019 had the maximum SOME LABEL and it saw the lowest in Country Belgium out of all 9 Countrys. ",
-      " There is a gap of 3606.0 between the highest and lowest SOME LABEL found for Q2 2019 in Country United States and Belgium. "
+      "This grouped bar chart represents 9 different Countrys on X-axis for 2 groups Q2 2019, and Q3 2019. On the Y-axis it shows their corresponding Share of FDI. ",
+      " In Country United States, Q2 2019 had the highest Share of FDI 3607.0 among the 2 groups and in Belgium, Q2 2019 had the lowest Share of FDI 0.0. ",
+      " In Country United States, Q2 2019 had the highest Share of FDI among all 9 Countrys and it has the lowest Share of FDI in Country Belgium. ",
+      " There is a gap of 3606.0 between the highest and lowest Share of FDI found for Q2 2019 in Country United States and Belgium. "
    ],
    "xAxis": "Country",
-   "yAxis": "SOME LABEL",
+   "yAxis": "Share of FDI",
    "min_summary": [
-      "This grouped bar chart shows SOME LABEL on the Y-axis for 9 different Countrys for 2 groups Q2 2019, and Q3 2019 that are presented on the X-axis. ",
-      " Country United States had the maximum SOME LABEL among all 2 groups, and it was for Q2 2019. The minimum SOME LABEL was observed in Country Belgium for Q2 2019. "
+      "This grouped bar chart represents 9 different Countrys on X-axis for 2 groups Q2 2019, and Q3 2019. On the Y-axis it shows their corresponding Share of FDI. ",
+      " Out of all 2 groups, Q2 2019 had the highest Share of FDI in Country United States and Q2 2019 had the lowest Share of FDI in Country Belgium. "
    ],
    "mid_summary": [
-      "This grouped bar chart shows SOME LABEL on the Y-axis for 9 different Countrys for 2 groups Q2 2019, and Q3 2019 that are presented on the X-axis. ",
-      " In Country United States, Q2 2019 had the highest SOME LABEL 3607.0 among the 2 groups and in Belgium, Q2 2019 had the lowest SOME LABEL 0.0. ",
-      " In Country United States, Q2 2019 had the maximum SOME LABEL and it saw the lowest in Country Belgium out of all 9 Countrys. ",
-      " There is a gap of 3606.0 between the highest and lowest SOME LABEL found for Q2 2019 in Country United States and Belgium. "
+      "This grouped bar chart represents 9 different Countrys on X-axis for 2 groups Q2 2019, and Q3 2019. On the Y-axis it shows their corresponding Share of FDI. ",
+      " In Country United States, Q2 2019 had the highest Share of FDI 3607.0 among the 2 groups and in Belgium, Q2 2019 had the lowest Share of FDI 0.0. ",
+      " In Country United States, Q2 2019 had the highest Share of FDI among all 9 Countrys and it has the lowest Share of FDI in Country Belgium. ",
+      " There is a gap of 3606.0 between the highest and lowest Share of FDI found for Q2 2019 in Country United States and Belgium. "
    ],
    "max_summary": [
-      "This grouped bar chart represents 9 different Countrys on X-axis for 2 groups Q2 2019, and Q3 2019. On the Y-axis it shows their corresponding SOME LABEL. ",
-      " In Country United States, Q2 2019 had the highest SOME LABEL 3607.0 among the 2 groups and in Belgium, Q2 2019 had the lowest SOME LABEL 0.0. ",
-      " Among all the Countrys, Q2 2019 had the highest SOME LABEL 3607.0 in Country United States and lowest value 0.0 in Country Belgium. ",
-      " There is a gap of 3606.0 between the highest and lowest SOME LABEL found for Q2 2019 in Country United States and Belgium. ",
-      " Among the groups, Q2 2019 had the biggest difference in SOME LABEL. Where the maximum SOME LABEL was 3607.0 times larger than the minimum SOME LABEL. ",
-      "On average, the Country United States had the highest SOME LABEL for all 2 groups Q2 2019, and Q3 2019. Whereas Belgium had the lowest average SOME LABEL. "
+      "This grouped bar chart shows Share of FDI on the Y-axis for 9 different Countrys for 2 groups Q2 2019, and Q3 2019 that are presented on the X-axis. ",
+      " Country United States had the maximum Share of FDI among all 2 groups, and it was for Q2 2019. The minimum Share of FDI was observed in Country Belgium for Q2 2019. ",
+      " In Country United States, Q2 2019 had the highest Share of FDI among all 9 Countrys and it has the lowest Share of FDI in Country Belgium. ",
+      "Country United States and Belgium had the biggest gap of 3606.0 between the highest and lowest Share of FDI found for Q2 2019. ",
+      " Out of all 2 groups, the highest gap between the maximum and minimum Share of FDI was found in case of Q2 2019. ",
+      "Averaging all 2 groups Q2 2019, and Q3 2019, the Country United States is the maximum Share of FDI and Belgium is the minimum Share of FDI. "
    ],
    "trends": [
       {},

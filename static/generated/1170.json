@@ -6,25 +6,26 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 7 columns on the x axis representing Average usual weekly hours, and Number of employed person in thousands in each Average usual weekly hours on the y axis. ",
+      "This is a bar chart representing Average usual weekly hours in the x axis and Number of employed person in thousands in the y axis. ",
       "Average usual weekly hours 40 hours has the highest Number of employed person in thousands and 41 to 49 hours has the lowest Number of employed person in thousands. ",
-      "The Number of employed person in thousands of Average usual weekly hours 41 to 49 hours is 6.97% smaller than the maximum value at 40 hours. "
+      "There is a difference of 6238.3 between the maximum Average usual weekly hours 40 hours and minimum Average usual weekly hours 41 to 49 hours. "
    ],
    "min_summary": [
       "This bar chart has 7 columns on the x axis representing Average usual weekly hours, and Number of employed person in thousands in each Average usual weekly hours on the y axis. ",
-      "The Number of employed person in thousands is appeared to be the highest at Average usual weekly hours 40 hours and lowest at Average usual weekly hours 41 to 49 hours. "
+      "The Number of employed person in thousands is highest at Average usual weekly hours 40 hours and lowest at Average usual weekly hours 41 to 49 hours. "
    ],
    "mid_summary": [
-      "This bar chart has 7 columns on the x axis representing Average usual weekly hours, and Number of employed person in thousands in each Average usual weekly hours on the y axis. ",
+      "This is a bar chart representing Average usual weekly hours in the x axis and Number of employed person in thousands in the y axis. ",
       "Average usual weekly hours 40 hours has the highest Number of employed person in thousands and 41 to 49 hours has the lowest Number of employed person in thousands. ",
-      "The Number of employed person in thousands of Average usual weekly hours 41 to 49 hours is 6.97% smaller than the maximum value at 40 hours. "
+      "There is a difference of 6238.3 between the maximum Average usual weekly hours 40 hours and minimum Average usual weekly hours 41 to 49 hours. "
    ],
    "max_summary": [
       "This is a bar chart representing Average usual weekly hours in the x axis and Number of employed person in thousands in the y axis. ",
-      "Average usual weekly hours 40 hours has the highest Number of employed person in thousands and 41 to 49 hours has the lowest Number of employed person in thousands. ",
-      "The difference of Number of employed person in thousands between the highest and lowest Average usual weekly hours is 6238.3. ",
+      "The Number of employed person in thousands is appeared to be the highest at Average usual weekly hours 40 hours and lowest at Average usual weekly hours 41 to 49 hours. ",
+      "Average usual weekly hours 35 to 39 hours has the second highest value for Number of employed person in thousands. ",
+      "Average usual weekly hours 40 hours has 6.97 times more Number of employed person in thousands than Average usual weekly hours 41 to 49 hours which is has the lowest. ",
       "The Average usual weekly hours 40 hours has the highest Number of employed person in thousands, followed by 35 to 39 hours, and 15 to 29 hours. Down to the Average usual weekly hours 41 to 49 hours which is the lowest. ",
-      "The average Number of employed person in thousands in all 7 Average usual weekly hourss is 2722.23. "
+      "The Average usual weekly hours 40 hours has 2.68 times more Number of employed person in thousands than average. "
    ],
    "trends": [
       {},

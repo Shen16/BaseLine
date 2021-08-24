@@ -13,36 +13,14 @@
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "The given chart is of multi-line type with 6 lines namely Paraffinic Group I, Paraffinic Group II, Paraffinic Group III, Naphthenic, Synthetic, and Other. The y axis represents SOME LABEL and the x axis represents Year.",
-      "Overall Paraffinic Group II, Paraffinic Group III, and Synthetic are gradually increasing, Paraffinic Group I, and Naphthenic are gradually decreasing, Other is roughly constant,  throughout the Year",
-      "Overall across the Year, Paraffinic Group I mostly maintained the highest SOME LABEL when compared to others with a mean value of 45.67, and it peaked at 2015.",
-      "After Paraffinic Group I, Paraffinic Group II overall has the second highest values , with a mean value of 26.0, peaking at 2030. ",
-      "Other mostly had the least SOME LABEL with a mean value of 1.0, which peaked at 2020 with a value of 2.0. ",
-      "The minimum SOME LABEL about 0.0, occured at 2030 by Other."
+      "The minimum Share of projected demand about 0.0, occured at 2030 by Other."
    ],
    "xAxis": "Year",
-   "yAxis": "SOME LABEL",
-   "min_summary": [
-      "You are viewing a chart of multi-line type with 6 lines denoting Paraffinic Group I, Paraffinic Group II, Paraffinic Group III, Naphthenic, Synthetic, and Other. The y axis indicates the SOME LABEL and the x axis indicates Year.",
-      "Overall Paraffinic Group II, Paraffinic Group III, and Synthetic are gradually increasing, Paraffinic Group I, and Naphthenic are gradually decreasing, Other is roughly constant,  throughout the Year",
-      "Overall across the Year, Paraffinic Group I mostly maintained the highest SOME LABEL when compared to others with a mean value of 45.67, and it peaked at 2015.",
-      "Followed by Paraffinic Group II which ranks as the second topmpost line , with an average of 26.0 SOME LABEL,reaching its highest point  at 2030 with a value of 31.0. ",
-      "The botommost line, Other,  has a mean of 1.0, and peaked at 2020. "
-   ],
-   "mid_summary": [
-      "The given chart is of multi-line type with 6 lines namely Paraffinic Group I, Paraffinic Group II, Paraffinic Group III, Naphthenic, Synthetic, and Other. The y axis represents SOME LABEL and the x axis represents Year.",
-      "Overall Paraffinic Group II, Paraffinic Group III, and Synthetic are gradually increasing, Paraffinic Group I, and Naphthenic are gradually decreasing, Other is roughly constant,  throughout the Year",
-      "Overall across the Year, Paraffinic Group I mostly maintained the highest SOME LABEL when compared to others with a mean value of 45.67, and it peaked at 2015.",
-      "Followed by Paraffinic Group II which ranks as the second topmpost line , with an average of 26.0 SOME LABEL,reaching its highest point  at 2030 with a value of 31.0. ",
-      "The botommost line, Other,  has a mean of 1.0, and peaked at 2020. "
-   ],
+   "yAxis": "Share of projected demand",
+   "min_summary": [],
+   "mid_summary": [],
    "max_summary": [
-      "The given chart is of multi-line type with 6 lines namely Paraffinic Group I, Paraffinic Group II, Paraffinic Group III, Naphthenic, Synthetic, and Other. The y axis represents SOME LABEL and the x axis represents Year.",
-      "Overall Paraffinic Group II, Paraffinic Group III, and Synthetic are gradually increasing, Paraffinic Group I, and Naphthenic are gradually decreasing, Other is roughly constant,  throughout the Year",
-      "Throughout the period, Paraffinic Group I generally had the highest SOME LABEL relative to others with an average of 45.67, and it reached its maximum at 2015 with a value of 54.0.",
-      "Followed by Paraffinic Group II which ranks as the second topmpost line , with an average of 26.0 SOME LABEL,reaching its highest point  at 2030 with a value of 31.0. ",
-      "Other mostly had the least SOME LABEL with a mean value of 1.0, which peaked at 2020 with a value of 2.0. ",
-      "Other reported the lowest SOME LABEL about 0.0 in Year 2030"
+      "Other reported the lowest Share of projected demand about 0.0 in Year 2030"
    ],
    "trends": [
       {},
@@ -78,11 +56,11 @@
       },
       {
          "1": [
-            "2",
+            "0",
             "1"
          ],
          "10": [
-            "2",
+            "0",
             "1"
          ]
       }

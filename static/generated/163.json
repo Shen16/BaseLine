@@ -6,27 +6,26 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 26 columns on the x axis representing Quarter, and Expenditure in million GBP in each Quarter on the y axis. ",
-      "The maximum Expenditure in million GBP 1484.0 is found at Quarter Q3 2018 and the minimum is found at Q3 2013 where Quarter is 903.0. ",
-      "The highest Quarter Q3 2018 has 581.0 more Expenditure in million GBP than the lowest Quarter Q3 2013. "
+      "This is a bar chart representing Quarter in the x axis and Expenditure in million GBP in the y axis. ",
+      "The Expenditure in million GBP is appeared to be the highest at Quarter Q3 2018 and lowest at Quarter Q3 2013. ",
+      "The maximum Quarter Q3 2018 has got 1.64 times higher Expenditure in million GBP than the minimum Quarter Q3 2013. "
    ],
    "min_summary": [
       "This bar chart has 26 columns on the x axis representing Quarter, and Expenditure in million GBP in each Quarter on the y axis. ",
-      "The maximum Expenditure in million GBP 1484.0 is found at Quarter Q3 2018 and the minimum is found at Q3 2013 where Quarter is 903.0. "
+      "Quarter Q3 2018 has the highest Expenditure in million GBP and Q3 2013 has the lowest Expenditure in million GBP. "
    ],
    "mid_summary": [
-      "This bar chart has 26 columns on the x axis representing Quarter, and Expenditure in million GBP in each Quarter on the y axis. ",
-      "The maximum Expenditure in million GBP 1484.0 is found at Quarter Q3 2018 and the minimum is found at Q3 2013 where Quarter is 903.0. ",
-      "The highest Quarter Q3 2018 has 581.0 more Expenditure in million GBP than the lowest Quarter Q3 2013. "
+      "This is a bar chart representing Quarter in the x axis and Expenditure in million GBP in the y axis. ",
+      "The Expenditure in million GBP is appeared to be the highest at Quarter Q3 2018 and lowest at Quarter Q3 2013. ",
+      "The maximum Quarter Q3 2018 has got 1.64 times higher Expenditure in million GBP than the minimum Quarter Q3 2013. "
    ],
    "max_summary": [
-      "This is a bar chart representing Quarter in the x axis and Expenditure in million GBP in the y axis. ",
-      "The maximum Expenditure in million GBP 1484.0 is found at Quarter Q3 2018 and the minimum is found at Q3 2013 where Quarter is 903.0. ",
-      "The second highest Expenditure in million GBP is appeared to be the Quarter Q4 2018. ",
+      "This bar chart has 26 columns on the x axis representing Quarter, and Expenditure in million GBP in each Quarter on the y axis. ",
+      "Quarter Q3 2018 has the highest Expenditure in million GBP and Q3 2013 has the lowest Expenditure in million GBP. ",
       "There is a difference of 581.0 between the maximum Quarter Q3 2018 and minimum Quarter Q3 2013. ",
-      "Expenditure in million GBP at Quarter Q3 2018 is 1484.0 , second place is Q4 2018 at 1483.0, and thirdly is Q1 2019 at 1480.0.",
-      "Overall Expenditure in million GBP has decreased over the Quarters. ",
-      "Considered together, the average Expenditure in million GBP in all 26 Quarters is roughly 1219.15. ",
+      "Quarter Q3 2018 is higher than any other Quarters with value 1484.0, followed by Q4 2018, and Q1 2019. Down to Quarter Q3 2013 with the lowest value 903.0. ",
+      "Over the past 26 Quarters, the Expenditure in million GBP has declined. ",
+      "The lowest value 903.0 at Q3 2013 is almost 1.22 times smaller than the average value 1219.15. ",
       "The Expenditure in million GBP is 31698.0 if we add up values of all Quarters. "
    ],
    "trends": [

@@ -9,30 +9,30 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart shows SOME LABEL on the Y-axis for 2 different Awards for 2 groups White, and Other Ethnicities that are presented on the X-axis. ",
-      " Out of all 2 groups, White had the highest SOME LABEL in Award Best Actress and Other Ethnicities had the lowest SOME LABEL in Award Best Actress. ",
-      " Among all the Awards, White had the highest SOME LABEL 989.0 in Award Best Actress and lowest value 932.0 in Award Best Actor. ",
-      "Award Best Actress and Best Actor had the biggest gap of 57.0 between the highest and lowest SOME LABEL found for White. "
+      "This grouped bar chart shows Share on the Y-axis for 2 different Awards for 2 groups White, and Other Ethnicities that are presented on the X-axis. ",
+      " Award Best Actress had the maximum Share among all 2 groups, and it was for White. The minimum Share was observed in Award Best Actress for Other Ethnicities. ",
+      " Among all the Awards, Other Ethnicities had the highest Share 68.0 in Award Best Actor and lowest value 11.0 in Award Best Actress. ",
+      " There is a gap of 57.0 between the highest and lowest Share found for Other Ethnicities in Award Best Actor and Best Actress. "
    ],
    "xAxis": "Award",
-   "yAxis": "SOME LABEL",
+   "yAxis": "Share",
    "min_summary": [
-      "This grouped bar chart represents 2 different Awards on X-axis for 2 groups White, and Other Ethnicities. On the Y-axis it shows their corresponding SOME LABEL. ",
-      " In Award Best Actress, White had the highest SOME LABEL 989.0 among the 2 groups and in Best Actress, Other Ethnicities had the lowest SOME LABEL 11.0. "
+      "This grouped bar chart shows Share on the Y-axis for 2 different Awards for 2 groups White, and Other Ethnicities that are presented on the X-axis. ",
+      " In Award Best Actress, White had the highest Share 989.0 among the 2 groups and in Best Actress, Other Ethnicities had the lowest Share 11.0. "
    ],
    "mid_summary": [
-      "This grouped bar chart shows SOME LABEL on the Y-axis for 2 different Awards for 2 groups White, and Other Ethnicities that are presented on the X-axis. ",
-      " Out of all 2 groups, White had the highest SOME LABEL in Award Best Actress and Other Ethnicities had the lowest SOME LABEL in Award Best Actress. ",
-      " Among all the Awards, White had the highest SOME LABEL 989.0 in Award Best Actress and lowest value 932.0 in Award Best Actor. ",
-      "Award Best Actress and Best Actor had the biggest gap of 57.0 between the highest and lowest SOME LABEL found for White. "
+      "This grouped bar chart shows Share on the Y-axis for 2 different Awards for 2 groups White, and Other Ethnicities that are presented on the X-axis. ",
+      " Award Best Actress had the maximum Share among all 2 groups, and it was for White. The minimum Share was observed in Award Best Actress for Other Ethnicities. ",
+      " Among all the Awards, Other Ethnicities had the highest Share 68.0 in Award Best Actor and lowest value 11.0 in Award Best Actress. ",
+      " There is a gap of 57.0 between the highest and lowest Share found for Other Ethnicities in Award Best Actor and Best Actress. "
    ],
    "max_summary": [
-      "This grouped bar chart shows SOME LABEL on the Y-axis for 2 different Awards for 2 groups White, and Other Ethnicities that are presented on the X-axis. ",
-      " Out of all 2 groups, White had the highest SOME LABEL in Award Best Actress and Other Ethnicities had the lowest SOME LABEL in Award Best Actress. ",
-      " Among all the Awards, White had the highest SOME LABEL in Award Best Actress and lowest SOME LABEL in Award Best Actor. ",
-      " There is a gap of 57.0 between the highest and lowest SOME LABEL found for White in Award Best Actress and Best Actor. ",
-      " Among all 2 groups, White had the gap of 57.0 between the maximum and minimum SOME LABEL observed in Award Best Actress and Best Actor respectively. ",
-      "Averaging all 2 groups White, and Other Ethnicities, the Award Best Actor is the maximum SOME LABEL and Best Actress is the minimum SOME LABEL. "
+      "This grouped bar chart shows Share on the Y-axis for 2 different Awards for 2 groups White, and Other Ethnicities that are presented on the X-axis. ",
+      " Award Best Actress had the maximum Share among all 2 groups, and it was for White. The minimum Share was observed in Award Best Actress for Other Ethnicities. ",
+      " In Award Best Actor, Other Ethnicities had the maximum Share and it saw the lowest in Award Best Actress out of all 2 Awards. ",
+      " The maximum Share for Other Ethnicities that was found in Award Best Actor was 6.18 times larger than the minimum Share observed in Award Best Actress. ",
+      " Among the groups, White had the biggest difference in Share. Where the maximum Share was 1.06 times larger than the minimum Share. ",
+      "On average, the Award Best Actor had the highest Share for all 2 groups White, and Other Ethnicities. Whereas Best Actress had the lowest average Share. "
    ],
    "trends": [
       {},

@@ -9,30 +9,30 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart represents 20 different Responses on X-axis for 2 groups 2012, and 2013. On the Y-axis it shows their corresponding SOME LABEL. ",
-      " Out of all 2 groups, 2012 had the highest SOME LABEL in Response Hayat and 2012 had the lowest SOME LABEL in Response Volvic. ",
-      " In Response Erikli, 2013 had the highest SOME LABEL among all 20 Responses and it has the lowest SOME LABEL in Response Volvic. ",
-      " There is a gap of 28.0 between the highest and lowest SOME LABEL found for 2013 in Response Erikli and Volvic. "
+      "This grouped bar chart shows Average penetration rate on the Y-axis for 20 different Responses for 2 groups 2012, and 2013 that are presented on the X-axis. ",
+      " In Response Hayat, 2012 had the highest Average penetration rate 48.0 among the 2 groups and in Volvic, 2012 had the lowest Average penetration rate 0.0. ",
+      " Among all the Responses, 2012 had the highest Average penetration rate in Response Hayat and lowest Average penetration rate in Response Volvic. ",
+      " There is a gap of 47.0 between the highest and lowest Average penetration rate found for 2012 in Response Hayat and Volvic. "
    ],
    "xAxis": "Response",
-   "yAxis": "SOME LABEL",
+   "yAxis": "Average penetration rate",
    "min_summary": [
-      "This grouped bar chart shows SOME LABEL on the Y-axis for 20 different Responses for 2 groups 2012, and 2013 that are presented on the X-axis. ",
-      " Response Hayat had the maximum SOME LABEL among all 2 groups, and it was for 2012. The minimum SOME LABEL was observed in Response Volvic for 2012. "
+      "This grouped bar chart shows Average penetration rate on the Y-axis for 20 different Responses for 2 groups 2012, and 2013 that are presented on the X-axis. ",
+      " Out of all 2 groups, 2012 had the highest Average penetration rate in Response Hayat and 2012 had the lowest Average penetration rate in Response Volvic. "
    ],
    "mid_summary": [
-      "This grouped bar chart represents 20 different Responses on X-axis for 2 groups 2012, and 2013. On the Y-axis it shows their corresponding SOME LABEL. ",
-      " Out of all 2 groups, 2012 had the highest SOME LABEL in Response Hayat and 2012 had the lowest SOME LABEL in Response Volvic. ",
-      " In Response Erikli, 2013 had the highest SOME LABEL among all 20 Responses and it has the lowest SOME LABEL in Response Volvic. ",
-      " There is a gap of 28.0 between the highest and lowest SOME LABEL found for 2013 in Response Erikli and Volvic. "
+      "This grouped bar chart shows Average penetration rate on the Y-axis for 20 different Responses for 2 groups 2012, and 2013 that are presented on the X-axis. ",
+      " In Response Hayat, 2012 had the highest Average penetration rate 48.0 among the 2 groups and in Volvic, 2012 had the lowest Average penetration rate 0.0. ",
+      " Among all the Responses, 2012 had the highest Average penetration rate in Response Hayat and lowest Average penetration rate in Response Volvic. ",
+      " There is a gap of 47.0 between the highest and lowest Average penetration rate found for 2012 in Response Hayat and Volvic. "
    ],
    "max_summary": [
-      "This grouped bar chart shows SOME LABEL on the Y-axis for 20 different Responses for 2 groups 2012, and 2013 that are presented on the X-axis. ",
-      " In Response Hayat, 2012 had the highest SOME LABEL 48.0 among the 2 groups and in Volvic, 2012 had the lowest SOME LABEL 0.0. ",
-      " Among all the Responses, 2013 had the highest SOME LABEL in Response Erikli and lowest SOME LABEL in Response Volvic. ",
-      "Response Erikli and Volvic had the biggest gap of 28.0 between the highest and lowest SOME LABEL found for 2013. ",
-      " Among the groups, 2012 had the biggest difference in SOME LABEL. Where the maximum SOME LABEL was 48.0 times larger than the minimum SOME LABEL. ",
-      "Averaging all 2 groups 2012, and 2013, the Response Hayat is the maximum SOME LABEL and Buxton is the minimum SOME LABEL. "
+      "This grouped bar chart represents 20 different Responses on X-axis for 2 groups 2012, and 2013. On the Y-axis it shows their corresponding Average penetration rate. ",
+      " In Response Hayat, 2012 had the highest Average penetration rate 48.0 among the 2 groups and in Volvic, 2012 had the lowest Average penetration rate 0.0. ",
+      " Among all the Responses, 2012 had the highest Average penetration rate 48.0 in Response Hayat and lowest value 0.0 in Response Volvic. ",
+      " The maximum Average penetration rate for 2012 that was found in Response Hayat was 48.0 times larger than the minimum Average penetration rate observed in Response Volvic. ",
+      " Out of all 2 groups, the highest gap between the maximum and minimum Average penetration rate was found in case of 2012. ",
+      "Averaging all 2 groups 2012, and 2013, the Response Hayat is the maximum Average penetration rate and Buxton is the minimum Average penetration rate. "
    ],
    "trends": [
       {},

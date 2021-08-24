@@ -6,25 +6,26 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This is a bar chart. It shows Facebook fans in millions for 31 number of Nba Teams. ",
-      "Nba Team NBA has the highest Facebook fans in millions and Washington Wizards has the lowest Facebook fans in millions. ",
-      "Nba Team Washington Wizards has 24.55 times less Facebook fans in millions than Nba Team NBA which is the highest. "
+      "This is a bar chart representing Nba Team in the x axis and Facebook fans in millions in the y axis. ",
+      "The Facebook fans in millions is appeared to be the highest at Nba Team NBA and lowest at Nba Team Washington Wizards. ",
+      "The highest Nba Team NBA has 36.5 more Facebook fans in millions than the lowest Nba Team Washington Wizards. "
    ],
    "min_summary": [
-      "This is a bar chart representing Nba Team in the x axis and Facebook fans in millions in the y axis. ",
+      "This is a bar chart. It shows Facebook fans in millions for 31 number of Nba Teams. ",
       "The maximum Facebook fans in millions 38.05 is found at Nba Team NBA and the minimum is found at Washington Wizards where Nba Team is 1.55. "
    ],
    "mid_summary": [
-      "This is a bar chart. It shows Facebook fans in millions for 31 number of Nba Teams. ",
-      "Nba Team NBA has the highest Facebook fans in millions and Washington Wizards has the lowest Facebook fans in millions. ",
-      "Nba Team Washington Wizards has 24.55 times less Facebook fans in millions than Nba Team NBA which is the highest. "
+      "This is a bar chart representing Nba Team in the x axis and Facebook fans in millions in the y axis. ",
+      "The Facebook fans in millions is appeared to be the highest at Nba Team NBA and lowest at Nba Team Washington Wizards. ",
+      "The highest Nba Team NBA has 36.5 more Facebook fans in millions than the lowest Nba Team Washington Wizards. "
    ],
    "max_summary": [
-      "This bar chart has 31 columns on the x axis representing Nba Team, and Facebook fans in millions in each Nba Team on the y axis. ",
-      "Nba Team NBA has the highest Facebook fans in millions and Washington Wizards has the lowest Facebook fans in millions. ",
+      "This is a bar chart representing Nba Team in the x axis and Facebook fans in millions in the y axis. ",
+      "The Facebook fans in millions is highest at Nba Team NBA and lowest at Nba Team Washington Wizards. ",
+      "Nba Team Los Angeles Lakers has the second highest value for Facebook fans in millions. ",
       "There is a difference of 36.5 between the maximum Nba Team NBA and minimum Nba Team Washington Wizards. ",
-      "Facebook fans in millions at Nba Team NBA is 38.05 , second place is Los Angeles Lakers at 21.57, and thirdly is Chicago Bulls at 17.74.",
-      "Nba Team New Orleans Pelicans, and Philadelphia 76ers share the same value 1.75. ",
+      "Nba Team NBA is higher than any other Nba Teams with value 38.05, followed by Los Angeles Lakers, and Chicago Bulls. Down to Nba Team Washington Wizards with the lowest value 1.55. ",
+      "Nba Team New Orleans Pelicans, and Philadelphia 76ers have the same Facebook fans in millions. ",
       "The highest value 38.05 at NBA is almost 5.74 times larger than the average value 6.62. ",
       "The Facebook fans in millions is 205.36 if we add up values of all Nba Teams. "
    ],

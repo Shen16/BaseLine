@@ -6,27 +6,25 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 10 columns on the x axis representing Country, and Production volume in thousand metric tons in each Country on the y axis. ",
-      "The Production volume in thousand metric tons is highest at Country China mainland and lowest at Country United States of America. ",
-      "The highest Country China mainland has 1994.12 more Production volume in thousand metric tons than the lowest Country United States of America. "
+      "This is a bar chart. It shows Production volume in thousand metric tons for 10 number of Countrys. ",
+      "Country China mainland has the highest Production volume in thousand metric tons and United States of America has the lowest Production volume in thousand metric tons. ",
+      "The difference of Production volume in thousand metric tons between the highest and lowest Country is 1994.12. "
    ],
    "min_summary": [
       "This bar chart has 10 columns on the x axis representing Country, and Production volume in thousand metric tons in each Country on the y axis. ",
-      "The Production volume in thousand metric tons is highest at Country China mainland and lowest at Country United States of America. "
+      "Country China mainland has the highest Production volume in thousand metric tons and United States of America has the lowest Production volume in thousand metric tons. "
    ],
    "mid_summary": [
-      "This bar chart has 10 columns on the x axis representing Country, and Production volume in thousand metric tons in each Country on the y axis. ",
-      "The Production volume in thousand metric tons is highest at Country China mainland and lowest at Country United States of America. ",
-      "The highest Country China mainland has 1994.12 more Production volume in thousand metric tons than the lowest Country United States of America. "
+      "This is a bar chart. It shows Production volume in thousand metric tons for 10 number of Countrys. ",
+      "Country China mainland has the highest Production volume in thousand metric tons and United States of America has the lowest Production volume in thousand metric tons. ",
+      "The difference of Production volume in thousand metric tons between the highest and lowest Country is 1994.12. "
    ],
    "max_summary": [
       "This is a bar chart. It shows Production volume in thousand metric tons for 10 number of Countrys. ",
-      "The Production volume in thousand metric tons is appeared to be the highest at Country China mainland and lowest at Country United States of America. ",
-      "The second highest Production volume in thousand metric tons is appeared to be the Country Italy. ",
+      "Country China mainland has the highest Production volume in thousand metric tons and United States of America has the lowest Production volume in thousand metric tons. ",
       "The difference of Production volume in thousand metric tons between the highest and lowest Country is 1994.12. ",
-      "Production volume in thousand metric tons at Country China mainland is 2024.6 , second place is Italy at 541.15, and thirdly is New Zealand at 411.78.",
-      "The Country United States of America has 5.09 times less Production volume in thousand metric tons than average. ",
-      "The Production volume in thousand metric tons is 3976.04 if we add up values of all Countrys. "
+      "Country China mainland is higher than any other Countrys with value 2024.6, followed by Italy, and New Zealand. Down to Country United States of America with the lowest value 30.48. ",
+      "The Country United States of America has 5.09 times less Production volume in thousand metric tons than average. "
    ],
    "trends": [
       {},

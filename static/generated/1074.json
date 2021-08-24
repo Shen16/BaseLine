@@ -15,31 +15,31 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart shows SOME LABEL on the Y-axis for 5 different Platforms for 8 groups 2012, 2013, 2014, 2015, 2016, 2017, 2018, and 2019 that are presented on the X-axis. ",
-      " Platform Google had the maximum SOME LABEL among all 8 groups, and it was for 2019. The minimum SOME LABEL was observed in Platform AOL for 2015. ",
-      " In Platform Google, 2019 had the highest SOME LABEL among all 5 Platforms and it has the lowest SOME LABEL in Platform AOL. ",
-      "Platform Google and AOL had the biggest gap of 13481.0 between the highest and lowest SOME LABEL found for 2019. "
+      "This grouped bar chart represents 5 different Platforms on X-axis for 8 groups 2012, 2013, 2014, 2015, 2016, 2017, 2018, and 2019. On the Y-axis it shows their corresponding Revenue in billion U.S. dollars. ",
+      " Out of all 8 groups, 2019 had the highest Revenue in billion U.S. dollars in Platform Google and 2015 had the lowest Revenue in billion U.S. dollars in Platform AOL. ",
+      " Among all the Platforms, 2015 had the highest Revenue in billion U.S. dollars in Platform Google and lowest Revenue in billion U.S. dollars in Platform AOL. ",
+      " The maximum Revenue in billion U.S. dollars for 2015 that was found in Platform Google was 6739.0 times larger than the minimum Revenue in billion U.S. dollars observed in Platform AOL. "
    ],
    "xAxis": "Platform",
-   "yAxis": "SOME LABEL",
+   "yAxis": "Revenue in billion U.S. dollars",
    "min_summary": [
-      "This grouped bar chart shows SOME LABEL on the Y-axis for 5 different Platforms for 8 groups 2012, 2013, 2014, 2015, 2016, 2017, 2018, and 2019 that are presented on the X-axis. ",
-      " Out of all 8 groups, 2019 had the highest SOME LABEL in Platform Google and 2015 had the lowest SOME LABEL in Platform AOL. "
+      "This grouped bar chart represents 5 different Platforms on X-axis for 8 groups 2012, 2013, 2014, 2015, 2016, 2017, 2018, and 2019. On the Y-axis it shows their corresponding Revenue in billion U.S. dollars. ",
+      " In Platform Google, 2019 had the highest Revenue in billion U.S. dollars 13481.0 among the 8 groups and in AOL, 2015 had the lowest Revenue in billion U.S. dollars 0.0. "
    ],
    "mid_summary": [
-      "This grouped bar chart shows SOME LABEL on the Y-axis for 5 different Platforms for 8 groups 2012, 2013, 2014, 2015, 2016, 2017, 2018, and 2019 that are presented on the X-axis. ",
-      " Platform Google had the maximum SOME LABEL among all 8 groups, and it was for 2019. The minimum SOME LABEL was observed in Platform AOL for 2015. ",
-      " In Platform Google, 2019 had the highest SOME LABEL among all 5 Platforms and it has the lowest SOME LABEL in Platform AOL. ",
-      "Platform Google and AOL had the biggest gap of 13481.0 between the highest and lowest SOME LABEL found for 2019. "
+      "This grouped bar chart represents 5 different Platforms on X-axis for 8 groups 2012, 2013, 2014, 2015, 2016, 2017, 2018, and 2019. On the Y-axis it shows their corresponding Revenue in billion U.S. dollars. ",
+      " Out of all 8 groups, 2019 had the highest Revenue in billion U.S. dollars in Platform Google and 2015 had the lowest Revenue in billion U.S. dollars in Platform AOL. ",
+      " Among all the Platforms, 2015 had the highest Revenue in billion U.S. dollars in Platform Google and lowest Revenue in billion U.S. dollars in Platform AOL. ",
+      " The maximum Revenue in billion U.S. dollars for 2015 that was found in Platform Google was 6739.0 times larger than the minimum Revenue in billion U.S. dollars observed in Platform AOL. "
    ],
    "max_summary": [
-      "This grouped bar chart represents 5 different Platforms on X-axis for 8 groups 2012, 2013, 2014, 2015, 2016, 2017, 2018, and 2019. On the Y-axis it shows their corresponding SOME LABEL. ",
-      " In Platform Google, 2019 had the highest SOME LABEL 13481.0 among the 8 groups and in AOL, 2015 had the lowest SOME LABEL 0.0. ",
-      " In Platform Google, 2019 had the highest SOME LABEL among all 5 Platforms and it has the lowest SOME LABEL in Platform AOL. ",
-      "Platform Google and AOL had the biggest gap of 13481.0 between the highest and lowest SOME LABEL found for 2019. ",
-      " Out of all 8 groups, the highest gap between the maximum and minimum SOME LABEL was found in case of 2018. ",
-      " In Platform Google, 2019 had the highest SOME LABEL 13481.0 among the 8 groups and in AOL, 2015 had the lowest SOME LABEL 0.0. The second highest SOME LABEL 5107.0 was observed for 2019 in Platform Google. ",
-      "On average, the Platform Google had the highest SOME LABEL for all 8 groups 2012, 2013, 2014, 2015, 2016, 2017, 2018, and 2019. Whereas AOL had the lowest average SOME LABEL. "
+      "This grouped bar chart shows Revenue in billion U.S. dollars on the Y-axis for 5 different Platforms for 8 groups 2012, 2013, 2014, 2015, 2016, 2017, 2018, and 2019 that are presented on the X-axis. ",
+      " Out of all 8 groups, 2019 had the highest Revenue in billion U.S. dollars in Platform Google and 2015 had the lowest Revenue in billion U.S. dollars in Platform AOL. ",
+      " In Platform Google, 2015 had the highest Revenue in billion U.S. dollars among all 5 Platforms and it has the lowest Revenue in billion U.S. dollars in Platform AOL. ",
+      " There is a gap of 6738.0 between the highest and lowest Revenue in billion U.S. dollars found for 2015 in Platform Google and AOL. ",
+      " Among all 8 groups, 2018 had the gap of 11646.0 between the maximum and minimum Revenue in billion U.S. dollars observed in Platform Google and AOL respectively. ",
+      " In Platform Google, 2019 had the highest Revenue in billion U.S. dollars 13481.0 among the 8 groups and in AOL, 2015 had the lowest Revenue in billion U.S. dollars 0.0. The second highest Revenue in billion U.S. dollars 5107.0 was observed for 2019 in Platform Google. ",
+      "On average, the Platform Google had the highest Revenue in billion U.S. dollars for all 8 groups 2012, 2013, 2014, 2015, 2016, 2017, 2018, and 2019. Whereas AOL had the lowest average Revenue in billion U.S. dollars. "
    ],
    "trends": [
       {},

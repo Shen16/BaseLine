@@ -6,31 +6,29 @@
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This is a line chart with an x axis representing Year and a y axis representing Unemployment rate, containing a total of 21 data points.",
-      " In general Unemployment rate has fallen over the Year.",
-      "The line drastically ",
-      "The most drastic decrease took place within the Year 1999 and 2000.",
-      "The highest Unemployment rate, of value 8.65 was reached at Year 1999",
-      "Minimum Unemployment rate about 6.18 was reached at Year 2001"
-   ],
-   "min_summary": [
-      "This is a line chart with an x axis representing Year and a y axis representing Unemployment rate, containing a total of 21 data points.",
-      " Overall Unemployment rate has decreased over the Year."
-   ],
-   "mid_summary": [
       "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Unemployment rate. In total the number of data points it has is 21.",
       " Overall Unemployment rate has decreased over the Year.",
       "The steepest decrease occurs in between the Year 1999 and 2000.",
       "The highest Unemployment rate, of value 8.65 was reached at Year 1999",
       "Minimum Unemployment rate about 6.18 was reached at Year 2001"
    ],
-   "max_summary": [
+   "min_summary": [
       "This is a line chart with an x axis representing Year and a y axis representing Unemployment rate, containing a total of 21 data points.",
-      " Overall Unemployment rate has decreased over the Year.",
+      " In general Unemployment rate has fallen over the Year."
+   ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Unemployment rate, containing a total of 21 data points.",
+      " In general Unemployment rate has fallen over the Year.",
       "The most drastic decrease took place within the Year 1999 and 2000.",
       "The highest Unemployment rate, of value 8.65 was reached at Year 1999",
-      "Minimum Unemployment rate about 6.18 was reached at Year 2001",
-      "The line drastically "
+      "Minimum Unemployment rate about 6.18 was reached at Year 2001"
+   ],
+   "max_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Unemployment rate, containing a total of 21 data points.",
+      " In general Unemployment rate has fallen over the Year.",
+      "The most drastic decrease took place within the Year 1999 and 2000.",
+      "The highest Unemployment rate, of value 8.65 was reached at Year 1999",
+      "Minimum Unemployment rate about 6.18 was reached at Year 2001"
    ],
    "trends": [],
    "data": [

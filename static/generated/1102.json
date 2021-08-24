@@ -6,31 +6,29 @@
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of lobbyists. In total the number of data points it has is 20.",
-      " In general Number of lobbyists has fallen over the Year.",
-      "The line drastically ",
-      "The most drastic increase took place within the Year 2004 and 2005.",
-      "Maximum Number of lobbyists, about 14825.0 was reported at Year 2007",
-      "Minimum Number of lobbyists about 11188.0 was reached at Year 2016"
-   ],
-   "min_summary": [
-      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of lobbyists. In total the number of data points it has is 20.",
-      " In general Number of lobbyists has fallen over the Year."
-   ],
-   "mid_summary": [
-      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of lobbyists. In total the number of data points it has is 20.",
-      " Overall Number of lobbyists has decreased over the Year.",
-      "The most drastic increase took place within the Year 2004 and 2005.",
-      "Maximum Number of lobbyists, about 14825.0 was reported at Year 2007",
-      "Minimum Number of lobbyists about 11188.0 was reached at Year 2016"
-   ],
-   "max_summary": [
       "This is a line chart with an x axis representing Year and a y axis representing Number of lobbyists, containing a total of 20 data points.",
       " In general Number of lobbyists has fallen over the Year.",
+      "The most drastic increase took place within the Year 2004 and 2005.",
+      "The highest Number of lobbyists, of value 14825.0 was reached at Year 2007",
+      "The lowest Number of lobbyists, of value 11188.0 was reported at Year 2016"
+   ],
+   "min_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Number of lobbyists, containing a total of 20 data points.",
+      " Overall Number of lobbyists has decreased over the Year."
+   ],
+   "mid_summary": [
+      "This is a line chart with an x axis representing Year and a y axis representing Number of lobbyists, containing a total of 20 data points.",
+      " Overall Number of lobbyists has decreased over the Year.",
       "The steepest increase occurs in between the Year 2004 and 2005.",
-      "Maximum Number of lobbyists, about 14825.0 was reported at Year 2007",
-      "Minimum Number of lobbyists about 11188.0 was reached at Year 2016",
-      "The line rapidly "
+      "The highest Number of lobbyists, of value 14825.0 was reached at Year 2007",
+      "The lowest Number of lobbyists, of value 11188.0 was reported at Year 2016"
+   ],
+   "max_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of lobbyists. In total the number of data points it has is 20.",
+      " Overall Number of lobbyists has decreased over the Year.",
+      "The steepest increase occurs in between the Year 2004 and 2005.",
+      "The highest Number of lobbyists, of value 14825.0 was reached at Year 2007",
+      "The lowest Number of lobbyists, of value 11188.0 was reported at Year 2016"
    ],
    "trends": [],
    "data": [

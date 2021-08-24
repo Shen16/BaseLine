@@ -12,32 +12,32 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart represents SOME LABEL on the Y-axis. And, its value throughout 12 Months for 2015, 2016, 2017, 2018, and 2019. ",
-      " All through the Months, similar trend was observed for 2017 and 2016. In both cases, the SOME LABEL have decreased. ",
-      " Month May had the maximum SOME LABEL among all 5 groups, and it was for 2018. The minimum SOME LABEL was observed in Month Feb for 2016. ",
-      " Among all the Months, 2017 had the highest SOME LABEL in Month Nov and lowest SOME LABEL in Month Mar. "
+      "This grouped bar chart represents Average retail price in Canadian cents pet liter on the Y-axis. And, its value throughout 12 Months for 2015, 2016, 2017, 2018, and 2019. ",
+      " All through the Months, similar trend was observed for 2016 and 2015. In both cases, the Average retail price in Canadian cents pet liter have decreased. ",
+      " In Month May, 2018 had the highest Average retail price in Canadian cents pet liter 1359.0 among the 5 groups and in Feb, 2016 had the lowest Average retail price in Canadian cents pet liter 867.0. ",
+      " Among all the Months, 2016 had the highest Average retail price in Canadian cents pet liter in Month Jun and lowest Average retail price in Canadian cents pet liter in Month Feb. "
    ],
    "xAxis": "Month",
-   "yAxis": "SOME LABEL",
+   "yAxis": "Average retail price in Canadian cents pet liter",
    "min_summary": [
-      "This grouped bar chart represents SOME LABEL on the Y-axis. And, how the value changed throughout 12 Months for 2015, 2016, 2017, 2018, and 2019. ",
-      " All through the Months, similar trend was observed for 2017 and 2016. In both cases, the SOME LABEL have decreased. "
+      "This grouped bar chart represents Average retail price in Canadian cents pet liter on the Y-axis. And, how the value changed throughout 12 Months for 2015, 2016, 2017, 2018, and 2019. ",
+      " All through the Months, similar trend was observed for 2016 and 2015. In both cases, the Average retail price in Canadian cents pet liter have decreased. "
    ],
    "mid_summary": [
-      "This grouped bar chart represents SOME LABEL on the Y-axis. And, its value throughout 12 Months for 2015, 2016, 2017, 2018, and 2019. ",
-      " All through the Months, similar trend was observed for 2017 and 2016. In both cases, the SOME LABEL have decreased. ",
-      " Month May had the maximum SOME LABEL among all 5 groups, and it was for 2018. The minimum SOME LABEL was observed in Month Feb for 2016. ",
-      " Among all the Months, 2017 had the highest SOME LABEL in Month Nov and lowest SOME LABEL in Month Mar. "
+      "This grouped bar chart represents Average retail price in Canadian cents pet liter on the Y-axis. And, its value throughout 12 Months for 2015, 2016, 2017, 2018, and 2019. ",
+      " All through the Months, similar trend was observed for 2016 and 2015. In both cases, the Average retail price in Canadian cents pet liter have decreased. ",
+      " In Month May, 2018 had the highest Average retail price in Canadian cents pet liter 1359.0 among the 5 groups and in Feb, 2016 had the lowest Average retail price in Canadian cents pet liter 867.0. ",
+      " Among all the Months, 2016 had the highest Average retail price in Canadian cents pet liter in Month Jun and lowest Average retail price in Canadian cents pet liter in Month Feb. "
    ],
    "max_summary": [
-      "This grouped bar chart represents SOME LABEL on the Y-axis. And, how the value changed throughout 12 Months for 2015, 2016, 2017, 2018, and 2019. ",
-      " All through the Months, similar trend was observed for 2017 and 2016. In both cases, the SOME LABEL have decreased. ",
-      " In Month May, 2018 had the highest SOME LABEL 1359.0 among the 5 groups and in Feb, 2016 had the lowest SOME LABEL 867.0. ",
-      " Among all the Months, 2017 had the highest SOME LABEL in Month Nov and lowest SOME LABEL in Month Mar. ",
-      "Month Nov and Mar had the biggest gap of 148.0 between the highest and lowest SOME LABEL found for 2017. ",
-      " Among the groups, 2018 had the biggest difference in SOME LABEL. Where the maximum SOME LABEL was 1.28 times larger than the minimum SOME LABEL. ",
-      " In Month May, 2018 had the highest SOME LABEL 1359.0 among the 5 groups and in Feb, 2016 had the lowest SOME LABEL 867.0. The second highest SOME LABEL 1191.0 was observed for 2018 in Month May. ",
-      "On average, the Month May had the highest SOME LABEL for all 5 groups 2015, 2016, 2017, 2018, and 2019. Whereas Feb had the lowest average SOME LABEL. "
+      "This grouped bar chart represents Average retail price in Canadian cents pet liter on the Y-axis. And, its value throughout 12 Months for 2015, 2016, 2017, 2018, and 2019. ",
+      " All through the Months, similar trend was observed for 2016 and 2015. In both cases, the Average retail price in Canadian cents pet liter have decreased. ",
+      " Out of all 5 groups, 2018 had the highest Average retail price in Canadian cents pet liter in Month May and 2016 had the lowest Average retail price in Canadian cents pet liter in Month Feb. ",
+      " Among all the Months, 2016 had the highest Average retail price in Canadian cents pet liter in Month Jun and lowest Average retail price in Canadian cents pet liter in Month Feb. ",
+      "Month Jun and Feb had the biggest gap of 219.0 between the highest and lowest Average retail price in Canadian cents pet liter found for 2016. ",
+      " Among the groups, 2018 had the biggest difference in Average retail price in Canadian cents pet liter. Where the maximum Average retail price in Canadian cents pet liter was 1.28 times larger than the minimum Average retail price in Canadian cents pet liter. ",
+      " 2018 had the maximum Average retail price in Canadian cents pet liter out of all 5 groups in Month May followed by 2018 in May, and the minimum Average retail price in Canadian cents pet liter is found for 2016 in Feb. ",
+      "Averaging all 5 groups 2015, 2016, 2017, 2018, and 2019, the Month May is the maximum Average retail price in Canadian cents pet liter and Feb is the minimum Average retail price in Canadian cents pet liter. "
    ],
    "trends": [
       {},

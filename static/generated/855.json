@@ -6,28 +6,27 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 52 columns on the x axis representing State, and Graduation rate of the class of 2016 in each State on the y axis. ",
-      "The Graduation rate of the class of 2016 is appeared to be the highest at State West Virginia and lowest at State Minnesota. ",
-      "The lowest value at State Minnesota is 1.39x times less than the highest value at West Virginia. "
+      "This is a bar chart. It shows Graduation rate of the class of 2016 for 52 number of States. ",
+      "The maximum Graduation rate of the class of 2016 92.0 is found at State West Virginia and the minimum is found at Minnesota where State is 66.3. ",
+      "The difference of Graduation rate of the class of 2016 between the highest and lowest State is 25.7. "
    ],
    "min_summary": [
       "This is a bar chart representing State in the x axis and Graduation rate of the class of 2016 in the y axis. ",
-      "The maximum Graduation rate of the class of 2016 92.0 is found at State West Virginia and the minimum is found at Minnesota where State is 66.3. "
+      "The Graduation rate of the class of 2016 is appeared to be the highest at State West Virginia and lowest at State Minnesota. "
    ],
    "mid_summary": [
-      "This bar chart has 52 columns on the x axis representing State, and Graduation rate of the class of 2016 in each State on the y axis. ",
-      "The Graduation rate of the class of 2016 is appeared to be the highest at State West Virginia and lowest at State Minnesota. ",
-      "The lowest value at State Minnesota is 1.39x times less than the highest value at West Virginia. "
+      "This is a bar chart. It shows Graduation rate of the class of 2016 for 52 number of States. ",
+      "The maximum Graduation rate of the class of 2016 92.0 is found at State West Virginia and the minimum is found at Minnesota where State is 66.3. ",
+      "The difference of Graduation rate of the class of 2016 between the highest and lowest State is 25.7. "
    ],
    "max_summary": [
-      "This bar chart has 52 columns on the x axis representing State, and Graduation rate of the class of 2016 in each State on the y axis. ",
+      "This is a bar chart. It shows Graduation rate of the class of 2016 for 52 number of States. ",
       "State West Virginia has the highest Graduation rate of the class of 2016 and Minnesota has the lowest Graduation rate of the class of 2016. ",
-      "Second maximum Graduation rate of the class of 2016 is found at State Vermont. ",
-      "The highest State West Virginia has 25.7 more Graduation rate of the class of 2016 than the lowest State Minnesota. ",
-      "The State West Virginia has the highest Graduation rate of the class of 2016, followed by Vermont, and Maine. Down to the State Minnesota which is the lowest. ",
-      "Similar Graduation rate of the class of 2016 is found in State Wyoming, U.S. average, Montana, and Hawaii. ",
+      "There is a difference of 25.7 between the maximum State West Virginia and minimum State Minnesota. ",
+      "State West Virginia is higher than any other States with value 92.0, followed by Vermont, and Maine. Down to State Minnesota with the lowest value 66.3. ",
+      "State Wyoming, U.S. average, Montana, and Hawaii have a similar Graduation rate of the class of 2016 that is 80.0. ",
       "The highest value 92.0 at West Virginia is almost 1.17 times larger than the average value 78.42. ",
-      "The Graduation rate of the class of 2016 is 4077.7 if we add up values of all States. "
+      "Summing up the values of all States, we get total 4077.7. "
    ],
    "trends": [
       {},

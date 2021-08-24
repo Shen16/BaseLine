@@ -6,27 +6,28 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This is a bar chart representing Month in the x axis and Bitcoin price index in U.S. dollars in the y axis. ",
+      "This bar chart has 90 columns on the x axis representing Month, and Bitcoin price index in U.S. dollars in each Month on the y axis. ",
       "The maximum Bitcoin price index in U.S. dollars 13860.14 is found at Month Dec 17 and the minimum is found at Jul 12 where Month is 9.35. ",
-      "There is a difference of 13850.79 between the maximum Month Dec 17 and minimum Month Jul 12. "
+      "The minimum Month Jul 12 has got 1482.37 times less Bitcoin price index in U.S. dollars than the maximum Month Dec 17. "
    ],
    "min_summary": [
-      "This bar chart has 90 columns on the x axis representing Month, and Bitcoin price index in U.S. dollars in each Month on the y axis. ",
-      "Month Dec 17 has the highest Bitcoin price index in U.S. dollars and Jul 12 has the lowest Bitcoin price index in U.S. dollars. "
+      "This is a bar chart representing Month in the x axis and Bitcoin price index in U.S. dollars in the y axis. ",
+      "The Bitcoin price index in U.S. dollars is highest at Month Dec 17 and lowest at Month Jul 12. "
    ],
    "mid_summary": [
-      "This is a bar chart representing Month in the x axis and Bitcoin price index in U.S. dollars in the y axis. ",
-      "The maximum Bitcoin price index in U.S. dollars 13860.14 is found at Month Dec 17 and the minimum is found at Jul 12 where Month is 9.35. ",
-      "There is a difference of 13850.79 between the maximum Month Dec 17 and minimum Month Jul 12. "
-   ],
-   "max_summary": [
       "This bar chart has 90 columns on the x axis representing Month, and Bitcoin price index in U.S. dollars in each Month on the y axis. ",
       "The maximum Bitcoin price index in U.S. dollars 13860.14 is found at Month Dec 17 and the minimum is found at Jul 12 where Month is 9.35. ",
-      "There is a difference of 13850.79 between the maximum Month Dec 17 and minimum Month Jul 12. ",
-      "The Month Dec 17 has the highest Bitcoin price index in U.S. dollars, followed by Jun 19, and Feb 18. Down to the Month Jul 12 which is the lowest. ",
-      "Overall Bitcoin price index in U.S. dollars has reduced over the Months. ",
-      "The lowest value 9.35 at Jul 12 is almost 4.98 times smaller than the average value 2785.22. ",
-      "Summing up the values of all Months, we get total 250669.47. "
+      "The minimum Month Jul 12 has got 1482.37 times less Bitcoin price index in U.S. dollars than the maximum Month Dec 17. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Month in the x axis and Bitcoin price index in U.S. dollars in the y axis. ",
+      "The Bitcoin price index in U.S. dollars is appeared to be the highest at Month Dec 17 and lowest at Month Jul 12. ",
+      "The second highest Bitcoin price index in U.S. dollars is appeared to be the Month Jun 19. ",
+      "The lowest value at Month Jul 12 is 1482.37x times less than the highest value at Dec 17. ",
+      "Month Dec 17 is higher than any other Months with value 13860.14, followed by Jun 19, and Feb 18. Down to Month Jul 12 with the lowest value 9.35. ",
+      "The Bitcoin price index in U.S. dollars has declined over the past 90 Months. ",
+      "The Month Dec 17 has 4.98 times more Bitcoin price index in U.S. dollars than average. ",
+      "The Bitcoin price index in U.S. dollars is 250669.47 if we add up values of all Months. "
    ],
    "trends": [
       {},

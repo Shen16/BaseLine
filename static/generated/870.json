@@ -6,26 +6,25 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This is a bar chart representing Country in the x axis and Imports in units in the y axis. ",
-      "Country Japan has the highest Imports in units and Germany has the lowest Imports in units. ",
-      "The highest Country Japan has 1645177.0 more Imports in units than the lowest Country Germany. "
+      "This is a bar chart. It shows Imports in units for 5 number of Countrys. ",
+      "The Imports in units is appeared to be the highest at Country Japan and lowest at Country Germany. ",
+      "The highest value at Country Japan is 3.07x times more than the lowest value at Germany. "
    ],
    "min_summary": [
       "This bar chart has 5 columns on the x axis representing Country, and Imports in units in each Country on the y axis. ",
-      "The Imports in units is highest at Country Japan and lowest at Country Germany. "
+      "Country Japan has the highest Imports in units and Germany has the lowest Imports in units. "
    ],
    "mid_summary": [
-      "This is a bar chart representing Country in the x axis and Imports in units in the y axis. ",
-      "Country Japan has the highest Imports in units and Germany has the lowest Imports in units. ",
-      "The highest Country Japan has 1645177.0 more Imports in units than the lowest Country Germany. "
+      "This is a bar chart. It shows Imports in units for 5 number of Countrys. ",
+      "The Imports in units is appeared to be the highest at Country Japan and lowest at Country Germany. ",
+      "The highest value at Country Japan is 3.07x times more than the lowest value at Germany. "
    ],
    "max_summary": [
-      "This is a bar chart. It shows Imports in units for 5 number of Countrys. ",
-      "Country Japan has the highest Imports in units and Germany has the lowest Imports in units. ",
-      "Second maximum Imports in units is found at Country Canada. ",
+      "This is a bar chart representing Country in the x axis and Imports in units in the y axis. ",
+      "The Imports in units is appeared to be the highest at Country Japan and lowest at Country Germany. ",
       "The difference of Imports in units between the highest and lowest Country is 1645177.0. ",
       "The Country Japan has the highest Imports in units, followed by Canada, and Mexico. Down to the Country Germany which is the lowest. ",
-      "The Country Japan has 1.56 times more Imports in units than average. "
+      "The Country Germany tends to be 1.56 percent lower than average. "
    ],
    "trends": [
       {},

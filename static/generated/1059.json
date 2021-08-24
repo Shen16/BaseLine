@@ -6,27 +6,27 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 5 columns on the x axis representing Response, and Share of respondents in each Response on the y axis. ",
+      "This is a bar chart. It shows Share of respondents for 5 number of Responses. ",
       "Response Visit a social network has the highest Share of respondents and Look for product information has the lowest Share of respondents. ",
-      "There is a difference of 17.0 between the maximum Response Visit a social network and minimum Response Look for product information. "
+      "The difference of Share of respondents between the highest and lowest Response is 17.0. "
    ],
    "min_summary": [
       "This is a bar chart representing Response in the x axis and Share of respondents in the y axis. ",
-      "The Share of respondents is highest at Response Visit a social network and lowest at Response Look for product information. "
+      "The maximum Share of respondents 21.0 is found at Response Visit a social network and the minimum is found at Look for product information where Response is 4.0. "
    ],
    "mid_summary": [
-      "This bar chart has 5 columns on the x axis representing Response, and Share of respondents in each Response on the y axis. ",
+      "This is a bar chart. It shows Share of respondents for 5 number of Responses. ",
       "Response Visit a social network has the highest Share of respondents and Look for product information has the lowest Share of respondents. ",
-      "There is a difference of 17.0 between the maximum Response Visit a social network and minimum Response Look for product information. "
+      "The difference of Share of respondents between the highest and lowest Response is 17.0. "
    ],
    "max_summary": [
-      "This is a bar chart. It shows Share of respondents for 5 number of Responses. ",
-      "The maximum Share of respondents 21.0 is found at Response Visit a social network and the minimum is found at Look for product information where Response is 4.0. ",
-      "Second maximum Share of respondents is found at Response Watch videos. ",
+      "This is a bar chart representing Response in the x axis and Share of respondents in the y axis. ",
+      "Response Visit a social network has the highest Share of respondents and Look for product information has the lowest Share of respondents. ",
+      "Response Watch videos has the second highest value for Share of respondents. ",
       "The difference of Share of respondents between the highest and lowest Response is 17.0. ",
-      "The Response Visit a social network has the highest Share of respondents, followed by Watch videos, and Use a search engine. Down to the Response Look for product information which is the lowest. ",
-      "Similar Share of respondents is found in Response Look for product information, and Play games. ",
-      "The Response Look for product information tends to be 1.75 percent lower than average. ",
+      "Response Visit a social network is higher than any other Responses with value 21.0, followed by Watch videos, and Use a search engine. Down to Response Look for product information with the lowest value 4.0. ",
+      "Response Look for product information, and Play games share the same value 4.0. ",
+      "Considered together, the average Share of respondents in all 5 Responses is roughly 12.0. ",
       "Summing up the values of all Responses, we get total 60.0. "
    ],
    "trends": [

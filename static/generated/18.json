@@ -9,37 +9,23 @@
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "The given chart is of multi-line type with 2 lines namely Public sector, and Private sector. The y axis represents Value in billion USD and the x axis represents Year.",
-      "Overall Public sector, and Private sector are roughly constant,  throughout the Year",
-      "The lines ordered according to average values of Value in billion USD in descending order is: 1. Private sector, and lastly, 2. Public sector. ",
-      "Throughout the period, Private sector generally had the highest Value in billion USD relative to others with an average of 717.86, and it reached its maximum at '18 with a value of 992.0.",
-      "The botommost line, Public sector,  has a mean of 254.33, and peaked at '09. ",
-      "Public sector reported the lowest Value in billion USD about 155.0 in Year '98",
-      "The difference of Value in billion USD between Public sector and Private sector is smaller at Year '99 compared to the Year '00."
+      "Overall Private sector is gradually increasing, Public sector is gradually decreasing,  throughout the Year",
+      "The ranking of the lines from topmost to botommmost is as follows: 1. Private sector, and lastly, 2. Public sector. ",
+      "The minimum Value in billion USD about 271.0, occured at '13 by Public sector.",
+      "The greatest difference of Value in billion USD between Public sector and Private sector occurs at Year '13 and the smallest difference occurs at '10."
    ],
    "xAxis": "Year",
    "yAxis": "Value in billion USD",
    "min_summary": [
-      "The given chart is of multi-line type with 2 lines namely Public sector, and Private sector. The y axis represents Value in billion USD and the x axis represents Year.",
-      "Overall Public sector, and Private sector are roughly constant,  throughout the Year",
-      "Overall across the Year, Private sector mostly maintained the highest Value in billion USD when compared to others with a mean value of 717.86, and it peaked at '18.",
-      "Public sector mostly had the least Value in billion USD with a mean value of 254.33, which peaked at '09 with a value of 315.0. "
+      "Overall Private sector is gradually increasing, Public sector is gradually decreasing,  throughout the Year"
    ],
    "mid_summary": [
-      "You are viewing a chart of multi-line type with 2 lines denoting Public sector, and Private sector. The y axis indicates the Value in billion USD and the x axis indicates Year.",
-      "Overall Public sector, and Private sector are roughly constant,  throughout the Year",
-      "The ranking of the lines from topmost to botommmost is as follows: 1. Private sector, and lastly, 2. Public sector. ",
-      "Throughout the period, Private sector generally had the highest Value in billion USD relative to others with an average of 717.86, and it reached its maximum at '18 with a value of 992.0.",
-      "Public sector mostly had the least Value in billion USD with a mean value of 254.33, which peaked at '09 with a value of 315.0. "
+      "Overall Private sector is gradually increasing, Public sector is gradually decreasing,  throughout the Year"
    ],
    "max_summary": [
-      "You are viewing a chart of multi-line type with 2 lines denoting Public sector, and Private sector. The y axis indicates the Value in billion USD and the x axis indicates Year.",
-      "Overall Public sector, and Private sector are roughly constant,  throughout the Year",
-      "The ranking of the lines from topmost to botommmost is as follows: 1. Private sector, and lastly, 2. Public sector. ",
-      "Overall across the Year, Private sector mostly maintained the highest Value in billion USD when compared to others with a mean value of 717.86, and it peaked at '18.",
-      "The botommost line, Public sector,  has a mean of 254.33, and peaked at '09. ",
-      "The minimum Value in billion USD about 155.0, occured at '98 by Public sector.",
-      "The difference of Value in billion USD between Public sector and Private sector is smaller at Year '99 compared to the Year '00."
+      "Overall Private sector is gradually increasing, Public sector is gradually decreasing,  throughout the Year",
+      "The minimum Value in billion USD about 271.0, occured at '13 by Public sector.",
+      "The greatest difference of Value in billion USD between Public sector and Private sector occurs at Year '13 and the smallest difference occurs at '10."
    ],
    "trends": [
       {},
@@ -55,11 +41,11 @@
       },
       {
          "1": [
-            "0",
+            "3",
             "1"
          ],
          "9": [
-            "0",
+            "3",
             "1"
          ]
       },
@@ -75,11 +61,11 @@
       },
       {
          "1": [
-            "9",
+            "0",
             "0"
          ],
          "10": [
-            "9",
+            "0",
             "0"
          ]
       }

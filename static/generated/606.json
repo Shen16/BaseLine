@@ -6,27 +6,28 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 45 columns on the x axis representing State, and Sales in billion U.S. dollars in each State on the y axis. ",
-      "State New York has the highest Sales in billion U.S. dollars and Wyoming has the lowest Sales in billion U.S. dollars. ",
-      "There is a difference of 9.66 between the maximum State New York and minimum State Wyoming. "
+      "This is a bar chart representing State in the x axis and Sales in billion U.S. dollars in the y axis. ",
+      "The Sales in billion U.S. dollars is appeared to be the highest at State New York and lowest at State Wyoming. ",
+      "The difference of Sales in billion U.S. dollars between the highest and lowest State is 9.66. "
    ],
    "min_summary": [
-      "This is a bar chart. It shows Sales in billion U.S. dollars for 45 number of States. ",
-      "The maximum Sales in billion U.S. dollars 9.69 is found at State New York and the minimum is found at Wyoming where State is 0.03. "
+      "This is a bar chart representing State in the x axis and Sales in billion U.S. dollars in the y axis. ",
+      "The Sales in billion U.S. dollars is highest at State New York and lowest at State Wyoming. "
    ],
    "mid_summary": [
-      "This bar chart has 45 columns on the x axis representing State, and Sales in billion U.S. dollars in each State on the y axis. ",
-      "State New York has the highest Sales in billion U.S. dollars and Wyoming has the lowest Sales in billion U.S. dollars. ",
-      "There is a difference of 9.66 between the maximum State New York and minimum State Wyoming. "
+      "This is a bar chart representing State in the x axis and Sales in billion U.S. dollars in the y axis. ",
+      "The Sales in billion U.S. dollars is appeared to be the highest at State New York and lowest at State Wyoming. ",
+      "The difference of Sales in billion U.S. dollars between the highest and lowest State is 9.66. "
    ],
    "max_summary": [
-      "This bar chart has 45 columns on the x axis representing State, and Sales in billion U.S. dollars in each State on the y axis. ",
-      "State New York has the highest Sales in billion U.S. dollars and Wyoming has the lowest Sales in billion U.S. dollars. ",
-      "Second maximum Sales in billion U.S. dollars is found at State California. ",
-      "There is a difference of 9.66 between the maximum State New York and minimum State Wyoming. ",
-      "The State New York has the highest Sales in billion U.S. dollars, followed by California, and Florida. Down to the State Wyoming which is the lowest. ",
-      "Similar Sales in billion U.S. dollars is found in State Oregon, and Connecticut. ",
-      "The State New York tends to be 5.41 percent higher than average. "
+      "This is a bar chart. It shows Sales in billion U.S. dollars for 45 number of States. ",
+      "The maximum Sales in billion U.S. dollars 9.69 is found at State New York and the minimum is found at Wyoming where State is 0.03. ",
+      "The second highest Sales in billion U.S. dollars is appeared to be the State California. ",
+      "The difference of Sales in billion U.S. dollars between the highest and lowest State is 9.66. ",
+      "State New York is higher than any other States with value 9.69, followed by California, and Florida. Down to State Wyoming with the lowest value 0.03. ",
+      "State Oregon, and Connecticut have a similar Sales in billion U.S. dollars that is 1.23. ",
+      "The State New York has 5.41 times more Sales in billion U.S. dollars than average. ",
+      "The Sales in billion U.S. dollars is 80.56 if we add up values of all States. "
    ],
    "trends": [
       {},

@@ -6,31 +6,32 @@
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This is a line chart with an x axis representing Year and a y axis representing Number of hospitals, containing a total of 11 data points.",
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of hospitals. In total the number of data points it has is 11.",
       " In general Number of hospitals has fallen over the Year.",
-      "The line rapidly ",
       "The steepest decrease occurs in between the Year 2008 and 2009.",
       "Maximum Number of hospitals, about 325.0 was reported at Year 2007",
       "Minimum Number of hospitals about 247.0 was reached at Year 2017"
    ],
    "min_summary": [
       "This is a line chart with an x axis representing Year and a y axis representing Number of hospitals, containing a total of 11 data points.",
-      " Overall Number of hospitals has decreased over the Year."
+      " In general Number of hospitals has fallen over the Year.",
+      "Number of hospitals is roughly constant from 2007 to 2008, gradually decreasing from 2008 to 2010, roughly constant from 2010 to 2011, slightly decreasing from 2011 to 2012, roughly constant from 2012 to 2014, and finally slightly decreasing from 2014 to 2017."
    ],
    "mid_summary": [
       "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Number of hospitals. In total the number of data points it has is 11.",
-      " Overall Number of hospitals has decreased over the Year.",
-      "The steepest decrease occurs in between the Year 2008 and 2009.",
+      " In general Number of hospitals has fallen over the Year.",
+      "Number of hospitals is roughly constant from 2007 to 2008, gradually decreasing from 2008 to 2010, roughly constant from 2010 to 2011, slightly decreasing from 2011 to 2012, roughly constant from 2012 to 2014, and finally slightly decreasing from 2014 to 2017.",
+      "The most drastic decrease took place within the Year 2008 and 2009.",
       "Maximum Number of hospitals, about 325.0 was reported at Year 2007",
       "Minimum Number of hospitals about 247.0 was reached at Year 2017"
    ],
    "max_summary": [
       "This is a line chart with an x axis representing Year and a y axis representing Number of hospitals, containing a total of 11 data points.",
       " In general Number of hospitals has fallen over the Year.",
+      "Number of hospitals is roughly constant from 2007 to 2008, gradually decreasing from 2008 to 2010, roughly constant from 2010 to 2011, slightly decreasing from 2011 to 2012, roughly constant from 2012 to 2014, and finally slightly decreasing from 2014 to 2017.",
       "The steepest decrease occurs in between the Year 2008 and 2009.",
       "Maximum Number of hospitals, about 325.0 was reported at Year 2007",
-      "Minimum Number of hospitals about 247.0 was reached at Year 2017",
-      "The line drastically "
+      "Minimum Number of hospitals about 247.0 was reached at Year 2017"
    ],
    "trends": [],
    "data": [

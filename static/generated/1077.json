@@ -9,35 +9,14 @@
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "The given chart is of multi-line type with 2 lines namely Luxury segment, and All retail. The y axis represents SOME LABEL and the x axis represents Year.",
-      "Overall All retail is gradually increasing, Luxury segment is roughly constant,  throughout the Year",
-      "The ranking of the lines from topmost to botommmost is as follows: 1. Luxury segment, and lastly, 2. All retail. ",
-      "Throughout the period, Luxury segment generally had the highest SOME LABEL relative to others with an average of 24.4, and it reached its maximum at 2013-2018 with a value of 24.8.",
-      "All retail mostly had the least SOME LABEL with a mean value of 9.5, which peaked at 2013-2018 with a value of 11.9. ",
-      "The difference of SOME LABEL between Luxury segment and All retail is smaller at Year 2013-2018 compared to the Year 2008-2013."
+      "The gap between the lines at Year 2013-2018 is 12.9 ."
    ],
    "xAxis": "Year",
-   "yAxis": "SOME LABEL",
-   "min_summary": [
-      "You are viewing a chart of multi-line type with 2 lines denoting Luxury segment, and All retail. The y axis indicates the SOME LABEL and the x axis indicates Year.",
-      "Overall All retail is gradually increasing, Luxury segment is roughly constant,  throughout the Year",
-      "Overall across the Year, Luxury segment mostly maintained the highest SOME LABEL when compared to others with a mean value of 24.4, and it peaked at 2013-2018.",
-      "All retail mostly had the least SOME LABEL with a mean value of 9.5, which peaked at 2013-2018 with a value of 11.9. "
-   ],
-   "mid_summary": [
-      "You are viewing a chart of multi-line type with 2 lines denoting Luxury segment, and All retail. The y axis indicates the SOME LABEL and the x axis indicates Year.",
-      "Overall All retail is gradually increasing, Luxury segment is roughly constant,  throughout the Year",
-      "The lines ordered according to average values of SOME LABEL in descending order is: 1. Luxury segment, and lastly, 2. All retail. ",
-      "Throughout the period, Luxury segment generally had the highest SOME LABEL relative to others with an average of 24.4, and it reached its maximum at 2013-2018 with a value of 24.8.",
-      "The botommost line, All retail,  has a mean of 9.5, and peaked at 2013-2018. "
-   ],
+   "yAxis": "Revenue in billion U.S. dollars",
+   "min_summary": [],
+   "mid_summary": [],
    "max_summary": [
-      "This is a multi-line chart with 2 lines representing Luxury segment, and All retail. The y axis denotes SOME LABEL and the x axis denotes Year.",
-      "Overall All retail is gradually increasing, Luxury segment is roughly constant,  throughout the Year",
-      "The lines ordered according to average values of SOME LABEL in descending order is: 1. Luxury segment, and lastly, 2. All retail. ",
-      "Throughout the period, Luxury segment generally had the highest SOME LABEL relative to others with an average of 24.4, and it reached its maximum at 2013-2018 with a value of 24.8.",
-      "All retail mostly had the least SOME LABEL with a mean value of 9.5, which peaked at 2013-2018 with a value of 11.9. ",
-      "The greatest difference of SOME LABEL between Luxury segment and All retail occurs at Year 2008-2013 and the smallest difference occurs at 2013-2018."
+      "The gap between the lines at Year 2013-2018 is 12.9 ."
    ],
    "trends": [
       {},

@@ -12,31 +12,31 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart represents 12 different Countrys on X-axis for 5 groups 2014, 2015, 2016, 2017, and 2018. On the Y-axis it shows their corresponding SOME LABEL. ",
-      " Country United Kingdom had the maximum SOME LABEL among all 5 groups, and it was for 2017. The minimum SOME LABEL was observed in Country Switzerland for 2014. ",
-      " In Country United Kingdom, 2017 had the maximum SOME LABEL and it saw the lowest in Country France out of all 12 Countrys. ",
-      "Country United Kingdom and France had the biggest gap of 168.0 between the highest and lowest SOME LABEL found for 2017. "
+      "This grouped bar chart represents 12 different Countrys on X-axis for 5 groups 2014, 2015, 2016, 2017, and 2018. On the Y-axis it shows their corresponding Share of retail trade. ",
+      " Out of all 5 groups, 2017 had the highest Share of retail trade in Country United Kingdom and 2014 had the lowest Share of retail trade in Country Switzerland. ",
+      " In Country United Kingdom, 2014 had the maximum Share of retail trade and it saw the lowest in Country Switzerland out of all 12 Countrys. ",
+      "Country United Kingdom and Switzerland had the biggest gap of 134.0 between the highest and lowest Share of retail trade found for 2014. "
    ],
    "xAxis": "Country",
-   "yAxis": "SOME LABEL",
+   "yAxis": "Share of retail trade",
    "min_summary": [
-      "This grouped bar chart represents 12 different Countrys on X-axis for 5 groups 2014, 2015, 2016, 2017, and 2018. On the Y-axis it shows their corresponding SOME LABEL. ",
-      " Country United Kingdom had the maximum SOME LABEL among all 5 groups, and it was for 2017. The minimum SOME LABEL was observed in Country Switzerland for 2014. "
+      "This grouped bar chart shows Share of retail trade on the Y-axis for 12 different Countrys for 5 groups 2014, 2015, 2016, 2017, and 2018 that are presented on the X-axis. ",
+      " In Country United Kingdom, 2017 had the highest Share of retail trade 178.0 among the 5 groups and in Switzerland, 2014 had the lowest Share of retail trade 0.0. "
    ],
    "mid_summary": [
-      "This grouped bar chart represents 12 different Countrys on X-axis for 5 groups 2014, 2015, 2016, 2017, and 2018. On the Y-axis it shows their corresponding SOME LABEL. ",
-      " Country United Kingdom had the maximum SOME LABEL among all 5 groups, and it was for 2017. The minimum SOME LABEL was observed in Country Switzerland for 2014. ",
-      " In Country United Kingdom, 2017 had the maximum SOME LABEL and it saw the lowest in Country France out of all 12 Countrys. ",
-      "Country United Kingdom and France had the biggest gap of 168.0 between the highest and lowest SOME LABEL found for 2017. "
+      "This grouped bar chart represents 12 different Countrys on X-axis for 5 groups 2014, 2015, 2016, 2017, and 2018. On the Y-axis it shows their corresponding Share of retail trade. ",
+      " Out of all 5 groups, 2017 had the highest Share of retail trade in Country United Kingdom and 2014 had the lowest Share of retail trade in Country Switzerland. ",
+      " In Country United Kingdom, 2014 had the maximum Share of retail trade and it saw the lowest in Country Switzerland out of all 12 Countrys. ",
+      "Country United Kingdom and Switzerland had the biggest gap of 134.0 between the highest and lowest Share of retail trade found for 2014. "
    ],
    "max_summary": [
-      "This grouped bar chart shows SOME LABEL on the Y-axis for 12 different Countrys for 5 groups 2014, 2015, 2016, 2017, and 2018 that are presented on the X-axis. ",
-      " Out of all 5 groups, 2017 had the highest SOME LABEL in Country United Kingdom and 2014 had the lowest SOME LABEL in Country Switzerland. ",
-      " In Country United Kingdom, 2017 had the maximum SOME LABEL and it saw the lowest in Country France out of all 12 Countrys. ",
-      " There is a gap of 168.0 between the highest and lowest SOME LABEL found for 2017 in Country United Kingdom and France. ",
-      " Among all 5 groups, 2017 had the gap of 168.0 between the maximum and minimum SOME LABEL observed in Country United Kingdom and France respectively. ",
-      " 2017 had the maximum SOME LABEL out of all 5 groups in Country United Kingdom followed by 2017 in United Kingdom, and the minimum SOME LABEL is found for 2014 in Switzerland. ",
-      "On average, the Country United Kingdom had the highest SOME LABEL for all 5 groups 2014, 2015, 2016, 2017, and 2018. Whereas Italy had the lowest average SOME LABEL. "
+      "This grouped bar chart represents 12 different Countrys on X-axis for 5 groups 2014, 2015, 2016, 2017, and 2018. On the Y-axis it shows their corresponding Share of retail trade. ",
+      " In Country United Kingdom, 2017 had the highest Share of retail trade 178.0 among the 5 groups and in Switzerland, 2014 had the lowest Share of retail trade 0.0. ",
+      " In Country United Kingdom, 2014 had the highest Share of retail trade among all 12 Countrys and it has the lowest Share of retail trade in Country Switzerland. ",
+      " There is a gap of 134.0 between the highest and lowest Share of retail trade found for 2014 in Country United Kingdom and Switzerland. ",
+      " Among the groups, 2017 had the biggest difference in Share of retail trade. Where the maximum Share of retail trade was 17.8 times larger than the minimum Share of retail trade. ",
+      " In Country United Kingdom, 2017 had the highest Share of retail trade 178.0 among the 5 groups and in Switzerland, 2014 had the lowest Share of retail trade 0.0. The second highest Share of retail trade 152.0 was observed for 2017 in Country United Kingdom. ",
+      "On average, the Country United Kingdom had the highest Share of retail trade for all 5 groups 2014, 2015, 2016, 2017, and 2018. Whereas Italy had the lowest average Share of retail trade. "
    ],
    "trends": [
       {},

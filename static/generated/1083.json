@@ -8,25 +8,24 @@
    "summary": [
       "This is a bar chart. It shows Share of shipments for 7 number of Brands. ",
       "The maximum Share of shipments 24.1 is found at Brand Lenovo and the minimum is found at Asus where Brand is 5.5. ",
-      "There is a difference of 18.6 between the maximum Brand Lenovo and minimum Brand Asus. "
+      "Brand Asus has 4.38 times less Share of shipments than Brand Lenovo which is the highest. "
    ],
    "min_summary": [
-      "This is a bar chart representing Brand in the x axis and Share of shipments in the y axis. ",
-      "The maximum Share of shipments 24.1 is found at Brand Lenovo and the minimum is found at Asus where Brand is 5.5. "
+      "This is a bar chart. It shows Share of shipments for 7 number of Brands. ",
+      "The Share of shipments is highest at Brand Lenovo and lowest at Brand Asus. "
    ],
    "mid_summary": [
       "This is a bar chart. It shows Share of shipments for 7 number of Brands. ",
       "The maximum Share of shipments 24.1 is found at Brand Lenovo and the minimum is found at Asus where Brand is 5.5. ",
-      "There is a difference of 18.6 between the maximum Brand Lenovo and minimum Brand Asus. "
+      "Brand Asus has 4.38 times less Share of shipments than Brand Lenovo which is the highest. "
    ],
    "max_summary": [
-      "This bar chart has 7 columns on the x axis representing Brand, and Share of shipments in each Brand on the y axis. ",
+      "This is a bar chart. It shows Share of shipments for 7 number of Brands. ",
       "The Share of shipments is highest at Brand Lenovo and lowest at Brand Asus. ",
-      "The second highest Share of shipments is appeared to be the Brand HP Inc. ",
-      "The difference of Share of shipments between the highest and lowest Brand is 18.6. ",
+      "Brand Lenovo has 4.38 times more Share of shipments than Brand Asus which is has the lowest. ",
       "The Brand Lenovo has the highest Share of shipments, followed by HP Inc, and Others. Down to the Brand Asus which is the lowest. ",
-      "The average Share of shipments in all 7 Brands is 14.29. ",
-      "Summing up the values of all Brands, we get total 100.0. "
+      "Considered together, the average Share of shipments in all 7 Brands is roughly 14.29. ",
+      "The Share of shipments is 100.0 if we add up values of all Brands. "
    ],
    "trends": [
       {},

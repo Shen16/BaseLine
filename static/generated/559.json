@@ -6,27 +6,27 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 42 columns on the x axis representing Month, and Units sold in each Month on the y axis. ",
-      "The Units sold is appeared to be the highest at Month Mar 17 and lowest at Month Aug 19. ",
-      "The difference of Units sold between the highest and lowest Month is 12049.0. "
+      "This is a bar chart. It shows Units sold for 42 number of Months. ",
+      "Month Mar 17 has the highest Units sold and Aug 19 has the lowest Units sold. ",
+      "There is a difference of 12049.0 between the maximum Month Mar 17 and minimum Month Aug 19. "
    ],
    "min_summary": [
-      "This is a bar chart. It shows Units sold for 42 number of Months. ",
+      "This bar chart has 42 columns on the x axis representing Month, and Units sold in each Month on the y axis. ",
       "Month Mar 17 has the highest Units sold and Aug 19 has the lowest Units sold. "
    ],
    "mid_summary": [
-      "This bar chart has 42 columns on the x axis representing Month, and Units sold in each Month on the y axis. ",
-      "The Units sold is appeared to be the highest at Month Mar 17 and lowest at Month Aug 19. ",
-      "The difference of Units sold between the highest and lowest Month is 12049.0. "
+      "This is a bar chart. It shows Units sold for 42 number of Months. ",
+      "Month Mar 17 has the highest Units sold and Aug 19 has the lowest Units sold. ",
+      "There is a difference of 12049.0 between the maximum Month Mar 17 and minimum Month Aug 19. "
    ],
    "max_summary": [
-      "This bar chart has 42 columns on the x axis representing Month, and Units sold in each Month on the y axis. ",
-      "Month Mar 17 has the highest Units sold and Aug 19 has the lowest Units sold. ",
-      "Month Sep 16 has the second highest value for Units sold. ",
-      "The Units sold of Month Aug 19 is 14.68% smaller than the maximum value at Mar 17. ",
-      "Month Mar 17 is higher than any other Months with value 12930.0, followed by Sep 16, and Mar 18. Down to Month Aug 19 with the lowest value 881.0. ",
-      "The Units sold has increased over the past 42 Months. ",
-      "The highest value 12930.0 at Mar 17 is almost 3.96 times larger than the average value 3268.43. "
+      "This is a bar chart representing Month in the x axis and Units sold in the y axis. ",
+      "The Units sold is highest at Month Mar 17 and lowest at Month Aug 19. ",
+      "The highest value at Month Mar 17 is 14.68x times more than the lowest value at Aug 19. ",
+      "Units sold at Month Mar 17 is 12930.0 , second place is Sep 16 at 11319.0, and thirdly is Mar 18 at 8524.0.",
+      "The Units sold has risen over the past 42 Months. ",
+      "The lowest value 881.0 at Aug 19 is almost 3.96 times smaller than the average value 3268.43. ",
+      "Summing up the values of all Months, we get total 137274.0. "
    ],
    "trends": [
       {},

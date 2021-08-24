@@ -6,27 +6,26 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This is a bar chart. It shows Number of registered automobiles for 51 number of States. ",
-      "The maximum Number of registered automobiles 14860967.0 is found at State California and the minimum is found at Alaska where State is 173487.0. ",
-      "The highest State California has 14687480.0 more Number of registered automobiles than the lowest State Alaska. "
+      "This is a bar chart representing State in the x axis and Number of registered automobiles in the y axis. ",
+      "State California has the highest Number of registered automobiles and Alaska has the lowest Number of registered automobiles. ",
+      "The difference of Number of registered automobiles between the highest and lowest State is 14687480.0. "
    ],
    "min_summary": [
       "This is a bar chart representing State in the x axis and Number of registered automobiles in the y axis. ",
       "The maximum Number of registered automobiles 14860967.0 is found at State California and the minimum is found at Alaska where State is 173487.0. "
    ],
    "mid_summary": [
-      "This is a bar chart. It shows Number of registered automobiles for 51 number of States. ",
-      "The maximum Number of registered automobiles 14860967.0 is found at State California and the minimum is found at Alaska where State is 173487.0. ",
-      "The highest State California has 14687480.0 more Number of registered automobiles than the lowest State Alaska. "
+      "This is a bar chart representing State in the x axis and Number of registered automobiles in the y axis. ",
+      "State California has the highest Number of registered automobiles and Alaska has the lowest Number of registered automobiles. ",
+      "The difference of Number of registered automobiles between the highest and lowest State is 14687480.0. "
    ],
    "max_summary": [
-      "This is a bar chart. It shows Number of registered automobiles for 51 number of States. ",
-      "State California has the highest Number of registered automobiles and Alaska has the lowest Number of registered automobiles. ",
-      "The second highest Number of registered automobiles is appeared to be the State Texas. ",
-      "The highest State California has 14687480.0 more Number of registered automobiles than the lowest State Alaska. ",
-      "State California is higher than any other States with value 14860967.0, followed by Texas, and Florida. Down to State Alaska with the lowest value 173487.0. ",
-      "The lowest value 173487.0 at Alaska is almost 6.82 times smaller than the average value 2179941.75. ",
-      "Summing up the values of all States, we get total 111177029.0. "
+      "This is a bar chart representing State in the x axis and Number of registered automobiles in the y axis. ",
+      "The Number of registered automobiles is appeared to be the highest at State California and lowest at State Alaska. ",
+      "State Texas has the second highest value for Number of registered automobiles. ",
+      "The highest value at State California is 85.66x times more than the lowest value at Alaska. ",
+      "The State California has the highest Number of registered automobiles, followed by Texas, and Florida. Down to the State Alaska which is the lowest. ",
+      "The average Number of registered automobiles in all 51 States is 2179941.75. "
    ],
    "trends": [
       {},

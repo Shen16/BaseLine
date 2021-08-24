@@ -6,28 +6,29 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This is a bar chart. It shows Number of stores for 12 number of Months. ",
-      "The Number of stores is highest at Month Ontario and lowest at Month Yukon. ",
-      "The lowest value at Month Yukon is 254.0x times less than the highest value at Ontario. "
+      "This bar chart has 12 columns on the x axis representing Month, and Number of stores in each Month on the y axis. ",
+      "Month Ontario has the highest Number of stores and Yukon has the lowest Number of stores. ",
+      "The Number of stores of Month Ontario is 254.0% larger than the minimum value at Yukon. "
    ],
    "min_summary": [
       "This is a bar chart representing Month in the x axis and Number of stores in the y axis. ",
-      "The Number of stores is highest at Month Ontario and lowest at Month Yukon. "
+      "The Number of stores is appeared to be the highest at Month Ontario and lowest at Month Yukon. "
    ],
    "mid_summary": [
-      "This is a bar chart. It shows Number of stores for 12 number of Months. ",
-      "The Number of stores is highest at Month Ontario and lowest at Month Yukon. ",
-      "The lowest value at Month Yukon is 254.0x times less than the highest value at Ontario. "
+      "This bar chart has 12 columns on the x axis representing Month, and Number of stores in each Month on the y axis. ",
+      "Month Ontario has the highest Number of stores and Yukon has the lowest Number of stores. ",
+      "The Number of stores of Month Ontario is 254.0% larger than the minimum value at Yukon. "
    ],
    "max_summary": [
-      "This is a bar chart representing Month in the x axis and Number of stores in the y axis. ",
-      "Month Ontario has the highest Number of stores and Yukon has the lowest Number of stores. ",
-      "Second maximum Number of stores is found at Month Quebec. ",
-      "The difference of Number of stores between the highest and lowest Month is 759.0. ",
-      "Number of stores at Month Ontario is 762.0 , second place is Quebec at 469.0, and thirdly is British Columbia at 348.0.",
-      "Over the past 12 Months, the Number of stores has reduced. ",
-      "Month Yukon, and Northwest Territories have the same Number of stores. ",
-      "The lowest value 3.0 at Yukon is almost 4.36 times smaller than the average value 174.83. "
+      "This is a bar chart. It shows Number of stores for 12 number of Months. ",
+      "The Number of stores is appeared to be the highest at Month Ontario and lowest at Month Yukon. ",
+      "The second highest Number of stores is appeared to be the Month Quebec. ",
+      "The maximum Month Ontario has got 254.0 times higher Number of stores than the minimum Month Yukon. ",
+      "The Month Ontario has the highest Number of stores, followed by Quebec, and British Columbia. Down to the Month Yukon which is the lowest. ",
+      "Over the past 12 Months, the Number of stores has declined. ",
+      "Month Yukon, and Northwest Territories have a similar Number of stores that is 3.0. ",
+      "The Month Ontario has 4.36 times more Number of stores than average. ",
+      "The Number of stores is 2098.0 if we add up values of all Months. "
    ],
    "trends": [
       {},

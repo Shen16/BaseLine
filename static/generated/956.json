@@ -11,39 +11,14 @@
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This is a multi-line chart with 4 lines representing 18-29, 30-49, 50-64, and 65+. The y axis denotes SOME LABEL and the x axis denotes Year.",
-      "Overall 18-29, 30-49, 50-64, and 65+ are gradually increasing,  throughout the Year",
-      "The ranking of the lines from topmost to botommmost is as follows: 1. 18-29, 2. 30-49, 3. 50-64, and lastly, 4. 65+. ",
-      "Overall across the Year, 18-29 mostly maintained the highest SOME LABEL when compared to others with a mean value of 92.0, and it peaked at 2018.",
-      "Followed by 30-49 which ranks as the second topmpost line , with an average of 88.0 SOME LABEL,reaching its highest point  at 2018 with a value of 92.0. ",
-      "The botommost line, 65+,  has a mean of 42.75, and peaked at 2018. ",
-      "65+ reported the lowest SOME LABEL about 30.0 in Year 2015"
+      "The minimum Percentage of respondents about 42.0, occured at 2016 by 65+."
    ],
    "xAxis": "Year",
-   "yAxis": "SOME LABEL",
-   "min_summary": [
-      "The given chart is of multi-line type with 4 lines namely 18-29, 30-49, 50-64, and 65+. The y axis represents SOME LABEL and the x axis represents Year.",
-      "Overall 18-29, 30-49, 50-64, and 65+ are gradually increasing,  throughout the Year",
-      "Throughout the period, 18-29 generally had the highest SOME LABEL relative to others with an average of 92.0, and it reached its maximum at 2018 with a value of 96.0.",
-      "After 18-29, 30-49 overall has the second highest values , with a mean value of 88.0, peaking at 2018. ",
-      "65+ mostly had the least SOME LABEL with a mean value of 42.75, which peaked at 2018 with a value of 53.0. "
-   ],
-   "mid_summary": [
-      "The given chart is of multi-line type with 4 lines namely 18-29, 30-49, 50-64, and 65+. The y axis represents SOME LABEL and the x axis represents Year.",
-      "Overall 18-29, 30-49, 50-64, and 65+ are gradually increasing,  throughout the Year",
-      "The ranking of the lines from topmost to botommmost is as follows: 1. 18-29, 2. 30-49, 3. 50-64, and lastly, 4. 65+. ",
-      "Throughout the period, 18-29 generally had the highest SOME LABEL relative to others with an average of 92.0, and it reached its maximum at 2018 with a value of 96.0.",
-      "Followed by 30-49 which ranks as the second topmpost line , with an average of 88.0 SOME LABEL,reaching its highest point  at 2018 with a value of 92.0. ",
-      "65+ mostly had the least SOME LABEL with a mean value of 42.75, which peaked at 2018 with a value of 53.0. "
-   ],
+   "yAxis": "Percentage of respondents",
+   "min_summary": [],
+   "mid_summary": [],
    "max_summary": [
-      "The given chart is of multi-line type with 4 lines namely 18-29, 30-49, 50-64, and 65+. The y axis represents SOME LABEL and the x axis represents Year.",
-      "Overall 18-29, 30-49, 50-64, and 65+ are gradually increasing,  throughout the Year",
-      "The ranking of the lines from topmost to botommmost is as follows: 1. 18-29, 2. 30-49, 3. 50-64, and lastly, 4. 65+. ",
-      "Throughout the period, 18-29 generally had the highest SOME LABEL relative to others with an average of 92.0, and it reached its maximum at 2018 with a value of 96.0.",
-      "Followed by 30-49 which ranks as the second topmpost line , with an average of 88.0 SOME LABEL,reaching its highest point  at 2018 with a value of 92.0. ",
-      "65+ mostly had the least SOME LABEL with a mean value of 42.75, which peaked at 2018 with a value of 53.0. ",
-      "65+ reported the lowest SOME LABEL about 30.0 in Year 2015"
+      "65+ reported the lowest Percentage of respondents about 42.0 in Year 2016"
    ],
    "trends": [
       {},

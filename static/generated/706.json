@@ -6,26 +6,27 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This is a bar chart representing Region in the x axis and Number of employees in the y axis. ",
-      "The maximum Number of employees 70599.0 is found at Region Europe and the minimum is found at Africa India Middle-East where Region is 1848.0. ",
-      "The highest Region Europe has 68751.0 more Number of employees than the lowest Region Africa India Middle-East. "
+      "This is a bar chart. It shows Number of employees for 5 number of Regions. ",
+      "The Number of employees is appeared to be the highest at Region Europe and lowest at Region Africa India Middle-East. ",
+      "The difference of Number of employees between the highest and lowest Region is 68751.0. "
    ],
    "min_summary": [
-      "This is a bar chart. It shows Number of employees for 5 number of Regions. ",
-      "Region Europe has the highest Number of employees and Africa India Middle-East has the lowest Number of employees. "
+      "This is a bar chart representing Region in the x axis and Number of employees in the y axis. ",
+      "The Number of employees is highest at Region Europe and lowest at Region Africa India Middle-East. "
    ],
    "mid_summary": [
-      "This is a bar chart representing Region in the x axis and Number of employees in the y axis. ",
-      "The maximum Number of employees 70599.0 is found at Region Europe and the minimum is found at Africa India Middle-East where Region is 1848.0. ",
-      "The highest Region Europe has 68751.0 more Number of employees than the lowest Region Africa India Middle-East. "
+      "This is a bar chart. It shows Number of employees for 5 number of Regions. ",
+      "The Number of employees is appeared to be the highest at Region Europe and lowest at Region Africa India Middle-East. ",
+      "The difference of Number of employees between the highest and lowest Region is 68751.0. "
    ],
    "max_summary": [
-      "This is a bar chart representing Region in the x axis and Number of employees in the y axis. ",
-      "The maximum Number of employees 70599.0 is found at Region Europe and the minimum is found at Africa India Middle-East where Region is 1848.0. ",
-      "The highest Region Europe has 68751.0 more Number of employees than the lowest Region Africa India Middle-East. ",
-      "Region Europe is higher than any other Regions with value 70599.0, followed by North America, and Asia (excl. India). Down to Region Africa India Middle-East with the lowest value 1848.0. ",
-      "The lowest value 1848.0 at Africa India Middle-East is almost 3.01 times smaller than the average value 23482.6. ",
-      "Summing up the values of all Regions, we get total 117413.0. "
+      "This is a bar chart. It shows Number of employees for 5 number of Regions. ",
+      "The Number of employees is appeared to be the highest at Region Europe and lowest at Region Africa India Middle-East. ",
+      "The second highest Number of employees is appeared to be the Region North America. ",
+      "The difference of Number of employees between the highest and lowest Region is 68751.0. ",
+      "Number of employees at Region Europe is 70599.0 , second place is North America at 21541.0, and thirdly is Asia (excl. India) at 15259.0.",
+      "The Region Africa India Middle-East has 3.01 times less Number of employees than average. ",
+      "The Number of employees is 117413.0 if we add up values of all Regions. "
    ],
    "trends": [
       {},

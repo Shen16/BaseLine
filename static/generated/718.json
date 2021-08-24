@@ -13,38 +13,14 @@
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This is a multi-line chart with 6 lines representing \"Systeme A\", Carrefour, Leclerc, Intermarche, Casino, and Other. The y axis denotes SOME LABEL and the x axis denotes Year.",
-      "Overall \"Systeme A\", and Leclerc are gradually increasing, Carrefour, Casino, and Other are gradually decreasing, Intermarche is roughly constant,  throughout the Year",
-      "Overall across the Year, \"Systeme A\" mostly maintained the highest SOME LABEL when compared to others with a mean value of 21.47, and it peaked at 2013.",
-      "Followed by Carrefour which ranks as the second topmpost line , with an average of 20.8 SOME LABEL,reaching its highest point  at 2008 with a value of 22.9. ",
-      "The botommost line, Casino,  has a mean of 10.57, and peaked at 2008. ",
-      "The maximum SOME LABEL about 22.9, occured at 2008 by Carrefour.",
-      "The minimum SOME LABEL about 9.9, occured at 2018 by Casino."
+      "The minimum Share of market about 10.2, occured at 2013 by Casino."
    ],
    "xAxis": "Year",
-   "yAxis": "SOME LABEL",
-   "min_summary": [
-      "You are viewing a chart of multi-line type with 6 lines denoting \"Systeme A\", Carrefour, Leclerc, Intermarche, Casino, and Other. The y axis indicates the SOME LABEL and the x axis indicates Year.",
-      "Overall \"Systeme A\", and Leclerc are gradually increasing, Carrefour, Casino, and Other are gradually decreasing, Intermarche is roughly constant,  throughout the Year",
-      "Overall across the Year, \"Systeme A\" mostly maintained the highest SOME LABEL when compared to others with a mean value of 21.47, and it peaked at 2013.",
-      "Followed by Carrefour which ranks as the second topmpost line , with an average of 20.8 SOME LABEL,reaching its highest point  at 2008 with a value of 22.9. ",
-      "Casino mostly had the least SOME LABEL with a mean value of 10.57, which peaked at 2008 with a value of 11.6. "
-   ],
-   "mid_summary": [
-      "This is a multi-line chart with 6 lines representing \"Systeme A\", Carrefour, Leclerc, Intermarche, Casino, and Other. The y axis denotes SOME LABEL and the x axis denotes Year.",
-      "Overall \"Systeme A\", and Leclerc are gradually increasing, Carrefour, Casino, and Other are gradually decreasing, Intermarche is roughly constant,  throughout the Year",
-      "Overall across the Year, \"Systeme A\" mostly maintained the highest SOME LABEL when compared to others with a mean value of 21.47, and it peaked at 2013.",
-      "Followed by Carrefour which ranks as the second topmpost line , with an average of 20.8 SOME LABEL,reaching its highest point  at 2008 with a value of 22.9. ",
-      "The botommost line, Casino,  has a mean of 10.57, and peaked at 2008. "
-   ],
+   "yAxis": "Share of market",
+   "min_summary": [],
+   "mid_summary": [],
    "max_summary": [
-      "You are viewing a chart of multi-line type with 6 lines denoting \"Systeme A\", Carrefour, Leclerc, Intermarche, Casino, and Other. The y axis indicates the SOME LABEL and the x axis indicates Year.",
-      "Overall \"Systeme A\", and Leclerc are gradually increasing, Carrefour, Casino, and Other are gradually decreasing, Intermarche is roughly constant,  throughout the Year",
-      "Overall across the Year, \"Systeme A\" mostly maintained the highest SOME LABEL when compared to others with a mean value of 21.47, and it peaked at 2013.",
-      "Followed by Carrefour which ranks as the second topmpost line , with an average of 20.8 SOME LABEL,reaching its highest point  at 2008 with a value of 22.9. ",
-      "The botommost line, Casino,  has a mean of 10.57, and peaked at 2008. ",
-      "Carrefour reported the highest SOME LABEL about 22.9 in Year 2008",
-      "The minimum SOME LABEL about 9.9, occured at 2018 by Casino."
+      "The minimum Share of market about 10.2, occured at 2013 by Casino."
    ],
    "trends": [
       {},
@@ -60,11 +36,11 @@
       },
       {
          "1": [
-            "1",
+            "0",
             "0"
          ],
          "9": [
-            "1",
+            "0",
             "0"
          ]
       },

@@ -6,27 +6,26 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This is a bar chart. It shows Costs in billion euros for 6 number of Airports. ",
-      "Airport Hong Kong (China) has the highest Costs in billion euros and Berlin-Brandenburg (Germany) has the lowest Costs in billion euros. ",
+      "This bar chart has 6 columns on the x axis representing Airport, and Costs in billion euros in each Airport on the y axis. ",
+      "The Costs in billion euros is appeared to be the highest at Airport Hong Kong (China) and lowest at Airport Berlin-Brandenburg (Germany). ",
       "The highest Airport Hong Kong (China) has 12.9 more Costs in billion euros than the lowest Airport Berlin-Brandenburg (Germany). "
    ],
    "min_summary": [
-      "This is a bar chart representing Airport in the x axis and Costs in billion euros in the y axis. ",
-      "The Costs in billion euros is highest at Airport Hong Kong (China) and lowest at Airport Berlin-Brandenburg (Germany). "
+      "This is a bar chart. It shows Costs in billion euros for 6 number of Airports. ",
+      "The Costs in billion euros is appeared to be the highest at Airport Hong Kong (China) and lowest at Airport Berlin-Brandenburg (Germany). "
    ],
    "mid_summary": [
-      "This is a bar chart. It shows Costs in billion euros for 6 number of Airports. ",
-      "Airport Hong Kong (China) has the highest Costs in billion euros and Berlin-Brandenburg (Germany) has the lowest Costs in billion euros. ",
+      "This bar chart has 6 columns on the x axis representing Airport, and Costs in billion euros in each Airport on the y axis. ",
+      "The Costs in billion euros is appeared to be the highest at Airport Hong Kong (China) and lowest at Airport Berlin-Brandenburg (Germany). ",
       "The highest Airport Hong Kong (China) has 12.9 more Costs in billion euros than the lowest Airport Berlin-Brandenburg (Germany). "
    ],
    "max_summary": [
       "This is a bar chart representing Airport in the x axis and Costs in billion euros in the y axis. ",
-      "Airport Hong Kong (China) has the highest Costs in billion euros and Berlin-Brandenburg (Germany) has the lowest Costs in billion euros. ",
-      "Second maximum Costs in billion euros is found at Airport Kansai/Osaka (Japan). ",
+      "The Costs in billion euros is appeared to be the highest at Airport Hong Kong (China) and lowest at Airport Berlin-Brandenburg (Germany). ",
       "There is a difference of 12.9 between the maximum Airport Hong Kong (China) and minimum Airport Berlin-Brandenburg (Germany). ",
-      "Costs in billion euros at Airport Hong Kong (China) is 15.9 , second place is Kansai/Osaka (Japan) at 15.9, and thirdly is Doha (Katar) at 8.8.",
+      "The Airport Hong Kong (China) has the highest Costs in billion euros, followed by Kansai/Osaka (Japan), and Doha (Katar). Down to the Airport Berlin-Brandenburg (Germany) which is the lowest. ",
       "Airport Hong Kong (China), and Kansai/Osaka (Japan) share the same value 15.9. ",
-      "The lowest value 3.0 at Berlin-Brandenburg (Germany) is almost 1.7 times smaller than the average value 9.35. ",
+      "The highest value 15.9 at Hong Kong (China) is almost 1.7 times larger than the average value 9.35. ",
       "The Costs in billion euros is 56.1 if we add up values of all Airports. "
    ],
    "trends": [

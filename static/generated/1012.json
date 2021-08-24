@@ -6,35 +6,33 @@
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "This is a line chart with an x axis representing Year and a y axis representing Spending in billion U.S. dollars, containing a total of 22 data points.",
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Spending in billion U.S. dollars. In total the number of data points it has is 22.",
       " Overall Spending in billion U.S. dollars has increased over the Year.",
       "Spending in billion U.S. dollars is roughly constant from 1998 to 1999, rapidly increasing from 1999 to 2008, roughly constant from 2008 to 2016, roughly increasing from 2016 to 2017, and lastly roughly constant from 2017 to 2019.",
-      "The line rapidly ",
       "The steepest increase occurs in between the Year 2007 and 2008.",
-      "Maximum Spending in billion U.S. dollars, about 3.51 was reported at Year 2010",
-      "The lowest Spending in billion U.S. dollars, of value 1.44 was reported at Year 1999"
+      "The highest Spending in billion U.S. dollars, of value 3.51 was reached at Year 2010",
+      "Minimum Spending in billion U.S. dollars about 1.44 was reached at Year 1999"
    ],
    "min_summary": [
       "This is a line chart with an x axis representing Year and a y axis representing Spending in billion U.S. dollars, containing a total of 22 data points.",
-      " Overall Spending in billion U.S. dollars has increased over the Year.",
+      " In general Spending in billion U.S. dollars has rose over the Year.",
       "Spending in billion U.S. dollars is roughly constant from 1998 to 1999, rapidly increasing from 1999 to 2008, roughly constant from 2008 to 2016, roughly increasing from 2016 to 2017, and lastly roughly constant from 2017 to 2019."
    ],
    "mid_summary": [
+      "The chart at hand is a line chart where the x axis denotes Year and a y axis denotes Spending in billion U.S. dollars. In total the number of data points it has is 22.",
+      " In general Spending in billion U.S. dollars has rose over the Year.",
+      "Spending in billion U.S. dollars is roughly constant from 1998 to 1999, rapidly increasing from 1999 to 2008, roughly constant from 2008 to 2016, roughly increasing from 2016 to 2017, and lastly roughly constant from 2017 to 2019.",
+      "The most drastic increase took place within the Year 2007 and 2008.",
+      "The highest Spending in billion U.S. dollars, of value 3.51 was reached at Year 2010",
+      "Minimum Spending in billion U.S. dollars about 1.44 was reached at Year 1999"
+   ],
+   "max_summary": [
       "This is a line chart with an x axis representing Year and a y axis representing Spending in billion U.S. dollars, containing a total of 22 data points.",
       " In general Spending in billion U.S. dollars has rose over the Year.",
       "Spending in billion U.S. dollars is roughly constant from 1998 to 1999, rapidly increasing from 1999 to 2008, roughly constant from 2008 to 2016, roughly increasing from 2016 to 2017, and lastly roughly constant from 2017 to 2019.",
       "The steepest increase occurs in between the Year 2007 and 2008.",
-      "Maximum Spending in billion U.S. dollars, about 3.51 was reported at Year 2010",
-      "The lowest Spending in billion U.S. dollars, of value 1.44 was reported at Year 1999"
-   ],
-   "max_summary": [
-      "This is a line chart with an x axis representing Year and a y axis representing Spending in billion U.S. dollars, containing a total of 22 data points.",
-      " Overall Spending in billion U.S. dollars has increased over the Year.",
-      "Spending in billion U.S. dollars is roughly constant from 1998 to 1999, rapidly increasing from 1999 to 2008, roughly constant from 2008 to 2016, roughly increasing from 2016 to 2017, and lastly roughly constant from 2017 to 2019.",
-      "The most drastic increase took place within the Year 2007 and 2008.",
-      "Maximum Spending in billion U.S. dollars, about 3.51 was reported at Year 2010",
-      "The lowest Spending in billion U.S. dollars, of value 1.44 was reported at Year 1999",
-      "The line significantly "
+      "The highest Spending in billion U.S. dollars, of value 3.51 was reached at Year 2010",
+      "Minimum Spending in billion U.S. dollars about 1.44 was reached at Year 1999"
    ],
    "trends": [],
    "data": [

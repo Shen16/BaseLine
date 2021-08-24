@@ -9,37 +9,23 @@
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "You are viewing a chart of multi-line type with 2 lines denoting Catalonia, and Spain. The y axis indicates the GDP in million euros and the x axis indicates Year.",
-      "Overall Catalonia, and Spain are gradually increasing,  throughout the Year",
+      "Overall Spain is gradually increasing, Catalonia is roughly constant,  throughout the Year",
       "The ranking of the lines from topmost to botommmost is as follows: 1. Spain, and lastly, 2. Catalonia. ",
-      "Overall across the Year, Spain mostly maintained the highest GDP in million euros when compared to others with a mean value of 1033076.2, and it peaked at 2017.",
-      "The botommost line, Catalonia,  has a mean of 203604.2, and peaked at 2017. ",
-      "The minimum GDP in million euros about 156600.0, occured at 2003 by Catalonia.",
-      "The greatest difference of GDP in million euros between Catalonia and Spain occurs at Year 2017 and the smallest difference occurs at 2003."
+      "Catalonia reported the lowest GDP in million euros about 199169.0 in Year 2006",
+      "The greatest difference of GDP in million euros between Catalonia and Spain occurs at Year 2017 and the smallest difference occurs at 2006."
    ],
    "xAxis": "Year",
    "yAxis": "GDP in million euros",
    "min_summary": [
-      "You are viewing a chart of multi-line type with 2 lines denoting Catalonia, and Spain. The y axis indicates the GDP in million euros and the x axis indicates Year.",
-      "Overall Catalonia, and Spain are gradually increasing,  throughout the Year",
-      "Overall across the Year, Spain mostly maintained the highest GDP in million euros when compared to others with a mean value of 1033076.2, and it peaked at 2017.",
-      "The botommost line, Catalonia,  has a mean of 203604.2, and peaked at 2017. "
+      "Overall Spain is gradually increasing, Catalonia is roughly constant,  throughout the Year"
    ],
    "mid_summary": [
-      "This is a multi-line chart with 2 lines representing Catalonia, and Spain. The y axis denotes GDP in million euros and the x axis denotes Year.",
-      "Overall Catalonia, and Spain are gradually increasing,  throughout the Year",
-      "The ranking of the lines from topmost to botommmost is as follows: 1. Spain, and lastly, 2. Catalonia. ",
-      "Overall across the Year, Spain mostly maintained the highest GDP in million euros when compared to others with a mean value of 1033076.2, and it peaked at 2017.",
-      "The botommost line, Catalonia,  has a mean of 203604.2, and peaked at 2017. "
+      "Overall Spain is gradually increasing, Catalonia is roughly constant,  throughout the Year"
    ],
    "max_summary": [
-      "This is a multi-line chart with 2 lines representing Catalonia, and Spain. The y axis denotes GDP in million euros and the x axis denotes Year.",
-      "Overall Catalonia, and Spain are gradually increasing,  throughout the Year",
-      "The lines ordered according to average values of GDP in million euros in descending order is: 1. Spain, and lastly, 2. Catalonia. ",
-      "Overall across the Year, Spain mostly maintained the highest GDP in million euros when compared to others with a mean value of 1033076.2, and it peaked at 2017.",
-      "Catalonia mostly had the least GDP in million euros with a mean value of 203604.2, which peaked at 2017 with a value of 234651.0. ",
-      "The minimum GDP in million euros about 156600.0, occured at 2003 by Catalonia.",
-      "The greatest difference of GDP in million euros between Catalonia and Spain occurs at Year 2017 and the smallest difference occurs at 2003."
+      "Overall Spain is gradually increasing, Catalonia is roughly constant,  throughout the Year",
+      "Catalonia reported the lowest GDP in million euros about 199169.0 in Year 2006",
+      "The greatest difference of GDP in million euros between Catalonia and Spain occurs at Year 2017 and the smallest difference occurs at 2006."
    ],
    "trends": [
       {},
@@ -55,11 +41,11 @@
       },
       {
          "1": [
-            "14",
+            "11",
             "1"
          ],
          "9": [
-            "14",
+            "11",
             "1"
          ]
       },
@@ -75,11 +61,11 @@
       },
       {
          "1": [
-            "14",
+            "11",
             "0"
          ],
          "10": [
-            "14",
+            "11",
             "0"
          ]
       }

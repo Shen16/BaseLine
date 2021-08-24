@@ -6,27 +6,27 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 18 columns on the x axis representing Month, and Average player salary in million U.S. dollars in each Month on the y axis. ",
-      "The Average player salary in million U.S. dollars is appeared to be the highest at Month Bayern Munich and lowest at Month Paderborn. ",
-      "There is a difference of 7.7 between the maximum Month Bayern Munich and minimum Month Paderborn. "
+      "This is a bar chart. It shows Average player salary in million U.S. dollars for 18 number of Months. ",
+      "The maximum Average player salary in million U.S. dollars 8.12 is found at Month Bayern Munich and the minimum is found at Paderborn where Month is 0.42. ",
+      "The difference of Average player salary in million U.S. dollars between the highest and lowest Month is 7.7. "
    ],
    "min_summary": [
-      "This bar chart has 18 columns on the x axis representing Month, and Average player salary in million U.S. dollars in each Month on the y axis. ",
+      "This is a bar chart representing Month in the x axis and Average player salary in million U.S. dollars in the y axis. ",
       "The maximum Average player salary in million U.S. dollars 8.12 is found at Month Bayern Munich and the minimum is found at Paderborn where Month is 0.42. "
    ],
    "mid_summary": [
-      "This bar chart has 18 columns on the x axis representing Month, and Average player salary in million U.S. dollars in each Month on the y axis. ",
-      "The Average player salary in million U.S. dollars is appeared to be the highest at Month Bayern Munich and lowest at Month Paderborn. ",
-      "There is a difference of 7.7 between the maximum Month Bayern Munich and minimum Month Paderborn. "
+      "This is a bar chart. It shows Average player salary in million U.S. dollars for 18 number of Months. ",
+      "The maximum Average player salary in million U.S. dollars 8.12 is found at Month Bayern Munich and the minimum is found at Paderborn where Month is 0.42. ",
+      "The difference of Average player salary in million U.S. dollars between the highest and lowest Month is 7.7. "
    ],
    "max_summary": [
-      "This is a bar chart. It shows Average player salary in million U.S. dollars for 18 number of Months. ",
+      "This bar chart has 18 columns on the x axis representing Month, and Average player salary in million U.S. dollars in each Month on the y axis. ",
       "The Average player salary in million U.S. dollars is highest at Month Bayern Munich and lowest at Month Paderborn. ",
-      "The second highest Average player salary in million U.S. dollars is appeared to be the Month Borussia Dortmund. ",
-      "The difference of Average player salary in million U.S. dollars between the highest and lowest Month is 7.7. ",
+      "Month Bayern Munich has 19.33 times more Average player salary in million U.S. dollars than Month Paderborn which is has the lowest. ",
       "The Month Bayern Munich has the highest Average player salary in million U.S. dollars, followed by Borussia Dortmund, and Bayer Leverkusen. Down to the Month Paderborn which is the lowest. ",
-      "Overall Average player salary in million U.S. dollars has declined over the Months. ",
-      "Considered together, the average Average player salary in million U.S. dollars in all 18 Months is roughly 2.06. "
+      "Over the past 18 Months, the Average player salary in million U.S. dollars has reduced. ",
+      "The Month Bayern Munich tends to be 3.95 percent higher than average. ",
+      "The Average player salary in million U.S. dollars is 37.01 if we add up values of all Months. "
    ],
    "trends": [
       {},

@@ -10,31 +10,31 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart shows SOME LABEL on the Y-axis for 17 different Categorys for 3 groups Free apps with in-app purchases, Paid apps without in-app purchases, and Paid apps with in-app purchases that are presented on the X-axis. ",
-      " In Category Newsstand, Free apps with in-app purchases had the highest SOME LABEL 996.0 among the 3 groups and in Newsstand, Paid apps without in-app purchases had the lowest SOME LABEL 2.0. ",
-      " In Category Medical, Paid apps without in-app purchases had the maximum SOME LABEL and it saw the lowest in Category Newsstand out of all 17 Categorys. ",
-      "Category Medical and Newsstand had the biggest gap of 679.0 between the highest and lowest SOME LABEL found for Paid apps without in-app purchases. "
+      "This grouped bar chart represents 17 different Categorys on X-axis for 3 groups Free apps with in-app purchases, Paid apps without in-app purchases, and Paid apps with in-app purchases. On the Y-axis it shows their corresponding Share of revenue. ",
+      " In Category Newsstand, Free apps with in-app purchases had the highest Share of revenue 996.0 among the 3 groups and in Newsstand, Paid apps without in-app purchases had the lowest Share of revenue 2.0. ",
+      " Among all the Categorys, Free apps with in-app purchases had the highest Share of revenue in Category Newsstand and lowest Share of revenue in Category Navigation. ",
+      " There is a gap of 975.0 between the highest and lowest Share of revenue found for Free apps with in-app purchases in Category Newsstand and Navigation. "
    ],
    "xAxis": "Category",
-   "yAxis": "SOME LABEL",
+   "yAxis": "Share of revenue",
    "min_summary": [
-      "This grouped bar chart shows SOME LABEL on the Y-axis for 17 different Categorys for 3 groups Free apps with in-app purchases, Paid apps without in-app purchases, and Paid apps with in-app purchases that are presented on the X-axis. ",
-      " Category Newsstand had the maximum SOME LABEL among all 3 groups, and it was for Free apps with in-app purchases. The minimum SOME LABEL was observed in Category Newsstand for Paid apps without in-app purchases. "
+      "This grouped bar chart represents 17 different Categorys on X-axis for 3 groups Free apps with in-app purchases, Paid apps without in-app purchases, and Paid apps with in-app purchases. On the Y-axis it shows their corresponding Share of revenue. ",
+      " Category Newsstand had the maximum Share of revenue among all 3 groups, and it was for Free apps with in-app purchases. The minimum Share of revenue was observed in Category Newsstand for Paid apps without in-app purchases. "
    ],
    "mid_summary": [
-      "This grouped bar chart shows SOME LABEL on the Y-axis for 17 different Categorys for 3 groups Free apps with in-app purchases, Paid apps without in-app purchases, and Paid apps with in-app purchases that are presented on the X-axis. ",
-      " In Category Newsstand, Free apps with in-app purchases had the highest SOME LABEL 996.0 among the 3 groups and in Newsstand, Paid apps without in-app purchases had the lowest SOME LABEL 2.0. ",
-      " In Category Medical, Paid apps without in-app purchases had the maximum SOME LABEL and it saw the lowest in Category Newsstand out of all 17 Categorys. ",
-      "Category Medical and Newsstand had the biggest gap of 679.0 between the highest and lowest SOME LABEL found for Paid apps without in-app purchases. "
+      "This grouped bar chart represents 17 different Categorys on X-axis for 3 groups Free apps with in-app purchases, Paid apps without in-app purchases, and Paid apps with in-app purchases. On the Y-axis it shows their corresponding Share of revenue. ",
+      " In Category Newsstand, Free apps with in-app purchases had the highest Share of revenue 996.0 among the 3 groups and in Newsstand, Paid apps without in-app purchases had the lowest Share of revenue 2.0. ",
+      " Among all the Categorys, Free apps with in-app purchases had the highest Share of revenue in Category Newsstand and lowest Share of revenue in Category Navigation. ",
+      " There is a gap of 975.0 between the highest and lowest Share of revenue found for Free apps with in-app purchases in Category Newsstand and Navigation. "
    ],
    "max_summary": [
-      "This grouped bar chart shows SOME LABEL on the Y-axis for 17 different Categorys for 3 groups Free apps with in-app purchases, Paid apps without in-app purchases, and Paid apps with in-app purchases that are presented on the X-axis. ",
-      " Out of all 3 groups, Free apps with in-app purchases had the highest SOME LABEL in Category Newsstand and Paid apps without in-app purchases had the lowest SOME LABEL in Category Newsstand. ",
-      " Among all the Categorys, Paid apps without in-app purchases had the highest SOME LABEL in Category Medical and lowest SOME LABEL in Category Newsstand. ",
-      "Category Medical and Newsstand had the biggest gap of 679.0 between the highest and lowest SOME LABEL found for Paid apps without in-app purchases. ",
-      " Out of all 3 groups, the highest gap between the maximum and minimum SOME LABEL was found in case of Free apps with in-app purchases. ",
-      " In Category Newsstand, Free apps with in-app purchases had the highest SOME LABEL 996.0 among the 3 groups and in Newsstand, Paid apps without in-app purchases had the lowest SOME LABEL 2.0. The second highest SOME LABEL 681.0 was observed for Free apps with in-app purchases in Category Newsstand. ",
-      "On average, the Category Productivity had the highest SOME LABEL for all 3 groups Free apps with in-app purchases, Paid apps without in-app purchases, and Paid apps with in-app purchases. Whereas Music had the lowest average SOME LABEL. "
+      "This grouped bar chart shows Share of revenue on the Y-axis for 17 different Categorys for 3 groups Free apps with in-app purchases, Paid apps without in-app purchases, and Paid apps with in-app purchases that are presented on the X-axis. ",
+      " Out of all 3 groups, Free apps with in-app purchases had the highest Share of revenue in Category Newsstand and Paid apps without in-app purchases had the lowest Share of revenue in Category Newsstand. ",
+      " In Category Newsstand, Free apps with in-app purchases had the maximum Share of revenue and it saw the lowest in Category Navigation out of all 17 Categorys. ",
+      " There is a gap of 975.0 between the highest and lowest Share of revenue found for Free apps with in-app purchases in Category Newsstand and Navigation. ",
+      " Among the groups, Free apps with in-app purchases had the biggest difference in Share of revenue. Where the maximum Share of revenue was 47.43 times larger than the minimum Share of revenue. ",
+      " Free apps with in-app purchases had the maximum Share of revenue out of all 3 groups in Category Newsstand followed by Free apps with in-app purchases in Newsstand, and the minimum Share of revenue is found for Paid apps without in-app purchases in Newsstand. ",
+      "Averaging all 3 groups Free apps with in-app purchases, Paid apps without in-app purchases, and Paid apps with in-app purchases, the Category Productivity is the maximum Share of revenue and Music is the minimum Share of revenue. "
    ],
    "trends": [
       {},

@@ -7,26 +7,25 @@
    "summaryType": "baseline",
    "summary": [
       "This is a bar chart representing Country in the x axis and Cost in U.S. dollars in the y axis. ",
-      "Country United States has the highest Cost in U.S. dollars and Thailand has the lowest Cost in U.S. dollars. ",
+      "The maximum Cost in U.S. dollars 28200.0 is found at Country United States and the minimum is found at Thailand where Country is 4200.0. ",
       "The highest Country United States has 24000.0 more Cost in U.S. dollars than the lowest Country Thailand. "
    ],
    "min_summary": [
       "This is a bar chart. It shows Cost in U.S. dollars for 13 number of Countrys. ",
-      "The maximum Cost in U.S. dollars 28200.0 is found at Country United States and the minimum is found at Thailand where Country is 4200.0. "
+      "The Cost in U.S. dollars is highest at Country United States and lowest at Country Thailand. "
    ],
    "mid_summary": [
       "This is a bar chart representing Country in the x axis and Cost in U.S. dollars in the y axis. ",
-      "Country United States has the highest Cost in U.S. dollars and Thailand has the lowest Cost in U.S. dollars. ",
+      "The maximum Cost in U.S. dollars 28200.0 is found at Country United States and the minimum is found at Thailand where Country is 4200.0. ",
       "The highest Country United States has 24000.0 more Cost in U.S. dollars than the lowest Country Thailand. "
    ],
    "max_summary": [
       "This is a bar chart representing Country in the x axis and Cost in U.S. dollars in the y axis. ",
       "Country United States has the highest Cost in U.S. dollars and Thailand has the lowest Cost in U.S. dollars. ",
       "Second maximum Cost in U.S. dollars is found at Country South Korea. ",
-      "The highest Country United States has 24000.0 more Cost in U.S. dollars than the lowest Country Thailand. ",
+      "The minimum Country Thailand has got 6.71 times less Cost in U.S. dollars than the maximum Country United States. ",
       "Cost in U.S. dollars at Country United States is 28200.0 , second place is South Korea at 17700.0, and thirdly is Costa Rica at 13800.0.",
-      "The average Cost in U.S. dollars in all 13 Countrys is 10084.62. ",
-      "The Cost in U.S. dollars is 131100.0 if we add up values of all Countrys. "
+      "Considered together, the average Cost in U.S. dollars in all 13 Countrys is roughly 10084.62. "
    ],
    "trends": [
       {},

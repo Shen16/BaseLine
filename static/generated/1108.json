@@ -9,37 +9,23 @@
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "The given chart is of multi-line type with 2 lines namely Revenue, and Spending. The y axis represents SOME LABEL and the x axis represents Year.",
       "Overall Revenue, and Spending are gradually increasing,  throughout the Year",
-      "The lines ordered according to average values of SOME LABEL in descending order is: 1. Spending, and lastly, 2. Revenue. ",
-      "Throughout the period, Spending generally had the highest SOME LABEL relative to others with an average of 519.58, and it reached its maximum at 2024 with a value of 599.51.",
-      "Revenue mostly had the least SOME LABEL with a mean value of 484.07, which peaked at 2024 with a value of 571.76. ",
-      "Revenue reported the lowest SOME LABEL about 403.48 in Year 2014",
-      "The difference of SOME LABEL between Revenue and Spending is smaller at Year 2024 compared to the Year 2014."
+      "The ranking of the lines from topmost to botommmost is as follows: 1. Spending, and lastly, 2. Revenue. ",
+      "The minimum Revenue / Spending in billion euros about 415.74, occured at 2015 by Revenue.",
+      "The difference of Revenue / Spending in billion euros between Revenue and Spending is smaller at Year 2019 compared to the Year 2015."
    ],
    "xAxis": "Year",
-   "yAxis": "SOME LABEL",
+   "yAxis": "Revenue / Spending in billion euros",
    "min_summary": [
-      "The given chart is of multi-line type with 2 lines namely Revenue, and Spending. The y axis represents SOME LABEL and the x axis represents Year.",
-      "Overall Revenue, and Spending are gradually increasing,  throughout the Year",
-      "Overall across the Year, Spending mostly maintained the highest SOME LABEL when compared to others with a mean value of 519.58, and it peaked at 2024.",
-      "Revenue mostly had the least SOME LABEL with a mean value of 484.07, which peaked at 2024 with a value of 571.76. "
+      "Overall Revenue, and Spending are gradually increasing,  throughout the Year"
    ],
    "mid_summary": [
-      "The given chart is of multi-line type with 2 lines namely Revenue, and Spending. The y axis represents SOME LABEL and the x axis represents Year.",
-      "Overall Revenue, and Spending are gradually increasing,  throughout the Year",
-      "The ranking of the lines from topmost to botommmost is as follows: 1. Spending, and lastly, 2. Revenue. ",
-      "Overall across the Year, Spending mostly maintained the highest SOME LABEL when compared to others with a mean value of 519.58, and it peaked at 2024.",
-      "Revenue mostly had the least SOME LABEL with a mean value of 484.07, which peaked at 2024 with a value of 571.76. "
+      "Overall Revenue, and Spending are gradually increasing,  throughout the Year"
    ],
    "max_summary": [
-      "This is a multi-line chart with 2 lines representing Revenue, and Spending. The y axis denotes SOME LABEL and the x axis denotes Year.",
       "Overall Revenue, and Spending are gradually increasing,  throughout the Year",
-      "The ranking of the lines from topmost to botommmost is as follows: 1. Spending, and lastly, 2. Revenue. ",
-      "Overall across the Year, Spending mostly maintained the highest SOME LABEL when compared to others with a mean value of 519.58, and it peaked at 2024.",
-      "Revenue mostly had the least SOME LABEL with a mean value of 484.07, which peaked at 2024 with a value of 571.76. ",
-      "Revenue reported the lowest SOME LABEL about 403.48 in Year 2014",
-      "The difference of SOME LABEL between Revenue and Spending is smaller at Year 2024 compared to the Year 2014."
+      "Revenue reported the lowest Revenue / Spending in billion euros about 415.74 in Year 2015",
+      "The difference of Revenue / Spending in billion euros between Revenue and Spending is smaller at Year 2019 compared to the Year 2015."
    ],
    "trends": [
       {},
@@ -55,11 +41,11 @@
       },
       {
          "1": [
-            "0",
+            "4",
             "1"
          ],
          "9": [
-            "0",
+            "4",
             "1"
          ]
       },
@@ -75,11 +61,11 @@
       },
       {
          "1": [
-            "0",
+            "4",
             "0"
          ],
          "10": [
-            "0",
+            "4",
             "0"
          ]
       }

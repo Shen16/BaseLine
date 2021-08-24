@@ -9,30 +9,30 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart represents 7 different Races on X-axis for 2 groups I mostly agree, and I totally agree. On the Y-axis it shows their corresponding SOME LABEL. ",
-      " In Race Maximal safety, I totally agree had the highest SOME LABEL 753.0 among the 2 groups and in Driving enjoyment -Driving should be fun, I mostly agree had the lowest SOME LABEL 35.0. ",
-      " Among all the Races, I totally agree had the highest SOME LABEL 753.0 in Race Maximal safety and lowest value 40.0 in Race Driving enjoyment -Driving should be fun. ",
-      " The maximum SOME LABEL for I totally agree that was found in Race Maximal safety was 18.82 times larger than the minimum SOME LABEL observed in Race Driving enjoyment -Driving should be fun. "
+      "This grouped bar chart represents 7 different Races on X-axis for 2 groups I mostly agree, and I totally agree. On the Y-axis it shows their corresponding Portion of respondants. ",
+      " In Race Maximal safety, I totally agree had the highest Portion of respondants 753.0 among the 2 groups and in Driving enjoyment -Driving should be fun, I mostly agree had the lowest Portion of respondants 35.0. ",
+      " In Race Maximal safety, I totally agree had the maximum Portion of respondants and it saw the lowest in Race Driving enjoyment -Driving should be fun out of all 7 Races. ",
+      "Race Maximal safety and Driving enjoyment -Driving should be fun had the biggest gap of 713.0 between the highest and lowest Portion of respondants found for I totally agree. "
    ],
    "xAxis": "Race",
-   "yAxis": "SOME LABEL",
+   "yAxis": "Portion of respondants",
    "min_summary": [
-      "This grouped bar chart represents 7 different Races on X-axis for 2 groups I mostly agree, and I totally agree. On the Y-axis it shows their corresponding SOME LABEL. ",
-      " In Race Maximal safety, I totally agree had the highest SOME LABEL 753.0 among the 2 groups and in Driving enjoyment -Driving should be fun, I mostly agree had the lowest SOME LABEL 35.0. "
+      "This grouped bar chart represents 7 different Races on X-axis for 2 groups I mostly agree, and I totally agree. On the Y-axis it shows their corresponding Portion of respondants. ",
+      " Race Maximal safety had the maximum Portion of respondants among all 2 groups, and it was for I totally agree. The minimum Portion of respondants was observed in Race Driving enjoyment -Driving should be fun for I mostly agree. "
    ],
    "mid_summary": [
-      "This grouped bar chart represents 7 different Races on X-axis for 2 groups I mostly agree, and I totally agree. On the Y-axis it shows their corresponding SOME LABEL. ",
-      " In Race Maximal safety, I totally agree had the highest SOME LABEL 753.0 among the 2 groups and in Driving enjoyment -Driving should be fun, I mostly agree had the lowest SOME LABEL 35.0. ",
-      " Among all the Races, I totally agree had the highest SOME LABEL 753.0 in Race Maximal safety and lowest value 40.0 in Race Driving enjoyment -Driving should be fun. ",
-      " The maximum SOME LABEL for I totally agree that was found in Race Maximal safety was 18.82 times larger than the minimum SOME LABEL observed in Race Driving enjoyment -Driving should be fun. "
+      "This grouped bar chart represents 7 different Races on X-axis for 2 groups I mostly agree, and I totally agree. On the Y-axis it shows their corresponding Portion of respondants. ",
+      " In Race Maximal safety, I totally agree had the highest Portion of respondants 753.0 among the 2 groups and in Driving enjoyment -Driving should be fun, I mostly agree had the lowest Portion of respondants 35.0. ",
+      " In Race Maximal safety, I totally agree had the maximum Portion of respondants and it saw the lowest in Race Driving enjoyment -Driving should be fun out of all 7 Races. ",
+      "Race Maximal safety and Driving enjoyment -Driving should be fun had the biggest gap of 713.0 between the highest and lowest Portion of respondants found for I totally agree. "
    ],
    "max_summary": [
-      "This grouped bar chart represents 7 different Races on X-axis for 2 groups I mostly agree, and I totally agree. On the Y-axis it shows their corresponding SOME LABEL. ",
-      " In Race Maximal safety, I totally agree had the highest SOME LABEL 753.0 among the 2 groups and in Driving enjoyment -Driving should be fun, I mostly agree had the lowest SOME LABEL 35.0. ",
-      " Among all the Races, I totally agree had the highest SOME LABEL in Race Maximal safety and lowest SOME LABEL in Race Driving enjoyment -Driving should be fun. ",
-      " There is a gap of 713.0 between the highest and lowest SOME LABEL found for I totally agree in Race Maximal safety and Driving enjoyment -Driving should be fun. ",
-      " Among all 2 groups, I mostly agree had the gap of 336.0 between the maximum and minimum SOME LABEL observed in Race That it is mainly functional and Driving enjoyment -Driving should be fun respectively. ",
-      "Averaging all 2 groups I mostly agree, and I totally agree, the Race Maximal safety is the maximum SOME LABEL and Reflecting my socialstatus/my self-image is the minimum SOME LABEL. "
+      "This grouped bar chart represents 7 different Races on X-axis for 2 groups I mostly agree, and I totally agree. On the Y-axis it shows their corresponding Portion of respondants. ",
+      " Out of all 2 groups, I totally agree had the highest Portion of respondants in Race Maximal safety and I mostly agree had the lowest Portion of respondants in Race Driving enjoyment -Driving should be fun. ",
+      " Among all the Races, I totally agree had the highest Portion of respondants in Race Maximal safety and lowest Portion of respondants in Race Driving enjoyment -Driving should be fun. ",
+      " There is a gap of 713.0 between the highest and lowest Portion of respondants found for I totally agree in Race Maximal safety and Driving enjoyment -Driving should be fun. ",
+      " Out of all 2 groups, the highest gap between the maximum and minimum Portion of respondants was found in case of I mostly agree. ",
+      "Averaging all 2 groups I mostly agree, and I totally agree, the Race Maximal safety is the maximum Portion of respondants and Reflecting my socialstatus/my self-image is the minimum Portion of respondants. "
    ],
    "trends": [
       {},

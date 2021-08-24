@@ -6,28 +6,28 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 96 columns on the x axis representing Month, and Sales in billion U.S. dollars in each Month on the y axis. ",
-      "The Sales in billion U.S. dollars is highest at Month May '18 and lowest at Month Dec '12. ",
-      "The highest Month May '18 has 1.07 more Sales in billion U.S. dollars than the lowest Month Dec '12. "
-   ],
-   "min_summary": [
-      "This bar chart has 96 columns on the x axis representing Month, and Sales in billion U.S. dollars in each Month on the y axis. ",
-      "The maximum Sales in billion U.S. dollars 3.7 is found at Month May '18 and the minimum is found at Dec '12 where Month is 2.63. "
-   ],
-   "mid_summary": [
-      "This bar chart has 96 columns on the x axis representing Month, and Sales in billion U.S. dollars in each Month on the y axis. ",
-      "The Sales in billion U.S. dollars is highest at Month May '18 and lowest at Month Dec '12. ",
-      "The highest Month May '18 has 1.07 more Sales in billion U.S. dollars than the lowest Month Dec '12. "
-   ],
-   "max_summary": [
       "This is a bar chart representing Month in the x axis and Sales in billion U.S. dollars in the y axis. ",
       "The Sales in billion U.S. dollars is appeared to be the highest at Month May '18 and lowest at Month Dec '12. ",
-      "The difference of Sales in billion U.S. dollars between the highest and lowest Month is 1.07. ",
+      "There is a difference of 1.07 between the maximum Month May '18 and minimum Month Dec '12. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Sales in billion U.S. dollars for 96 number of Months. ",
+      "The Sales in billion U.S. dollars is appeared to be the highest at Month May '18 and lowest at Month Dec '12. "
+   ],
+   "mid_summary": [
+      "This is a bar chart representing Month in the x axis and Sales in billion U.S. dollars in the y axis. ",
+      "The Sales in billion U.S. dollars is appeared to be the highest at Month May '18 and lowest at Month Dec '12. ",
+      "There is a difference of 1.07 between the maximum Month May '18 and minimum Month Dec '12. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Sales in billion U.S. dollars for 96 number of Months. ",
+      "The Sales in billion U.S. dollars is highest at Month May '18 and lowest at Month Dec '12. ",
+      "The second highest Sales in billion U.S. dollars is appeared to be the Month Jun '18. ",
+      "There is a difference of 1.07 between the maximum Month May '18 and minimum Month Dec '12. ",
       "Sales in billion U.S. dollars at Month May '18 is 3.7 , second place is Jun '18 at 3.67, and thirdly is Apr '18 at 3.65.",
-      "Overall Sales in billion U.S. dollars has risen over the Months. ",
-      "Similar Sales in billion U.S. dollars is found in Month Apr '12, Jun. '12, Jul. '12, Oct '16, and Feb '17. ",
-      "The highest value 3.7 at May '18 is almost 1.21 times larger than the average value 3.05. ",
-      "Summing up the values of all Months, we get total 292.92. "
+      "Overall Sales in billion U.S. dollars has increased over the Months. ",
+      "Month Apr '12, Jun. '12, Jul. '12, Oct '16, and Feb '17 share the same value 2.82. ",
+      "The highest value 3.7 at May '18 is almost 1.21 times larger than the average value 3.05. "
    ],
    "trends": [
       {},

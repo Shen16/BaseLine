@@ -11,10 +11,10 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart shows Share of students on the Y-axis for 3 different Sexs for 4 groups All races / ethnicities, White (non-Hispanic), Black (non-Hispanic), and Hispanic that are presented on the X-axis. ",
-      " Sex Male had the maximum Share of students among all 4 groups, and it was for Hispanic. The minimum Share of students was observed in Sex Female for Black (non-Hispanic). ",
-      " Among all the Sexs, All races / ethnicities had the highest Share of students 76.0 in Sex Male and lowest value 55.0 in Sex Female. ",
-      "Sex Male and Female had the biggest gap of 21.0 between the highest and lowest Share of students found for All races / ethnicities. "
+      "This grouped bar chart represents 3 different Sexs on X-axis for 4 groups All races / ethnicities, White (non-Hispanic), Black (non-Hispanic), and Hispanic. On the Y-axis it shows their corresponding Share of students. ",
+      " Out of all 4 groups, Hispanic had the highest Share of students in Sex Male and Black (non-Hispanic) had the lowest Share of students in Sex Female. ",
+      " Among all the Sexs, Black (non-Hispanic) had the highest Share of students in Sex Male and lowest Share of students in Sex Female. ",
+      " There is a gap of 34.0 between the highest and lowest Share of students found for Black (non-Hispanic) in Sex Male and Female. "
    ],
    "xAxis": "Sex",
    "yAxis": "Share of students",
@@ -23,17 +23,17 @@
       " Sex Male had the maximum Share of students among all 4 groups, and it was for Hispanic. The minimum Share of students was observed in Sex Female for Black (non-Hispanic). "
    ],
    "mid_summary": [
-      "This grouped bar chart shows Share of students on the Y-axis for 3 different Sexs for 4 groups All races / ethnicities, White (non-Hispanic), Black (non-Hispanic), and Hispanic that are presented on the X-axis. ",
-      " Sex Male had the maximum Share of students among all 4 groups, and it was for Hispanic. The minimum Share of students was observed in Sex Female for Black (non-Hispanic). ",
-      " Among all the Sexs, All races / ethnicities had the highest Share of students 76.0 in Sex Male and lowest value 55.0 in Sex Female. ",
-      "Sex Male and Female had the biggest gap of 21.0 between the highest and lowest Share of students found for All races / ethnicities. "
+      "This grouped bar chart represents 3 different Sexs on X-axis for 4 groups All races / ethnicities, White (non-Hispanic), Black (non-Hispanic), and Hispanic. On the Y-axis it shows their corresponding Share of students. ",
+      " Out of all 4 groups, Hispanic had the highest Share of students in Sex Male and Black (non-Hispanic) had the lowest Share of students in Sex Female. ",
+      " Among all the Sexs, Black (non-Hispanic) had the highest Share of students in Sex Male and lowest Share of students in Sex Female. ",
+      " There is a gap of 34.0 between the highest and lowest Share of students found for Black (non-Hispanic) in Sex Male and Female. "
    ],
    "max_summary": [
       "This grouped bar chart shows Share of students on the Y-axis for 3 different Sexs for 4 groups All races / ethnicities, White (non-Hispanic), Black (non-Hispanic), and Hispanic that are presented on the X-axis. ",
-      " Out of all 4 groups, Hispanic had the highest Share of students in Sex Male and Black (non-Hispanic) had the lowest Share of students in Sex Female. ",
-      " In Sex Male, All races / ethnicities had the maximum Share of students and it saw the lowest in Sex Female out of all 3 Sexs. ",
-      "Sex Male and Female had the biggest gap of 21.0 between the highest and lowest Share of students found for All races / ethnicities. ",
-      " Among the groups, Black (non-Hispanic) had the biggest difference in Share of students. Where the maximum Share of students was 3.43 times larger than the minimum Share of students. ",
+      " Sex Male had the maximum Share of students among all 4 groups, and it was for Hispanic. The minimum Share of students was observed in Sex Female for Black (non-Hispanic). ",
+      " Among all the Sexs, Black (non-Hispanic) had the highest Share of students 48.0 in Sex Male and lowest value 14.0 in Sex Female. ",
+      "Sex Male and Female had the biggest gap of 34.0 between the highest and lowest Share of students found for Black (non-Hispanic). ",
+      " Among all 4 groups, Black (non-Hispanic) had the gap of 34.0 between the maximum and minimum Share of students observed in Sex Male and Female respectively. ",
       " Hispanic had the maximum Share of students out of all 4 groups in Sex Male followed by Hispanic in Male, and the minimum Share of students is found for Black (non-Hispanic) in Female. ",
       "Averaging all 4 groups All races / ethnicities, White (non-Hispanic), Black (non-Hispanic), and Hispanic, the Sex Male is the maximum Share of students and Female is the minimum Share of students. "
    ],

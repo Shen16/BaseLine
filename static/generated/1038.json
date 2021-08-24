@@ -10,32 +10,32 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart represents SOME LABEL on the Y-axis. And, how the value changed throughout 8 Months for Owned, Chartered, and Orderbook. ",
-      " Over the 8 Months, the SOME LABEL for both Owned and Month have decreased. ",
-      " Out of all 3 groups, Chartered had the highest SOME LABEL in Month June 13 2016 and Orderbook had the lowest SOME LABEL in Month July 12 2016. ",
-      " Among all the Months, Owned had the highest SOME LABEL in Month August 15 2016 and lowest SOME LABEL in Month July 12 2016. "
+      "This grouped bar chart represents Number of TEUs on the Y-axis. And, its value throughout 8 Months for Owned, Chartered, and Orderbook. ",
+      " Over the 8 Months, the Number of TEUs for both Owned and Month have reduced. ",
+      " In Month June 13 2016, Chartered had the highest Number of TEUs 351338.0 among the 3 groups and in July 12 2016, Orderbook had the lowest Number of TEUs 0.0. ",
+      " In Month August 15 2016, Owned had the maximum Number of TEUs and it saw the lowest in Month July 12 2016 out of all 8 Months. "
    ],
    "xAxis": "Month",
-   "yAxis": "SOME LABEL",
+   "yAxis": "Number of TEUs",
    "min_summary": [
-      "This grouped bar chart represents SOME LABEL on the Y-axis. And, how the value changed throughout 8 Months for Owned, Chartered, and Orderbook. ",
-      " Over the 8 Months, the SOME LABEL for both Owned and Month have decreased. "
+      "This is a grouped bar chart showing Number of TEUs on the Y-axis throughout 8 Months for Owned, Chartered, and Orderbook on the X-axis. ",
+      " All through the Months, similar trend was observed for Owned and Month. In both cases, the Number of TEUs have reduced. "
    ],
    "mid_summary": [
-      "This grouped bar chart represents SOME LABEL on the Y-axis. And, how the value changed throughout 8 Months for Owned, Chartered, and Orderbook. ",
-      " Over the 8 Months, the SOME LABEL for both Owned and Month have decreased. ",
-      " Out of all 3 groups, Chartered had the highest SOME LABEL in Month June 13 2016 and Orderbook had the lowest SOME LABEL in Month July 12 2016. ",
-      " Among all the Months, Owned had the highest SOME LABEL in Month August 15 2016 and lowest SOME LABEL in Month July 12 2016. "
+      "This grouped bar chart represents Number of TEUs on the Y-axis. And, its value throughout 8 Months for Owned, Chartered, and Orderbook. ",
+      " Over the 8 Months, the Number of TEUs for both Owned and Month have reduced. ",
+      " In Month June 13 2016, Chartered had the highest Number of TEUs 351338.0 among the 3 groups and in July 12 2016, Orderbook had the lowest Number of TEUs 0.0. ",
+      " In Month August 15 2016, Owned had the maximum Number of TEUs and it saw the lowest in Month July 12 2016 out of all 8 Months. "
    ],
    "max_summary": [
-      "This grouped bar chart represents SOME LABEL on the Y-axis. And, how the value changed throughout 8 Months for Owned, Chartered, and Orderbook. ",
-      " All through the Months, similar trend was observed for Owned and Month. In both cases, the SOME LABEL have decreased. ",
-      " In Month June 13 2016, Chartered had the highest SOME LABEL 351338.0 among the 3 groups and in July 12 2016, Orderbook had the lowest SOME LABEL 0.0. ",
-      " Among all the Months, Owned had the highest SOME LABEL in Month August 15 2016 and lowest SOME LABEL in Month July 12 2016. ",
-      " There is a gap of 18233.0 between the highest and lowest SOME LABEL found for Owned in Month August 15 2016 and July 12 2016. ",
-      " Out of all 3 groups, the highest gap between the maximum and minimum SOME LABEL was found in case of Chartered. ",
-      " In Month June 13 2016, Chartered had the highest SOME LABEL 351338.0 among the 3 groups and in July 12 2016, Orderbook had the lowest SOME LABEL 0.0. The second highest SOME LABEL 292311.0 was observed for Chartered in Month June 13 2016. ",
-      "Averaging all 3 groups Owned, Chartered, and Orderbook, the Month August 15 2016 is the maximum SOME LABEL and July 12 2016 is the minimum SOME LABEL. "
+      "This grouped bar chart represents Number of TEUs on the Y-axis. And, its value throughout 8 Months for Owned, Chartered, and Orderbook. ",
+      " All through the Months, similar trend was observed for Owned and Month. In both cases, the Number of TEUs have reduced. ",
+      " Month June 13 2016 had the maximum Number of TEUs among all 3 groups, and it was for Chartered. The minimum Number of TEUs was observed in Month July 12 2016 for Orderbook. ",
+      " Among all the Months, Owned had the highest Number of TEUs 292311.0 in Month August 15 2016 and lowest value 274078.0 in Month July 12 2016. ",
+      " The maximum Number of TEUs for Owned that was found in Month August 15 2016 was 1.07 times larger than the minimum Number of TEUs observed in Month July 12 2016. ",
+      " Among all 3 groups, Chartered had the gap of 33088.0 between the maximum and minimum Number of TEUs observed in Month June 13 2016 and September 7 2016 respectively. ",
+      " In Month June 13 2016, Chartered had the highest Number of TEUs 351338.0 among the 3 groups and in July 12 2016, Orderbook had the lowest Number of TEUs 0.0. The second highest Number of TEUs 292311.0 was observed for Chartered in Month June 13 2016. ",
+      "On average, the Month August 15 2016 had the highest Number of TEUs for all 3 groups Owned, Chartered, and Orderbook. Whereas July 12 2016 had the lowest average Number of TEUs. "
    ],
    "trends": [
       {},

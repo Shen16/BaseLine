@@ -9,30 +9,30 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart shows SOME LABEL on the Y-axis for 6 different Races for 2 groups 2019, and 2020 that are presented on the X-axis. ",
-      " Race Smartphone had the maximum SOME LABEL among all 2 groups, and it was for 2020. The minimum SOME LABEL was observed in Race Other for 2019. ",
-      " Among all the Races, 2019 had the highest SOME LABEL 35.0 in Race Smartphone and lowest value 3.0 in Race Other. ",
-      " The maximum SOME LABEL for 2019 that was found in Race Smartphone was 11.67 times larger than the minimum SOME LABEL observed in Race Other. "
+      "This grouped bar chart shows Memory Demand Share on the Y-axis for 6 different Races for 2 groups 2019, and 2020 that are presented on the X-axis. ",
+      " Race Smartphone had the maximum Memory Demand Share among all 2 groups, and it was for 2020. The minimum Memory Demand Share was observed in Race Other for 2019. ",
+      " In Race Smartphone, 2019 had the maximum Memory Demand Share and it saw the lowest in Race Other out of all 6 Races. ",
+      "Race Smartphone and Other had the biggest gap of 32.0 between the highest and lowest Memory Demand Share found for 2019. "
    ],
    "xAxis": "Race",
-   "yAxis": "SOME LABEL",
+   "yAxis": "Memory Demand Share",
    "min_summary": [
-      "This grouped bar chart represents 6 different Races on X-axis for 2 groups 2019, and 2020. On the Y-axis it shows their corresponding SOME LABEL. ",
-      " In Race Smartphone, 2020 had the highest SOME LABEL 36.0 among the 2 groups and in Other, 2019 had the lowest SOME LABEL 3.0. "
+      "This grouped bar chart shows Memory Demand Share on the Y-axis for 6 different Races for 2 groups 2019, and 2020 that are presented on the X-axis. ",
+      " Out of all 2 groups, 2020 had the highest Memory Demand Share in Race Smartphone and 2019 had the lowest Memory Demand Share in Race Other. "
    ],
    "mid_summary": [
-      "This grouped bar chart shows SOME LABEL on the Y-axis for 6 different Races for 2 groups 2019, and 2020 that are presented on the X-axis. ",
-      " Race Smartphone had the maximum SOME LABEL among all 2 groups, and it was for 2020. The minimum SOME LABEL was observed in Race Other for 2019. ",
-      " Among all the Races, 2019 had the highest SOME LABEL 35.0 in Race Smartphone and lowest value 3.0 in Race Other. ",
-      " The maximum SOME LABEL for 2019 that was found in Race Smartphone was 11.67 times larger than the minimum SOME LABEL observed in Race Other. "
+      "This grouped bar chart shows Memory Demand Share on the Y-axis for 6 different Races for 2 groups 2019, and 2020 that are presented on the X-axis. ",
+      " Race Smartphone had the maximum Memory Demand Share among all 2 groups, and it was for 2020. The minimum Memory Demand Share was observed in Race Other for 2019. ",
+      " In Race Smartphone, 2019 had the maximum Memory Demand Share and it saw the lowest in Race Other out of all 6 Races. ",
+      "Race Smartphone and Other had the biggest gap of 32.0 between the highest and lowest Memory Demand Share found for 2019. "
    ],
    "max_summary": [
-      "This grouped bar chart represents 6 different Races on X-axis for 2 groups 2019, and 2020. On the Y-axis it shows their corresponding SOME LABEL. ",
-      " In Race Smartphone, 2020 had the highest SOME LABEL 36.0 among the 2 groups and in Other, 2019 had the lowest SOME LABEL 3.0. ",
-      " Among all the Races, 2019 had the highest SOME LABEL 35.0 in Race Smartphone and lowest value 3.0 in Race Other. ",
-      "Race Smartphone and Other had the biggest gap of 32.0 between the highest and lowest SOME LABEL found for 2019. ",
-      " Among all 2 groups, 2019 had the gap of 32.0 between the maximum and minimum SOME LABEL observed in Race Smartphone and Other respectively. ",
-      "On average, the Race Smartphone had the highest SOME LABEL for all 2 groups 2019, and 2020. Whereas Other had the lowest average SOME LABEL. "
+      "This grouped bar chart represents 6 different Races on X-axis for 2 groups 2019, and 2020. On the Y-axis it shows their corresponding Memory Demand Share. ",
+      " Race Smartphone had the maximum Memory Demand Share among all 2 groups, and it was for 2020. The minimum Memory Demand Share was observed in Race Other for 2019. ",
+      " In Race Smartphone, 2019 had the maximum Memory Demand Share and it saw the lowest in Race Other out of all 6 Races. ",
+      " The maximum Memory Demand Share for 2019 that was found in Race Smartphone was 11.67 times larger than the minimum Memory Demand Share observed in Race Other. ",
+      " Out of all 2 groups, the highest gap between the maximum and minimum Memory Demand Share was found in case of 2019. ",
+      "On average, the Race Smartphone had the highest Memory Demand Share for all 2 groups 2019, and 2020. Whereas Other had the lowest average Memory Demand Share. "
    ],
    "trends": [
       {},

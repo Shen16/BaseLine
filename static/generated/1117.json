@@ -6,8 +6,8 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This is a bar chart. It shows Construction cost per kilometer in millions of euros for 8 number of High-speed Lines. ",
-      "The maximum Construction cost per kilometer in millions of euros 19.7 is found at High-speed Line LGV Mediterranean and the minimum is found at LGV Paris-Lyon where High-speed Line is 5.5. ",
+      "This is a bar chart representing High-speed Line in the x axis and Construction cost per kilometer in millions of euros in the y axis. ",
+      "High-speed Line LGV Mediterranean has the highest Construction cost per kilometer in millions of euros and LGV Paris-Lyon has the lowest Construction cost per kilometer in millions of euros. ",
       "The highest High-speed Line LGV Mediterranean has 14.2 more Construction cost per kilometer in millions of euros than the lowest High-speed Line LGV Paris-Lyon. "
    ],
    "min_summary": [
@@ -15,17 +15,17 @@
       "The Construction cost per kilometer in millions of euros is appeared to be the highest at High-speed Line LGV Mediterranean and lowest at High-speed Line LGV Paris-Lyon. "
    ],
    "mid_summary": [
-      "This is a bar chart. It shows Construction cost per kilometer in millions of euros for 8 number of High-speed Lines. ",
-      "The maximum Construction cost per kilometer in millions of euros 19.7 is found at High-speed Line LGV Mediterranean and the minimum is found at LGV Paris-Lyon where High-speed Line is 5.5. ",
+      "This is a bar chart representing High-speed Line in the x axis and Construction cost per kilometer in millions of euros in the y axis. ",
+      "High-speed Line LGV Mediterranean has the highest Construction cost per kilometer in millions of euros and LGV Paris-Lyon has the lowest Construction cost per kilometer in millions of euros. ",
       "The highest High-speed Line LGV Mediterranean has 14.2 more Construction cost per kilometer in millions of euros than the lowest High-speed Line LGV Paris-Lyon. "
    ],
    "max_summary": [
-      "This is a bar chart. It shows Construction cost per kilometer in millions of euros for 8 number of High-speed Lines. ",
-      "High-speed Line LGV Mediterranean has the highest Construction cost per kilometer in millions of euros and LGV Paris-Lyon has the lowest Construction cost per kilometer in millions of euros. ",
-      "Second maximum Construction cost per kilometer in millions of euros is found at High-speed Line LGV Rhine-Rhone. ",
-      "The lowest value at High-speed Line LGV Paris-Lyon is 3.58x times less than the highest value at LGV Mediterranean. ",
+      "This is a bar chart representing High-speed Line in the x axis and Construction cost per kilometer in millions of euros in the y axis. ",
+      "The maximum Construction cost per kilometer in millions of euros 19.7 is found at High-speed Line LGV Mediterranean and the minimum is found at LGV Paris-Lyon where High-speed Line is 5.5. ",
+      "High-speed Line LGV Rhine-Rhone has the second highest value for Construction cost per kilometer in millions of euros. ",
+      "There is a difference of 14.2 between the maximum High-speed Line LGV Mediterranean and minimum High-speed Line LGV Paris-Lyon. ",
       "The High-speed Line LGV Mediterranean has the highest Construction cost per kilometer in millions of euros, followed by LGV Rhine-Rhone, and LGV East. Down to the High-speed Line LGV Paris-Lyon which is the lowest. ",
-      "The average Construction cost per kilometer in millions of euros in all 8 High-speed Lines is 13.56. "
+      "The High-speed Line LGV Mediterranean tends to be 1.45 percent higher than average. "
    ],
    "trends": [
       {},

@@ -6,26 +6,28 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This is a bar chart. It shows Share of respondents who use network most often for 9 number of Platforms. ",
-      "Platform Instagram has the highest Share of respondents who use network most often and Other has the lowest Share of respondents who use network most often. ",
-      "There is a difference of 24.0 between the maximum Platform Instagram and minimum Platform Other. "
+      "This is a bar chart representing Platform in the x axis and Share of respondents who use network most often in the y axis. ",
+      "The Share of respondents who use network most often is appeared to be the highest at Platform Instagram and lowest at Platform Other. ",
+      "The highest Platform Instagram has 24.0 more Share of respondents who use network most often than the lowest Platform Other. "
    ],
    "min_summary": [
       "This bar chart has 9 columns on the x axis representing Platform, and Share of respondents who use network most often in each Platform on the y axis. ",
       "The Share of respondents who use network most often is appeared to be the highest at Platform Instagram and lowest at Platform Other. "
    ],
    "mid_summary": [
-      "This is a bar chart. It shows Share of respondents who use network most often for 9 number of Platforms. ",
-      "Platform Instagram has the highest Share of respondents who use network most often and Other has the lowest Share of respondents who use network most often. ",
-      "There is a difference of 24.0 between the maximum Platform Instagram and minimum Platform Other. "
+      "This is a bar chart representing Platform in the x axis and Share of respondents who use network most often in the y axis. ",
+      "The Share of respondents who use network most often is appeared to be the highest at Platform Instagram and lowest at Platform Other. ",
+      "The highest Platform Instagram has 24.0 more Share of respondents who use network most often than the lowest Platform Other. "
    ],
    "max_summary": [
-      "This is a bar chart representing Platform in the x axis and Share of respondents who use network most often in the y axis. ",
-      "Platform Instagram has the highest Share of respondents who use network most often and Other has the lowest Share of respondents who use network most often. ",
-      "The difference of Share of respondents who use network most often between the highest and lowest Platform is 24.0. ",
-      "The Platform Instagram has the highest Share of respondents who use network most often, followed by Facebook, and Snapchat. Down to the Platform Other which is the lowest. ",
-      "Platform Other, and Don't know have the same Share of respondents who use network most often. ",
-      "The Platform Other has 2.25 times less Share of respondents who use network most often than average. "
+      "This bar chart has 9 columns on the x axis representing Platform, and Share of respondents who use network most often in each Platform on the y axis. ",
+      "The Share of respondents who use network most often is highest at Platform Instagram and lowest at Platform Other. ",
+      "Second maximum Share of respondents who use network most often is found at Platform Facebook. ",
+      "The highest Platform Instagram has 24.0 more Share of respondents who use network most often than the lowest Platform Other. ",
+      "Platform Instagram is higher than any other Platforms with value 25.0, followed by Facebook, and Snapchat. Down to Platform Other with the lowest value 1.0. ",
+      "Platform Other, and Don't know share the same value 1.0. ",
+      "The lowest value 1.0 at Other is almost 2.25 times smaller than the average value 11.11. ",
+      "Summing up the values of all Platforms, we get total 100.0. "
    ],
    "trends": [
       {},

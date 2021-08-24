@@ -9,30 +9,30 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart represents 13 different Countrys on X-axis for 2 groups Winner, and Runner-up. On the Y-axis it shows their corresponding SOME LABEL. ",
-      " Country Spain had the maximum SOME LABEL among all 2 groups, and it was for Winner. The minimum SOME LABEL was observed in Country Yugoslavia for Winner. ",
-      " Among all the Countrys, Winner had the highest SOME LABEL in Country Spain and lowest SOME LABEL in Country Yugoslavia. ",
-      "Country Spain and Yugoslavia had the biggest gap of 2.0 between the highest and lowest SOME LABEL found for Winner. "
+      "This grouped bar chart shows Number of titles/final appearances on the Y-axis for 13 different Countrys for 2 groups Winner, and Runner-up that are presented on the X-axis. ",
+      " Country Spain had the maximum Number of titles/final appearances among all 2 groups, and it was for Winner. The minimum Number of titles/final appearances was observed in Country Yugoslavia for Winner. ",
+      " Among all the Countrys, Runner-up had the highest Number of titles/final appearances 3.0 in Country USSR and lowest value 0.0 in Country Czechoslovakia. ",
+      " There is a gap of 3.0 between the highest and lowest Number of titles/final appearances found for Runner-up in Country USSR and Czechoslovakia. "
    ],
    "xAxis": "Country",
-   "yAxis": "SOME LABEL",
+   "yAxis": "Number of titles/final appearances",
    "min_summary": [
-      "This grouped bar chart represents 13 different Countrys on X-axis for 2 groups Winner, and Runner-up. On the Y-axis it shows their corresponding SOME LABEL. ",
-      " Out of all 2 groups, Winner had the highest SOME LABEL in Country Spain and Winner had the lowest SOME LABEL in Country Yugoslavia. "
+      "This grouped bar chart shows Number of titles/final appearances on the Y-axis for 13 different Countrys for 2 groups Winner, and Runner-up that are presented on the X-axis. ",
+      " In Country Spain, Winner had the highest Number of titles/final appearances 3.0 among the 2 groups and in Yugoslavia, Winner had the lowest Number of titles/final appearances 0.0. "
    ],
    "mid_summary": [
-      "This grouped bar chart represents 13 different Countrys on X-axis for 2 groups Winner, and Runner-up. On the Y-axis it shows their corresponding SOME LABEL. ",
-      " Country Spain had the maximum SOME LABEL among all 2 groups, and it was for Winner. The minimum SOME LABEL was observed in Country Yugoslavia for Winner. ",
-      " Among all the Countrys, Winner had the highest SOME LABEL in Country Spain and lowest SOME LABEL in Country Yugoslavia. ",
-      "Country Spain and Yugoslavia had the biggest gap of 2.0 between the highest and lowest SOME LABEL found for Winner. "
+      "This grouped bar chart shows Number of titles/final appearances on the Y-axis for 13 different Countrys for 2 groups Winner, and Runner-up that are presented on the X-axis. ",
+      " Country Spain had the maximum Number of titles/final appearances among all 2 groups, and it was for Winner. The minimum Number of titles/final appearances was observed in Country Yugoslavia for Winner. ",
+      " Among all the Countrys, Runner-up had the highest Number of titles/final appearances 3.0 in Country USSR and lowest value 0.0 in Country Czechoslovakia. ",
+      " There is a gap of 3.0 between the highest and lowest Number of titles/final appearances found for Runner-up in Country USSR and Czechoslovakia. "
    ],
    "max_summary": [
-      "This grouped bar chart represents 13 different Countrys on X-axis for 2 groups Winner, and Runner-up. On the Y-axis it shows their corresponding SOME LABEL. ",
-      " Country Spain had the maximum SOME LABEL among all 2 groups, and it was for Winner. The minimum SOME LABEL was observed in Country Yugoslavia for Winner. ",
-      " Among all the Countrys, Winner had the highest SOME LABEL 3.0 in Country Spain and lowest value 0.0 in Country Yugoslavia. ",
-      "Country Spain and Yugoslavia had the biggest gap of 2.0 between the highest and lowest SOME LABEL found for Winner. ",
-      " Among the groups, Winner had the biggest difference in SOME LABEL. Where the maximum SOME LABEL was 3.0 times larger than the minimum SOME LABEL. ",
-      "Averaging all 2 groups Winner, and Runner-up, the Country Germany is the maximum SOME LABEL and Czechoslovakia is the minimum SOME LABEL. "
+      "This grouped bar chart shows Number of titles/final appearances on the Y-axis for 13 different Countrys for 2 groups Winner, and Runner-up that are presented on the X-axis. ",
+      " Out of all 2 groups, Winner had the highest Number of titles/final appearances in Country Spain and Winner had the lowest Number of titles/final appearances in Country Yugoslavia. ",
+      " Among all the Countrys, Runner-up had the highest Number of titles/final appearances in Country USSR and lowest Number of titles/final appearances in Country Czechoslovakia. ",
+      " There is a gap of 3.0 between the highest and lowest Number of titles/final appearances found for Runner-up in Country USSR and Czechoslovakia. ",
+      " Among all 2 groups, Winner had the gap of 3.0 between the maximum and minimum Number of titles/final appearances observed in Country Spain and Yugoslavia respectively. ",
+      "Averaging all 2 groups Winner, and Runner-up, the Country Germany is the maximum Number of titles/final appearances and Czechoslovakia is the minimum Number of titles/final appearances. "
    ],
    "trends": [
       {},

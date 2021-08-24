@@ -9,35 +9,21 @@
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "You are viewing a chart of multi-line type with 2 lines denoting Male, and Female. The y axis indicates the Pass rates and the x axis indicates Year.",
       "Overall Male, and Female are gradually decreasing,  throughout the Year",
-      "The ranking of the lines from topmost to botommmost is as follows: 1. Female, and lastly, 2. Male. ",
-      "Throughout the period, Female generally had the highest Pass rates relative to others with an average of 58.87, and it reached its maximum at 2007/08 with a value of 68.9.",
-      "The botommost line, Male,  has a mean of 53.77, and peaked at 2008/09. ",
-      "The greatest difference of Pass rates between Male and Female occurs at Year 2007/08 and the smallest difference occurs at 2015/16."
+      "The order of lines according to average values of Pass rates, in descending order is: 1. Female, and lastly, 2. Male. ",
+      "The greatest difference of Pass rates between Male and Female occurs at Year 2012/13 and the smallest difference occurs at 2015/16."
    ],
    "xAxis": "Year",
    "yAxis": "Pass rates",
    "min_summary": [
-      "You are viewing a chart of multi-line type with 2 lines denoting Male, and Female. The y axis indicates the Pass rates and the x axis indicates Year.",
-      "Overall Male, and Female are gradually decreasing,  throughout the Year",
-      "Overall across the Year, Female mostly maintained the highest Pass rates when compared to others with a mean value of 58.87, and it peaked at 2007/08.",
-      "Male mostly had the least Pass rates with a mean value of 53.77, which peaked at 2008/09 with a value of 62.6. "
+      "Overall Male, and Female are gradually decreasing,  throughout the Year"
    ],
    "mid_summary": [
-      "This is a multi-line chart with 2 lines representing Male, and Female. The y axis denotes Pass rates and the x axis denotes Year.",
-      "Overall Male, and Female are gradually decreasing,  throughout the Year",
-      "The ranking of the lines from topmost to botommmost is as follows: 1. Female, and lastly, 2. Male. ",
-      "Overall across the Year, Female mostly maintained the highest Pass rates when compared to others with a mean value of 58.87, and it peaked at 2007/08.",
-      "The botommost line, Male,  has a mean of 53.77, and peaked at 2008/09. "
+      "Overall Male, and Female are gradually decreasing,  throughout the Year"
    ],
    "max_summary": [
-      "You are viewing a chart of multi-line type with 2 lines denoting Male, and Female. The y axis indicates the Pass rates and the x axis indicates Year.",
       "Overall Male, and Female are gradually decreasing,  throughout the Year",
-      "The lines ordered according to average values of Pass rates in descending order is: 1. Female, and lastly, 2. Male. ",
-      "Throughout the period, Female generally had the highest Pass rates relative to others with an average of 58.87, and it reached its maximum at 2007/08 with a value of 68.9.",
-      "Male mostly had the least Pass rates with a mean value of 53.77, which peaked at 2008/09 with a value of 62.6. ",
-      "The greatest difference of Pass rates between Male and Female occurs at Year 2007/08 and the smallest difference occurs at 2015/16."
+      "The greatest difference of Pass rates between Male and Female occurs at Year 2012/13 and the smallest difference occurs at 2015/16."
    ],
    "trends": [
       {},
@@ -53,11 +39,11 @@
       },
       {
          "1": [
-            "11",
+            "0",
             "1"
          ],
          "9": [
-            "11",
+            "0",
             "1"
          ]
       },
@@ -73,11 +59,11 @@
       },
       {
          "1": [
-            "10",
+            "0",
             "0"
          ],
          "10": [
-            "10",
+            "0",
             "0"
          ]
       }

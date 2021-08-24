@@ -7,25 +7,26 @@
    "summaryType": "baseline",
    "summary": [
       "This bar chart has 10 columns on the x axis representing Company (Offer date), and Deal size in million U.S. dollars in each Company (Offer date) on the y axis. ",
-      "The maximum Deal size in million U.S. dollars 8100.0 is found at Company (Offer date) Uber Technologies (May 9) and the minimum is found at DouYu International Holdings (Jul 16) where Company (Offer date) is 775.0. ",
-      "The difference of Deal size in million U.S. dollars between the highest and lowest Company (Offer date) is 7325.0. "
+      "The Deal size in million U.S. dollars is highest at Company (Offer date) Uber Technologies (May 9) and lowest at Company (Offer date) DouYu International Holdings (Jul 16). ",
+      "There is a difference of 7325.0 between the maximum Company (Offer date) Uber Technologies (May 9) and minimum Company (Offer date) DouYu International Holdings (Jul 16). "
    ],
    "min_summary": [
-      "This bar chart has 10 columns on the x axis representing Company (Offer date), and Deal size in million U.S. dollars in each Company (Offer date) on the y axis. ",
-      "The Deal size in million U.S. dollars is appeared to be the highest at Company (Offer date) Uber Technologies (May 9) and lowest at Company (Offer date) DouYu International Holdings (Jul 16). "
+      "This is a bar chart representing Company (Offer date) in the x axis and Deal size in million U.S. dollars in the y axis. ",
+      "The maximum Deal size in million U.S. dollars 8100.0 is found at Company (Offer date) Uber Technologies (May 9) and the minimum is found at DouYu International Holdings (Jul 16) where Company (Offer date) is 775.0. "
    ],
    "mid_summary": [
       "This bar chart has 10 columns on the x axis representing Company (Offer date), and Deal size in million U.S. dollars in each Company (Offer date) on the y axis. ",
-      "The maximum Deal size in million U.S. dollars 8100.0 is found at Company (Offer date) Uber Technologies (May 9) and the minimum is found at DouYu International Holdings (Jul 16) where Company (Offer date) is 775.0. ",
-      "The difference of Deal size in million U.S. dollars between the highest and lowest Company (Offer date) is 7325.0. "
+      "The Deal size in million U.S. dollars is highest at Company (Offer date) Uber Technologies (May 9) and lowest at Company (Offer date) DouYu International Holdings (Jul 16). ",
+      "There is a difference of 7325.0 between the maximum Company (Offer date) Uber Technologies (May 9) and minimum Company (Offer date) DouYu International Holdings (Jul 16). "
    ],
    "max_summary": [
-      "This is a bar chart. It shows Deal size in million U.S. dollars for 10 number of Company (Offer date)s. ",
-      "Company (Offer date) Uber Technologies (May 9) has the highest Deal size in million U.S. dollars and DouYu International Holdings (Jul 16) has the lowest Deal size in million U.S. dollars. ",
-      "The second highest Deal size in million U.S. dollars is appeared to be the Company (Offer date) Avantor (May 16). ",
+      "This bar chart has 10 columns on the x axis representing Company (Offer date), and Deal size in million U.S. dollars in each Company (Offer date) on the y axis. ",
+      "The maximum Deal size in million U.S. dollars 8100.0 is found at Company (Offer date) Uber Technologies (May 9) and the minimum is found at DouYu International Holdings (Jul 16) where Company (Offer date) is 775.0. ",
+      "Second maximum Deal size in million U.S. dollars is found at Company (Offer date) Avantor (May 16). ",
       "The highest Company (Offer date) Uber Technologies (May 9) has 7325.0 more Deal size in million U.S. dollars than the lowest Company (Offer date) DouYu International Holdings (Jul 16). ",
-      "The Company (Offer date) Uber Technologies (May 9) has the highest Deal size in million U.S. dollars, followed by Avantor (May 16), and Lyft (Mar 28). Down to the Company (Offer date) DouYu International Holdings (Jul 16) which is the lowest. ",
-      "Considered together, the average Deal size in million U.S. dollars in all 10 Company (Offer date)s is roughly 2210.5. "
+      "Deal size in million U.S. dollars at Company (Offer date) Uber Technologies (May 9) is 8100.0 , second place is Avantor (May 16) at 2898.0, and thirdly is Lyft (Mar 28) at 2340.0.",
+      "The lowest value 775.0 at DouYu International Holdings (Jul 16) is almost 3.66 times smaller than the average value 2210.5. ",
+      "Summing up the values of all Company (Offer date)s, we get total 22105.0. "
    ],
    "trends": [
       {},

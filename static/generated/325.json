@@ -6,25 +6,26 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 5 columns on the x axis representing Entrepreneur (company), and Net worth in billion U.S. dollars in each Entrepreneur (company) on the y axis. ",
+      "This is a bar chart. It shows Net worth in billion U.S. dollars for 5 number of Entrepreneur (company)s. ",
       "Entrepreneur (company) Ma Huateng (Tencent) has the highest Net worth in billion U.S. dollars and Kim Jung-Ju (Nexon) has the lowest Net worth in billion U.S. dollars. ",
-      "The difference of Net worth in billion U.S. dollars between the highest and lowest Entrepreneur (company) is 18.4. "
+      "There is a difference of 18.4 between the maximum Entrepreneur (company) Ma Huateng (Tencent) and minimum Entrepreneur (company) Kim Jung-Ju (Nexon). "
    ],
    "min_summary": [
-      "This bar chart has 5 columns on the x axis representing Entrepreneur (company), and Net worth in billion U.S. dollars in each Entrepreneur (company) on the y axis. ",
+      "This is a bar chart. It shows Net worth in billion U.S. dollars for 5 number of Entrepreneur (company)s. ",
       "Entrepreneur (company) Ma Huateng (Tencent) has the highest Net worth in billion U.S. dollars and Kim Jung-Ju (Nexon) has the lowest Net worth in billion U.S. dollars. "
    ],
    "mid_summary": [
-      "This bar chart has 5 columns on the x axis representing Entrepreneur (company), and Net worth in billion U.S. dollars in each Entrepreneur (company) on the y axis. ",
+      "This is a bar chart. It shows Net worth in billion U.S. dollars for 5 number of Entrepreneur (company)s. ",
       "Entrepreneur (company) Ma Huateng (Tencent) has the highest Net worth in billion U.S. dollars and Kim Jung-Ju (Nexon) has the lowest Net worth in billion U.S. dollars. ",
-      "The difference of Net worth in billion U.S. dollars between the highest and lowest Entrepreneur (company) is 18.4. "
+      "There is a difference of 18.4 between the maximum Entrepreneur (company) Ma Huateng (Tencent) and minimum Entrepreneur (company) Kim Jung-Ju (Nexon). "
    ],
    "max_summary": [
       "This is a bar chart. It shows Net worth in billion U.S. dollars for 5 number of Entrepreneur (company)s. ",
       "Entrepreneur (company) Ma Huateng (Tencent) has the highest Net worth in billion U.S. dollars and Kim Jung-Ju (Nexon) has the lowest Net worth in billion U.S. dollars. ",
-      "The lowest value at Entrepreneur (company) Kim Jung-Ju (Nexon) is 6.26x times less than the highest value at Ma Huateng (Tencent). ",
-      "Entrepreneur (company) Ma Huateng (Tencent) is higher than any other Entrepreneur (company)s with value 21.9, followed by William Ding (NetEase), and Shi Yuzhu (Giant Interactive). Down to Entrepreneur (company) Kim Jung-Ju (Nexon) with the lowest value 3.5. ",
-      "The average Net worth in billion U.S. dollars in all 5 Entrepreneur (company)s is 9.44. "
+      "The second highest Net worth in billion U.S. dollars is appeared to be the Entrepreneur (company) William Ding (NetEase). ",
+      "There is a difference of 18.4 between the maximum Entrepreneur (company) Ma Huateng (Tencent) and minimum Entrepreneur (company) Kim Jung-Ju (Nexon). ",
+      "Net worth in billion U.S. dollars at Entrepreneur (company) Ma Huateng (Tencent) is 21.9 , second place is William Ding (NetEase) at 11.5, and thirdly is Shi Yuzhu (Giant Interactive) at 5.4.",
+      "The lowest value 3.5 at Kim Jung-Ju (Nexon) is almost 2.32 times smaller than the average value 9.44. "
    ],
    "trends": [
       {},

@@ -6,27 +6,27 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 6 columns on the x axis representing Cost in British pounds, and Share of respondents in each Cost in British pounds on the y axis. ",
+      "This is a bar chart. It shows Share of respondents for 6 number of Cost in British poundss. ",
       "Cost in British pounds 5000-10000 has the highest Share of respondents and 2300-5000 has the lowest Share of respondents. ",
-      "The highest value at Cost in British pounds 5000-10000 is 2.33x times more than the lowest value at 2300-5000. "
+      "The difference of Share of respondents between the highest and lowest Cost in British pounds is 12.0. "
    ],
    "min_summary": [
-      "This bar chart has 6 columns on the x axis representing Cost in British pounds, and Share of respondents in each Cost in British pounds on the y axis. ",
-      "The Share of respondents is highest at Cost in British pounds 5000-10000 and lowest at Cost in British pounds 2300-5000. "
+      "This is a bar chart. It shows Share of respondents for 6 number of Cost in British poundss. ",
+      "The maximum Share of respondents 21.0 is found at Cost in British pounds 5000-10000 and the minimum is found at 2300-5000 where Cost in British pounds is 9.0. "
    ],
    "mid_summary": [
-      "This bar chart has 6 columns on the x axis representing Cost in British pounds, and Share of respondents in each Cost in British pounds on the y axis. ",
+      "This is a bar chart. It shows Share of respondents for 6 number of Cost in British poundss. ",
       "Cost in British pounds 5000-10000 has the highest Share of respondents and 2300-5000 has the lowest Share of respondents. ",
-      "The highest value at Cost in British pounds 5000-10000 is 2.33x times more than the lowest value at 2300-5000. "
+      "The difference of Share of respondents between the highest and lowest Cost in British pounds is 12.0. "
    ],
    "max_summary": [
       "This bar chart has 6 columns on the x axis representing Cost in British pounds, and Share of respondents in each Cost in British pounds on the y axis. ",
-      "The Share of respondents is highest at Cost in British pounds 5000-10000 and lowest at Cost in British pounds 2300-5000. ",
-      "Cost in British pounds 10000-20000 has the second highest value for Share of respondents. ",
-      "The difference of Share of respondents between the highest and lowest Cost in British pounds is 12.0. ",
-      "Cost in British pounds 5000-10000 is higher than any other Cost in British poundss with value 21.0, followed by 10000-20000, and More than 20000. Down to Cost in British pounds 2300-5000 with the lowest value 9.0. ",
-      "Similar Share of respondents is found in Cost in British pounds Less than 760, and 760-2300. ",
-      "The lowest value 9.0 at 2300-5000 is almost 1.25 times smaller than the average value 16.83. "
+      "The maximum Share of respondents 21.0 is found at Cost in British pounds 5000-10000 and the minimum is found at 2300-5000 where Cost in British pounds is 9.0. ",
+      "The lowest value at Cost in British pounds 2300-5000 is 2.33x times less than the highest value at 5000-10000. ",
+      "Share of respondents at Cost in British pounds 5000-10000 is 21.0 , second place is 10000-20000 at 19.0, and thirdly is More than 20000 at 18.0.",
+      "Cost in British pounds Less than 760, and 760-2300 have the same Share of respondents. ",
+      "The Cost in British pounds 5000-10000 tends to be 1.25 percent higher than average. ",
+      "Summing up the values of all Cost in British poundss, we get total 101.0. "
    ],
    "trends": [
       {},

@@ -6,26 +6,28 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 12 columns on the x axis representing Fiscal Year, and Higher education outlay in billion U.S. dollars in each Fiscal Year on the y axis. ",
+      "This is a bar chart representing Fiscal Year in the x axis and Higher education outlay in billion U.S. dollars in the y axis. ",
       "The maximum Higher education outlay in billion U.S. dollars 33.0 is found at Fiscal Year '19 and the minimum is found at '20 where Fiscal Year is 2.0. ",
-      "The minimum Fiscal Year '20 has got 16.5 times less Higher education outlay in billion U.S. dollars than the maximum Fiscal Year '19. "
+      "The highest Fiscal Year '19 has 31.0 more Higher education outlay in billion U.S. dollars than the lowest Fiscal Year '20. "
    ],
    "min_summary": [
-      "This is a bar chart representing Fiscal Year in the x axis and Higher education outlay in billion U.S. dollars in the y axis. ",
-      "The Higher education outlay in billion U.S. dollars is appeared to be the highest at Fiscal Year '19 and lowest at Fiscal Year '20. "
+      "This bar chart has 12 columns on the x axis representing Fiscal Year, and Higher education outlay in billion U.S. dollars in each Fiscal Year on the y axis. ",
+      "Fiscal Year '19 has the highest Higher education outlay in billion U.S. dollars and '20 has the lowest Higher education outlay in billion U.S. dollars. "
    ],
    "mid_summary": [
-      "This bar chart has 12 columns on the x axis representing Fiscal Year, and Higher education outlay in billion U.S. dollars in each Fiscal Year on the y axis. ",
+      "This is a bar chart representing Fiscal Year in the x axis and Higher education outlay in billion U.S. dollars in the y axis. ",
       "The maximum Higher education outlay in billion U.S. dollars 33.0 is found at Fiscal Year '19 and the minimum is found at '20 where Fiscal Year is 2.0. ",
-      "The minimum Fiscal Year '20 has got 16.5 times less Higher education outlay in billion U.S. dollars than the maximum Fiscal Year '19. "
+      "The highest Fiscal Year '19 has 31.0 more Higher education outlay in billion U.S. dollars than the lowest Fiscal Year '20. "
    ],
    "max_summary": [
       "This is a bar chart representing Fiscal Year in the x axis and Higher education outlay in billion U.S. dollars in the y axis. ",
-      "Fiscal Year '19 has the highest Higher education outlay in billion U.S. dollars and '20 has the lowest Higher education outlay in billion U.S. dollars. ",
+      "The maximum Higher education outlay in billion U.S. dollars 33.0 is found at Fiscal Year '19 and the minimum is found at '20 where Fiscal Year is 2.0. ",
+      "The second highest Higher education outlay in billion U.S. dollars is appeared to be the Fiscal Year '22. ",
       "The minimum Fiscal Year '20 has got 16.5 times less Higher education outlay in billion U.S. dollars than the maximum Fiscal Year '19. ",
       "Fiscal Year '19 is higher than any other Fiscal Years with value 33.0, followed by '22, and '22. Down to Fiscal Year '20 with the lowest value 2.0. ",
-      "Fiscal Year '30, '29, '28, '27, '26, '25, '24, '23, and '22 have a similar Higher education outlay in billion U.S. dollars that is 5.0. ",
-      "The Fiscal Year '20 tends to be 4.71 percent lower than average. "
+      "Fiscal Year '30, '29, '28, '27, '26, '25, '24, '23, and '22 share the same value 5.0. ",
+      "The Fiscal Year '19 has 4.71 times more Higher education outlay in billion U.S. dollars than average. ",
+      "The Higher education outlay in billion U.S. dollars is 84.0 if we add up values of all Fiscal Years. "
    ],
    "trends": [
       {},
