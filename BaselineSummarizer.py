@@ -1,4 +1,5 @@
 
+
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
@@ -6,6 +7,7 @@ Created on Mon Aug 16 14:42:27 2021
 
 @author: shehnazislam
 """
+
 
 import json  # Serialization: process of encoding data into JSON format (like converting a Python list to JSON). Deserialization: process of decoding JSON data back into native objects you can work with (like reading JSON data into a Python list)
 
@@ -3319,7 +3321,7 @@ multi_line_data = "Year|2018|0|line_chart Export|55968.7|1|line_chart Import|108
 
 # summarize(data=bar_data, all_y_label="TEST", name="bar_data", title="Test")
 # summarize(data = group_bar_data,all_y_label="TEST", name = "group_bar_data", title="Test")
-# summarize(data = single_line_data, all_y_label="TEST", name = "single_line_data", title="Test")
+summarize(data = single_line_data, all_y_label="TEST", name = "single_line_data", title="Test")
 # summarize(data = multi_line_data,all_y_label="TEST", name = "multi_line_data", title="Test")
 
 # summarize(data=group_bar_data, all_y_label=grp_bar_y_label.rstrip('\n'), name=grp_bar_title, title=grp_bar_title.rstrip('\n'))
@@ -3328,13 +3330,13 @@ multi_line_data = "Year|2018|0|line_chart Export|55968.7|1|line_chart Import|108
 
 ### USE THIS PORTION TO RUN ALL CHARTS AT ONCE WITH Y LABELS
 
-with open(dataPath, 'r', encoding='utf-8') as dataFile, \
-        open(titlePath, 'r', encoding='utf-8') as titleFile, open('all_Y_labels.txt', 'r', encoding='utf-8') as all_y_label:
-    count = 1
-    fileIterators = zip(dataFile.readlines(), titleFile.readlines(), all_y_label.readlines())
-    for data, title, all_y_label in fileIterators:
-        summarize(data=data, all_y_label=all_y_label.rstrip('\n'), name=count, title=title.rstrip('\n'))
-        count += 1
+# with open(dataPath, 'r', encoding='utf-8') as dataFile, \
+#         open(titlePath, 'r', encoding='utf-8') as titleFile, open('all_Y_labels.txt', 'r', encoding='utf-8') as all_y_label:
+#     count = 1
+#     fileIterators = zip(dataFile.readlines(), titleFile.readlines(), all_y_label.readlines())
+#     for data, title, all_y_label in fileIterators:
+#         summarize(data=data, all_y_label=all_y_label.rstrip('\n'), name=count, title=title.rstrip('\n'))
+#         count += 1
 
 
 # Single Line Charts
