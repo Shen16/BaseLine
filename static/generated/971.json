@@ -9,64 +9,24 @@
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "Overall Total attendance is gradually decreasing, Average attendance is roughly constant,  throughout the Year",
-      "The order of lines according to average values of SOME LABEL, in descending order is: 1. Total attendance, and lastly, 2. Average attendance. ",
-      "The greatest difference of SOME LABEL between Total attendance and Average attendance occurs at Year 2008/09 and the smallest difference occurs at 2010/11."
+      "Overall Total attendance, and Average attendance are roughly constant,  throughout the Year",
+      "The ranking of the lines from topmost to botommmost is as follows: 1. Total attendance, and lastly, 2. Average attendance. ",
+      "The difference of SOME LABEL between Total attendance and Average attendance is roughly same at Year 2017/18 compared to the Year 2007/08."
    ],
    "xAxis": "Year",
    "yAxis": "SOME LABEL",
    "min_summary": [
-      "Overall Total attendance is gradually decreasing, Average attendance is roughly constant,  throughout the Year"
+      "Overall Total attendance, and Average attendance are roughly constant,  throughout the Year"
    ],
    "mid_summary": [
-      "Overall Total attendance is gradually decreasing, Average attendance is roughly constant,  throughout the Year"
+      "Overall Total attendance, and Average attendance are roughly constant,  throughout the Year"
    ],
    "max_summary": [
-      "Overall Total attendance is gradually decreasing, Average attendance is roughly constant,  throughout the Year",
-      "The greatest difference of SOME LABEL between Total attendance and Average attendance occurs at Year 2008/09 and the smallest difference occurs at 2010/11."
+      "Overall Total attendance, and Average attendance are roughly constant,  throughout the Year",
+      "The greatest difference of SOME LABEL between Total attendance and Average attendance occurs at Year 2008/09 and the smallest difference occurs at 2012/13."
    ],
    "trends": [
-      {},
-      {
-         "2": [
-            "0",
-            "0"
-         ],
-         "16": [
-            "13",
-            "0"
-         ]
-      },
-      {
-         "1": [
-            "0",
-            "0"
-         ],
-         "9": [
-            "0",
-            "0"
-         ]
-      },
-      {
-         "2": [
-            "0",
-            "1"
-         ],
-         "15": [
-            "13",
-            "1"
-         ]
-      },
-      {
-         "1": [
-            "0",
-            "1"
-         ],
-         "10": [
-            "0",
-            "1"
-         ]
-      }
+      {}
    ],
    "data": [
       {

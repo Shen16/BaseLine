@@ -7,27 +7,26 @@
    "summaryType": "baseline",
    "summary": [
       "This is a bar chart representing Sex in the x axis and Share of respondents in the y axis. ",
-      "The maximum Share of respondents 7.0 is found at Sex Under 35 and the minimum is found at Male where Sex is 2.0. ",
-      "There is a difference of 5.0 between the maximum Sex Under 35 and minimum Sex Male. "
+      "The Share of respondents is highest at Sex Under 35 and lowest at Sex Male. ",
+      "The Share of respondents of Sex Male is 3.5% smaller than the maximum value at Under 35. "
    ],
    "min_summary": [
       "This bar chart has 5 columns on the x axis representing Sex, and Share of respondents in each Sex on the y axis. ",
-      "The Share of respondents is highest at Sex Under 35 and lowest at Sex Male. "
+      "Sex Under 35 has the highest Share of respondents and Male has the lowest Share of respondents. "
    ],
    "mid_summary": [
       "This is a bar chart representing Sex in the x axis and Share of respondents in the y axis. ",
-      "The maximum Share of respondents 7.0 is found at Sex Under 35 and the minimum is found at Male where Sex is 2.0. ",
-      "There is a difference of 5.0 between the maximum Sex Under 35 and minimum Sex Male. "
+      "The Share of respondents is highest at Sex Under 35 and lowest at Sex Male. ",
+      "The Share of respondents of Sex Male is 3.5% smaller than the maximum value at Under 35. "
    ],
    "max_summary": [
-      "This bar chart has 5 columns on the x axis representing Sex, and Share of respondents in each Sex on the y axis. ",
-      "The Share of respondents is appeared to be the highest at Sex Under 35 and lowest at Sex Male. ",
+      "This is a bar chart. It shows Share of respondents for 5 number of Sexs. ",
+      "The Share of respondents is highest at Sex Under 35 and lowest at Sex Male. ",
       "The second highest Share of respondents is appeared to be the Sex Female. ",
-      "The highest Sex Under 35 has 5.0 more Share of respondents than the lowest Sex Male. ",
+      "The difference of Share of respondents between the highest and lowest Sex is 5.0. ",
       "The Sex Under 35 has the highest Share of respondents, followed by Female, and 35 to 49. Down to the Sex Male which is the lowest. ",
-      "Sex Male, and 50 to 64 have a similar Share of respondents that is 2.0. ",
-      "The average Share of respondents in all 5 Sexs is 4.0. ",
-      "Summing up the values of all Sexs, we get total 20.0. "
+      "Sex Male, and 50 to 64 share the same value 2.0. ",
+      "The Sex Male has 1.75 times less Share of respondents than average. "
    ],
    "trends": [
       {},

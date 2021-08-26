@@ -9,66 +9,25 @@
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "Overall Public use, and Private use are roughly constant,  throughout the Year",
-      "The ranking of the lines from topmost to botommmost is as follows: 1. Private use, and lastly, 2. Public use. ",
-      "Public use reported the lowest Number of airports about 5087.0 in Year 18",
-      "The greatest difference of Number of airports between Public use and Private use occurs at Year 18 and the smallest difference occurs at 14."
+      " In general Number of airports has stayed the same over the Year.",
+      "Maximum Number of airports, about 14757.0 was reported at Year 6",
+      "The lowest Number of airports, of value 13863.0 was reported at Year 14"
    ],
    "xAxis": "Year",
    "yAxis": "Number of airports",
    "min_summary": [
-      "Overall Public use, and Private use are roughly constant,  throughout the Year"
+      " In general Number of airports has stayed the same over the Year."
    ],
    "mid_summary": [
-      "Overall Public use, and Private use are roughly constant,  throughout the Year"
+      " In general Number of airports has stayed the same over the Year."
    ],
    "max_summary": [
-      "Overall Public use, and Private use are roughly constant,  throughout the Year",
-      "Public use reported the lowest Number of airports about 5087.0 in Year 18",
-      "The difference of Number of airports between Public use and Private use is roughly same at Year 2 compared to the Year 14."
+      " Overall Number of airports has increased over the Year.",
+      "Maximum Number of airports, about 14757.0 was reported at Year 6",
+      "The lowest Number of airports, of value 13863.0 was reported at Year 14"
    ],
    "trends": [
-      {},
-      {
-         "2": [
-            "0",
-            "1"
-         ],
-         "16": [
-            "19",
-            "1"
-         ]
-      },
-      {
-         "1": [
-            "3",
-            "1"
-         ],
-         "9": [
-            "3",
-            "1"
-         ]
-      },
-      {
-         "2": [
-            "0",
-            "0"
-         ],
-         "15": [
-            "19",
-            "0"
-         ]
-      },
-      {
-         "1": [
-            "4",
-            "0"
-         ],
-         "10": [
-            "4",
-            "0"
-         ]
-      }
+      {}
    ],
    "data": [
       {

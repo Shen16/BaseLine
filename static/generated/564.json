@@ -7,7 +7,7 @@
    "summaryType": "baseline",
    "summary": [
       "This is a bar chart representing Country in the x axis and CT scanners per million population in the y axis. ",
-      "The CT scanners per million population is appeared to be the highest at Country Australia and lowest at Country Mexico. ",
+      "The CT scanners per million population is highest at Country Australia and lowest at Country Mexico. ",
       "The difference of CT scanners per million population between the highest and lowest Country is 58.23. "
    ],
    "min_summary": [
@@ -16,16 +16,18 @@
    ],
    "mid_summary": [
       "This is a bar chart representing Country in the x axis and CT scanners per million population in the y axis. ",
-      "The CT scanners per million population is appeared to be the highest at Country Australia and lowest at Country Mexico. ",
+      "The CT scanners per million population is highest at Country Australia and lowest at Country Mexico. ",
       "The difference of CT scanners per million population between the highest and lowest Country is 58.23. "
    ],
    "max_summary": [
-      "This is a bar chart. It shows CT scanners per million population for 29 number of Countrys. ",
+      "This is a bar chart representing Country in the x axis and CT scanners per million population in the y axis. ",
       "The CT scanners per million population is appeared to be the highest at Country Australia and lowest at Country Mexico. ",
+      "The second highest CT scanners per million population is appeared to be the Country Iceland. ",
       "The highest Country Australia has 58.23 more CT scanners per million population than the lowest Country Mexico. ",
-      "The Country Australia has the highest CT scanners per million population, followed by Iceland, and United States. Down to the Country Mexico which is the lowest. ",
-      "Country Poland, and France have the same CT scanners per million population. ",
-      "The Country Australia tends to be 2.56 percent higher than average. "
+      "CT scanners per million population at Country Australia is 64.35 , second place is Iceland at 44.33, and thirdly is United States at 42.64.",
+      "Country Poland, and France have a similar CT scanners per million population that is 17.33. ",
+      "The Country Mexico has 2.56 times less CT scanners per million population than average. ",
+      "The CT scanners per million population is 727.77 if we add up values of all Countrys. "
    ],
    "trends": [
       {},

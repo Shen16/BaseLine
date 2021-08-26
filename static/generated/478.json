@@ -6,27 +6,28 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This is a bar chart representing Response in the x axis and Share of respondents in the y axis. ",
-      "Response Catholic has the highest Share of respondents and Baptist evangelist has the lowest Share of respondents. ",
-      "The lowest value at Response Baptist evangelist is 808.0x times less than the highest value at Catholic. "
+      "This bar chart has 14 columns on the x axis representing Response, and Share of respondents in each Response on the y axis. ",
+      "The Share of respondents is appeared to be the highest at Response Catholic and lowest at Response Baptist evangelist. ",
+      "The difference of Share of respondents between the highest and lowest Response is 80.7. "
    ],
    "min_summary": [
-      "This bar chart has 14 columns on the x axis representing Response, and Share of respondents in each Response on the y axis. ",
-      "The Share of respondents is highest at Response Catholic and lowest at Response Baptist evangelist. "
+      "This is a bar chart representing Response in the x axis and Share of respondents in the y axis. ",
+      "The Share of respondents is appeared to be the highest at Response Catholic and lowest at Response Baptist evangelist. "
    ],
    "mid_summary": [
-      "This is a bar chart representing Response in the x axis and Share of respondents in the y axis. ",
-      "Response Catholic has the highest Share of respondents and Baptist evangelist has the lowest Share of respondents. ",
-      "The lowest value at Response Baptist evangelist is 808.0x times less than the highest value at Catholic. "
+      "This bar chart has 14 columns on the x axis representing Response, and Share of respondents in each Response on the y axis. ",
+      "The Share of respondents is appeared to be the highest at Response Catholic and lowest at Response Baptist evangelist. ",
+      "The difference of Share of respondents between the highest and lowest Response is 80.7. "
    ],
    "max_summary": [
-      "This is a bar chart. It shows Share of respondents for 14 number of Responses. ",
-      "Response Catholic has the highest Share of respondents and Baptist evangelist has the lowest Share of respondents. ",
-      "Response None has the second highest value for Share of respondents. ",
-      "The highest Response Catholic has 80.7 more Share of respondents than the lowest Response Baptist evangelist. ",
-      "The Response Catholic has the highest Share of respondents, followed by None, and Believer without formal affiliation to any religion. Down to the Response Baptist evangelist which is the lowest. ",
-      "Response Adventist, Mormon, Agnostic, and Atheist have a similar Share of respondents that is 0.2. ",
-      "The Response Baptist evangelist has 11.31 times less Share of respondents than average. "
+      "This bar chart has 14 columns on the x axis representing Response, and Share of respondents in each Response on the y axis. ",
+      "The Share of respondents is highest at Response Catholic and lowest at Response Baptist evangelist. ",
+      "Second maximum Share of respondents is found at Response None. ",
+      "The maximum Response Catholic has got 808.0 times higher Share of respondents than the minimum Response Baptist evangelist. ",
+      "Response Catholic is higher than any other Responses with value 80.8, followed by None, and Believer without formal affiliation to any religion. Down to Response Baptist evangelist with the lowest value 0.1. ",
+      "Similar Share of respondents is found in Response Adventist, Mormon, Agnostic, and Atheist. ",
+      "The Response Catholic tends to be 11.31 percent higher than average. ",
+      "The Share of respondents is 100.0 if we add up values of all Responses. "
    ],
    "trends": [
       {},

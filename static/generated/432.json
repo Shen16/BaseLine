@@ -10,64 +10,24 @@
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "Overall Born with, and Both are gradually increasing, Upbringing/environment is gradually decreasing,  throughout the Year",
-      "The order of lines according to average values of Share of respondent, in descending order is: 1. Born with, 2. Upbringing/environment, and lastly, 3. Both. ",
-      "The minimum Share of respondent about 6.0, occured at 2011 by Both."
+      "Overall Born with is gradually increasing, Both is gradually decreasing, Upbringing/environment is roughly constant,  throughout the Year",
+      "The ranking of the lines from topmost to botommmost is as follows: 1. Born with, 2. Upbringing/environment, and lastly, 3. Both. ",
+      "Both reported the lowest Share of respondent about 6.0 in Year 2011"
    ],
    "xAxis": "Year",
    "yAxis": "Share of respondent",
    "min_summary": [
-      "Overall Born with, and Both are gradually increasing, Upbringing/environment is gradually decreasing,  throughout the Year"
+      "Overall Born with is gradually increasing, Both is gradually decreasing, Upbringing/environment is roughly constant,  throughout the Year"
    ],
    "mid_summary": [
-      "Overall Born with, and Both are gradually increasing, Upbringing/environment is gradually decreasing,  throughout the Year"
+      "Overall Born with is gradually increasing, Both is gradually decreasing, Upbringing/environment is roughly constant,  throughout the Year"
    ],
    "max_summary": [
-      "Overall Born with, and Both are gradually increasing, Upbringing/environment is gradually decreasing,  throughout the Year",
-      "Both reported the lowest Share of respondent about 6.0 in Year 2011"
+      "Overall Born with is gradually increasing, Both is gradually decreasing, Upbringing/environment is roughly constant,  throughout the Year",
+      "The minimum Share of respondent about 6.0, occured at 2011 by Both."
    ],
    "trends": [
-      {},
-      {
-         "2": [
-            "0",
-            "0"
-         ],
-         "16": [
-            "21",
-            "0"
-         ]
-      },
-      {
-         "1": [
-            "4",
-            "0"
-         ],
-         "9": [
-            "4",
-            "0"
-         ]
-      },
-      {
-         "2": [
-            "0",
-            "1"
-         ],
-         "15": [
-            "21",
-            "1"
-         ]
-      },
-      {
-         "1": [
-            "0",
-            "1"
-         ],
-         "10": [
-            "0",
-            "1"
-         ]
-      }
+      {}
    ],
    "data": [
       {

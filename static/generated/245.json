@@ -10,64 +10,17 @@
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "Overall Services is gradually increasing, Agriculture, and Industry are gradually decreasing,  throughout the Year",
-      "The ranking of the lines from topmost to botommmost is as follows: 1. Services, 2. Industry, and lastly, 3. Agriculture. ",
-      "Agriculture reported the lowest Share of the workforce about 26.1 in Year 2018"
+      "Industry reported the lowest Share of the workforce about 27.8 in Year 2009"
    ],
    "xAxis": "Year",
    "yAxis": "Share of the workforce",
-   "min_summary": [
-      "Overall Services is gradually increasing, Agriculture, and Industry are gradually decreasing,  throughout the Year"
-   ],
-   "mid_summary": [
-      "Overall Services is gradually increasing, Agriculture, and Industry are gradually decreasing,  throughout the Year"
-   ],
+   "min_summary": [],
+   "mid_summary": [],
    "max_summary": [
-      "Overall Services is gradually increasing, Agriculture, and Industry are gradually decreasing,  throughout the Year",
-      "Agriculture reported the lowest Share of the workforce about 26.1 in Year 2018"
+      "Industry reported the lowest Share of the workforce about 27.8 in Year 2009"
    ],
    "trends": [
-      {},
-      {
-         "2": [
-            "0",
-            "2"
-         ],
-         "16": [
-            "10",
-            "2"
-         ]
-      },
-      {
-         "1": [
-            "6",
-            "2"
-         ],
-         "9": [
-            "6",
-            "2"
-         ]
-      },
-      {
-         "2": [
-            "0",
-            "1"
-         ],
-         "15": [
-            "10",
-            "1"
-         ]
-      },
-      {
-         "1": [
-            "0",
-            "1"
-         ],
-         "10": [
-            "0",
-            "1"
-         ]
-      }
+      {}
    ],
    "data": [
       {

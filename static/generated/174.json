@@ -6,27 +6,27 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This is a bar chart representing Religion in the x axis and Percentage of population in the y axis. ",
-      "The maximum Percentage of population 93.0 is found at Religion Muslims and the minimum is found at Unaffiliated where Religion is 1.0. ",
-      "The difference of Percentage of population between the highest and lowest Religion is 92.0. "
+      "This is a bar chart. It shows Percentage of population for 5 number of Religions. ",
+      "The Percentage of population is appeared to be the highest at Religion Muslims and lowest at Religion Unaffiliated. ",
+      "There is a difference of 92.0 between the maximum Religion Muslims and minimum Religion Unaffiliated. "
    ],
    "min_summary": [
       "This is a bar chart representing Religion in the x axis and Percentage of population in the y axis. ",
-      "The Percentage of population is highest at Religion Muslims and lowest at Religion Unaffiliated. "
+      "The Percentage of population is appeared to be the highest at Religion Muslims and lowest at Religion Unaffiliated. "
    ],
    "mid_summary": [
-      "This is a bar chart representing Religion in the x axis and Percentage of population in the y axis. ",
-      "The maximum Percentage of population 93.0 is found at Religion Muslims and the minimum is found at Unaffiliated where Religion is 1.0. ",
-      "The difference of Percentage of population between the highest and lowest Religion is 92.0. "
+      "This is a bar chart. It shows Percentage of population for 5 number of Religions. ",
+      "The Percentage of population is appeared to be the highest at Religion Muslims and lowest at Religion Unaffiliated. ",
+      "There is a difference of 92.0 between the maximum Religion Muslims and minimum Religion Unaffiliated. "
    ],
    "max_summary": [
-      "This is a bar chart representing Religion in the x axis and Percentage of population in the y axis. ",
+      "This is a bar chart. It shows Percentage of population for 5 number of Religions. ",
       "Religion Muslims has the highest Percentage of population and Unaffiliated has the lowest Percentage of population. ",
-      "Religion Christians has the second highest value for Percentage of population. ",
-      "The difference of Percentage of population between the highest and lowest Religion is 92.0. ",
-      "The Religion Muslims has the highest Percentage of population, followed by Christians, and Jews. Down to the Religion Unaffiliated which is the lowest. ",
-      "Religion Unaffiliated, and Hindus have a similar Percentage of population that is 1.0. ",
-      "The average Percentage of population in all 5 Religions is 20.2. "
+      "Religion Unaffiliated has 93.0 times less Percentage of population than Religion Muslims which is the highest. ",
+      "Religion Muslims is higher than any other Religions with value 93.0, followed by Christians, and Jews. Down to Religion Unaffiliated with the lowest value 1.0. ",
+      "Religion Unaffiliated, and Hindus have the same Percentage of population. ",
+      "The lowest value 1.0 at Unaffiliated is almost 4.6 times smaller than the average value 20.2. ",
+      "Summing up the values of all Religions, we get total 101.0. "
    ],
    "trends": [
       {},

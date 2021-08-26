@@ -10,64 +10,17 @@
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "Overall Agriculture, Industry, and Services are roughly constant,  throughout the Year",
-      "The ranking of the lines from topmost to botommmost is as follows: 1. Services, 2. Industry, and lastly, 3. Agriculture. ",
-      "Agriculture reported the lowest Distribution of GDP in percentage about 1.49 in Year 2009"
+      "Agriculture reported the lowest Distribution of GDP in percentage about 1.86 in Year 2017"
    ],
    "xAxis": "Year",
    "yAxis": "Distribution of GDP in percentage",
-   "min_summary": [
-      "Overall Agriculture, Industry, and Services are roughly constant,  throughout the Year"
-   ],
-   "mid_summary": [
-      "Overall Agriculture, Industry, and Services are roughly constant,  throughout the Year"
-   ],
+   "min_summary": [],
+   "mid_summary": [],
    "max_summary": [
-      "Overall Agriculture, Industry, and Services are roughly constant,  throughout the Year",
-      "Agriculture reported the lowest Distribution of GDP in percentage about 1.49 in Year 2009"
+      "The minimum Distribution of GDP in percentage about 1.86, occured at 2017 by Agriculture."
    ],
    "trends": [
-      {},
-      {
-         "2": [
-            "0",
-            "2"
-         ],
-         "16": [
-            "10",
-            "2"
-         ]
-      },
-      {
-         "1": [
-            "5",
-            "2"
-         ],
-         "9": [
-            "5",
-            "2"
-         ]
-      },
-      {
-         "2": [
-            "0",
-            "1"
-         ],
-         "15": [
-            "10",
-            "1"
-         ]
-      },
-      {
-         "1": [
-            "0",
-            "1"
-         ],
-         "10": [
-            "0",
-            "1"
-         ]
-      }
+      {}
    ],
    "data": [
       {

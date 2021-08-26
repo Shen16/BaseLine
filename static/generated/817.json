@@ -11,62 +11,28 @@
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "Overall Midwest, and West are gradually increasing, Northeast, and South are gradually decreasing,  throughout the Year",
-      "The ranking of the lines from topmost to botommmost is as follows: 1. South, 2. Midwest, 3. Northeast, and lastly, 4. West. "
+      " Overall SOME LABEL has increased over the Year.",
+      "SOME LABEL is slightly increasing from 1930 to 1970.",
+      "The highest SOME LABEL, of value 17.1 was reached at Year 1970",
+      "Minimum SOME LABEL about 10.0 was reached at Year 1930"
    ],
    "xAxis": "Year",
    "yAxis": "SOME LABEL",
    "min_summary": [
-      "Overall Midwest, and West are gradually increasing, Northeast, and South are gradually decreasing,  throughout the Year"
+      " Overall SOME LABEL has increased over the Year."
    ],
    "mid_summary": [
-      "Overall Midwest, and West are gradually increasing, Northeast, and South are gradually decreasing,  throughout the Year"
+      " Overall SOME LABEL has increased over the Year.",
+      "SOME LABEL is slightly increasing from 1930 to 1970."
    ],
    "max_summary": [
-      "Overall Midwest, and West are gradually increasing, Northeast, and South are gradually decreasing,  throughout the Year"
+      " Overall SOME LABEL has increased over the Year.",
+      "SOME LABEL is slightly increasing from 1930 to 1970.",
+      "The highest SOME LABEL, of value 17.1 was reached at Year 1970",
+      "Minimum SOME LABEL about 10.0 was reached at Year 1930"
    ],
    "trends": [
-      {},
-      {
-         "2": [
-            "0",
-            "2"
-         ],
-         "16": [
-            "27",
-            "2"
-         ]
-      },
-      {
-         "1": [
-            "0",
-            "2"
-         ],
-         "9": [
-            "0",
-            "2"
-         ]
-      },
-      {
-         "2": [
-            "0",
-            "1"
-         ],
-         "15": [
-            "27",
-            "1"
-         ]
-      },
-      {
-         "1": [
-            "6",
-            "1"
-         ],
-         "10": [
-            "6",
-            "1"
-         ]
-      }
+      {}
    ],
    "data": [
       {

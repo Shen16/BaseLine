@@ -6,17 +6,29 @@
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "The highest Income in U.S. dollars, of value 45287.0 was reached at Year '15",
-      "The lowest Income in U.S. dollars, of value 45287.0 was reported at Year '15"
+      " Overall Income in U.S. dollars has increased over the Year.",
+      "Income in U.S. dollars is slightly increasing from '10 to '11, roughly constant from '11 to '13, and finally slightly increasing from '13 to '14.",
+      "The steepest increase occurs in between the Year '13 and '14.",
+      "Maximum Income in U.S. dollars, about 43109.0 was reported at Year '14",
+      "The lowest Income in U.S. dollars, of value 38474.0 was reported at Year '10"
    ],
-   "min_summary": [],
+   "min_summary": [
+      " In general Income in U.S. dollars has rose over the Year.",
+      "Income in U.S. dollars is slightly increasing from '10 to '11, roughly constant from '11 to '13, and finally slightly increasing from '13 to '14."
+   ],
    "mid_summary": [
-      "The highest Income in U.S. dollars, of value 45287.0 was reached at Year '15",
-      "The lowest Income in U.S. dollars, of value 45287.0 was reported at Year '15"
+      " In general Income in U.S. dollars has rose over the Year.",
+      "Income in U.S. dollars is slightly increasing from '10 to '11, roughly constant from '11 to '13, and finally slightly increasing from '13 to '14.",
+      "The steepest increase occurs in between the Year '13 and '14.",
+      "Maximum Income in U.S. dollars, about 43109.0 was reported at Year '14",
+      "The lowest Income in U.S. dollars, of value 38474.0 was reported at Year '10"
    ],
    "max_summary": [
-      "The highest Income in U.S. dollars, of value 45287.0 was reached at Year '15",
-      "The lowest Income in U.S. dollars, of value 45287.0 was reported at Year '15"
+      " Overall Income in U.S. dollars has increased over the Year.",
+      "Income in U.S. dollars is slightly increasing from '10 to '11, roughly constant from '11 to '13, and finally slightly increasing from '13 to '14.",
+      "The most drastic increase took place within the Year '13 and '14.",
+      "Maximum Income in U.S. dollars, about 43109.0 was reported at Year '14",
+      "The lowest Income in U.S. dollars, of value 38474.0 was reported at Year '10"
    ],
    "trends": [],
    "data": [

@@ -6,29 +6,28 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 15 columns on the x axis representing Month, and Average response rate in each Month on the y axis. ",
-      "The Average response rate is appeared to be the highest at Month Utilities and lowest at Month Media/Entertainment. ",
+      "This is a bar chart. It shows Average response rate for 15 number of Months. ",
+      "Month Utilities has the highest Average response rate and Media/Entertainment has the lowest Average response rate. ",
       "The highest Month Utilities has 12.0 more Average response rate than the lowest Month Media/Entertainment. "
    ],
    "min_summary": [
       "This is a bar chart. It shows Average response rate for 15 number of Months. ",
-      "The Average response rate is highest at Month Utilities and lowest at Month Media/Entertainment. "
+      "The Average response rate is appeared to be the highest at Month Utilities and lowest at Month Media/Entertainment. "
    ],
    "mid_summary": [
-      "This bar chart has 15 columns on the x axis representing Month, and Average response rate in each Month on the y axis. ",
-      "The Average response rate is appeared to be the highest at Month Utilities and lowest at Month Media/Entertainment. ",
+      "This is a bar chart. It shows Average response rate for 15 number of Months. ",
+      "Month Utilities has the highest Average response rate and Media/Entertainment has the lowest Average response rate. ",
       "The highest Month Utilities has 12.0 more Average response rate than the lowest Month Media/Entertainment. "
    ],
    "max_summary": [
       "This is a bar chart. It shows Average response rate for 15 number of Months. ",
-      "The maximum Average response rate 18.0 is found at Month Utilities and the minimum is found at Media/Entertainment where Month is 6.0. ",
-      "Second maximum Average response rate is found at Month Retail. ",
-      "There is a difference of 12.0 between the maximum Month Utilities and minimum Month Media/Entertainment. ",
+      "The Average response rate is appeared to be the highest at Month Utilities and lowest at Month Media/Entertainment. ",
+      "Month Retail has the second highest value for Average response rate. ",
+      "The Average response rate of Month Utilities is 3.0% larger than the minimum value at Media/Entertainment. ",
       "Month Utilities is higher than any other Months with value 18.0, followed by Retail, and Consumer Goods. Down to Month Media/Entertainment with the lowest value 6.0. ",
       "Overall Average response rate has decreased over the Months. ",
-      "Month Internet/Technology, Marketing/Advertising, and Automotive share the same value 11.0. ",
-      "The average Average response rate in all 15 Months is 10.8. ",
-      "Summing up the values of all Months, we get total 162.0. "
+      "Similar Average response rate is found in Month Internet/Technology, Marketing/Advertising, and Automotive. ",
+      "The Month Media/Entertainment tends to be 1.67 percent lower than average. "
    ],
    "trends": [
       {},

@@ -9,64 +9,24 @@
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "Overall Barack Obama is gradually increasing, Mitt Romney is gradually decreasing,  throughout the Year",
-      "The order of lines according to average values of SOME LABEL, in descending order is: 1. Barack Obama, and lastly, 2. Mitt Romney. ",
-      "The difference of SOME LABEL between Barack Obama and Mitt Romney is greater at Year Under_30000 compared to the Year 50000_or_more."
+      "Overall Barack Obama, and Mitt Romney are roughly constant,  throughout the Year",
+      "The order of lines according to average values of SOME LABEL, in descending order is: 1. Mitt Romney, and lastly, 2. Barack Obama. ",
+      "The difference of SOME LABEL between Barack Obama and Mitt Romney is smaller at Year 50000_or_more compared to the Year 100000_or_more."
    ],
    "xAxis": "Year",
    "yAxis": "SOME LABEL",
    "min_summary": [
-      "Overall Barack Obama is gradually increasing, Mitt Romney is gradually decreasing,  throughout the Year"
+      "Overall Barack Obama, and Mitt Romney are roughly constant,  throughout the Year"
    ],
    "mid_summary": [
-      "Overall Barack Obama is gradually increasing, Mitt Romney is gradually decreasing,  throughout the Year"
+      "Overall Barack Obama, and Mitt Romney are roughly constant,  throughout the Year"
    ],
    "max_summary": [
-      "Overall Barack Obama is gradually increasing, Mitt Romney is gradually decreasing,  throughout the Year",
-      "The greatest difference of SOME LABEL between Barack Obama and Mitt Romney occurs at Year Under_30000 and the smallest difference occurs at 50000_or_more."
+      "Overall Barack Obama, and Mitt Romney are roughly constant,  throughout the Year",
+      "The difference of SOME LABEL between Barack Obama and Mitt Romney is smaller at Year 50000_or_more compared to the Year 100000_or_more."
    ],
    "trends": [
-      {},
-      {
-         "2": [
-            "0",
-            "0"
-         ],
-         "16": [
-            "3",
-            "0"
-         ]
-      },
-      {
-         "1": [
-            "1",
-            "0"
-         ],
-         "9": [
-            "1",
-            "0"
-         ]
-      },
-      {
-         "2": [
-            "0",
-            "1"
-         ],
-         "15": [
-            "3",
-            "1"
-         ]
-      },
-      {
-         "1": [
-            "0",
-            "1"
-         ],
-         "10": [
-            "0",
-            "1"
-         ]
-      }
+      {}
    ],
    "data": [
       {

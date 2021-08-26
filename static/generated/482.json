@@ -9,69 +9,28 @@
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "Overall Deep mined is rapidly decreasing, Surface mining is gradually decreasing,  throughout the Year",
-      "The ranking of the lines from topmost to botommmost is as follows: 1. Deep mined, and lastly, 2. Surface mining. ",
-      "The minimum Production volume in thousand metric tons about 11993.0, occured at 2012 by Surface mining.",
-      "Deep mined has decreased by 83.34152399420898 percent.",
-      "The difference of Production volume in thousand metric tons between Deep mined and Surface mining is smaller at Year 2012 compared to the Year 1985."
+      " Overall Production volume in thousand metric tons has increased over the Year.",
+      "Production volume in thousand metric tons is slightly increasing from 1980 to 1990.",
+      "The highest Production volume in thousand metric tons, of value 19863.0 was reached at Year 1990",
+      "The lowest Production volume in thousand metric tons, of value 17667.0 was reported at Year 1980"
    ],
    "xAxis": "Year",
    "yAxis": "Production volume in thousand metric tons",
    "min_summary": [
-      "Overall Deep mined is rapidly decreasing, Surface mining is gradually decreasing,  throughout the Year"
+      " In general Production volume in thousand metric tons has rose over the Year."
    ],
    "mid_summary": [
-      "Overall Deep mined is rapidly decreasing, Surface mining is gradually decreasing,  throughout the Year",
-      "Deep mined has decreased by 83.34152399420898 percent."
+      " In general Production volume in thousand metric tons has rose over the Year.",
+      "Production volume in thousand metric tons is slightly increasing from 1980 to 1990."
    ],
    "max_summary": [
-      "Overall Deep mined is rapidly decreasing, Surface mining is gradually decreasing,  throughout the Year",
-      "Deep mined has decreased by 83.34152399420898 percent.",
-      "The minimum Production volume in thousand metric tons about 11993.0, occured at 2012 by Surface mining.",
-      "The greatest difference of Production volume in thousand metric tons between Deep mined and Surface mining occurs at Year 1985 and the smallest difference occurs at 2012."
+      " Overall Production volume in thousand metric tons has increased over the Year.",
+      "Production volume in thousand metric tons is slightly increasing from 1980 to 1990.",
+      "The highest Production volume in thousand metric tons, of value 19863.0 was reached at Year 1990",
+      "The lowest Production volume in thousand metric tons, of value 17667.0 was reported at Year 1980"
    ],
    "trends": [
-      {},
-      {
-         "2": [
-            "0",
-            "0"
-         ],
-         "16": [
-            "16",
-            "0"
-         ]
-      },
-      {
-         "1": [
-            "0",
-            "0"
-         ],
-         "9": [
-            "0",
-            "0"
-         ]
-      },
-      {
-         "2": [
-            "0",
-            "1"
-         ],
-         "15": [
-            "16",
-            "1"
-         ]
-      },
-      {
-         "1": [
-            "1",
-            "1"
-         ],
-         "10": [
-            "1",
-            "1"
-         ]
-      }
+      {}
    ],
    "data": [
       {

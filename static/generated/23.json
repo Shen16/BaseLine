@@ -12,57 +12,28 @@
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "Canada reported the lowest Retail sales in units about 9690.0 in Year 2018"
+      " In general Retail sales in units has stayed the same over the Year.",
+      "Retail sales in units is slightly decreasing from 2017 to 2018.",
+      "The highest Retail sales in units, of value 10081.0 was reached at Year 2017",
+      "Minimum Retail sales in units about 9690.0 was reached at Year 2018"
    ],
    "xAxis": "Year",
    "yAxis": "Retail sales in units",
-   "min_summary": [],
-   "mid_summary": [],
+   "min_summary": [
+      " Overall Retail sales in units has decreased over the Year."
+   ],
+   "mid_summary": [
+      " Overall Retail sales in units has decreased over the Year.",
+      "Retail sales in units is slightly decreasing from 2017 to 2018."
+   ],
    "max_summary": [
-      "The minimum Retail sales in units about 9690.0, occured at 2018 by Canada."
+      " Overall Retail sales in units has decreased over the Year.",
+      "Retail sales in units is slightly decreasing from 2017 to 2018.",
+      "The highest Retail sales in units, of value 10081.0 was reached at Year 2017",
+      "Minimum Retail sales in units about 9690.0 was reached at Year 2018"
    ],
    "trends": [
-      {},
-      {
-         "2": [
-            "0",
-            "0"
-         ],
-         "16": [
-            "1",
-            "0"
-         ]
-      },
-      {
-         "1": [
-            "0",
-            "0"
-         ],
-         "9": [
-            "0",
-            "0"
-         ]
-      },
-      {
-         "2": [
-            "0",
-            "2"
-         ],
-         "15": [
-            "1",
-            "2"
-         ]
-      },
-      {
-         "1": [
-            "0",
-            "2"
-         ],
-         "10": [
-            "0",
-            "2"
-         ]
-      }
+      {}
    ],
    "data": [
       {

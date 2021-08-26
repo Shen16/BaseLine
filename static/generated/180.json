@@ -6,28 +6,28 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This is a bar chart. It shows Share of U.S. adults for 9 number of Months. ",
+      "This is a bar chart representing Month in the x axis and Share of U.S. adults in the y axis. ",
       "The Share of U.S. adults is highest at Month November 2016 and lowest at Month January 2018. ",
-      "The minimum Month January 2018 has got 1.07 times less Share of U.S. adults than the maximum Month November 2016. "
+      "The difference of Share of U.S. adults between the highest and lowest Month is 5.0. "
    ],
    "min_summary": [
-      "This is a bar chart representing Month in the x axis and Share of U.S. adults in the y axis. ",
-      "The Share of U.S. adults is highest at Month November 2016 and lowest at Month January 2018. "
+      "This bar chart has 9 columns on the x axis representing Month, and Share of U.S. adults in each Month on the y axis. ",
+      "Month November 2016 has the highest Share of U.S. adults and January 2018 has the lowest Share of U.S. adults. "
    ],
    "mid_summary": [
-      "This is a bar chart. It shows Share of U.S. adults for 9 number of Months. ",
+      "This is a bar chart representing Month in the x axis and Share of U.S. adults in the y axis. ",
       "The Share of U.S. adults is highest at Month November 2016 and lowest at Month January 2018. ",
-      "The minimum Month January 2018 has got 1.07 times less Share of U.S. adults than the maximum Month November 2016. "
+      "The difference of Share of U.S. adults between the highest and lowest Month is 5.0. "
    ],
    "max_summary": [
       "This is a bar chart. It shows Share of U.S. adults for 9 number of Months. ",
-      "The maximum Share of U.S. adults 78.0 is found at Month November 2016 and the minimum is found at January 2018 where Month is 73.0. ",
-      "Second maximum Share of U.S. adults is found at Month June 2010. ",
-      "The maximum Month November 2016 has got 1.07 times higher Share of U.S. adults than the minimum Month January 2018. ",
-      "Month November 2016 is higher than any other Months with value 78.0, followed by June 2010, and June 2010. Down to Month January 2018 with the lowest value 73.0. ",
-      "The Share of U.S. adults has remained stable over the past 9 Months. ",
-      "Similar Share of U.S. adults is found in Month February 2019, April 2016, and January 2008. ",
-      "The highest value 78.0 at November 2016 is almost 1.04 times larger than the average value 75.22. "
+      "The Share of U.S. adults is appeared to be the highest at Month November 2016 and lowest at Month January 2018. ",
+      "The second highest Share of U.S. adults is appeared to be the Month June 2010. ",
+      "The highest Month November 2016 has 5.0 more Share of U.S. adults than the lowest Month January 2018. ",
+      "The Month November 2016 has the highest Share of U.S. adults, followed by June 2010, and June 2010. Down to the Month January 2018 which is the lowest. ",
+      "Over the past 9 Months, the Share of U.S. adults has remained stable. ",
+      "Month February 2019, April 2016, and January 2008 have the same Share of U.S. adults. ",
+      "The Month January 2018 tends to be 1.04 percent lower than average. "
    ],
    "trends": [
       {},

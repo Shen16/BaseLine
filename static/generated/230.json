@@ -9,59 +9,28 @@
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "Specialty stores reported the lowest Number of stores about 23.0 in Year 2017",
-      "The gap between the lines at Year 2017 is 524.0 ."
+      " Overall Number of stores has decreased over the Year.",
+      "Number of stores is slightly decreasing from 2013 to 2014.",
+      "Maximum Number of stores, about 778.0 was reported at Year 2013",
+      "Minimum Number of stores about 709.0 was reached at Year 2014"
    ],
    "xAxis": "Year",
    "yAxis": "Number of stores",
-   "min_summary": [],
-   "mid_summary": [],
+   "min_summary": [
+      " In general Number of stores has fallen over the Year."
+   ],
+   "mid_summary": [
+      " Overall Number of stores has decreased over the Year.",
+      "Number of stores is slightly decreasing from 2013 to 2014."
+   ],
    "max_summary": [
-      "Specialty stores reported the lowest Number of stores about 23.0 in Year 2017",
-      "The gap between the lines at Year 2017 is 524.0 ."
+      " Overall Number of stores has decreased over the Year.",
+      "Number of stores is slightly decreasing from 2013 to 2014.",
+      "Maximum Number of stores, about 778.0 was reported at Year 2013",
+      "Minimum Number of stores about 709.0 was reached at Year 2014"
    ],
    "trends": [
-      {},
-      {
-         "2": [
-            "0",
-            "0"
-         ],
-         "16": [
-            "6",
-            "0"
-         ]
-      },
-      {
-         "1": [
-            "0",
-            "0"
-         ],
-         "9": [
-            "0",
-            "0"
-         ]
-      },
-      {
-         "2": [
-            "0",
-            "1"
-         ],
-         "15": [
-            "6",
-            "1"
-         ]
-      },
-      {
-         "1": [
-            "0",
-            "1"
-         ],
-         "10": [
-            "0",
-            "1"
-         ]
-      }
+      {}
    ],
    "data": [
       {

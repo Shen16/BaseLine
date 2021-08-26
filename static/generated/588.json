@@ -6,28 +6,29 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This is a bar chart representing Month in the x axis and Percentage change in the y axis. ",
-      "Month Aug 14 has the highest Percentage change and Jun 16 has the lowest Percentage change. ",
-      "The minimum Month Jun 16 has got 68.0 times less Percentage change than the maximum Month Aug 14. "
+      "This is a bar chart. It shows Percentage change for 81 number of Months. ",
+      "The Percentage change is appeared to be the highest at Month Aug 14 and lowest at Month Jun 16. ",
+      "The maximum Month Aug 14 has got 68.0 times higher Percentage change than the minimum Month Jun 16. "
    ],
    "min_summary": [
-      "This is a bar chart. It shows Percentage change for 81 number of Months. ",
-      "The Percentage change is highest at Month Aug 14 and lowest at Month Jun 16. "
+      "This is a bar chart representing Month in the x axis and Percentage change in the y axis. ",
+      "The Percentage change is appeared to be the highest at Month Aug 14 and lowest at Month Jun 16. "
    ],
    "mid_summary": [
-      "This is a bar chart representing Month in the x axis and Percentage change in the y axis. ",
-      "Month Aug 14 has the highest Percentage change and Jun 16 has the lowest Percentage change. ",
-      "The minimum Month Jun 16 has got 68.0 times less Percentage change than the maximum Month Aug 14. "
+      "This is a bar chart. It shows Percentage change for 81 number of Months. ",
+      "The Percentage change is appeared to be the highest at Month Aug 14 and lowest at Month Jun 16. ",
+      "The maximum Month Aug 14 has got 68.0 times higher Percentage change than the minimum Month Jun 16. "
    ],
    "max_summary": [
-      "This is a bar chart. It shows Percentage change for 81 number of Months. ",
-      "The maximum Percentage change 34.0 is found at Month Aug 14 and the minimum is found at Jun 16 where Month is 0.5. ",
-      "There is a difference of 33.5 between the maximum Month Aug 14 and minimum Month Jun 16. ",
-      "Month Aug 14 is higher than any other Months with value 34.0, followed by Nov 13, and Mar 17. Down to Month Jun 16 with the lowest value 0.5. ",
-      "The Percentage change has climbed over the past 81 Months. ",
-      "Month May 16, Feb 16, and Aug 15 have the same Percentage change. ",
-      "Considered together, the average Percentage change in all 81 Months is roughly 14.01. ",
-      "Summing up the values of all Months, we get total 1135.1. "
+      "This is a bar chart representing Month in the x axis and Percentage change in the y axis. ",
+      "Month Aug 14 has the highest Percentage change and Jun 16 has the lowest Percentage change. ",
+      "The second highest Percentage change is appeared to be the Month Nov 13. ",
+      "The difference of Percentage change between the highest and lowest Month is 33.5. ",
+      "The Month Aug 14 has the highest Percentage change, followed by Nov 13, and Mar 17. Down to the Month Jun 16 which is the lowest. ",
+      "Over the past 81 Months, the Percentage change has climbed. ",
+      "Month May 16, Feb 16, and Aug 15 share the same value 12.7. ",
+      "The highest value 34.0 at Aug 14 is almost 2.43 times larger than the average value 14.01. ",
+      "The Percentage change is 1135.1 if we add up values of all Months. "
    ],
    "trends": [
       {},

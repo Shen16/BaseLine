@@ -6,26 +6,28 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This is a bar chart. It shows Import volume in thousand metric tones for 9 number of Countrys. ",
-      "Country China has the highest Import volume in thousand metric tones and Canada has the lowest Import volume in thousand metric tones. ",
+      "This bar chart has 9 columns on the x axis representing Country, and Import volume in thousand metric tones in each Country on the y axis. ",
+      "The maximum Import volume in thousand metric tones 3700.0 is found at Country China and the minimum is found at Canada where Country is 260.0. ",
       "The difference of Import volume in thousand metric tones between the highest and lowest Country is 3440.0. "
    ],
    "min_summary": [
-      "This is a bar chart. It shows Import volume in thousand metric tones for 9 number of Countrys. ",
+      "This is a bar chart representing Country in the x axis and Import volume in thousand metric tones in the y axis. ",
       "The Import volume in thousand metric tones is appeared to be the highest at Country China and lowest at Country Canada. "
    ],
    "mid_summary": [
-      "This is a bar chart. It shows Import volume in thousand metric tones for 9 number of Countrys. ",
-      "Country China has the highest Import volume in thousand metric tones and Canada has the lowest Import volume in thousand metric tones. ",
+      "This bar chart has 9 columns on the x axis representing Country, and Import volume in thousand metric tones in each Country on the y axis. ",
+      "The maximum Import volume in thousand metric tones 3700.0 is found at Country China and the minimum is found at Canada where Country is 260.0. ",
       "The difference of Import volume in thousand metric tones between the highest and lowest Country is 3440.0. "
    ],
    "max_summary": [
-      "This is a bar chart representing Country in the x axis and Import volume in thousand metric tones in the y axis. ",
-      "The Import volume in thousand metric tones is appeared to be the highest at Country China and lowest at Country Canada. ",
-      "There is a difference of 3440.0 between the maximum Country China and minimum Country Canada. ",
-      "The Country China has the highest Import volume in thousand metric tones, followed by Others, and Japan. Down to the Country Canada which is the lowest. ",
+      "This bar chart has 9 columns on the x axis representing Country, and Import volume in thousand metric tones in each Country on the y axis. ",
+      "Country China has the highest Import volume in thousand metric tones and Canada has the lowest Import volume in thousand metric tones. ",
+      "The second highest Import volume in thousand metric tones is appeared to be the Country Others. ",
+      "The highest Country China has 3440.0 more Import volume in thousand metric tones than the lowest Country Canada. ",
+      "Country China is higher than any other Countrys with value 3700.0, followed by Others, and Japan. Down to Country Canada with the lowest value 260.0. ",
       "Country Hong Kong, and Philippines have a similar Import volume in thousand metric tones that is 300.0. ",
-      "Considered together, the average Import volume in thousand metric tones in all 9 Countrys is roughly 1107.89. "
+      "The Country Canada has 3.34 times less Import volume in thousand metric tones than average. ",
+      "The Import volume in thousand metric tones is 9971.0 if we add up values of all Countrys. "
    ],
    "trends": [
       {},

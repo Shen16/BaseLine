@@ -9,57 +9,24 @@
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "The gap between the lines at Year 35-44_years is 0.3 ."
+      "Overall Men, and Women are gradually increasing,  throughout the Year",
+      "The ranking of the lines from topmost to botommmost is as follows: 1. Women, and lastly, 2. Men. ",
+      "The greatest difference of Mean BMI in kilograms per meter squared between Men and Women occurs at Year 25-34_years and the smallest difference occurs at 65-74_years."
    ],
    "xAxis": "Year",
    "yAxis": "Mean BMI in kilograms per meter squared",
-   "min_summary": [],
-   "mid_summary": [],
+   "min_summary": [
+      "Overall Men, and Women are gradually increasing,  throughout the Year"
+   ],
+   "mid_summary": [
+      "Overall Men, and Women are gradually increasing,  throughout the Year"
+   ],
    "max_summary": [
-      "The gap between the lines at Year 35-44_years is 0.3 ."
+      "Overall Men, and Women are gradually increasing,  throughout the Year",
+      "The greatest difference of Mean BMI in kilograms per meter squared between Men and Women occurs at Year 25-34_years and the smallest difference occurs at 65-74_years."
    ],
    "trends": [
-      {},
-      {
-         "2": [
-            "0",
-            "1"
-         ],
-         "16": [
-            "6",
-            "1"
-         ]
-      },
-      {
-         "1": [
-            "0",
-            "1"
-         ],
-         "9": [
-            "0",
-            "1"
-         ]
-      },
-      {
-         "2": [
-            "0",
-            "0"
-         ],
-         "15": [
-            "6",
-            "0"
-         ]
-      },
-      {
-         "1": [
-            "0",
-            "0"
-         ],
-         "10": [
-            "0",
-            "0"
-         ]
-      }
+      {}
    ],
    "data": [
       {

@@ -9,66 +9,28 @@
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "Overall by others is gradually increasing, by manufacturers is gradually decreasing,  throughout the Year",
-      "The ranking of the lines from topmost to botommmost is as follows: 1. by others, and lastly, 2. by manufacturers. ",
-      "by manufacturers reported the lowest Imports in thousand metric tons about 0.0 in Year 2016",
-      "The difference of Imports in thousand metric tons between by manufacturers and by others is greater at Year 2016 compared to the Year 2013."
+      " Overall Imports in thousand metric tons has decreased over the Year.",
+      "Imports in thousand metric tons is slightly decreasing from 2011 to 2012.",
+      "The highest Imports in thousand metric tons, of value 86.0 was reached at Year 2011",
+      "The lowest Imports in thousand metric tons, of value 61.0 was reported at Year 2012"
    ],
    "xAxis": "Year",
    "yAxis": "Imports in thousand metric tons",
    "min_summary": [
-      "Overall by others is gradually increasing, by manufacturers is gradually decreasing,  throughout the Year"
+      " In general Imports in thousand metric tons has fallen over the Year."
    ],
    "mid_summary": [
-      "Overall by others is gradually increasing, by manufacturers is gradually decreasing,  throughout the Year"
+      " Overall Imports in thousand metric tons has decreased over the Year.",
+      "Imports in thousand metric tons is slightly decreasing from 2011 to 2012."
    ],
    "max_summary": [
-      "Overall by others is gradually increasing, by manufacturers is gradually decreasing,  throughout the Year",
-      "The minimum Imports in thousand metric tons about 0.0, occured at 2016 by by manufacturers.",
-      "The difference of Imports in thousand metric tons between by manufacturers and by others is greater at Year 2016 compared to the Year 2013."
+      " In general Imports in thousand metric tons has fallen over the Year.",
+      "Imports in thousand metric tons is slightly decreasing from 2011 to 2012.",
+      "The highest Imports in thousand metric tons, of value 86.0 was reached at Year 2011",
+      "The lowest Imports in thousand metric tons, of value 61.0 was reported at Year 2012"
    ],
    "trends": [
-      {},
-      {
-         "2": [
-            "0",
-            "1"
-         ],
-         "16": [
-            "17",
-            "1"
-         ]
-      },
-      {
-         "1": [
-            "1",
-            "1"
-         ],
-         "9": [
-            "1",
-            "1"
-         ]
-      },
-      {
-         "2": [
-            "0",
-            "0"
-         ],
-         "15": [
-            "17",
-            "0"
-         ]
-      },
-      {
-         "1": [
-            "2",
-            "0"
-         ],
-         "10": [
-            "2",
-            "0"
-         ]
-      }
+      {}
    ],
    "data": [
       {

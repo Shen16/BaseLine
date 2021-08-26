@@ -6,17 +6,29 @@
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "The highest Number of fatalities, of value 4009.0 was reached at Year 2011",
-      "Minimum Number of fatalities about 4009.0 was reached at Year 2011"
+      " Overall Number of fatalities has decreased over the Year.",
+      "Number of fatalities is slightly decreasing from 2007 to 2013.",
+      "The most drastic decrease took place within the Year 2009 and 2010.",
+      "The highest Number of fatalities, of value 4949.0 was reached at Year 2007",
+      "Minimum Number of fatalities about 3339.0 was reached at Year 2013"
    ],
-   "min_summary": [],
+   "min_summary": [
+      " Overall Number of fatalities has decreased over the Year.",
+      "Number of fatalities is slightly decreasing from 2007 to 2013."
+   ],
    "mid_summary": [
-      "The highest Number of fatalities, of value 4009.0 was reached at Year 2011",
-      "Minimum Number of fatalities about 4009.0 was reached at Year 2011"
+      " In general Number of fatalities has fallen over the Year.",
+      "Number of fatalities is slightly decreasing from 2007 to 2013.",
+      "The steepest decrease occurs in between the Year 2009 and 2010.",
+      "The highest Number of fatalities, of value 4949.0 was reached at Year 2007",
+      "Minimum Number of fatalities about 3339.0 was reached at Year 2013"
    ],
    "max_summary": [
-      "The highest Number of fatalities, of value 4009.0 was reached at Year 2011",
-      "Minimum Number of fatalities about 4009.0 was reached at Year 2011"
+      " Overall Number of fatalities has decreased over the Year.",
+      "Number of fatalities is slightly decreasing from 2007 to 2013.",
+      "The steepest decrease occurs in between the Year 2009 and 2010.",
+      "The highest Number of fatalities, of value 4949.0 was reached at Year 2007",
+      "Minimum Number of fatalities about 3339.0 was reached at Year 2013"
    ],
    "trends": [],
    "data": [

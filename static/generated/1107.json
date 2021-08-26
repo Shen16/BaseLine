@@ -10,64 +10,17 @@
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "Overall Soft drink, and Hot dog are gradually increasing, Beer is roughly constant,  throughout the Year",
-      "The ranking of the lines from topmost to botommmost is as follows: 1. Beer, 2. Hot dog, and lastly, 3. Soft drink. ",
       "The minimum SOME LABEL about 3.67, occured at 2013 by Soft drink."
    ],
    "xAxis": "Year",
    "yAxis": "SOME LABEL",
-   "min_summary": [
-      "Overall Soft drink, and Hot dog are gradually increasing, Beer is roughly constant,  throughout the Year"
-   ],
-   "mid_summary": [
-      "Overall Soft drink, and Hot dog are gradually increasing, Beer is roughly constant,  throughout the Year"
-   ],
+   "min_summary": [],
+   "mid_summary": [],
    "max_summary": [
-      "Overall Soft drink, and Hot dog are gradually increasing, Beer is roughly constant,  throughout the Year",
       "The minimum SOME LABEL about 3.67, occured at 2013 by Soft drink."
    ],
    "trends": [
-      {},
-      {
-         "2": [
-            "0",
-            "0"
-         ],
-         "16": [
-            "8",
-            "0"
-         ]
-      },
-      {
-         "1": [
-            "0",
-            "0"
-         ],
-         "9": [
-            "0",
-            "0"
-         ]
-      },
-      {
-         "2": [
-            "0",
-            "2"
-         ],
-         "15": [
-            "8",
-            "2"
-         ]
-      },
-      {
-         "1": [
-            "5",
-            "2"
-         ],
-         "10": [
-            "5",
-            "2"
-         ]
-      }
+      {}
    ],
    "data": [
       {

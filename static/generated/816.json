@@ -9,57 +9,28 @@
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "The gap between the lines at Year 2023 is 0.0 ."
+      " In general SOME LABEL has fallen over the Year.",
+      "SOME LABEL is roughly constant from 2019 to 2023.",
+      "Maximum SOME LABEL, about 0.0 was reported at Year 2022, and 2023",
+      "The lowest SOME LABEL, of value -0.2 was reported at Year 2020"
    ],
    "xAxis": "Year",
    "yAxis": "SOME LABEL",
-   "min_summary": [],
-   "mid_summary": [],
+   "min_summary": [
+      " Overall SOME LABEL has decreased over the Year."
+   ],
+   "mid_summary": [
+      " Overall SOME LABEL has decreased over the Year.",
+      "SOME LABEL is roughly constant from 2019 to 2023."
+   ],
    "max_summary": [
-      "The gap between the lines at Year 2023 is 0.0 ."
+      " Overall SOME LABEL has decreased over the Year.",
+      "SOME LABEL is roughly constant from 2019 to 2023.",
+      "Maximum SOME LABEL, about 0.0 was reported at Year 2022, and 2023",
+      "The lowest SOME LABEL, of value -0.2 was reported at Year 2020"
    ],
    "trends": [
-      {},
-      {
-         "2": [
-            "0",
-            "1"
-         ],
-         "16": [
-            "4",
-            "1"
-         ]
-      },
-      {
-         "1": [
-            "0",
-            "1"
-         ],
-         "9": [
-            "0",
-            "1"
-         ]
-      },
-      {
-         "2": [
-            "0",
-            "0"
-         ],
-         "15": [
-            "4",
-            "0"
-         ]
-      },
-      {
-         "1": [
-            "0",
-            "0"
-         ],
-         "10": [
-            "0",
-            "0"
-         ]
-      }
+      {}
    ],
    "data": [
       {

@@ -9,67 +9,28 @@
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "Overall Scotland is rapidly decreasing, England and Wales is gradually decreasing,  throughout the Year",
-      "The order of lines according to average values of Divorce rate per thousad married person, in descending order is: 1. England and Wales, and lastly, 2. Scotland. ",
-      "Scotland has decreased by 99.99999999989691 percent.",
-      "The difference of Divorce rate per thousad married person between England and Wales and Scotland is greater at Year 2017 compared to the Year 2001."
+      " In general Divorce rate per thousad married person has fallen over the Year.",
+      "Divorce rate per thousad married person is roughly constant from 2002 to 2004, gradually decreasing from 2004 to 2009, roughly constant from 2009 to 2013, and lastly slightly decreasing from 2013 to 2017.",
+      "The highest Divorce rate per thousad married person, of value 13.3 was reached at Year 2003, and 2004",
+      "Minimum Divorce rate per thousad married person about 8.4 was reached at Year 2017"
    ],
    "xAxis": "Year",
    "yAxis": "Divorce rate per thousad married person",
    "min_summary": [
-      "Overall Scotland is rapidly decreasing, England and Wales is gradually decreasing,  throughout the Year"
+      " Overall Divorce rate per thousad married person has decreased over the Year."
    ],
    "mid_summary": [
-      "Overall Scotland is rapidly decreasing, England and Wales is gradually decreasing,  throughout the Year",
-      "Scotland has decreased by 99.99999999989691 percent."
+      " Overall Divorce rate per thousad married person has decreased over the Year.",
+      "Divorce rate per thousad married person is roughly constant from 2002 to 2004, gradually decreasing from 2004 to 2009, roughly constant from 2009 to 2013, and lastly slightly decreasing from 2013 to 2017."
    ],
    "max_summary": [
-      "Overall Scotland is rapidly decreasing, England and Wales is gradually decreasing,  throughout the Year",
-      "Scotland has decreased by 99.99999999989691 percent.",
-      "The greatest difference of Divorce rate per thousad married person between England and Wales and Scotland occurs at Year 2010 and the smallest difference occurs at 2008."
+      " In general Divorce rate per thousad married person has fallen over the Year.",
+      "Divorce rate per thousad married person is roughly constant from 2002 to 2004, gradually decreasing from 2004 to 2009, roughly constant from 2009 to 2013, and lastly slightly decreasing from 2013 to 2017.",
+      "The highest Divorce rate per thousad married person, of value 13.3 was reached at Year 2003, and 2004",
+      "Minimum Divorce rate per thousad married person about 8.4 was reached at Year 2017"
    ],
    "trends": [
-      {},
-      {
-         "2": [
-            "0",
-            "0"
-         ],
-         "16": [
-            "17",
-            "0"
-         ]
-      },
-      {
-         "1": [
-            "2",
-            "0"
-         ],
-         "9": [
-            "2",
-            "0"
-         ]
-      },
-      {
-         "2": [
-            "0",
-            "1"
-         ],
-         "15": [
-            "17",
-            "1"
-         ]
-      },
-      {
-         "1": [
-            "5",
-            "1"
-         ],
-         "10": [
-            "5",
-            "1"
-         ]
-      }
+      {}
    ],
    "data": [
       {

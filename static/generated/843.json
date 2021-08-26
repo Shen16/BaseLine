@@ -6,28 +6,29 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This is a bar chart representing Month in the x axis and Number of knockdowns landed in the y axis. ",
-      "The Number of knockdowns landed is appeared to be the highest at Month Donald Cerrone and lowest at Month Thiago Alves. ",
-      "The difference of Number of knockdowns landed between the highest and lowest Month is 7.0. "
+      "This is a bar chart. It shows Number of knockdowns landed for 10 number of Months. ",
+      "The Number of knockdowns landed is highest at Month Donald Cerrone and lowest at Month Thiago Alves. ",
+      "There is a difference of 7.0 between the maximum Month Donald Cerrone and minimum Month Thiago Alves. "
    ],
    "min_summary": [
-      "This bar chart has 10 columns on the x axis representing Month, and Number of knockdowns landed in each Month on the y axis. ",
+      "This is a bar chart. It shows Number of knockdowns landed for 10 number of Months. ",
       "The Number of knockdowns landed is highest at Month Donald Cerrone and lowest at Month Thiago Alves. "
    ],
    "mid_summary": [
-      "This is a bar chart representing Month in the x axis and Number of knockdowns landed in the y axis. ",
-      "The Number of knockdowns landed is appeared to be the highest at Month Donald Cerrone and lowest at Month Thiago Alves. ",
-      "The difference of Number of knockdowns landed between the highest and lowest Month is 7.0. "
+      "This is a bar chart. It shows Number of knockdowns landed for 10 number of Months. ",
+      "The Number of knockdowns landed is highest at Month Donald Cerrone and lowest at Month Thiago Alves. ",
+      "There is a difference of 7.0 between the maximum Month Donald Cerrone and minimum Month Thiago Alves. "
    ],
    "max_summary": [
-      "This is a bar chart. It shows Number of knockdowns landed for 10 number of Months. ",
-      "The maximum Number of knockdowns landed 20.0 is found at Month Donald Cerrone and the minimum is found at Thiago Alves where Month is 13.0. ",
-      "Second maximum Number of knockdowns landed is found at Month Jeremy Stephens. ",
+      "This bar chart has 10 columns on the x axis representing Month, and Number of knockdowns landed in each Month on the y axis. ",
+      "The Number of knockdowns landed is highest at Month Donald Cerrone and lowest at Month Thiago Alves. ",
+      "The second highest Number of knockdowns landed is appeared to be the Month Jeremy Stephens. ",
       "The highest Month Donald Cerrone has 7.0 more Number of knockdowns landed than the lowest Month Thiago Alves. ",
       "Month Donald Cerrone is higher than any other Months with value 20.0, followed by Jeremy Stephens, and Jeremy Stephens. Down to Month Thiago Alves with the lowest value 13.0. ",
-      "Over the past 10 Months, the Number of knockdowns landed has reduced. ",
-      "Similar Number of knockdowns landed is found in Month Junior Dos Santos, Chuck Liddell, Lyoto Machida, and Mauricio Rua. ",
-      "Considered together, the average Number of knockdowns landed in all 10 Months is roughly 15.1. "
+      "Overall Number of knockdowns landed has declined over the Months. ",
+      "Month Junior Dos Santos, Chuck Liddell, Lyoto Machida, and Mauricio Rua have a similar Number of knockdowns landed that is 14.0. ",
+      "The Month Thiago Alves tends to be 1.32 percent lower than average. ",
+      "Summing up the values of all Months, we get total 151.0. "
    ],
    "trends": [
       {},

@@ -10,8 +10,8 @@
    "summaryType": "baseline",
    "summary": [
       "Overall Total, and Offshore are gradually increasing,  throughout the Year",
-      "The order of lines according to average values of SOME LABEL, in descending order is: 1. Total, and lastly, 2. Offshore. ",
-      "The greatest difference of SOME LABEL between Total and Offshore occurs at Year 2010/11 and the smallest difference occurs at 2002/03."
+      "The ranking of the lines from topmost to botommmost is as follows: 1. Total, and lastly, 2. Offshore. ",
+      "The difference of SOME LABEL between Total and Offshore is greater at Year 2005/06 compared to the Year 2002/03."
    ],
    "xAxis": "Year",
    "yAxis": "SOME LABEL",
@@ -23,50 +23,10 @@
    ],
    "max_summary": [
       "Overall Total, and Offshore are gradually increasing,  throughout the Year",
-      "The greatest difference of SOME LABEL between Total and Offshore occurs at Year 2010/11 and the smallest difference occurs at 2002/03."
+      "The greatest difference of SOME LABEL between Total and Offshore occurs at Year 2005/06 and the smallest difference occurs at 2002/03."
    ],
    "trends": [
-      {},
-      {
-         "2": [
-            "0",
-            "0"
-         ],
-         "16": [
-            "18",
-            "0"
-         ]
-      },
-      {
-         "1": [
-            "10",
-            "0"
-         ],
-         "9": [
-            "10",
-            "0"
-         ]
-      },
-      {
-         "2": [
-            "0",
-            "1"
-         ],
-         "15": [
-            "18",
-            "1"
-         ]
-      },
-      {
-         "1": [
-            "8",
-            "1"
-         ],
-         "10": [
-            "8",
-            "1"
-         ]
-      }
+      {}
    ],
    "data": [
       {

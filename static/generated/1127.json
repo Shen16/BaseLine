@@ -9,30 +9,30 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart represents 8 different Glass Types on X-axis for 2 groups 1999, and 2019. On the Y-axis it shows their corresponding SOME LABEL. ",
+      "This grouped bar chart shows SOME LABEL on the Y-axis for 8 different Glass Types for 2 groups 1999, and 2019 that are presented on the X-axis. ",
       " Glass Type Smart glass had the maximum SOME LABEL among all 2 groups, and it was for 1999. The minimum SOME LABEL was observed in Glass Type Safety glass for 2019. ",
-      " In Glass Type Low-emissivity glass, 2019 had the highest SOME LABEL among all 8 Glass Types and it has the lowest SOME LABEL in Glass Type Safety glass. ",
+      " Among all the Glass Types, 2019 had the highest SOME LABEL in Glass Type Low-emissivity glass and lowest SOME LABEL in Glass Type Safety glass. ",
       " The maximum SOME LABEL for 2019 that was found in Glass Type Low-emissivity glass was 20.37 times larger than the minimum SOME LABEL observed in Glass Type Safety glass. "
    ],
    "xAxis": "Glass Type",
    "yAxis": "SOME LABEL",
    "min_summary": [
       "This grouped bar chart shows SOME LABEL on the Y-axis for 8 different Glass Types for 2 groups 1999, and 2019 that are presented on the X-axis. ",
-      " Glass Type Smart glass had the maximum SOME LABEL among all 2 groups, and it was for 1999. The minimum SOME LABEL was observed in Glass Type Safety glass for 2019. "
+      " Out of all 2 groups, 1999 had the highest SOME LABEL in Glass Type Smart glass and 2019 had the lowest SOME LABEL in Glass Type Safety glass. "
    ],
    "mid_summary": [
-      "This grouped bar chart represents 8 different Glass Types on X-axis for 2 groups 1999, and 2019. On the Y-axis it shows their corresponding SOME LABEL. ",
+      "This grouped bar chart shows SOME LABEL on the Y-axis for 8 different Glass Types for 2 groups 1999, and 2019 that are presented on the X-axis. ",
       " Glass Type Smart glass had the maximum SOME LABEL among all 2 groups, and it was for 1999. The minimum SOME LABEL was observed in Glass Type Safety glass for 2019. ",
-      " In Glass Type Low-emissivity glass, 2019 had the highest SOME LABEL among all 8 Glass Types and it has the lowest SOME LABEL in Glass Type Safety glass. ",
+      " Among all the Glass Types, 2019 had the highest SOME LABEL in Glass Type Low-emissivity glass and lowest SOME LABEL in Glass Type Safety glass. ",
       " The maximum SOME LABEL for 2019 that was found in Glass Type Low-emissivity glass was 20.37 times larger than the minimum SOME LABEL observed in Glass Type Safety glass. "
    ],
    "max_summary": [
-      "This grouped bar chart shows SOME LABEL on the Y-axis for 8 different Glass Types for 2 groups 1999, and 2019 that are presented on the X-axis. ",
-      " In Glass Type Smart glass, 1999 had the highest SOME LABEL 3805.0 among the 2 groups and in Safety glass, 2019 had the lowest SOME LABEL 68.0. ",
-      " Among all the Glass Types, 2019 had the highest SOME LABEL in Glass Type Low-emissivity glass and lowest SOME LABEL in Glass Type Safety glass. ",
+      "This grouped bar chart represents 8 different Glass Types on X-axis for 2 groups 1999, and 2019. On the Y-axis it shows their corresponding SOME LABEL. ",
+      " Glass Type Smart glass had the maximum SOME LABEL among all 2 groups, and it was for 1999. The minimum SOME LABEL was observed in Glass Type Safety glass for 2019. ",
+      " In Glass Type Low-emissivity glass, 2019 had the maximum SOME LABEL and it saw the lowest in Glass Type Safety glass out of all 8 Glass Types. ",
       " There is a gap of 1317.0 between the highest and lowest SOME LABEL found for 2019 in Glass Type Low-emissivity glass and Safety glass. ",
-      " Out of all 2 groups, the highest gap between the maximum and minimum SOME LABEL was found in case of 1999. ",
-      "On average, the Glass Type Smart glass had the highest SOME LABEL for all 2 groups 1999, and 2019. Whereas Safety glass had the lowest average SOME LABEL. "
+      " Among the groups, 1999 had the biggest difference in SOME LABEL. Where the maximum SOME LABEL was 49.42 times larger than the minimum SOME LABEL. ",
+      "Averaging all 2 groups 1999, and 2019, the Glass Type Smart glass is the maximum SOME LABEL and Safety glass is the minimum SOME LABEL. "
    ],
    "trends": [
       {},

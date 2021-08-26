@@ -6,27 +6,26 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 20 columns on the x axis representing Country, and Inflation rate compared to previous year in each Country on the y axis. ",
-      "The Inflation rate compared to previous year is highest at Country Venezuela and lowest at Country Mongolia. ",
-      "The difference of Inflation rate compared to previous year between the highest and lowest Country is 199990.97. "
+      "This is a bar chart. It shows Inflation rate compared to previous year for 20 number of Countrys. ",
+      "The maximum Inflation rate compared to previous year 200000.0 is found at Country Venezuela and the minimum is found at Mongolia where Country is 9.03. ",
+      "The Inflation rate compared to previous year of Country Venezuela is 22148.39% larger than the minimum value at Mongolia. "
    ],
    "min_summary": [
-      "This is a bar chart. It shows Inflation rate compared to previous year for 20 number of Countrys. ",
+      "This bar chart has 20 columns on the x axis representing Country, and Inflation rate compared to previous year in each Country on the y axis. ",
       "The Inflation rate compared to previous year is appeared to be the highest at Country Venezuela and lowest at Country Mongolia. "
    ],
    "mid_summary": [
-      "This bar chart has 20 columns on the x axis representing Country, and Inflation rate compared to previous year in each Country on the y axis. ",
-      "The Inflation rate compared to previous year is highest at Country Venezuela and lowest at Country Mongolia. ",
-      "The difference of Inflation rate compared to previous year between the highest and lowest Country is 199990.97. "
+      "This is a bar chart. It shows Inflation rate compared to previous year for 20 number of Countrys. ",
+      "The maximum Inflation rate compared to previous year 200000.0 is found at Country Venezuela and the minimum is found at Mongolia where Country is 9.03. ",
+      "The Inflation rate compared to previous year of Country Venezuela is 22148.39% larger than the minimum value at Mongolia. "
    ],
    "max_summary": [
       "This is a bar chart representing Country in the x axis and Inflation rate compared to previous year in the y axis. ",
-      "The Inflation rate compared to previous year is highest at Country Venezuela and lowest at Country Mongolia. ",
-      "The second highest Inflation rate compared to previous year is appeared to be the Country Zimbabwe. ",
+      "The maximum Inflation rate compared to previous year 200000.0 is found at Country Venezuela and the minimum is found at Mongolia where Country is 9.03. ",
+      "Second maximum Inflation rate compared to previous year is found at Country Zimbabwe. ",
       "The highest Country Venezuela has 199990.97 more Inflation rate compared to previous year than the lowest Country Mongolia. ",
       "Inflation rate compared to previous year at Country Venezuela is 200000.0 , second place is Zimbabwe at 161.81, and thirdly is Argentina at 54.44.",
-      "The Country Mongolia tends to be 19.95 percent lower than average. ",
-      "The Inflation rate compared to previous year is 200526.12 if we add up values of all Countrys. "
+      "The Country Venezuela tends to be 19.95 percent higher than average. "
    ],
    "trends": [
       {},

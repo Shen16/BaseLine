@@ -6,26 +6,27 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 5 columns on the x axis representing Response, and Share of respondents in each Response on the y axis. ",
-      "The Share of respondents is appeared to be the highest at Response Smartphone and lowest at Response Passport. ",
-      "The difference of Share of respondents between the highest and lowest Response is 6.0. "
+      "This is a bar chart. It shows Share of respondents for 5 number of Responses. ",
+      "The Share of respondents is highest at Response Smartphone and lowest at Response Passport. ",
+      "The Share of respondents of Response Passport is 2.5% smaller than the maximum value at Smartphone. "
    ],
    "min_summary": [
-      "This is a bar chart representing Response in the x axis and Share of respondents in the y axis. ",
+      "This bar chart has 5 columns on the x axis representing Response, and Share of respondents in each Response on the y axis. ",
       "The Share of respondents is appeared to be the highest at Response Smartphone and lowest at Response Passport. "
    ],
    "mid_summary": [
-      "This bar chart has 5 columns on the x axis representing Response, and Share of respondents in each Response on the y axis. ",
-      "The Share of respondents is appeared to be the highest at Response Smartphone and lowest at Response Passport. ",
-      "The difference of Share of respondents between the highest and lowest Response is 6.0. "
-   ],
-   "max_summary": [
       "This is a bar chart. It shows Share of respondents for 5 number of Responses. ",
       "The Share of respondents is highest at Response Smartphone and lowest at Response Passport. ",
-      "Response Credit card has the second highest value for Share of respondents. ",
-      "The highest Response Smartphone has 6.0 more Share of respondents than the lowest Response Passport. ",
+      "The Share of respondents of Response Passport is 2.5% smaller than the maximum value at Smartphone. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Response in the x axis and Share of respondents in the y axis. ",
+      "The maximum Share of respondents 10.0 is found at Response Smartphone and the minimum is found at Passport where Response is 4.0. ",
+      "The second highest Share of respondents is appeared to be the Response Credit card. ",
+      "There is a difference of 6.0 between the maximum Response Smartphone and minimum Response Passport. ",
       "Share of respondents at Response Smartphone is 10.0 , second place is Credit card at 9.0, and thirdly is Debit card at 8.0.",
-      "The lowest value 4.0 at Passport is almost 1.35 times smaller than the average value 7.4. "
+      "The average Share of respondents in all 5 Responses is 7.4. ",
+      "Summing up the values of all Responses, we get total 37.0. "
    ],
    "trends": [
       {},

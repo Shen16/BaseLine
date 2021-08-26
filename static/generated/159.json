@@ -7,26 +7,25 @@
    "summaryType": "baseline",
    "summary": [
       "This is a bar chart representing Response in the x axis and Share of respondents in the y axis. ",
-      "The Share of respondents is appeared to be the highest at Response Mixture of both and lowest at Response Neither. ",
-      "The highest Response Mixture of both has 36.0 more Share of respondents than the lowest Response Neither. "
+      "The maximum Share of respondents 44.0 is found at Response Mixture of both and the minimum is found at Neither where Response is 8.0. ",
+      "The minimum Response Neither has got 5.5 times less Share of respondents than the maximum Response Mixture of both. "
    ],
    "min_summary": [
-      "This is a bar chart representing Response in the x axis and Share of respondents in the y axis. ",
-      "Response Mixture of both has the highest Share of respondents and Neither has the lowest Share of respondents. "
+      "This bar chart has 4 columns on the x axis representing Response, and Share of respondents in each Response on the y axis. ",
+      "The Share of respondents is highest at Response Mixture of both and lowest at Response Neither. "
    ],
    "mid_summary": [
       "This is a bar chart representing Response in the x axis and Share of respondents in the y axis. ",
-      "The Share of respondents is appeared to be the highest at Response Mixture of both and lowest at Response Neither. ",
-      "The highest Response Mixture of both has 36.0 more Share of respondents than the lowest Response Neither. "
+      "The maximum Share of respondents 44.0 is found at Response Mixture of both and the minimum is found at Neither where Response is 8.0. ",
+      "The minimum Response Neither has got 5.5 times less Share of respondents than the maximum Response Mixture of both. "
    ],
    "max_summary": [
-      "This is a bar chart representing Response in the x axis and Share of respondents in the y axis. ",
+      "This bar chart has 4 columns on the x axis representing Response, and Share of respondents in each Response on the y axis. ",
       "Response Mixture of both has the highest Share of respondents and Neither has the lowest Share of respondents. ",
-      "Second maximum Share of respondents is found at Response Fiction. ",
-      "The Share of respondents of Response Mixture of both is 5.5% larger than the minimum value at Neither. ",
-      "Share of respondents at Response Mixture of both is 44.0 , second place is Fiction at 26.0, and thirdly is Non-fiction at 22.0.",
-      "The Response Neither has 1.76 times less Share of respondents than average. ",
-      "The Share of respondents is 100.0 if we add up values of all Responses. "
+      "The second highest Share of respondents is appeared to be the Response Fiction. ",
+      "There is a difference of 36.0 between the maximum Response Mixture of both and minimum Response Neither. ",
+      "The Response Mixture of both has the highest Share of respondents, followed by Fiction, and Non-fiction. Down to the Response Neither which is the lowest. ",
+      "The Response Mixture of both has 1.76 times more Share of respondents than average. "
    ],
    "trends": [
       {},

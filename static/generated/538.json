@@ -10,64 +10,24 @@
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "Overall 0-14 years, 15-64 years, and 65 years and older are roughly constant,  throughout the Year",
+      "Overall 15-64 years is gradually increasing, 0-14 years is gradually decreasing, 65 years and older is roughly constant,  throughout the Year",
       "The order of lines according to average values of Share of total population, in descending order is: 1. 15-64 years, 2. 0-14 years, and lastly, 3. 65 years and older. ",
-      "65 years and older reported the lowest Share of total population about 3.37 in Year 2012"
+      "The minimum Share of total population about 3.26, occured at 2009 by 65 years and older."
    ],
    "xAxis": "Year",
    "yAxis": "Share of total population",
    "min_summary": [
-      "Overall 0-14 years, 15-64 years, and 65 years and older are roughly constant,  throughout the Year"
+      "Overall 15-64 years is gradually increasing, 0-14 years is gradually decreasing, 65 years and older is roughly constant,  throughout the Year"
    ],
    "mid_summary": [
-      "Overall 0-14 years, 15-64 years, and 65 years and older are roughly constant,  throughout the Year"
+      "Overall 15-64 years is gradually increasing, 0-14 years is gradually decreasing, 65 years and older is roughly constant,  throughout the Year"
    ],
    "max_summary": [
-      "Overall 0-14 years, 15-64 years, and 65 years and older are roughly constant,  throughout the Year",
-      "65 years and older reported the lowest Share of total population about 3.37 in Year 2012"
+      "Overall 15-64 years is gradually increasing, 0-14 years is gradually decreasing, 65 years and older is roughly constant,  throughout the Year",
+      "65 years and older reported the lowest Share of total population about 3.26 in Year 2009"
    ],
    "trends": [
-      {},
-      {
-         "2": [
-            "0",
-            "1"
-         ],
-         "16": [
-            "10",
-            "1"
-         ]
-      },
-      {
-         "1": [
-            "2",
-            "1"
-         ],
-         "9": [
-            "2",
-            "1"
-         ]
-      },
-      {
-         "2": [
-            "0",
-            "0"
-         ],
-         "15": [
-            "10",
-            "0"
-         ]
-      },
-      {
-         "1": [
-            "0",
-            "0"
-         ],
-         "10": [
-            "0",
-            "0"
-         ]
-      }
+      {}
    ],
    "data": [
       {

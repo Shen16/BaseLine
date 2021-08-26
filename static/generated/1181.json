@@ -6,27 +6,27 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This is a bar chart. It shows Birth rate (births per 1,000 population) for 50 number of Citys. ",
+      "This is a bar chart representing City in the x axis and Birth rate (births per 1,000 population) in the y axis. ",
       "The Birth rate (births per 1,000 population) is highest at City Hinesville GA and lowest at City Fayetteville-Springdale-Rogers AR-MO. ",
       "The difference of Birth rate (births per 1,000 population) between the highest and lowest City is 6.63. "
    ],
    "min_summary": [
-      "This is a bar chart. It shows Birth rate (births per 1,000 population) for 50 number of Citys. ",
-      "City Hinesville GA has the highest Birth rate (births per 1,000 population) and Fayetteville-Springdale-Rogers AR-MO has the lowest Birth rate (births per 1,000 population). "
+      "This bar chart has 50 columns on the x axis representing City, and Birth rate (births per 1,000 population) in each City on the y axis. ",
+      "The Birth rate (births per 1,000 population) is highest at City Hinesville GA and lowest at City Fayetteville-Springdale-Rogers AR-MO. "
    ],
    "mid_summary": [
-      "This is a bar chart. It shows Birth rate (births per 1,000 population) for 50 number of Citys. ",
+      "This is a bar chart representing City in the x axis and Birth rate (births per 1,000 population) in the y axis. ",
       "The Birth rate (births per 1,000 population) is highest at City Hinesville GA and lowest at City Fayetteville-Springdale-Rogers AR-MO. ",
       "The difference of Birth rate (births per 1,000 population) between the highest and lowest City is 6.63. "
    ],
    "max_summary": [
       "This bar chart has 50 columns on the x axis representing City, and Birth rate (births per 1,000 population) in each City on the y axis. ",
       "The Birth rate (births per 1,000 population) is highest at City Hinesville GA and lowest at City Fayetteville-Springdale-Rogers AR-MO. ",
-      "City Jacksonville NC has the second highest value for Birth rate (births per 1,000 population). ",
-      "The highest City Hinesville GA has 6.63 more Birth rate (births per 1,000 population) than the lowest City Fayetteville-Springdale-Rogers AR-MO. ",
+      "Second maximum Birth rate (births per 1,000 population) is found at City Jacksonville NC. ",
+      "There is a difference of 6.63 between the maximum City Hinesville GA and minimum City Fayetteville-Springdale-Rogers AR-MO. ",
       "Birth rate (births per 1,000 population) at City Hinesville GA is 20.36 , second place is Jacksonville NC at 19.77, and thirdly is Provo-Orem UT at 19.43.",
       "City Visalia-Porterville CA, Bakersfield CA, and Salt Lake City UT share the same value 14.96. ",
-      "The average Birth rate (births per 1,000 population) in all 50 Citys is 15.29. "
+      "The City Fayetteville-Springdale-Rogers AR-MO has 1.33 times less Birth rate (births per 1,000 population) than average. "
    ],
    "trends": [
       {},

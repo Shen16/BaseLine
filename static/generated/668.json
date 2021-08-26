@@ -9,30 +9,30 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart represents 40 different Countrys on X-axis for 2 groups Male, and Female. On the Y-axis it shows their corresponding SOME LABEL. ",
+      "This grouped bar chart shows SOME LABEL on the Y-axis for 40 different Countrys for 2 groups Male, and Female that are presented on the X-axis. ",
       " Out of all 2 groups, Female had the highest SOME LABEL in Country Germany and Male had the lowest SOME LABEL in Country Liechtenstein. ",
-      " Among all the Countrys, Female had the highest SOME LABEL in Country Germany and lowest SOME LABEL in Country Liechtenstein. ",
-      "Country Germany and Liechtenstein had the biggest gap of 41642599.0 between the highest and lowest SOME LABEL found for Female. "
+      " In Country Germany, Female had the highest SOME LABEL among all 40 Countrys and it has the lowest SOME LABEL in Country Liechtenstein. ",
+      " The maximum SOME LABEL for Female that was found in Country Germany was 2197.11 times larger than the minimum SOME LABEL observed in Country Liechtenstein. "
    ],
    "xAxis": "Country",
    "yAxis": "SOME LABEL",
    "min_summary": [
-      "This grouped bar chart shows SOME LABEL on the Y-axis for 40 different Countrys for 2 groups Male, and Female that are presented on the X-axis. ",
-      " Out of all 2 groups, Female had the highest SOME LABEL in Country Germany and Male had the lowest SOME LABEL in Country Liechtenstein. "
+      "This grouped bar chart represents 40 different Countrys on X-axis for 2 groups Male, and Female. On the Y-axis it shows their corresponding SOME LABEL. ",
+      " In Country Germany, Female had the highest SOME LABEL 41661561.0 among the 2 groups and in Liechtenstein, Male had the lowest SOME LABEL 18660.0. "
    ],
    "mid_summary": [
-      "This grouped bar chart represents 40 different Countrys on X-axis for 2 groups Male, and Female. On the Y-axis it shows their corresponding SOME LABEL. ",
+      "This grouped bar chart shows SOME LABEL on the Y-axis for 40 different Countrys for 2 groups Male, and Female that are presented on the X-axis. ",
       " Out of all 2 groups, Female had the highest SOME LABEL in Country Germany and Male had the lowest SOME LABEL in Country Liechtenstein. ",
-      " Among all the Countrys, Female had the highest SOME LABEL in Country Germany and lowest SOME LABEL in Country Liechtenstein. ",
-      "Country Germany and Liechtenstein had the biggest gap of 41642599.0 between the highest and lowest SOME LABEL found for Female. "
+      " In Country Germany, Female had the highest SOME LABEL among all 40 Countrys and it has the lowest SOME LABEL in Country Liechtenstein. ",
+      " The maximum SOME LABEL for Female that was found in Country Germany was 2197.11 times larger than the minimum SOME LABEL observed in Country Liechtenstein. "
    ],
    "max_summary": [
-      "This grouped bar chart represents 40 different Countrys on X-axis for 2 groups Male, and Female. On the Y-axis it shows their corresponding SOME LABEL. ",
-      " Country Germany had the maximum SOME LABEL among all 2 groups, and it was for Female. The minimum SOME LABEL was observed in Country Liechtenstein for Male. ",
-      " Among all the Countrys, Female had the highest SOME LABEL 41661561.0 in Country Germany and lowest value 18962.0 in Country Liechtenstein. ",
-      " The maximum SOME LABEL for Female that was found in Country Germany was 2197.11 times larger than the minimum SOME LABEL observed in Country Liechtenstein. ",
+      "This grouped bar chart shows SOME LABEL on the Y-axis for 40 different Countrys for 2 groups Male, and Female that are presented on the X-axis. ",
+      " Out of all 2 groups, Female had the highest SOME LABEL in Country Germany and Male had the lowest SOME LABEL in Country Liechtenstein. ",
+      " Among all the Countrys, Female had the highest SOME LABEL in Country Germany and lowest SOME LABEL in Country Liechtenstein. ",
+      "Country Germany and Liechtenstein had the biggest gap of 41642599.0 between the highest and lowest SOME LABEL found for Female. ",
       " Among all 2 groups, Male had the gap of 40495463.0 between the maximum and minimum SOME LABEL observed in Country Germany and Liechtenstein respectively. ",
-      "On average, the Country Germany had the highest SOME LABEL for all 2 groups Male, and Female. Whereas Liechtenstein had the lowest average SOME LABEL. "
+      "Averaging all 2 groups Male, and Female, the Country Germany is the maximum SOME LABEL and Liechtenstein is the minimum SOME LABEL. "
    ],
    "trends": [
       {},

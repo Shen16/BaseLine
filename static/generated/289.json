@@ -6,7 +6,7 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This is a bar chart. It shows Number of hours in millions for 10 number of Video Games. ",
+      "This is a bar chart representing Video Game in the x axis and Number of hours in millions in the y axis. ",
       "The Number of hours in millions is appeared to be the highest at Video Game Fortnite and lowest at Video Game Apex Legends. ",
       "There is a difference of 20.8 between the maximum Video Game Fortnite and minimum Video Game Apex Legends. "
    ],
@@ -15,17 +15,16 @@
       "Video Game Fortnite has the highest Number of hours in millions and Apex Legends has the lowest Number of hours in millions. "
    ],
    "mid_summary": [
-      "This is a bar chart. It shows Number of hours in millions for 10 number of Video Games. ",
+      "This is a bar chart representing Video Game in the x axis and Number of hours in millions in the y axis. ",
       "The Number of hours in millions is appeared to be the highest at Video Game Fortnite and lowest at Video Game Apex Legends. ",
       "There is a difference of 20.8 between the maximum Video Game Fortnite and minimum Video Game Apex Legends. "
    ],
    "max_summary": [
       "This is a bar chart representing Video Game in the x axis and Number of hours in millions in the y axis. ",
-      "Video Game Fortnite has the highest Number of hours in millions and Apex Legends has the lowest Number of hours in millions. ",
-      "The second highest Number of hours in millions is appeared to be the Video Game League of Legends. ",
-      "The Number of hours in millions of Video Game Fortnite is 6.2% larger than the minimum value at Apex Legends. ",
-      "Video Game Fortnite is higher than any other Video Games with value 24.8, followed by League of Legends, and GTA V. Down to Video Game Apex Legends with the lowest value 4.0. ",
-      "The Video Game Apex Legends tends to be 2.41 percent lower than average. ",
+      "The Number of hours in millions is appeared to be the highest at Video Game Fortnite and lowest at Video Game Apex Legends. ",
+      "The difference of Number of hours in millions between the highest and lowest Video Game is 20.8. ",
+      "Number of hours in millions at Video Game Fortnite is 24.8 , second place is League of Legends at 13.7, and thirdly is GTA V at 13.1.",
+      "The Video Game Fortnite has 2.41 times more Number of hours in millions than average. ",
       "Summing up the values of all Video Games, we get total 102.9. "
    ],
    "trends": [

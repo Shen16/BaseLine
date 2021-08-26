@@ -6,25 +6,26 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This is a bar chart representing Company (Country of origin) in the x axis and Retail revenue in billion U.S. dollars in the y axis. ",
-      "Company (Country of origin) Wal-Mart Stores Inc (United States) has the highest Retail revenue in billion U.S. dollars and Jer\u00f3nimo Martins SGPS S.A. (Portugal) has the lowest Retail revenue in billion U.S. dollars. ",
-      "The highest Company (Country of origin) Wal-Mart Stores Inc (United States) has 493.96 more Retail revenue in billion U.S. dollars than the lowest Company (Country of origin) Jer\u00f3nimo Martins SGPS S.A. (Portugal). "
+      "This bar chart has 50 columns on the x axis representing Company (Country of origin), and Retail revenue in billion U.S. dollars in each Company (Country of origin) on the y axis. ",
+      "The Retail revenue in billion U.S. dollars is highest at Company (Country of origin) Wal-Mart Stores Inc (United States) and lowest at Company (Country of origin) Jer\u00f3nimo Martins SGPS S.A. (Portugal). ",
+      "There is a difference of 493.96 between the maximum Company (Country of origin) Wal-Mart Stores Inc (United States) and minimum Company (Country of origin) Jer\u00f3nimo Martins SGPS S.A. (Portugal). "
    ],
    "min_summary": [
-      "This bar chart has 50 columns on the x axis representing Company (Country of origin), and Retail revenue in billion U.S. dollars in each Company (Country of origin) on the y axis. ",
-      "The Retail revenue in billion U.S. dollars is highest at Company (Country of origin) Wal-Mart Stores Inc (United States) and lowest at Company (Country of origin) Jer\u00f3nimo Martins SGPS S.A. (Portugal). "
+      "This is a bar chart. It shows Retail revenue in billion U.S. dollars for 50 number of Company (Country of origin)s. ",
+      "The maximum Retail revenue in billion U.S. dollars 514.41 is found at Company (Country of origin) Wal-Mart Stores Inc (United States) and the minimum is found at Jer\u00f3nimo Martins SGPS S.A. (Portugal) where Company (Country of origin) is 20.45. "
    ],
    "mid_summary": [
-      "This is a bar chart representing Company (Country of origin) in the x axis and Retail revenue in billion U.S. dollars in the y axis. ",
-      "Company (Country of origin) Wal-Mart Stores Inc (United States) has the highest Retail revenue in billion U.S. dollars and Jer\u00f3nimo Martins SGPS S.A. (Portugal) has the lowest Retail revenue in billion U.S. dollars. ",
-      "The highest Company (Country of origin) Wal-Mart Stores Inc (United States) has 493.96 more Retail revenue in billion U.S. dollars than the lowest Company (Country of origin) Jer\u00f3nimo Martins SGPS S.A. (Portugal). "
+      "This bar chart has 50 columns on the x axis representing Company (Country of origin), and Retail revenue in billion U.S. dollars in each Company (Country of origin) on the y axis. ",
+      "The Retail revenue in billion U.S. dollars is highest at Company (Country of origin) Wal-Mart Stores Inc (United States) and lowest at Company (Country of origin) Jer\u00f3nimo Martins SGPS S.A. (Portugal). ",
+      "There is a difference of 493.96 between the maximum Company (Country of origin) Wal-Mart Stores Inc (United States) and minimum Company (Country of origin) Jer\u00f3nimo Martins SGPS S.A. (Portugal). "
    ],
    "max_summary": [
       "This is a bar chart representing Company (Country of origin) in the x axis and Retail revenue in billion U.S. dollars in the y axis. ",
       "The Retail revenue in billion U.S. dollars is appeared to be the highest at Company (Country of origin) Wal-Mart Stores Inc (United States) and lowest at Company (Country of origin) Jer\u00f3nimo Martins SGPS S.A. (Portugal). ",
-      "The difference of Retail revenue in billion U.S. dollars between the highest and lowest Company (Country of origin) is 493.96. ",
+      "The second highest Retail revenue in billion U.S. dollars is appeared to be the Company (Country of origin) Costco Wholesale Corporation (United States). ",
+      "The highest Company (Country of origin) Wal-Mart Stores Inc (United States) has 493.96 more Retail revenue in billion U.S. dollars than the lowest Company (Country of origin) Jer\u00f3nimo Martins SGPS S.A. (Portugal). ",
       "Retail revenue in billion U.S. dollars at Company (Country of origin) Wal-Mart Stores Inc (United States) is 514.41 , second place is Costco Wholesale Corporation (United States) at 141.58, and thirdly is Amazon.com Inc. (United States) at 140.21.",
-      "The average Retail revenue in billion U.S. dollars in all 50 Company (Country of origin)s is 61.93. ",
+      "The lowest value 20.45 at Jer\u00f3nimo Martins SGPS S.A. (Portugal) is almost 8.31 times smaller than the average value 61.93. ",
       "Summing up the values of all Company (Country of origin)s, we get total 3096.72. "
    ],
    "trends": [

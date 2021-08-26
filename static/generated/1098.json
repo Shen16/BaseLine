@@ -9,64 +9,28 @@
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "Overall Yes, and No are roughly constant,  throughout the Year",
-      "The order of lines according to average values of SOME LABEL, in descending order is: 1. Yes, and lastly, 2. No. ",
-      "The difference of SOME LABEL between Yes and No is greater at Year 55-64_years compared to the Year 35-44_years."
+      " Overall SOME LABEL has increased over the Year.",
+      "SOME LABEL is slightly increasing from 45-54_years to 55-64_years, and finally roughly constant from 55-64_years to 65+_years.",
+      "The highest SOME LABEL, of value 53.0 was reached at Year 65+_years",
+      "Minimum SOME LABEL about 43.0 was reached at Year 45-54_years"
    ],
    "xAxis": "Year",
    "yAxis": "SOME LABEL",
    "min_summary": [
-      "Overall Yes, and No are roughly constant,  throughout the Year"
+      " Overall SOME LABEL has increased over the Year."
    ],
    "mid_summary": [
-      "Overall Yes, and No are roughly constant,  throughout the Year"
+      " Overall SOME LABEL has increased over the Year.",
+      "SOME LABEL is slightly increasing from 45-54_years to 55-64_years, and finally roughly constant from 55-64_years to 65+_years."
    ],
    "max_summary": [
-      "Overall Yes, and No are roughly constant,  throughout the Year",
-      "The greatest difference of SOME LABEL between Yes and No occurs at Year 45-54_years and the smallest difference occurs at 35-44_years."
+      " In general SOME LABEL has rose over the Year.",
+      "SOME LABEL is slightly increasing from 45-54_years to 55-64_years, and finally roughly constant from 55-64_years to 65+_years.",
+      "The highest SOME LABEL, of value 53.0 was reached at Year 65+_years",
+      "Minimum SOME LABEL about 43.0 was reached at Year 45-54_years"
    ],
    "trends": [
-      {},
-      {
-         "2": [
-            "0",
-            "0"
-         ],
-         "16": [
-            "5",
-            "0"
-         ]
-      },
-      {
-         "1": [
-            "1",
-            "0"
-         ],
-         "9": [
-            "1",
-            "0"
-         ]
-      },
-      {
-         "2": [
-            "0",
-            "1"
-         ],
-         "15": [
-            "5",
-            "1"
-         ]
-      },
-      {
-         "1": [
-            "2",
-            "1"
-         ],
-         "10": [
-            "2",
-            "1"
-         ]
-      }
+      {}
    ],
    "data": [
       {

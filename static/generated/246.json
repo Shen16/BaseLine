@@ -6,28 +6,27 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This is a bar chart. It shows Share of respondents for 9 number of Responses. ",
-      "The Share of respondents is highest at Response Using the internet for social or personal interests and lowest at Response Listening to the radio (any format/device). ",
-      "The Share of respondents of Response Using the internet for social or personal interests is 4.25% larger than the minimum value at Listening to the radio (any format/device). "
+      "This bar chart has 9 columns on the x axis representing Response, and Share of respondents in each Response on the y axis. ",
+      "The Share of respondents is appeared to be the highest at Response Using the internet for social or personal interests and lowest at Response Listening to the radio (any format/device). ",
+      "The highest Response Using the internet for social or personal interests has 39.0 more Share of respondents than the lowest Response Listening to the radio (any format/device). "
    ],
    "min_summary": [
       "This is a bar chart representing Response in the x axis and Share of respondents in the y axis. ",
       "Response Using the internet for social or personal interests has the highest Share of respondents and Listening to the radio (any format/device) has the lowest Share of respondents. "
    ],
    "mid_summary": [
-      "This is a bar chart. It shows Share of respondents for 9 number of Responses. ",
-      "The Share of respondents is highest at Response Using the internet for social or personal interests and lowest at Response Listening to the radio (any format/device). ",
-      "The Share of respondents of Response Using the internet for social or personal interests is 4.25% larger than the minimum value at Listening to the radio (any format/device). "
-   ],
-   "max_summary": [
       "This bar chart has 9 columns on the x axis representing Response, and Share of respondents in each Response on the y axis. ",
       "The Share of respondents is appeared to be the highest at Response Using the internet for social or personal interests and lowest at Response Listening to the radio (any format/device). ",
-      "Second maximum Share of respondents is found at Response Watching television (any device). ",
+      "The highest Response Using the internet for social or personal interests has 39.0 more Share of respondents than the lowest Response Listening to the radio (any format/device). "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Response in the x axis and Share of respondents in the y axis. ",
+      "Response Using the internet for social or personal interests has the highest Share of respondents and Listening to the radio (any format/device) has the lowest Share of respondents. ",
       "The difference of Share of respondents between the highest and lowest Response is 39.0. ",
       "Share of respondents at Response Using the internet for social or personal interests is 51.0 , second place is Watching television (any device) at 51.0, and thirdly is Reading newspapers (either printed or online) at 46.0.",
-      "Response Using the internet for social or personal interests, and Watching television (any device) share the same value 51.0. ",
-      "The Response Using the internet for social or personal interests tends to be 1.6 percent higher than average. ",
-      "Summing up the values of all Responses, we get total 287.0. "
+      "Similar Share of respondents is found in Response Using the internet for social or personal interests, and Watching television (any device). ",
+      "The highest value 51.0 at Using the internet for social or personal interests is almost 1.6 times larger than the average value 31.89. ",
+      "The Share of respondents is 287.0 if we add up values of all Responses. "
    ],
    "trends": [
       {},

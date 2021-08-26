@@ -7,25 +7,26 @@
    "summaryType": "baseline",
    "summary": [
       "This is a bar chart representing Month in the x axis and Number of available apps in the y axis. ",
-      "The maximum Number of available apps 2200000.0 is found at Month Jan '17 and the minimum is found at Jul '08 where Month is 800.0. ",
-      "The highest Month Jan '17 has 2199200.0 more Number of available apps than the lowest Month Jul '08. "
+      "The Number of available apps is appeared to be the highest at Month Jan '17 and lowest at Month Jul '08. ",
+      "The difference of Number of available apps between the highest and lowest Month is 2199200.0. "
    ],
    "min_summary": [
-      "This is a bar chart representing Month in the x axis and Number of available apps in the y axis. ",
-      "The Number of available apps is highest at Month Jan '17 and lowest at Month Jul '08. "
+      "This is a bar chart. It shows Number of available apps for 24 number of Months. ",
+      "The maximum Number of available apps 2200000.0 is found at Month Jan '17 and the minimum is found at Jul '08 where Month is 800.0. "
    ],
    "mid_summary": [
       "This is a bar chart representing Month in the x axis and Number of available apps in the y axis. ",
-      "The maximum Number of available apps 2200000.0 is found at Month Jan '17 and the minimum is found at Jul '08 where Month is 800.0. ",
-      "The highest Month Jan '17 has 2199200.0 more Number of available apps than the lowest Month Jul '08. "
+      "The Number of available apps is appeared to be the highest at Month Jan '17 and lowest at Month Jul '08. ",
+      "The difference of Number of available apps between the highest and lowest Month is 2199200.0. "
    ],
    "max_summary": [
       "This bar chart has 24 columns on the x axis representing Month, and Number of available apps in each Month on the y axis. ",
-      "The Number of available apps is appeared to be the highest at Month Jan '17 and lowest at Month Jul '08. ",
-      "There is a difference of 2199200.0 between the maximum Month Jan '17 and minimum Month Jul '08. ",
-      "Number of available apps at Month Jan '17 is 2200000.0 , second place is Jun '16 at 2000000.0, and thirdly is Jun '15 at 1500000.0.",
-      "The Number of available apps has declined over the past 24 Months. ",
-      "The Month Jul '08 tends to be 3.06 percent lower than average. ",
+      "The Number of available apps is highest at Month Jan '17 and lowest at Month Jul '08. ",
+      "Second maximum Number of available apps is found at Month Jun '16. ",
+      "The highest Month Jan '17 has 2199200.0 more Number of available apps than the lowest Month Jul '08. ",
+      "The Month Jan '17 has the highest Number of available apps, followed by Jun '16, and Jun '15. Down to the Month Jul '08 which is the lowest. ",
+      "The Number of available apps has lowered over the past 24 Months. ",
+      "The lowest value 800.0 at Jul '08 is almost 3.06 times smaller than the average value 718283.33. ",
       "Summing up the values of all Months, we get total 17238800.0. "
    ],
    "trends": [

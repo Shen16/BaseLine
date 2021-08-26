@@ -12,31 +12,31 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart shows SOME LABEL on the Y-axis for 12 different Countrys for 5 groups 2014, 2015, 2016, 2017, and 2018 that are presented on the X-axis. ",
-      " Out of all 5 groups, 2017 had the highest SOME LABEL in Country United Kingdom and 2014 had the lowest SOME LABEL in Country Switzerland. ",
-      " In Country United Kingdom, 2017 had the maximum SOME LABEL and it saw the lowest in Country France out of all 12 Countrys. ",
-      " There is a gap of 168.0 between the highest and lowest SOME LABEL found for 2017 in Country United Kingdom and France. "
+      "This grouped bar chart represents 12 different Countrys on X-axis for 5 groups 2014, 2015, 2016, 2017, and 2018. On the Y-axis it shows their corresponding SOME LABEL. ",
+      " Country United Kingdom had the maximum SOME LABEL among all 5 groups, and it was for 2017. The minimum SOME LABEL was observed in Country Switzerland for 2014. ",
+      " Among all the Countrys, 2018 had the highest SOME LABEL 178.0 in Country United Kingdom and lowest value 34.0 in Country Italy. ",
+      " There is a gap of 144.0 between the highest and lowest SOME LABEL found for 2018 in Country United Kingdom and Italy. "
    ],
    "xAxis": "Country",
    "yAxis": "SOME LABEL",
    "min_summary": [
       "This grouped bar chart shows SOME LABEL on the Y-axis for 12 different Countrys for 5 groups 2014, 2015, 2016, 2017, and 2018 that are presented on the X-axis. ",
-      " Out of all 5 groups, 2017 had the highest SOME LABEL in Country United Kingdom and 2014 had the lowest SOME LABEL in Country Switzerland. "
+      " In Country United Kingdom, 2017 had the highest SOME LABEL 178.0 among the 5 groups and in Switzerland, 2014 had the lowest SOME LABEL 0.0. "
    ],
    "mid_summary": [
-      "This grouped bar chart shows SOME LABEL on the Y-axis for 12 different Countrys for 5 groups 2014, 2015, 2016, 2017, and 2018 that are presented on the X-axis. ",
-      " Out of all 5 groups, 2017 had the highest SOME LABEL in Country United Kingdom and 2014 had the lowest SOME LABEL in Country Switzerland. ",
-      " In Country United Kingdom, 2017 had the maximum SOME LABEL and it saw the lowest in Country France out of all 12 Countrys. ",
-      " There is a gap of 168.0 between the highest and lowest SOME LABEL found for 2017 in Country United Kingdom and France. "
+      "This grouped bar chart represents 12 different Countrys on X-axis for 5 groups 2014, 2015, 2016, 2017, and 2018. On the Y-axis it shows their corresponding SOME LABEL. ",
+      " Country United Kingdom had the maximum SOME LABEL among all 5 groups, and it was for 2017. The minimum SOME LABEL was observed in Country Switzerland for 2014. ",
+      " Among all the Countrys, 2018 had the highest SOME LABEL 178.0 in Country United Kingdom and lowest value 34.0 in Country Italy. ",
+      " There is a gap of 144.0 between the highest and lowest SOME LABEL found for 2018 in Country United Kingdom and Italy. "
    ],
    "max_summary": [
-      "This grouped bar chart represents 12 different Countrys on X-axis for 5 groups 2014, 2015, 2016, 2017, and 2018. On the Y-axis it shows their corresponding SOME LABEL. ",
-      " In Country United Kingdom, 2017 had the highest SOME LABEL 178.0 among the 5 groups and in Switzerland, 2014 had the lowest SOME LABEL 0.0. ",
-      " Among all the Countrys, 2017 had the highest SOME LABEL 178.0 in Country United Kingdom and lowest value 10.0 in Country France. ",
-      " The maximum SOME LABEL for 2017 that was found in Country United Kingdom was 17.8 times larger than the minimum SOME LABEL observed in Country France. ",
-      " Out of all 5 groups, the highest gap between the maximum and minimum SOME LABEL was found in case of 2017. ",
-      " 2017 had the maximum SOME LABEL out of all 5 groups in Country United Kingdom followed by 2017 in United Kingdom, and the minimum SOME LABEL is found for 2014 in Switzerland. ",
-      "On average, the Country United Kingdom had the highest SOME LABEL for all 5 groups 2014, 2015, 2016, 2017, and 2018. Whereas Italy had the lowest average SOME LABEL. "
+      "This grouped bar chart shows SOME LABEL on the Y-axis for 12 different Countrys for 5 groups 2014, 2015, 2016, 2017, and 2018 that are presented on the X-axis. ",
+      " Out of all 5 groups, 2017 had the highest SOME LABEL in Country United Kingdom and 2014 had the lowest SOME LABEL in Country Switzerland. ",
+      " In Country United Kingdom, 2018 had the maximum SOME LABEL and it saw the lowest in Country Italy out of all 12 Countrys. ",
+      " There is a gap of 144.0 between the highest and lowest SOME LABEL found for 2018 in Country United Kingdom and Italy. ",
+      " Among the groups, 2017 had the biggest difference in SOME LABEL. Where the maximum SOME LABEL was 17.8 times larger than the minimum SOME LABEL. ",
+      " In Country United Kingdom, 2017 had the highest SOME LABEL 178.0 among the 5 groups and in Switzerland, 2014 had the lowest SOME LABEL 0.0. The second highest SOME LABEL 152.0 was observed for 2017 in Country United Kingdom. ",
+      "Averaging all 5 groups 2014, 2015, 2016, 2017, and 2018, the Country United Kingdom is the maximum SOME LABEL and Italy is the minimum SOME LABEL. "
    ],
    "trends": [
       {},

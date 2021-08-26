@@ -6,23 +6,24 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 30 columns on the x axis representing NBA player, and Number of minutes played in each NBA player on the y axis. ",
-      "The Number of minutes played is highest at NBA player Kareem Abdul-Jabbar and lowest at NBA player Bill Russell. ",
-      "The Number of minutes played of NBA player Bill Russell is 1.41% smaller than the maximum value at Kareem Abdul-Jabbar. "
+      "This is a bar chart. It shows Number of minutes played for 30 number of NBA players. ",
+      "NBA player Kareem Abdul-Jabbar has the highest Number of minutes played and Bill Russell has the lowest Number of minutes played. ",
+      "The difference of Number of minutes played between the highest and lowest NBA player is 16720.0. "
    ],
    "min_summary": [
       "This bar chart has 30 columns on the x axis representing NBA player, and Number of minutes played in each NBA player on the y axis. ",
-      "The Number of minutes played is highest at NBA player Kareem Abdul-Jabbar and lowest at NBA player Bill Russell. "
+      "The maximum Number of minutes played 57446.0 is found at NBA player Kareem Abdul-Jabbar and the minimum is found at Bill Russell where NBA player is 40726.0. "
    ],
    "mid_summary": [
-      "This bar chart has 30 columns on the x axis representing NBA player, and Number of minutes played in each NBA player on the y axis. ",
-      "The Number of minutes played is highest at NBA player Kareem Abdul-Jabbar and lowest at NBA player Bill Russell. ",
-      "The Number of minutes played of NBA player Bill Russell is 1.41% smaller than the maximum value at Kareem Abdul-Jabbar. "
+      "This is a bar chart. It shows Number of minutes played for 30 number of NBA players. ",
+      "NBA player Kareem Abdul-Jabbar has the highest Number of minutes played and Bill Russell has the lowest Number of minutes played. ",
+      "The difference of Number of minutes played between the highest and lowest NBA player is 16720.0. "
    ],
    "max_summary": [
-      "This is a bar chart representing NBA player in the x axis and Number of minutes played in the y axis. ",
-      "The Number of minutes played is highest at NBA player Kareem Abdul-Jabbar and lowest at NBA player Bill Russell. ",
-      "There is a difference of 16720.0 between the maximum NBA player Kareem Abdul-Jabbar and minimum NBA player Bill Russell. ",
+      "This is a bar chart. It shows Number of minutes played for 30 number of NBA players. ",
+      "NBA player Kareem Abdul-Jabbar has the highest Number of minutes played and Bill Russell has the lowest Number of minutes played. ",
+      "The second highest Number of minutes played is appeared to be the NBA player Karl Malone. ",
+      "The highest NBA player Kareem Abdul-Jabbar has 16720.0 more Number of minutes played than the lowest NBA player Bill Russell. ",
       "The NBA player Kareem Abdul-Jabbar has the highest Number of minutes played, followed by Karl Malone, and Dirk Nowitzki. Down to the NBA player Bill Russell which is the lowest. ",
       "Considered together, the average Number of minutes played in all 30 NBA players is roughly 46312.27. ",
       "The Number of minutes played is 1389368.0 if we add up values of all NBA players. "

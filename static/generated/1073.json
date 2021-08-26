@@ -6,28 +6,26 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 10 columns on the x axis representing Quarter, and Estimated share of e-commerce in total sales in each Quarter on the y axis. ",
-      "Quarter Q4 '19 has the highest Estimated share of e-commerce in total sales and Q4 '10 has the lowest Estimated share of e-commerce in total sales. ",
-      "The difference of Estimated share of e-commerce in total sales between the highest and lowest Quarter is 6.9. "
+      "This is a bar chart. It shows Estimated share of e-commerce in total sales for 10 number of Quarters. ",
+      "The Estimated share of e-commerce in total sales is appeared to be the highest at Quarter Q4 '19 and lowest at Quarter Q4 '10. ",
+      "The highest value at Quarter Q4 '19 is 2.5x times more than the lowest value at Q4 '10. "
    ],
    "min_summary": [
-      "This is a bar chart representing Quarter in the x axis and Estimated share of e-commerce in total sales in the y axis. ",
-      "The Estimated share of e-commerce in total sales is highest at Quarter Q4 '19 and lowest at Quarter Q4 '10. "
+      "This bar chart has 10 columns on the x axis representing Quarter, and Estimated share of e-commerce in total sales in each Quarter on the y axis. ",
+      "The Estimated share of e-commerce in total sales is appeared to be the highest at Quarter Q4 '19 and lowest at Quarter Q4 '10. "
    ],
    "mid_summary": [
-      "This bar chart has 10 columns on the x axis representing Quarter, and Estimated share of e-commerce in total sales in each Quarter on the y axis. ",
-      "Quarter Q4 '19 has the highest Estimated share of e-commerce in total sales and Q4 '10 has the lowest Estimated share of e-commerce in total sales. ",
-      "The difference of Estimated share of e-commerce in total sales between the highest and lowest Quarter is 6.9. "
+      "This is a bar chart. It shows Estimated share of e-commerce in total sales for 10 number of Quarters. ",
+      "The Estimated share of e-commerce in total sales is appeared to be the highest at Quarter Q4 '19 and lowest at Quarter Q4 '10. ",
+      "The highest value at Quarter Q4 '19 is 2.5x times more than the lowest value at Q4 '10. "
    ],
    "max_summary": [
       "This bar chart has 10 columns on the x axis representing Quarter, and Estimated share of e-commerce in total sales in each Quarter on the y axis. ",
-      "The maximum Estimated share of e-commerce in total sales 11.5 is found at Quarter Q4 '19 and the minimum is found at Q4 '10 where Quarter is 4.6. ",
-      "Quarter Q4 '18 has the second highest value for Estimated share of e-commerce in total sales. ",
-      "There is a difference of 6.9 between the maximum Quarter Q4 '19 and minimum Quarter Q4 '10. ",
-      "Estimated share of e-commerce in total sales at Quarter Q4 '19 is 11.5 , second place is Q4 '18 at 10.1, and thirdly is Q4 '17 at 9.1.",
-      "The Estimated share of e-commerce in total sales has decreased over the past 10 Quarters. ",
-      "The lowest value 4.6 at Q4 '10 is almost 1.55 times smaller than the average value 7.43. ",
-      "The Estimated share of e-commerce in total sales is 74.3 if we add up values of all Quarters. "
+      "The Estimated share of e-commerce in total sales is appeared to be the highest at Quarter Q4 '19 and lowest at Quarter Q4 '10. ",
+      "The highest Quarter Q4 '19 has 6.9 more Estimated share of e-commerce in total sales than the lowest Quarter Q4 '10. ",
+      "Quarter Q4 '19 is higher than any other Quarters with value 11.5, followed by Q4 '18, and Q4 '17. Down to Quarter Q4 '10 with the lowest value 4.6. ",
+      "The Estimated share of e-commerce in total sales has declined over the past 10 Quarters. ",
+      "The Quarter Q4 '10 has 1.55 times less Estimated share of e-commerce in total sales than average. "
    ],
    "trends": [
       {},

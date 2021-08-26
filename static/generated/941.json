@@ -7,27 +7,27 @@
    "summaryType": "baseline",
    "summary": [
       "This is a bar chart representing Month in the x axis and Value of wealth in billion euros in the y axis. ",
-      "The maximum Value of wealth in billion euros 25.1 is found at Month Liliane Bettencourt (L\u2019Or\u00e9al France) and the minimum is found at Elisabeth Mohn (Bertelsmann Germany) where Month is 4.3. ",
-      "The difference of Value of wealth in billion euros between the highest and lowest Month is 20.8. "
+      "Month Liliane Bettencourt (L\u2019Or\u00e9al France) has the highest Value of wealth in billion euros and Elisabeth Mohn (Bertelsmann Germany) has the lowest Value of wealth in billion euros. ",
+      "The lowest value at Month Elisabeth Mohn (Bertelsmann Germany) is 5.84x times less than the highest value at Liliane Bettencourt (L\u2019Or\u00e9al France). "
    ],
    "min_summary": [
-      "This is a bar chart representing Month in the x axis and Value of wealth in billion euros in the y axis. ",
+      "This bar chart has 10 columns on the x axis representing Month, and Value of wealth in billion euros in each Month on the y axis. ",
       "The Value of wealth in billion euros is appeared to be the highest at Month Liliane Bettencourt (L\u2019Or\u00e9al France) and lowest at Month Elisabeth Mohn (Bertelsmann Germany). "
    ],
    "mid_summary": [
       "This is a bar chart representing Month in the x axis and Value of wealth in billion euros in the y axis. ",
-      "The maximum Value of wealth in billion euros 25.1 is found at Month Liliane Bettencourt (L\u2019Or\u00e9al France) and the minimum is found at Elisabeth Mohn (Bertelsmann Germany) where Month is 4.3. ",
-      "The difference of Value of wealth in billion euros between the highest and lowest Month is 20.8. "
+      "Month Liliane Bettencourt (L\u2019Or\u00e9al France) has the highest Value of wealth in billion euros and Elisabeth Mohn (Bertelsmann Germany) has the lowest Value of wealth in billion euros. ",
+      "The lowest value at Month Elisabeth Mohn (Bertelsmann Germany) is 5.84x times less than the highest value at Liliane Bettencourt (L\u2019Or\u00e9al France). "
    ],
    "max_summary": [
-      "This is a bar chart representing Month in the x axis and Value of wealth in billion euros in the y axis. ",
-      "The Value of wealth in billion euros is appeared to be the highest at Month Liliane Bettencourt (L\u2019Or\u00e9al France) and lowest at Month Elisabeth Mohn (Bertelsmann Germany). ",
-      "There is a difference of 20.8 between the maximum Month Liliane Bettencourt (L\u2019Or\u00e9al France) and minimum Month Elisabeth Mohn (Bertelsmann Germany). ",
-      "Value of wealth in billion euros at Month Liliane Bettencourt (L\u2019Or\u00e9al France) is 25.1 , second place is Susanne Klatten (BMW Germany) at 13.1, and thirdly is Johanna Quandt (BMW Germany) at 10.7.",
-      "Overall Value of wealth in billion euros has reduced over the Months. ",
-      "Month Margarita Louis Dreyfus (Louis Dreyfus Switzerland), and Antonia Axson Johnson (Axel Johnson Group Sweden) have the same Value of wealth in billion euros. ",
-      "Considered together, the average Value of wealth in billion euros in all 10 Months is roughly 8.68. ",
-      "Summing up the values of all Months, we get total 86.8. "
+      "This is a bar chart. It shows Value of wealth in billion euros for 10 number of Months. ",
+      "Month Liliane Bettencourt (L\u2019Or\u00e9al France) has the highest Value of wealth in billion euros and Elisabeth Mohn (Bertelsmann Germany) has the lowest Value of wealth in billion euros. ",
+      "Month Susanne Klatten (BMW Germany) has the second highest value for Value of wealth in billion euros. ",
+      "Month Liliane Bettencourt (L\u2019Or\u00e9al France) has 5.84 times more Value of wealth in billion euros than Month Elisabeth Mohn (Bertelsmann Germany) which is has the lowest. ",
+      "Month Liliane Bettencourt (L\u2019Or\u00e9al France) is higher than any other Months with value 25.1, followed by Susanne Klatten (BMW Germany), and Johanna Quandt (BMW Germany). Down to Month Elisabeth Mohn (Bertelsmann Germany) with the lowest value 4.3. ",
+      "The Value of wealth in billion euros has decreased over the past 10 Months. ",
+      "Similar Value of wealth in billion euros is found in Month Margarita Louis Dreyfus (Louis Dreyfus Switzerland), and Antonia Axson Johnson (Axel Johnson Group Sweden). ",
+      "The Month Elisabeth Mohn (Bertelsmann Germany) tends to be 2.89 percent lower than average. "
    ],
    "trends": [
       {},

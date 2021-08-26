@@ -7,24 +7,26 @@
    "summaryType": "baseline",
    "summary": [
       "This is a bar chart representing Country in the x axis and Prize money in million U.S. dollars in the y axis. ",
-      "The maximum Prize money in million U.S. dollars 28.07 is found at Country United States and the minimum is found at Germany where Country is 4.16. ",
-      "There is a difference of 23.91 between the maximum Country United States and minimum Country Germany. "
+      "Country United States has the highest Prize money in million U.S. dollars and Germany has the lowest Prize money in million U.S. dollars. ",
+      "The highest Country United States has 23.91 more Prize money in million U.S. dollars than the lowest Country Germany. "
    ],
    "min_summary": [
-      "This bar chart has 10 columns on the x axis representing Country, and Prize money in million U.S. dollars in each Country on the y axis. ",
+      "This is a bar chart. It shows Prize money in million U.S. dollars for 10 number of Countrys. ",
       "The Prize money in million U.S. dollars is highest at Country United States and lowest at Country Germany. "
    ],
    "mid_summary": [
       "This is a bar chart representing Country in the x axis and Prize money in million U.S. dollars in the y axis. ",
-      "The maximum Prize money in million U.S. dollars 28.07 is found at Country United States and the minimum is found at Germany where Country is 4.16. ",
-      "There is a difference of 23.91 between the maximum Country United States and minimum Country Germany. "
+      "Country United States has the highest Prize money in million U.S. dollars and Germany has the lowest Prize money in million U.S. dollars. ",
+      "The highest Country United States has 23.91 more Prize money in million U.S. dollars than the lowest Country Germany. "
    ],
    "max_summary": [
-      "This is a bar chart. It shows Prize money in million U.S. dollars for 10 number of Countrys. ",
-      "The maximum Prize money in million U.S. dollars 28.07 is found at Country United States and the minimum is found at Germany where Country is 4.16. ",
-      "Country United States has 6.75 times more Prize money in million U.S. dollars than Country Germany which is has the lowest. ",
-      "The Country United States has the highest Prize money in million U.S. dollars, followed by China, and South Korea. Down to the Country Germany which is the lowest. ",
-      "The Country Germany has 2.72 times less Prize money in million U.S. dollars than average. "
+      "This bar chart has 10 columns on the x axis representing Country, and Prize money in million U.S. dollars in each Country on the y axis. ",
+      "Country United States has the highest Prize money in million U.S. dollars and Germany has the lowest Prize money in million U.S. dollars. ",
+      "Country China has the second highest value for Prize money in million U.S. dollars. ",
+      "The highest value at Country United States is 6.75x times more than the lowest value at Germany. ",
+      "Prize money in million U.S. dollars at Country United States is 28.07 , second place is China at 16.02, and thirdly is South Korea at 13.54.",
+      "The highest value 28.07 at United States is almost 2.72 times larger than the average value 10.34. ",
+      "The Prize money in million U.S. dollars is 103.37 if we add up values of all Countrys. "
    ],
    "trends": [
       {},

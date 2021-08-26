@@ -10,9 +10,9 @@
    "summaryType": "baseline",
    "summary": [
       "Overall Home Depot, and Lowe's are gradually increasing,  throughout the Year",
-      "The ranking of the lines from topmost to botommmost is as follows: 1. Home Depot, and lastly, 2. Lowe's. ",
-      "The minimum SOME LABEL about 804.0, occured at 2012 by Lowe's.",
-      "The difference of SOME LABEL between Home Depot and Lowe's is greater at Year 2018 compared to the Year 2012."
+      "The order of lines according to average values of SOME LABEL, in descending order is: 1. Home Depot, and lastly, 2. Lowe's. ",
+      "Lowe's reported the lowest SOME LABEL about 828.0 in Year 2013",
+      "The difference of SOME LABEL between Home Depot and Lowe's is greater at Year 2017 compared to the Year 2013."
    ],
    "xAxis": "Year",
    "yAxis": "SOME LABEL",
@@ -24,51 +24,11 @@
    ],
    "max_summary": [
       "Overall Home Depot, and Lowe's are gradually increasing,  throughout the Year",
-      "Lowe's reported the lowest SOME LABEL about 804.0 in Year 2012",
-      "The greatest difference of SOME LABEL between Home Depot and Lowe's occurs at Year 2018 and the smallest difference occurs at 2012."
+      "The minimum SOME LABEL about 828.0, occured at 2013 by Lowe's.",
+      "The difference of SOME LABEL between Home Depot and Lowe's is greater at Year 2017 compared to the Year 2013."
    ],
    "trends": [
-      {},
-      {
-         "2": [
-            "0",
-            "0"
-         ],
-         "16": [
-            "7",
-            "0"
-         ]
-      },
-      {
-         "1": [
-            "6",
-            "0"
-         ],
-         "9": [
-            "6",
-            "0"
-         ]
-      },
-      {
-         "2": [
-            "0",
-            "1"
-         ],
-         "15": [
-            "7",
-            "1"
-         ]
-      },
-      {
-         "1": [
-            "5",
-            "1"
-         ],
-         "10": [
-            "5",
-            "1"
-         ]
-      }
+      {}
    ],
    "data": [
       {

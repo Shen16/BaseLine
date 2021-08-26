@@ -8,65 +8,14 @@
    "columnType": "multi",
    "graphType": "line",
    "summaryType": "baseline",
-   "summary": [
-      "Overall Domestic market, and Total market are roughly constant,  throughout the Year",
-      "The ranking of the lines from topmost to botommmost is as follows: 1. Total market, and lastly, 2. Domestic market. ",
-      "The greatest difference of SOME LABEL between Domestic market and Total market occurs at Year 2013 and the smallest difference occurs at 2013."
-   ],
+   "summary": [],
    "xAxis": "Year",
    "yAxis": "SOME LABEL",
-   "min_summary": [
-      "Overall Domestic market, and Total market are roughly constant,  throughout the Year"
-   ],
-   "mid_summary": [
-      "Overall Domestic market, and Total market are roughly constant,  throughout the Year"
-   ],
-   "max_summary": [
-      "Overall Domestic market, and Total market are roughly constant,  throughout the Year",
-      "The greatest difference of SOME LABEL between Domestic market and Total market occurs at Year 2013 and the smallest difference occurs at 2013."
-   ],
+   "min_summary": [],
+   "mid_summary": [],
+   "max_summary": [],
    "trends": [
-      {},
-      {
-         "2": [
-            "0",
-            "1"
-         ],
-         "16": [
-            "4",
-            "1"
-         ]
-      },
-      {
-         "1": [
-            "0",
-            "1"
-         ],
-         "9": [
-            "0",
-            "1"
-         ]
-      },
-      {
-         "2": [
-            "0",
-            "0"
-         ],
-         "15": [
-            "4",
-            "0"
-         ]
-      },
-      {
-         "1": [
-            "0",
-            "0"
-         ],
-         "10": [
-            "0",
-            "0"
-         ]
-      }
+      {}
    ],
    "data": [
       {

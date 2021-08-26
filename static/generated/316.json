@@ -9,64 +9,28 @@
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "Overall Total attendance is gradually increasing, Average attendance is roughly constant,  throughout the Year",
-      "The ranking of the lines from topmost to botommmost is as follows: 1. Total attendance, and lastly, 2. Average attendance. ",
-      "The greatest difference of Home attendance between Total attendance and Average attendance occurs at Year 2013/!4 and the smallest difference occurs at 2012/13."
+      " Overall Home attendance has decreased over the Year.",
+      "Home attendance is slightly decreasing from 2013/!4 to 2014/15, and lastly roughly constant from 2014/15 to 2017/18.",
+      "Maximum Home attendance, about 927545.0 was reported at Year 2013/!4",
+      "Minimum Home attendance about 887794.0 was reached at Year 2017/18"
    ],
    "xAxis": "Year",
    "yAxis": "Home attendance",
    "min_summary": [
-      "Overall Total attendance is gradually increasing, Average attendance is roughly constant,  throughout the Year"
+      " Overall Home attendance has decreased over the Year."
    ],
    "mid_summary": [
-      "Overall Total attendance is gradually increasing, Average attendance is roughly constant,  throughout the Year"
+      " In general Home attendance has stayed the same over the Year.",
+      "Home attendance is slightly decreasing from 2013/!4 to 2014/15, and lastly roughly constant from 2014/15 to 2017/18."
    ],
    "max_summary": [
-      "Overall Total attendance is gradually increasing, Average attendance is roughly constant,  throughout the Year",
-      "The greatest difference of Home attendance between Total attendance and Average attendance occurs at Year 2013/!4 and the smallest difference occurs at 2012/13."
+      " In general Home attendance has stayed the same over the Year.",
+      "Home attendance is slightly decreasing from 2013/!4 to 2014/15, and lastly roughly constant from 2014/15 to 2017/18.",
+      "Maximum Home attendance, about 927545.0 was reported at Year 2013/!4",
+      "Minimum Home attendance about 887794.0 was reached at Year 2017/18"
    ],
    "trends": [
-      {},
-      {
-         "2": [
-            "0",
-            "0"
-         ],
-         "16": [
-            "13",
-            "0"
-         ]
-      },
-      {
-         "1": [
-            "8",
-            "0"
-         ],
-         "9": [
-            "8",
-            "0"
-         ]
-      },
-      {
-         "2": [
-            "0",
-            "1"
-         ],
-         "15": [
-            "13",
-            "1"
-         ]
-      },
-      {
-         "1": [
-            "8",
-            "1"
-         ],
-         "10": [
-            "8",
-            "1"
-         ]
-      }
+      {}
    ],
    "data": [
       {

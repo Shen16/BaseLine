@@ -7,8 +7,8 @@
    "summaryType": "baseline",
    "summary": [
       "This is a bar chart representing Country in the x axis and Revenue share in the y axis. ",
-      "Country Asia (excluding Japan) has the highest Revenue share and Japan has the lowest Revenue share. ",
-      "The difference of Revenue share between the highest and lowest Country is 22.0. "
+      "The Revenue share is appeared to be the highest at Country Asia (excluding Japan) and lowest at Country Japan. ",
+      "The highest Country Asia (excluding Japan) has 22.0 more Revenue share than the lowest Country Japan. "
    ],
    "min_summary": [
       "This is a bar chart. It shows Revenue share for 6 number of Countrys. ",
@@ -16,17 +16,17 @@
    ],
    "mid_summary": [
       "This is a bar chart representing Country in the x axis and Revenue share in the y axis. ",
-      "Country Asia (excluding Japan) has the highest Revenue share and Japan has the lowest Revenue share. ",
-      "The difference of Revenue share between the highest and lowest Country is 22.0. "
+      "The Revenue share is appeared to be the highest at Country Asia (excluding Japan) and lowest at Country Japan. ",
+      "The highest Country Asia (excluding Japan) has 22.0 more Revenue share than the lowest Country Japan. "
    ],
    "max_summary": [
-      "This is a bar chart. It shows Revenue share for 6 number of Countrys. ",
-      "The Revenue share is highest at Country Asia (excluding Japan) and lowest at Country Japan. ",
-      "Country United States has the second highest value for Revenue share. ",
-      "The difference of Revenue share between the highest and lowest Country is 22.0. ",
+      "This bar chart has 6 columns on the x axis representing Country, and Revenue share in each Country on the y axis. ",
+      "The maximum Revenue share 29.0 is found at Country Asia (excluding Japan) and the minimum is found at Japan where Country is 7.0. ",
+      "Second maximum Revenue share is found at Country United States. ",
+      "Country Japan has 4.14 times less Revenue share than Country Asia (excluding Japan) which is the highest. ",
       "Revenue share at Country Asia (excluding Japan) is 29.0 , second place is United States at 24.0, and thirdly is Europe (excluding France) at 19.0.",
       "The Country Asia (excluding Japan) tends to be 1.74 percent higher than average. ",
-      "The Revenue share is 100.0 if we add up values of all Countrys. "
+      "Summing up the values of all Countrys, we get total 100.0. "
    ],
    "trends": [
       {},

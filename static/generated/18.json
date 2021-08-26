@@ -9,66 +9,26 @@
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "Overall Private sector is gradually increasing, Public sector is roughly constant,  throughout the Year",
+      "Overall Private sector is gradually decreasing, Public sector is roughly constant,  throughout the Year",
       "The ranking of the lines from topmost to botommmost is as follows: 1. Private sector, and lastly, 2. Public sector. ",
-      "Public sector reported the lowest Value in billion USD about 271.0 in Year '13",
-      "The difference of Value in billion USD between Public sector and Private sector is greater at Year '18 compared to the Year '12."
+      "The minimum Value in billion USD about 155.0, occured at '98 by Public sector.",
+      "The greatest difference of Value in billion USD between Public sector and Private sector occurs at Year '18 and the smallest difference occurs at '10."
    ],
    "xAxis": "Year",
    "yAxis": "Value in billion USD",
    "min_summary": [
-      "Overall Private sector is gradually increasing, Public sector is roughly constant,  throughout the Year"
+      "Overall Private sector is gradually decreasing, Public sector is roughly constant,  throughout the Year"
    ],
    "mid_summary": [
-      "Overall Private sector is gradually increasing, Public sector is roughly constant,  throughout the Year"
+      "Overall Private sector is gradually decreasing, Public sector is roughly constant,  throughout the Year"
    ],
    "max_summary": [
-      "Overall Private sector is gradually increasing, Public sector is roughly constant,  throughout the Year",
-      "Public sector reported the lowest Value in billion USD about 271.0 in Year '13",
-      "The difference of Value in billion USD between Public sector and Private sector is greater at Year '18 compared to the Year '12."
+      "Overall Private sector is gradually decreasing, Public sector is roughly constant,  throughout the Year",
+      "Public sector reported the lowest Value in billion USD about 155.0 in Year '98",
+      "The difference of Value in billion USD between Public sector and Private sector is smaller at Year '98 compared to the Year '00."
    ],
    "trends": [
-      {},
-      {
-         "2": [
-            "0",
-            "1"
-         ],
-         "16": [
-            "20",
-            "1"
-         ]
-      },
-      {
-         "1": [
-            "6",
-            "1"
-         ],
-         "9": [
-            "6",
-            "1"
-         ]
-      },
-      {
-         "2": [
-            "0",
-            "0"
-         ],
-         "15": [
-            "20",
-            "0"
-         ]
-      },
-      {
-         "1": [
-            "6",
-            "0"
-         ],
-         "10": [
-            "6",
-            "0"
-         ]
-      }
+      {}
    ],
    "data": [
       {

@@ -11,7 +11,7 @@
    "summary": [
       "Overall Men, and Women are roughly constant,  throughout the Year",
       "The order of lines according to average values of Life expectancy in years, in descending order is: 1. Women, and lastly, 2. Men. ",
-      "The difference of Life expectancy in years between Men and Women is roughly same at Year 2013-2017 compared to the Year 2012-2016."
+      "The difference of Life expectancy in years between Men and Women is roughly same at Year 2012-2016 compared to the Year 2010-2014."
    ],
    "xAxis": "Year",
    "yAxis": "Life expectancy in years",
@@ -23,50 +23,10 @@
    ],
    "max_summary": [
       "Overall Men, and Women are roughly constant,  throughout the Year",
-      "The greatest difference of Life expectancy in years between Men and Women occurs at Year 2012-2016 and the smallest difference occurs at 2013-2017."
+      "The greatest difference of Life expectancy in years between Men and Women occurs at Year 2010-2014 and the smallest difference occurs at 2012-2016."
    ],
    "trends": [
-      {},
-      {
-         "2": [
-            "0",
-            "1"
-         ],
-         "16": [
-            "6",
-            "1"
-         ]
-      },
-      {
-         "1": [
-            "1",
-            "1"
-         ],
-         "9": [
-            "1",
-            "1"
-         ]
-      },
-      {
-         "2": [
-            "0",
-            "0"
-         ],
-         "15": [
-            "6",
-            "0"
-         ]
-      },
-      {
-         "1": [
-            "1",
-            "0"
-         ],
-         "10": [
-            "1",
-            "0"
-         ]
-      }
+      {}
    ],
    "data": [
       {

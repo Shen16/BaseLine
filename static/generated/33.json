@@ -8,7 +8,7 @@
    "summary": [
       "This bar chart has 30 columns on the x axis representing Country, and Number of reactors in each Country on the y axis. ",
       "The Number of reactors is highest at Country United States and lowest at Country Iran. ",
-      "Country United States has 97.0 times more Number of reactors than Country Iran which is has the lowest. "
+      "The difference of Number of reactors between the highest and lowest Country is 96.0. "
    ],
    "min_summary": [
       "This is a bar chart. It shows Number of reactors for 30 number of Countrys. ",
@@ -17,16 +17,16 @@
    "mid_summary": [
       "This bar chart has 30 columns on the x axis representing Country, and Number of reactors in each Country on the y axis. ",
       "The Number of reactors is highest at Country United States and lowest at Country Iran. ",
-      "Country United States has 97.0 times more Number of reactors than Country Iran which is has the lowest. "
+      "The difference of Number of reactors between the highest and lowest Country is 96.0. "
    ],
    "max_summary": [
-      "This is a bar chart representing Country in the x axis and Number of reactors in the y axis. ",
-      "The maximum Number of reactors 97.0 is found at Country United States and the minimum is found at Iran where Country is 1.0. ",
-      "The second highest Number of reactors is appeared to be the Country France. ",
-      "The difference of Number of reactors between the highest and lowest Country is 96.0. ",
-      "The Country United States has the highest Number of reactors, followed by France, and China. Down to the Country Iran which is the lowest. ",
-      "Country Mexico, Romania, South Africa, Brazil, and Bulgaria have a similar Number of reactors that is 2.0. ",
-      "The Country Iran has 6.58 times less Number of reactors than average. "
+      "This bar chart has 30 columns on the x axis representing Country, and Number of reactors in each Country on the y axis. ",
+      "The Number of reactors is appeared to be the highest at Country United States and lowest at Country Iran. ",
+      "There is a difference of 96.0 between the maximum Country United States and minimum Country Iran. ",
+      "Country United States is higher than any other Countrys with value 97.0, followed by France, and China. Down to Country Iran with the lowest value 1.0. ",
+      "Country Mexico, Romania, South Africa, Brazil, and Bulgaria share the same value 2.0. ",
+      "The highest value 97.0 at United States is almost 6.58 times larger than the average value 14.73. ",
+      "Summing up the values of all Countrys, we get total 442.0. "
    ],
    "trends": [
       {},

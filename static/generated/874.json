@@ -6,25 +6,26 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This is a bar chart representing Device in the x axis and Number of visits in the y axis. ",
-      "The Number of visits is highest at Device Smartphone and lowest at Device Tablet. ",
-      "There is a difference of 16.5 between the maximum Device Smartphone and minimum Device Tablet. "
+      "This is a bar chart. It shows Number of visits for 4 number of Devices. ",
+      "Device Smartphone has the highest Number of visits and Tablet has the lowest Number of visits. ",
+      "The highest value at Device Smartphone is 14.75x times more than the lowest value at Tablet. "
    ],
    "min_summary": [
       "This bar chart has 4 columns on the x axis representing Device, and Number of visits in each Device on the y axis. ",
       "The maximum Number of visits 17.7 is found at Device Smartphone and the minimum is found at Tablet where Device is 1.2. "
    ],
    "mid_summary": [
-      "This is a bar chart representing Device in the x axis and Number of visits in the y axis. ",
-      "The Number of visits is highest at Device Smartphone and lowest at Device Tablet. ",
-      "There is a difference of 16.5 between the maximum Device Smartphone and minimum Device Tablet. "
+      "This is a bar chart. It shows Number of visits for 4 number of Devices. ",
+      "Device Smartphone has the highest Number of visits and Tablet has the lowest Number of visits. ",
+      "The highest value at Device Smartphone is 14.75x times more than the lowest value at Tablet. "
    ],
    "max_summary": [
-      "This is a bar chart. It shows Number of visits for 4 number of Devices. ",
-      "The maximum Number of visits 17.7 is found at Device Smartphone and the minimum is found at Tablet where Device is 1.2. ",
+      "This is a bar chart representing Device in the x axis and Number of visits in the y axis. ",
+      "The Number of visits is highest at Device Smartphone and lowest at Device Tablet. ",
+      "The second highest Number of visits is appeared to be the Device Mobile-only. ",
       "The highest Device Smartphone has 16.5 more Number of visits than the lowest Device Tablet. ",
-      "Number of visits at Device Smartphone is 17.7 , second place is Mobile-only at 16.6, and thirdly is Desktop at 6.8.",
-      "The average Number of visits in all 4 Devices is 10.57. "
+      "The Device Smartphone has the highest Number of visits, followed by Mobile-only, and Desktop. Down to the Device Tablet which is the lowest. ",
+      "The Device Smartphone tends to be 1.67 percent higher than average. "
    ],
    "trends": [
       {},

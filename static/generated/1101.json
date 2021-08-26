@@ -6,27 +6,27 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 5 columns on the x axis representing Country, and Sales share in each Country on the y axis. ",
-      "The Sales share is highest at Country Germany and lowest at Country United Kingdom. ",
-      "Country United Kingdom has 2.5 times less Sales share than Country Germany which is the highest. "
+      "This is a bar chart. It shows Sales share for 5 number of Countrys. ",
+      "The maximum Sales share 15.0 is found at Country Germany and the minimum is found at United Kingdom where Country is 6.0. ",
+      "The highest Country Germany has 9.0 more Sales share than the lowest Country United Kingdom. "
    ],
    "min_summary": [
-      "This is a bar chart representing Country in the x axis and Sales share in the y axis. ",
-      "The maximum Sales share 15.0 is found at Country Germany and the minimum is found at United Kingdom where Country is 6.0. "
+      "This bar chart has 5 columns on the x axis representing Country, and Sales share in each Country on the y axis. ",
+      "Country Germany has the highest Sales share and United Kingdom has the lowest Sales share. "
    ],
    "mid_summary": [
-      "This bar chart has 5 columns on the x axis representing Country, and Sales share in each Country on the y axis. ",
-      "The Sales share is highest at Country Germany and lowest at Country United Kingdom. ",
-      "Country United Kingdom has 2.5 times less Sales share than Country Germany which is the highest. "
+      "This is a bar chart. It shows Sales share for 5 number of Countrys. ",
+      "The maximum Sales share 15.0 is found at Country Germany and the minimum is found at United Kingdom where Country is 6.0. ",
+      "The highest Country Germany has 9.0 more Sales share than the lowest Country United Kingdom. "
    ],
    "max_summary": [
-      "This bar chart has 5 columns on the x axis representing Country, and Sales share in each Country on the y axis. ",
+      "This is a bar chart representing Country in the x axis and Sales share in the y axis. ",
       "The Sales share is highest at Country Germany and lowest at Country United Kingdom. ",
-      "Second maximum Sales share is found at Country United States. ",
-      "There is a difference of 9.0 between the maximum Country Germany and minimum Country United Kingdom. ",
+      "Country United States has the second highest value for Sales share. ",
+      "The difference of Sales share between the highest and lowest Country is 9.0. ",
       "Sales share at Country Germany is 15.0 , second place is United States at 13.0, and thirdly is France at 8.0.",
-      "Country United Kingdom, and China have a similar Sales share that is 6.0. ",
-      "The Country United Kingdom has 1.56 times less Sales share than average. ",
+      "Country United Kingdom, and China share the same value 6.0. ",
+      "The lowest value 6.0 at United Kingdom is almost 1.56 times smaller than the average value 9.6. ",
       "The Sales share is 48.0 if we add up values of all Countrys. "
    ],
    "trends": [

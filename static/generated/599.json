@@ -6,25 +6,26 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 8 columns on the x axis representing Number of cigarettes, and Share of respondents in each Number of cigarettes on the y axis. ",
-      "The Share of respondents is highest at Number of cigarettes 6 to 10 and lowest at Number of cigarettes 31 to 50. ",
-      "The highest Number of cigarettes 6 to 10 has 22.0 more Share of respondents than the lowest Number of cigarettes 31 to 50. "
+      "This is a bar chart representing Number of cigarettes in the x axis and Share of respondents in the y axis. ",
+      "Number of cigarettes 6 to 10 has the highest Share of respondents and 31 to 50 has the lowest Share of respondents. ",
+      "The lowest value at Number of cigarettes 31 to 50 is 12.0x times less than the highest value at 6 to 10. "
    ],
    "min_summary": [
-      "This is a bar chart representing Number of cigarettes in the x axis and Share of respondents in the y axis. ",
-      "Number of cigarettes 6 to 10 has the highest Share of respondents and 31 to 50 has the lowest Share of respondents. "
+      "This bar chart has 8 columns on the x axis representing Number of cigarettes, and Share of respondents in each Number of cigarettes on the y axis. ",
+      "The Share of respondents is appeared to be the highest at Number of cigarettes 6 to 10 and lowest at Number of cigarettes 31 to 50. "
    ],
    "mid_summary": [
-      "This bar chart has 8 columns on the x axis representing Number of cigarettes, and Share of respondents in each Number of cigarettes on the y axis. ",
-      "The Share of respondents is highest at Number of cigarettes 6 to 10 and lowest at Number of cigarettes 31 to 50. ",
-      "The highest Number of cigarettes 6 to 10 has 22.0 more Share of respondents than the lowest Number of cigarettes 31 to 50. "
+      "This is a bar chart representing Number of cigarettes in the x axis and Share of respondents in the y axis. ",
+      "Number of cigarettes 6 to 10 has the highest Share of respondents and 31 to 50 has the lowest Share of respondents. ",
+      "The lowest value at Number of cigarettes 31 to 50 is 12.0x times less than the highest value at 6 to 10. "
    ],
    "max_summary": [
       "This is a bar chart representing Number of cigarettes in the x axis and Share of respondents in the y axis. ",
-      "The Share of respondents is appeared to be the highest at Number of cigarettes 6 to 10 and lowest at Number of cigarettes 31 to 50. ",
-      "The highest Number of cigarettes 6 to 10 has 22.0 more Share of respondents than the lowest Number of cigarettes 31 to 50. ",
-      "Share of respondents at Number of cigarettes 6 to 10 is 24.0 , second place is 1 to 5 at 23.0, and thirdly is 11 to 15 at 22.0.",
-      "Considered together, the average Share of respondents in all 8 Number of cigarettess is roughly 12.88. ",
+      "Number of cigarettes 6 to 10 has the highest Share of respondents and 31 to 50 has the lowest Share of respondents. ",
+      "The second highest Share of respondents is appeared to be the Number of cigarettes 1 to 5. ",
+      "The difference of Share of respondents between the highest and lowest Number of cigarettes is 22.0. ",
+      "Number of cigarettes 6 to 10 is higher than any other Number of cigarettess with value 24.0, followed by 1 to 5, and 11 to 15. Down to Number of cigarettes 31 to 50 with the lowest value 2.0. ",
+      "The Number of cigarettes 6 to 10 has 1.86 times more Share of respondents than average. ",
       "The Share of respondents is 103.0 if we add up values of all Number of cigarettess. "
    ],
    "trends": [

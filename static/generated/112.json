@@ -11,57 +11,28 @@
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "Operations reported the lowest Number of employees about 1857.0 in Year 2008"
+      " In general Number of employees has rose over the Year.",
+      "Number of employees is roughly constant from 2012 to 2013, and finally slightly increasing from 2013 to 2016.",
+      "Maximum Number of employees, about 27169.0 was reported at Year 2016",
+      "The lowest Number of employees, of value 18593.0 was reported at Year 2013"
    ],
    "xAxis": "Year",
    "yAxis": "Number of employees",
-   "min_summary": [],
-   "mid_summary": [],
+   "min_summary": [
+      " Overall Number of employees has increased over the Year."
+   ],
+   "mid_summary": [
+      " Overall Number of employees has increased over the Year.",
+      "Number of employees is roughly constant from 2012 to 2013, and finally slightly increasing from 2013 to 2016."
+   ],
    "max_summary": [
-      "The minimum Number of employees about 1857.0, occured at 2008 by Operations."
+      " Overall Number of employees has increased over the Year.",
+      "Number of employees is roughly constant from 2012 to 2013, and finally slightly increasing from 2013 to 2016.",
+      "Maximum Number of employees, about 27169.0 was reported at Year 2016",
+      "The lowest Number of employees, of value 18593.0 was reported at Year 2013"
    ],
    "trends": [
-      {},
-      {
-         "2": [
-            "0",
-            "1"
-         ],
-         "16": [
-            "8",
-            "1"
-         ]
-      },
-      {
-         "1": [
-            "0",
-            "1"
-         ],
-         "9": [
-            "0",
-            "1"
-         ]
-      },
-      {
-         "2": [
-            "0",
-            "0"
-         ],
-         "15": [
-            "8",
-            "0"
-         ]
-      },
-      {
-         "1": [
-            "0",
-            "0"
-         ],
-         "10": [
-            "0",
-            "0"
-         ]
-      }
+      {}
    ],
    "data": [
       {

@@ -9,64 +9,28 @@
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "Overall Male is gradually increasing, Female is roughly constant,  throughout the Year",
-      "The ranking of the lines from topmost to botommmost is as follows: 1. Male, and lastly, 2. Female. ",
-      "The difference of SOME LABEL between Male and Female is greater at Year 75_years_and_over compared to the Year 65_to_74_years."
+      " Overall SOME LABEL has increased over the Year.",
+      "SOME LABEL is slightly increasing from 35_to_54_years to 65_to_74_years, and finally roughly constant from 65_to_74_years to 75_years_and_over.",
+      "Maximum SOME LABEL, about 45.51 was reported at Year 75_years_and_over",
+      "Minimum SOME LABEL about 8.57 was reached at Year 35_to_54_years"
    ],
    "xAxis": "Year",
    "yAxis": "SOME LABEL",
    "min_summary": [
-      "Overall Male is gradually increasing, Female is roughly constant,  throughout the Year"
+      " In general SOME LABEL has rose over the Year."
    ],
    "mid_summary": [
-      "Overall Male is gradually increasing, Female is roughly constant,  throughout the Year"
+      " Overall SOME LABEL has increased over the Year.",
+      "SOME LABEL is slightly increasing from 35_to_54_years to 65_to_74_years, and finally roughly constant from 65_to_74_years to 75_years_and_over."
    ],
    "max_summary": [
-      "Overall Male is gradually increasing, Female is roughly constant,  throughout the Year",
-      "The greatest difference of SOME LABEL between Male and Female occurs at Year 75_years_and_over and the smallest difference occurs at 65_to_74_years."
+      " In general SOME LABEL has rose over the Year.",
+      "SOME LABEL is slightly increasing from 35_to_54_years to 65_to_74_years, and finally roughly constant from 65_to_74_years to 75_years_and_over.",
+      "Maximum SOME LABEL, about 45.51 was reported at Year 75_years_and_over",
+      "Minimum SOME LABEL about 8.57 was reached at Year 35_to_54_years"
    ],
    "trends": [
-      {},
-      {
-         "2": [
-            "0",
-            "0"
-         ],
-         "16": [
-            "4",
-            "0"
-         ]
-      },
-      {
-         "1": [
-            "1",
-            "0"
-         ],
-         "9": [
-            "1",
-            "0"
-         ]
-      },
-      {
-         "2": [
-            "0",
-            "1"
-         ],
-         "15": [
-            "4",
-            "1"
-         ]
-      },
-      {
-         "1": [
-            "0",
-            "1"
-         ],
-         "10": [
-            "0",
-            "1"
-         ]
-      }
+      {}
    ],
    "data": [
       {

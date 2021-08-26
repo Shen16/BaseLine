@@ -11,57 +11,24 @@
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "Latin America reported the lowest SOME LABEL about 2.01 in Year 2015"
+      "Overall North America, EMEA, and Asia Pacific are gradually increasing, Latin America is roughly constant,  throughout the Year",
+      "The ranking of the lines from topmost to botommmost is as follows: 1. EMEA, 2. North America, 3. Asia Pacific, and lastly, 4. Latin America. ",
+      "The minimum SOME LABEL about 1.62, occured at 2006 by Latin America."
    ],
    "xAxis": "Year",
    "yAxis": "SOME LABEL",
-   "min_summary": [],
-   "mid_summary": [],
+   "min_summary": [
+      "Overall North America, EMEA, and Asia Pacific are gradually increasing, Latin America is roughly constant,  throughout the Year"
+   ],
+   "mid_summary": [
+      "Overall North America, EMEA, and Asia Pacific are gradually increasing, Latin America is roughly constant,  throughout the Year"
+   ],
    "max_summary": [
-      "Latin America reported the lowest SOME LABEL about 2.01 in Year 2015"
+      "Overall North America, EMEA, and Asia Pacific are gradually increasing, Latin America is roughly constant,  throughout the Year",
+      "The minimum SOME LABEL about 1.62, occured at 2006 by Latin America."
    ],
    "trends": [
-      {},
-      {
-         "2": [
-            "0",
-            "1"
-         ],
-         "16": [
-            "9",
-            "1"
-         ]
-      },
-      {
-         "1": [
-            "0",
-            "1"
-         ],
-         "9": [
-            "0",
-            "1"
-         ]
-      },
-      {
-         "2": [
-            "0",
-            "0"
-         ],
-         "15": [
-            "9",
-            "0"
-         ]
-      },
-      {
-         "1": [
-            "0",
-            "0"
-         ],
-         "10": [
-            "0",
-            "0"
-         ]
-      }
+      {}
    ],
    "data": [
       {

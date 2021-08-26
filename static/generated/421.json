@@ -6,26 +6,26 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 9 columns on the x axis representing Type of crime, and Number of committed crimes in each Type of crime on the y axis. ",
-      "The maximum Number of committed crimes 7196045.0 is found at Type of crime Property crime  (total) and the minimum is found at Murder and nonnegligent manslaughter where Type of crime is 16214.0. ",
-      "The highest Type of crime Property crime  (total) has 7179831.0 more Number of committed crimes than the lowest Type of crime Murder and nonnegligent manslaughter. "
+      "This is a bar chart representing Type of crime in the x axis and Number of committed crimes in the y axis. ",
+      "The Number of committed crimes is highest at Type of crime Property crime  (total) and lowest at Type of crime Murder and nonnegligent manslaughter. ",
+      "The difference of Number of committed crimes between the highest and lowest Type of crime is 7179831.0. "
    ],
    "min_summary": [
-      "This is a bar chart. It shows Number of committed crimes for 9 number of Type of crimes. ",
+      "This is a bar chart representing Type of crime in the x axis and Number of committed crimes in the y axis. ",
       "Type of crime Property crime  (total) has the highest Number of committed crimes and Murder and nonnegligent manslaughter has the lowest Number of committed crimes. "
    ],
    "mid_summary": [
-      "This bar chart has 9 columns on the x axis representing Type of crime, and Number of committed crimes in each Type of crime on the y axis. ",
-      "The maximum Number of committed crimes 7196045.0 is found at Type of crime Property crime  (total) and the minimum is found at Murder and nonnegligent manslaughter where Type of crime is 16214.0. ",
-      "The highest Type of crime Property crime  (total) has 7179831.0 more Number of committed crimes than the lowest Type of crime Murder and nonnegligent manslaughter. "
+      "This is a bar chart representing Type of crime in the x axis and Number of committed crimes in the y axis. ",
+      "The Number of committed crimes is highest at Type of crime Property crime  (total) and lowest at Type of crime Murder and nonnegligent manslaughter. ",
+      "The difference of Number of committed crimes between the highest and lowest Type of crime is 7179831.0. "
    ],
    "max_summary": [
-      "This is a bar chart representing Type of crime in the x axis and Number of committed crimes in the y axis. ",
+      "This is a bar chart. It shows Number of committed crimes for 9 number of Type of crimes. ",
       "Type of crime Property crime  (total) has the highest Number of committed crimes and Murder and nonnegligent manslaughter has the lowest Number of committed crimes. ",
-      "The Number of committed crimes of Type of crime Murder and nonnegligent manslaughter is 443.82% smaller than the maximum value at Property crime  (total). ",
-      "Type of crime Property crime  (total) is higher than any other Type of crimes with value 7196045.0, followed by Larceny-theft, and Burglary. Down to Type of crime Murder and nonnegligent manslaughter with the lowest value 16214.0. ",
-      "The Type of crime Property crime  (total) has 3.84 times more Number of committed crimes than average. ",
-      "Summing up the values of all Type of crimes, we get total 16843991.0. "
+      "The second highest Number of committed crimes is appeared to be the Type of crime Larceny-theft. ",
+      "The difference of Number of committed crimes between the highest and lowest Type of crime is 7179831.0. ",
+      "The Type of crime Property crime  (total) has the highest Number of committed crimes, followed by Larceny-theft, and Burglary. Down to the Type of crime Murder and nonnegligent manslaughter which is the lowest. ",
+      "The Type of crime Property crime  (total) tends to be 3.84 percent higher than average. "
    ],
    "trends": [
       {},

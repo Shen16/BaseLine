@@ -11,64 +11,28 @@
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "Overall 50-64, and 65+ are gradually increasing, 18-29, and 30-49 are roughly constant,  throughout the Year",
-      "The order of lines according to average values of SOME LABEL, in descending order is: 1. 18-29, 2. 30-49, 3. 50-64, and lastly, 4. 65+. ",
-      "65+ reported the lowest SOME LABEL about 46.0 in Year 2017"
+      " Overall SOME LABEL has increased over the Year.",
+      "SOME LABEL is slightly increasing from 2016 to 2018.",
+      "The highest SOME LABEL, of value 96.0 was reached at Year 2018",
+      "The lowest SOME LABEL, of value 92.0 was reported at Year 2016"
    ],
    "xAxis": "Year",
    "yAxis": "SOME LABEL",
    "min_summary": [
-      "Overall 50-64, and 65+ are gradually increasing, 18-29, and 30-49 are roughly constant,  throughout the Year"
+      " Overall SOME LABEL has increased over the Year."
    ],
    "mid_summary": [
-      "Overall 50-64, and 65+ are gradually increasing, 18-29, and 30-49 are roughly constant,  throughout the Year"
+      " In general SOME LABEL has stayed the same over the Year.",
+      "SOME LABEL is slightly increasing from 2016 to 2018."
    ],
    "max_summary": [
-      "Overall 50-64, and 65+ are gradually increasing, 18-29, and 30-49 are roughly constant,  throughout the Year",
-      "The minimum SOME LABEL about 46.0, occured at 2017 by 65+."
+      " In general SOME LABEL has stayed the same over the Year.",
+      "SOME LABEL is slightly increasing from 2016 to 2018.",
+      "The highest SOME LABEL, of value 96.0 was reached at Year 2018",
+      "The lowest SOME LABEL, of value 92.0 was reported at Year 2016"
    ],
    "trends": [
-      {},
-      {
-         "2": [
-            "0",
-            "0"
-         ],
-         "16": [
-            "3",
-            "0"
-         ]
-      },
-      {
-         "1": [
-            "1",
-            "0"
-         ],
-         "9": [
-            "1",
-            "0"
-         ]
-      },
-      {
-         "2": [
-            "0",
-            "1"
-         ],
-         "15": [
-            "3",
-            "1"
-         ]
-      },
-      {
-         "1": [
-            "1",
-            "1"
-         ],
-         "10": [
-            "1",
-            "1"
-         ]
-      }
+      {}
    ],
    "data": [
       {

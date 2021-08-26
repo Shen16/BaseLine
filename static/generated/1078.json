@@ -7,26 +7,28 @@
    "summaryType": "baseline",
    "summary": [
       "This is a bar chart representing Quarter in the x axis and Revenue in billion U.S. dollars in the y axis. ",
-      "The maximum Revenue in billion U.S. dollars 87.44 is found at Quarter Q4 '19 and the minimum is found at Q2 '07 where Quarter is 2.89. ",
-      "The difference of Revenue in billion U.S. dollars between the highest and lowest Quarter is 84.55. "
+      "Quarter Q4 '19 has the highest Revenue in billion U.S. dollars and Q2 '07 has the lowest Revenue in billion U.S. dollars. ",
+      "The lowest value at Quarter Q2 '07 is 30.26x times less than the highest value at Q4 '19. "
    ],
    "min_summary": [
-      "This is a bar chart. It shows Revenue in billion U.S. dollars for 52 number of Quarters. ",
+      "This is a bar chart representing Quarter in the x axis and Revenue in billion U.S. dollars in the y axis. ",
       "The Revenue in billion U.S. dollars is appeared to be the highest at Quarter Q4 '19 and lowest at Quarter Q2 '07. "
    ],
    "mid_summary": [
       "This is a bar chart representing Quarter in the x axis and Revenue in billion U.S. dollars in the y axis. ",
-      "The maximum Revenue in billion U.S. dollars 87.44 is found at Quarter Q4 '19 and the minimum is found at Q2 '07 where Quarter is 2.89. ",
-      "The difference of Revenue in billion U.S. dollars between the highest and lowest Quarter is 84.55. "
+      "Quarter Q4 '19 has the highest Revenue in billion U.S. dollars and Q2 '07 has the lowest Revenue in billion U.S. dollars. ",
+      "The lowest value at Quarter Q2 '07 is 30.26x times less than the highest value at Q4 '19. "
    ],
    "max_summary": [
       "This is a bar chart. It shows Revenue in billion U.S. dollars for 52 number of Quarters. ",
-      "The Revenue in billion U.S. dollars is highest at Quarter Q4 '19 and lowest at Quarter Q2 '07. ",
-      "There is a difference of 84.55 between the maximum Quarter Q4 '19 and minimum Quarter Q2 '07. ",
-      "The Quarter Q4 '19 has the highest Revenue in billion U.S. dollars, followed by Q4 '18, and Q3 '19. Down to the Quarter Q2 '07 which is the lowest. ",
-      "The Revenue in billion U.S. dollars has lowered over the past 52 Quarters. ",
-      "Quarter Q3 '17, and Q4 '16 have a similar Revenue in billion U.S. dollars that is 43.74. ",
-      "The Quarter Q4 '19 has 3.5 times more Revenue in billion U.S. dollars than average. "
+      "The maximum Revenue in billion U.S. dollars 87.44 is found at Quarter Q4 '19 and the minimum is found at Q2 '07 where Quarter is 2.89. ",
+      "Quarter Q4 '18 has the second highest value for Revenue in billion U.S. dollars. ",
+      "Quarter Q2 '07 has 30.26 times less Revenue in billion U.S. dollars than Quarter Q4 '19 which is the highest. ",
+      "Quarter Q4 '19 is higher than any other Quarters with value 87.44, followed by Q4 '18, and Q3 '19. Down to Quarter Q2 '07 with the lowest value 2.89. ",
+      "Overall Revenue in billion U.S. dollars has decreased over the Quarters. ",
+      "Quarter Q3 '17, and Q4 '16 share the same value 43.74. ",
+      "The highest value 87.44 at Q4 '19 is almost 3.5 times larger than the average value 24.99. ",
+      "The Revenue in billion U.S. dollars is 1299.66 if we add up values of all Quarters. "
    ],
    "trends": [
       {},

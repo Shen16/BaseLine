@@ -6,27 +6,27 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This is a bar chart. It shows Annual loss in million U.S. dollars for 10 number of States. ",
-      "State California has the highest Annual loss in million U.S. dollars and Massachusetts has the lowest Annual loss in million U.S. dollars. ",
-      "The difference of Annual loss in million U.S. dollars between the highest and lowest State is 382.24. "
+      "This is a bar chart representing State in the x axis and Annual loss in million U.S. dollars in the y axis. ",
+      "The Annual loss in million U.S. dollars is appeared to be the highest at State California and lowest at State Massachusetts. ",
+      "The highest State California has 382.24 more Annual loss in million U.S. dollars than the lowest State Massachusetts. "
    ],
    "min_summary": [
-      "This bar chart has 10 columns on the x axis representing State, and Annual loss in million U.S. dollars in each State on the y axis. ",
-      "The Annual loss in million U.S. dollars is highest at State California and lowest at State Massachusetts. "
+      "This is a bar chart representing State in the x axis and Annual loss in million U.S. dollars in the y axis. ",
+      "The Annual loss in million U.S. dollars is appeared to be the highest at State California and lowest at State Massachusetts. "
    ],
    "mid_summary": [
-      "This is a bar chart. It shows Annual loss in million U.S. dollars for 10 number of States. ",
-      "State California has the highest Annual loss in million U.S. dollars and Massachusetts has the lowest Annual loss in million U.S. dollars. ",
-      "The difference of Annual loss in million U.S. dollars between the highest and lowest State is 382.24. "
+      "This is a bar chart representing State in the x axis and Annual loss in million U.S. dollars in the y axis. ",
+      "The Annual loss in million U.S. dollars is appeared to be the highest at State California and lowest at State Massachusetts. ",
+      "The highest State California has 382.24 more Annual loss in million U.S. dollars than the lowest State Massachusetts. "
    ],
    "max_summary": [
       "This is a bar chart representing State in the x axis and Annual loss in million U.S. dollars in the y axis. ",
-      "State California has the highest Annual loss in million U.S. dollars and Massachusetts has the lowest Annual loss in million U.S. dollars. ",
-      "The second highest Annual loss in million U.S. dollars is appeared to be the State New York. ",
-      "There is a difference of 382.24 between the maximum State California and minimum State Massachusetts. ",
+      "The Annual loss in million U.S. dollars is highest at State California and lowest at State Massachusetts. ",
+      "State New York has the second highest value for Annual loss in million U.S. dollars. ",
+      "The difference of Annual loss in million U.S. dollars between the highest and lowest State is 382.24. ",
       "State California is higher than any other States with value 450.48, followed by New York, and Texas. Down to State Massachusetts with the lowest value 68.24. ",
-      "The State California has 2.87 times more Annual loss in million U.S. dollars than average. ",
-      "The Annual loss in million U.S. dollars is 1572.01 if we add up values of all States. "
+      "The average Annual loss in million U.S. dollars in all 10 States is 157.2. ",
+      "Summing up the values of all States, we get total 1572.01. "
    ],
    "trends": [
       {},

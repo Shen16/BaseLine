@@ -9,66 +9,26 @@
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "Overall Revenue, and Spending are gradually increasing,  throughout the Year",
+      "Overall Revenue, and Spending are roughly constant,  throughout the Year",
       "The order of lines according to average values of SOME LABEL, in descending order is: 1. Spending, and lastly, 2. Revenue. ",
-      "The minimum SOME LABEL about 415.74, occured at 2015 by Revenue.",
-      "The greatest difference of SOME LABEL between Revenue and Spending occurs at Year 2015 and the smallest difference occurs at 2020."
+      "The minimum SOME LABEL about 403.48, occured at 2014 by Revenue.",
+      "The greatest difference of SOME LABEL between Revenue and Spending occurs at Year 2014 and the smallest difference occurs at 2016."
    ],
    "xAxis": "Year",
    "yAxis": "SOME LABEL",
    "min_summary": [
-      "Overall Revenue, and Spending are gradually increasing,  throughout the Year"
+      "Overall Revenue, and Spending are roughly constant,  throughout the Year"
    ],
    "mid_summary": [
-      "Overall Revenue, and Spending are gradually increasing,  throughout the Year"
+      "Overall Revenue, and Spending are roughly constant,  throughout the Year"
    ],
    "max_summary": [
-      "Overall Revenue, and Spending are gradually increasing,  throughout the Year",
-      "Revenue reported the lowest SOME LABEL about 415.74 in Year 2015",
-      "The greatest difference of SOME LABEL between Revenue and Spending occurs at Year 2015 and the smallest difference occurs at 2020."
+      "Overall Revenue, and Spending are roughly constant,  throughout the Year",
+      "The minimum SOME LABEL about 403.48, occured at 2014 by Revenue.",
+      "The greatest difference of SOME LABEL between Revenue and Spending occurs at Year 2014 and the smallest difference occurs at 2016."
    ],
    "trends": [
-      {},
-      {
-         "2": [
-            "0",
-            "1"
-         ],
-         "16": [
-            "10",
-            "1"
-         ]
-      },
-      {
-         "1": [
-            "6",
-            "1"
-         ],
-         "9": [
-            "6",
-            "1"
-         ]
-      },
-      {
-         "2": [
-            "0",
-            "0"
-         ],
-         "15": [
-            "10",
-            "0"
-         ]
-      },
-      {
-         "1": [
-            "6",
-            "0"
-         ],
-         "10": [
-            "6",
-            "0"
-         ]
-      }
+      {}
    ],
    "data": [
       {

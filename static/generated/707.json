@@ -6,24 +6,24 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 4 columns on the x axis representing Category, and Cost in million U.S. dollars in each Category on the y axis. ",
+      "This is a bar chart representing Category in the x axis and Cost in million U.S. dollars in the y axis. ",
       "The Cost in million U.S. dollars is appeared to be the highest at Category Information loss and lowest at Category Revenue loss. ",
-      "There is a difference of 5.4 between the maximum Category Information loss and minimum Category Revenue loss. "
+      "The highest Category Information loss has 5.4 more Cost in million U.S. dollars than the lowest Category Revenue loss. "
    ],
    "min_summary": [
       "This is a bar chart. It shows Cost in million U.S. dollars for 4 number of Categorys. ",
       "The Cost in million U.S. dollars is appeared to be the highest at Category Information loss and lowest at Category Revenue loss. "
    ],
    "mid_summary": [
-      "This bar chart has 4 columns on the x axis representing Category, and Cost in million U.S. dollars in each Category on the y axis. ",
+      "This is a bar chart representing Category in the x axis and Cost in million U.S. dollars in the y axis. ",
       "The Cost in million U.S. dollars is appeared to be the highest at Category Information loss and lowest at Category Revenue loss. ",
-      "There is a difference of 5.4 between the maximum Category Information loss and minimum Category Revenue loss. "
+      "The highest Category Information loss has 5.4 more Cost in million U.S. dollars than the lowest Category Revenue loss. "
    ],
    "max_summary": [
-      "This is a bar chart. It shows Cost in million U.S. dollars for 4 number of Categorys. ",
-      "The Cost in million U.S. dollars is highest at Category Information loss and lowest at Category Revenue loss. ",
-      "Category Information loss has 11.8 times more Cost in million U.S. dollars than Category Revenue loss which is has the lowest. ",
-      "The Category Information loss has the highest Cost in million U.S. dollars, followed by Business disruption, and Equipment damages. Down to the Category Revenue loss which is the lowest. ",
+      "This is a bar chart representing Category in the x axis and Cost in million U.S. dollars in the y axis. ",
+      "The maximum Cost in million U.S. dollars 5.9 is found at Category Information loss and the minimum is found at Revenue loss where Category is 0.5. ",
+      "There is a difference of 5.4 between the maximum Category Information loss and minimum Category Revenue loss. ",
+      "Cost in million U.S. dollars at Category Information loss is 5.9 , second place is Business disruption at 4.0, and thirdly is Equipment damages at 2.6.",
       "The Category Revenue loss tends to be 1.82 percent lower than average. ",
       "The Cost in million U.S. dollars is 13.0 if we add up values of all Categorys. "
    ],

@@ -19,57 +19,21 @@
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "The minimum Number of days about 0.1, occured at 2017 by Jul."
+      "Overall Jan, Apr, Sep, and Nov are gradually increasing, Mar is gradually decreasing, Feb, May, Jun, Jul, Aug, Oct, and Dec are roughly constant,  throughout the Year"
    ],
    "xAxis": "Year",
    "yAxis": "Number of days",
-   "min_summary": [],
-   "mid_summary": [],
+   "min_summary": [
+      "Overall Jan, Apr, Sep, and Nov are gradually increasing, Mar is gradually decreasing, Feb, May, Jun, Jul, Aug, Oct, and Dec are roughly constant,  throughout the Year"
+   ],
+   "mid_summary": [
+      "Overall Jan, Apr, Sep, and Nov are gradually increasing, Mar is gradually decreasing, Feb, May, Jun, Jul, Aug, Oct, and Dec are roughly constant,  throughout the Year"
+   ],
    "max_summary": [
-      "Jul reported the lowest Number of days about 0.1 in Year 2017"
+      "Overall Jan, Apr, Sep, and Nov are gradually increasing, Mar is gradually decreasing, Feb, May, Jun, Jul, Aug, Oct, and Dec are roughly constant,  throughout the Year"
    ],
    "trends": [
-      {},
-      {
-         "2": [
-            "0",
-            "0"
-         ],
-         "16": [
-            "5",
-            "0"
-         ]
-      },
-      {
-         "1": [
-            "0",
-            "0"
-         ],
-         "9": [
-            "0",
-            "0"
-         ]
-      },
-      {
-         "2": [
-            "0",
-            "11"
-         ],
-         "15": [
-            "5",
-            "11"
-         ]
-      },
-      {
-         "1": [
-            "0",
-            "11"
-         ],
-         "10": [
-            "0",
-            "11"
-         ]
-      }
+      {}
    ],
    "data": [
       {

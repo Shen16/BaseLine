@@ -6,17 +6,31 @@
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "Maximum Number of hotels, about 679.0 was reported at Year 250_rooms_or_more",
-      "The lowest Number of hotels, of value 679.0 was reported at Year 250_rooms_or_more"
+      " In general Number of hotels has rose over the Year.",
+      "Number of hotels is slightly increasing from From_100_to_249_rooms to Less_than_25_rooms.",
+      "The line significantly increased by 3353.0 from Year From_100_to_249_rooms to From_25_to_99_rooms, and lastly, increased by 7059.0 from Year From_25_to_99_rooms to Less_than_25_rooms.",
+      "The most drastic increase took place within the Year From_25_to_99_rooms and Less_than_25_rooms.",
+      "The highest Number of hotels, of value 12170.0 was reached at Year Less_than_25_rooms",
+      "Minimum Number of hotels about 1758.0 was reached at Year From_100_to_249_rooms"
    ],
-   "min_summary": [],
+   "min_summary": [
+      " Overall Number of hotels has increased over the Year.",
+      "Number of hotels is slightly increasing from From_100_to_249_rooms to Less_than_25_rooms."
+   ],
    "mid_summary": [
-      "Maximum Number of hotels, about 679.0 was reported at Year 250_rooms_or_more",
-      "The lowest Number of hotels, of value 679.0 was reported at Year 250_rooms_or_more"
+      " Overall Number of hotels has increased over the Year.",
+      "Number of hotels is slightly increasing from From_100_to_249_rooms to Less_than_25_rooms.",
+      "The most drastic increase took place within the Year From_25_to_99_rooms and Less_than_25_rooms.",
+      "The highest Number of hotels, of value 12170.0 was reached at Year Less_than_25_rooms",
+      "Minimum Number of hotels about 1758.0 was reached at Year From_100_to_249_rooms"
    ],
    "max_summary": [
-      "Maximum Number of hotels, about 679.0 was reported at Year 250_rooms_or_more",
-      "The lowest Number of hotels, of value 679.0 was reported at Year 250_rooms_or_more"
+      " In general Number of hotels has rose over the Year.",
+      "Number of hotels is slightly increasing from From_100_to_249_rooms to Less_than_25_rooms.",
+      "The steepest increase occurs in between the Year From_25_to_99_rooms and Less_than_25_rooms.",
+      "The highest Number of hotels, of value 12170.0 was reached at Year Less_than_25_rooms",
+      "Minimum Number of hotels about 1758.0 was reached at Year From_100_to_249_rooms",
+      "The line drastically increased by 2.9 times from Year From_100_to_249_rooms to From_25_to_99_rooms, and lastly, increased by 2.4 times from Year From_25_to_99_rooms to Less_than_25_rooms."
    ],
    "trends": [],
    "data": [

@@ -9,69 +9,26 @@
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "Overall PhRMA member companies is gradually increasing, Total pharmaceutical industry  is rapidly decreasing,  throughout the Year",
+      "Overall PhRMA member companies is gradually increasing, Total pharmaceutical industry  is roughly constant,  throughout the Year",
       "The ranking of the lines from topmost to botommmost is as follows: 1. PhRMA member companies, and lastly, 2. Total pharmaceutical industry . ",
-      "Total pharmaceutical industry  reported the highest Expenditure in billion USD about 67.4 in Year 2010",
-      "Total pharmaceutical industry  has decreased by 99.999999999979 percent.",
-      "The difference of Expenditure in billion USD between Total pharmaceutical industry  and PhRMA member companies is greater at Year 2016 compared to the Year 2004."
+      "The maximum Expenditure in billion USD about 67.4, occured at 2010 by Total pharmaceutical industry .",
+      "The greatest difference of Expenditure in billion USD between Total pharmaceutical industry  and PhRMA member companies occurs at Year 2012 and the smallest difference occurs at 2004."
    ],
    "xAxis": "Year",
    "yAxis": "Expenditure in billion USD",
    "min_summary": [
-      "Overall PhRMA member companies is gradually increasing, Total pharmaceutical industry  is rapidly decreasing,  throughout the Year"
+      "Overall PhRMA member companies is gradually increasing, Total pharmaceutical industry  is roughly constant,  throughout the Year"
    ],
    "mid_summary": [
-      "Overall PhRMA member companies is gradually increasing, Total pharmaceutical industry  is rapidly decreasing,  throughout the Year",
-      "Total pharmaceutical industry  has decreased by 99.999999999979 percent."
+      "Overall PhRMA member companies is gradually increasing, Total pharmaceutical industry  is roughly constant,  throughout the Year"
    ],
    "max_summary": [
-      "Overall PhRMA member companies is gradually increasing, Total pharmaceutical industry  is rapidly decreasing,  throughout the Year",
-      "Total pharmaceutical industry  has decreased by 99.999999999979 percent.",
+      "Overall PhRMA member companies is gradually increasing, Total pharmaceutical industry  is roughly constant,  throughout the Year",
       "The maximum Expenditure in billion USD about 67.4, occured at 2010 by Total pharmaceutical industry .",
-      "The difference of Expenditure in billion USD between Total pharmaceutical industry  and PhRMA member companies is greater at Year 2016 compared to the Year 2004."
+      "The greatest difference of Expenditure in billion USD between Total pharmaceutical industry  and PhRMA member companies occurs at Year 2012 and the smallest difference occurs at 2004."
    ],
    "trends": [
-      {},
-      {
-         "2": [
-            "0",
-            "1"
-         ],
-         "16": [
-            "23",
-            "1"
-         ]
-      },
-      {
-         "1": [
-            "12",
-            "1"
-         ],
-         "9": [
-            "12",
-            "1"
-         ]
-      },
-      {
-         "2": [
-            "0",
-            "0"
-         ],
-         "15": [
-            "23",
-            "0"
-         ]
-      },
-      {
-         "1": [
-            "6",
-            "0"
-         ],
-         "10": [
-            "6",
-            "0"
-         ]
-      }
+      {}
    ],
    "data": [
       {

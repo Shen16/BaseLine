@@ -10,9 +10,9 @@
    "summaryType": "baseline",
    "summary": [
       "Overall Mobile is rapidly increasing, Desktop is roughly constant,  throughout the Year",
-      "The ranking of the lines from topmost to botommmost is as follows: 1. Mobile, and lastly, 2. Desktop. ",
+      "The order of lines according to average values of Time in minutes, in descending order is: 1. Mobile, and lastly, 2. Desktop. ",
       "Mobile reported the lowest Time in minutes about 32.0 in Year 2011",
-      "Mobile has increased by 281.25 percent.",
+      "Mobile has increased by 3.8 times.",
       "The greatest difference of Time in minutes between Desktop and Mobile occurs at Year 2018 and the smallest difference occurs at 2013."
    ],
    "xAxis": "Year",
@@ -22,56 +22,16 @@
    ],
    "mid_summary": [
       "Overall Mobile is rapidly increasing, Desktop is roughly constant,  throughout the Year",
-      "Mobile has increased by 281.25 percent."
+      "Mobile has increased by 3.8 times."
    ],
    "max_summary": [
       "Overall Mobile is rapidly increasing, Desktop is roughly constant,  throughout the Year",
-      "Mobile has increased by 281.25 percent.",
-      "Mobile reported the lowest Time in minutes about 32.0 in Year 2011",
-      "The difference of Time in minutes between Desktop and Mobile is greater at Year 2018 compared to the Year 2011."
+      "Mobile has increased by 3.8 times.",
+      "The minimum Time in minutes about 32.0, occured at 2011 by Mobile.",
+      "The greatest difference of Time in minutes between Desktop and Mobile occurs at Year 2018 and the smallest difference occurs at 2013."
    ],
    "trends": [
-      {},
-      {
-         "2": [
-            "0",
-            "1"
-         ],
-         "16": [
-            "10",
-            "1"
-         ]
-      },
-      {
-         "1": [
-            "7",
-            "1"
-         ],
-         "9": [
-            "7",
-            "1"
-         ]
-      },
-      {
-         "2": [
-            "0",
-            "0"
-         ],
-         "15": [
-            "10",
-            "0"
-         ]
-      },
-      {
-         "1": [
-            "2",
-            "0"
-         ],
-         "10": [
-            "2",
-            "0"
-         ]
-      }
+      {}
    ],
    "data": [
       {

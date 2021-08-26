@@ -12,63 +12,17 @@
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "Overall One person, and Two persons are gradually increasing, Three persons, Four persons, and Five persons and more are roughly constant,  throughout the Year",
-      "Five persons and more reported the lowest Number of households in thousand about 1323.0 in Year 2015"
+      "Five persons and more reported the lowest Number of households in thousand about 1450.0 in Year 2007"
    ],
    "xAxis": "Year",
    "yAxis": "Number of households in thousand",
-   "min_summary": [
-      "Overall One person, and Two persons are gradually increasing, Three persons, Four persons, and Five persons and more are roughly constant,  throughout the Year"
-   ],
-   "mid_summary": [
-      "Overall One person, and Two persons are gradually increasing, Three persons, Four persons, and Five persons and more are roughly constant,  throughout the Year"
-   ],
+   "min_summary": [],
+   "mid_summary": [],
    "max_summary": [
-      "Overall One person, and Two persons are gradually increasing, Three persons, Four persons, and Five persons and more are roughly constant,  throughout the Year",
-      "Five persons and more reported the lowest Number of households in thousand about 1323.0 in Year 2015"
+      "Five persons and more reported the lowest Number of households in thousand about 1450.0 in Year 2007"
    ],
    "trends": [
-      {},
-      {
-         "2": [
-            "0",
-            "0"
-         ],
-         "16": [
-            "18",
-            "0"
-         ]
-      },
-      {
-         "1": [
-            "13",
-            "0"
-         ],
-         "9": [
-            "13",
-            "0"
-         ]
-      },
-      {
-         "2": [
-            "0",
-            "1"
-         ],
-         "15": [
-            "18",
-            "1"
-         ]
-      },
-      {
-         "1": [
-            "13",
-            "1"
-         ],
-         "10": [
-            "13",
-            "1"
-         ]
-      }
+      {}
    ],
    "data": [
       {

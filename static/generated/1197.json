@@ -11,8 +11,8 @@
    "summaryType": "baseline",
    "summary": [
       "Overall 0-14 years, 15-64 years, and 65 years and older are roughly constant,  throughout the Year",
-      "The ranking of the lines from topmost to botommmost is as follows: 1. 0-14 years, 2. 15-64 years, and lastly, 3. 65 years and older. ",
-      "65 years and older reported the lowest SOME LABEL about 1.87 in Year 2010"
+      "The order of lines according to average values of SOME LABEL, in descending order is: 1. 0-14 years, 2. 15-64 years, and lastly, 3. 65 years and older. ",
+      "65 years and older reported the lowest SOME LABEL about 1.89 in Year 2009"
    ],
    "xAxis": "Year",
    "yAxis": "SOME LABEL",
@@ -24,50 +24,10 @@
    ],
    "max_summary": [
       "Overall 0-14 years, 15-64 years, and 65 years and older are roughly constant,  throughout the Year",
-      "65 years and older reported the lowest SOME LABEL about 1.87 in Year 2010"
+      "The minimum SOME LABEL about 1.89, occured at 2009 by 65 years and older."
    ],
    "trends": [
-      {},
-      {
-         "2": [
-            "0",
-            "0"
-         ],
-         "16": [
-            "10",
-            "0"
-         ]
-      },
-      {
-         "1": [
-            "0",
-            "0"
-         ],
-         "9": [
-            "0",
-            "0"
-         ]
-      },
-      {
-         "2": [
-            "0",
-            "1"
-         ],
-         "15": [
-            "10",
-            "1"
-         ]
-      },
-      {
-         "1": [
-            "2",
-            "1"
-         ],
-         "10": [
-            "2",
-            "1"
-         ]
-      }
+      {}
    ],
    "data": [
       {

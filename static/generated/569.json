@@ -6,17 +6,29 @@
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "Maximum Number of fatalities, about 317.0 was reported at Year 2018",
-      "The lowest Number of fatalities, of value 317.0 was reported at Year 2018"
+      " Overall Number of fatalities has increased over the Year.",
+      "Number of fatalities is slightly increasing from 2014 to 2015, slightly decreasing from 2015 to 2016, and finally roughly constant from 2016 to 2018.",
+      "The steepest decrease occurs in between the Year 2015 and 2016.",
+      "Maximum Number of fatalities, about 348.0 was reported at Year 2015",
+      "The lowest Number of fatalities, of value 307.0 was reported at Year 2016"
    ],
-   "min_summary": [],
+   "min_summary": [
+      " Overall Number of fatalities has increased over the Year.",
+      "Number of fatalities is slightly increasing from 2014 to 2015, slightly decreasing from 2015 to 2016, and finally roughly constant from 2016 to 2018."
+   ],
    "mid_summary": [
-      "Maximum Number of fatalities, about 317.0 was reported at Year 2018",
-      "The lowest Number of fatalities, of value 317.0 was reported at Year 2018"
+      " Overall Number of fatalities has increased over the Year.",
+      "Number of fatalities is slightly increasing from 2014 to 2015, slightly decreasing from 2015 to 2016, and finally roughly constant from 2016 to 2018.",
+      "The steepest decrease occurs in between the Year 2015 and 2016.",
+      "Maximum Number of fatalities, about 348.0 was reported at Year 2015",
+      "The lowest Number of fatalities, of value 307.0 was reported at Year 2016"
    ],
    "max_summary": [
-      "Maximum Number of fatalities, about 317.0 was reported at Year 2018",
-      "The lowest Number of fatalities, of value 317.0 was reported at Year 2018"
+      " Overall Number of fatalities has increased over the Year.",
+      "Number of fatalities is slightly increasing from 2014 to 2015, slightly decreasing from 2015 to 2016, and finally roughly constant from 2016 to 2018.",
+      "The most drastic decrease took place within the Year 2015 and 2016.",
+      "Maximum Number of fatalities, about 348.0 was reported at Year 2015",
+      "The lowest Number of fatalities, of value 307.0 was reported at Year 2016"
    ],
    "trends": [],
    "data": [

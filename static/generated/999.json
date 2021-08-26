@@ -6,25 +6,25 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 2 columns on the x axis representing Month, and Revenue in million U.S. dollars in each Month on the y axis. ",
-      "The maximum Revenue in million U.S. dollars 110.0 is found at Month June 2016 and the minimum is found at December 2015 where Month is 70.0. ",
-      "The highest value at Month June 2016 is 1.57x times more than the lowest value at December 2015. "
+      "This is a bar chart representing Month in the x axis and Revenue in million U.S. dollars in the y axis. ",
+      "Month June 2016 has the highest Revenue in million U.S. dollars and December 2015 has the lowest Revenue in million U.S. dollars. ",
+      "The difference of Revenue in million U.S. dollars between the highest and lowest Month is 40.0. "
    ],
    "min_summary": [
-      "This bar chart has 2 columns on the x axis representing Month, and Revenue in million U.S. dollars in each Month on the y axis. ",
-      "The Revenue in million U.S. dollars is appeared to be the highest at Month June 2016 and lowest at Month December 2015. "
+      "This is a bar chart representing Month in the x axis and Revenue in million U.S. dollars in the y axis. ",
+      "Month June 2016 has the highest Revenue in million U.S. dollars and December 2015 has the lowest Revenue in million U.S. dollars. "
    ],
    "mid_summary": [
-      "This bar chart has 2 columns on the x axis representing Month, and Revenue in million U.S. dollars in each Month on the y axis. ",
-      "The maximum Revenue in million U.S. dollars 110.0 is found at Month June 2016 and the minimum is found at December 2015 where Month is 70.0. ",
-      "The highest value at Month June 2016 is 1.57x times more than the lowest value at December 2015. "
+      "This is a bar chart representing Month in the x axis and Revenue in million U.S. dollars in the y axis. ",
+      "Month June 2016 has the highest Revenue in million U.S. dollars and December 2015 has the lowest Revenue in million U.S. dollars. ",
+      "The difference of Revenue in million U.S. dollars between the highest and lowest Month is 40.0. "
    ],
    "max_summary": [
-      "This is a bar chart representing Month in the x axis and Revenue in million U.S. dollars in the y axis. ",
-      "The Revenue in million U.S. dollars is appeared to be the highest at Month June 2016 and lowest at Month December 2015. ",
-      "The Revenue in million U.S. dollars of Month December 2015 is 1.57% smaller than the maximum value at June 2016. ",
-      "Overall Revenue in million U.S. dollars has decreased over the Months. ",
-      "The lowest value 70.0 at December 2015 is almost 1.22 times smaller than the average value 90.0. "
+      "This is a bar chart. It shows Revenue in million U.S. dollars for 2 number of Months. ",
+      "The Revenue in million U.S. dollars is highest at Month June 2016 and lowest at Month December 2015. ",
+      "The highest Month June 2016 has 40.0 more Revenue in million U.S. dollars than the lowest Month December 2015. ",
+      "The Revenue in million U.S. dollars has lowered over the past 2 Months. ",
+      "Considered together, the average Revenue in million U.S. dollars in all 2 Months is roughly 90.0. "
    ],
    "trends": [
       {},

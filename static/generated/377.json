@@ -6,26 +6,26 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 13 columns on the x axis representing Country, and Cost in U.S. dollars in each Country on the y axis. ",
-      "Country United States has the highest Cost in U.S. dollars and Thailand has the lowest Cost in U.S. dollars. ",
-      "The highest Country United States has 24000.0 more Cost in U.S. dollars than the lowest Country Thailand. "
+      "This is a bar chart. It shows Cost in U.S. dollars for 13 number of Countrys. ",
+      "The Cost in U.S. dollars is highest at Country United States and lowest at Country Thailand. ",
+      "The Cost in U.S. dollars of Country Thailand is 6.71% smaller than the maximum value at United States. "
    ],
    "min_summary": [
-      "This is a bar chart representing Country in the x axis and Cost in U.S. dollars in the y axis. ",
+      "This is a bar chart. It shows Cost in U.S. dollars for 13 number of Countrys. ",
       "The Cost in U.S. dollars is highest at Country United States and lowest at Country Thailand. "
    ],
    "mid_summary": [
-      "This bar chart has 13 columns on the x axis representing Country, and Cost in U.S. dollars in each Country on the y axis. ",
-      "Country United States has the highest Cost in U.S. dollars and Thailand has the lowest Cost in U.S. dollars. ",
-      "The highest Country United States has 24000.0 more Cost in U.S. dollars than the lowest Country Thailand. "
+      "This is a bar chart. It shows Cost in U.S. dollars for 13 number of Countrys. ",
+      "The Cost in U.S. dollars is highest at Country United States and lowest at Country Thailand. ",
+      "The Cost in U.S. dollars of Country Thailand is 6.71% smaller than the maximum value at United States. "
    ],
    "max_summary": [
-      "This bar chart has 13 columns on the x axis representing Country, and Cost in U.S. dollars in each Country on the y axis. ",
-      "The maximum Cost in U.S. dollars 28200.0 is found at Country United States and the minimum is found at Thailand where Country is 4200.0. ",
-      "Second maximum Cost in U.S. dollars is found at Country South Korea. ",
-      "The highest value at Country United States is 6.71x times more than the lowest value at Thailand. ",
+      "This is a bar chart. It shows Cost in U.S. dollars for 13 number of Countrys. ",
+      "Country United States has the highest Cost in U.S. dollars and Thailand has the lowest Cost in U.S. dollars. ",
+      "There is a difference of 24000.0 between the maximum Country United States and minimum Country Thailand. ",
       "The Country United States has the highest Cost in U.S. dollars, followed by South Korea, and Costa Rica. Down to the Country Thailand which is the lowest. ",
-      "The Country United States tends to be 2.8 percent higher than average. "
+      "The Country Thailand tends to be 2.8 percent lower than average. ",
+      "The Cost in U.S. dollars is 131100.0 if we add up values of all Countrys. "
    ],
    "trends": [
       {},

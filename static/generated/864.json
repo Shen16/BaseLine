@@ -6,25 +6,25 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This is a bar chart. It shows Share of active users for 2 number of Sexs. ",
-      "The maximum Share of active users 61.0 is found at Sex Female and the minimum is found at Male where Sex is 38.0. ",
-      "The difference of Share of active users between the highest and lowest Sex is 23.0. "
+      "This is a bar chart representing Sex in the x axis and Share of active users in the y axis. ",
+      "The Share of active users is highest at Sex Female and lowest at Sex Male. ",
+      "There is a difference of 23.0 between the maximum Sex Female and minimum Sex Male. "
    ],
    "min_summary": [
-      "This is a bar chart representing Sex in the x axis and Share of active users in the y axis. ",
-      "Sex Female has the highest Share of active users and Male has the lowest Share of active users. "
+      "This is a bar chart. It shows Share of active users for 2 number of Sexs. ",
+      "The Share of active users is highest at Sex Female and lowest at Sex Male. "
    ],
    "mid_summary": [
-      "This is a bar chart. It shows Share of active users for 2 number of Sexs. ",
-      "The maximum Share of active users 61.0 is found at Sex Female and the minimum is found at Male where Sex is 38.0. ",
-      "The difference of Share of active users between the highest and lowest Sex is 23.0. "
+      "This is a bar chart representing Sex in the x axis and Share of active users in the y axis. ",
+      "The Share of active users is highest at Sex Female and lowest at Sex Male. ",
+      "There is a difference of 23.0 between the maximum Sex Female and minimum Sex Male. "
    ],
    "max_summary": [
       "This bar chart has 2 columns on the x axis representing Sex, and Share of active users in each Sex on the y axis. ",
-      "The maximum Share of active users 61.0 is found at Sex Female and the minimum is found at Male where Sex is 38.0. ",
-      "There is a difference of 23.0 between the maximum Sex Female and minimum Sex Male. ",
-      "The Sex Female has 1.23 times more Share of active users than average. ",
-      "Summing up the values of all Sexs, we get total 99.0. "
+      "Sex Female has the highest Share of active users and Male has the lowest Share of active users. ",
+      "The highest Sex Female has 23.0 more Share of active users than the lowest Sex Male. ",
+      "The Sex Female tends to be 1.23 percent higher than average. ",
+      "The Share of active users is 99.0 if we add up values of all Sexs. "
    ],
    "trends": [
       {},

@@ -10,64 +10,28 @@
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "Overall Agriculture, Industry, and Services are roughly constant,  throughout the Year",
-      "The order of lines according to average values of SOME LABEL, in descending order is: 1. Services, 2. Industry, and lastly, 3. Agriculture. ",
-      "Agriculture reported the lowest SOME LABEL about 5.73 in Year 2011"
+      " In general SOME LABEL has stayed the same over the Year.",
+      "SOME LABEL is slightly decreasing from 2013 to 2016, roughly constant from 2016 to 2017, and finally slightly increasing from 2017 to 2019.",
+      "The highest SOME LABEL, of value 77.27 was reached at Year 2014",
+      "The lowest SOME LABEL, of value 76.11 was reported at Year 2016"
    ],
    "xAxis": "Year",
    "yAxis": "SOME LABEL",
    "min_summary": [
-      "Overall Agriculture, Industry, and Services are roughly constant,  throughout the Year"
+      " In general SOME LABEL has stayed the same over the Year."
    ],
    "mid_summary": [
-      "Overall Agriculture, Industry, and Services are roughly constant,  throughout the Year"
+      " In general SOME LABEL has stayed the same over the Year.",
+      "SOME LABEL is slightly decreasing from 2013 to 2016, roughly constant from 2016 to 2017, and finally slightly increasing from 2017 to 2019."
    ],
    "max_summary": [
-      "Overall Agriculture, Industry, and Services are roughly constant,  throughout the Year",
-      "Agriculture reported the lowest SOME LABEL about 5.73 in Year 2011"
+      " Overall SOME LABEL has decreased over the Year.",
+      "SOME LABEL is slightly decreasing from 2013 to 2016, roughly constant from 2016 to 2017, and finally slightly increasing from 2017 to 2019.",
+      "The highest SOME LABEL, of value 77.27 was reached at Year 2014",
+      "The lowest SOME LABEL, of value 76.11 was reported at Year 2016"
    ],
    "trends": [
-      {},
-      {
-         "2": [
-            "0",
-            "2"
-         ],
-         "16": [
-            "10",
-            "2"
-         ]
-      },
-      {
-         "1": [
-            "1",
-            "2"
-         ],
-         "9": [
-            "1",
-            "2"
-         ]
-      },
-      {
-         "2": [
-            "0",
-            "1"
-         ],
-         "15": [
-            "10",
-            "1"
-         ]
-      },
-      {
-         "1": [
-            "0",
-            "1"
-         ],
-         "10": [
-            "0",
-            "1"
-         ]
-      }
+      {}
    ],
    "data": [
       {

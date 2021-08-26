@@ -6,26 +6,27 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This is a bar chart representing Race in the x axis and Number of residents in the y axis. ",
-      "The Number of residents is highest at Race White alone and lowest at Race Native Hawaiian and Other Pacific Islander alone. ",
-      "The highest Race White alone has 7472757.0 more Number of residents than the lowest Race Native Hawaiian and Other Pacific Islander alone. "
-   ],
-   "min_summary": [
-      "This bar chart has 8 columns on the x axis representing Race, and Number of residents in each Race on the y axis. ",
-      "Race White alone has the highest Number of residents and Native Hawaiian and Other Pacific Islander alone has the lowest Number of residents. "
-   ],
-   "mid_summary": [
-      "This is a bar chart representing Race in the x axis and Number of residents in the y axis. ",
-      "The Number of residents is highest at Race White alone and lowest at Race Native Hawaiian and Other Pacific Islander alone. ",
-      "The highest Race White alone has 7472757.0 more Number of residents than the lowest Race Native Hawaiian and Other Pacific Islander alone. "
-   ],
-   "max_summary": [
       "This bar chart has 8 columns on the x axis representing Race, and Number of residents in each Race on the y axis. ",
       "Race White alone has the highest Number of residents and Native Hawaiian and Other Pacific Islander alone has the lowest Number of residents. ",
-      "The difference of Number of residents between the highest and lowest Race is 7472757.0. ",
-      "Race White alone is higher than any other Races with value 7476047.0, followed by Black or African American alone, and Hispanic or Latino (of any race). Down to Race Native Hawaiian and Other Pacific Islander alone with the lowest value 3290.0. ",
-      "The average Number of residents in all 8 Races is 1249489.38. ",
-      "The Number of residents is 9995915.0 if we add up values of all Races. "
+      "There is a difference of 7472757.0 between the maximum Race White alone and minimum Race Native Hawaiian and Other Pacific Islander alone. "
+   ],
+   "min_summary": [
+      "This is a bar chart. It shows Number of residents for 8 number of Races. ",
+      "The Number of residents is highest at Race White alone and lowest at Race Native Hawaiian and Other Pacific Islander alone. "
+   ],
+   "mid_summary": [
+      "This bar chart has 8 columns on the x axis representing Race, and Number of residents in each Race on the y axis. ",
+      "Race White alone has the highest Number of residents and Native Hawaiian and Other Pacific Islander alone has the lowest Number of residents. ",
+      "There is a difference of 7472757.0 between the maximum Race White alone and minimum Race Native Hawaiian and Other Pacific Islander alone. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Number of residents for 8 number of Races. ",
+      "Race White alone has the highest Number of residents and Native Hawaiian and Other Pacific Islander alone has the lowest Number of residents. ",
+      "Race Black or African American alone has the second highest value for Number of residents. ",
+      "The highest Race White alone has 7472757.0 more Number of residents than the lowest Race Native Hawaiian and Other Pacific Islander alone. ",
+      "Number of residents at Race White alone is 7476047.0 , second place is Black or African American alone at 1363183.0, and thirdly is Hispanic or Latino (of any race) at 517381.0.",
+      "The highest value 7476047.0 at White alone is almost 5.98 times larger than the average value 1249489.38. ",
+      "Summing up the values of all Races, we get total 9995915.0. "
    ],
    "trends": [
       {},

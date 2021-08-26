@@ -7,24 +7,24 @@
    "summaryType": "baseline",
    "summary": [
       "This is a bar chart. It shows Sales in million GBP for 3 number of Brands. ",
-      "The maximum Sales in million GBP 98.0 is found at Brand Male Lynx and the minimum is found at Female Dove where Brand is 57.6. ",
-      "The maximum Brand Male Lynx has got 1.7 times higher Sales in million GBP than the minimum Brand Female Dove. "
+      "The Sales in million GBP is appeared to be the highest at Brand Male Lynx and lowest at Brand Female Dove. ",
+      "The difference of Sales in million GBP between the highest and lowest Brand is 40.4. "
    ],
    "min_summary": [
-      "This bar chart has 3 columns on the x axis representing Brand, and Sales in million GBP in each Brand on the y axis. ",
-      "Brand Male Lynx has the highest Sales in million GBP and Female Dove has the lowest Sales in million GBP. "
+      "This is a bar chart. It shows Sales in million GBP for 3 number of Brands. ",
+      "The Sales in million GBP is highest at Brand Male Lynx and lowest at Brand Female Dove. "
    ],
    "mid_summary": [
       "This is a bar chart. It shows Sales in million GBP for 3 number of Brands. ",
-      "The maximum Sales in million GBP 98.0 is found at Brand Male Lynx and the minimum is found at Female Dove where Brand is 57.6. ",
-      "The maximum Brand Male Lynx has got 1.7 times higher Sales in million GBP than the minimum Brand Female Dove. "
+      "The Sales in million GBP is appeared to be the highest at Brand Male Lynx and lowest at Brand Female Dove. ",
+      "The difference of Sales in million GBP between the highest and lowest Brand is 40.4. "
    ],
    "max_summary": [
-      "This is a bar chart. It shows Sales in million GBP for 3 number of Brands. ",
-      "The Sales in million GBP is appeared to be the highest at Brand Male Lynx and lowest at Brand Female Dove. ",
-      "Brand Female Sure has the second highest value for Sales in million GBP. ",
-      "The difference of Sales in million GBP between the highest and lowest Brand is 40.4. ",
-      "The lowest value 57.6 at Female Dove is almost 1.28 times smaller than the average value 76.4. ",
+      "This is a bar chart representing Brand in the x axis and Sales in million GBP in the y axis. ",
+      "The Sales in million GBP is highest at Brand Male Lynx and lowest at Brand Female Dove. ",
+      "Second maximum Sales in million GBP is found at Brand Female Sure. ",
+      "The highest value at Brand Male Lynx is 1.7x times more than the lowest value at Female Dove. ",
+      "Considered together, the average Sales in million GBP in all 3 Brands is roughly 76.4. ",
       "Summing up the values of all Brands, we get total 229.2. "
    ],
    "trends": [

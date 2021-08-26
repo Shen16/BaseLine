@@ -10,29 +10,29 @@
    "summaryType": "baseline",
    "summary": [
       "This grouped bar chart represents 39 different Countrys on X-axis for 2 groups Public, and Private. On the Y-axis it shows their corresponding Share of GDP. ",
-      " Out of all 2 groups, Public had the highest Share of GDP in Country Norway and Private had the lowest Share of GDP in Country Luxembourg. ",
-      " Among all the Countrys, Private had the highest Share of GDP 17.0 in Country Chile and lowest value 0.0 in Country Luxembourg. ",
-      "Country Chile and Luxembourg had the biggest gap of 17.0 between the highest and lowest Share of GDP found for Private. "
+      " Country Norway had the maximum Share of GDP among all 2 groups, and it was for Public. The minimum Share of GDP was observed in Country Luxembourg for Private. ",
+      " Among all the Countrys, Public had the highest Share of GDP in Country Norway and lowest Share of GDP in Country Germany. ",
+      "Country Norway and Germany had the biggest gap of 17.0 between the highest and lowest Share of GDP found for Public. "
    ],
    "xAxis": "Country",
    "yAxis": "Share of GDP",
    "min_summary": [
       "This grouped bar chart shows Share of GDP on the Y-axis for 39 different Countrys for 2 groups Public, and Private that are presented on the X-axis. ",
-      " Out of all 2 groups, Public had the highest Share of GDP in Country Norway and Private had the lowest Share of GDP in Country Luxembourg. "
+      " Country Norway had the maximum Share of GDP among all 2 groups, and it was for Public. The minimum Share of GDP was observed in Country Luxembourg for Private. "
    ],
    "mid_summary": [
       "This grouped bar chart represents 39 different Countrys on X-axis for 2 groups Public, and Private. On the Y-axis it shows their corresponding Share of GDP. ",
-      " Out of all 2 groups, Public had the highest Share of GDP in Country Norway and Private had the lowest Share of GDP in Country Luxembourg. ",
-      " Among all the Countrys, Private had the highest Share of GDP 17.0 in Country Chile and lowest value 0.0 in Country Luxembourg. ",
-      "Country Chile and Luxembourg had the biggest gap of 17.0 between the highest and lowest Share of GDP found for Private. "
+      " Country Norway had the maximum Share of GDP among all 2 groups, and it was for Public. The minimum Share of GDP was observed in Country Luxembourg for Private. ",
+      " Among all the Countrys, Public had the highest Share of GDP in Country Norway and lowest Share of GDP in Country Germany. ",
+      "Country Norway and Germany had the biggest gap of 17.0 between the highest and lowest Share of GDP found for Public. "
    ],
    "max_summary": [
       "This grouped bar chart represents 39 different Countrys on X-axis for 2 groups Public, and Private. On the Y-axis it shows their corresponding Share of GDP. ",
-      " In Country Norway, Public had the highest Share of GDP 18.0 among the 2 groups and in Luxembourg, Private had the lowest Share of GDP 0.0. ",
-      " In Country Chile, Private had the highest Share of GDP among all 39 Countrys and it has the lowest Share of GDP in Country Luxembourg. ",
-      "Country Chile and Luxembourg had the biggest gap of 17.0 between the highest and lowest Share of GDP found for Private. ",
-      " Among the groups, Public had the biggest difference in Share of GDP. Where the maximum Share of GDP was 18.0 times larger than the minimum Share of GDP. ",
-      "On average, the Country Chile had the highest Share of GDP for all 2 groups Public, and Private. Whereas Luxembourg had the lowest average Share of GDP. "
+      " Out of all 2 groups, Public had the highest Share of GDP in Country Norway and Private had the lowest Share of GDP in Country Luxembourg. ",
+      " In Country Norway, Public had the highest Share of GDP among all 39 Countrys and it has the lowest Share of GDP in Country Germany. ",
+      " There is a gap of 17.0 between the highest and lowest Share of GDP found for Public in Country Norway and Germany. ",
+      " Out of all 2 groups, the highest gap between the maximum and minimum Share of GDP was found in case of Public. ",
+      "Averaging all 2 groups Public, and Private, the Country Chile is the maximum Share of GDP and Luxembourg is the minimum Share of GDP. "
    ],
    "trends": [
       {},

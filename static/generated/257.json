@@ -6,26 +6,25 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 14 columns on the x axis representing Number of downloads, and Share of apps in each Number of downloads on the y axis. ",
+      "This is a bar chart. It shows Share of apps for 14 number of Number of downloadss. ",
       "The Share of apps is appeared to be the highest at Number of downloads 100-500 and lowest at Number of downloads 5000000+. ",
-      "The maximum Number of downloads 100-500 has got 211.2 times higher Share of apps than the minimum Number of downloads 5000000+. "
+      "The highest Number of downloads 100-500 has 21.02 more Share of apps than the lowest Number of downloads 5000000+. "
    ],
    "min_summary": [
-      "This is a bar chart. It shows Share of apps for 14 number of Number of downloadss. ",
-      "Number of downloads 100-500 has the highest Share of apps and 5000000+ has the lowest Share of apps. "
+      "This bar chart has 14 columns on the x axis representing Number of downloads, and Share of apps in each Number of downloads on the y axis. ",
+      "The maximum Share of apps 21.12 is found at Number of downloads 100-500 and the minimum is found at 5000000+ where Number of downloads is 0.1. "
    ],
    "mid_summary": [
-      "This bar chart has 14 columns on the x axis representing Number of downloads, and Share of apps in each Number of downloads on the y axis. ",
+      "This is a bar chart. It shows Share of apps for 14 number of Number of downloadss. ",
       "The Share of apps is appeared to be the highest at Number of downloads 100-500 and lowest at Number of downloads 5000000+. ",
-      "The maximum Number of downloads 100-500 has got 211.2 times higher Share of apps than the minimum Number of downloads 5000000+. "
+      "The highest Number of downloads 100-500 has 21.02 more Share of apps than the lowest Number of downloads 5000000+. "
    ],
    "max_summary": [
-      "This is a bar chart. It shows Share of apps for 14 number of Number of downloadss. ",
-      "Number of downloads 100-500 has the highest Share of apps and 5000000+ has the lowest Share of apps. ",
-      "Second maximum Share of apps is found at Number of downloads 10-50. ",
-      "There is a difference of 21.02 between the maximum Number of downloads 100-500 and minimum Number of downloads 5000000+. ",
-      "Number of downloads 100-500 is higher than any other Number of downloadss with value 21.12, followed by 10-50, and 1000-5000. Down to Number of downloads 5000000+ with the lowest value 0.1. ",
-      "The highest value 21.12 at 100-500 is almost 2.96 times larger than the average value 7.14. ",
+      "This bar chart has 14 columns on the x axis representing Number of downloads, and Share of apps in each Number of downloads on the y axis. ",
+      "The Share of apps is highest at Number of downloads 100-500 and lowest at Number of downloads 5000000+. ",
+      "The highest Number of downloads 100-500 has 21.02 more Share of apps than the lowest Number of downloads 5000000+. ",
+      "Share of apps at Number of downloads 100-500 is 21.12 , second place is 10-50 at 18.48, and thirdly is 1000-5000 at 14.11.",
+      "The average Share of apps in all 14 Number of downloadss is 7.14. ",
       "Summing up the values of all Number of downloadss, we get total 99.9. "
    ],
    "trends": [

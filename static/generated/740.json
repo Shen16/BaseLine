@@ -6,26 +6,25 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 10 columns on the x axis representing Company, and Million U.S. dollars in each Company on the y axis. ",
-      "The Million U.S. dollars is highest at Company Private label and lowest at Company Irish Breeze. ",
-      "The maximum Company Private label has got 112.36 times higher Million U.S. dollars than the minimum Company Irish Breeze. "
+      "This is a bar chart. It shows Million U.S. dollars for 10 number of Companys. ",
+      "Company Private label has the highest Million U.S. dollars and Irish Breeze has the lowest Million U.S. dollars. ",
+      "The highest Company Private label has 490.0 more Million U.S. dollars than the lowest Company Irish Breeze. "
    ],
    "min_summary": [
       "This is a bar chart. It shows Million U.S. dollars for 10 number of Companys. ",
-      "The Million U.S. dollars is appeared to be the highest at Company Private label and lowest at Company Irish Breeze. "
+      "The Million U.S. dollars is highest at Company Private label and lowest at Company Irish Breeze. "
    ],
    "mid_summary": [
-      "This bar chart has 10 columns on the x axis representing Company, and Million U.S. dollars in each Company on the y axis. ",
-      "The Million U.S. dollars is highest at Company Private label and lowest at Company Irish Breeze. ",
-      "The maximum Company Private label has got 112.36 times higher Million U.S. dollars than the minimum Company Irish Breeze. "
-   ],
-   "max_summary": [
       "This is a bar chart. It shows Million U.S. dollars for 10 number of Companys. ",
       "Company Private label has the highest Million U.S. dollars and Irish Breeze has the lowest Million U.S. dollars. ",
-      "There is a difference of 490.0 between the maximum Company Private label and minimum Company Irish Breeze. ",
-      "The Company Private label has the highest Million U.S. dollars, followed by Kimberly Clark Corp., and Procter & Gamble. Down to the Company Irish Breeze which is the lowest. ",
-      "Considered together, the average Million U.S. dollars in all 10 Companys is roughly 123.5. ",
-      "The Million U.S. dollars is 1235.0 if we add up values of all Companys. "
+      "The highest Company Private label has 490.0 more Million U.S. dollars than the lowest Company Irish Breeze. "
+   ],
+   "max_summary": [
+      "This is a bar chart representing Company in the x axis and Million U.S. dollars in the y axis. ",
+      "The Million U.S. dollars is highest at Company Private label and lowest at Company Irish Breeze. ",
+      "The difference of Million U.S. dollars between the highest and lowest Company is 490.0. ",
+      "Million U.S. dollars at Company Private label is 494.4 , second place is Kimberly Clark Corp. at 416.2, and thirdly is Procter & Gamble at 276.6.",
+      "Considered together, the average Million U.S. dollars in all 10 Companys is roughly 123.5. "
    ],
    "trends": [
       {},

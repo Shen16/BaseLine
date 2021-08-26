@@ -7,26 +7,25 @@
    "summaryType": "baseline",
    "summary": [
       "This is a bar chart representing Cyber Incidents in the x axis and Number of complaints in the y axis. ",
-      "The Number of complaints is appeared to be the highest at Cyber Incidents Non-payment/Non-delivery and lowest at Cyber Incidents Spoofing. ",
+      "The maximum Number of complaints 65116.0 is found at Cyber Incidents Non-payment/Non-delivery and the minimum is found at Spoofing where Cyber Incidents is 15569.0. ",
       "There is a difference of 49547.0 between the maximum Cyber Incidents Non-payment/Non-delivery and minimum Cyber Incidents Spoofing. "
    ],
    "min_summary": [
-      "This bar chart has 11 columns on the x axis representing Cyber Incidents, and Number of complaints in each Cyber Incidents on the y axis. ",
-      "The Number of complaints is highest at Cyber Incidents Non-payment/Non-delivery and lowest at Cyber Incidents Spoofing. "
+      "This is a bar chart representing Cyber Incidents in the x axis and Number of complaints in the y axis. ",
+      "Cyber Incidents Non-payment/Non-delivery has the highest Number of complaints and Spoofing has the lowest Number of complaints. "
    ],
    "mid_summary": [
       "This is a bar chart representing Cyber Incidents in the x axis and Number of complaints in the y axis. ",
-      "The Number of complaints is appeared to be the highest at Cyber Incidents Non-payment/Non-delivery and lowest at Cyber Incidents Spoofing. ",
+      "The maximum Number of complaints 65116.0 is found at Cyber Incidents Non-payment/Non-delivery and the minimum is found at Spoofing where Cyber Incidents is 15569.0. ",
       "There is a difference of 49547.0 between the maximum Cyber Incidents Non-payment/Non-delivery and minimum Cyber Incidents Spoofing. "
    ],
    "max_summary": [
-      "This is a bar chart. It shows Number of complaints for 11 number of Cyber Incidentss. ",
-      "Cyber Incidents Non-payment/Non-delivery has the highest Number of complaints and Spoofing has the lowest Number of complaints. ",
-      "The second highest Number of complaints is appeared to be the Cyber Incidents Extortion. ",
-      "The Number of complaints of Cyber Incidents Non-payment/Non-delivery is 4.18% larger than the minimum value at Spoofing. ",
+      "This bar chart has 11 columns on the x axis representing Cyber Incidents, and Number of complaints in each Cyber Incidents on the y axis. ",
+      "The Number of complaints is highest at Cyber Incidents Non-payment/Non-delivery and lowest at Cyber Incidents Spoofing. ",
+      "Cyber Incidents Extortion has the second highest value for Number of complaints. ",
+      "The maximum Cyber Incidents Non-payment/Non-delivery has got 4.18 times higher Number of complaints than the minimum Cyber Incidents Spoofing. ",
       "Number of complaints at Cyber Incidents Non-payment/Non-delivery is 65116.0 , second place is Extortion at 51146.0, and thirdly is Personal data breach at 50642.0.",
-      "The Cyber Incidents Non-payment/Non-delivery has 2.13 times more Number of complaints than average. ",
-      "Summing up the values of all Cyber Incidentss, we get total 335559.0. "
+      "The Cyber Incidents Non-payment/Non-delivery tends to be 2.13 percent higher than average. "
    ],
    "trends": [
       {},

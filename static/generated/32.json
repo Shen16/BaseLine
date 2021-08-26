@@ -9,66 +9,19 @@
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "Overall Male, and Female are roughly constant,  throughout the Year",
-      "The ranking of the lines from topmost to botommmost is as follows: 1. Male, and lastly, 2. Female. ",
-      "Female reported the lowest Deaths per 100000 popultation about 4.7 in Year 2002",
-      "The greatest difference of Deaths per 100000 popultation between Male and Female occurs at Year 2002 and the smallest difference occurs at 2012."
+      "The minimum Deaths per 100000 popultation about 4.7, occured at 2002 by Female.",
+      "The gap between the lines at Year 2002 is 5.7 ."
    ],
    "xAxis": "Year",
    "yAxis": "Deaths per 100000 popultation",
-   "min_summary": [
-      "Overall Male, and Female are roughly constant,  throughout the Year"
-   ],
-   "mid_summary": [
-      "Overall Male, and Female are roughly constant,  throughout the Year"
-   ],
+   "min_summary": [],
+   "mid_summary": [],
    "max_summary": [
-      "Overall Male, and Female are roughly constant,  throughout the Year",
       "The minimum Deaths per 100000 popultation about 4.7, occured at 2002 by Female.",
-      "The difference of Deaths per 100000 popultation between Male and Female is roughly same at Year 2012 compared to the Year 2002."
+      "The gap between the lines at Year 2002 is 5.7 ."
    ],
    "trends": [
-      {},
-      {
-         "2": [
-            "0",
-            "0"
-         ],
-         "16": [
-            "2",
-            "0"
-         ]
-      },
-      {
-         "1": [
-            "1",
-            "0"
-         ],
-         "9": [
-            "1",
-            "0"
-         ]
-      },
-      {
-         "2": [
-            "0",
-            "1"
-         ],
-         "15": [
-            "2",
-            "1"
-         ]
-      },
-      {
-         "1": [
-            "1",
-            "1"
-         ],
-         "10": [
-            "1",
-            "1"
-         ]
-      }
+      {}
    ],
    "data": [
       {

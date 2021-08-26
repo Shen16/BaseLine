@@ -10,65 +10,22 @@
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "Overall 3rd is rapidly increasing, World Champion is gradually increasing, 2nd is roughly constant,  throughout the Year",
-      "The ranking of the lines from topmost to botommmost is as follows: 1. World Champion, 2. 2nd, and lastly, 3. 3rd. ",
-      "3rd has increased by 39999999999900.0 percent."
+      "Overall World Champion, and 3rd are gradually increasing, 2nd is gradually decreasing,  throughout the Year",
+      "The order of lines according to average values of SOME LABEL, in descending order is: 1. 2nd, 2. World Champion, and lastly, 3. 3rd. "
    ],
    "xAxis": "Year",
    "yAxis": "SOME LABEL",
    "min_summary": [
-      "Overall 3rd is rapidly increasing, World Champion is gradually increasing, 2nd is roughly constant,  throughout the Year"
+      "Overall World Champion, and 3rd are gradually increasing, 2nd is gradually decreasing,  throughout the Year"
    ],
    "mid_summary": [
-      "Overall 3rd is rapidly increasing, World Champion is gradually increasing, 2nd is roughly constant,  throughout the Year",
-      "3rd has increased by 39999999999900.0 percent."
+      "Overall World Champion, and 3rd are gradually increasing, 2nd is gradually decreasing,  throughout the Year"
    ],
    "max_summary": [
-      "Overall 3rd is rapidly increasing, World Champion is gradually increasing, 2nd is roughly constant,  throughout the Year",
-      "3rd has increased by 39999999999900.0 percent."
+      "Overall World Champion, and 3rd are gradually increasing, 2nd is gradually decreasing,  throughout the Year"
    ],
    "trends": [
-      {},
-      {
-         "2": [
-            "0",
-            "0"
-         ],
-         "16": [
-            "12",
-            "0"
-         ]
-      },
-      {
-         "1": [
-            "2",
-            "0"
-         ],
-         "9": [
-            "2",
-            "0"
-         ]
-      },
-      {
-         "2": [
-            "0",
-            "1"
-         ],
-         "15": [
-            "12",
-            "1"
-         ]
-      },
-      {
-         "1": [
-            "0",
-            "1"
-         ],
-         "10": [
-            "0",
-            "1"
-         ]
-      }
+      {}
    ],
    "data": [
       {

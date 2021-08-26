@@ -6,28 +6,28 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 10 columns on the x axis representing Month, and Sales value in million GBP in each Month on the y axis. ",
-      "The maximum Sales value in million GBP 1511.3 is found at Month Sterling and the minimum is found at Windsor where Month is 461.9. ",
-      "Month Windsor has 3.27 times less Sales value in million GBP than Month Sterling which is the highest. "
+      "This is a bar chart representing Month in the x axis and Sales value in million GBP in the y axis. ",
+      "The Sales value in million GBP is appeared to be the highest at Month Sterling and lowest at Month Windsor. ",
+      "The difference of Sales value in million GBP between the highest and lowest Month is 1049.4. "
    ],
    "min_summary": [
-      "This bar chart has 10 columns on the x axis representing Month, and Sales value in million GBP in each Month on the y axis. ",
-      "The maximum Sales value in million GBP 1511.3 is found at Month Sterling and the minimum is found at Windsor where Month is 461.9. "
+      "This is a bar chart representing Month in the x axis and Sales value in million GBP in the y axis. ",
+      "The Sales value in million GBP is appeared to be the highest at Month Sterling and lowest at Month Windsor. "
    ],
    "mid_summary": [
-      "This bar chart has 10 columns on the x axis representing Month, and Sales value in million GBP in each Month on the y axis. ",
-      "The maximum Sales value in million GBP 1511.3 is found at Month Sterling and the minimum is found at Windsor where Month is 461.9. ",
-      "Month Windsor has 3.27 times less Sales value in million GBP than Month Sterling which is the highest. "
+      "This is a bar chart representing Month in the x axis and Sales value in million GBP in the y axis. ",
+      "The Sales value in million GBP is appeared to be the highest at Month Sterling and lowest at Month Windsor. ",
+      "The difference of Sales value in million GBP between the highest and lowest Month is 1049.4. "
    ],
    "max_summary": [
-      "This bar chart has 10 columns on the x axis representing Month, and Sales value in million GBP in each Month on the y axis. ",
+      "This is a bar chart representing Month in the x axis and Sales value in million GBP in the y axis. ",
       "The Sales value in million GBP is highest at Month Sterling and lowest at Month Windsor. ",
-      "Second maximum Sales value in million GBP is found at Month Mayfair. ",
-      "The difference of Sales value in million GBP between the highest and lowest Month is 1049.4. ",
+      "Month Mayfair has the second highest value for Sales value in million GBP. ",
+      "The highest Month Sterling has 1049.4 more Sales value in million GBP than the lowest Month Windsor. ",
       "Month Sterling is higher than any other Months with value 1511.3, followed by Mayfair, and Lambert and Butler. Down to Month Windsor with the lowest value 461.9. ",
-      "Over the past 10 Months, the Sales value in million GBP has lowered. ",
-      "Considered together, the average Sales value in million GBP in all 10 Months is roughly 775.37. ",
-      "Summing up the values of all Months, we get total 7753.7. "
+      "The Sales value in million GBP has declined over the past 10 Months. ",
+      "The Month Windsor tends to be 1.95 percent lower than average. ",
+      "The Sales value in million GBP is 7753.7 if we add up values of all Months. "
    ],
    "trends": [
       {},

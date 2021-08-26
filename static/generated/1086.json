@@ -7,26 +7,25 @@
    "summaryType": "baseline",
    "summary": [
       "This is a bar chart. It shows Registrations in units for 51 number of States. ",
-      "State California has the highest Registrations in units and Dist. of Col. has the lowest Registrations in units. ",
-      "The highest State California has 838253.0 more Registrations in units than the lowest State Dist. of Col.. "
+      "The Registrations in units is appeared to be the highest at State California and lowest at State Dist. of Col.. ",
+      "There is a difference of 838253.0 between the maximum State California and minimum State Dist. of Col.. "
    ],
    "min_summary": [
-      "This is a bar chart. It shows Registrations in units for 51 number of States. ",
-      "State California has the highest Registrations in units and Dist. of Col. has the lowest Registrations in units. "
+      "This bar chart has 51 columns on the x axis representing State, and Registrations in units in each State on the y axis. ",
+      "The Registrations in units is appeared to be the highest at State California and lowest at State Dist. of Col.. "
    ],
    "mid_summary": [
       "This is a bar chart. It shows Registrations in units for 51 number of States. ",
-      "State California has the highest Registrations in units and Dist. of Col. has the lowest Registrations in units. ",
-      "The highest State California has 838253.0 more Registrations in units than the lowest State Dist. of Col.. "
+      "The Registrations in units is appeared to be the highest at State California and lowest at State Dist. of Col.. ",
+      "There is a difference of 838253.0 between the maximum State California and minimum State Dist. of Col.. "
    ],
    "max_summary": [
-      "This is a bar chart representing State in the x axis and Registrations in units in the y axis. ",
+      "This bar chart has 51 columns on the x axis representing State, and Registrations in units in each State on the y axis. ",
       "The Registrations in units is highest at State California and lowest at State Dist. of Col.. ",
       "The second highest Registrations in units is appeared to be the State Florida. ",
       "The highest State California has 838253.0 more Registrations in units than the lowest State Dist. of Col.. ",
       "Registrations in units at State California is 842543.0 , second place is Florida at 586267.0, and thirdly is Ohio at 410187.0.",
-      "The lowest value 4290.0 at Dist. of Col. is almost 4.93 times smaller than the average value 170886.35. ",
-      "Summing up the values of all States, we get total 8715204.0. "
+      "The lowest value 4290.0 at Dist. of Col. is almost 4.93 times smaller than the average value 170886.35. "
    ],
    "trends": [
       {},

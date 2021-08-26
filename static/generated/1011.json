@@ -9,66 +9,28 @@
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "Overall Europe, and U.S. are gradually increasing,  throughout the Year",
-      "The ranking of the lines from topmost to botommmost is as follows: 1. Europe, and lastly, 2. U.S.. ",
-      "U.S. reported the lowest SOME LABEL about 1.8 in Year 1990",
-      "The difference of SOME LABEL between Europe and U.S. is greater at Year 2025 compared to the Year 1990."
+      " In general SOME LABEL has rose over the Year.",
+      "SOME LABEL is roughly constant from 2020 to 2022, and finally slightly increasing from 2022 to 2025.",
+      "Maximum SOME LABEL, about 5.6 was reported at Year 2025",
+      "The lowest SOME LABEL, of value 4.5 was reported at Year 2020"
    ],
    "xAxis": "Year",
    "yAxis": "SOME LABEL",
    "min_summary": [
-      "Overall Europe, and U.S. are gradually increasing,  throughout the Year"
+      " In general SOME LABEL has rose over the Year."
    ],
    "mid_summary": [
-      "Overall Europe, and U.S. are gradually increasing,  throughout the Year"
+      " Overall SOME LABEL has increased over the Year.",
+      "SOME LABEL is roughly constant from 2020 to 2022, and finally slightly increasing from 2022 to 2025."
    ],
    "max_summary": [
-      "Overall Europe, and U.S. are gradually increasing,  throughout the Year",
-      "The minimum SOME LABEL about 1.8, occured at 1990 by U.S..",
-      "The greatest difference of SOME LABEL between Europe and U.S. occurs at Year 2013 and the smallest difference occurs at 2000."
+      " In general SOME LABEL has rose over the Year.",
+      "SOME LABEL is roughly constant from 2020 to 2022, and finally slightly increasing from 2022 to 2025.",
+      "Maximum SOME LABEL, about 5.6 was reported at Year 2025",
+      "The lowest SOME LABEL, of value 4.5 was reported at Year 2020"
    ],
    "trends": [
-      {},
-      {
-         "2": [
-            "0",
-            "0"
-         ],
-         "16": [
-            "17",
-            "0"
-         ]
-      },
-      {
-         "1": [
-            "5",
-            "0"
-         ],
-         "9": [
-            "5",
-            "0"
-         ]
-      },
-      {
-         "2": [
-            "0",
-            "1"
-         ],
-         "15": [
-            "17",
-            "1"
-         ]
-      },
-      {
-         "1": [
-            "1",
-            "1"
-         ],
-         "10": [
-            "1",
-            "1"
-         ]
-      }
+      {}
    ],
    "data": [
       {

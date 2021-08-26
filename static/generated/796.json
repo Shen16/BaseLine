@@ -6,29 +6,29 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This is a bar chart. It shows Payroll in thousand U.S. dollars for 30 number of Months. ",
-      "The Payroll in thousand U.S. dollars is appeared to be the highest at Month Zlatan Ibrahimovic and lowest at Month Diedie Traore. ",
-      "There is a difference of 7143.75 between the maximum Month Zlatan Ibrahimovic and minimum Month Diedie Traore. "
+      "This bar chart has 30 columns on the x axis representing Month, and Payroll in thousand U.S. dollars in each Month on the y axis. ",
+      "Month Zlatan Ibrahimovic has the highest Payroll in thousand U.S. dollars and Diedie Traore has the lowest Payroll in thousand U.S. dollars. ",
+      "The highest value at Month Zlatan Ibrahimovic is 128.0x times more than the lowest value at Diedie Traore. "
    ],
    "min_summary": [
-      "This is a bar chart. It shows Payroll in thousand U.S. dollars for 30 number of Months. ",
-      "Month Zlatan Ibrahimovic has the highest Payroll in thousand U.S. dollars and Diedie Traore has the lowest Payroll in thousand U.S. dollars. "
+      "This bar chart has 30 columns on the x axis representing Month, and Payroll in thousand U.S. dollars in each Month on the y axis. ",
+      "The Payroll in thousand U.S. dollars is highest at Month Zlatan Ibrahimovic and lowest at Month Diedie Traore. "
    ],
    "mid_summary": [
-      "This is a bar chart. It shows Payroll in thousand U.S. dollars for 30 number of Months. ",
-      "The Payroll in thousand U.S. dollars is appeared to be the highest at Month Zlatan Ibrahimovic and lowest at Month Diedie Traore. ",
-      "There is a difference of 7143.75 between the maximum Month Zlatan Ibrahimovic and minimum Month Diedie Traore. "
+      "This bar chart has 30 columns on the x axis representing Month, and Payroll in thousand U.S. dollars in each Month on the y axis. ",
+      "Month Zlatan Ibrahimovic has the highest Payroll in thousand U.S. dollars and Diedie Traore has the lowest Payroll in thousand U.S. dollars. ",
+      "The highest value at Month Zlatan Ibrahimovic is 128.0x times more than the lowest value at Diedie Traore. "
    ],
    "max_summary": [
-      "This is a bar chart. It shows Payroll in thousand U.S. dollars for 30 number of Months. ",
-      "The Payroll in thousand U.S. dollars is highest at Month Zlatan Ibrahimovic and lowest at Month Diedie Traore. ",
+      "This bar chart has 30 columns on the x axis representing Month, and Payroll in thousand U.S. dollars in each Month on the y axis. ",
+      "Month Zlatan Ibrahimovic has the highest Payroll in thousand U.S. dollars and Diedie Traore has the lowest Payroll in thousand U.S. dollars. ",
       "The second highest Payroll in thousand U.S. dollars is appeared to be the Month Jonathan dos Santos. ",
-      "There is a difference of 7143.75 between the maximum Month Zlatan Ibrahimovic and minimum Month Diedie Traore. ",
-      "The Month Zlatan Ibrahimovic has the highest Payroll in thousand U.S. dollars, followed by Jonathan dos Santos, and Romain Alessandrini. Down to the Month Diedie Traore which is the lowest. ",
+      "The highest Month Zlatan Ibrahimovic has 7143.75 more Payroll in thousand U.S. dollars than the lowest Month Diedie Traore. ",
+      "Payroll in thousand U.S. dollars at Month Zlatan Ibrahimovic is 7200.0 , second place is Jonathan dos Santos at 2000.0, and thirdly is Romain Alessandrini at 1940.0.",
       "Overall Payroll in thousand U.S. dollars has decreased over the Months. ",
       "Month Emil Cuello, Matt Lampson, and Servando Carrasco have a similar Payroll in thousand U.S. dollars that is 70.25. ",
-      "The Month Diedie Traore has 11.62 times less Payroll in thousand U.S. dollars than average. ",
-      "Summing up the values of all Months, we get total 18591.67. "
+      "The lowest value 56.25 at Diedie Traore is almost 11.62 times smaller than the average value 619.72. ",
+      "The Payroll in thousand U.S. dollars is 18591.67 if we add up values of all Months. "
    ],
    "trends": [
       {},

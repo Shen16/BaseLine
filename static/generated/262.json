@@ -8,26 +8,26 @@
    "summary": [
       "This is a bar chart. It shows E-commerce sales in million U.S. dollars for 44 number of Quarters. ",
       "The E-commerce sales in million U.S. dollars is appeared to be the highest at Quarter Q4 '19 and lowest at Quarter Q1 '09. ",
-      "The minimum Quarter Q1 '09 has got 4.63 times less E-commerce sales in million U.S. dollars than the maximum Quarter Q4 '19. "
+      "The lowest value at Quarter Q1 '09 is 4.63x times less than the highest value at Q4 '19. "
    ],
    "min_summary": [
-      "This is a bar chart. It shows E-commerce sales in million U.S. dollars for 44 number of Quarters. ",
-      "Quarter Q4 '19 has the highest E-commerce sales in million U.S. dollars and Q1 '09 has the lowest E-commerce sales in million U.S. dollars. "
+      "This is a bar chart representing Quarter in the x axis and E-commerce sales in million U.S. dollars in the y axis. ",
+      "The maximum E-commerce sales in million U.S. dollars 158049.0 is found at Quarter Q4 '19 and the minimum is found at Q1 '09 where Quarter is 34145.0. "
    ],
    "mid_summary": [
       "This is a bar chart. It shows E-commerce sales in million U.S. dollars for 44 number of Quarters. ",
       "The E-commerce sales in million U.S. dollars is appeared to be the highest at Quarter Q4 '19 and lowest at Quarter Q1 '09. ",
-      "The minimum Quarter Q1 '09 has got 4.63 times less E-commerce sales in million U.S. dollars than the maximum Quarter Q4 '19. "
+      "The lowest value at Quarter Q1 '09 is 4.63x times less than the highest value at Q4 '19. "
    ],
    "max_summary": [
-      "This is a bar chart representing Quarter in the x axis and E-commerce sales in million U.S. dollars in the y axis. ",
+      "This bar chart has 44 columns on the x axis representing Quarter, and E-commerce sales in million U.S. dollars in each Quarter on the y axis. ",
       "Quarter Q4 '19 has the highest E-commerce sales in million U.S. dollars and Q1 '09 has the lowest E-commerce sales in million U.S. dollars. ",
-      "Quarter Q3 '19 has the second highest value for E-commerce sales in million U.S. dollars. ",
-      "The highest Quarter Q4 '19 has 123904.0 more E-commerce sales in million U.S. dollars than the lowest Quarter Q1 '09. ",
+      "The second highest E-commerce sales in million U.S. dollars is appeared to be the Quarter Q3 '19. ",
+      "There is a difference of 123904.0 between the maximum Quarter Q4 '19 and minimum Quarter Q1 '09. ",
       "The Quarter Q4 '19 has the highest E-commerce sales in million U.S. dollars, followed by Q3 '19, and Q2 '19. Down to the Quarter Q1 '09 which is the lowest. ",
-      "Over the past 44 Quarters, the E-commerce sales in million U.S. dollars has reduced. ",
-      "The Quarter Q4 '19 has 1.93 times more E-commerce sales in million U.S. dollars than average. ",
-      "Summing up the values of all Quarters, we get total 3597151.0. "
+      "The E-commerce sales in million U.S. dollars has reduced over the past 44 Quarters. ",
+      "The Quarter Q1 '09 has 1.93 times less E-commerce sales in million U.S. dollars than average. ",
+      "The E-commerce sales in million U.S. dollars is 3597151.0 if we add up values of all Quarters. "
    ],
    "trends": [
       {},

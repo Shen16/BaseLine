@@ -9,64 +9,28 @@
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "Overall Female, and Male are roughly constant,  throughout the Year",
-      "The order of lines according to average values of SOME LABEL, in descending order is: 1. Male, and lastly, 2. Female. ",
-      "The difference of SOME LABEL between Female and Male is roughly same at Year 2018 compared to the Year 2015."
+      " Overall SOME LABEL has decreased over the Year.",
+      "SOME LABEL is roughly constant from 2014 to 2018, and lastly slightly decreasing from 2018 to 2019.",
+      "The highest SOME LABEL, of value 69.4 was reached at Year 2014,  2015, and 2016",
+      "Minimum SOME LABEL about 68.4 was reached at Year 2019"
    ],
    "xAxis": "Year",
    "yAxis": "SOME LABEL",
    "min_summary": [
-      "Overall Female, and Male are roughly constant,  throughout the Year"
+      " Overall SOME LABEL has decreased over the Year."
    ],
    "mid_summary": [
-      "Overall Female, and Male are roughly constant,  throughout the Year"
+      " Overall SOME LABEL has decreased over the Year.",
+      "SOME LABEL is roughly constant from 2014 to 2018, and lastly slightly decreasing from 2018 to 2019."
    ],
    "max_summary": [
-      "Overall Female, and Male are roughly constant,  throughout the Year",
-      "The difference of SOME LABEL between Female and Male is roughly same at Year 2018 compared to the Year 2015."
+      " Overall SOME LABEL has decreased over the Year.",
+      "SOME LABEL is roughly constant from 2014 to 2018, and lastly slightly decreasing from 2018 to 2019.",
+      "The highest SOME LABEL, of value 69.4 was reached at Year 2014,  2015, and 2016",
+      "Minimum SOME LABEL about 68.4 was reached at Year 2019"
    ],
    "trends": [
-      {},
-      {
-         "2": [
-            "0",
-            "1"
-         ],
-         "16": [
-            "5",
-            "1"
-         ]
-      },
-      {
-         "1": [
-            "0",
-            "1"
-         ],
-         "9": [
-            "0",
-            "1"
-         ]
-      },
-      {
-         "2": [
-            "0",
-            "0"
-         ],
-         "15": [
-            "5",
-            "0"
-         ]
-      },
-      {
-         "1": [
-            "3",
-            "0"
-         ],
-         "10": [
-            "3",
-            "0"
-         ]
-      }
+      {}
    ],
    "data": [
       {

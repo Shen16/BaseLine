@@ -6,27 +6,27 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 9 columns on the x axis representing Company, and Number of gas stations in each Company on the y axis. ",
-      "The maximum Number of gas stations 121.0 is found at Company Total and the minimum is found at Dyneff where Company is 8.0. ",
-      "The difference of Number of gas stations between the highest and lowest Company is 113.0. "
+      "This is a bar chart representing Company in the x axis and Number of gas stations in the y axis. ",
+      "The Number of gas stations is highest at Company Total and lowest at Company Dyneff. ",
+      "The highest Company Total has 113.0 more Number of gas stations than the lowest Company Dyneff. "
    ],
    "min_summary": [
       "This bar chart has 9 columns on the x axis representing Company, and Number of gas stations in each Company on the y axis. ",
       "The Number of gas stations is appeared to be the highest at Company Total and lowest at Company Dyneff. "
    ],
    "mid_summary": [
-      "This bar chart has 9 columns on the x axis representing Company, and Number of gas stations in each Company on the y axis. ",
-      "The maximum Number of gas stations 121.0 is found at Company Total and the minimum is found at Dyneff where Company is 8.0. ",
-      "The difference of Number of gas stations between the highest and lowest Company is 113.0. "
+      "This is a bar chart representing Company in the x axis and Number of gas stations in the y axis. ",
+      "The Number of gas stations is highest at Company Total and lowest at Company Dyneff. ",
+      "The highest Company Total has 113.0 more Number of gas stations than the lowest Company Dyneff. "
    ],
    "max_summary": [
-      "This bar chart has 9 columns on the x axis representing Company, and Number of gas stations in each Company on the y axis. ",
-      "The Number of gas stations is highest at Company Total and lowest at Company Dyneff. ",
-      "There is a difference of 113.0 between the maximum Company Total and minimum Company Dyneff. ",
-      "Company Total is higher than any other Companys with value 121.0, followed by Avia, and Shell. Down to Company Dyneff with the lowest value 8.0. ",
-      "Company Eni, and Esso have a similar Number of gas stations that is 46.0. ",
-      "The Company Total tends to be 2.46 percent higher than average. ",
-      "Summing up the values of all Companys, we get total 443.0. "
+      "This is a bar chart representing Company in the x axis and Number of gas stations in the y axis. ",
+      "Company Total has the highest Number of gas stations and Dyneff has the lowest Number of gas stations. ",
+      "Company Avia has the second highest value for Number of gas stations. ",
+      "The difference of Number of gas stations between the highest and lowest Company is 113.0. ",
+      "Number of gas stations at Company Total is 121.0 , second place is Avia at 72.0, and thirdly is Shell at 69.0.",
+      "Similar Number of gas stations is found in Company Eni, and Esso. ",
+      "The Company Total tends to be 2.46 percent higher than average. "
    ],
    "trends": [
       {},

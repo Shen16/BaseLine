@@ -7,27 +7,27 @@
    "summaryType": "baseline",
    "summary": [
       "This is a bar chart representing Quarter in the x axis and Inflation rate forecast in the y axis. ",
-      "The maximum Inflation rate forecast 2.1 is found at Quarter Q3 2019 and the minimum is found at Q2 2020 where Quarter is 1.82. ",
-      "There is a difference of 0.28 between the maximum Quarter Q3 2019 and minimum Quarter Q2 2020. "
+      "The Inflation rate forecast is highest at Quarter Q3 2019 and lowest at Quarter Q2 2020. ",
+      "The difference of Inflation rate forecast between the highest and lowest Quarter is 0.28. "
    ],
    "min_summary": [
-      "This is a bar chart. It shows Inflation rate forecast for 19 number of Quarters. ",
-      "The Inflation rate forecast is appeared to be the highest at Quarter Q3 2019 and lowest at Quarter Q2 2020. "
+      "This bar chart has 19 columns on the x axis representing Quarter, and Inflation rate forecast in each Quarter on the y axis. ",
+      "The Inflation rate forecast is highest at Quarter Q3 2019 and lowest at Quarter Q2 2020. "
    ],
    "mid_summary": [
       "This is a bar chart representing Quarter in the x axis and Inflation rate forecast in the y axis. ",
-      "The maximum Inflation rate forecast 2.1 is found at Quarter Q3 2019 and the minimum is found at Q2 2020 where Quarter is 1.82. ",
-      "There is a difference of 0.28 between the maximum Quarter Q3 2019 and minimum Quarter Q2 2020. "
+      "The Inflation rate forecast is highest at Quarter Q3 2019 and lowest at Quarter Q2 2020. ",
+      "The difference of Inflation rate forecast between the highest and lowest Quarter is 0.28. "
    ],
    "max_summary": [
-      "This is a bar chart. It shows Inflation rate forecast for 19 number of Quarters. ",
-      "The Inflation rate forecast is highest at Quarter Q3 2019 and lowest at Quarter Q2 2020. ",
+      "This bar chart has 19 columns on the x axis representing Quarter, and Inflation rate forecast in each Quarter on the y axis. ",
+      "The Inflation rate forecast is appeared to be the highest at Quarter Q3 2019 and lowest at Quarter Q2 2020. ",
       "Quarter Q4 2019 has the second highest value for Inflation rate forecast. ",
-      "Quarter Q3 2019 has 1.15 times more Inflation rate forecast than Quarter Q2 2020 which is has the lowest. ",
+      "The lowest value at Quarter Q2 2020 is 1.15x times less than the highest value at Q3 2019. ",
       "Inflation rate forecast at Quarter Q3 2019 is 2.1 , second place is Q4 2019 at 2.01, and thirdly is Q2 2022 at 2.0.",
-      "The Inflation rate forecast has climbed over the past 19 Quarters. ",
-      "Quarter Q1 2024, Q4 2023, Q3 2023, Q2 2023, Q1 2023, Q4 2022, Q3 2022, and Q2 2022 have a similar Inflation rate forecast that is 2.0. ",
-      "The Quarter Q3 2019 tends to be 1.07 percent higher than average. "
+      "Over the past 19 Quarters, the Inflation rate forecast has grew. ",
+      "Similar Inflation rate forecast is found in Quarter Q1 2024, Q4 2023, Q3 2023, Q2 2023, Q1 2023, Q4 2022, Q3 2022, and Q2 2022. ",
+      "The Quarter Q2 2020 tends to be 1.07 percent lower than average. "
    ],
    "trends": [
       {},

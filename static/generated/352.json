@@ -6,26 +6,27 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This is a bar chart representing Youtube Categories in the x axis and Share of views in the y axis. ",
+      "This is a bar chart. It shows Share of views for 11 number of Youtube Categoriess. ",
       "The maximum Share of views 62.0 is found at Youtube Categories Beauty and style and the minimum is found at Food and drink where Youtube Categories is 1.0. ",
-      "The difference of Share of views between the highest and lowest Youtube Categories is 61.0. "
+      "The highest value at Youtube Categories Beauty and style is 62.0x times more than the lowest value at Food and drink. "
    ],
    "min_summary": [
-      "This is a bar chart. It shows Share of views for 11 number of Youtube Categoriess. ",
-      "Youtube Categories Beauty and style has the highest Share of views and Food and drink has the lowest Share of views. "
+      "This bar chart has 11 columns on the x axis representing Youtube Categories, and Share of views in each Youtube Categories on the y axis. ",
+      "The maximum Share of views 62.0 is found at Youtube Categories Beauty and style and the minimum is found at Food and drink where Youtube Categories is 1.0. "
    ],
    "mid_summary": [
-      "This is a bar chart representing Youtube Categories in the x axis and Share of views in the y axis. ",
+      "This is a bar chart. It shows Share of views for 11 number of Youtube Categoriess. ",
       "The maximum Share of views 62.0 is found at Youtube Categories Beauty and style and the minimum is found at Food and drink where Youtube Categories is 1.0. ",
-      "The difference of Share of views between the highest and lowest Youtube Categories is 61.0. "
+      "The highest value at Youtube Categories Beauty and style is 62.0x times more than the lowest value at Food and drink. "
    ],
    "max_summary": [
       "This bar chart has 11 columns on the x axis representing Youtube Categories, and Share of views in each Youtube Categories on the y axis. ",
-      "The maximum Share of views 62.0 is found at Youtube Categories Beauty and style and the minimum is found at Food and drink where Youtube Categories is 1.0. ",
+      "Youtube Categories Beauty and style has the highest Share of views and Food and drink has the lowest Share of views. ",
       "The difference of Share of views between the highest and lowest Youtube Categories is 61.0. ",
-      "The Youtube Categories Beauty and style has the highest Share of views, followed by Other, and Health and fitness. Down to the Youtube Categories Food and drink which is the lowest. ",
-      "Youtube Categories Shopping, Movies and tv, and People share the same value 4.0. ",
-      "The Youtube Categories Beauty and style has 6.82 times more Share of views than average. "
+      "Share of views at Youtube Categories Beauty and style is 62.0 , second place is Other at 7.0, and thirdly is Health and fitness at 6.0.",
+      "Youtube Categories Shopping, Movies and tv, and People have the same Share of views. ",
+      "The Youtube Categories Beauty and style has 6.82 times more Share of views than average. ",
+      "Summing up the values of all Youtube Categoriess, we get total 100.0. "
    ],
    "trends": [
       {},

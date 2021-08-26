@@ -8,67 +8,14 @@
    "columnType": "multi",
    "graphType": "line",
    "summaryType": "baseline",
-   "summary": [
-      "Overall Employees is gradually decreasing, Establishments is roughly constant,  throughout the Year",
-      "The order of lines according to average values of Number in thousands, in descending order is: 1. Employees, and lastly, 2. Establishments. ",
-      "Establishments reported the lowest Number in thousands about 4.5 in Year 2008",
-      "The greatest difference of Number in thousands between Establishments and Employees occurs at Year 2007 and the smallest difference occurs at 2009."
-   ],
+   "summary": [],
    "xAxis": "Year",
    "yAxis": "Number in thousands",
-   "min_summary": [
-      "Overall Employees is gradually decreasing, Establishments is roughly constant,  throughout the Year"
-   ],
-   "mid_summary": [
-      "Overall Employees is gradually decreasing, Establishments is roughly constant,  throughout the Year"
-   ],
-   "max_summary": [
-      "Overall Employees is gradually decreasing, Establishments is roughly constant,  throughout the Year",
-      "The minimum Number in thousands about 4.5, occured at 2008 by Establishments.",
-      "The greatest difference of Number in thousands between Establishments and Employees occurs at Year 2007 and the smallest difference occurs at 2009."
-   ],
+   "min_summary": [],
+   "mid_summary": [],
+   "max_summary": [],
    "trends": [
-      {},
-      {
-         "2": [
-            "0",
-            "1"
-         ],
-         "16": [
-            "3",
-            "1"
-         ]
-      },
-      {
-         "1": [
-            "0",
-            "1"
-         ],
-         "9": [
-            "0",
-            "1"
-         ]
-      },
-      {
-         "2": [
-            "0",
-            "0"
-         ],
-         "15": [
-            "3",
-            "0"
-         ]
-      },
-      {
-         "1": [
-            "0",
-            "0"
-         ],
-         "10": [
-            "0",
-            "0"
-         ]
-      }
+      {}
    ],
    "data": [
       {

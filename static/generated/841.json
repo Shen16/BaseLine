@@ -6,28 +6,27 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This is a bar chart representing Occupation in the x axis and Annual compensation in thousand U.S. dollars in the y axis. ",
+      "This bar chart has 29 columns on the x axis representing Occupation, and Annual compensation in thousand U.S. dollars in each Occupation on the y axis. ",
       "The Annual compensation in thousand U.S. dollars is highest at Occupation Orthopedics and lowest at Occupation Public health/preventive medicine. ",
-      "The difference of Annual compensation in thousand U.S. dollars between the highest and lowest Occupation is 273.0. "
+      "The highest Occupation Orthopedics has 273.0 more Annual compensation in thousand U.S. dollars than the lowest Occupation Public health/preventive medicine. "
    ],
    "min_summary": [
       "This is a bar chart. It shows Annual compensation in thousand U.S. dollars for 29 number of Occupations. ",
-      "Occupation Orthopedics has the highest Annual compensation in thousand U.S. dollars and Public health/preventive medicine has the lowest Annual compensation in thousand U.S. dollars. "
+      "The maximum Annual compensation in thousand U.S. dollars 482.0 is found at Occupation Orthopedics and the minimum is found at Public health/preventive medicine where Occupation is 209.0. "
    ],
    "mid_summary": [
-      "This is a bar chart representing Occupation in the x axis and Annual compensation in thousand U.S. dollars in the y axis. ",
+      "This bar chart has 29 columns on the x axis representing Occupation, and Annual compensation in thousand U.S. dollars in each Occupation on the y axis. ",
       "The Annual compensation in thousand U.S. dollars is highest at Occupation Orthopedics and lowest at Occupation Public health/preventive medicine. ",
-      "The difference of Annual compensation in thousand U.S. dollars between the highest and lowest Occupation is 273.0. "
+      "The highest Occupation Orthopedics has 273.0 more Annual compensation in thousand U.S. dollars than the lowest Occupation Public health/preventive medicine. "
    ],
    "max_summary": [
-      "This bar chart has 29 columns on the x axis representing Occupation, and Annual compensation in thousand U.S. dollars in each Occupation on the y axis. ",
-      "Occupation Orthopedics has the highest Annual compensation in thousand U.S. dollars and Public health/preventive medicine has the lowest Annual compensation in thousand U.S. dollars. ",
-      "The second highest Annual compensation in thousand U.S. dollars is appeared to be the Occupation Plastic surgery. ",
-      "Occupation Orthopedics has 2.31 times more Annual compensation in thousand U.S. dollars than Occupation Public health/preventive medicine which is has the lowest. ",
-      "Occupation Orthopedics is higher than any other Occupations with value 482.0, followed by Plastic surgery, and Otolaryngology. Down to Occupation Public health/preventive medicine with the lowest value 209.0. ",
+      "This is a bar chart representing Occupation in the x axis and Annual compensation in thousand U.S. dollars in the y axis. ",
+      "The Annual compensation in thousand U.S. dollars is highest at Occupation Orthopedics and lowest at Occupation Public health/preventive medicine. ",
+      "Second maximum Annual compensation in thousand U.S. dollars is found at Occupation Plastic surgery. ",
+      "The highest Occupation Orthopedics has 273.0 more Annual compensation in thousand U.S. dollars than the lowest Occupation Public health/preventive medicine. ",
+      "Annual compensation in thousand U.S. dollars at Occupation Orthopedics is 482.0 , second place is Plastic surgery at 471.0, and thirdly is Otolaryngology at 461.0.",
       "Occupation Dermatology, and Radiology share the same value 419.0. ",
-      "The lowest value 209.0 at Public health/preventive medicine is almost 1.44 times smaller than the average value 333.97. ",
-      "Summing up the values of all Occupations, we get total 9685.0. "
+      "The Occupation Orthopedics tends to be 1.44 percent higher than average. "
    ],
    "trends": [
       {},

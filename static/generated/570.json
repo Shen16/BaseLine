@@ -9,66 +9,28 @@
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "Overall Catalonia, and Spain are gradually increasing,  throughout the Year",
-      "The ranking of the lines from topmost to botommmost is as follows: 1. Spain, and lastly, 2. Catalonia. ",
-      "Catalonia reported the lowest GDP in million euros about 156600.0 in Year 2003",
-      "The difference of GDP in million euros between Catalonia and Spain is greater at Year 2016 compared to the Year 2003."
+      " In general GDP in million euros has stayed the same over the Year.",
+      "GDP in million euros is slightly increasing from 2013 to 2014.",
+      "Maximum GDP in million euros, about 1037820.0 was reported at Year 2014",
+      "Minimum GDP in million euros about 1025693.0 was reached at Year 2013"
    ],
    "xAxis": "Year",
    "yAxis": "GDP in million euros",
    "min_summary": [
-      "Overall Catalonia, and Spain are gradually increasing,  throughout the Year"
+      " In general GDP in million euros has stayed the same over the Year."
    ],
    "mid_summary": [
-      "Overall Catalonia, and Spain are gradually increasing,  throughout the Year"
+      " Overall GDP in million euros has increased over the Year.",
+      "GDP in million euros is slightly increasing from 2013 to 2014."
    ],
    "max_summary": [
-      "Overall Catalonia, and Spain are gradually increasing,  throughout the Year",
-      "Catalonia reported the lowest GDP in million euros about 156600.0 in Year 2003",
-      "The difference of GDP in million euros between Catalonia and Spain is greater at Year 2016 compared to the Year 2003."
+      " Overall GDP in million euros has increased over the Year.",
+      "GDP in million euros is slightly increasing from 2013 to 2014.",
+      "Maximum GDP in million euros, about 1037820.0 was reported at Year 2014",
+      "Minimum GDP in million euros about 1025693.0 was reached at Year 2013"
    ],
    "trends": [
-      {},
-      {
-         "2": [
-            "0",
-            "1"
-         ],
-         "16": [
-            "14",
-            "1"
-         ]
-      },
-      {
-         "1": [
-            "13",
-            "1"
-         ],
-         "9": [
-            "13",
-            "1"
-         ]
-      },
-      {
-         "2": [
-            "0",
-            "0"
-         ],
-         "15": [
-            "14",
-            "0"
-         ]
-      },
-      {
-         "1": [
-            "13",
-            "0"
-         ],
-         "10": [
-            "13",
-            "0"
-         ]
-      }
+      {}
    ],
    "data": [
       {

@@ -6,24 +6,24 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 2 columns on the x axis representing Sex, and Number of users in millions in each Sex on the y axis. ",
-      "The Number of users in millions is appeared to be the highest at Sex Female and lowest at Sex Male. ",
-      "The highest Sex Female has 26.3 more Number of users in millions than the lowest Sex Male. "
+      "This is a bar chart representing Sex in the x axis and Number of users in millions in the y axis. ",
+      "The maximum Number of users in millions 58.9 is found at Sex Female and the minimum is found at Male where Sex is 32.6. ",
+      "The difference of Number of users in millions between the highest and lowest Sex is 26.3. "
    ],
    "min_summary": [
-      "This bar chart has 2 columns on the x axis representing Sex, and Number of users in millions in each Sex on the y axis. ",
-      "Sex Female has the highest Number of users in millions and Male has the lowest Number of users in millions. "
+      "This is a bar chart representing Sex in the x axis and Number of users in millions in the y axis. ",
+      "The Number of users in millions is appeared to be the highest at Sex Female and lowest at Sex Male. "
    ],
    "mid_summary": [
-      "This bar chart has 2 columns on the x axis representing Sex, and Number of users in millions in each Sex on the y axis. ",
-      "The Number of users in millions is appeared to be the highest at Sex Female and lowest at Sex Male. ",
-      "The highest Sex Female has 26.3 more Number of users in millions than the lowest Sex Male. "
+      "This is a bar chart representing Sex in the x axis and Number of users in millions in the y axis. ",
+      "The maximum Number of users in millions 58.9 is found at Sex Female and the minimum is found at Male where Sex is 32.6. ",
+      "The difference of Number of users in millions between the highest and lowest Sex is 26.3. "
    ],
    "max_summary": [
       "This is a bar chart. It shows Number of users in millions for 2 number of Sexs. ",
-      "The Number of users in millions is highest at Sex Female and lowest at Sex Male. ",
-      "The highest Sex Female has 26.3 more Number of users in millions than the lowest Sex Male. ",
-      "The Sex Female tends to be 1.29 percent higher than average. ",
+      "The maximum Number of users in millions 58.9 is found at Sex Female and the minimum is found at Male where Sex is 32.6. ",
+      "The difference of Number of users in millions between the highest and lowest Sex is 26.3. ",
+      "The Sex Female has 1.29 times more Number of users in millions than average. ",
       "Summing up the values of all Sexs, we get total 91.5. "
    ],
    "trends": [

@@ -6,25 +6,26 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 3 columns on the x axis representing Lighting Type, and Energy cost in U.S. dollars in each Lighting Type on the y axis. ",
-      "The Energy cost in U.S. dollars is appeared to be the highest at Lighting Type Standard incandescent lights (125 lights 4 watts each) and lowest at Lighting Type LED lights (280 lights 0.04 watts each). ",
-      "The highest Lighting Type Standard incandescent lights (125 lights 4 watts each) has 27.15 more Energy cost in U.S. dollars than the lowest Lighting Type LED lights (280 lights 0.04 watts each). "
+      "This is a bar chart. It shows Energy cost in U.S. dollars for 3 number of Lighting Types. ",
+      "The maximum Energy cost in U.S. dollars 27.21 is found at Lighting Type Standard incandescent lights (125 lights 4 watts each) and the minimum is found at LED lights (280 lights 0.04 watts each) where Lighting Type is 0.06. ",
+      "There is a difference of 27.15 between the maximum Lighting Type Standard incandescent lights (125 lights 4 watts each) and minimum Lighting Type LED lights (280 lights 0.04 watts each). "
    ],
    "min_summary": [
       "This bar chart has 3 columns on the x axis representing Lighting Type, and Energy cost in U.S. dollars in each Lighting Type on the y axis. ",
-      "Lighting Type Standard incandescent lights (125 lights 4 watts each) has the highest Energy cost in U.S. dollars and LED lights (280 lights 0.04 watts each) has the lowest Energy cost in U.S. dollars. "
+      "The maximum Energy cost in U.S. dollars 27.21 is found at Lighting Type Standard incandescent lights (125 lights 4 watts each) and the minimum is found at LED lights (280 lights 0.04 watts each) where Lighting Type is 0.06. "
    ],
    "mid_summary": [
-      "This bar chart has 3 columns on the x axis representing Lighting Type, and Energy cost in U.S. dollars in each Lighting Type on the y axis. ",
-      "The Energy cost in U.S. dollars is appeared to be the highest at Lighting Type Standard incandescent lights (125 lights 4 watts each) and lowest at Lighting Type LED lights (280 lights 0.04 watts each). ",
-      "The highest Lighting Type Standard incandescent lights (125 lights 4 watts each) has 27.15 more Energy cost in U.S. dollars than the lowest Lighting Type LED lights (280 lights 0.04 watts each). "
+      "This is a bar chart. It shows Energy cost in U.S. dollars for 3 number of Lighting Types. ",
+      "The maximum Energy cost in U.S. dollars 27.21 is found at Lighting Type Standard incandescent lights (125 lights 4 watts each) and the minimum is found at LED lights (280 lights 0.04 watts each) where Lighting Type is 0.06. ",
+      "There is a difference of 27.15 between the maximum Lighting Type Standard incandescent lights (125 lights 4 watts each) and minimum Lighting Type LED lights (280 lights 0.04 watts each). "
    ],
    "max_summary": [
       "This bar chart has 3 columns on the x axis representing Lighting Type, and Energy cost in U.S. dollars in each Lighting Type on the y axis. ",
-      "The Energy cost in U.S. dollars is highest at Lighting Type Standard incandescent lights (125 lights 4 watts each) and lowest at Lighting Type LED lights (280 lights 0.04 watts each). ",
+      "The Energy cost in U.S. dollars is appeared to be the highest at Lighting Type Standard incandescent lights (125 lights 4 watts each) and lowest at Lighting Type LED lights (280 lights 0.04 watts each). ",
       "Second maximum Energy cost in U.S. dollars is found at Lighting Type Mini-incandescent lights (300 lights 0.4 watts each). ",
       "The difference of Energy cost in U.S. dollars between the highest and lowest Lighting Type is 27.15. ",
-      "The average Energy cost in U.S. dollars in all 3 Lighting Types is 11.27. "
+      "The Lighting Type Standard incandescent lights (125 lights 4 watts each) has 2.42 times more Energy cost in U.S. dollars than average. ",
+      "The Energy cost in U.S. dollars is 33.8 if we add up values of all Lighting Types. "
    ],
    "trends": [
       {},

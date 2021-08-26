@@ -6,25 +6,26 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 3 columns on the x axis representing Response, and Share of respondents in each Response on the y axis. ",
-      "Response Very/somewhat negative has the highest Share of respondents and Don't know / no answer has the lowest Share of respondents. ",
-      "The lowest value at Response Don't know / no answer is 8.33x times less than the highest value at Very/somewhat negative. "
+      "This is a bar chart. It shows Share of respondents for 3 number of Responses. ",
+      "The maximum Share of respondents 50.0 is found at Response Very/somewhat negative and the minimum is found at Don't know / no answer where Response is 6.0. ",
+      "The highest Response Very/somewhat negative has 44.0 more Share of respondents than the lowest Response Don't know / no answer. "
    ],
    "min_summary": [
-      "This is a bar chart. It shows Share of respondents for 3 number of Responses. ",
-      "The Share of respondents is highest at Response Very/somewhat negative and lowest at Response Don't know / no answer. "
+      "This is a bar chart representing Response in the x axis and Share of respondents in the y axis. ",
+      "Response Very/somewhat negative has the highest Share of respondents and Don't know / no answer has the lowest Share of respondents. "
    ],
    "mid_summary": [
-      "This bar chart has 3 columns on the x axis representing Response, and Share of respondents in each Response on the y axis. ",
-      "Response Very/somewhat negative has the highest Share of respondents and Don't know / no answer has the lowest Share of respondents. ",
-      "The lowest value at Response Don't know / no answer is 8.33x times less than the highest value at Very/somewhat negative. "
+      "This is a bar chart. It shows Share of respondents for 3 number of Responses. ",
+      "The maximum Share of respondents 50.0 is found at Response Very/somewhat negative and the minimum is found at Don't know / no answer where Response is 6.0. ",
+      "The highest Response Very/somewhat negative has 44.0 more Share of respondents than the lowest Response Don't know / no answer. "
    ],
    "max_summary": [
-      "This is a bar chart representing Response in the x axis and Share of respondents in the y axis. ",
+      "This bar chart has 3 columns on the x axis representing Response, and Share of respondents in each Response on the y axis. ",
       "The maximum Share of respondents 50.0 is found at Response Very/somewhat negative and the minimum is found at Don't know / no answer where Response is 6.0. ",
-      "Second maximum Share of respondents is found at Response Very/somewhat positive. ",
-      "There is a difference of 44.0 between the maximum Response Very/somewhat negative and minimum Response Don't know / no answer. ",
-      "The Response Very/somewhat negative tends to be 1.5 percent higher than average. "
+      "Response Very/somewhat positive has the second highest value for Share of respondents. ",
+      "The Share of respondents of Response Very/somewhat negative is 8.33% larger than the minimum value at Don't know / no answer. ",
+      "The Response Very/somewhat negative tends to be 1.5 percent higher than average. ",
+      "The Share of respondents is 100.0 if we add up values of all Responses. "
    ],
    "trends": [
       {},

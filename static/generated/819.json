@@ -6,28 +6,27 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 10 columns on the x axis representing Month, and Residents in millions in each Month on the y axis. ",
-      "The Residents in millions is appeared to be the highest at Month Ky\u00efv (Kiev) and lowest at Month Mariupol'. ",
-      "There is a difference of 2.46 between the maximum Month Ky\u00efv (Kiev) and minimum Month Mariupol'. "
+      "This is a bar chart. It shows Residents in millions for 10 number of Months. ",
+      "Month Ky\u00efv (Kiev) has the highest Residents in millions and Mariupol' has the lowest Residents in millions. ",
+      "The highest value at Month Ky\u00efv (Kiev) is 6.47x times more than the lowest value at Mariupol'. "
    ],
    "min_summary": [
-      "This bar chart has 10 columns on the x axis representing Month, and Residents in millions in each Month on the y axis. ",
-      "The maximum Residents in millions 2.91 is found at Month Ky\u00efv (Kiev) and the minimum is found at Mariupol' where Month is 0.45. "
+      "This is a bar chart. It shows Residents in millions for 10 number of Months. ",
+      "Month Ky\u00efv (Kiev) has the highest Residents in millions and Mariupol' has the lowest Residents in millions. "
    ],
    "mid_summary": [
-      "This bar chart has 10 columns on the x axis representing Month, and Residents in millions in each Month on the y axis. ",
-      "The Residents in millions is appeared to be the highest at Month Ky\u00efv (Kiev) and lowest at Month Mariupol'. ",
-      "There is a difference of 2.46 between the maximum Month Ky\u00efv (Kiev) and minimum Month Mariupol'. "
+      "This is a bar chart. It shows Residents in millions for 10 number of Months. ",
+      "Month Ky\u00efv (Kiev) has the highest Residents in millions and Mariupol' has the lowest Residents in millions. ",
+      "The highest value at Month Ky\u00efv (Kiev) is 6.47x times more than the lowest value at Mariupol'. "
    ],
    "max_summary": [
       "This bar chart has 10 columns on the x axis representing Month, and Residents in millions in each Month on the y axis. ",
-      "The maximum Residents in millions 2.91 is found at Month Ky\u00efv (Kiev) and the minimum is found at Mariupol' where Month is 0.45. ",
+      "The Residents in millions is appeared to be the highest at Month Ky\u00efv (Kiev) and lowest at Month Mariupol'. ",
       "Second maximum Residents in millions is found at Month Charkiv. ",
       "There is a difference of 2.46 between the maximum Month Ky\u00efv (Kiev) and minimum Month Mariupol'. ",
-      "Month Ky\u00efv (Kiev) is higher than any other Months with value 2.91, followed by Charkiv, and Od\u0117sa. Down to Month Mariupol' with the lowest value 0.45. ",
-      "The Residents in millions has declined over the past 10 Months. ",
-      "The Month Ky\u00efv (Kiev) has 2.81 times more Residents in millions than average. ",
-      "The Residents in millions is 10.35 if we add up values of all Months. "
+      "The Month Ky\u00efv (Kiev) has the highest Residents in millions, followed by Charkiv, and Od\u0117sa. Down to the Month Mariupol' which is the lowest. ",
+      "Over the past 10 Months, the Residents in millions has lowered. ",
+      "The Month Ky\u00efv (Kiev) has 2.81 times more Residents in millions than average. "
    ],
    "trends": [
       {},

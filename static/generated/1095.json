@@ -8,25 +8,25 @@
    "summary": [
       "This is a bar chart representing Geographical area in the x axis and Share of net sales in the y axis. ",
       "The maximum Share of net sales 58.0 is found at Geographical area North America and the minimum is found at Rest of the world where Geographical area is 2.0. ",
-      "There is a difference of 56.0 between the maximum Geographical area North America and minimum Geographical area Rest of the world. "
+      "The difference of Share of net sales between the highest and lowest Geographical area is 56.0. "
    ],
    "min_summary": [
-      "This bar chart has 5 columns on the x axis representing Geographical area, and Share of net sales in each Geographical area on the y axis. ",
-      "The Share of net sales is highest at Geographical area North America and lowest at Geographical area Rest of the world. "
+      "This is a bar chart. It shows Share of net sales for 5 number of Geographical areas. ",
+      "The Share of net sales is appeared to be the highest at Geographical area North America and lowest at Geographical area Rest of the world. "
    ],
    "mid_summary": [
       "This is a bar chart representing Geographical area in the x axis and Share of net sales in the y axis. ",
       "The maximum Share of net sales 58.0 is found at Geographical area North America and the minimum is found at Rest of the world where Geographical area is 2.0. ",
-      "There is a difference of 56.0 between the maximum Geographical area North America and minimum Geographical area Rest of the world. "
+      "The difference of Share of net sales between the highest and lowest Geographical area is 56.0. "
    ],
    "max_summary": [
-      "This is a bar chart. It shows Share of net sales for 5 number of Geographical areas. ",
-      "The Share of net sales is appeared to be the highest at Geographical area North America and lowest at Geographical area Rest of the world. ",
+      "This is a bar chart representing Geographical area in the x axis and Share of net sales in the y axis. ",
+      "Geographical area North America has the highest Share of net sales and Rest of the world has the lowest Share of net sales. ",
       "Second maximum Share of net sales is found at Geographical area Europe. ",
-      "There is a difference of 56.0 between the maximum Geographical area North America and minimum Geographical area Rest of the world. ",
-      "Share of net sales at Geographical area North America is 58.0 , second place is Europe at 21.0, and thirdly is Asia-Pacific at 13.0.",
+      "Geographical area Rest of the world has 29.0 times less Share of net sales than Geographical area North America which is the highest. ",
+      "Geographical area North America is higher than any other Geographical areas with value 58.0, followed by Europe, and Asia-Pacific. Down to Geographical area Rest of the world with the lowest value 2.0. ",
       "The Geographical area North America tends to be 2.9 percent higher than average. ",
-      "Summing up the values of all Geographical areas, we get total 100.0. "
+      "The Share of net sales is 100.0 if we add up values of all Geographical areas. "
    ],
    "trends": [
       {},

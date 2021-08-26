@@ -6,27 +6,27 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This is a bar chart representing Country in the x axis and Number of visas issued in the y axis. ",
+      "This bar chart has 11 columns on the x axis representing Country, and Number of visas issued in each Country on the y axis. ",
       "Country India has the highest Number of visas issued and Germany has the lowest Number of visas issued. ",
       "The highest Country India has 70811.0 more Number of visas issued than the lowest Country Germany. "
    ],
    "min_summary": [
-      "This is a bar chart. It shows Number of visas issued for 11 number of Countrys. ",
-      "The maximum Number of visas issued 72438.0 is found at Country India and the minimum is found at Germany where Country is 1627.0. "
+      "This is a bar chart representing Country in the x axis and Number of visas issued in the y axis. ",
+      "The Number of visas issued is highest at Country India and lowest at Country Germany. "
    ],
    "mid_summary": [
-      "This is a bar chart representing Country in the x axis and Number of visas issued in the y axis. ",
+      "This bar chart has 11 columns on the x axis representing Country, and Number of visas issued in each Country on the y axis. ",
       "Country India has the highest Number of visas issued and Germany has the lowest Number of visas issued. ",
       "The highest Country India has 70811.0 more Number of visas issued than the lowest Country Germany. "
    ],
    "max_summary": [
-      "This is a bar chart. It shows Number of visas issued for 11 number of Countrys. ",
-      "The Number of visas issued is highest at Country India and lowest at Country Germany. ",
-      "Second maximum Number of visas issued is found at Country Other. ",
-      "The difference of Number of visas issued between the highest and lowest Country is 70811.0. ",
-      "The Country India has the highest Number of visas issued, followed by Other, and China-mainland. Down to the Country Germany which is the lowest. ",
+      "This bar chart has 11 columns on the x axis representing Country, and Number of visas issued in each Country on the y axis. ",
+      "The Number of visas issued is appeared to be the highest at Country India and lowest at Country Germany. ",
+      "The second highest Number of visas issued is appeared to be the Country Other. ",
+      "The highest Country India has 70811.0 more Number of visas issued than the lowest Country Germany. ",
+      "Country India is higher than any other Countrys with value 72438.0, followed by Other, and China-mainland. Down to Country Germany with the lowest value 1627.0. ",
       "Considered together, the average Number of visas issued in all 11 Countrys is roughly 11739.45. ",
-      "The Number of visas issued is 129134.0 if we add up values of all Countrys. "
+      "Summing up the values of all Countrys, we get total 129134.0. "
    ],
    "trends": [
       {},

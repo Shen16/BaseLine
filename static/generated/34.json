@@ -9,66 +9,26 @@
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "Overall Import is gradually increasing, Export is gradually decreasing,  throughout the Year",
+      "Overall Export is gradually increasing, Import is roughly constant,  throughout the Year",
       "The ranking of the lines from topmost to botommmost is as follows: 1. Import, and lastly, 2. Export. ",
-      "Export reported the lowest Trade in thousands metric tons about 43256.4 in Year 2014",
-      "The greatest difference of Trade in thousands metric tons between Export and Import occurs at Year 2017 and the smallest difference occurs at 2011."
+      "The minimum Trade in thousands metric tons about 29452.8, occured at 2009 by Export.",
+      "The greatest difference of Trade in thousands metric tons between Export and Import occurs at Year 2007 and the smallest difference occurs at 2010."
    ],
    "xAxis": "Year",
    "yAxis": "Trade in thousands metric tons",
    "min_summary": [
-      "Overall Import is gradually increasing, Export is gradually decreasing,  throughout the Year"
+      "Overall Export is gradually increasing, Import is roughly constant,  throughout the Year"
    ],
    "mid_summary": [
-      "Overall Import is gradually increasing, Export is gradually decreasing,  throughout the Year"
+      "Overall Export is gradually increasing, Import is roughly constant,  throughout the Year"
    ],
    "max_summary": [
-      "Overall Import is gradually increasing, Export is gradually decreasing,  throughout the Year",
-      "The minimum Trade in thousands metric tons about 43256.4, occured at 2014 by Export.",
-      "The greatest difference of Trade in thousands metric tons between Export and Import occurs at Year 2017 and the smallest difference occurs at 2011."
+      "Overall Export is gradually increasing, Import is roughly constant,  throughout the Year",
+      "The minimum Trade in thousands metric tons about 29452.8, occured at 2009 by Export.",
+      "The difference of Trade in thousands metric tons between Export and Import is smaller at Year 2010 compared to the Year 2007."
    ],
    "trends": [
-      {},
-      {
-         "2": [
-            "0",
-            "1"
-         ],
-         "16": [
-            "13",
-            "1"
-         ]
-      },
-      {
-         "1": [
-            "2",
-            "1"
-         ],
-         "9": [
-            "2",
-            "1"
-         ]
-      },
-      {
-         "2": [
-            "0",
-            "0"
-         ],
-         "15": [
-            "13",
-            "0"
-         ]
-      },
-      {
-         "1": [
-            "2",
-            "0"
-         ],
-         "10": [
-            "2",
-            "0"
-         ]
-      }
+      {}
    ],
    "data": [
       {

@@ -6,27 +6,26 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This is a bar chart. It shows Sales price in million U.S. dollars for 10 number of Top Level Domainss. ",
+      "This bar chart has 10 columns on the x axis representing Top Level Domains, and Sales price in million U.S. dollars in each Top Level Domains on the y axis. ",
       "The Sales price in million U.S. dollars is appeared to be the highest at Top Level Domains .web (Jul '16) and lowest at Top Level Domains .vip (Sep '14). ",
-      "There is a difference of 132.0 between the maximum Top Level Domains .web (Jul '16) and minimum Top Level Domains .vip (Sep '14). "
+      "The difference of Sales price in million U.S. dollars between the highest and lowest Top Level Domains is 132.0. "
    ],
    "min_summary": [
       "This is a bar chart. It shows Sales price in million U.S. dollars for 10 number of Top Level Domainss. ",
-      "The Sales price in million U.S. dollars is appeared to be the highest at Top Level Domains .web (Jul '16) and lowest at Top Level Domains .vip (Sep '14). "
+      "The Sales price in million U.S. dollars is highest at Top Level Domains .web (Jul '16) and lowest at Top Level Domains .vip (Sep '14). "
    ],
    "mid_summary": [
-      "This is a bar chart. It shows Sales price in million U.S. dollars for 10 number of Top Level Domainss. ",
+      "This bar chart has 10 columns on the x axis representing Top Level Domains, and Sales price in million U.S. dollars in each Top Level Domains on the y axis. ",
       "The Sales price in million U.S. dollars is appeared to be the highest at Top Level Domains .web (Jul '16) and lowest at Top Level Domains .vip (Sep '14). ",
-      "There is a difference of 132.0 between the maximum Top Level Domains .web (Jul '16) and minimum Top Level Domains .vip (Sep '14). "
+      "The difference of Sales price in million U.S. dollars between the highest and lowest Top Level Domains is 132.0. "
    ],
    "max_summary": [
       "This is a bar chart. It shows Sales price in million U.S. dollars for 10 number of Top Level Domainss. ",
-      "The maximum Sales price in million U.S. dollars 135.0 is found at Top Level Domains .web (Jul '16) and the minimum is found at .vip (Sep '14) where Top Level Domains is 3.0. ",
-      "Top Level Domains .shop (Jan '16) has the second highest value for Sales price in million U.S. dollars. ",
+      "Top Level Domains .web (Jul '16) has the highest Sales price in million U.S. dollars and .vip (Sep '14) has the lowest Sales price in million U.S. dollars. ",
+      "The second highest Sales price in million U.S. dollars is appeared to be the Top Level Domains .shop (Jan '16). ",
       "The difference of Sales price in million U.S. dollars between the highest and lowest Top Level Domains is 132.0. ",
-      "The Top Level Domains .web (Jul '16) has the highest Sales price in million U.S. dollars, followed by .shop (Jan '16), and .app (Feb '15). Down to the Top Level Domains .vip (Sep '14) which is the lowest. ",
-      "Considered together, the average Sales price in million U.S. dollars in all 10 Top Level Domainss is roughly 23.3. ",
-      "The Sales price in million U.S. dollars is 232.99 if we add up values of all Top Level Domainss. "
+      "Sales price in million U.S. dollars at Top Level Domains .web (Jul '16) is 135.0 , second place is .shop (Jan '16) at 41.5, and thirdly is .app (Feb '15) at 25.0.",
+      "The Top Level Domains .vip (Sep '14) has 5.79 times less Sales price in million U.S. dollars than average. "
    ],
    "trends": [
       {},

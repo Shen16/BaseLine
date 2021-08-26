@@ -6,25 +6,27 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This is a bar chart representing Symbol Groups in the x axis and Number of stores in the y axis. ",
-      "The maximum Number of stores 2950.0 is found at Symbol Groups Premier and the minimum is found at McColl's where Symbol Groups is 719.0. ",
-      "There is a difference of 2231.0 between the maximum Symbol Groups Premier and minimum Symbol Groups McColl's. "
+      "This is a bar chart. It shows Number of stores for 10 number of Symbol Groupss. ",
+      "The Number of stores is appeared to be the highest at Symbol Groups Premier and lowest at Symbol Groups McColl's. ",
+      "The highest Symbol Groups Premier has 2231.0 more Number of stores than the lowest Symbol Groups McColl's. "
    ],
    "min_summary": [
-      "This bar chart has 10 columns on the x axis representing Symbol Groups, and Number of stores in each Symbol Groups on the y axis. ",
-      "The Number of stores is highest at Symbol Groups Premier and lowest at Symbol Groups McColl's. "
+      "This is a bar chart representing Symbol Groups in the x axis and Number of stores in the y axis. ",
+      "The Number of stores is appeared to be the highest at Symbol Groups Premier and lowest at Symbol Groups McColl's. "
    ],
    "mid_summary": [
-      "This is a bar chart representing Symbol Groups in the x axis and Number of stores in the y axis. ",
-      "The maximum Number of stores 2950.0 is found at Symbol Groups Premier and the minimum is found at McColl's where Symbol Groups is 719.0. ",
-      "There is a difference of 2231.0 between the maximum Symbol Groups Premier and minimum Symbol Groups McColl's. "
+      "This is a bar chart. It shows Number of stores for 10 number of Symbol Groupss. ",
+      "The Number of stores is appeared to be the highest at Symbol Groups Premier and lowest at Symbol Groups McColl's. ",
+      "The highest Symbol Groups Premier has 2231.0 more Number of stores than the lowest Symbol Groups McColl's. "
    ],
    "max_summary": [
-      "This is a bar chart representing Symbol Groups in the x axis and Number of stores in the y axis. ",
-      "Symbol Groups Premier has the highest Number of stores and McColl's has the lowest Number of stores. ",
-      "There is a difference of 2231.0 between the maximum Symbol Groups Premier and minimum Symbol Groups McColl's. ",
-      "Number of stores at Symbol Groups Premier is 2950.0 , second place is Best-one at 2904.0, and thirdly is Costcutter at 2547.0.",
-      "The lowest value 719.0 at McColl's is almost 1.5 times smaller than the average value 1967.6. "
+      "This bar chart has 10 columns on the x axis representing Symbol Groups, and Number of stores in each Symbol Groups on the y axis. ",
+      "The maximum Number of stores 2950.0 is found at Symbol Groups Premier and the minimum is found at McColl's where Symbol Groups is 719.0. ",
+      "The second highest Number of stores is appeared to be the Symbol Groups Best-one. ",
+      "The highest Symbol Groups Premier has 2231.0 more Number of stores than the lowest Symbol Groups McColl's. ",
+      "Symbol Groups Premier is higher than any other Symbol Groupss with value 2950.0, followed by Best-one, and Costcutter. Down to Symbol Groups McColl's with the lowest value 719.0. ",
+      "The Symbol Groups McColl's has 1.5 times less Number of stores than average. ",
+      "The Number of stores is 19676.0 if we add up values of all Symbol Groupss. "
    ],
    "trends": [
       {},

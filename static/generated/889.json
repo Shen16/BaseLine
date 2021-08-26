@@ -6,28 +6,27 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This is a bar chart. It shows Exhibition space in thousand square feet for 10 number of Buildingss. ",
+      "This bar chart has 10 columns on the x axis representing Buildings, and Exhibition space in thousand square feet in each Buildings on the y axis. ",
       "The Exhibition space in thousand square feet is highest at Buildings Enercare Centre and lowest at Buildings Vancouver Convention Centre. ",
-      "The highest Buildings Enercare Centre has 688.5 more Exhibition space in thousand square feet than the lowest Buildings Vancouver Convention Centre. "
+      "The highest value at Buildings Enercare Centre is 3.21x times more than the lowest value at Vancouver Convention Centre. "
    ],
    "min_summary": [
-      "This is a bar chart representing Buildings in the x axis and Exhibition space in thousand square feet in the y axis. ",
-      "The Exhibition space in thousand square feet is appeared to be the highest at Buildings Enercare Centre and lowest at Buildings Vancouver Convention Centre. "
+      "This bar chart has 10 columns on the x axis representing Buildings, and Exhibition space in thousand square feet in each Buildings on the y axis. ",
+      "Buildings Enercare Centre has the highest Exhibition space in thousand square feet and Vancouver Convention Centre has the lowest Exhibition space in thousand square feet. "
    ],
    "mid_summary": [
-      "This is a bar chart. It shows Exhibition space in thousand square feet for 10 number of Buildingss. ",
+      "This bar chart has 10 columns on the x axis representing Buildings, and Exhibition space in thousand square feet in each Buildings on the y axis. ",
       "The Exhibition space in thousand square feet is highest at Buildings Enercare Centre and lowest at Buildings Vancouver Convention Centre. ",
-      "The highest Buildings Enercare Centre has 688.5 more Exhibition space in thousand square feet than the lowest Buildings Vancouver Convention Centre. "
+      "The highest value at Buildings Enercare Centre is 3.21x times more than the lowest value at Vancouver Convention Centre. "
    ],
    "max_summary": [
       "This bar chart has 10 columns on the x axis representing Buildings, and Exhibition space in thousand square feet in each Buildings on the y axis. ",
-      "The Exhibition space in thousand square feet is highest at Buildings Enercare Centre and lowest at Buildings Vancouver Convention Centre. ",
-      "Buildings The Toronto Congress Centre has the second highest value for Exhibition space in thousand square feet. ",
+      "The Exhibition space in thousand square feet is appeared to be the highest at Buildings Enercare Centre and lowest at Buildings Vancouver Convention Centre. ",
+      "The second highest Exhibition space in thousand square feet is appeared to be the Buildings The Toronto Congress Centre. ",
       "The difference of Exhibition space in thousand square feet between the highest and lowest Buildings is 688.5. ",
-      "Buildings Enercare Centre is higher than any other Buildingss with value 1000.0, followed by The Toronto Congress Centre, and The International Centre Toronto. Down to Buildings Vancouver Convention Centre with the lowest value 311.5. ",
-      "Buildings Enercare Centre, and The Toronto Congress Centre have a similar Exhibition space in thousand square feet that is 1000.0. ",
-      "The Buildings Enercare Centre has 1.9 times more Exhibition space in thousand square feet than average. ",
-      "Summing up the values of all Buildingss, we get total 5249.5. "
+      "The Buildings Enercare Centre has the highest Exhibition space in thousand square feet, followed by The Toronto Congress Centre, and The International Centre Toronto. Down to the Buildings Vancouver Convention Centre which is the lowest. ",
+      "Buildings Enercare Centre, and The Toronto Congress Centre have the same Exhibition space in thousand square feet. ",
+      "The Buildings Vancouver Convention Centre tends to be 1.9 percent lower than average. "
    ],
    "trends": [
       {},

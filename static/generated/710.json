@@ -14,57 +14,26 @@
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "The minimum SOME LABEL about 0.6, occured at 2015 by South America."
+      "Overall Asia Pacific, and North America are rapidly increasing, Western Europe, Central and Eastern Europe, China, South America, and Middle East and Africa are gradually increasing,  throughout the Year",
+      "South America reported the lowest SOME LABEL about 0.1 in Year 2014",
+      "Asia Pacific, and North America has increased by 6.7, and 6.2 times respectively."
    ],
    "xAxis": "Year",
    "yAxis": "SOME LABEL",
-   "min_summary": [],
-   "mid_summary": [],
+   "min_summary": [
+      "Overall Asia Pacific, and North America are rapidly increasing, Western Europe, Central and Eastern Europe, China, South America, and Middle East and Africa are gradually increasing,  throughout the Year"
+   ],
+   "mid_summary": [
+      "Overall Asia Pacific, and North America are rapidly increasing, Western Europe, Central and Eastern Europe, China, South America, and Middle East and Africa are gradually increasing,  throughout the Year",
+      "Asia Pacific, and North America has increased by 6.7, and 6.2 times respectively."
+   ],
    "max_summary": [
-      "South America reported the lowest SOME LABEL about 0.6 in Year 2015"
+      "Overall Asia Pacific, and North America are rapidly increasing, Western Europe, Central and Eastern Europe, China, South America, and Middle East and Africa are gradually increasing,  throughout the Year",
+      "Asia Pacific, and North America has increased by 6.7, and 6.2 times respectively.",
+      "South America reported the lowest SOME LABEL about 0.1 in Year 2014"
    ],
    "trends": [
-      {},
-      {
-         "2": [
-            "0",
-            "2"
-         ],
-         "16": [
-            "1",
-            "2"
-         ]
-      },
-      {
-         "1": [
-            "0",
-            "2"
-         ],
-         "9": [
-            "0",
-            "2"
-         ]
-      },
-      {
-         "2": [
-            "0",
-            "1"
-         ],
-         "15": [
-            "1",
-            "1"
-         ]
-      },
-      {
-         "1": [
-            "0",
-            "1"
-         ],
-         "10": [
-            "0",
-            "1"
-         ]
-      }
+      {}
    ],
    "data": [
       {

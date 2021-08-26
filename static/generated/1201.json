@@ -6,24 +6,24 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 2 columns on the x axis representing Response, and Share of respondents in each Response on the y axis. ",
+      "This is a bar chart. It shows Share of respondents for 2 number of Responses. ",
       "The Share of respondents is appeared to be the highest at Response Women and lowest at Response Men. ",
-      "The lowest value at Response Men is 1.19x times less than the highest value at Women. "
+      "The difference of Share of respondents between the highest and lowest Response is 12.0. "
    ],
    "min_summary": [
       "This bar chart has 2 columns on the x axis representing Response, and Share of respondents in each Response on the y axis. ",
-      "The Share of respondents is highest at Response Women and lowest at Response Men. "
+      "The Share of respondents is appeared to be the highest at Response Women and lowest at Response Men. "
    ],
    "mid_summary": [
-      "This bar chart has 2 columns on the x axis representing Response, and Share of respondents in each Response on the y axis. ",
+      "This is a bar chart. It shows Share of respondents for 2 number of Responses. ",
       "The Share of respondents is appeared to be the highest at Response Women and lowest at Response Men. ",
-      "The lowest value at Response Men is 1.19x times less than the highest value at Women. "
+      "The difference of Share of respondents between the highest and lowest Response is 12.0. "
    ],
    "max_summary": [
       "This bar chart has 2 columns on the x axis representing Response, and Share of respondents in each Response on the y axis. ",
-      "The Share of respondents is highest at Response Women and lowest at Response Men. ",
-      "The highest Response Women has 12.0 more Share of respondents than the lowest Response Men. ",
-      "The Response Men has 1.09 times less Share of respondents than average. "
+      "The maximum Share of respondents 75.0 is found at Response Women and the minimum is found at Men where Response is 63.0. ",
+      "The difference of Share of respondents between the highest and lowest Response is 12.0. ",
+      "The Response Women tends to be 1.09 percent higher than average. "
    ],
    "trends": [
       {},

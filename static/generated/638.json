@@ -6,27 +6,26 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This is a bar chart representing Country in the x axis and Export volume in thousand metric tons in the y axis. ",
-      "The Export volume in thousand metric tons is highest at Country EU and lowest at Country China. ",
-      "The Export volume in thousand metric tons of Country China is 39.0% smaller than the maximum value at EU. "
+      "This is a bar chart. It shows Export volume in thousand metric tons for 7 number of Countrys. ",
+      "Country EU has the highest Export volume in thousand metric tons and China has the lowest Export volume in thousand metric tons. ",
+      "There is a difference of 3800.0 between the maximum Country EU and minimum Country China. "
    ],
    "min_summary": [
-      "This is a bar chart. It shows Export volume in thousand metric tons for 7 number of Countrys. ",
-      "The Export volume in thousand metric tons is appeared to be the highest at Country EU and lowest at Country China. "
+      "This is a bar chart representing Country in the x axis and Export volume in thousand metric tons in the y axis. ",
+      "The maximum Export volume in thousand metric tons 3900.0 is found at Country EU and the minimum is found at China where Country is 100.0. "
    ],
    "mid_summary": [
-      "This is a bar chart representing Country in the x axis and Export volume in thousand metric tons in the y axis. ",
-      "The Export volume in thousand metric tons is highest at Country EU and lowest at Country China. ",
-      "The Export volume in thousand metric tons of Country China is 39.0% smaller than the maximum value at EU. "
+      "This is a bar chart. It shows Export volume in thousand metric tons for 7 number of Countrys. ",
+      "Country EU has the highest Export volume in thousand metric tons and China has the lowest Export volume in thousand metric tons. ",
+      "There is a difference of 3800.0 between the maximum Country EU and minimum Country China. "
    ],
    "max_summary": [
-      "This is a bar chart representing Country in the x axis and Export volume in thousand metric tons in the y axis. ",
-      "The Export volume in thousand metric tons is appeared to be the highest at Country EU and lowest at Country China. ",
-      "Country United States has the second highest value for Export volume in thousand metric tons. ",
+      "This bar chart has 7 columns on the x axis representing Country, and Export volume in thousand metric tons in each Country on the y axis. ",
+      "Country EU has the highest Export volume in thousand metric tons and China has the lowest Export volume in thousand metric tons. ",
       "The highest Country EU has 3800.0 more Export volume in thousand metric tons than the lowest Country China. ",
-      "Country EU is higher than any other Countrys with value 3900.0, followed by United States, and Canada. Down to Country China with the lowest value 100.0. ",
-      "Considered together, the average Export volume in thousand metric tons in all 7 Countrys is roughly 1478.14. ",
-      "Summing up the values of all Countrys, we get total 10347.0. "
+      "The Country EU has the highest Export volume in thousand metric tons, followed by United States, and Canada. Down to the Country China which is the lowest. ",
+      "The highest value 3900.0 at EU is almost 2.64 times larger than the average value 1478.14. ",
+      "The Export volume in thousand metric tons is 10347.0 if we add up values of all Countrys. "
    ],
    "trends": [
       {},

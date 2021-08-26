@@ -6,25 +6,24 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This is a bar chart. It shows Number of points for 10 number of Campaign/Brand (Agency)s. ",
-      "The Number of points is highest at Campaign/Brand (Agency) Let's make viral products instead! /Carvaan (the Womb Mumbai) and lowest at Campaign/Brand (Agency) Original is Never Finished / adidas Originals (Johannes Leonardo New York). ",
-      "There is a difference of 31.2 between the maximum Campaign/Brand (Agency) Let's make viral products instead! /Carvaan (the Womb Mumbai) and minimum Campaign/Brand (Agency) Original is Never Finished / adidas Originals (Johannes Leonardo New York). "
+      "This bar chart has 10 columns on the x axis representing Campaign/Brand (Agency), and Number of points in each Campaign/Brand (Agency) on the y axis. ",
+      "The maximum Number of points 75.2 is found at Campaign/Brand (Agency) Let's make viral products instead! /Carvaan (the Womb Mumbai) and the minimum is found at Original is Never Finished / adidas Originals (Johannes Leonardo New York) where Campaign/Brand (Agency) is 44.0. ",
+      "The Number of points of Campaign/Brand (Agency) Let's make viral products instead! /Carvaan (the Womb Mumbai) is 1.71% larger than the minimum value at Original is Never Finished / adidas Originals (Johannes Leonardo New York). "
    ],
    "min_summary": [
-      "This bar chart has 10 columns on the x axis representing Campaign/Brand (Agency), and Number of points in each Campaign/Brand (Agency) on the y axis. ",
+      "This is a bar chart representing Campaign/Brand (Agency) in the x axis and Number of points in the y axis. ",
       "The maximum Number of points 75.2 is found at Campaign/Brand (Agency) Let's make viral products instead! /Carvaan (the Womb Mumbai) and the minimum is found at Original is Never Finished / adidas Originals (Johannes Leonardo New York) where Campaign/Brand (Agency) is 44.0. "
    ],
    "mid_summary": [
-      "This is a bar chart. It shows Number of points for 10 number of Campaign/Brand (Agency)s. ",
-      "The Number of points is highest at Campaign/Brand (Agency) Let's make viral products instead! /Carvaan (the Womb Mumbai) and lowest at Campaign/Brand (Agency) Original is Never Finished / adidas Originals (Johannes Leonardo New York). ",
-      "There is a difference of 31.2 between the maximum Campaign/Brand (Agency) Let's make viral products instead! /Carvaan (the Womb Mumbai) and minimum Campaign/Brand (Agency) Original is Never Finished / adidas Originals (Johannes Leonardo New York). "
+      "This bar chart has 10 columns on the x axis representing Campaign/Brand (Agency), and Number of points in each Campaign/Brand (Agency) on the y axis. ",
+      "The maximum Number of points 75.2 is found at Campaign/Brand (Agency) Let's make viral products instead! /Carvaan (the Womb Mumbai) and the minimum is found at Original is Never Finished / adidas Originals (Johannes Leonardo New York) where Campaign/Brand (Agency) is 44.0. ",
+      "The Number of points of Campaign/Brand (Agency) Let's make viral products instead! /Carvaan (the Womb Mumbai) is 1.71% larger than the minimum value at Original is Never Finished / adidas Originals (Johannes Leonardo New York). "
    ],
    "max_summary": [
-      "This bar chart has 10 columns on the x axis representing Campaign/Brand (Agency), and Number of points in each Campaign/Brand (Agency) on the y axis. ",
-      "The Number of points is appeared to be the highest at Campaign/Brand (Agency) Let's make viral products instead! /Carvaan (the Womb Mumbai) and lowest at Campaign/Brand (Agency) Original is Never Finished / adidas Originals (Johannes Leonardo New York). ",
-      "Second maximum Number of points is found at Campaign/Brand (Agency) Healthy Hands Chalk Sticks / Savlon (Ogilvy Mumbai). ",
-      "The highest Campaign/Brand (Agency) Let's make viral products instead! /Carvaan (the Womb Mumbai) has 31.2 more Number of points than the lowest Campaign/Brand (Agency) Original is Never Finished / adidas Originals (Johannes Leonardo New York). ",
-      "Campaign/Brand (Agency) Let's make viral products instead! /Carvaan (the Womb Mumbai) is higher than any other Campaign/Brand (Agency)s with value 75.2, followed by Healthy Hands Chalk Sticks / Savlon (Ogilvy Mumbai), and India's Newest Status Symbol / Harpic (McCann New Delhi). Down to Campaign/Brand (Agency) Original is Never Finished / adidas Originals (Johannes Leonardo New York) with the lowest value 44.0. ",
+      "This is a bar chart. It shows Number of points for 10 number of Campaign/Brand (Agency)s. ",
+      "The Number of points is highest at Campaign/Brand (Agency) Let's make viral products instead! /Carvaan (the Womb Mumbai) and lowest at Campaign/Brand (Agency) Original is Never Finished / adidas Originals (Johannes Leonardo New York). ",
+      "The difference of Number of points between the highest and lowest Campaign/Brand (Agency) is 31.2. ",
+      "The Campaign/Brand (Agency) Let's make viral products instead! /Carvaan (the Womb Mumbai) has the highest Number of points, followed by Healthy Hands Chalk Sticks / Savlon (Ogilvy Mumbai), and India's Newest Status Symbol / Harpic (McCann New Delhi). Down to the Campaign/Brand (Agency) Original is Never Finished / adidas Originals (Johannes Leonardo New York) which is the lowest. ",
       "The Campaign/Brand (Agency) Original is Never Finished / adidas Originals (Johannes Leonardo New York) tends to be 1.32 percent lower than average. "
    ],
    "trends": [

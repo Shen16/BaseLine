@@ -6,25 +6,24 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 2 columns on the x axis representing Day, and Circulation in each Day on the y axis. ",
-      "The Circulation is highest at Day Sunday and lowest at Day Daily. ",
+      "This is a bar chart representing Day in the x axis and Circulation in the y axis. ",
+      "The maximum Circulation 378602.0 is found at Day Sunday and the minimum is found at Daily where Day is 130283.0. ",
       "The difference of Circulation between the highest and lowest Day is 248319.0. "
    ],
    "min_summary": [
-      "This is a bar chart. It shows Circulation for 2 number of Days. ",
-      "The Circulation is appeared to be the highest at Day Sunday and lowest at Day Daily. "
+      "This bar chart has 2 columns on the x axis representing Day, and Circulation in each Day on the y axis. ",
+      "Day Sunday has the highest Circulation and Daily has the lowest Circulation. "
    ],
    "mid_summary": [
-      "This bar chart has 2 columns on the x axis representing Day, and Circulation in each Day on the y axis. ",
-      "The Circulation is highest at Day Sunday and lowest at Day Daily. ",
+      "This is a bar chart representing Day in the x axis and Circulation in the y axis. ",
+      "The maximum Circulation 378602.0 is found at Day Sunday and the minimum is found at Daily where Day is 130283.0. ",
       "The difference of Circulation between the highest and lowest Day is 248319.0. "
    ],
    "max_summary": [
-      "This is a bar chart representing Day in the x axis and Circulation in the y axis. ",
-      "The Circulation is highest at Day Sunday and lowest at Day Daily. ",
-      "The difference of Circulation between the highest and lowest Day is 248319.0. ",
-      "The Day Sunday has 1.49 times more Circulation than average. ",
-      "Summing up the values of all Days, we get total 508885.0. "
+      "This bar chart has 2 columns on the x axis representing Day, and Circulation in each Day on the y axis. ",
+      "The maximum Circulation 378602.0 is found at Day Sunday and the minimum is found at Daily where Day is 130283.0. ",
+      "The highest value at Day Sunday is 2.91x times more than the lowest value at Daily. ",
+      "The average Circulation in all 2 Days is 254442.5. "
    ],
    "trends": [
       {},

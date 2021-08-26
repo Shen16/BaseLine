@@ -6,25 +6,26 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This is a bar chart representing Kickstarter Project in the x axis and Funds raised in million U.S. dollars in the y axis. ",
-      "The maximum Funds raised in million U.S. dollars 20.34 is found at Kickstarter Project Pebble Time (2015) and the minimum is found at Shenmue 3 (2015) where Kickstarter Project is 6.33. ",
-      "There is a difference of 14.01 between the maximum Kickstarter Project Pebble Time (2015) and minimum Kickstarter Project Shenmue 3 (2015). "
+      "This bar chart has 15 columns on the x axis representing Kickstarter Project, and Funds raised in million U.S. dollars in each Kickstarter Project on the y axis. ",
+      "The Funds raised in million U.S. dollars is highest at Kickstarter Project Pebble Time (2015) and lowest at Kickstarter Project Shenmue 3 (2015). ",
+      "The highest Kickstarter Project Pebble Time (2015) has 14.01 more Funds raised in million U.S. dollars than the lowest Kickstarter Project Shenmue 3 (2015). "
    ],
    "min_summary": [
       "This is a bar chart representing Kickstarter Project in the x axis and Funds raised in million U.S. dollars in the y axis. ",
       "Kickstarter Project Pebble Time (2015) has the highest Funds raised in million U.S. dollars and Shenmue 3 (2015) has the lowest Funds raised in million U.S. dollars. "
    ],
    "mid_summary": [
-      "This is a bar chart representing Kickstarter Project in the x axis and Funds raised in million U.S. dollars in the y axis. ",
-      "The maximum Funds raised in million U.S. dollars 20.34 is found at Kickstarter Project Pebble Time (2015) and the minimum is found at Shenmue 3 (2015) where Kickstarter Project is 6.33. ",
-      "There is a difference of 14.01 between the maximum Kickstarter Project Pebble Time (2015) and minimum Kickstarter Project Shenmue 3 (2015). "
+      "This bar chart has 15 columns on the x axis representing Kickstarter Project, and Funds raised in million U.S. dollars in each Kickstarter Project on the y axis. ",
+      "The Funds raised in million U.S. dollars is highest at Kickstarter Project Pebble Time (2015) and lowest at Kickstarter Project Shenmue 3 (2015). ",
+      "The highest Kickstarter Project Pebble Time (2015) has 14.01 more Funds raised in million U.S. dollars than the lowest Kickstarter Project Shenmue 3 (2015). "
    ],
    "max_summary": [
       "This is a bar chart. It shows Funds raised in million U.S. dollars for 15 number of Kickstarter Projects. ",
-      "The Funds raised in million U.S. dollars is highest at Kickstarter Project Pebble Time (2015) and lowest at Kickstarter Project Shenmue 3 (2015). ",
-      "There is a difference of 14.01 between the maximum Kickstarter Project Pebble Time (2015) and minimum Kickstarter Project Shenmue 3 (2015). ",
-      "The Kickstarter Project Pebble Time (2015) has the highest Funds raised in million U.S. dollars, followed by Coolest Cooler (2014), and Pebble 2 Time 2 + All-New Pebble Core (2016). Down to the Kickstarter Project Shenmue 3 (2015) which is the lowest. ",
-      "The highest value 20.34 at Pebble Time (2015) is almost 1.99 times larger than the average value 10.23. "
+      "The maximum Funds raised in million U.S. dollars 20.34 is found at Kickstarter Project Pebble Time (2015) and the minimum is found at Shenmue 3 (2015) where Kickstarter Project is 6.33. ",
+      "Second maximum Funds raised in million U.S. dollars is found at Kickstarter Project Coolest Cooler (2014). ",
+      "The highest Kickstarter Project Pebble Time (2015) has 14.01 more Funds raised in million U.S. dollars than the lowest Kickstarter Project Shenmue 3 (2015). ",
+      "Kickstarter Project Pebble Time (2015) is higher than any other Kickstarter Projects with value 20.34, followed by Coolest Cooler (2014), and Pebble 2 Time 2 + All-New Pebble Core (2016). Down to Kickstarter Project Shenmue 3 (2015) with the lowest value 6.33. ",
+      "The average Funds raised in million U.S. dollars in all 15 Kickstarter Projects is 10.23. "
    ],
    "trends": [
       {},

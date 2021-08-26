@@ -6,28 +6,29 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This is a bar chart representing Month in the x axis and Birth rate per thousand inhabitants in the y axis. ",
-      "The maximum Birth rate per thousand inhabitants 9.0 is found at Month Trentino-South Tyrol and the minimum is found at Sardinia where Month is 5.7. ",
-      "The Birth rate per thousand inhabitants of Month Sardinia is 1.58% smaller than the maximum value at Trentino-South Tyrol. "
+      "This is a bar chart. It shows Birth rate per thousand inhabitants for 20 number of Months. ",
+      "The Birth rate per thousand inhabitants is highest at Month Trentino-South Tyrol and lowest at Month Sardinia. ",
+      "The minimum Month Sardinia has got 1.58 times less Birth rate per thousand inhabitants than the maximum Month Trentino-South Tyrol. "
    ],
    "min_summary": [
-      "This is a bar chart. It shows Birth rate per thousand inhabitants for 20 number of Months. ",
-      "The Birth rate per thousand inhabitants is highest at Month Trentino-South Tyrol and lowest at Month Sardinia. "
+      "This bar chart has 20 columns on the x axis representing Month, and Birth rate per thousand inhabitants in each Month on the y axis. ",
+      "The Birth rate per thousand inhabitants is appeared to be the highest at Month Trentino-South Tyrol and lowest at Month Sardinia. "
    ],
    "mid_summary": [
-      "This is a bar chart representing Month in the x axis and Birth rate per thousand inhabitants in the y axis. ",
-      "The maximum Birth rate per thousand inhabitants 9.0 is found at Month Trentino-South Tyrol and the minimum is found at Sardinia where Month is 5.7. ",
-      "The Birth rate per thousand inhabitants of Month Sardinia is 1.58% smaller than the maximum value at Trentino-South Tyrol. "
+      "This is a bar chart. It shows Birth rate per thousand inhabitants for 20 number of Months. ",
+      "The Birth rate per thousand inhabitants is highest at Month Trentino-South Tyrol and lowest at Month Sardinia. ",
+      "The minimum Month Sardinia has got 1.58 times less Birth rate per thousand inhabitants than the maximum Month Trentino-South Tyrol. "
    ],
    "max_summary": [
-      "This is a bar chart representing Month in the x axis and Birth rate per thousand inhabitants in the y axis. ",
-      "The Birth rate per thousand inhabitants is appeared to be the highest at Month Trentino-South Tyrol and lowest at Month Sardinia. ",
+      "This bar chart has 20 columns on the x axis representing Month, and Birth rate per thousand inhabitants in each Month on the y axis. ",
+      "The Birth rate per thousand inhabitants is highest at Month Trentino-South Tyrol and lowest at Month Sardinia. ",
       "Second maximum Birth rate per thousand inhabitants is found at Month Campania. ",
-      "The difference of Birth rate per thousand inhabitants between the highest and lowest Month is 3.3. ",
-      "Month Trentino-South Tyrol is higher than any other Months with value 9.0, followed by Campania, and Sicily. Down to Month Sardinia with the lowest value 5.7. ",
-      "The Birth rate per thousand inhabitants has decreased over the past 20 Months. ",
-      "Month Lazio, Apulia, Aosta Valley, and Veneto have the same Birth rate per thousand inhabitants. ",
-      "The Month Sardinia tends to be 1.28 percent lower than average. "
+      "The maximum Month Trentino-South Tyrol has got 1.58 times higher Birth rate per thousand inhabitants than the minimum Month Sardinia. ",
+      "Birth rate per thousand inhabitants at Month Trentino-South Tyrol is 9.0 , second place is Campania at 8.3, and thirdly is Sicily at 8.1.",
+      "Over the past 20 Months, the Birth rate per thousand inhabitants has reduced. ",
+      "Month Lazio, Apulia, Aosta Valley, and Veneto share the same value 7.2. ",
+      "The lowest value 5.7 at Sardinia is almost 1.28 times smaller than the average value 7.05. ",
+      "The Birth rate per thousand inhabitants is 141.0 if we add up values of all Months. "
    ],
    "trends": [
       {},

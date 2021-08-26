@@ -6,25 +6,26 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This is a bar chart. It shows Share of respondents for 6 number of Responses. ",
+      "This is a bar chart representing Response in the x axis and Share of respondents in the y axis. ",
       "The maximum Share of respondents 26.0 is found at Response Guitar and the minimum is found at Flute where Response is 5.0. ",
       "There is a difference of 21.0 between the maximum Response Guitar and minimum Response Flute. "
    ],
    "min_summary": [
-      "This is a bar chart. It shows Share of respondents for 6 number of Responses. ",
-      "The Share of respondents is appeared to be the highest at Response Guitar and lowest at Response Flute. "
+      "This is a bar chart representing Response in the x axis and Share of respondents in the y axis. ",
+      "The Share of respondents is highest at Response Guitar and lowest at Response Flute. "
    ],
    "mid_summary": [
-      "This is a bar chart. It shows Share of respondents for 6 number of Responses. ",
+      "This is a bar chart representing Response in the x axis and Share of respondents in the y axis. ",
       "The maximum Share of respondents 26.0 is found at Response Guitar and the minimum is found at Flute where Response is 5.0. ",
       "There is a difference of 21.0 between the maximum Response Guitar and minimum Response Flute. "
    ],
    "max_summary": [
       "This bar chart has 6 columns on the x axis representing Response, and Share of respondents in each Response on the y axis. ",
-      "The maximum Share of respondents 26.0 is found at Response Guitar and the minimum is found at Flute where Response is 5.0. ",
-      "The difference of Share of respondents between the highest and lowest Response is 21.0. ",
+      "The Share of respondents is highest at Response Guitar and lowest at Response Flute. ",
+      "There is a difference of 21.0 between the maximum Response Guitar and minimum Response Flute. ",
       "Response Guitar is higher than any other Responses with value 26.0, followed by Saxophone, and Piano. Down to Response Flute with the lowest value 5.0. ",
-      "The highest value 26.0 at Guitar is almost 1.59 times larger than the average value 16.33. "
+      "Considered together, the average Share of respondents in all 6 Responses is roughly 16.33. ",
+      "The Share of respondents is 98.0 if we add up values of all Responses. "
    ],
    "trends": [
       {},

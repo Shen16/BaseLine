@@ -8,7 +8,7 @@
    "summary": [
       "This is a bar chart. It shows Market share for 17 number of Months. ",
       "Month Aug 18 has the highest Market share and Sep 18 has the lowest Market share. ",
-      "The highest Month Aug 18 has 6.1 more Market share than the lowest Month Sep 18. "
+      "There is a difference of 6.1 between the maximum Month Aug 18 and minimum Month Sep 18. "
    ],
    "min_summary": [
       "This is a bar chart. It shows Market share for 17 number of Months. ",
@@ -17,16 +17,18 @@
    "mid_summary": [
       "This is a bar chart. It shows Market share for 17 number of Months. ",
       "Month Aug 18 has the highest Market share and Sep 18 has the lowest Market share. ",
-      "The highest Month Aug 18 has 6.1 more Market share than the lowest Month Sep 18. "
+      "There is a difference of 6.1 between the maximum Month Aug 18 and minimum Month Sep 18. "
    ],
    "max_summary": [
       "This is a bar chart. It shows Market share for 17 number of Months. ",
-      "The maximum Market share 12.7 is found at Month Aug 18 and the minimum is found at Sep 18 where Month is 6.6. ",
-      "The difference of Market share between the highest and lowest Month is 6.1. ",
+      "The Market share is highest at Month Aug 18 and lowest at Month Sep 18. ",
+      "The second highest Market share is appeared to be the Month Nov 19. ",
+      "The maximum Month Aug 18 has got 1.92 times higher Market share than the minimum Month Sep 18. ",
       "The Month Aug 18 has the highest Market share, followed by Nov 19, and Oct 19. Down to the Month Sep 18 which is the lowest. ",
-      "Overall Market share has grew over the Months. ",
-      "Month Jul 19, and Nov 18 have a similar Market share that is 11.8. ",
-      "The highest value 12.7 at Aug 18 is almost 1.15 times larger than the average value 11.05. "
+      "Over the past 17 Months, the Market share has increased. ",
+      "Month Jul 19, and Nov 18 have the same Market share. ",
+      "The average Market share in all 17 Months is 11.05. ",
+      "The Market share is 187.8 if we add up values of all Months. "
    ],
    "trends": [
       {},

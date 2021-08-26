@@ -6,28 +6,28 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 15 columns on the x axis representing Quarter, and Market capitalization in trillion Euros in each Quarter on the y axis. ",
-      "The Market capitalization in trillion Euros is appeared to be the highest at Quarter Q4 '17 and lowest at Quarter Q2 '16. ",
-      "There is a difference of 1.5 between the maximum Quarter Q4 '17 and minimum Quarter Q2 '16. "
+      "This is a bar chart. It shows Market capitalization in trillion Euros for 15 number of Quarters. ",
+      "The Market capitalization in trillion Euros is highest at Quarter Q4 '17 and lowest at Quarter Q2 '16. ",
+      "The difference of Market capitalization in trillion Euros between the highest and lowest Quarter is 1.5. "
    ],
    "min_summary": [
       "This is a bar chart representing Quarter in the x axis and Market capitalization in trillion Euros in the y axis. ",
-      "The Market capitalization in trillion Euros is appeared to be the highest at Quarter Q4 '17 and lowest at Quarter Q2 '16. "
+      "Quarter Q4 '17 has the highest Market capitalization in trillion Euros and Q2 '16 has the lowest Market capitalization in trillion Euros. "
    ],
    "mid_summary": [
-      "This bar chart has 15 columns on the x axis representing Quarter, and Market capitalization in trillion Euros in each Quarter on the y axis. ",
-      "The Market capitalization in trillion Euros is appeared to be the highest at Quarter Q4 '17 and lowest at Quarter Q2 '16. ",
-      "There is a difference of 1.5 between the maximum Quarter Q4 '17 and minimum Quarter Q2 '16. "
+      "This is a bar chart. It shows Market capitalization in trillion Euros for 15 number of Quarters. ",
+      "The Market capitalization in trillion Euros is highest at Quarter Q4 '17 and lowest at Quarter Q2 '16. ",
+      "The difference of Market capitalization in trillion Euros between the highest and lowest Quarter is 1.5. "
    ],
    "max_summary": [
-      "This is a bar chart representing Quarter in the x axis and Market capitalization in trillion Euros in the y axis. ",
-      "The Market capitalization in trillion Euros is highest at Quarter Q4 '17 and lowest at Quarter Q2 '16. ",
-      "The difference of Market capitalization in trillion Euros between the highest and lowest Quarter is 1.5. ",
+      "This bar chart has 15 columns on the x axis representing Quarter, and Market capitalization in trillion Euros in each Quarter on the y axis. ",
+      "Quarter Q4 '17 has the highest Market capitalization in trillion Euros and Q2 '16 has the lowest Market capitalization in trillion Euros. ",
+      "The second highest Market capitalization in trillion Euros is appeared to be the Quarter Q1 '17. ",
+      "The highest Quarter Q4 '17 has 1.5 more Market capitalization in trillion Euros than the lowest Quarter Q2 '16. ",
       "The Quarter Q4 '17 has the highest Market capitalization in trillion Euros, followed by Q1 '17, and Q1 '17. Down to the Quarter Q2 '16 which is the lowest. ",
-      "Over the past 15 Quarters, the Market capitalization in trillion Euros has lowered. ",
+      "Overall Market capitalization in trillion Euros has declined over the Quarters. ",
       "Similar Market capitalization in trillion Euros is found in Quarter Q2 '19, Q1 '19, Q2 '18, and Q4 '16. ",
-      "The average Market capitalization in trillion Euros in all 15 Quarters is 5.07. ",
-      "The Market capitalization in trillion Euros is 76.0 if we add up values of all Quarters. "
+      "The highest value 5.6 at Q4 '17 is almost 1.11 times larger than the average value 5.07. "
    ],
    "trends": [
       {},

@@ -8,68 +8,14 @@
    "columnType": "multi",
    "graphType": "line",
    "summaryType": "baseline",
-   "summary": [
-      "Overall Female is rapidly increasing, Male is gradually increasing,  throughout the Year",
-      "The order of lines according to average values of SOME LABEL, in descending order is: 1. Female, and lastly, 2. Male. ",
-      "Female has increased by 388.3190286790873 percent.",
-      "The greatest difference of SOME LABEL between Male and Female occurs at Year Less_than_20_years and the smallest difference occurs at 35_to_39_years."
-   ],
+   "summary": [],
    "xAxis": "Year",
    "yAxis": "SOME LABEL",
-   "min_summary": [
-      "Overall Female is rapidly increasing, Male is gradually increasing,  throughout the Year"
-   ],
-   "mid_summary": [
-      "Overall Female is rapidly increasing, Male is gradually increasing,  throughout the Year",
-      "Female has increased by 388.3190286790873 percent."
-   ],
-   "max_summary": [
-      "Overall Female is rapidly increasing, Male is gradually increasing,  throughout the Year",
-      "Female has increased by 388.3190286790873 percent.",
-      "The difference of SOME LABEL between Male and Female is greater at Year Less_than_20_years compared to the Year 35_to_39_years."
-   ],
+   "min_summary": [],
+   "mid_summary": [],
+   "max_summary": [],
    "trends": [
-      {},
-      {
-         "2": [
-            "0",
-            "1"
-         ],
-         "16": [
-            "6",
-            "1"
-         ]
-      },
-      {
-         "1": [
-            "2",
-            "1"
-         ],
-         "9": [
-            "2",
-            "1"
-         ]
-      },
-      {
-         "2": [
-            "0",
-            "0"
-         ],
-         "15": [
-            "6",
-            "0"
-         ]
-      },
-      {
-         "1": [
-            "2",
-            "0"
-         ],
-         "10": [
-            "2",
-            "0"
-         ]
-      }
+      {}
    ],
    "data": [
       {

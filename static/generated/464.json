@@ -6,29 +6,29 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This is a bar chart representing Month in the x axis and Number of minutes in the y axis. ",
+      "This is a bar chart. It shows Number of minutes for 42 number of Months. ",
       "The Number of minutes is appeared to be the highest at Month Mar 2016 and lowest at Month Jan 2015. ",
-      "The highest value at Month Mar 2016 is 1.5x times more than the lowest value at Jan 2015. "
+      "The difference of Number of minutes between the highest and lowest Month is 23.0. "
    ],
    "min_summary": [
       "This is a bar chart. It shows Number of minutes for 42 number of Months. ",
-      "Month Mar 2016 has the highest Number of minutes and Jan 2015 has the lowest Number of minutes. "
+      "The Number of minutes is appeared to be the highest at Month Mar 2016 and lowest at Month Jan 2015. "
    ],
    "mid_summary": [
-      "This is a bar chart representing Month in the x axis and Number of minutes in the y axis. ",
+      "This is a bar chart. It shows Number of minutes for 42 number of Months. ",
       "The Number of minutes is appeared to be the highest at Month Mar 2016 and lowest at Month Jan 2015. ",
-      "The highest value at Month Mar 2016 is 1.5x times more than the lowest value at Jan 2015. "
+      "The difference of Number of minutes between the highest and lowest Month is 23.0. "
    ],
    "max_summary": [
       "This is a bar chart representing Month in the x axis and Number of minutes in the y axis. ",
-      "The Number of minutes is highest at Month Mar 2016 and lowest at Month Jan 2015. ",
-      "Second maximum Number of minutes is found at Month Mar 2018. ",
-      "The difference of Number of minutes between the highest and lowest Month is 23.0. ",
+      "The Number of minutes is appeared to be the highest at Month Mar 2016 and lowest at Month Jan 2015. ",
+      "Month Mar 2018 has the second highest value for Number of minutes. ",
+      "The highest Month Mar 2016 has 23.0 more Number of minutes than the lowest Month Jan 2015. ",
       "The Month Mar 2016 has the highest Number of minutes, followed by Mar 2018, and May 2016. Down to the Month Jan 2015 which is the lowest. ",
-      "Overall Number of minutes has declined over the Months. ",
+      "The Number of minutes has lowered over the past 42 Months. ",
       "Month Jul 2015, May 2015, Jul 2013, Nov 2012, Sep 2012, May 2012, Sep 2011, and Jul 2011 have a similar Number of minutes that is 53.0. ",
-      "The Month Jan 2015 tends to be 1.24 percent lower than average. ",
-      "The Number of minutes is 2329.0 if we add up values of all Months. "
+      "The average Number of minutes in all 42 Months is 55.45. ",
+      "Summing up the values of all Months, we get total 2329.0. "
    ],
    "trends": [
       {},

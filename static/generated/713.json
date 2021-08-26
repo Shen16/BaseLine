@@ -9,66 +9,28 @@
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "Overall Passenger cars is gradually increasing, Commercial vehicles is roughly constant,  throughout the Year",
-      "The ranking of the lines from topmost to botommmost is as follows: 1. Passenger cars, and lastly, 2. Commercial vehicles. ",
-      "The minimum SOME LABEL about 264970.0, occured at 2008 by Commercial vehicles.",
-      "The greatest difference of SOME LABEL between Commercial vehicles and Passenger cars occurs at Year 2010 and the smallest difference occurs at 2008."
+      " In general SOME LABEL has rose over the Year.",
+      "SOME LABEL is slightly increasing from 2008 to 2011.",
+      "Maximum SOME LABEL, about 288618.0 was reported at Year 2011",
+      "Minimum SOME LABEL about 264970.0 was reached at Year 2008"
    ],
    "xAxis": "Year",
    "yAxis": "SOME LABEL",
    "min_summary": [
-      "Overall Passenger cars is gradually increasing, Commercial vehicles is roughly constant,  throughout the Year"
+      " In general SOME LABEL has rose over the Year."
    ],
    "mid_summary": [
-      "Overall Passenger cars is gradually increasing, Commercial vehicles is roughly constant,  throughout the Year"
+      " In general SOME LABEL has rose over the Year.",
+      "SOME LABEL is slightly increasing from 2008 to 2011."
    ],
    "max_summary": [
-      "Overall Passenger cars is gradually increasing, Commercial vehicles is roughly constant,  throughout the Year",
-      "The minimum SOME LABEL about 264970.0, occured at 2008 by Commercial vehicles.",
-      "The greatest difference of SOME LABEL between Commercial vehicles and Passenger cars occurs at Year 2010 and the smallest difference occurs at 2008."
+      " In general SOME LABEL has rose over the Year.",
+      "SOME LABEL is slightly increasing from 2008 to 2011.",
+      "Maximum SOME LABEL, about 288618.0 was reported at Year 2011",
+      "Minimum SOME LABEL about 264970.0 was reached at Year 2008"
    ],
    "trends": [
-      {},
-      {
-         "2": [
-            "0",
-            "1"
-         ],
-         "16": [
-            "9",
-            "1"
-         ]
-      },
-      {
-         "1": [
-            "2",
-            "1"
-         ],
-         "9": [
-            "2",
-            "1"
-         ]
-      },
-      {
-         "2": [
-            "0",
-            "0"
-         ],
-         "15": [
-            "9",
-            "0"
-         ]
-      },
-      {
-         "1": [
-            "2",
-            "0"
-         ],
-         "10": [
-            "2",
-            "0"
-         ]
-      }
+      {}
    ],
    "data": [
       {

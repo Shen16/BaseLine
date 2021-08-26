@@ -6,24 +6,24 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This is a bar chart. It shows Revenue in million U.S. dollars for 2 number of Games. ",
-      "The maximum Revenue in million U.S. dollars 597.0 is found at Game Clash Royale and the minimum is found at Clash of Clans where Game is 567.0. ",
-      "The highest Game Clash Royale has 30.0 more Revenue in million U.S. dollars than the lowest Game Clash of Clans. "
+      "This is a bar chart representing Game in the x axis and Revenue in million U.S. dollars in the y axis. ",
+      "The Revenue in million U.S. dollars is appeared to be the highest at Game Clash Royale and lowest at Game Clash of Clans. ",
+      "The difference of Revenue in million U.S. dollars between the highest and lowest Game is 30.0. "
    ],
    "min_summary": [
       "This is a bar chart representing Game in the x axis and Revenue in million U.S. dollars in the y axis. ",
-      "Game Clash Royale has the highest Revenue in million U.S. dollars and Clash of Clans has the lowest Revenue in million U.S. dollars. "
+      "The maximum Revenue in million U.S. dollars 597.0 is found at Game Clash Royale and the minimum is found at Clash of Clans where Game is 567.0. "
    ],
    "mid_summary": [
-      "This is a bar chart. It shows Revenue in million U.S. dollars for 2 number of Games. ",
-      "The maximum Revenue in million U.S. dollars 597.0 is found at Game Clash Royale and the minimum is found at Clash of Clans where Game is 567.0. ",
-      "The highest Game Clash Royale has 30.0 more Revenue in million U.S. dollars than the lowest Game Clash of Clans. "
+      "This is a bar chart representing Game in the x axis and Revenue in million U.S. dollars in the y axis. ",
+      "The Revenue in million U.S. dollars is appeared to be the highest at Game Clash Royale and lowest at Game Clash of Clans. ",
+      "The difference of Revenue in million U.S. dollars between the highest and lowest Game is 30.0. "
    ],
    "max_summary": [
-      "This is a bar chart. It shows Revenue in million U.S. dollars for 2 number of Games. ",
-      "The Revenue in million U.S. dollars is highest at Game Clash Royale and lowest at Game Clash of Clans. ",
+      "This bar chart has 2 columns on the x axis representing Game, and Revenue in million U.S. dollars in each Game on the y axis. ",
+      "The Revenue in million U.S. dollars is appeared to be the highest at Game Clash Royale and lowest at Game Clash of Clans. ",
       "The highest Game Clash Royale has 30.0 more Revenue in million U.S. dollars than the lowest Game Clash of Clans. ",
-      "The Game Clash Royale has 1.03 times more Revenue in million U.S. dollars than average. ",
+      "The Game Clash Royale tends to be 1.03 percent higher than average. ",
       "Summing up the values of all Games, we get total 1164.0. "
    ],
    "trends": [

@@ -6,26 +6,26 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This is a bar chart. It shows Price per liter in U.S. dollars for 8 number of Countrys. ",
-      "The Price per liter in U.S. dollars is highest at Country Italy and lowest at Country United States. ",
-      "There is a difference of 1.08 between the maximum Country Italy and minimum Country United States. "
+      "This is a bar chart representing Country in the x axis and Price per liter in U.S. dollars in the y axis. ",
+      "The maximum Price per liter in U.S. dollars 1.76 is found at Country Italy and the minimum is found at United States where Country is 0.68. ",
+      "The highest Country Italy has 1.08 more Price per liter in U.S. dollars than the lowest Country United States. "
    ],
    "min_summary": [
       "This is a bar chart representing Country in the x axis and Price per liter in U.S. dollars in the y axis. ",
-      "The Price per liter in U.S. dollars is highest at Country Italy and lowest at Country United States. "
+      "The Price per liter in U.S. dollars is appeared to be the highest at Country Italy and lowest at Country United States. "
    ],
    "mid_summary": [
-      "This is a bar chart. It shows Price per liter in U.S. dollars for 8 number of Countrys. ",
-      "The Price per liter in U.S. dollars is highest at Country Italy and lowest at Country United States. ",
-      "There is a difference of 1.08 between the maximum Country Italy and minimum Country United States. "
+      "This is a bar chart representing Country in the x axis and Price per liter in U.S. dollars in the y axis. ",
+      "The maximum Price per liter in U.S. dollars 1.76 is found at Country Italy and the minimum is found at United States where Country is 0.68. ",
+      "The highest Country Italy has 1.08 more Price per liter in U.S. dollars than the lowest Country United States. "
    ],
    "max_summary": [
-      "This is a bar chart representing Country in the x axis and Price per liter in U.S. dollars in the y axis. ",
-      "The Price per liter in U.S. dollars is appeared to be the highest at Country Italy and lowest at Country United States. ",
-      "Country France has the second highest value for Price per liter in U.S. dollars. ",
+      "This bar chart has 8 columns on the x axis representing Country, and Price per liter in U.S. dollars in each Country on the y axis. ",
+      "The maximum Price per liter in U.S. dollars 1.76 is found at Country Italy and the minimum is found at United States where Country is 0.68. ",
+      "The second highest Price per liter in U.S. dollars is appeared to be the Country France. ",
       "The difference of Price per liter in U.S. dollars between the highest and lowest Country is 1.08. ",
       "Price per liter in U.S. dollars at Country Italy is 1.76 , second place is France at 1.69, and thirdly is United Kingdom at 1.64.",
-      "The Country Italy tends to be 1.28 percent higher than average. ",
+      "The average Price per liter in U.S. dollars in all 8 Countrys is 1.38. ",
       "The Price per liter in U.S. dollars is 11.01 if we add up values of all Countrys. "
    ],
    "trends": [

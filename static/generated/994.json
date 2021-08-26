@@ -14,62 +14,14 @@
    "columnType": "multi",
    "graphType": "line",
    "summaryType": "baseline",
-   "summary": [
-      "Overall 4,000-3,000 U.S. dollars, 8,000-11,999 U.S. dollars, and 12,000-15,999 U.S. dollars are gradually increasing, Less than 1,000 U.S. dollars, 1,000-3,999 U.S. dollars, and 16,000-19,999 U.S. dollars are gradually decreasing, 20,000-24,999 U.S. dollars, and 25,000 U.S. dollars or more are roughly constant,  throughout the Year"
-   ],
+   "summary": [],
    "xAxis": "Year",
    "yAxis": "SOME LABEL",
-   "min_summary": [
-      "Overall 4,000-3,000 U.S. dollars, 8,000-11,999 U.S. dollars, and 12,000-15,999 U.S. dollars are gradually increasing, Less than 1,000 U.S. dollars, 1,000-3,999 U.S. dollars, and 16,000-19,999 U.S. dollars are gradually decreasing, 20,000-24,999 U.S. dollars, and 25,000 U.S. dollars or more are roughly constant,  throughout the Year"
-   ],
-   "mid_summary": [
-      "Overall 4,000-3,000 U.S. dollars, 8,000-11,999 U.S. dollars, and 12,000-15,999 U.S. dollars are gradually increasing, Less than 1,000 U.S. dollars, 1,000-3,999 U.S. dollars, and 16,000-19,999 U.S. dollars are gradually decreasing, 20,000-24,999 U.S. dollars, and 25,000 U.S. dollars or more are roughly constant,  throughout the Year"
-   ],
-   "max_summary": [
-      "Overall 4,000-3,000 U.S. dollars, 8,000-11,999 U.S. dollars, and 12,000-15,999 U.S. dollars are gradually increasing, Less than 1,000 U.S. dollars, 1,000-3,999 U.S. dollars, and 16,000-19,999 U.S. dollars are gradually decreasing, 20,000-24,999 U.S. dollars, and 25,000 U.S. dollars or more are roughly constant,  throughout the Year"
-   ],
+   "min_summary": [],
+   "mid_summary": [],
+   "max_summary": [],
    "trends": [
-      {},
-      {
-         "2": [
-            "0",
-            "1"
-         ],
-         "16": [
-            "2",
-            "1"
-         ]
-      },
-      {
-         "1": [
-            "0",
-            "1"
-         ],
-         "9": [
-            "0",
-            "1"
-         ]
-      },
-      {
-         "2": [
-            "0",
-            "2"
-         ],
-         "15": [
-            "2",
-            "2"
-         ]
-      },
-      {
-         "1": [
-            "1",
-            "2"
-         ],
-         "10": [
-            "1",
-            "2"
-         ]
-      }
+      {}
    ],
    "data": [
       {

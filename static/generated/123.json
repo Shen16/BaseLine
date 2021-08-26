@@ -6,26 +6,27 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This is a bar chart. It shows Index value for 11 number of Countrys. ",
+      "This bar chart has 11 columns on the x axis representing Country, and Index value in each Country on the y axis. ",
       "The Index value is highest at Country United States and lowest at Country India. ",
-      "The difference of Index value between the highest and lowest Country is 142.0. "
+      "There is a difference of 142.0 between the maximum Country United States and minimum Country India. "
    ],
    "min_summary": [
       "This bar chart has 11 columns on the x axis representing Country, and Index value in each Country on the y axis. ",
-      "The maximum Index value 152.0 is found at Country United States and the minimum is found at India where Country is 10.0. "
+      "The Index value is appeared to be the highest at Country United States and lowest at Country India. "
    ],
    "mid_summary": [
-      "This is a bar chart. It shows Index value for 11 number of Countrys. ",
+      "This bar chart has 11 columns on the x axis representing Country, and Index value in each Country on the y axis. ",
       "The Index value is highest at Country United States and lowest at Country India. ",
-      "The difference of Index value between the highest and lowest Country is 142.0. "
+      "There is a difference of 142.0 between the maximum Country United States and minimum Country India. "
    ],
    "max_summary": [
-      "This bar chart has 11 columns on the x axis representing Country, and Index value in each Country on the y axis. ",
-      "The Index value is appeared to be the highest at Country United States and lowest at Country India. ",
-      "The maximum Country United States has got 15.2 times higher Index value than the minimum Country India. ",
+      "This is a bar chart. It shows Index value for 11 number of Countrys. ",
+      "Country United States has the highest Index value and India has the lowest Index value. ",
+      "Second maximum Index value is found at Country Austria. ",
+      "The Index value of Country United States is 15.2% larger than the minimum value at India. ",
       "Index value at Country United States is 152.0 , second place is Austria at 114.0, and thirdly is Belgium at 112.0.",
-      "The Country United States has 1.77 times more Index value than average. ",
-      "Summing up the values of all Countrys, we get total 943.0. "
+      "Considered together, the average Index value in all 11 Countrys is roughly 85.73. ",
+      "The Index value is 943.0 if we add up values of all Countrys. "
    ],
    "trends": [
       {},

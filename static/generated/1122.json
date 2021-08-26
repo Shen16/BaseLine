@@ -10,10 +10,10 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart shows SOME LABEL on the Y-axis for 17 different Categorys for 3 groups Free apps with in-app purchases, Paid apps without in-app purchases, and Paid apps with in-app purchases that are presented on the X-axis. ",
-      " Out of all 3 groups, Free apps with in-app purchases had the highest SOME LABEL in Category Newsstand and Paid apps without in-app purchases had the lowest SOME LABEL in Category Newsstand. ",
-      " In Category Medical, Paid apps without in-app purchases had the maximum SOME LABEL and it saw the lowest in Category Newsstand out of all 17 Categorys. ",
-      " There is a gap of 679.0 between the highest and lowest SOME LABEL found for Paid apps without in-app purchases in Category Medical and Newsstand. "
+      "This grouped bar chart represents 17 different Categorys on X-axis for 3 groups Free apps with in-app purchases, Paid apps without in-app purchases, and Paid apps with in-app purchases. On the Y-axis it shows their corresponding SOME LABEL. ",
+      " In Category Newsstand, Free apps with in-app purchases had the highest SOME LABEL 996.0 among the 3 groups and in Newsstand, Paid apps without in-app purchases had the lowest SOME LABEL 2.0. ",
+      " In Category Medical, Paid apps without in-app purchases had the highest SOME LABEL among all 17 Categorys and it has the lowest SOME LABEL in Category Newsstand. ",
+      " The maximum SOME LABEL for Paid apps without in-app purchases that was found in Category Medical was 340.5 times larger than the minimum SOME LABEL observed in Category Newsstand. "
    ],
    "xAxis": "Category",
    "yAxis": "SOME LABEL",
@@ -22,19 +22,19 @@
       " Out of all 3 groups, Free apps with in-app purchases had the highest SOME LABEL in Category Newsstand and Paid apps without in-app purchases had the lowest SOME LABEL in Category Newsstand. "
    ],
    "mid_summary": [
-      "This grouped bar chart shows SOME LABEL on the Y-axis for 17 different Categorys for 3 groups Free apps with in-app purchases, Paid apps without in-app purchases, and Paid apps with in-app purchases that are presented on the X-axis. ",
-      " Out of all 3 groups, Free apps with in-app purchases had the highest SOME LABEL in Category Newsstand and Paid apps without in-app purchases had the lowest SOME LABEL in Category Newsstand. ",
-      " In Category Medical, Paid apps without in-app purchases had the maximum SOME LABEL and it saw the lowest in Category Newsstand out of all 17 Categorys. ",
-      " There is a gap of 679.0 between the highest and lowest SOME LABEL found for Paid apps without in-app purchases in Category Medical and Newsstand. "
-   ],
-   "max_summary": [
       "This grouped bar chart represents 17 different Categorys on X-axis for 3 groups Free apps with in-app purchases, Paid apps without in-app purchases, and Paid apps with in-app purchases. On the Y-axis it shows their corresponding SOME LABEL. ",
       " In Category Newsstand, Free apps with in-app purchases had the highest SOME LABEL 996.0 among the 3 groups and in Newsstand, Paid apps without in-app purchases had the lowest SOME LABEL 2.0. ",
-      " Among all the Categorys, Paid apps without in-app purchases had the highest SOME LABEL in Category Medical and lowest SOME LABEL in Category Newsstand. ",
+      " In Category Medical, Paid apps without in-app purchases had the highest SOME LABEL among all 17 Categorys and it has the lowest SOME LABEL in Category Newsstand. ",
+      " The maximum SOME LABEL for Paid apps without in-app purchases that was found in Category Medical was 340.5 times larger than the minimum SOME LABEL observed in Category Newsstand. "
+   ],
+   "max_summary": [
+      "This grouped bar chart shows SOME LABEL on the Y-axis for 17 different Categorys for 3 groups Free apps with in-app purchases, Paid apps without in-app purchases, and Paid apps with in-app purchases that are presented on the X-axis. ",
+      " In Category Newsstand, Free apps with in-app purchases had the highest SOME LABEL 996.0 among the 3 groups and in Newsstand, Paid apps without in-app purchases had the lowest SOME LABEL 2.0. ",
+      " In Category Medical, Paid apps without in-app purchases had the maximum SOME LABEL and it saw the lowest in Category Newsstand out of all 17 Categorys. ",
       " There is a gap of 679.0 between the highest and lowest SOME LABEL found for Paid apps without in-app purchases in Category Medical and Newsstand. ",
-      " Out of all 3 groups, the highest gap between the maximum and minimum SOME LABEL was found in case of Free apps with in-app purchases. ",
-      " In Category Newsstand, Free apps with in-app purchases had the highest SOME LABEL 996.0 among the 3 groups and in Newsstand, Paid apps without in-app purchases had the lowest SOME LABEL 2.0. The second highest SOME LABEL 681.0 was observed for Free apps with in-app purchases in Category Newsstand. ",
-      "Averaging all 3 groups Free apps with in-app purchases, Paid apps without in-app purchases, and Paid apps with in-app purchases, the Category Productivity is the maximum SOME LABEL and Music is the minimum SOME LABEL. "
+      " Among all 3 groups, Free apps with in-app purchases had the gap of 975.0 between the maximum and minimum SOME LABEL observed in Category Newsstand and Navigation respectively. ",
+      " Free apps with in-app purchases had the maximum SOME LABEL out of all 3 groups in Category Newsstand followed by Free apps with in-app purchases in Newsstand, and the minimum SOME LABEL is found for Paid apps without in-app purchases in Newsstand. ",
+      "On average, the Category Productivity had the highest SOME LABEL for all 3 groups Free apps with in-app purchases, Paid apps without in-app purchases, and Paid apps with in-app purchases. Whereas Music had the lowest average SOME LABEL. "
    ],
    "trends": [
       {},

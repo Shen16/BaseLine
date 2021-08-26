@@ -6,25 +6,24 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This is a bar chart representing Company in the x axis and Revenue in billion U.S. dollars in the y axis. ",
-      "Company Amadeus has the highest Revenue in billion U.S. dollars and Travelport has the lowest Revenue in billion U.S. dollars. ",
-      "The difference of Revenue in billion U.S. dollars between the highest and lowest Company is 3.36. "
+      "This is a bar chart. It shows Revenue in billion U.S. dollars for 3 number of Companys. ",
+      "The Revenue in billion U.S. dollars is highest at Company Amadeus and lowest at Company Travelport. ",
+      "The Revenue in billion U.S. dollars of Company Amadeus is 2.37% larger than the minimum value at Travelport. "
    ],
    "min_summary": [
-      "This is a bar chart representing Company in the x axis and Revenue in billion U.S. dollars in the y axis. ",
-      "The Revenue in billion U.S. dollars is highest at Company Amadeus and lowest at Company Travelport. "
+      "This is a bar chart. It shows Revenue in billion U.S. dollars for 3 number of Companys. ",
+      "Company Amadeus has the highest Revenue in billion U.S. dollars and Travelport has the lowest Revenue in billion U.S. dollars. "
    ],
    "mid_summary": [
-      "This is a bar chart representing Company in the x axis and Revenue in billion U.S. dollars in the y axis. ",
-      "Company Amadeus has the highest Revenue in billion U.S. dollars and Travelport has the lowest Revenue in billion U.S. dollars. ",
-      "The difference of Revenue in billion U.S. dollars between the highest and lowest Company is 3.36. "
+      "This is a bar chart. It shows Revenue in billion U.S. dollars for 3 number of Companys. ",
+      "The Revenue in billion U.S. dollars is highest at Company Amadeus and lowest at Company Travelport. ",
+      "The Revenue in billion U.S. dollars of Company Amadeus is 2.37% larger than the minimum value at Travelport. "
    ],
    "max_summary": [
       "This bar chart has 3 columns on the x axis representing Company, and Revenue in billion U.S. dollars in each Company on the y axis. ",
-      "The Revenue in billion U.S. dollars is appeared to be the highest at Company Amadeus and lowest at Company Travelport. ",
-      "The Revenue in billion U.S. dollars of Company Travelport is 2.37% smaller than the maximum value at Amadeus. ",
-      "Considered together, the average Revenue in billion U.S. dollars in all 3 Companys is roughly 3.95. ",
-      "The Revenue in billion U.S. dollars is 11.86 if we add up values of all Companys. "
+      "Company Amadeus has the highest Revenue in billion U.S. dollars and Travelport has the lowest Revenue in billion U.S. dollars. ",
+      "There is a difference of 3.36 between the maximum Company Amadeus and minimum Company Travelport. ",
+      "The lowest value 2.45 at Travelport is almost 1.47 times smaller than the average value 3.95. "
    ],
    "trends": [
       {},

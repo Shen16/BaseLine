@@ -12,29 +12,29 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This grouped bar chart shows Production in metric tons on the Y-axis for 10 different Countrys for 5 groups 2015, 2016, 2017, 2018, and 2019 that are presented on the X-axis. ",
-      " In Country China, 2018 had the highest Production in metric tons 14000.0 among the 5 groups and in Laos, 2015 had the lowest Production in metric tons 0.0. ",
-      " In Country China, 2017 had the maximum Production in metric tons and it saw the lowest in Country Vietnam out of all 10 Countrys. ",
-      " The maximum Production in metric tons for 2017 that was found in Country China was 13500.0 times larger than the minimum Production in metric tons observed in Country Vietnam. "
+      "This grouped bar chart represents 10 different Countrys on X-axis for 5 groups 2015, 2016, 2017, 2018, and 2019. On the Y-axis it shows their corresponding Production in metric tons. ",
+      " Out of all 5 groups, 2018 had the highest Production in metric tons in Country China and 2015 had the lowest Production in metric tons in Country Laos. ",
+      " In Country China, 2018 had the highest Production in metric tons among all 10 Countrys and it has the lowest Production in metric tons in Country Russia. ",
+      " There is a gap of 13999.0 between the highest and lowest Production in metric tons found for 2018 in Country China and Russia. "
    ],
    "xAxis": "Country",
    "yAxis": "Production in metric tons",
    "min_summary": [
-      "This grouped bar chart represents 10 different Countrys on X-axis for 5 groups 2015, 2016, 2017, 2018, and 2019. On the Y-axis it shows their corresponding Production in metric tons. ",
-      " Out of all 5 groups, 2018 had the highest Production in metric tons in Country China and 2015 had the lowest Production in metric tons in Country Laos. "
+      "This grouped bar chart shows Production in metric tons on the Y-axis for 10 different Countrys for 5 groups 2015, 2016, 2017, 2018, and 2019 that are presented on the X-axis. ",
+      " Country China had the maximum Production in metric tons among all 5 groups, and it was for 2018. The minimum Production in metric tons was observed in Country Laos for 2015. "
    ],
    "mid_summary": [
-      "This grouped bar chart shows Production in metric tons on the Y-axis for 10 different Countrys for 5 groups 2015, 2016, 2017, 2018, and 2019 that are presented on the X-axis. ",
-      " In Country China, 2018 had the highest Production in metric tons 14000.0 among the 5 groups and in Laos, 2015 had the lowest Production in metric tons 0.0. ",
-      " In Country China, 2017 had the maximum Production in metric tons and it saw the lowest in Country Vietnam out of all 10 Countrys. ",
-      " The maximum Production in metric tons for 2017 that was found in Country China was 13500.0 times larger than the minimum Production in metric tons observed in Country Vietnam. "
+      "This grouped bar chart represents 10 different Countrys on X-axis for 5 groups 2015, 2016, 2017, 2018, and 2019. On the Y-axis it shows their corresponding Production in metric tons. ",
+      " Out of all 5 groups, 2018 had the highest Production in metric tons in Country China and 2015 had the lowest Production in metric tons in Country Laos. ",
+      " In Country China, 2018 had the highest Production in metric tons among all 10 Countrys and it has the lowest Production in metric tons in Country Russia. ",
+      " There is a gap of 13999.0 between the highest and lowest Production in metric tons found for 2018 in Country China and Russia. "
    ],
    "max_summary": [
       "This grouped bar chart represents 10 different Countrys on X-axis for 5 groups 2015, 2016, 2017, 2018, and 2019. On the Y-axis it shows their corresponding Production in metric tons. ",
-      " Country China had the maximum Production in metric tons among all 5 groups, and it was for 2018. The minimum Production in metric tons was observed in Country Laos for 2015. ",
-      " Among all the Countrys, 2017 had the highest Production in metric tons in Country China and lowest Production in metric tons in Country Vietnam. ",
-      "Country China and Vietnam had the biggest gap of 13499.0 between the highest and lowest Production in metric tons found for 2017. ",
-      " Out of all 5 groups, the highest gap between the maximum and minimum Production in metric tons was found in case of 2018. ",
+      " Out of all 5 groups, 2018 had the highest Production in metric tons in Country China and 2015 had the lowest Production in metric tons in Country Laos. ",
+      " Among all the Countrys, 2018 had the highest Production in metric tons 14000.0 in Country China and lowest value 0.0 in Country Russia. ",
+      " There is a gap of 13999.0 between the highest and lowest Production in metric tons found for 2018 in Country China and Russia. ",
+      " Among the groups, 2018 had the biggest difference in Production in metric tons. Where the maximum Production in metric tons was 14000.0 times larger than the minimum Production in metric tons. ",
       " In Country China, 2018 had the highest Production in metric tons 14000.0 among the 5 groups and in Laos, 2015 had the lowest Production in metric tons 0.0. The second highest Production in metric tons 7500.0 was observed for 2018 in Country China. ",
       "Averaging all 5 groups 2015, 2016, 2017, 2018, and 2019, the Country China is the maximum Production in metric tons and Bolivia is the minimum Production in metric tons. "
    ],

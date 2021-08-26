@@ -9,66 +9,28 @@
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "Overall Male, and Female are roughly constant,  throughout the Year",
-      "The order of lines according to average values of Population in million inhabitants, in descending order is: 1. Male, and lastly, 2. Female. ",
-      "Female reported the lowest Population in million inhabitants about 653.43 in Year 2010",
-      "The greatest difference of Population in million inhabitants between Male and Female occurs at Year 2010 and the smallest difference occurs at 2017."
+      " Overall Population in million inhabitants has increased over the Year.",
+      "Population in million inhabitants is slightly increasing from 2014 to 2016.",
+      "Maximum Population in million inhabitants, about 708.15 was reported at Year 2016",
+      "The lowest Population in million inhabitants, of value 700.79 was reported at Year 2014"
    ],
    "xAxis": "Year",
    "yAxis": "Population in million inhabitants",
    "min_summary": [
-      "Overall Male, and Female are roughly constant,  throughout the Year"
+      " Overall Population in million inhabitants has increased over the Year."
    ],
    "mid_summary": [
-      "Overall Male, and Female are roughly constant,  throughout the Year"
+      " Overall Population in million inhabitants has increased over the Year.",
+      "Population in million inhabitants is slightly increasing from 2014 to 2016."
    ],
    "max_summary": [
-      "Overall Male, and Female are roughly constant,  throughout the Year",
-      "Female reported the lowest Population in million inhabitants about 653.43 in Year 2010",
-      "The difference of Population in million inhabitants between Male and Female is roughly same at Year 2017 compared to the Year 2010."
+      " Overall Population in million inhabitants has increased over the Year.",
+      "Population in million inhabitants is slightly increasing from 2014 to 2016.",
+      "Maximum Population in million inhabitants, about 708.15 was reported at Year 2016",
+      "The lowest Population in million inhabitants, of value 700.79 was reported at Year 2014"
    ],
    "trends": [
-      {},
-      {
-         "2": [
-            "0",
-            "0"
-         ],
-         "16": [
-            "10",
-            "0"
-         ]
-      },
-      {
-         "1": [
-            "7",
-            "0"
-         ],
-         "9": [
-            "7",
-            "0"
-         ]
-      },
-      {
-         "2": [
-            "0",
-            "1"
-         ],
-         "15": [
-            "10",
-            "1"
-         ]
-      },
-      {
-         "1": [
-            "7",
-            "1"
-         ],
-         "10": [
-            "7",
-            "1"
-         ]
-      }
+      {}
    ],
    "data": [
       {

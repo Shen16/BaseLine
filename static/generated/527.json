@@ -6,26 +6,27 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This is a bar chart. It shows Consumption in million metric tons for 11 number of Fiscal Annuallys. ",
-      "Fiscal Annually FY 2019 has the highest Consumption in million metric tons and FY 2011 has the lowest Consumption in million metric tons. ",
-      "The maximum Fiscal Annually FY 2019 has got 1.98 times higher Consumption in million metric tons than the minimum Fiscal Annually FY 2011. "
-   ],
-   "min_summary": [
-      "This is a bar chart. It shows Consumption in million metric tons for 11 number of Fiscal Annuallys. ",
-      "Fiscal Annually FY 2019 has the highest Consumption in million metric tons and FY 2011 has the lowest Consumption in million metric tons. "
-   ],
-   "mid_summary": [
-      "This is a bar chart. It shows Consumption in million metric tons for 11 number of Fiscal Annuallys. ",
-      "Fiscal Annually FY 2019 has the highest Consumption in million metric tons and FY 2011 has the lowest Consumption in million metric tons. ",
-      "The maximum Fiscal Annually FY 2019 has got 1.98 times higher Consumption in million metric tons than the minimum Fiscal Annually FY 2011. "
-   ],
-   "max_summary": [
       "This bar chart has 11 columns on the x axis representing Fiscal Annually, and Consumption in million metric tons in each Fiscal Annually on the y axis. ",
       "The Consumption in million metric tons is highest at Fiscal Annually FY 2019 and lowest at Fiscal Annually FY 2011. ",
-      "The difference of Consumption in million metric tons between the highest and lowest Fiscal Annually is 162.0. ",
+      "The highest value at Fiscal Annually FY 2019 is 1.98x times more than the lowest value at FY 2011. "
+   ],
+   "min_summary": [
+      "This is a bar chart representing Fiscal Annually in the x axis and Consumption in million metric tons in the y axis. ",
+      "The Consumption in million metric tons is appeared to be the highest at Fiscal Annually FY 2019 and lowest at Fiscal Annually FY 2011. "
+   ],
+   "mid_summary": [
+      "This bar chart has 11 columns on the x axis representing Fiscal Annually, and Consumption in million metric tons in each Fiscal Annually on the y axis. ",
+      "The Consumption in million metric tons is highest at Fiscal Annually FY 2019 and lowest at Fiscal Annually FY 2011. ",
+      "The highest value at Fiscal Annually FY 2019 is 1.98x times more than the lowest value at FY 2011. "
+   ],
+   "max_summary": [
+      "This is a bar chart. It shows Consumption in million metric tons for 11 number of Fiscal Annuallys. ",
+      "The maximum Consumption in million metric tons 328.0 is found at Fiscal Annually FY 2019 and the minimum is found at FY 2011 where Fiscal Annually is 166.0. ",
+      "The second highest Consumption in million metric tons is appeared to be the Fiscal Annually FY 2017. ",
+      "The highest Fiscal Annually FY 2019 has 162.0 more Consumption in million metric tons than the lowest Fiscal Annually FY 2011. ",
       "Consumption in million metric tons at Fiscal Annually FY 2019 is 328.0 , second place is FY 2017 at 272.0, and thirdly is FY 2016 at 269.0.",
       "Fiscal Annually FY 2018, and FY 2016 have a similar Consumption in million metric tons that is 269.0. ",
-      "The Fiscal Annually FY 2011 has 1.35 times less Consumption in million metric tons than average. ",
+      "The highest value 328.0 at FY 2019 is almost 1.35 times larger than the average value 242.18. ",
       "Summing up the values of all Fiscal Annuallys, we get total 2664.0. "
    ],
    "trends": [

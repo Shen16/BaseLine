@@ -6,27 +6,28 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This is a bar chart representing Cause in the x axis and Number of deaths in the y axis. ",
-      "Cause Congenital malformations deformations and chromosomal abnormalities has the highest Number of deaths and Sudden infant death syndrome has the lowest Number of deaths. ",
-      "The Number of deaths of Cause Congenital malformations deformations and chromosomal abnormalities is 41.2% larger than the minimum value at Sudden infant death syndrome. "
+      "This bar chart has 12 columns on the x axis representing Cause, and Number of deaths in each Cause on the y axis. ",
+      "The Number of deaths is highest at Cause Congenital malformations deformations and chromosomal abnormalities and lowest at Cause Sudden infant death syndrome. ",
+      "The highest Cause Congenital malformations deformations and chromosomal abnormalities has 402.0 more Number of deaths than the lowest Cause Sudden infant death syndrome. "
    ],
    "min_summary": [
-      "This is a bar chart representing Cause in the x axis and Number of deaths in the y axis. ",
-      "The Number of deaths is highest at Cause Congenital malformations deformations and chromosomal abnormalities and lowest at Cause Sudden infant death syndrome. "
+      "This bar chart has 12 columns on the x axis representing Cause, and Number of deaths in each Cause on the y axis. ",
+      "The Number of deaths is appeared to be the highest at Cause Congenital malformations deformations and chromosomal abnormalities and lowest at Cause Sudden infant death syndrome. "
    ],
    "mid_summary": [
-      "This is a bar chart representing Cause in the x axis and Number of deaths in the y axis. ",
-      "Cause Congenital malformations deformations and chromosomal abnormalities has the highest Number of deaths and Sudden infant death syndrome has the lowest Number of deaths. ",
-      "The Number of deaths of Cause Congenital malformations deformations and chromosomal abnormalities is 41.2% larger than the minimum value at Sudden infant death syndrome. "
+      "This bar chart has 12 columns on the x axis representing Cause, and Number of deaths in each Cause on the y axis. ",
+      "The Number of deaths is highest at Cause Congenital malformations deformations and chromosomal abnormalities and lowest at Cause Sudden infant death syndrome. ",
+      "The highest Cause Congenital malformations deformations and chromosomal abnormalities has 402.0 more Number of deaths than the lowest Cause Sudden infant death syndrome. "
    ],
    "max_summary": [
-      "This is a bar chart representing Cause in the x axis and Number of deaths in the y axis. ",
-      "The Number of deaths is highest at Cause Congenital malformations deformations and chromosomal abnormalities and lowest at Cause Sudden infant death syndrome. ",
+      "This is a bar chart. It shows Number of deaths for 12 number of Causes. ",
+      "The Number of deaths is appeared to be the highest at Cause Congenital malformations deformations and chromosomal abnormalities and lowest at Cause Sudden infant death syndrome. ",
       "Second maximum Number of deaths is found at Cause Disorders related to short gestation and low birth weight not elsewhere classified. ",
-      "The difference of Number of deaths between the highest and lowest Cause is 402.0. ",
+      "The highest Cause Congenital malformations deformations and chromosomal abnormalities has 402.0 more Number of deaths than the lowest Cause Sudden infant death syndrome. ",
       "Cause Congenital malformations deformations and chromosomal abnormalities is higher than any other Causes with value 412.0, followed by Disorders related to short gestation and low birth weight not elsewhere classified, and Newborn affected by maternal complications of pregnancy. Down to Cause Sudden infant death syndrome with the lowest value 10.0. ",
-      "Cause Accidents (unintentional injuries), and Diseases of the circulatory system have a similar Number of deaths that is 17.0. ",
-      "The Cause Congenital malformations deformations and chromosomal abnormalities has 4.42 times more Number of deaths than average. "
+      "Cause Accidents (unintentional injuries), and Diseases of the circulatory system have the same Number of deaths. ",
+      "The Cause Sudden infant death syndrome has 4.42 times less Number of deaths than average. ",
+      "Summing up the values of all Causes, we get total 1118.0. "
    ],
    "trends": [
       {},

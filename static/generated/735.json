@@ -6,26 +6,26 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 35 columns on the x axis representing Company, and Percentage dividend yield in each Company on the y axis. ",
-      "The Percentage dividend yield is highest at Company Mediaset and lowest at Company Arcelormittal. ",
-      "The highest value at Company Mediaset is 846000000000.0x times more than the lowest value at Arcelormittal. "
+      "This is a bar chart representing Company in the x axis and Percentage dividend yield in the y axis. ",
+      "The maximum Percentage dividend yield 8.46 is found at Company Mediaset and the minimum is found at Arcelormittal where Company is 0.0. ",
+      "The difference of Percentage dividend yield between the highest and lowest Company is 8.46. "
    ],
    "min_summary": [
       "This bar chart has 35 columns on the x axis representing Company, and Percentage dividend yield in each Company on the y axis. ",
-      "The Percentage dividend yield is highest at Company Mediaset and lowest at Company Arcelormittal. "
+      "Company Mediaset has the highest Percentage dividend yield and Arcelormittal has the lowest Percentage dividend yield. "
    ],
    "mid_summary": [
-      "This bar chart has 35 columns on the x axis representing Company, and Percentage dividend yield in each Company on the y axis. ",
-      "The Percentage dividend yield is highest at Company Mediaset and lowest at Company Arcelormittal. ",
-      "The highest value at Company Mediaset is 846000000000.0x times more than the lowest value at Arcelormittal. "
+      "This is a bar chart representing Company in the x axis and Percentage dividend yield in the y axis. ",
+      "The maximum Percentage dividend yield 8.46 is found at Company Mediaset and the minimum is found at Arcelormittal where Company is 0.0. ",
+      "The difference of Percentage dividend yield between the highest and lowest Company is 8.46. "
    ],
    "max_summary": [
       "This bar chart has 35 columns on the x axis representing Company, and Percentage dividend yield in each Company on the y axis. ",
-      "The Percentage dividend yield is highest at Company Mediaset and lowest at Company Arcelormittal. ",
-      "Second maximum Percentage dividend yield is found at Company Ence. ",
+      "The Percentage dividend yield is appeared to be the highest at Company Mediaset and lowest at Company Arcelormittal. ",
       "There is a difference of 8.46 between the maximum Company Mediaset and minimum Company Arcelormittal. ",
-      "Percentage dividend yield at Company Mediaset is 8.46 , second place is Ence at 6.7, and thirdly is Repsol at 6.54.",
-      "The Company Mediaset has 1.98 times more Percentage dividend yield than average. "
+      "Company Mediaset is higher than any other Companys with value 8.46, followed by Ence, and Repsol. Down to Company Arcelormittal with the lowest value 0.0. ",
+      "The average Percentage dividend yield in all 35 Companys is 4.27. ",
+      "Summing up the values of all Companys, we get total 149.59. "
    ],
    "trends": [
       {},

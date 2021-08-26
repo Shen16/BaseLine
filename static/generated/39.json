@@ -6,25 +6,26 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This is a bar chart. It shows Share of respondents currently purchasing for 8 number of Cheese Brandss. ",
-      "The maximum Share of respondents currently purchasing 51.0 is found at Cheese Brands Cathedral City and the minimum is found at Babybel where Cheese Brands is 17.0. ",
-      "Cheese Brands Babybel has 3.0 times less Share of respondents currently purchasing than Cheese Brands Cathedral City which is the highest. "
+      "This bar chart has 8 columns on the x axis representing Cheese Brands, and Share of respondents currently purchasing in each Cheese Brands on the y axis. ",
+      "The Share of respondents currently purchasing is highest at Cheese Brands Cathedral City and lowest at Cheese Brands Babybel. ",
+      "There is a difference of 34.0 between the maximum Cheese Brands Cathedral City and minimum Cheese Brands Babybel. "
    ],
    "min_summary": [
       "This is a bar chart representing Cheese Brands in the x axis and Share of respondents currently purchasing in the y axis. ",
-      "The Share of respondents currently purchasing is appeared to be the highest at Cheese Brands Cathedral City and lowest at Cheese Brands Babybel. "
+      "The maximum Share of respondents currently purchasing 51.0 is found at Cheese Brands Cathedral City and the minimum is found at Babybel where Cheese Brands is 17.0. "
    ],
    "mid_summary": [
-      "This is a bar chart. It shows Share of respondents currently purchasing for 8 number of Cheese Brandss. ",
-      "The maximum Share of respondents currently purchasing 51.0 is found at Cheese Brands Cathedral City and the minimum is found at Babybel where Cheese Brands is 17.0. ",
-      "Cheese Brands Babybel has 3.0 times less Share of respondents currently purchasing than Cheese Brands Cathedral City which is the highest. "
+      "This bar chart has 8 columns on the x axis representing Cheese Brands, and Share of respondents currently purchasing in each Cheese Brands on the y axis. ",
+      "The Share of respondents currently purchasing is highest at Cheese Brands Cathedral City and lowest at Cheese Brands Babybel. ",
+      "There is a difference of 34.0 between the maximum Cheese Brands Cathedral City and minimum Cheese Brands Babybel. "
    ],
    "max_summary": [
-      "This bar chart has 8 columns on the x axis representing Cheese Brands, and Share of respondents currently purchasing in each Cheese Brands on the y axis. ",
-      "Cheese Brands Cathedral City has the highest Share of respondents currently purchasing and Babybel has the lowest Share of respondents currently purchasing. ",
-      "There is a difference of 34.0 between the maximum Cheese Brands Cathedral City and minimum Cheese Brands Babybel. ",
-      "The Cheese Brands Cathedral City has the highest Share of respondents currently purchasing, followed by Supermarket own label cheese, and Philadelphia. Down to the Cheese Brands Babybel which is the lowest. ",
-      "The Cheese Brands Babybel has 1.77 times less Share of respondents currently purchasing than average. "
+      "This is a bar chart representing Cheese Brands in the x axis and Share of respondents currently purchasing in the y axis. ",
+      "The maximum Share of respondents currently purchasing 51.0 is found at Cheese Brands Cathedral City and the minimum is found at Babybel where Cheese Brands is 17.0. ",
+      "Cheese Brands Supermarket own label cheese has the second highest value for Share of respondents currently purchasing. ",
+      "The difference of Share of respondents currently purchasing between the highest and lowest Cheese Brands is 34.0. ",
+      "Cheese Brands Cathedral City is higher than any other Cheese Brandss with value 51.0, followed by Supermarket own label cheese, and Philadelphia. Down to Cheese Brands Babybel with the lowest value 17.0. ",
+      "The average Share of respondents currently purchasing in all 8 Cheese Brandss is 28.88. "
    ],
    "trends": [
       {},

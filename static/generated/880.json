@@ -6,28 +6,28 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This is a bar chart representing Distribution channel in the x axis and Net sales share in the y axis. ",
-      "The Net sales share is appeared to be the highest at Distribution channel Department stores and lowest at Distribution channel Salon and spa. ",
+      "This is a bar chart. It shows Net sales share for 8 number of Distribution channels. ",
+      "The Net sales share is highest at Distribution channel Department stores and lowest at Distribution channel Salon and spa. ",
       "The difference of Net sales share between the highest and lowest Distribution channel is 39.0. "
    ],
    "min_summary": [
-      "This is a bar chart. It shows Net sales share for 8 number of Distribution channels. ",
-      "The maximum Net sales share 42.0 is found at Distribution channel Department stores and the minimum is found at Salon and spa where Distribution channel is 3.0. "
+      "This bar chart has 8 columns on the x axis representing Distribution channel, and Net sales share in each Distribution channel on the y axis. ",
+      "Distribution channel Department stores has the highest Net sales share and Salon and spa has the lowest Net sales share. "
    ],
    "mid_summary": [
-      "This is a bar chart representing Distribution channel in the x axis and Net sales share in the y axis. ",
-      "The Net sales share is appeared to be the highest at Distribution channel Department stores and lowest at Distribution channel Salon and spa. ",
+      "This is a bar chart. It shows Net sales share for 8 number of Distribution channels. ",
+      "The Net sales share is highest at Distribution channel Department stores and lowest at Distribution channel Salon and spa. ",
       "The difference of Net sales share between the highest and lowest Distribution channel is 39.0. "
    ],
    "max_summary": [
-      "This bar chart has 8 columns on the x axis representing Distribution channel, and Net sales share in each Distribution channel on the y axis. ",
-      "Distribution channel Department stores has the highest Net sales share and Salon and spa has the lowest Net sales share. ",
+      "This is a bar chart. It shows Net sales share for 8 number of Distribution channels. ",
+      "The maximum Net sales share 42.0 is found at Distribution channel Department stores and the minimum is found at Salon and spa where Distribution channel is 3.0. ",
       "Second maximum Net sales share is found at Distribution channel Travel retail. ",
-      "There is a difference of 39.0 between the maximum Distribution channel Department stores and minimum Distribution channel Salon and spa. ",
+      "Distribution channel Department stores has 14.0 times more Net sales share than Distribution channel Salon and spa which is has the lowest. ",
       "Distribution channel Department stores is higher than any other Distribution channels with value 42.0, followed by Travel retail, and Specialty-multi. Down to Distribution channel Salon and spa with the lowest value 3.0. ",
-      "Distribution channel Freestanding retail stores, and Specialty-multi have a similar Net sales share that is 11.0. ",
-      "The Distribution channel Salon and spa has 3.36 times less Net sales share than average. ",
-      "The Net sales share is 100.0 if we add up values of all Distribution channels. "
+      "Similar Net sales share is found in Distribution channel Freestanding retail stores, and Specialty-multi. ",
+      "Considered together, the average Net sales share in all 8 Distribution channels is roughly 12.5. ",
+      "Summing up the values of all Distribution channels, we get total 100.0. "
    ],
    "trends": [
       {},

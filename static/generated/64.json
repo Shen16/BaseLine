@@ -6,26 +6,26 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 32 columns on the x axis representing Team, and Facebook fans in millions in each Team on the y axis. ",
-      "The maximum Facebook fans in millions 8.58 is found at Team Dallas Cowboys and the minimum is found at Jacksonville Jaguars where Team is 0.63. ",
-      "The highest Team Dallas Cowboys has 7.95 more Facebook fans in millions than the lowest Team Jacksonville Jaguars. "
+      "This is a bar chart. It shows Facebook fans in millions for 32 number of Teams. ",
+      "The Facebook fans in millions is highest at Team Dallas Cowboys and lowest at Team Jacksonville Jaguars. ",
+      "The minimum Team Jacksonville Jaguars has got 13.62 times less Facebook fans in millions than the maximum Team Dallas Cowboys. "
    ],
    "min_summary": [
-      "This bar chart has 32 columns on the x axis representing Team, and Facebook fans in millions in each Team on the y axis. ",
-      "The Facebook fans in millions is highest at Team Dallas Cowboys and lowest at Team Jacksonville Jaguars. "
+      "This is a bar chart representing Team in the x axis and Facebook fans in millions in the y axis. ",
+      "The maximum Facebook fans in millions 8.58 is found at Team Dallas Cowboys and the minimum is found at Jacksonville Jaguars where Team is 0.63. "
    ],
    "mid_summary": [
-      "This bar chart has 32 columns on the x axis representing Team, and Facebook fans in millions in each Team on the y axis. ",
-      "The maximum Facebook fans in millions 8.58 is found at Team Dallas Cowboys and the minimum is found at Jacksonville Jaguars where Team is 0.63. ",
-      "The highest Team Dallas Cowboys has 7.95 more Facebook fans in millions than the lowest Team Jacksonville Jaguars. "
+      "This is a bar chart. It shows Facebook fans in millions for 32 number of Teams. ",
+      "The Facebook fans in millions is highest at Team Dallas Cowboys and lowest at Team Jacksonville Jaguars. ",
+      "The minimum Team Jacksonville Jaguars has got 13.62 times less Facebook fans in millions than the maximum Team Dallas Cowboys. "
    ],
    "max_summary": [
       "This is a bar chart representing Team in the x axis and Facebook fans in millions in the y axis. ",
-      "The maximum Facebook fans in millions 8.58 is found at Team Dallas Cowboys and the minimum is found at Jacksonville Jaguars where Team is 0.63. ",
-      "Second maximum Facebook fans in millions is found at Team New England Patriots. ",
-      "The difference of Facebook fans in millions between the highest and lowest Team is 7.95. ",
+      "The Facebook fans in millions is highest at Team Dallas Cowboys and lowest at Team Jacksonville Jaguars. ",
+      "The highest value at Team Dallas Cowboys is 13.62x times more than the lowest value at Jacksonville Jaguars. ",
       "The Team Dallas Cowboys has the highest Facebook fans in millions, followed by New England Patriots, and Pittsburgh Steelers. Down to the Team Jacksonville Jaguars which is the lowest. ",
-      "The highest value 8.58 at Dallas Cowboys is almost 3.04 times larger than the average value 2.83. "
+      "The Team Jacksonville Jaguars has 3.04 times less Facebook fans in millions than average. ",
+      "The Facebook fans in millions is 90.46 if we add up values of all Teams. "
    ],
    "trends": [
       {},

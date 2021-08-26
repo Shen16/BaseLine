@@ -9,64 +9,19 @@
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "Overall Company-owned, and Franchised are roughly constant,  throughout the Year",
-      "The order of lines according to average values of Number of restaurants, in descending order is: 1. Company-owned, and lastly, 2. Franchised. ",
-      "The greatest difference of Number of restaurants between Company-owned and Franchised occurs at Year 2014 and the smallest difference occurs at 2013."
+      "Franchised reported the lowest Number of restaurants about 3.0 in Year 2015",
+      "The gap between the lines at Year 2015 is 241.0 ."
    ],
    "xAxis": "Year",
    "yAxis": "Number of restaurants",
-   "min_summary": [
-      "Overall Company-owned, and Franchised are roughly constant,  throughout the Year"
-   ],
-   "mid_summary": [
-      "Overall Company-owned, and Franchised are roughly constant,  throughout the Year"
-   ],
+   "min_summary": [],
+   "mid_summary": [],
    "max_summary": [
-      "Overall Company-owned, and Franchised are roughly constant,  throughout the Year",
-      "The difference of Number of restaurants between Company-owned and Franchised is roughly same at Year 2014 compared to the Year 2013."
+      "The minimum Number of restaurants about 3.0, occured at 2015 by Franchised.",
+      "The gap between the lines at Year 2015 is 241.0 ."
    ],
    "trends": [
-      {},
-      {
-         "2": [
-            "0",
-            "0"
-         ],
-         "16": [
-            "7",
-            "0"
-         ]
-      },
-      {
-         "1": [
-            "1",
-            "0"
-         ],
-         "9": [
-            "1",
-            "0"
-         ]
-      },
-      {
-         "2": [
-            "0",
-            "1"
-         ],
-         "15": [
-            "7",
-            "1"
-         ]
-      },
-      {
-         "1": [
-            "0",
-            "1"
-         ],
-         "10": [
-            "0",
-            "1"
-         ]
-      }
+      {}
    ],
    "data": [
       {

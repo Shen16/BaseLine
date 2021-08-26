@@ -10,64 +10,28 @@
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "Overall Ages 0-14, Ages 15-64, and Ages 65+ are roughly constant,  throughout the Year",
-      "The ranking of the lines from topmost to botommmost is as follows: 1. Ages 15-64, 2. Ages 65+, and lastly, 3. Ages 0-14. ",
-      "Ages 65+ reported the lowest SOME LABEL about 16.39 in Year 2012"
+      " In general SOME LABEL has rose over the Year.",
+      "SOME LABEL is slightly increasing from 2014 to 2017.",
+      "Maximum SOME LABEL, about 18.79 was reported at Year 2017",
+      "The lowest SOME LABEL, of value 17.44 was reported at Year 2014"
    ],
    "xAxis": "Year",
    "yAxis": "SOME LABEL",
    "min_summary": [
-      "Overall Ages 0-14, Ages 15-64, and Ages 65+ are roughly constant,  throughout the Year"
+      " In general SOME LABEL has rose over the Year."
    ],
    "mid_summary": [
-      "Overall Ages 0-14, Ages 15-64, and Ages 65+ are roughly constant,  throughout the Year"
+      " Overall SOME LABEL has increased over the Year.",
+      "SOME LABEL is slightly increasing from 2014 to 2017."
    ],
    "max_summary": [
-      "Overall Ages 0-14, Ages 15-64, and Ages 65+ are roughly constant,  throughout the Year",
-      "Ages 65+ reported the lowest SOME LABEL about 16.39 in Year 2012"
+      " In general SOME LABEL has rose over the Year.",
+      "SOME LABEL is slightly increasing from 2014 to 2017.",
+      "Maximum SOME LABEL, about 18.79 was reported at Year 2017",
+      "The lowest SOME LABEL, of value 17.44 was reported at Year 2014"
    ],
    "trends": [
-      {},
-      {
-         "2": [
-            "0",
-            "1"
-         ],
-         "16": [
-            "10",
-            "1"
-         ]
-      },
-      {
-         "1": [
-            "0",
-            "1"
-         ],
-         "9": [
-            "0",
-            "1"
-         ]
-      },
-      {
-         "2": [
-            "0",
-            "2"
-         ],
-         "15": [
-            "10",
-            "2"
-         ]
-      },
-      {
-         "1": [
-            "4",
-            "2"
-         ],
-         "10": [
-            "4",
-            "2"
-         ]
-      }
+      {}
    ],
    "data": [
       {

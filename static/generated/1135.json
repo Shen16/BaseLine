@@ -12,7 +12,7 @@
    ],
    "min_summary": [
       "This is a bar chart representing State in the x axis and Burglary rate per 100,000 inhabitants in the y axis. ",
-      "State New Mexico has the highest Burglary rate per 100,000 inhabitants and New Hampshire has the lowest Burglary rate per 100,000 inhabitants. "
+      "The Burglary rate per 100,000 inhabitants is highest at State New Mexico and lowest at State New Hampshire. "
    ],
    "mid_summary": [
       "This bar chart has 52 columns on the x axis representing State, and Burglary rate per 100,000 inhabitants in each State on the y axis. ",
@@ -20,11 +20,11 @@
       "State New Mexico has 5.64 times more Burglary rate per 100,000 inhabitants than State New Hampshire which is has the lowest. "
    ],
    "max_summary": [
-      "This is a bar chart representing State in the x axis and Burglary rate per 100,000 inhabitants in the y axis. ",
-      "The maximum Burglary rate per 100,000 inhabitants 767.8 is found at State New Mexico and the minimum is found at New Hampshire where State is 136.2. ",
-      "There is a difference of 631.6 between the maximum State New Mexico and minimum State New Hampshire. ",
-      "Burglary rate per 100,000 inhabitants at State New Mexico is 767.8 , second place is Mississippi at 697.8, and thirdly is Oklahoma at 681.1.",
-      "Considered together, the average Burglary rate per 100,000 inhabitants in all 52 States is roughly 380.94. "
+      "This is a bar chart. It shows Burglary rate per 100,000 inhabitants for 52 number of States. ",
+      "State New Mexico has the highest Burglary rate per 100,000 inhabitants and New Hampshire has the lowest Burglary rate per 100,000 inhabitants. ",
+      "The difference of Burglary rate per 100,000 inhabitants between the highest and lowest State is 631.6. ",
+      "The State New Mexico has the highest Burglary rate per 100,000 inhabitants, followed by Mississippi, and Oklahoma. Down to the State New Hampshire which is the lowest. ",
+      "The State New Mexico tends to be 2.02 percent higher than average. "
    ],
    "trends": [
       {},

@@ -6,27 +6,27 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 10 columns on the x axis representing Location, and Number of cores in each Location on the y axis. ",
-      "The Number of cores is highest at Location Sunway TaihuLight  China and lowest at Location Lassen United States. ",
-      "There is a difference of 10361312.0 between the maximum Location Sunway TaihuLight  China and minimum Location Lassen United States. "
+      "This is a bar chart. It shows Number of cores for 10 number of Locations. ",
+      "Location Sunway TaihuLight  China has the highest Number of cores and Lassen United States has the lowest Number of cores. ",
+      "The minimum Location Lassen United States has got 36.94 times less Number of cores than the maximum Location Sunway TaihuLight  China. "
    ],
    "min_summary": [
-      "This bar chart has 10 columns on the x axis representing Location, and Number of cores in each Location on the y axis. ",
-      "The Number of cores is highest at Location Sunway TaihuLight  China and lowest at Location Lassen United States. "
+      "This is a bar chart representing Location in the x axis and Number of cores in the y axis. ",
+      "The Number of cores is appeared to be the highest at Location Sunway TaihuLight  China and lowest at Location Lassen United States. "
    ],
    "mid_summary": [
-      "This bar chart has 10 columns on the x axis representing Location, and Number of cores in each Location on the y axis. ",
-      "The Number of cores is highest at Location Sunway TaihuLight  China and lowest at Location Lassen United States. ",
-      "There is a difference of 10361312.0 between the maximum Location Sunway TaihuLight  China and minimum Location Lassen United States. "
+      "This is a bar chart. It shows Number of cores for 10 number of Locations. ",
+      "Location Sunway TaihuLight  China has the highest Number of cores and Lassen United States has the lowest Number of cores. ",
+      "The minimum Location Lassen United States has got 36.94 times less Number of cores than the maximum Location Sunway TaihuLight  China. "
    ],
    "max_summary": [
-      "This bar chart has 10 columns on the x axis representing Location, and Number of cores in each Location on the y axis. ",
-      "The Number of cores is appeared to be the highest at Location Sunway TaihuLight  China and lowest at Location Lassen United States. ",
-      "Second maximum Number of cores is found at Location Tianhe-2A China. ",
-      "The highest value at Location Sunway TaihuLight  China is 36.94x times more than the lowest value at Lassen United States. ",
-      "Location Sunway TaihuLight  China is higher than any other Locations with value 10649600.0, followed by Tianhe-2A China, and Summit United States. Down to Location Lassen United States with the lowest value 288288.0. ",
+      "This is a bar chart. It shows Number of cores for 10 number of Locations. ",
+      "The Number of cores is highest at Location Sunway TaihuLight  China and lowest at Location Lassen United States. ",
+      "The second highest Number of cores is appeared to be the Location Tianhe-2A China. ",
+      "The highest Location Sunway TaihuLight  China has 10361312.0 more Number of cores than the lowest Location Lassen United States. ",
+      "Number of cores at Location Sunway TaihuLight  China is 10649600.0 , second place is Tianhe-2A China at 4981760.0, and thirdly is Summit United States at 2414592.0.",
       "The Location Lassen United States has 4.75 times less Number of cores than average. ",
-      "The Number of cores is 22419648.0 if we add up values of all Locations. "
+      "Summing up the values of all Locations, we get total 22419648.0. "
    ],
    "trends": [
       {},

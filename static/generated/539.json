@@ -8,67 +8,14 @@
    "columnType": "multi",
    "graphType": "line",
    "summaryType": "baseline",
-   "summary": [
-      "Overall United States is gradually decreasing, Canada is roughly constant,  throughout the Year",
-      "The order of lines according to average values of Rate of himicide per 100 thousand residents, in descending order is: 1. United States, and lastly, 2. Canada. ",
-      "The minimum Rate of himicide per 100 thousand residents about 1.56, occured at 2012 by Canada.",
-      "The greatest difference of Rate of himicide per 100 thousand residents between Canada and United States occurs at Year 2007 and the smallest difference occurs at 2011."
-   ],
+   "summary": [],
    "xAxis": "Year",
    "yAxis": "Rate of himicide per 100 thousand residents",
-   "min_summary": [
-      "Overall United States is gradually decreasing, Canada is roughly constant,  throughout the Year"
-   ],
-   "mid_summary": [
-      "Overall United States is gradually decreasing, Canada is roughly constant,  throughout the Year"
-   ],
-   "max_summary": [
-      "Overall United States is gradually decreasing, Canada is roughly constant,  throughout the Year",
-      "The minimum Rate of himicide per 100 thousand residents about 1.56, occured at 2012 by Canada.",
-      "The greatest difference of Rate of himicide per 100 thousand residents between Canada and United States occurs at Year 2007 and the smallest difference occurs at 2011."
-   ],
+   "min_summary": [],
+   "mid_summary": [],
+   "max_summary": [],
    "trends": [
-      {},
-      {
-         "2": [
-            "0",
-            "1"
-         ],
-         "16": [
-            "18",
-            "1"
-         ]
-      },
-      {
-         "1": [
-            "6",
-            "1"
-         ],
-         "9": [
-            "6",
-            "1"
-         ]
-      },
-      {
-         "2": [
-            "0",
-            "0"
-         ],
-         "15": [
-            "18",
-            "0"
-         ]
-      },
-      {
-         "1": [
-            "4",
-            "0"
-         ],
-         "10": [
-            "4",
-            "0"
-         ]
-      }
+      {}
    ],
    "data": [
       {

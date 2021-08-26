@@ -10,62 +10,28 @@
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "Overall Beer, Soft drink, and Hot dog are gradually decreasing,  throughout the Year",
-      "The ranking of the lines from topmost to botommmost is as follows: 1. Beer, 2. Hot dog, and lastly, 3. Soft drink. "
+      " Overall SOME LABEL has decreased over the Year.",
+      "SOME LABEL is roughly constant from 2013/14 to 2014/15, and finally slightly decreasing from 2014/15 to 2015/16.",
+      "Maximum SOME LABEL, about 6.0 was reported at Year 2013/14, and 2014/15",
+      "The lowest SOME LABEL, of value 5.0 was reported at Year 2015/16"
    ],
    "xAxis": "Year",
    "yAxis": "SOME LABEL",
    "min_summary": [
-      "Overall Beer, Soft drink, and Hot dog are gradually decreasing,  throughout the Year"
+      " Overall SOME LABEL has decreased over the Year."
    ],
    "mid_summary": [
-      "Overall Beer, Soft drink, and Hot dog are gradually decreasing,  throughout the Year"
+      " In general SOME LABEL has fallen over the Year.",
+      "SOME LABEL is roughly constant from 2013/14 to 2014/15, and finally slightly decreasing from 2014/15 to 2015/16."
    ],
    "max_summary": [
-      "Overall Beer, Soft drink, and Hot dog are gradually decreasing,  throughout the Year"
+      " Overall SOME LABEL has decreased over the Year.",
+      "SOME LABEL is roughly constant from 2013/14 to 2014/15, and finally slightly decreasing from 2014/15 to 2015/16.",
+      "Maximum SOME LABEL, about 6.0 was reported at Year 2013/14, and 2014/15",
+      "The lowest SOME LABEL, of value 5.0 was reported at Year 2015/16"
    ],
    "trends": [
-      {},
-      {
-         "2": [
-            "0",
-            "0"
-         ],
-         "16": [
-            "5",
-            "0"
-         ]
-      },
-      {
-         "1": [
-            "0",
-            "0"
-         ],
-         "9": [
-            "0",
-            "0"
-         ]
-      },
-      {
-         "2": [
-            "0",
-            "2"
-         ],
-         "15": [
-            "5",
-            "2"
-         ]
-      },
-      {
-         "1": [
-            "0",
-            "2"
-         ],
-         "10": [
-            "0",
-            "2"
-         ]
-      }
+      {}
    ],
    "data": [
       {

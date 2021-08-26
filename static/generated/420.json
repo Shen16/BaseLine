@@ -10,29 +10,29 @@
    "summaryType": "baseline",
    "summary": [
       "This grouped bar chart shows Number of incidents on the Y-axis for 50 different States for 2 groups Number of fires, and Number of acres burned that are presented on the X-axis. ",
-      " In State Alaska, Number of acres burned had the highest Number of incidents 2498159.0 among the 2 groups and in Delaware, Number of fires had the lowest Number of incidents 0.0. ",
-      " In State Alaska, Number of acres burned had the maximum Number of incidents and it saw the lowest in State Delaware out of all 50 States. ",
+      " State Alaska had the maximum Number of incidents among all 2 groups, and it was for Number of acres burned. The minimum Number of incidents was observed in State Delaware for Number of fires. ",
+      " In State Alaska, Number of acres burned had the highest Number of incidents among all 50 States and it has the lowest Number of incidents in State Delaware. ",
       "State Alaska and Delaware had the biggest gap of 2498159.0 between the highest and lowest Number of incidents found for Number of acres burned. "
    ],
    "xAxis": "State",
    "yAxis": "Number of incidents",
    "min_summary": [
       "This grouped bar chart shows Number of incidents on the Y-axis for 50 different States for 2 groups Number of fires, and Number of acres burned that are presented on the X-axis. ",
-      " State Alaska had the maximum Number of incidents among all 2 groups, and it was for Number of acres burned. The minimum Number of incidents was observed in State Delaware for Number of fires. "
+      " Out of all 2 groups, Number of acres burned had the highest Number of incidents in State Alaska and Number of fires had the lowest Number of incidents in State Delaware. "
    ],
    "mid_summary": [
       "This grouped bar chart shows Number of incidents on the Y-axis for 50 different States for 2 groups Number of fires, and Number of acres burned that are presented on the X-axis. ",
-      " In State Alaska, Number of acres burned had the highest Number of incidents 2498159.0 among the 2 groups and in Delaware, Number of fires had the lowest Number of incidents 0.0. ",
-      " In State Alaska, Number of acres burned had the maximum Number of incidents and it saw the lowest in State Delaware out of all 50 States. ",
+      " State Alaska had the maximum Number of incidents among all 2 groups, and it was for Number of acres burned. The minimum Number of incidents was observed in State Delaware for Number of fires. ",
+      " In State Alaska, Number of acres burned had the highest Number of incidents among all 50 States and it has the lowest Number of incidents in State Delaware. ",
       "State Alaska and Delaware had the biggest gap of 2498159.0 between the highest and lowest Number of incidents found for Number of acres burned. "
    ],
    "max_summary": [
-      "This grouped bar chart represents 50 different States on X-axis for 2 groups Number of fires, and Number of acres burned. On the Y-axis it shows their corresponding Number of incidents. ",
-      " State Alaska had the maximum Number of incidents among all 2 groups, and it was for Number of acres burned. The minimum Number of incidents was observed in State Delaware for Number of fires. ",
-      " In State Alaska, Number of acres burned had the highest Number of incidents among all 50 States and it has the lowest Number of incidents in State Delaware. ",
+      "This grouped bar chart shows Number of incidents on the Y-axis for 50 different States for 2 groups Number of fires, and Number of acres burned that are presented on the X-axis. ",
+      " In State Alaska, Number of acres burned had the highest Number of incidents 2498159.0 among the 2 groups and in Delaware, Number of fires had the lowest Number of incidents 0.0. ",
+      " In State Alaska, Number of acres burned had the maximum Number of incidents and it saw the lowest in State Delaware out of all 50 States. ",
       " There is a gap of 2498159.0 between the highest and lowest Number of incidents found for Number of acres burned in State Alaska and Delaware. ",
-      " Among all 2 groups, Number of fires had the gap of 8194.0 between the maximum and minimum Number of incidents observed in State California and Delaware respectively. ",
-      "Averaging all 2 groups Number of fires, and Number of acres burned, the State Alaska is the maximum Number of incidents and Delaware is the minimum Number of incidents. "
+      " Out of all 2 groups, the highest gap between the maximum and minimum Number of incidents was found in case of Number of fires. ",
+      "On average, the State Alaska had the highest Number of incidents for all 2 groups Number of fires, and Number of acres burned. Whereas Delaware had the lowest average Number of incidents. "
    ],
    "trends": [
       {},

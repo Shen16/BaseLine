@@ -6,29 +6,28 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This is a bar chart. It shows Number of establishments for 13 number of Months. ",
+      "This is a bar chart representing Month in the x axis and Number of establishments in the y axis. ",
       "Month Ontario has the highest Number of establishments and Yukon has the lowest Number of establishments. ",
       "There is a difference of 491.0 between the maximum Month Ontario and minimum Month Yukon. "
    ],
    "min_summary": [
-      "This bar chart has 13 columns on the x axis representing Month, and Number of establishments in each Month on the y axis. ",
-      "The maximum Number of establishments 492.0 is found at Month Ontario and the minimum is found at Yukon where Month is 1.0. "
+      "This is a bar chart representing Month in the x axis and Number of establishments in the y axis. ",
+      "The Number of establishments is appeared to be the highest at Month Ontario and lowest at Month Yukon. "
    ],
    "mid_summary": [
-      "This is a bar chart. It shows Number of establishments for 13 number of Months. ",
+      "This is a bar chart representing Month in the x axis and Number of establishments in the y axis. ",
       "Month Ontario has the highest Number of establishments and Yukon has the lowest Number of establishments. ",
       "There is a difference of 491.0 between the maximum Month Ontario and minimum Month Yukon. "
    ],
    "max_summary": [
       "This is a bar chart representing Month in the x axis and Number of establishments in the y axis. ",
-      "The Number of establishments is highest at Month Ontario and lowest at Month Yukon. ",
-      "The second highest Number of establishments is appeared to be the Month Quebec. ",
-      "The difference of Number of establishments between the highest and lowest Month is 491.0. ",
+      "The Number of establishments is appeared to be the highest at Month Ontario and lowest at Month Yukon. ",
+      "Second maximum Number of establishments is found at Month Quebec. ",
+      "The Number of establishments of Month Yukon is 492.0% smaller than the maximum value at Ontario. ",
       "Number of establishments at Month Ontario is 492.0 , second place is Quebec at 267.0, and thirdly is British Columbia at 206.0.",
-      "The Number of establishments has lowered over the past 13 Months. ",
-      "Similar Number of establishments is found in Month Northwest Territories, and Nunavut. ",
-      "The Month Yukon has 4.36 times less Number of establishments than average. ",
-      "Summing up the values of all Months, we get total 1466.0. "
+      "Over the past 13 Months, the Number of establishments has lowered. ",
+      "Month Northwest Territories, and Nunavut have a similar Number of establishments that is 19.0. ",
+      "The Month Yukon has 4.36 times less Number of establishments than average. "
    ],
    "trends": [
       {},

@@ -9,64 +9,24 @@
    "graphType": "line",
    "summaryType": "baseline",
    "summary": [
-      "Overall Men, and Women are gradually decreasing,  throughout the Year",
-      "The order of lines according to average values of Number of suicides in per 100 thousands, in descending order is: 1. Men, and lastly, 2. Women. ",
-      "The difference of Number of suicides in per 100 thousands between Men and Women is smaller at Year 75_years_and_older compared to the Year 15-44_years."
+      "Overall Men, and Women are gradually increasing,  throughout the Year",
+      "The ranking of the lines from topmost to botommmost is as follows: 1. Men, and lastly, 2. Women. ",
+      "The difference of Number of suicides in per 100 thousands between Men and Women is greater at Year 75_years_and_older compared to the Year 1-14_years."
    ],
    "xAxis": "Year",
    "yAxis": "Number of suicides in per 100 thousands",
    "min_summary": [
-      "Overall Men, and Women are gradually decreasing,  throughout the Year"
+      "Overall Men, and Women are gradually increasing,  throughout the Year"
    ],
    "mid_summary": [
-      "Overall Men, and Women are gradually decreasing,  throughout the Year"
+      "Overall Men, and Women are gradually increasing,  throughout the Year"
    ],
    "max_summary": [
-      "Overall Men, and Women are gradually decreasing,  throughout the Year",
-      "The difference of Number of suicides in per 100 thousands between Men and Women is smaller at Year 75_years_and_older compared to the Year 15-44_years."
+      "Overall Men, and Women are gradually increasing,  throughout the Year",
+      "The greatest difference of Number of suicides in per 100 thousands between Men and Women occurs at Year 15-44_years and the smallest difference occurs at 1-14_years."
    ],
    "trends": [
-      {},
-      {
-         "2": [
-            "0",
-            "0"
-         ],
-         "16": [
-            "4",
-            "0"
-         ]
-      },
-      {
-         "1": [
-            "0",
-            "0"
-         ],
-         "9": [
-            "0",
-            "0"
-         ]
-      },
-      {
-         "2": [
-            "0",
-            "1"
-         ],
-         "15": [
-            "4",
-            "1"
-         ]
-      },
-      {
-         "1": [
-            "0",
-            "1"
-         ],
-         "10": [
-            "0",
-            "1"
-         ]
-      }
+      {}
    ],
    "data": [
       {

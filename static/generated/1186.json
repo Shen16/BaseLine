@@ -6,27 +6,26 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This is a bar chart. It shows Number of live births for 30 number of Years 1931-1960s. ",
+      "This bar chart has 30 columns on the x axis representing Years 1931-1960, and Number of live births in each Years 1931-1960 on the y axis. ",
       "The Number of live births is highest at Years 1931-1960 '47 and lowest at Years 1931-1960 '33. ",
-      "There is a difference of 333867.0 between the maximum Years 1931-1960 '47 and minimum Years 1931-1960 '33. "
+      "The difference of Number of live births between the highest and lowest Years 1931-1960 is 333867.0. "
    ],
    "min_summary": [
       "This is a bar chart representing Years 1931-1960 in the x axis and Number of live births in the y axis. ",
-      "The Number of live births is appeared to be the highest at Years 1931-1960 '47 and lowest at Years 1931-1960 '33. "
+      "Years 1931-1960 '47 has the highest Number of live births and '33 has the lowest Number of live births. "
    ],
    "mid_summary": [
-      "This is a bar chart. It shows Number of live births for 30 number of Years 1931-1960s. ",
+      "This bar chart has 30 columns on the x axis representing Years 1931-1960, and Number of live births in each Years 1931-1960 on the y axis. ",
       "The Number of live births is highest at Years 1931-1960 '47 and lowest at Years 1931-1960 '33. ",
-      "There is a difference of 333867.0 between the maximum Years 1931-1960 '47 and minimum Years 1931-1960 '33. "
+      "The difference of Number of live births between the highest and lowest Years 1931-1960 is 333867.0. "
    ],
    "max_summary": [
-      "This is a bar chart. It shows Number of live births for 30 number of Years 1931-1960s. ",
+      "This is a bar chart representing Years 1931-1960 in the x axis and Number of live births in the y axis. ",
       "The Number of live births is appeared to be the highest at Years 1931-1960 '47 and lowest at Years 1931-1960 '33. ",
       "Years 1931-1960 '46 has the second highest value for Number of live births. ",
-      "The highest value at Years 1931-1960 '47 is 1.48x times more than the lowest value at '33. ",
-      "Years 1931-1960 '47 is higher than any other Years 1931-1960s with value 1025427.0, followed by '46, and '60. Down to Years 1931-1960 '33 with the lowest value 691560.0. ",
-      "The Years 1931-1960 '33 tends to be 1.28 percent lower than average. ",
-      "The Number of live births is 24036593.0 if we add up values of all Years 1931-1960s. "
+      "The difference of Number of live births between the highest and lowest Years 1931-1960 is 333867.0. ",
+      "The Years 1931-1960 '47 has the highest Number of live births, followed by '46, and '60. Down to the Years 1931-1960 '33 which is the lowest. ",
+      "The Years 1931-1960 '33 has 1.28 times less Number of live births than average. "
    ],
    "trends": [
       {},

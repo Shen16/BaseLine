@@ -8,25 +8,24 @@
    "summary": [
       "This bar chart has 6 columns on the x axis representing Diseases, and Number of deaths per day in each Diseases on the y axis. ",
       "The Number of deaths per day is highest at Diseases HIV/AIDS and lowest at Diseases Ebola. ",
-      "The difference of Number of deaths per day between the highest and lowest Diseases is 681.0. "
+      "The highest Diseases HIV/AIDS has 681.0 more Number of deaths per day than the lowest Diseases Ebola. "
    ],
    "min_summary": [
-      "This is a bar chart representing Diseases in the x axis and Number of deaths per day in the y axis. ",
-      "The maximum Number of deaths per day 685.0 is found at Diseases HIV/AIDS and the minimum is found at Ebola where Diseases is 4.0. "
+      "This bar chart has 6 columns on the x axis representing Diseases, and Number of deaths per day in each Diseases on the y axis. ",
+      "The Number of deaths per day is appeared to be the highest at Diseases HIV/AIDS and lowest at Diseases Ebola. "
    ],
    "mid_summary": [
       "This bar chart has 6 columns on the x axis representing Diseases, and Number of deaths per day in each Diseases on the y axis. ",
       "The Number of deaths per day is highest at Diseases HIV/AIDS and lowest at Diseases Ebola. ",
-      "The difference of Number of deaths per day between the highest and lowest Diseases is 681.0. "
+      "The highest Diseases HIV/AIDS has 681.0 more Number of deaths per day than the lowest Diseases Ebola. "
    ],
    "max_summary": [
-      "This is a bar chart. It shows Number of deaths per day for 6 number of Diseasess. ",
-      "The Number of deaths per day is appeared to be the highest at Diseases HIV/AIDS and lowest at Diseases Ebola. ",
-      "Second maximum Number of deaths per day is found at Diseases Malaria. ",
-      "The minimum Diseases Ebola has got 171.25 times less Number of deaths per day than the maximum Diseases HIV/AIDS. ",
-      "Diseases HIV/AIDS is higher than any other Diseasess with value 685.0, followed by Malaria, and Diarrhoea. Down to Diseases Ebola with the lowest value 4.0. ",
-      "The Diseases HIV/AIDS has 2.32 times more Number of deaths per day than average. ",
-      "The Number of deaths per day is 1769.0 if we add up values of all Diseasess. "
+      "This bar chart has 6 columns on the x axis representing Diseases, and Number of deaths per day in each Diseases on the y axis. ",
+      "The Number of deaths per day is highest at Diseases HIV/AIDS and lowest at Diseases Ebola. ",
+      "The second highest Number of deaths per day is appeared to be the Diseases Malaria. ",
+      "There is a difference of 681.0 between the maximum Diseases HIV/AIDS and minimum Diseases Ebola. ",
+      "Number of deaths per day at Diseases HIV/AIDS is 685.0 , second place is Malaria at 552.0, and thirdly is Diarrhoea at 404.0.",
+      "The Diseases HIV/AIDS has 2.32 times more Number of deaths per day than average. "
    ],
    "trends": [
       {},

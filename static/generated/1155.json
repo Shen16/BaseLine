@@ -6,23 +6,24 @@
    "graphType": "bar",
    "summaryType": "baseline",
    "summary": [
-      "This bar chart has 15 columns on the x axis representing Exporting nation, and Export value in billion U.S. dollars in each Exporting nation on the y axis. ",
-      "The Export value in billion U.S. dollars is highest at Exporting nation China and lowest at Exporting nation Kingdom of Saudi Arabia. ",
+      "This is a bar chart. It shows Export value in billion U.S. dollars for 15 number of Exporting nations. ",
+      "The maximum Export value in billion U.S. dollars 2487.0 is found at Exporting nation China and the minimum is found at Kingdom of Saudi Arabia where Exporting nation is 299.0. ",
       "There is a difference of 2188.0 between the maximum Exporting nation China and minimum Exporting nation Kingdom of Saudi Arabia. "
    ],
    "min_summary": [
-      "This is a bar chart. It shows Export value in billion U.S. dollars for 15 number of Exporting nations. ",
-      "The Export value in billion U.S. dollars is appeared to be the highest at Exporting nation China and lowest at Exporting nation Kingdom of Saudi Arabia. "
+      "This is a bar chart representing Exporting nation in the x axis and Export value in billion U.S. dollars in the y axis. ",
+      "Exporting nation China has the highest Export value in billion U.S. dollars and Kingdom of Saudi Arabia has the lowest Export value in billion U.S. dollars. "
    ],
    "mid_summary": [
-      "This bar chart has 15 columns on the x axis representing Exporting nation, and Export value in billion U.S. dollars in each Exporting nation on the y axis. ",
-      "The Export value in billion U.S. dollars is highest at Exporting nation China and lowest at Exporting nation Kingdom of Saudi Arabia. ",
+      "This is a bar chart. It shows Export value in billion U.S. dollars for 15 number of Exporting nations. ",
+      "The maximum Export value in billion U.S. dollars 2487.0 is found at Exporting nation China and the minimum is found at Kingdom of Saudi Arabia where Exporting nation is 299.0. ",
       "There is a difference of 2188.0 between the maximum Exporting nation China and minimum Exporting nation Kingdom of Saudi Arabia. "
    ],
    "max_summary": [
       "This is a bar chart. It shows Export value in billion U.S. dollars for 15 number of Exporting nations. ",
       "The Export value in billion U.S. dollars is highest at Exporting nation China and lowest at Exporting nation Kingdom of Saudi Arabia. ",
-      "The lowest value at Exporting nation Kingdom of Saudi Arabia is 8.32x times less than the highest value at China. ",
+      "Exporting nation Extra-EU (28) has the second highest value for Export value in billion U.S. dollars. ",
+      "The minimum Exporting nation Kingdom of Saudi Arabia has got 8.32 times less Export value in billion U.S. dollars than the maximum Exporting nation China. ",
       "Export value in billion U.S. dollars at Exporting nation China is 2487.0 , second place is Extra-EU (28) at 2309.0, and thirdly is United States at 1664.0.",
       "The Exporting nation Kingdom of Saudi Arabia has 3.18 times less Export value in billion U.S. dollars than average. "
    ],
